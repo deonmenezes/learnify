@@ -88,8 +88,21 @@
   article.card {
     background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius);
     padding: 16px 18px; transition: .14s; position: relative;
+    display: flex; gap: 16px; align-items: stretch;
   }
   article.card:hover { border-color: #2f3e52; transform: translateY(-1px); background: var(--panel-2); }
+  .card .media {
+    flex: 0 0 196px; display: block; border-radius: 9px; overflow: hidden;
+    background: var(--panel-2); border: 1px solid var(--line); align-self: stretch; min-height: 116px;
+  }
+  .card .media img { width: 100%; height: 100%; min-height: 116px; max-height: 156px; object-fit: cover; display: block; transition: transform .25s; }
+  .card .media:hover img { transform: scale(1.04); }
+  .card .body { flex: 1 1 auto; min-width: 0; }
+  @media (max-width: 560px) {
+    article.card { flex-direction: column; }
+    .card .media { flex-basis: auto; }
+    .card .media img { max-height: 220px; }
+  }
   .card .sec { font-family: var(--mono); font-size: 11px; color: var(--accent-2); letter-spacing: .5px; }
   .card h3 { margin: 6px 0 8px; font-size: 17.5px; line-height: 1.32; }
   .card h3 a:hover { color: var(--accent); }
@@ -169,6 +182,12 @@ function fmtDate(iso) {
 function escapeHtml(s) {
   return (s || "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 }
+// TechCrunch images run through Jetpack/Photon — ask for a card-sized crop so
+// we ship ~30KB thumbnails instead of full-res originals.
+function thumb(url) {
+  if (!url) return url;
+  return url + (url.includes("?") ? "&" : "?") + "w=420&h=260&crop=1";
+}
 function highlight(text, q) {
   const safe = escapeHtml(text);
   if (!q) return safe;
@@ -229,12 +248,17 @@ function render() {
   $("state").style.display = "none";
   $("cards").innerHTML = list.map((a) => `
     <article class="card">
-      <div class="sec">${escapeHtml(a.section || "TechCrunch")}</div>
-      <h3><a href="${escapeHtml(a.link)}" target="_blank" rel="noopener">${highlight(a.title, q)}</a></h3>
-      <div class="byline">${a.author ? escapeHtml(a.author) : "TechCrunch"}<span class="sep">·</span>${fmtDate(a.published) || "—"}</div>
-      ${a.summary ? `<p>${highlight(a.summary, q)}</p>` : ""}
-      <div class="tags">${(a.categories || []).slice(0, 8).map((c) =>
-        `<span class="tag" data-kw="${escapeHtml(c)}">${escapeHtml(c)}</span>`).join("")}</div>
+      ${a.image ? `<a class="media" href="${escapeHtml(a.link)}" target="_blank" rel="noopener">
+        <img loading="lazy" alt="" src="${escapeHtml(thumb(a.image))}" onerror="this.closest('.media').remove()" />
+      </a>` : ""}
+      <div class="body">
+        <div class="sec">${escapeHtml(a.section || "TechCrunch")}</div>
+        <h3><a href="${escapeHtml(a.link)}" target="_blank" rel="noopener">${highlight(a.title, q)}</a></h3>
+        <div class="byline">${a.author ? escapeHtml(a.author) : "TechCrunch"}<span class="sep">·</span>${fmtDate(a.published) || "—"}</div>
+        ${a.summary ? `<p>${highlight(a.summary, q)}</p>` : ""}
+        <div class="tags">${(a.categories || []).slice(0, 8).map((c) =>
+          `<span class="tag" data-kw="${escapeHtml(c)}">${escapeHtml(c)}</span>`).join("")}</div>
+      </div>
     </article>`).join("");
 
   $("cards").querySelectorAll(".tag").forEach((el) => {
@@ -267,7 +291,8 @@ async function load() {
   state.all = data.articles;
   $("src").textContent = data.source || "TechCrunch RSS";
   $("genat").textContent = "updated: " + (fmtDate(data.generated_at) || "—");
-  $("total").textContent = `${state.all.length} articles cached`;
+  const imgN = data.with_images ?? state.all.filter((a) => a.image).length;
+  $("total").textContent = `${state.all.length} articles · ${imgN} with images`;
   buildKeywords();
   render();
 }

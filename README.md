@@ -1,19 +1,30 @@
 # techscrolldatacach / techcrunch-articles-listing-by-keyword
 
-Latest **TechCrunch** articles, scraped from the public RSS feeds and made
+Latest **TechCrunch** articles — **with images** — scraped locally and made
 browsable **by keyword**. Type a keyword (e.g. `AI`, `funding`, `security`) or
-click any tag to filter; headlines link back to the original article.
+click any tag to filter; thumbnails and headlines link back to the original
+article.
 
-## How it works
+## How it works — a local scraper, no Apify / no hosted service
 
-- **`index.html`** — single-file static front end. Client-side keyword search,
-  tag filtering, and a top-keywords cloud. No build step.
-- **`api/articles.js`** — Vercel Serverless Function that fetches TechCrunch's
-  RSS feeds server-side (no CORS), parses them dependency-free, dedupes by URL,
-  and returns JSON. Edge-cached for 10 min so the page stays fresh and live.
-- **`articles.json`** — a pre-scraped snapshot bundled into the repo so the site
-  works instantly even before the function runs (and as an offline fallback).
-- **`scrape.py`** — regenerates the snapshot from the same feeds (stdlib only).
+Both the local scraper and the live function pull straight from **TechCrunch's
+own WordPress REST API** (`/wp-json/wp/v2/posts`), queried with `_fields` so
+each post is ~8 KB and arrives **with its featured image**, keyword slugs,
+author and excerpt already attached. No third-party scraping platform, no
+per-article HTML scraping, and images come free in the payload. If the REST API
+is ever unreachable it transparently falls back to parsing the public RSS feeds
+(no images in that mode).
+
+- **`index.html`** — single-file static front end. Lazy-loaded thumbnails,
+  client-side keyword search, tag filtering, and a top-keywords cloud. No build
+  step. Thumbnails are served at a card-sized crop via the image CDN (~30 KB).
+- **`api/articles.js`** — Vercel Serverless Function: WP REST API → JSON (with
+  images), deduped and newest-first. Edge-cached for 10 min so the page stays
+  fresh and live. RSS fallback built in.
+- **`scrape.py`** — local scraper (stdlib only). Pages through the WP REST API
+  and writes `articles.json`. RSS fallback built in.
+- **`articles.json`** — a pre-scraped snapshot (200 articles, all with images)
+  bundled into the repo so the site works instantly and offline.
 
 The page calls `/api/articles` first for live data and falls back to the bundled
 `articles.json` snapshot.
@@ -21,10 +32,11 @@ The page calls `/api/articles` first for live data and falls back to the bundled
 ## Run locally
 
 ```bash
-python3 scrape.py        # refresh articles.json from TechCrunch
-python3 -m http.server   # serve at http://localhost:8000  (snapshot only)
+python3 scrape.py            # refresh articles.json (newest ~200, with images)
+python3 scrape.py --pages 4  # newest ~400 articles
+python3 -m http.server       # serve at http://localhost:8000  (snapshot only)
 # or, for the live API:
-vercel dev               # http://localhost:3000  (with /api/articles)
+vercel dev                   # http://localhost:3000  (with /api/articles)
 ```
 
 ## Deploy
@@ -37,6 +49,7 @@ vercel --prod
 
 ## Attribution
 
-All article content and the TechCrunch name are property of
-[TechCrunch](https://techcrunch.com). This project only indexes public RSS
-headlines/summaries and links back to the source.
+All article content, images and the TechCrunch name are property of
+[TechCrunch](https://techcrunch.com). This project only indexes public
+headlines/summaries/thumbnails from TechCrunch's own public API and links back
+to the source.
