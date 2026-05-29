@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>TechScrollDataCach — TechCrunch articles, listed by keyword</title>
+<meta name="description" content="Latest TechCrunch articles, scraped and browsable by keyword." />
+<style>
+  :root {
+    --bg: #0a0d12;
+    --panel: #11161d;
+    --panel-2: #161c25;
+    --line: #222b38;
+    --txt: #e6edf3;
+    --mut: #8a97a6;
+    --accent: #00d977;
+    --accent-2: #36c5ff;
+    --chip: #1b2430;
+    --chip-on: #04341f;
+    --radius: 12px;
+    --mono: ui-monospace, "SF Mono", "JetBrains Mono", Menlo, Consolas, monospace;
+    --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; background: var(--bg); color: var(--txt); font-family: var(--sans); }
+  a { color: inherit; text-decoration: none; }
+
+  header {
+    position: sticky; top: 0; z-index: 20;
+    background: linear-gradient(180deg, rgba(10,13,18,.97), rgba(10,13,18,.86));
+    backdrop-filter: blur(8px);
+    border-bottom: 1px solid var(--line);
+    padding: 16px 20px 14px;
+  }
+  .brand { display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; }
+  .brand h1 {
+    font-family: var(--mono); font-size: 19px; margin: 0; letter-spacing: -.4px;
+  }
+  .brand h1 b { color: var(--accent); }
+  .brand .slash { color: var(--mut); }
+  .brand .sub { color: var(--mut); font-size: 12.5px; font-family: var(--mono); }
+  .meta-row { display: flex; gap: 14px; flex-wrap: wrap; color: var(--mut); font-size: 12px; font-family: var(--mono); margin-top: 6px; }
+  .dot { color: var(--accent); }
+
+  .controls { display: flex; gap: 10px; margin-top: 14px; flex-wrap: wrap; align-items: center; }
+  .search {
+    flex: 1 1 320px; display: flex; align-items: center; gap: 10px;
+    background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius);
+    padding: 10px 14px;
+  }
+  .search:focus-within { border-color: var(--accent); box-shadow: 0 0 0 3px rgba(0,217,119,.12); }
+  .search svg { flex: 0 0 auto; opacity: .7; }
+  .search input {
+    flex: 1; background: none; border: none; outline: none; color: var(--txt);
+    font-size: 15px; font-family: var(--sans);
+  }
+  .search input::placeholder { color: var(--mut); }
+  select {
+    background: var(--panel); color: var(--txt); border: 1px solid var(--line);
+    border-radius: var(--radius); padding: 10px 12px; font-size: 13px; font-family: var(--mono);
+    outline: none; cursor: pointer;
+  }
+  .clear-btn {
+    background: var(--panel); border: 1px solid var(--line); color: var(--mut);
+    border-radius: var(--radius); padding: 10px 14px; cursor: pointer; font-size: 13px; font-family: var(--mono);
+  }
+  .clear-btn:hover { color: var(--txt); border-color: var(--accent); }
+
+  main { max-width: 1180px; margin: 0 auto; padding: 22px 20px 80px; display: grid; grid-template-columns: 248px 1fr; gap: 26px; }
+  @media (max-width: 860px) { main { grid-template-columns: 1fr; } aside { order: 2; } }
+
+  aside h2 { font-size: 12px; text-transform: uppercase; letter-spacing: 1px; color: var(--mut); margin: 0 0 12px; font-family: var(--mono); }
+  .keywords { display: flex; flex-wrap: wrap; gap: 7px; }
+  .kw {
+    font-family: var(--mono); font-size: 12px; cursor: pointer; user-select: none;
+    background: var(--chip); border: 1px solid var(--line); color: var(--mut);
+    padding: 5px 10px; border-radius: 999px; transition: .12s;
+  }
+  .kw:hover { color: var(--txt); border-color: var(--accent-2); }
+  .kw.on { background: var(--chip-on); border-color: var(--accent); color: var(--accent); }
+  .kw .n { opacity: .6; margin-left: 5px; }
+
+  .results-head { display: flex; align-items: baseline; justify-content: space-between; margin-bottom: 14px; }
+  .results-head .count { font-family: var(--mono); font-size: 13px; color: var(--mut); }
+  .results-head .count b { color: var(--txt); }
+
+  .cards { display: grid; gap: 14px; }
+  article.card {
+    background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius);
+    padding: 16px 18px; transition: .14s; position: relative;
+  }
+  article.card:hover { border-color: #2f3e52; transform: translateY(-1px); background: var(--panel-2); }
+  .card .sec { font-family: var(--mono); font-size: 11px; color: var(--accent-2); letter-spacing: .5px; }
+  .card h3 { margin: 6px 0 8px; font-size: 17.5px; line-height: 1.32; }
+  .card h3 a:hover { color: var(--accent); }
+  .card .byline { font-family: var(--mono); font-size: 12px; color: var(--mut); margin-bottom: 9px; }
+  .card .byline .sep { opacity: .4; margin: 0 7px; }
+  .card p { margin: 0 0 12px; color: #c2ccd6; font-size: 14px; line-height: 1.55; }
+  .card .tags { display: flex; flex-wrap: wrap; gap: 6px; }
+  .card .tag {
+    font-family: var(--mono); font-size: 11px; cursor: pointer;
+    background: var(--chip); border: 1px solid var(--line); color: var(--mut);
+    padding: 3px 8px; border-radius: 6px;
+  }
+  .card .tag:hover { color: var(--accent); border-color: var(--accent); }
+  mark { background: rgba(54,197,255,.25); color: #cdeeff; border-radius: 3px; padding: 0 1px; }
+
+  .state { text-align: center; color: var(--mut); padding: 60px 20px; font-family: var(--mono); }
+  .spinner { width: 26px; height: 26px; border: 3px solid var(--line); border-top-color: var(--accent); border-radius: 50%; margin: 0 auto 16px; animation: spin .8s linear infinite; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  footer { text-align: center; color: var(--mut); font-family: var(--mono); font-size: 11.5px; padding: 0 20px 40px; line-height: 1.7; }
+  footer a { color: var(--accent-2); }
+</style>
+</head>
+<body>
+<header>
+  <div class="brand">
+    <h1><b>techscrolldatacach</b><span class="slash">/</span>techcrunch-articles-listing-by-keyword</h1>
+  </div>
+  <div class="meta-row">
+    <span><span class="dot">●</span> source: <span id="src">TechCrunch RSS</span></span>
+    <span id="genat">updated: —</span>
+    <span id="total">— articles cached</span>
+  </div>
+  <div class="controls">
+    <label class="search">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+      <input id="q" type="search" placeholder="Search keyword — title, summary, tag…  (e.g. AI, funding, security)" autofocus />
+    </label>
+    <select id="sort">
+      <option value="new">Newest first</option>
+      <option value="old">Oldest first</option>
+      <option value="az">Title A→Z</option>
+    </select>
+    <button class="clear-btn" id="clear">reset</button>
+  </div>
+</header>
+
+<main>
+  <aside>
+    <h2>Top keywords</h2>
+    <div class="keywords" id="keywords"></div>
+  </aside>
+  <section>
+    <div class="results-head">
+      <div class="count" id="count">Loading…</div>
+    </div>
+    <div class="cards" id="cards"></div>
+    <div class="state" id="state"><div class="spinner"></div>Fetching latest TechCrunch articles…</div>
+  </section>
+</main>
+
+<footer>
+  Built with <b>TechScrollDataCach</b> — a static cache + live RSS proxy over TechCrunch's public feeds.<br/>
+  Content &amp; trademarks belong to <a href="https://techcrunch.com" target="_blank" rel="noopener">TechCrunch</a>. Headlines link back to the original articles.
+</footer>
+
+<script>
+const state = { all: [], activeKw: new Set(), q: "", sort: "new" };
+const $ = (id) => document.getElementById(id);
+
+function fmtDate(iso) {
+  if (!iso) return "";
+  const d = new Date(iso);
+  if (isNaN(d)) return "";
+  return d.toLocaleDateString(undefined, { month: "short", day: "numeric", year: "numeric" });
+}
+function escapeHtml(s) {
+  return (s || "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+}
+function highlight(text, q) {
+  const safe = escapeHtml(text);
+  if (!q) return safe;
+  try {
+    const re = new RegExp("(" + q.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + ")", "ig");
+    return safe.replace(re, "<mark>$1</mark>");
+  } catch { return safe; }
+}
+
+function buildKeywords() {
+  const freq = new Map();
+  for (const a of state.all) for (const c of a.categories || []) {
+    const k = c.trim(); if (!k) continue;
+    freq.set(k, (freq.get(k) || 0) + 1);
+  }
+  const top = [...freq.entries()].sort((a, b) => b[1] - a[1]).slice(0, 40);
+  $("keywords").innerHTML = top.map(([k, n]) =>
+    `<span class="kw" data-kw="${escapeHtml(k)}">${escapeHtml(k)}<span class="n">${n}</span></span>`
+  ).join("");
+  $("keywords").querySelectorAll(".kw").forEach((el) => {
+    el.onclick = () => {
+      const k = el.dataset.kw;
+      state.activeKw.has(k) ? state.activeKw.delete(k) : state.activeKw.add(k);
+      el.classList.toggle("on");
+      render();
+    };
+  });
+}
+
+function matches(a) {
+  if (state.activeKw.size) {
+    const cats = new Set((a.categories || []).map((c) => c.toLowerCase()));
+    for (const k of state.activeKw) if (!cats.has(k.toLowerCase())) return false;
+  }
+  if (state.q) {
+    const hay = (a.title + " " + a.summary + " " + (a.categories || []).join(" ") + " " + a.author).toLowerCase();
+    if (!hay.includes(state.q.toLowerCase())) return false;
+  }
+  return true;
+}
+
+function render() {
+  let list = state.all.filter(matches);
+  if (state.sort === "new") list.sort((a, b) => (b.published || "").localeCompare(a.published || ""));
+  else if (state.sort === "old") list.sort((a, b) => (a.published || "").localeCompare(b.published || ""));
+  else if (state.sort === "az") list.sort((a, b) => a.title.localeCompare(b.title));
+
+  const q = state.q;
+  $("count").innerHTML = `<b>${list.length}</b> of ${state.all.length} articles` +
+    (state.activeKw.size ? ` · filtered by ${[...state.activeKw].map(escapeHtml).join(", ")}` : "");
+
+  if (!list.length) {
+    $("cards").innerHTML = "";
+    $("state").style.display = "block";
+    $("state").innerHTML = "No articles match — try a different keyword or reset.";
+    return;
+  }
+  $("state").style.display = "none";
+  $("cards").innerHTML = list.map((a) => `
+    <article class="card">
+      <div class="sec">${escapeHtml(a.section || "TechCrunch")}</div>
+      <h3><a href="${escapeHtml(a.link)}" target="_blank" rel="noopener">${highlight(a.title, q)}</a></h3>
+      <div class="byline">${a.author ? escapeHtml(a.author) : "TechCrunch"}<span class="sep">·</span>${fmtDate(a.published) || "—"}</div>
+      ${a.summary ? `<p>${highlight(a.summary, q)}</p>` : ""}
+      <div class="tags">${(a.categories || []).slice(0, 8).map((c) =>
+        `<span class="tag" data-kw="${escapeHtml(c)}">${escapeHtml(c)}</span>`).join("")}</div>
+    </article>`).join("");
+
+  $("cards").querySelectorAll(".tag").forEach((el) => {
+    el.onclick = () => {
+      const k = el.dataset.kw;
+      if (!state.activeKw.has(k)) state.activeKw.add(k);
+      document.querySelectorAll(`.kw[data-kw="${CSS.escape(k)}"]`).forEach((x) => x.classList.add("on"));
+      window.scrollTo({ top: 0, behavior: "smooth" });
+      render();
+    };
+  });
+}
+
+async function load() {
+  let data = null;
+  try {
+    const r = await fetch("/api/articles", { cache: "no-store" });
+    if (r.ok) data = await r.json();
+  } catch (_) { /* fall through to snapshot */ }
+  if (!data || !data.articles || !data.articles.length) {
+    try {
+      const r = await fetch("articles.json", { cache: "no-store" });
+      if (r.ok) data = await r.json();
+    } catch (_) { /* ignore */ }
+  }
+  if (!data || !data.articles) {
+    $("state").innerHTML = "Could not load articles. Run <code>python3 scrape.py</code> to build the cache.";
+    return;
+  }
+  state.all = data.articles;
+  $("src").textContent = data.source || "TechCrunch RSS";
+  $("genat").textContent = "updated: " + (fmtDate(data.generated_at) || "—");
+  $("total").textContent = `${state.all.length} articles cached`;
+  buildKeywords();
+  render();
+}
+
+$("q").addEventListener("input", (e) => { state.q = e.target.value; render(); });
+$("sort").addEventListener("change", (e) => { state.sort = e.target.value; render(); });
+$("clear").addEventListener("click", () => {
+  state.q = ""; state.sort = "new"; state.activeKw.clear();
+  $("q").value = ""; $("sort").value = "new";
+  document.querySelectorAll(".kw.on").forEach((x) => x.classList.remove("on"));
+  render();
+});
+
+load();
+</script>
+</body>
+</html>

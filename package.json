@@ -1,0 +1,15 @@
+{
+  "name": "techcrunch-articles-listing-by-keyword",
+  "version": "1.0.0",
+  "private": true,
+  "description": "TechScrollDataCach — latest TechCrunch articles, browsable by keyword. Static cache + live RSS proxy.",
+  "type": "module",
+  "scripts": {
+    "scrape": "python3 scrape.py",
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
