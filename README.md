@@ -39,6 +39,17 @@ python3 -m http.server       # serve at http://localhost:8000  (snapshot only)
 vercel dev                   # http://localhost:3000  (with /api/articles)
 ```
 
+## Mobile API
+
+A small open JSON API powers the site and is ready for native apps (iOS/Android):
+
+- `GET /api/articles` — newest articles with images; supports `q`, `keyword`,
+  `section`, `limit`, `page`/`offset`. CORS open, edge-cached.
+- `GET /api/keywords` — keyword & section tallies for a filter UI.
+
+See **[API.md](API.md)** for the full reference plus a copy-paste **Swift
+`Codable` + SwiftUI** example.
+
 ## Deploy
 
 Pushed to GitHub and deployed on Vercel. To redeploy:

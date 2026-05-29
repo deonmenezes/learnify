@@ -2,14 +2,6 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "cleanUrls": true,
   "functions": {
-    "api/articles.js": { "maxDuration": 30 }
-  },
-  "headers": [
-    {
-      "source": "/api/articles",
-      "headers": [
-        { "key": "Cache-Control", "value": "public, s-maxage=600, stale-while-revalidate=1800" }
-      ]
-    }
-  ]
+    "api/*.js": { "maxDuration": 30 }
+  }
 }
