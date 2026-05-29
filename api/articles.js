@@ -1,30 +1,31 @@
-// GET /api/articles — mobile-friendly TechCrunch feed (JSON).
+// GET /api/articles — mobile-friendly multi-source tech feed (JSON).
 //
 // Query params (all optional):
-//   q        full-text search across title, summary, keywords, author
+//   q        full-text search across title, summary, keywords, author, source
 //   keyword  filter by keyword/tag (case-insensitive). Comma-separated = AND.
 //            (alias: `tag`)
-//   section  filter by section (e.g. "Artificial Intelligence")
-//   limit    max articles to return  (1–200, default: all)
+//   source   filter by source id or name (e.g. "techcrunch", "Wired"). Comma = OR.
+//   region   filter by region (e.g. "Silicon Valley", "San Francisco"). Comma = OR.
+//   section  filter by section
+//   limit    max articles to return  (1–400, default: all)
 //   page     1-based page number used with `limit`
 //   offset   alternative to `page` (0-based)
 //
-// Response: { source, generated_at, total, count, limit, offset, with_images, articles }
-// Each article: { title, link, author, published(ISO8601), image, thumbnail, section, categories[], summary }
+// Response: { sources, generated_at, total, count, limit, offset, with_images, articles }
+// Each article: { id, title, link, source, source_id, region, focus, content_type,
+//                 author, published(ISO8601), image, thumbnail, section, categories[], summary }
 //
-// CORS is open (`*`) so any client — web preview or native app — can call it.
-// Edge-cached 10 min; cache key includes the query string.
+// CORS is open (`*`). Edge-cached 10 min; cache key includes the query string.
 
-import { collectArticles, thumbnail } from "../lib/techcrunch.js";
+import { collectArticles } from "../lib/feeds.js";
 
 function pickInt(v, dflt, min, max) {
   const n = parseInt(Array.isArray(v) ? v[0] : v, 10);
   if (Number.isNaN(n)) return dflt;
   return Math.max(min, Math.min(max, n));
 }
-function str(v) {
-  return (Array.isArray(v) ? v[0] : v || "").toString().trim();
-}
+function str(v) { return (Array.isArray(v) ? v[0] : v || "").toString().trim(); }
+function csv(v) { return str(v).split(",").map((s) => s.trim().toLowerCase()).filter(Boolean); }
 
 export default async function handler(req, res) {
   res.setHeader("Access-Control-Allow-Origin", "*");
@@ -33,44 +34,42 @@ export default async function handler(req, res) {
   if (req.method === "OPTIONS") { res.status(204).end(); return; }
 
   try {
-    const { source, articles: all } = await collectArticles();
+    const { sources, articles: all } = await collectArticles();
 
     // ---- filter -----------------------------------------------------------
     const q = str(req.query?.q).toLowerCase();
     const section = str(req.query?.section).toLowerCase();
-    const kwRaw = str(req.query?.keyword) || str(req.query?.tag);
-    const kws = kwRaw ? kwRaw.split(",").map((k) => k.trim().toLowerCase()).filter(Boolean) : [];
+    const kws = csv(req.query?.keyword).length ? csv(req.query?.keyword) : csv(req.query?.tag);
+    const srcs = csv(req.query?.source);
+    const regions = csv(req.query?.region);
 
-    let filtered = all.filter((a) => {
+    const filtered = all.filter((a) => {
+      if (srcs.length && !srcs.includes(a.source_id) && !srcs.includes((a.source || "").toLowerCase())) return false;
+      if (regions.length && !regions.includes((a.region || "").toLowerCase())) return false;
       if (section && (a.section || "").toLowerCase() !== section) return false;
       if (kws.length) {
         const cats = (a.categories || []).map((c) => c.toLowerCase());
         for (const k of kws) if (!cats.includes(k)) return false;
       }
       if (q) {
-        const hay = (a.title + " " + a.summary + " " + (a.categories || []).join(" ") + " " + a.author).toLowerCase();
+        const hay = (a.title + " " + a.summary + " " + (a.categories || []).join(" ") + " " + a.author + " " + a.source).toLowerCase();
         if (!hay.includes(q)) return false;
       }
       return true;
     });
 
     const total = filtered.length;
-
-    // ---- paginate ---------------------------------------------------------
-    const limit = pickInt(req.query?.limit, total || 0, 1, 200);
+    const limit = pickInt(req.query?.limit, total || 0, 1, 400);
     let offset = pickInt(req.query?.offset, 0, 0, Number.MAX_SAFE_INTEGER);
     const page = pickInt(req.query?.page, 0, 1, Number.MAX_SAFE_INTEGER);
     if (page && !req.query?.offset) offset = (page - 1) * limit;
 
-    const slice = filtered.slice(offset, offset + (limit || total));
-
-    // ---- shape for clients (add ready-to-use thumbnail) -------------------
-    const out = slice.map((a) => ({ ...a, thumbnail: thumbnail(a.image) }));
+    const out = filtered.slice(offset, offset + (limit || total));
 
     res.setHeader("Content-Type", "application/json; charset=utf-8");
     res.setHeader("Cache-Control", "public, s-maxage=600, stale-while-revalidate=1800");
     res.status(200).send(JSON.stringify({
-      source,
+      sources,
       generated_at: new Date().toISOString(),
       total,
       count: out.length,
@@ -81,6 +80,6 @@ export default async function handler(req, res) {
     }));
   } catch (err) {
     res.setHeader("Access-Control-Allow-Origin", "*");
-    res.status(502).json({ error: "Failed to fetch TechCrunch", detail: String(err) });
+    res.status(502).json({ error: "Failed to fetch feeds", detail: String(err) });
   }
 }

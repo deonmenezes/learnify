@@ -1,39 +1,54 @@
 # techscrolldatacach / techcrunch-articles-listing-by-keyword
 
-Latest **TechCrunch** articles — **with images** — scraped locally and made
-browsable **by keyword**. Type a keyword (e.g. `AI`, `funding`, `security`) or
+Latest **Silicon Valley / San Francisco tech news** — **with images**,
+aggregated locally from multiple outlets and made browsable **by keyword and
+source**. Type a keyword (e.g. `AI`, `funding`, `OpenAI`), pick a source, or
 click any tag to filter; thumbnails and headlines link back to the original
 article.
 
-## How it works — a local scraper, no Apify / no hosted service
+## Sources
 
-Both the local scraper and the live function pull straight from **TechCrunch's
-own WordPress REST API** (`/wp-json/wp/v2/posts`), queried with `_fields` so
-each post is ~8 KB and arrives **with its featured image**, keyword slugs,
-author and excerpt already attached. No third-party scraping platform, no
-per-article HTML scraping, and images come free in the payload. If the REST API
-is ever unreachable it transparently falls back to parsing the public RSS feeds
-(no images in that mode).
+| Source | Region | How it's pulled |
+|---|---|---|
+| **TechCrunch** | SF Bay Area | WordPress REST API |
+| **SiliconValley.com** | Silicon Valley | WordPress REST API |
+| **Wired** | San Francisco | RSS (media images) |
+| **The Verge** | National | Atom (content images) |
+| **Ars Technica** | National | RSS (media images) |
 
-- **`index.html`** — single-file static front end. Lazy-loaded thumbnails,
-  client-side keyword search, tag filtering, and a top-keywords cloud. No build
-  step. Thumbnails are served at a card-sized crop via the image CDN (~30 KB).
-- **`api/articles.js`** — Vercel Serverless Function: WP REST API → JSON (with
-  images), deduped and newest-first. Edge-cached for 10 min so the page stays
-  fresh and live. RSS fallback built in.
-- **`scrape.py`** — local scraper (stdlib only). Pages through the WP REST API
-  and writes `articles.json`. RSS fallback built in.
-- **`articles.json`** — a pre-scraped snapshot (200 articles, all with images)
-  bundled into the repo so the site works instantly and offline.
+Every article is normalised and **fully labelled**: `source`, `source_id`,
+`region`, `focus`, `content_type` (`article`/`video`/`podcast`), a stable `id`,
+plus title, link, author, published (ISO-8601), image, thumbnail, section,
+categories (keywords) and summary.
+
+## How it works — local aggregation, no Apify / no hosted service
+
+WordPress outlets are pulled from their REST API (`/wp-json/wp/v2/posts`,
+`_fields`-trimmed) so each post is tiny and arrives **with its featured image**,
+keyword slugs, author and excerpt. RSS/Atom outlets are parsed directly with
+image extraction (`media:content`, `media:thumbnail`, `enclosure`, or the first
+`<img>` in the content). No third-party scraping platform, no API keys.
+
+- **`lib/feeds.js`** — shared multi-source collector (WordPress + RSS/Atom),
+  dedup + newest-first, used by both API routes.
+- **`api/articles.js`** — Vercel Function: aggregated JSON with filtering
+  (`q`, `keyword`, `source`, `region`, `section`), paging, open CORS. Edge-cached 10 min.
+- **`api/keywords.js`** — source / region / section / keyword tallies for filter UIs.
+- **`index.html`** — single-file front end: lazy-loaded thumbnails, keyword
+  search, source filter, top-keywords cloud, video badges. No build step.
+- **`scrape.py`** — local scraper (stdlib only) mirroring the same sources and
+  labels; writes `articles.json`. The article `id` hash matches the JS exactly,
+  so snapshot and live data are interchangeable.
+- **`articles.json`** — pre-scraped snapshot (all sources, all with images)
+  bundled in so the site works instantly and offline.
 
 The page calls `/api/articles` first for live data and falls back to the bundled
-`articles.json` snapshot.
+snapshot.
 
 ## Run locally
 
 ```bash
-python3 scrape.py            # refresh articles.json (newest ~200, with images)
-python3 scrape.py --pages 4  # newest ~400 articles
+python3 scrape.py            # refresh articles.json across all sources (with images)
 python3 -m http.server       # serve at http://localhost:8000  (snapshot only)
 # or, for the live API:
 vercel dev                   # http://localhost:3000  (with /api/articles)
@@ -44,15 +59,16 @@ vercel dev                   # http://localhost:3000  (with /api/articles)
 A small open JSON API powers the site and is ready for native apps (iOS/Android):
 
 - `GET /api/articles` — newest articles with images; supports `q`, `keyword`,
-  `section`, `limit`, `page`/`offset`. CORS open, edge-cached.
-- `GET /api/keywords` — keyword & section tallies for a filter UI.
+  `source`, `region`, `section`, `limit`, `page`/`offset`. CORS open, edge-cached.
+- `GET /api/keywords` — source / region / section / keyword tallies for a filter UI.
 
 See **[API.md](API.md)** for the full reference plus a copy-paste **Swift
 `Codable` + SwiftUI** example.
 
 ## Deploy
 
-Pushed to GitHub and deployed on Vercel. To redeploy:
+Pushed to GitHub and deployed on Vercel (git-connected — every push auto-deploys).
+To redeploy manually:
 
 ```bash
 vercel --prod
@@ -60,7 +76,7 @@ vercel --prod
 
 ## Attribution
 
-All article content, images and the TechCrunch name are property of
-[TechCrunch](https://techcrunch.com). This project only indexes public
-headlines/summaries/thumbnails from TechCrunch's own public API and links back
-to the source.
+All article content, images and trademarks belong to their respective outlets
+(TechCrunch, SiliconValley.com, Wired, The Verge, Ars Technica). This project
+only indexes public headlines/summaries/thumbnails from each outlet's own public
+feed/API and links back to the source.
