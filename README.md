@@ -1,4 +1,4 @@
-# techscrolldatacach / techcrunch-articles-listing-by-keyword
+# TechScroll
 
 Latest **Silicon Valley / San Francisco tech news** — **with images**,
 aggregated locally from multiple outlets and made browsable **by keyword and
@@ -74,9 +74,22 @@ To redeploy manually:
 vercel --prod
 ```
 
-## Attribution
+## Attribution & legal
 
-All article content, images and trademarks belong to their respective outlets
-(TechCrunch, SiliconValley.com, Wired, The Verge, Ars Technica). This project
-only indexes public headlines/summaries/thumbnails from each outlet's own public
-feed/API and links back to the source.
+**TechScroll is an independent news reader and is not affiliated with, endorsed
+by, or sponsored by** TechCrunch, SiliconValley.com, Wired, The Verge, Ars
+Technica, or their owners. All article headlines, summaries, images, content and
+trademarks belong to their respective publishers and are referenced here only
+under nominative/fair-use aggregation.
+
+This project does **not** republish full articles. It indexes public
+headlines, short summaries/excerpts and thumbnails from each outlet's own public
+RSS feed or WordPress REST API (channels intended for syndication) and always
+links back to the original source. Source names are used descriptively to
+identify where each item came from.
+
+**Rights holders:** to request removal of any item, email
+`support@techscroll.app`.
+
+> The name "TechScroll" should be cleared against existing trademarks
+> (USPTO / EUIPO / your jurisdiction) before any commercial launch.

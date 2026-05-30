@@ -1,4 +1,4 @@
-# TechScrollDataCach API
+# TechScroll API
 
 A tiny, open JSON API over the latest **Silicon Valley / San Francisco tech
 news** (with images), built for mobile clients. No key, no auth, CORS open

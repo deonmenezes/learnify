@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""TechScrollDataCach — local multi-source tech-news scraper (no Apify).
+"""TechScroll — local multi-source tech-news scraper (no Apify).
 
 Aggregates Silicon Valley / San Francisco focused tech outlets into one
 normalised, fully-labelled JSON feed. WordPress outlets are pulled from their
@@ -43,7 +43,7 @@ SOURCES = [
 WP_FIELDS = "id,date_gmt,link,title,excerpt,jetpack_featured_media_url,class_list,yoast_head_json"
 WP_PER_PAGE = 100
 RSS_MAX = 30
-UA = "Mozilla/5.0 (compatible; TechScrollDataCach/1.0; +https://github.com/)"
+UA = "Mozilla/5.0 (compatible; TechScroll/1.0; +https://techscroll.app/)"
 TAG_RE = re.compile(r"<[^>]+>")
 
 ACRONYMS = {

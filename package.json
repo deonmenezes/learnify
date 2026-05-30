@@ -1,8 +1,8 @@
 {
-  "name": "techcrunch-articles-listing-by-keyword",
+  "name": "techscroll",
   "version": "1.0.0",
   "private": true,
-  "description": "TechScrollDataCach — latest TechCrunch articles, browsable by keyword. Static cache + live RSS proxy.",
+  "description": "TechScroll — the latest Silicon Valley / SF tech news, browsable by keyword and source. Aggregates public RSS / WordPress feeds and links back to the original publisher.",
   "type": "module",
   "scripts": {
     "scrape": "python3 scrape.py",

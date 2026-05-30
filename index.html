@@ -3,151 +3,267 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>TechScrollDataCach — Silicon Valley &amp; SF tech news, by keyword</title>
-<meta name="description" content="Latest Silicon Valley / San Francisco tech news from TechCrunch, SiliconValley.com, Wired, The Verge & Ars Technica — with images, browsable by keyword and source." />
+<title>TechScroll — Silicon Valley &amp; SF tech news, by keyword</title>
+<meta name="description" content="TechScroll — the latest Silicon Valley / San Francisco tech news from TechCrunch, SiliconValley.com, Wired, The Verge & Ars Technica, with images, browsable by keyword and source. Headlines link back to the original publisher." />
+<meta name="theme-color" content="#070a0e" />
+<meta property="og:title" content="TechScroll — Silicon Valley & SF tech news" />
+<meta property="og:description" content="A fast, clean, doomscrollable feed of the latest tech news — browsable by keyword and source." />
+<meta property="og:type" content="website" />
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='22' fill='%23070a0e'/%3E%3Cpath d='M56 12 30 56h18l-6 32 28-46H50z' fill='%2300e08a'/%3E%3C/svg%3E" />
 <style>
   :root {
-    --bg: #0a0d12;
-    --panel: #11161d;
-    --panel-2: #161c25;
-    --line: #222b38;
-    --txt: #e6edf3;
-    --mut: #8a97a6;
-    --accent: #00d977;
-    --accent-2: #36c5ff;
-    --chip: #1b2430;
-    --chip-on: #04341f;
-    --radius: 12px;
+    --bg: #070a0e;
+    --bg-elev: #0d1219;
+    --panel: #0f151d;
+    --panel-2: #141c26;
+    --line: #1d2735;
+    --line-2: #2a384c;
+    --txt: #eef3f8;
+    --txt-2: #c4ced9;
+    --mut: #93a0b0;
+    --accent: #00e08a;
+    --accent-2: #34c5ff;
+    --accent-3: #a98bff;
+    --grad: linear-gradient(120deg, #00e08a 0%, #34c5ff 52%, #a98bff 100%);
+    --chip: #131b25;
+    --chip-on: #04331f;
+    --radius: 16px;
+    --radius-sm: 11px;
     --mono: ui-monospace, "SF Mono", "JetBrains Mono", Menlo, Consolas, monospace;
-    --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Inter, Helvetica, Arial, sans-serif;
+    --shadow: 0 18px 50px -20px rgba(0,0,0,.85);
   }
   * { box-sizing: border-box; }
-  html, body { margin: 0; background: var(--bg); color: var(--txt); font-family: var(--sans); }
+  html { scroll-behavior: smooth; }
+  html, body { margin: 0; background: var(--bg); color: var(--txt); font-family: var(--sans); -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; }
+  body {
+    min-height: 100vh;
+    background:
+      radial-gradient(900px 520px at 12% -8%, rgba(0,224,138,.10), transparent 60%),
+      radial-gradient(820px 480px at 92% 4%, rgba(52,197,255,.10), transparent 58%),
+      radial-gradient(700px 600px at 60% 110%, rgba(169,139,255,.07), transparent 60%),
+      var(--bg);
+    background-attachment: fixed;
+  }
   a { color: inherit; text-decoration: none; }
+  ::selection { background: rgba(0,224,138,.28); color: #eafff4; }
+
+  /* top progress hairline */
+  .topbar { position: fixed; inset: 0 0 auto 0; height: 3px; background: var(--grad); z-index: 50; transform-origin: left; opacity: .9; }
 
   header {
-    position: sticky; top: 0; z-index: 20;
-    background: linear-gradient(180deg, rgba(10,13,18,.97), rgba(10,13,18,.86));
-    backdrop-filter: blur(8px);
+    position: sticky; top: 0; z-index: 30;
+    background: linear-gradient(180deg, rgba(8,11,16,.92), rgba(8,11,16,.72));
+    backdrop-filter: blur(14px) saturate(1.3);
+    -webkit-backdrop-filter: blur(14px) saturate(1.3);
     border-bottom: 1px solid var(--line);
-    padding: 16px 20px 14px;
+    padding: 18px 22px 16px;
   }
-  .brand { display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; }
-  .brand h1 { font-family: var(--mono); font-size: 19px; margin: 0; letter-spacing: -.4px; }
-  .brand h1 b { color: var(--accent); }
-  .brand .slash { color: var(--mut); }
-  .meta-row { display: flex; gap: 14px; flex-wrap: wrap; color: var(--mut); font-size: 12px; font-family: var(--mono); margin-top: 6px; }
-  .dot { color: var(--accent); }
+  .header-inner { max-width: 1240px; margin: 0 auto; }
+  .brand { display: flex; align-items: center; gap: 13px; }
+  .bolt {
+    width: 38px; height: 38px; flex: 0 0 auto; border-radius: 11px;
+    display: grid; place-items: center;
+    background: radial-gradient(120% 120% at 30% 20%, rgba(0,224,138,.22), rgba(52,197,255,.12) 60%, transparent);
+    border: 1px solid var(--line-2);
+    box-shadow: inset 0 1px 0 rgba(255,255,255,.06), 0 6px 20px -8px rgba(0,224,138,.5);
+  }
+  .bolt svg { filter: drop-shadow(0 0 6px rgba(0,224,138,.6)); }
+  .brand h1 { font-size: 25px; margin: 0; letter-spacing: -.6px; font-weight: 800; line-height: 1; }
+  .brand h1 .g { background: var(--grad); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; }
+  .brand .tag { display: block; font-family: var(--mono); font-size: 11px; color: var(--mut); letter-spacing: .3px; margin-top: 4px; }
+  .brand .tag b { color: var(--accent); font-weight: 600; }
 
-  .controls { display: flex; gap: 10px; margin-top: 14px; flex-wrap: wrap; align-items: center; }
+  .meta-row { display: flex; gap: 18px; flex-wrap: wrap; color: var(--mut); font-size: 11.5px; font-family: var(--mono); margin-top: 14px; }
+  .meta-row span { display: inline-flex; align-items: center; gap: 6px; }
+  .live { width: 7px; height: 7px; border-radius: 50%; background: var(--accent); box-shadow: 0 0 0 0 rgba(0,224,138,.6); animation: pulse 2.2s infinite; }
+  @keyframes pulse { 0% { box-shadow: 0 0 0 0 rgba(0,224,138,.5); } 70% { box-shadow: 0 0 0 7px rgba(0,224,138,0); } 100% { box-shadow: 0 0 0 0 rgba(0,224,138,0); } }
+
+  .controls { display: flex; gap: 11px; margin-top: 16px; flex-wrap: wrap; align-items: center; }
   .search {
-    flex: 1 1 300px; display: flex; align-items: center; gap: 10px;
-    background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); padding: 10px 14px;
+    flex: 1 1 320px; display: flex; align-items: center; gap: 11px;
+    background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius);
+    padding: 12px 15px; transition: border-color .16s, box-shadow .16s, background .16s;
   }
-  .search:focus-within { border-color: var(--accent); box-shadow: 0 0 0 3px rgba(0,217,119,.12); }
-  .search svg { flex: 0 0 auto; opacity: .7; }
-  .search input { flex: 1; background: none; border: none; outline: none; color: var(--txt); font-size: 15px; font-family: var(--sans); }
+  .search:focus-within { border-color: var(--accent); background: var(--bg-elev); box-shadow: 0 0 0 4px rgba(0,224,138,.13); }
+  .search svg { flex: 0 0 auto; opacity: .65; }
+  .search input { flex: 1; background: none; border: none; outline: none; color: var(--txt); font-size: 15px; font-family: var(--sans); min-width: 0; }
   .search input::placeholder { color: var(--mut); }
+  .kbd { font-family: var(--mono); font-size: 11px; color: var(--mut); border: 1px solid var(--line-2); border-radius: 6px; padding: 2px 7px; background: var(--bg-elev); white-space: nowrap; }
   select {
     background: var(--panel); color: var(--txt); border: 1px solid var(--line);
-    border-radius: var(--radius); padding: 10px 12px; font-size: 13px; font-family: var(--mono); outline: none; cursor: pointer;
+    border-radius: var(--radius); padding: 12px 14px; font-size: 13px; font-family: var(--mono); outline: none; cursor: pointer; transition: border-color .16s;
   }
-  select:focus { border-color: var(--accent); }
+  select:hover, select:focus { border-color: var(--accent-2); }
   .clear-btn {
     background: var(--panel); border: 1px solid var(--line); color: var(--mut);
-    border-radius: var(--radius); padding: 10px 14px; cursor: pointer; font-size: 13px; font-family: var(--mono);
+    border-radius: var(--radius); padding: 12px 16px; cursor: pointer; font-size: 13px; font-family: var(--mono); transition: .16s;
   }
-  .clear-btn:hover { color: var(--txt); border-color: var(--accent); }
+  .clear-btn:hover { color: var(--txt); border-color: var(--accent); background: var(--bg-elev); }
 
-  main { max-width: 1180px; margin: 0 auto; padding: 22px 20px 80px; display: grid; grid-template-columns: 248px 1fr; gap: 26px; }
-  @media (max-width: 860px) { main { grid-template-columns: 1fr; } aside { order: 2; } }
+  main { max-width: 1240px; margin: 0 auto; padding: 26px 22px 90px; display: grid; grid-template-columns: 256px 1fr; gap: 30px; }
+  @media (max-width: 900px) { main { grid-template-columns: 1fr; gap: 20px; } aside { order: 2; } }
 
-  aside h2 { font-size: 12px; text-transform: uppercase; letter-spacing: 1px; color: var(--mut); margin: 22px 0 12px; font-family: var(--mono); }
+  aside { position: sticky; top: 168px; align-self: start; max-height: calc(100vh - 188px); overflow: auto; padding-right: 4px; }
+  @media (max-width: 900px) { aside { position: static; max-height: none; overflow: visible; } }
+  aside::-webkit-scrollbar { width: 8px; }
+  aside::-webkit-scrollbar-thumb { background: var(--line-2); border-radius: 8px; }
+  aside h2 { font-size: 11px; text-transform: uppercase; letter-spacing: 1.4px; color: var(--mut); margin: 24px 0 13px; font-family: var(--mono); display: flex; align-items: center; gap: 8px; }
   aside h2:first-child { margin-top: 0; }
-  .chips { display: flex; flex-wrap: wrap; gap: 7px; }
+  aside h2::after { content: ""; flex: 1; height: 1px; background: linear-gradient(90deg, var(--line), transparent); }
+  .chips { display: flex; flex-wrap: wrap; gap: 8px; }
   .kw, .src {
     font-family: var(--mono); font-size: 12px; cursor: pointer; user-select: none;
-    background: var(--chip); border: 1px solid var(--line); color: var(--mut);
-    padding: 5px 10px; border-radius: 999px; transition: .12s;
+    background: var(--chip); border: 1px solid var(--line); color: var(--txt-2);
+    padding: 6px 11px; border-radius: 999px; transition: .14s; display: inline-flex; align-items: center; gap: 7px;
   }
-  .kw:hover, .src:hover { color: var(--txt); border-color: var(--accent-2); }
-  .kw.on, .src.on { background: var(--chip-on); border-color: var(--accent); color: var(--accent); }
-  .kw .n, .src .n { opacity: .6; margin-left: 5px; }
+  .kw:hover, .src:hover { color: var(--txt); border-color: var(--accent-2); transform: translateY(-1px); }
+  .src .dot { width: 7px; height: 7px; border-radius: 50%; flex: 0 0 auto; }
+  .kw.on { background: var(--chip-on); border-color: var(--accent); color: var(--accent); }
+  .src.on { border-color: var(--accent); color: var(--txt); background: var(--bg-elev); box-shadow: inset 0 0 0 1px rgba(0,224,138,.3); }
+  .kw .n, .src .n { opacity: .55; font-size: 11px; }
 
-  .results-head { display: flex; align-items: baseline; justify-content: space-between; margin-bottom: 14px; }
+  .results-head { display: flex; align-items: baseline; justify-content: space-between; gap: 14px; margin-bottom: 18px; flex-wrap: wrap; }
   .results-head .count { font-family: var(--mono); font-size: 13px; color: var(--mut); }
-  .results-head .count b { color: var(--txt); }
+  .results-head .count b { color: var(--txt); font-size: 15px; }
+  .active-filters { display: flex; gap: 7px; flex-wrap: wrap; }
+  .active-filters .fpill { font-family: var(--mono); font-size: 11.5px; color: var(--accent); background: var(--chip-on); border: 1px solid var(--accent); border-radius: 999px; padding: 3px 10px; display: inline-flex; align-items: center; gap: 6px; }
+  .active-filters .fpill .x { cursor: pointer; opacity: .7; }
+  .active-filters .fpill .x:hover { opacity: 1; }
 
-  .cards { display: grid; gap: 14px; }
+  .cards { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 18px; }
+  @media (max-width: 620px) { .cards { grid-template-columns: 1fr; } }
+
   article.card {
     background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius);
-    padding: 16px 18px; transition: .14s; position: relative; display: flex; gap: 16px; align-items: stretch;
+    overflow: hidden; display: flex; flex-direction: column; position: relative;
+    transition: transform .18s cubic-bezier(.2,.7,.3,1), border-color .18s, box-shadow .18s;
+    opacity: 0; transform: translateY(14px);
+    animation: rise .5s cubic-bezier(.2,.7,.3,1) forwards;
+    animation-delay: calc(var(--i, 0) * 45ms);
   }
-  article.card:hover { border-color: #2f3e52; transform: translateY(-1px); background: var(--panel-2); }
-  .card .media {
-    flex: 0 0 196px; display: block; border-radius: 9px; overflow: hidden; position: relative;
-    background: var(--panel-2); border: 1px solid var(--line); align-self: stretch; min-height: 116px;
-  }
-  .card .media img { width: 100%; height: 100%; min-height: 116px; max-height: 156px; object-fit: cover; display: block; transition: transform .25s; }
-  .card .media:hover img { transform: scale(1.04); }
+  @keyframes rise { to { opacity: 1; transform: translateY(0); } }
+  article.card::after { content: ""; position: absolute; inset: 0; border-radius: var(--radius); pointer-events: none; box-shadow: inset 0 0 0 1px transparent; transition: box-shadow .18s; }
+  article.card:hover { transform: translateY(-3px); border-color: var(--line-2); box-shadow: var(--shadow); }
+  article.card:hover::after { box-shadow: inset 0 0 0 1px rgba(0,224,138,.32), inset 0 0 32px -18px rgba(0,224,138,.5); }
+
+  article.card.feat { grid-column: 1 / -1; }
+  @media (min-width: 621px) { article.card.feat { flex-direction: row; align-items: stretch; } article.card.feat .media { flex: 0 0 46%; aspect-ratio: auto; } article.card.feat .body { padding: 24px 26px; display: flex; flex-direction: column; justify-content: center; } article.card.feat h3 { font-size: 24px; } article.card.feat p { font-size: 15px; -webkit-line-clamp: 4; } }
+
+  .card .media { display: block; aspect-ratio: 16 / 9; width: 100%; overflow: hidden; position: relative; background: var(--panel-2); }
+  .card .media img { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform .4s cubic-bezier(.2,.7,.3,1); }
+  .card:hover .media img { transform: scale(1.06); }
+  .card .media::before { content: ""; position: absolute; inset: 0; background: linear-gradient(180deg, transparent 55%, rgba(7,10,14,.55)); pointer-events: none; }
   .card .media .play {
     position: absolute; inset: 0; display: flex; align-items: center; justify-content: center;
-    background: rgba(0,0,0,.28); color: #fff; font-size: 26px;
+    color: #fff; font-size: 22px;
   }
-  .card .body { flex: 1 1 auto; min-width: 0; }
-  @media (max-width: 560px) {
-    article.card { flex-direction: column; }
-    .card .media { flex-basis: auto; }
-    .card .media img { max-height: 220px; }
-  }
-  .card .label { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; font-family: var(--mono); font-size: 11px; }
-  .card .src-name { color: var(--accent); font-weight: 600; }
-  .card .region { color: var(--accent-2); }
-  .card .region::before { content: "◷ "; opacity: .7; }
-  .card .badge { background: var(--chip); border: 1px solid var(--line); color: var(--mut); padding: 1px 6px; border-radius: 5px; text-transform: uppercase; letter-spacing: .5px; font-size: 10px; }
-  .card h3 { margin: 7px 0 8px; font-size: 17.5px; line-height: 1.32; }
-  .card h3 a:hover { color: var(--accent); }
-  .card .byline { font-family: var(--mono); font-size: 12px; color: var(--mut); margin-bottom: 9px; }
+  .card .media .play span { width: 52px; height: 52px; border-radius: 50%; background: rgba(0,0,0,.45); backdrop-filter: blur(4px); border: 1px solid rgba(255,255,255,.25); display: grid; place-items: center; padding-left: 3px; }
+
+  .card .body { flex: 1 1 auto; min-width: 0; padding: 15px 17px 17px; display: flex; flex-direction: column; }
+  .card .label { display: flex; align-items: center; gap: 9px; flex-wrap: wrap; font-family: var(--mono); font-size: 11px; margin-bottom: 9px; }
+  .card .src-name { font-weight: 700; display: inline-flex; align-items: center; gap: 6px; }
+  .card .src-name .dot { width: 7px; height: 7px; border-radius: 50%; }
+  .card .region { color: var(--accent-2); display: inline-flex; align-items: center; gap: 4px; }
+  .card .region svg { opacity: .8; }
+  .card .badge { background: var(--chip); border: 1px solid var(--line-2); color: var(--mut); padding: 2px 7px; border-radius: 6px; text-transform: uppercase; letter-spacing: .6px; font-size: 9.5px; }
+  .card h3 { margin: 0 0 9px; font-size: 17px; line-height: 1.34; letter-spacing: -.2px; font-weight: 700; }
+  .card h3 a { background-image: linear-gradient(var(--accent), var(--accent)); background-size: 0% 2px; background-repeat: no-repeat; background-position: 0 100%; transition: background-size .25s; }
+  .card:hover h3 a { background-size: 100% 2px; }
+  .card .byline { font-family: var(--mono); font-size: 11.5px; color: var(--mut); margin-bottom: 10px; }
   .card .byline .sep { opacity: .4; margin: 0 7px; }
-  .card p { margin: 0 0 12px; color: #c2ccd6; font-size: 14px; line-height: 1.55; }
-  .card .tags { display: flex; flex-wrap: wrap; gap: 6px; }
+  .card p { margin: 0 0 13px; color: var(--txt-2); font-size: 13.5px; line-height: 1.6;
+    display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+  .card .tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: auto; }
   .card .tag {
-    font-family: var(--mono); font-size: 11px; cursor: pointer;
-    background: var(--chip); border: 1px solid var(--line); color: var(--mut); padding: 3px 8px; border-radius: 6px;
+    font-family: var(--mono); font-size: 10.5px; cursor: pointer;
+    background: var(--chip); border: 1px solid var(--line); color: var(--mut); padding: 3px 9px; border-radius: 7px; transition: .14s;
   }
   .card .tag:hover { color: var(--accent); border-color: var(--accent); }
-  mark { background: rgba(54,197,255,.25); color: #cdeeff; border-radius: 3px; padding: 0 1px; }
+  mark { background: rgba(52,197,255,.28); color: #d6f1ff; border-radius: 3px; padding: 0 2px; }
 
-  .state { text-align: center; color: var(--mut); padding: 60px 20px; font-family: var(--mono); }
-  .spinner { width: 26px; height: 26px; border: 3px solid var(--line); border-top-color: var(--accent); border-radius: 50%; margin: 0 auto 16px; animation: spin .8s linear infinite; }
-  @keyframes spin { to { transform: rotate(360deg); } }
+  /* skeleton */
+  .sk { display: grid; grid-template-columns: repeat(2, 1fr); gap: 18px; }
+  @media (max-width: 620px) { .sk { grid-template-columns: 1fr; } }
+  .sk-card { background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; }
+  .sk-card .sk-img { aspect-ratio: 16/9; }
+  .sk-card .sk-body { padding: 16px; }
+  .sk-line { height: 12px; border-radius: 6px; margin-bottom: 10px; }
+  .sk-line.w40 { width: 40%; } .sk-line.w90 { width: 90%; } .sk-line.w70 { width: 70%; } .sk-line.w60 { width: 60%; }
+  .shimmer { background: linear-gradient(100deg, var(--panel-2) 30%, #1c2733 50%, var(--panel-2) 70%); background-size: 200% 100%; animation: sh 1.3s infinite; }
+  @keyframes sh { to { background-position: -200% 0; } }
 
-  footer { text-align: center; color: var(--mut); font-family: var(--mono); font-size: 11.5px; padding: 0 20px 40px; line-height: 1.7; }
+  .state { grid-column: 1 / -1; text-align: center; color: var(--mut); padding: 70px 20px; font-family: var(--mono); }
+
+  .to-top { position: fixed; right: 22px; bottom: 22px; z-index: 40; width: 44px; height: 44px; border-radius: 50%;
+    background: var(--bg-elev); border: 1px solid var(--line-2); color: var(--txt); cursor: pointer; display: grid; place-items: center;
+    opacity: 0; transform: translateY(10px) scale(.9); pointer-events: none; transition: .2s; box-shadow: var(--shadow); }
+  .to-top.show { opacity: 1; transform: none; pointer-events: auto; }
+  .to-top:hover { border-color: var(--accent); color: var(--accent); }
+
+  footer { max-width: 1240px; margin: 0 auto; text-align: center; color: var(--mut); font-family: var(--mono); font-size: 11.5px; padding: 26px 22px 50px; line-height: 1.8; border-top: 1px solid var(--line); }
+  footer .fbrand { color: var(--txt); font-weight: 700; }
+  footer .fbrand .g { background: var(--grad); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; }
   footer a { color: var(--accent-2); }
+  footer .legal { color: #8893a3; max-width: 760px; margin: 12px auto 0; line-height: 1.7; }
+  footer .links { margin-top: 12px; display: flex; gap: 18px; justify-content: center; flex-wrap: wrap; }
+
+  /* keyboard focus — visible ring on every interactive element (a11y CRITICAL) */
+  a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible,
+  [role="button"]:focus-visible {
+    outline: 2px solid var(--accent-2);
+    outline-offset: 2px;
+    border-radius: 9px;
+  }
+  .card a:focus-visible { outline-offset: -3px; }
+  :focus:not(:focus-visible) { outline: none; }
+
+  /* comfortable touch targets on coarse pointers (min 44px primary controls) */
+  @media (pointer: coarse) {
+    .search, select, .clear-btn { min-height: 46px; }
+    .kw, .src, .tag { min-height: 40px; }
+    .active-filters .fpill { min-height: 36px; }
+    .card .tag { padding: 8px 12px; }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after { animation-duration: .001ms !important; animation-delay: 0 !important; transition-duration: .001ms !important; scroll-behavior: auto !important; }
+    article.card { opacity: 1; transform: none; }
+  }
 </style>
 </head>
 <body>
+<div class="topbar"></div>
 <header>
-  <div class="brand">
-    <h1><b>techscrolldatacach</b><span class="slash">/</span>techcrunch-articles-listing-by-keyword</h1>
-  </div>
-  <div class="meta-row">
-    <span><span class="dot">●</span> <span id="src">Silicon Valley / SF tech</span></span>
-    <span id="genat">updated: —</span>
-    <span id="total">— articles cached</span>
-  </div>
-  <div class="controls">
-    <label class="search">
-      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
-      <input id="q" type="search" placeholder="Search — title, summary, tag, source…  (e.g. AI, funding, OpenAI)" autofocus />
-    </label>
-    <select id="srcSel"><option value="">All sources</option></select>
-    <select id="sort">
-      <option value="new">Newest first</option>
-      <option value="old">Oldest first</option>
-      <option value="az">Title A→Z</option>
-    </select>
-    <button class="clear-btn" id="clear">reset</button>
+  <div class="header-inner">
+    <div class="brand">
+      <span class="bolt">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none"><path d="M13 2 4 14h7l-2 8 9-12h-7z" fill="#00e08a"/></svg>
+      </span>
+      <div>
+        <h1>Tech<span class="g">Scroll</span></h1>
+        <span class="tag">// silicon valley tech news, <b>doomscrollable</b></span>
+      </div>
+    </div>
+    <div class="meta-row">
+      <span><span class="live"></span> <span id="src">live feed</span></span>
+      <span id="genat">updated: —</span>
+      <span id="total">— articles cached</span>
+    </div>
+    <div class="controls">
+      <label class="search">
+        <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+        <input id="q" type="search" placeholder="Search headlines, summaries, tags, sources… (e.g. AI, funding, OpenAI)" autofocus />
+        <span class="kbd">/</span>
+      </label>
+      <select id="srcSel"><option value="">All sources</option></select>
+      <select id="sort">
+        <option value="new">Newest first</option>
+        <option value="old">Oldest first</option>
+        <option value="az">Title A→Z</option>
+      </select>
+      <button class="clear-btn" id="clear">reset</button>
+    </div>
   </div>
 </header>
 
@@ -161,20 +277,54 @@
   <section>
     <div class="results-head">
       <div class="count" id="count">Loading…</div>
+      <div class="active-filters" id="activeFilters"></div>
     </div>
     <div class="cards" id="cards"></div>
-    <div class="state" id="state"><div class="spinner"></div>Fetching the latest Silicon Valley &amp; SF tech news…</div>
+    <div class="sk" id="skeleton"></div>
+    <div class="state" id="state" style="display:none"></div>
   </section>
 </main>
 
+<button class="to-top" id="toTop" aria-label="Back to top">
+  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 19V5M5 12l7-7 7 7"/></svg>
+</button>
+
 <footer>
-  <b>TechScrollDataCach</b> — latest Silicon Valley / San Francisco tech news, aggregated live from public feeds.<br/>
-  Sources: TechCrunch · SiliconValley.com · Wired · The Verge · Ars Technica. All content &amp; trademarks belong to their respective owners; headlines link back to the source.
+  <span class="fbrand">Tech<span class="g">Scroll</span></span> — the latest Silicon Valley / San Francisco tech news, aggregated live from public feeds. Headlines link back to the source.<br/>
+  Sources: TechCrunch · SiliconValley.com · Wired · The Verge · Ars Technica.
+  <div class="links">
+    <a href="/privacy">Privacy</a>
+    <a href="/support">Support</a>
+    <a href="mailto:support@techscroll.app">Takedown / contact</a>
+  </div>
+  <p class="legal">
+    TechScroll is an independent news reader and is <b>not affiliated with, endorsed by, or sponsored by</b>
+    TechCrunch, SiliconValley.com, Wired, The Verge, Ars Technica, or their owners. All article headlines,
+    summaries, images, and content are the property of their respective publishers and are shown here under
+    fair-use aggregation with attribution and a link back to the original source. Rights holders may request
+    removal at <a href="mailto:support@techscroll.app">support@techscroll.app</a>.
+  </p>
 </footer>
 
 <script>
 const state = { all: [], activeKw: new Set(), source: "", q: "", sort: "new" };
 const $ = (id) => document.getElementById(id);
+
+const SOURCE_COLORS = {
+  "techcrunch": "#00d26a",
+  "siliconvalley.com": "#1a8cff",
+  "siliconvalley": "#1a8cff",
+  "wired": "#e6e6e6",
+  "the verge": "#fa4d56",
+  "ars technica": "#ff5a00",
+};
+function srcColor(name) {
+  const k = (name || "").toLowerCase().trim();
+  if (SOURCE_COLORS[k]) return SOURCE_COLORS[k];
+  let h = 0;
+  for (let i = 0; i < k.length; i++) h = (h * 31 + k.charCodeAt(i)) % 360;
+  return `hsl(${h}, 70%, 62%)`;
+}
 
 function fmtDate(iso) {
   if (!iso) return "";
@@ -189,7 +339,7 @@ function thumb(a) {
   const url = a.thumbnail || a.image;
   if (!url) return null;
   if (a.thumbnail) return url;
-  return url + (url.includes("?") ? "&" : "?") + "w=420&h=260&crop=1";
+  return url + (url.includes("?") ? "&" : "?") + "w=640&h=400&crop=1";
 }
 function highlight(text, q) {
   const safe = escapeHtml(text);
@@ -204,9 +354,8 @@ function buildSources() {
   const freq = new Map();
   for (const a of state.all) freq.set(a.source, (freq.get(a.source) || 0) + 1);
   const list = [...freq.entries()].sort((a, b) => b[1] - a[1]);
-  // sidebar chips
   $("sources").innerHTML = list.map(([s, n]) =>
-    `<span class="src" data-src="${escapeHtml(s)}">${escapeHtml(s)}<span class="n">${n}</span></span>`).join("");
+    `<span class="src" role="button" tabindex="0" aria-pressed="false" data-src="${escapeHtml(s)}"><span class="dot" style="background:${srcColor(s)}"></span>${escapeHtml(s)}<span class="n">${n}</span></span>`).join("");
   $("sources").querySelectorAll(".src").forEach((el) => {
     el.onclick = () => {
       const s = el.dataset.src;
@@ -216,13 +365,15 @@ function buildSources() {
       render();
     };
   });
-  // dropdown
   $("srcSel").innerHTML = `<option value="">All sources (${state.all.length})</option>` +
     list.map(([s, n]) => `<option value="${escapeHtml(s)}">${escapeHtml(s)} (${n})</option>`).join("");
 }
 function syncSourceChips() {
-  $("sources").querySelectorAll(".src").forEach((el) =>
-    el.classList.toggle("on", el.dataset.src === state.source));
+  $("sources").querySelectorAll(".src").forEach((el) => {
+    const on = el.dataset.src === state.source;
+    el.classList.toggle("on", on);
+    el.setAttribute("aria-pressed", on ? "true" : "false");
+  });
 }
 
 function buildKeywords() {
@@ -233,12 +384,14 @@ function buildKeywords() {
   }
   const top = [...freq.entries()].sort((a, b) => b[1] - a[1]).slice(0, 40);
   $("keywords").innerHTML = top.map(([k, n]) =>
-    `<span class="kw" data-kw="${escapeHtml(k)}">${escapeHtml(k)}<span class="n">${n}</span></span>`).join("");
+    `<span class="kw" role="button" tabindex="0" aria-pressed="false" data-kw="${escapeHtml(k)}">${escapeHtml(k)}<span class="n">${n}</span></span>`).join("");
   $("keywords").querySelectorAll(".kw").forEach((el) => {
     el.onclick = () => {
       const k = el.dataset.kw;
-      state.activeKw.has(k) ? state.activeKw.delete(k) : state.activeKw.add(k);
-      el.classList.toggle("on");
+      const adding = !state.activeKw.has(k);
+      adding ? state.activeKw.add(k) : state.activeKw.delete(k);
+      el.classList.toggle("on", adding);
+      el.setAttribute("aria-pressed", adding ? "true" : "false");
       render();
     };
   });
@@ -257,6 +410,22 @@ function matches(a) {
   return true;
 }
 
+function renderActiveFilters() {
+  const bits = [];
+  if (state.source) bits.push({ type: "src", label: state.source });
+  for (const k of state.activeKw) bits.push({ type: "kw", label: k });
+  $("activeFilters").innerHTML = bits.map((b) =>
+    `<span class="fpill" data-type="${b.type}" data-val="${escapeHtml(b.label)}">${escapeHtml(b.label)}<span class="x" role="button" tabindex="0" aria-label="Remove ${escapeHtml(b.label)} filter"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></span></span>`).join("");
+  $("activeFilters").querySelectorAll(".fpill .x").forEach((el) => {
+    el.onclick = () => {
+      const pill = el.closest(".fpill");
+      if (pill.dataset.type === "src") { state.source = ""; $("srcSel").value = ""; syncSourceChips(); }
+      else { state.activeKw.delete(pill.dataset.val); document.querySelectorAll(`.kw[data-kw="${CSS.escape(pill.dataset.val)}"]`).forEach((x) => x.classList.remove("on")); }
+      render();
+    };
+  });
+}
+
 function render() {
   let list = state.all.filter(matches);
   if (state.sort === "new") list.sort((a, b) => (b.published || "").localeCompare(a.published || ""));
@@ -264,39 +433,40 @@ function render() {
   else if (state.sort === "az") list.sort((a, b) => a.title.localeCompare(b.title));
 
   const q = state.q;
-  const bits = [];
-  if (state.source) bits.push(escapeHtml(state.source));
-  if (state.activeKw.size) bits.push([...state.activeKw].map(escapeHtml).join(", "));
-  $("count").innerHTML = `<b>${list.length}</b> of ${state.all.length} articles` +
-    (bits.length ? ` · ${bits.join(" · ")}` : "");
+  $("count").innerHTML = `<b>${list.length}</b> of ${state.all.length} articles`;
+  renderActiveFilters();
 
   if (!list.length) {
     $("cards").innerHTML = "";
     $("state").style.display = "block";
-    $("state").innerHTML = "No articles match — try a different filter or reset.";
+    $("state").innerHTML = "No articles match — try a different keyword or <a href='#' id='resetLink' style='color:var(--accent-2)'>reset filters</a>.";
+    const rl = $("resetLink"); if (rl) rl.onclick = (e) => { e.preventDefault(); resetAll(); };
     return;
   }
   $("state").style.display = "none";
-  $("cards").innerHTML = list.map((a) => {
+  const noFilter = !state.q && !state.source && !state.activeKw.size;
+  $("cards").innerHTML = list.map((a, i) => {
     const img = thumb(a);
     const isVideo = a.content_type === "video";
+    const feat = (noFilter && i === 0 && img) ? " feat" : "";
+    const col = srcColor(a.source);
     return `
-    <article class="card">
-      ${img ? `<a class="media" href="${escapeHtml(a.link)}" target="_blank" rel="noopener">
-        <img loading="lazy" alt="" src="${escapeHtml(img)}" onerror="this.closest('.media').remove()" />
-        ${isVideo ? `<span class="play">▶</span>` : ""}
+    <article class="card${feat}" style="--i:${Math.min(i, 14)}">
+      ${img ? `<a class="media" href="${escapeHtml(a.link)}" target="_blank" rel="noopener noreferrer" aria-label="${escapeHtml(a.title)} — read on ${escapeHtml(a.source || "source")}">
+        <img loading="lazy" decoding="async" alt="${escapeHtml(a.title)}" src="${escapeHtml(img)}" onerror="this.closest('.media').remove()" />
+        ${isVideo ? `<span class="play"><span><svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></span></span>` : ""}
       </a>` : ""}
       <div class="body">
         <div class="label">
-          <span class="src-name">${escapeHtml(a.source || "")}</span>
-          ${a.region ? `<span class="region">${escapeHtml(a.region)}</span>` : ""}
+          <span class="src-name" style="color:${col}"><span class="dot" style="background:${col}"></span>${escapeHtml(a.source || "")}</span>
+          ${a.region ? `<span class="region"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>${escapeHtml(a.region)}</span>` : ""}
           ${isVideo ? `<span class="badge">video</span>` : ""}
         </div>
-        <h3><a href="${escapeHtml(a.link)}" target="_blank" rel="noopener">${highlight(a.title, q)}</a></h3>
+        <h3><a href="${escapeHtml(a.link)}" target="_blank" rel="noopener noreferrer">${highlight(a.title, q)}</a></h3>
         <div class="byline">${a.author ? escapeHtml(a.author) : escapeHtml(a.source || "")}<span class="sep">·</span>${fmtDate(a.published) || "—"}</div>
         ${a.summary ? `<p>${highlight(a.summary, q)}</p>` : ""}
         <div class="tags">${(a.categories || []).slice(0, 8).map((c) =>
-          `<span class="tag" data-kw="${escapeHtml(c)}">${escapeHtml(c)}</span>`).join("")}</div>
+          `<span class="tag" role="button" tabindex="0" aria-label="Filter by ${escapeHtml(c)}" data-kw="${escapeHtml(c)}">${escapeHtml(c)}</span>`).join("")}</div>
       </div>
     </article>`; }).join("");
 
@@ -304,11 +474,18 @@ function render() {
     el.onclick = () => {
       const k = el.dataset.kw;
       if (!state.activeKw.has(k)) state.activeKw.add(k);
-      document.querySelectorAll(`.kw[data-kw="${CSS.escape(k)}"]`).forEach((x) => x.classList.add("on"));
+      document.querySelectorAll(`.kw[data-kw="${CSS.escape(k)}"]`).forEach((x) => { x.classList.add("on"); x.setAttribute("aria-pressed", "true"); });
       window.scrollTo({ top: 0, behavior: "smooth" });
       render();
     };
   });
+}
+
+function resetAll() {
+  state.q = ""; state.sort = "new"; state.source = ""; state.activeKw.clear();
+  $("q").value = ""; $("sort").value = "new"; $("srcSel").value = "";
+  document.querySelectorAll(".kw.on, .src.on").forEach((x) => x.classList.remove("on"));
+  render();
 }
 
 async function load() {
@@ -323,13 +500,15 @@ async function load() {
       if (r.ok) data = await r.json();
     } catch (_) { /* ignore */ }
   }
+  $("skeleton").style.display = "none";
   if (!data || !data.articles) {
+    $("state").style.display = "block";
     $("state").innerHTML = "Could not load articles. Run <code>python3 scrape.py</code> to build the cache.";
     return;
   }
   state.all = data.articles;
   const srcList = data.sources || [...new Set(state.all.map((a) => a.source))];
-  $("src").textContent = `${srcList.length} sources: ${srcList.join(", ")}`;
+  $("src").textContent = `${srcList.length} sources · ${srcList.join(", ")}`;
   $("genat").textContent = "updated: " + (fmtDate(data.generated_at) || "—");
   const imgN = data.with_images ?? state.all.filter((a) => a.image).length;
   $("total").textContent = `${state.all.length} articles · ${imgN} with images`;
@@ -338,15 +517,49 @@ async function load() {
   render();
 }
 
+// skeleton placeholders
+$("skeleton").innerHTML = Array.from({ length: 6 }).map(() => `
+  <div class="sk-card">
+    <div class="sk-img shimmer"></div>
+    <div class="sk-body">
+      <div class="sk-line w40 shimmer"></div>
+      <div class="sk-line w90 shimmer"></div>
+      <div class="sk-line w70 shimmer"></div>
+      <div class="sk-line w60 shimmer"></div>
+    </div>
+  </div>`).join("");
+
 $("q").addEventListener("input", (e) => { state.q = e.target.value; render(); });
 $("sort").addEventListener("change", (e) => { state.sort = e.target.value; render(); });
 $("srcSel").addEventListener("change", (e) => { state.source = e.target.value; syncSourceChips(); render(); });
-$("clear").addEventListener("click", () => {
-  state.q = ""; state.sort = "new"; state.source = ""; state.activeKw.clear();
-  $("q").value = ""; $("sort").value = "new"; $("srcSel").value = "";
-  document.querySelectorAll(".kw.on, .src.on").forEach((x) => x.classList.remove("on"));
-  render();
+$("clear").addEventListener("click", resetAll);
+
+// "/" focuses search
+document.addEventListener("keydown", (e) => {
+  if (e.key === "/" && document.activeElement !== $("q")) { e.preventDefault(); $("q").focus(); }
+  if (e.key === "Escape" && document.activeElement === $("q")) { $("q").blur(); }
 });
+
+// Enter / Space activates role="button" spans (chips, tags, filter-remove) — a11y
+document.addEventListener("keydown", (e) => {
+  if (e.key !== "Enter" && e.key !== " ") return;
+  const t = e.target.closest('[role="button"]');
+  if (t && (t.classList.contains("kw") || t.classList.contains("src") || t.classList.contains("tag") || t.classList.contains("x"))) {
+    e.preventDefault();
+    t.click();
+  }
+});
+
+// back-to-top + topbar scroll progress
+const toTop = $("toTop");
+const topbar = document.querySelector(".topbar");
+toTop.onclick = () => window.scrollTo({ top: 0, behavior: "smooth" });
+window.addEventListener("scroll", () => {
+  const sc = document.documentElement.scrollTop;
+  const h = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+  topbar.style.transform = `scaleX(${h > 0 ? sc / h : 0})`;
+  toTop.classList.toggle("show", sc > 500);
+}, { passive: true });
 
 load();
 </script>
