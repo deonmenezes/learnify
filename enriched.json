@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-02T07:11:59.575Z",
+  "generated_at": "2026-06-02T07:17:37.506Z",
   "model": "nvidia/nemotron-3-super-120b-a12b",
-  "count": 49,
+  "count": 97,
   "items": {
     "x_2061606345007104093": {
       "ai_summary": "Regional AI leaders are leveraging NVIDIA Nemotron to build sovereign AI, crafting new datasets, models, and agentic applications customized for local languages, cultures, and economies. These initiatives aim to serve billions of people worldwide by aligning AI solutions with regional needs.",
@@ -247,6 +247,246 @@
       "ai_summary": "Researchers examined whether financial LLMs exhibit built‑in biases toward particular assets, using Bitcoin as a test case to detect systematic preferences. They sought to identify an internal model representation that causally influences those preferences and impacts portfolio allocation decisions.",
       "title": "Auditing Asset-Specific Preferences in Financial Large Language Models: Evidence from Bitcoin Representations and Portfolio Allocation",
       "t": 1780384319568
+    },
+    "arxiv_1b82b0o": {
+      "ai_summary": "The paper introduces Drifting Preference Optimization to align one‑step text‑to‑image generators, which are hard to finetune with standard methods that need policy likelihoods or denoising trajectories. Their approach enables effective preference‑based tuning in a single forward pass without relying on those costly signals.",
+      "title": "Drifting Preference Optimization for One-Step Generative Models",
+      "t": 1780384460764
+    },
+    "arxiv_1b8266i": {
+      "ai_summary": "FigSIM introduces a dataset for fine‑grained analysis of suicide memes, capturing both severity levels and figurative language used. The resource aims to improve understanding of these memes and support the development of effective content‑moderation strategies.",
+      "title": "FigSIM: A Dataset for Fine-grained Suicide Severity and Figurative Language in Suicide Memes",
+      "t": 1780384464363
+    },
+    "h5iomu": {
+      "ai_summary": "A cheat service for Grand Theft Auto V was breached, exposing usernames, hashed passwords and other data of thousands of users. The hack compromised the platform that provided cheating tools for the game.",
+      "title": "Grand Theft Auto V cheat service gets hacked, exposing thousands of gamers",
+      "t": 1780384475064
+    },
+    "arxiv_1b7ummb": {
+      "ai_summary": "The study examines whether pretrained vision-language models can execute inverse graphics from a single image, producing editable 3D scenes. It employs a staged pipeline that outputs Blender‑compatible scene descriptions for rendering, relighting, and manipulation.",
+      "title": "Thinking in Blender: Staged Executable Inverse Graphics with Vision-Language Models",
+      "t": 1780384480454
+    },
+    "arxiv_1b82t4f": {
+      "ai_summary": "Optimal Mixture Transport (OMT) introduces a biconvex formulation that ensures stable, uniquely solvable transport of mixture models while scaling to large‑scale data. This approach mitigates the computational burden and interpretability challenges of traditional optimal transport methods.",
+      "title": "A Biconvex Formulation for Stable Transport of Mixture Models with a Unique Solution",
+      "t": 1780384483646
+    },
+    "hd1akh": {
+      "ai_summary": "A startup is being sued for allegedly damaging an Airbnb while conducting robot tests, with the plaintiff seeking $12,000 in compensation. The lawsuit underscores the legal hazards of using short‑term rentals for experimental robotics work.",
+      "title": "Allegedly trashing Airbnbs to test robots puts startup in legal trouble",
+      "t": 1780384487109
+    },
+    "atje5c": {
+      "ai_summary": "AMD announced it will keep Socket AM5 supported through at least 2029, while the older AM4 platform remains in use. The company is bringing back the Ryzen 7 5800X3D for $349 and introducing the Ryzen 7 7700X3D at $329.",
+      "title": "AMD extends Socket AM5 support through at least 2029; AM4 refuses to die",
+      "t": 1780384496498
+    },
+    "arxiv_1b80mto": {
+      "ai_summary": "The review examines how generative crystal structure models, multimodal learning approaches, and closed‑loop design pipelines are advancing inverse materials discovery for crystalline solids by proposing candidates that satisfy target objectives under physical constraints. It surveys recent progress in these areas, highlighting how modern generators learn…",
+      "title": "Towards Automated Discovery: A Review of Generative Models, Multimodal Learning and Closed-Loop Workflows in Inverse Materials Design",
+      "t": 1780384497899
+    },
+    "arxiv_1b76m86": {
+      "ai_summary": "Iteris introduces agentic research loops that harness large language models and agentic AI to advance mathematical discovery in computational mathematics. The approach highlights that open problems in this field often demand more than proofs, which is why they have received comparatively less attention.",
+      "title": "Iteris: Agentic Research Loops for Computational Mathematics",
+      "t": 1780384505147
+    },
+    "1blpa4j": {
+      "ai_summary": "Anthropic has confidentially filed for an initial public offering that could become the largest ever, submitting the paperwork on Monday. The move comes just a couple of weeks after SpaceX announced its own splashy IPO.",
+      "title": "Anthropic Confidentially Files for What Could Be the Largest IPO Ever",
+      "t": 1780384511176
+    },
+    "xsty31": {
+      "ai_summary": "Anthropic filed a registration statement with the U.S. Securities and Exchange Commission on Monday, initiating its IPO process. The filing positions the AI startup for what is expected to be a large‑scale public offering.",
+      "title": "Anthropic has officially filed to go public",
+      "t": 1780384514677
+    },
+    "1pwxzir": {
+      "ai_summary": "Former Meta CTO Mike Schroepfer’s Gigascale Capital has closed a $250 million climate‑focused fund. The fund will invest in founders developing solutions for global energy and material shortages.",
+      "title": "Zigging when most are zagging, ex-Meta CTO raises $250M climate fund",
+      "t": 1780384517405
+    },
+    "1sz8t4": {
+      "ai_summary": "Sony will launch its FlexStrike fight stick and a 27‑inch gaming monitor in August, with the fight stick arriving on August 6. The same day sees the release of the PlayStation‑published fighting game Marvel Tōkon.",
+      "title": "Sony’s new fight stick and gaming monitor launch in August",
+      "t": 1780384521515
+    },
+    "x_2061483007249203644": {
+      "ai_summary": "Jensen Huang took the stage at GTC Taipei to unveil NVIDIA’s AI infrastructure that runs the world’s AI factories, alongside autonomous agents and physical AI/robotics designed to operate in the real world. He also announced a new generation of personal AI aimed at bringing advanced capabilities directly to individual users.",
+      "title": "CEO Jensen Huang took the stage at GTC Taipei and redefined the future of AI. He unveiled AI infrastructure running the world's AI factories, autonomous agents that actually do things, physical AI…",
+      "t": 1780384535305
+    },
+    "arxiv_1b77fhf": {
+      "ai_summary": "This work investigates the expressivity of congruence‑based layers—where an SPD input is left‑ and right‑multiplied by a weight matrix W and its transpose—for deep neural networks classifying symmetric positive‑definite matrices. It highlights that these layers, which underlie SPDNet and have been used independently, are key to capturing the geometry of SPD…",
+      "title": "Expressivity of congruence-based architectures for DNNs on positive-definite matrices",
+      "t": 1780384536201
+    },
+    "13nw541": {
+      "ai_summary": "Nvidia is launching a new AI‑focused chip for personal computers, aiming to break Intel’s dominance in the PC processor market. The move seeks to modernize PCs for the AI era and compete directly with offerings from Intel and AMD.",
+      "title": "Nvidia is taking on Intel and AMD with AI chip for computers",
+      "t": 1780384537841
+    },
+    "1e33glz": {
+      "ai_summary": "Anthropic has filed plans for an initial public offering, positioning itself for a share sale that could value the company in the trillion‑dollar range. The move comes as it seeks to compete directly with rival OpenAI in the AI market.",
+      "title": "Anthropic files to go public in a potentially trillion-dollar debut",
+      "t": 1780384538634
+    },
+    "10hcfq4": {
+      "ai_summary": "The ROG Xbox Ally X20 receives an OLED screen and upgraded controls in its latest hardware refresh. However, this update is only offered as a bundle that pairs the device with costly AR glasses.",
+      "title": "ROG Xbox Ally X20 adds OLED screen, control upgrades",
+      "t": 1780384541164
+    },
+    "x_2061478052257841495": {
+      "ai_summary": "Anthropic has confidentially filed a draft S-1 registration statement with the Securities and Exchange Commission. The filing provides the company the option to pursue an initial public offering pending SEC review.",
+      "title": "Anthropic has confidentially submitted a draft S-1 registration statement to the Securities and Exchange Commission. Pending completion of SEC review, this gives us the option to pursue an initial…",
+      "t": 1780384544672
+    },
+    "19l8zjf": {
+      "ai_summary": "SpaceX disclosed that it could issue a significant amount of equity in future transactions. It warned investors that such issuance could lead to major dilution once the company goes public.",
+      "title": "SpaceX says it may issue ‘significant’ equity in ‘future transactions’",
+      "t": 1780384546128
+    },
+    "1bip9sm": {
+      "ai_summary": "WindBorne’s AI‑driven weather model now outperforms government agency forecasts, leveraging a fleet of roughly 400 sensor‑equipped balloons launched from 15 global sites. The startup’s forecasting gains stem from refined techniques for processing the balloon‑collected atmospheric data.",
+      "title": "This AI weather startup is out-forecasting government agencies",
+      "t": 1780384551544
+    },
+    "1mtehbi": {
+      "ai_summary": "The piece examines how perceptions of the economy differ depending on personal circumstances. It argues that whether the economy feels good or bad varies across individuals.",
+      "title": "Jill On Money: Is the economy good or bad?",
+      "t": 1780384558038
+    },
+    "bfgb1j": {
+      "ai_summary": "Nvidia is introducing a new “superchip” designed to power AI-enabled Windows laptops, signaling its entry into the AI personal‑computer market. This initiative leverages the company’s data‑center success to expand its AI hardware offerings across broader systems and products.",
+      "title": "Nvidia bets on AI personal computers with new ‘superchip’ powering Windows laptops",
+      "t": 1780384561898
+    },
+    "159lcqj": {
+      "ai_summary": "Nvidia's RTX Spark introduces Arm-based CPUs paired with RTX GPUs and unified memory for Windows PCs. The platform will first appear in laptop workstations and mini desktop PCs.",
+      "title": "Nvidia RTX Spark comes to Windows PCs with Arm CPU, RTX GPU, and unified memory",
+      "t": 1780384566645
+    },
+    "1p4hxjj": {
+      "ai_summary": "Revolut has begun offering its services to thousands of users in India as part of a phased rollout ahead of a full launch. The fintech says it has accumulated a waitlist of roughly 450,000 Indian users while preparing for the broader release.",
+      "title": "Revolut rolls out services to thousands of users in India ahead of broader launch",
+      "t": 1780384568838
+    },
+    "1emb34q": {
+      "ai_summary": "Summer Game Fest 2026 launches in June, featuring major announcements from PlayStation, Xbox and host Geoff Keighley. Alongside the big tentpole shows, numerous smaller events will highlight a range of promising upcoming games.",
+      "title": "Summer Game Fest 2026: All the news from gaming’s busiest week",
+      "t": 1780384572022
+    },
+    "8ii4m": {
+      "ai_summary": "DuckDuckGo has released Chrome and Firefox extensions that give users direct access to its no‑AI search option. The launch coincides with a notable increase in traffic to the privacy‑focused search engine.",
+      "title": "DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms",
+      "t": 1780384575544
+    },
+    "blgdz7": {
+      "ai_summary": "He rented a car from Alamo in Geneva for a Swiss vacation, but the vehicle’s battery died in the Alps on his final morning. Alamo then charged him $1,000 for the breakdown.",
+      "title": "Help! Alamo charged me $1,000 after my car battery died in the Swiss Alps",
+      "t": 1780384579419
+    },
+    "1evi4wk": {
+      "ai_summary": "Intel claims its upcoming Crescent Island AI chip will be cheaper and run cooler than Nvidia and AMD alternatives. The chip uses air cooling and LPDDR5 memory.",
+      "title": "Intel: Our upcoming AI chip will be cheaper, run cooler than Nvidia, AMD options",
+      "t": 1780384579474
+    },
+    "f5vk65": {
+      "ai_summary": "A major battery storage project has been proposed for San Jose’s Coyote Valley. Environmentalists, political leaders, and parents of a nearby school oppose the plan, citing concerns about its impact on the city’s rural southern edge.",
+      "title": "Major battery storage project proposed in San Jose’s Coyote Valley",
+      "t": 1780384583121
+    },
+    "18krv0q": {
+      "ai_summary": "California tenants can frequently locate landlords willing to offer rent discounts. In six metro areas, the median share of landlords providing discounts increased to 31% from 28% a year ago.",
+      "title": "Where can California tenants get rent discounts?",
+      "t": 1780384585170
+    },
+    "1ivd0cv": {
+      "ai_summary": "Strava is tightening access to its site, requiring users to log in to view public profiles and club listings that were previously open to anyone. The move, aimed at thwarting data scrapers, comes as the company prepares for its upcoming IPO.",
+      "title": "Strava declares war on scrapers ahead of IPO",
+      "t": 1780384586208
+    },
+    "2vybza": {
+      "ai_summary": "Norse Atlantic Airways promotes dirt‑cheap tickets, but its tech‑first customer service has drawn dozens of complaints to the Federal Trade Commission. Some passengers say they lost thousands of dollars due to the service issues.",
+      "title": "Norse Atlantic Airways Offers Dirt-Cheap Tickets. There’s a Catch",
+      "t": 1780384588036
+    },
+    "o6rzqm": {
+      "ai_summary": "The Universal Audio Volt 876 USB audio interface delivers pro‑level sound quality with true plug‑and‑play operation and versatile connectivity options. Its polished design and excellent audio performance make recording straightforward for both beginners and experienced users.",
+      "title": "Universal Audio Volt 876 USB Audio Interface Review: Pro-Level Polish",
+      "t": 1780384589872
+    },
+    "lj2l47": {
+      "ai_summary": "The best sleep trackers of 2026 are Oura, Whoop, and Eight Sleep, as identified after testing top wearables for every type of sleeper. The evaluation covered the leading devices from each of these brands.",
+      "title": "Best Sleep Trackers of 2026: Oura, Whoop, and Eight Sleep",
+      "t": 1780384593043
+    },
+    "1f85bjo": {
+      "ai_summary": "FDA testing found the active ingredients of Viagra and Cialis in products sold as Sexual Chocolate, Boner Bears and DTF, which were not listed on labels. In response, the manufacturers have voluntarily recalled those items.",
+      "title": "‘Sexual Chocolate’ Faces Recalls After FDA Tests Reveal Undisclosed Viagra",
+      "t": 1780384598417
+    },
+    "1xpbof5": {
+      "ai_summary": "Researchers suggest a promising approach to treating long Covid may be emerging. However, open discussion about these developments faces obstacles.",
+      "title": "The Painful Truth About Long Covid",
+      "t": 1780384605977
+    },
+    "c3ahzq": {
+      "ai_summary": "A romance scammer posed as a WWE superstar to trick victims and built a small fortune through the deception. Journalist Carlos Barragán chronicles the scammer’s trajectory from failure to profit in his WIRED Book Club excerpt \"The Yahoo Boys.\"",
+      "title": "The Romance Scammer Who Made a Small Fortune Posing as a WWE Superstar",
+      "t": 1780384607357
+    },
+    "vxz3mz": {
+      "ai_summary": "An OpenAI model solved a famous math problem that had stumped humans for 80 years. The author attempted to explain the model's solution more clearly than OpenAI did.",
+      "title": "An OpenAI model solved a famous math problem that stumped humans for 80 years",
+      "t": 1780384611010
+    },
+    "x_2061308434629132553": {
+      "ai_summary": "Cosmos 3 is the world’s first fully open omnimodel for physical AI, offering native vision reasoning, world generation, and action generation. It is released today in Super (32B) and Nano (8B) variants.",
+      "title": "Introducing Cosmos 3: Our latest frontier model for Physical AI Cosmos 3 is the world’s first fully open omnimodel with native vision reasoning, world and action generation. Today we’re releasing…",
+      "t": 1780384615036
+    },
+    "x_2061313474005737829": {
+      "ai_summary": "NVIDIA unveiled the RTX Spark, a 1‑petaflop superchip that brings the complete CUDA and RTX software stack to Windows‑native AI agents. The company says the chip marks a new beginning for personal computers.",
+      "title": "NVIDIA RTX Spark: a 1-petaflop superchip, the full CUDA and RTX ecosystem, and Windows-native agents. A new beginning for personal computers.",
+      "t": 1780384621781
+    },
+    "1vgruig": {
+      "ai_summary": "Dell, Microsoft, and other manufacturers are unveiling new laptops designed to compete directly with Apple's MacBook Neo. However, many of these rivals may not be applying the right lessons from Apple's design and ecosystem strategy.",
+      "title": "Everyone Has Their Targets Set on the MacBook Neo",
+      "t": 1780384623812
+    },
+    "d91sbh": {
+      "ai_summary": "The newly disclosed FROST technique lets websites infer user activity by measuring subtle SSD I/O patterns through ordinary JavaScript running in the browser. This side‑channel can expose browsing habits without requiring any installed malware or browser extensions.",
+      "title": "Websites Can Now Spy on You Through Your Hard Drive",
+      "t": 1780384625439
+    },
+    "v197pn": {
+      "ai_summary": "Unastella, a Seoul‑based rocket startup, raised $24 million to develop its own launch vehicles and engines. The company previously demonstrated its capability by launching from home.",
+      "title": "Unastella, a South Korean rocket startup that launched from home, raises $24M",
+      "t": 1780384625774
+    },
+    "3xgur5": {
+      "ai_summary": "KC Green has reached an agreement with AI startup Artisan regarding the use of his “This is fine” meme. Artisan has removed the advertisements that featured the meme.",
+      "title": "‘This is fine’ artist KC Green reaches agreement with AI startup Artisan",
+      "t": 1780384629907
+    },
+    "118k3po": {
+      "ai_summary": "The weekend’s two biggest movies were both directed by YouTubers. This highlights a strengthening pipeline from YouTube creators to prestige horror films.",
+      "title": "This weekend’s two biggest movies were both directed by YouTubers",
+      "t": 1780384637666
+    },
+    "e239eg": {
+      "ai_summary": "TechCrunch Mobility returns as a hub for the future of transportation, highlighting AI's increasing role. The segment notes that public dislike of the Ferrari Luce does not influence its coverage.",
+      "title": "TechCrunch Mobility: It doesn’t matter that people hate the Ferrari Luce",
+      "t": 1780384656458
+    },
+    "1g7w738": {
+      "ai_summary": "Environmental activist Erin Brockovich has launched a campaign demanding greater transparency from data centers about their environmental impact. She argues that secrecy around energy consumption and emissions hinders efforts to address climate change.",
+      "title": "Erin Brockovich takes aim at data center secrecy",
+      "t": 1780384657505
     }
   }
 }
