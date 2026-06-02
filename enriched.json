@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-02T07:17:37.506Z",
+  "generated_at": "2026-06-02T07:29:48.996Z",
   "model": "nvidia/nemotron-3-super-120b-a12b",
-  "count": 97,
+  "count": 152,
   "items": {
     "x_2061606345007104093": {
       "ai_summary": "Regional AI leaders are leveraging NVIDIA Nemotron to build sovereign AI, crafting new datasets, models, and agentic applications customized for local languages, cultures, and economies. These initiatives aim to serve billions of people worldwide by aligning AI solutions with regional needs.",
@@ -487,6 +487,281 @@
       "ai_summary": "Environmental activist Erin Brockovich has launched a campaign demanding greater transparency from data centers about their environmental impact. She argues that secrecy around energy consumption and emissions hinders efforts to address climate change.",
       "title": "Erin Brockovich takes aim at data center secrecy",
       "t": 1780384657505
+    },
+    "oa_lwuam2": {
+      "ai_summary": "Depth of Processing (DoP) is a key construct in instructed second language acquisition, especially noted for its impact on vocabulary learning. Recent work suggests DoP also matters for acquiring L2 English grammatical structures through oral and audio‑visual input, though this area remains under‑researched.",
+      "title": "Depth of Processing, learner aptitude, and the acquisition of L2 English grammatical structures",
+      "t": 1780385247483
+    },
+    "oa_1cypcai": {
+      "ai_summary": "The article presents mathematical models that analyze epidemics, evolutionary processes, and social interactions. It was published in the Open MIND collection.",
+      "title": "Mathematical modelling of epidemics, evolution and social interaction",
+      "t": 1780385250489
+    },
+    "oa_1cyriho": {
+      "ai_summary": "Researchers conducted a comparative assessment of AGAMOUS function across Brassicaceae species. Their findings were published in the journal Open MIND.",
+      "title": "Comparative assessment of AGAMOUS function in the Brassicaceae",
+      "t": 1780385250623
+    },
+    "oa_1cyn4cf": {
+      "ai_summary": "The collection features essays that examine how nonlinear modeling enhances predictability in financial machine learning and how data‑driven approaches can be combined with theoretical frameworks. Published by Open MIND, the work aims to integrate empirical techniques with theory to advance the field.",
+      "title": "Essays on Financial Machine Learning: Nonlinearity, Predictability and Data-Theory Integration",
+      "t": 1780385254568
+    },
+    "oa_1cypc9o": {
+      "ai_summary": "Researchers are tackling data and target shift problems in visual tasks to improve model generalization to unseen samples and novel classes when training data‑target pairs are scarce. They investigate techniques that reduce distribution mismatches between training and test data to enhance real‑world performance.",
+      "title": "Combating Data and Target Shifts in Visual Tasks",
+      "t": 1780385254570
+    },
+    "oa_mqmg86": {
+      "ai_summary": "The study employed vignette‑based experiments to assess how decision responsiveness affects the perceived legitimacy of public agencies. Its goal was to identify the key factors that drive legitimacy judgments through controlled experimental data.",
+      "title": "Decision responsiveness and the legitimacy of public agencies data set",
+      "t": 1780385254923
+    },
+    "oa_1cyn6ri": {
+      "ai_summary": "A recent study in Open MIND evaluated the use of kinetic and static perimetry in neuro‑ophthalmology, comparing their diagnostic utility. The assessment outlined the strengths and limitations of each method for detecting visual field defects.",
+      "title": "The evaluation of kinetic and static perimetry practice in neuro-ophthalmology",
+      "t": 1780385255732
+    },
+    "oa_1cytrnd": {
+      "ai_summary": "Researchers applied machine learning techniques to analyze high-dimensional mass cytometry data from chronic lymphocytic leukemia patients. This approach enabled the extraction of meaningful biological insights from the complex single‑cell protein measurements.",
+      "title": "APPLICATION OF MACHINE LEARNING FOR MASS CYTOMETRY DATA ANALYSIS OF CHRONIC LYMPHOCYTIC LEUKAEMIA",
+      "t": 1780385259759
+    },
+    "oa_195dfa": {
+      "ai_summary": "The thesis proposes an integrated strategy that combines corporate governance, sustainability practices, and artificial intelligence to combat foreign bribery and corruption. The complete abstract will be released once the embargo on the thesis expires.",
+      "title": "Combating foreign bribery and corruption : an integrated corporate governance, sustainability, and artificial intelligence approach",
+      "t": 1780385265260
+    },
+    "oa_1cyn6rf": {
+      "ai_summary": "The study explores how data augmentation can improve deep‑learning models for drug discovery by incorporating relationships between biological and medical entities. It was published in the Open MIND journal.",
+      "title": "Data Augmentation Application in Deep Learning Drug Discovery by Utilizing Relationships Between Biological and Medical Entities",
+      "t": 1780385266220
+    },
+    "oa_1cyp3yz": {
+      "ai_summary": "The study examines whether surface portable X‑ray fluorescence (pXRF) can reliably identify unofficial Constantinian copies in Romano‑British coin hoards. Visual identification of these AD 330‑341 copies is hampered by their high production quality and often poor preservation, making it difficult to distinguish them from official issues.",
+      "title": "When Identity Sits on the Surface An Investigation into the Effectiveness of Surface pXRF for the Identification of Constantinian Copies in Romano-British Coin Hoards Volume I",
+      "t": 1780385275059
+    },
+    "oa_1959eh": {
+      "ai_summary": "Researchers have enhanced single‑cell image cytometry by integrating nanowell imaging plates with machine‑learning‑based analysis. The complete thesis abstract will be made public once the embargo expires.",
+      "title": "Advances in single-cell image cytometry enabled by nanowell imaging plates and machine learning",
+      "t": 1780385276232
+    },
+    "oa_1c3qs1e": {
+      "ai_summary": "The paper reviews two decades of research on institutional distance, offering a critique of its proliferation and applications. It analyzes the construct through the lenses of organizational institutionalism, institutional economics, and comparative institutionalism.",
+      "title": "The construct of institutional distance through the lens of diverse institutional perspectives: Review, analysis, and future directions.",
+      "t": 1780385276319
+    },
+    "oa_1redb0j": {
+      "ai_summary": "The study shows how neural networks can simulate virtual knapping and refitting of stone tools as a proof of concept. This work was published in the Open MIND journal.",
+      "title": "Virtual Knapping (and Refitting) with Neural Networks: Proofs of Concept",
+      "t": 1780385277242
+    },
+    "oa_197l5g": {
+      "ai_summary": "The thesis introduces advanced optimization methods designed to improve the interpretability of machine learning models for chemical engineering applications. The complete abstract will be made public once the embargo on the thesis expires.",
+      "title": "Advanced optimization methods for interpretable machine learning models and their applications in chemical engineering",
+      "t": 1780385278689
+    },
+    "oa_bk4sp4": {
+      "ai_summary": "The study investigates how inter-subject fMRI synchronization correlates with tau pathology in Alzheimer’s disease. It builds on evidence that elevated intracellular tau tangles worsen memory deficits, linking poorer recall to altered brain synchrony.",
+      "title": "Inter-subject fMRI synchronization and its association with tau pathology",
+      "t": 1780385279923
+    },
+    "oa_197mbb": {
+      "ai_summary": "Researchers have developed algorithms to annotate both regular and stable isotope‑labeled lipids in lipidomics data. The complete thesis abstract will be made public once the embargo expires.",
+      "title": "Developing algorithms to annotate lipids and stable isotope-labeled lipids in lipidomics data",
+      "t": 1780385279969
+    },
+    "oa_1cyn55r": {
+      "ai_summary": "The dissertation introduces a human‑based evaluation framework for machine translation that assesses sentiment, emotion, and argumentation preservation in Chinese‑English output. It aims to overcome the shortcomings of traditional automated metrics by focusing on the nuanced quality aspects that matter to human users.",
+      "title": "Human-Based Machine Translation Evaluation: A Multi-Dimensional Approach to Sentiment, Emotion, and Argumentation Preservation in Chinese-English Translation",
+      "t": 1780385281730
+    },
+    "oa_195k71": {
+      "ai_summary": "Researchers applied deep learning to image analysis of donor red blood cells to predict their deformability and transfusion efficacy. The complete thesis abstract will be made public once the embargo expires.",
+      "title": "Deep learning image analysis of donor red blood cells to predict deformability and transfusion efficacy",
+      "t": 1780385286572
+    },
+    "165u55t": {
+      "ai_summary": "Blue Origin CEO Dave Limp said the New Glenn rocket will launch again before the end of the year. He shared the update on X while discussing the ongoing investigation into the recent launchpad explosion.",
+      "title": "Blue Origin CEO says New Glenn will fly again before the year ends",
+      "t": 1780385286666
+    },
+    "v8onvl": {
+      "ai_summary": "KLH unveiled the Model Four floorstanding speakers, offering a heritage design at a retro‑1970s price point. The model sits between the existing Model Three and Model Five in KLH’s lineup.",
+      "title": "'Finally, heritage-look speakers without the elite asking fee': KLH's Model Four floorstanders come with a decidedly retro 1970s price —and I want them",
+      "t": 1780385290478
+    },
+    "13wp4bf": {
+      "ai_summary": "Google Photos has added support for incremental exports, allowing only new or changed files to be transferred during backup. This reduces bandwidth usage by avoiding repeated uploads of unchanged photos and videos.",
+      "title": "Google Photos exports will finally stop wasting your bandwidth",
+      "t": 1780385291402
+    },
+    "1bj4b0h": {
+      "ai_summary": "Amazon’s Mid‑Year sale is slashing prices on popular air fryers from brands like Ninja and Philips, with some models starting at AU$95. The promotion highlights seven discounted deals, including several of the retailer’s best‑selling units.",
+      "title": "My air fryer has revolutionised my kitchen, and one could upgrade yours too for as low as AU$95",
+      "t": 1780385295580
+    },
+    "oa_1cypfbq": {
+      "ai_summary": "Researchers developed and applied a crystal structure prediction workflow to aid in the discovery of novel materials. The workflow and its findings were published in the Open MIND journal.",
+      "title": "Application and development of a crystal structure prediction workflow for novel materials discovery",
+      "t": 1780385297720
+    },
+    "17ehr5x": {
+      "ai_summary": "The article examines strace-ui and Bonsai_term, two new terminal‑based utilities that are part of a broader revival of text‑user interfaces. It explains how these tools enhance debugging and developer workflows by leveraging the simplicity and power of TUIs.",
+      "title": "strace-ui, Bonsai_term, and the TUI renaissance",
+      "t": 1780385297763
+    },
+    "1rxgfkz": {
+      "ai_summary": "MSI's Claw 8 Ex is positioned to become the top‑tier gaming handheld on the market. Its premium performance will come with a correspondingly high price tag.",
+      "title": "MSI’s New Claw 8 Ex Could Be the Pinnacle of Gaming Handhelds",
+      "t": 1780385298778
+    },
+    "1juq03k": {
+      "ai_summary": "Alphabet is vying for up to $80 billion of investor capital that could have backed major AI IPOs, putting it in direct competition with firms such as OpenAI, Anthropic, and SpaceX. The effort signals an ambitious push to secure funding and sway in the fast‑growing AI landscape.",
+      "title": "Google Is Suddenly Competing For $80 Billion in Investor Money That Could Have Gone to the Big AI IPOs",
+      "t": 1780385304117
+    },
+    "1y3zl6q": {
+      "ai_summary": "ASUS's ExpertBook B5 Flip G2 is a 2.9‑pound 360‑degree touchscreen convertible laptop. The company also announced additional convertible Windows laptops and three Zenbook 14 models available with either ARM64 or x86 processors.",
+      "title": "ASUS's ExpertBook B5 Flip G2 is a 2.9 pound 360 touchscreen laptop",
+      "t": 1780385304861
+    },
+    "9kh9c9": {
+      "ai_summary": "Microsoft Build 2026 will run June 2‑3 in San Francisco, where the company is expected to announce new intent‑first features for GitHub Copilot, Azure AI Foundry, and AI‑native development tools. These updates could mark a shift from traditional code‑first programming to a more intention‑driven development approach.",
+      "title": "From code-first to intent-first: Microsoft Build 2026 could be the end of programming as we know it",
+      "t": 1780385305966
+    },
+    "1i0eay6": {
+      "ai_summary": "Crystal Nights is a 2008 short story by Greg Egan hosted at gregegan.net. It was recently featured on Hacker News, receiving 36 points and generating four comments.",
+      "title": "Crystal Nights (2008)",
+      "t": 1780385313647
+    },
+    "1tjotev": {
+      "ai_summary": "Dozens of members of Congress have urged Apple to reverse its decision to close the Towson Town Center store in Maryland, the first Apple Store in the United States to unionize. They argue the closure constitutes retaliation against the store's unionized workers.",
+      "title": "Apple facing congressional pressure over closure of first unionized US store",
+      "t": 1780385314997
+    },
+    "1ie9tn1": {
+      "ai_summary": "House of Marley’s new inexpensive USB‑C wired earbuds surpassed the tester’s expectations in several areas, delivering solid performance for the price. However, they also have shortcomings that make them unsuitable for every listener.",
+      "title": "I tested House of Marley’s new cheap wired earbuds and they exceeded my expectations in several key ways — but they're not the best fit for everyone",
+      "t": 1780385319011
+    },
+    "1322fyl": {
+      "ai_summary": "Groq is reportedly seeking additional capital to fund its growth. The article explores the reasons and methods behind the company’s latest fundraising effort.",
+      "title": "How is Groq raising more money?",
+      "t": 1780385320051
+    },
+    "t2crsb": {
+      "ai_summary": "Pluribus won the Breakthrough Drama Series award at the Gotham Television Awards. The victory adds to the Apple TV series' growing list of accolades.",
+      "title": "Pluribus wins Breakthrough Drama Series at the Gotham Television Awards",
+      "t": 1780385320793
+    },
+    "1x0z47g": {
+      "ai_summary": "The Bose QuietComfort Ultra Gen 2 is now priced at AU$508, reflecting a 27% discount and its lowest price to date. This EOFY offer is described as the best headphone deal seen so far.",
+      "title": "The Bose QuietComfort Ultra Gen 2 at its lowest price yet is the best EOFY headphone deal we've seen so far",
+      "t": 1780385321155
+    },
+    "1jdn8ha": {
+      "ai_summary": "Aftermarket tuners are already buzzing about Ferrari's divisive Luce model, noting its polarizing reception. One tuner suggests that adding a wide‑body kit and extra carbon fiber could enhance the car's appearance.",
+      "title": "Aftermarket tuners are already going wild for Ferrari’s divisive Luce, but even a ton of carbon fiber can’t save it",
+      "t": 1780385324858
+    },
+    "1ei1hbp": {
+      "ai_summary": "AMD's Radeon RX 9070 GRE is now available worldwide, positioned as a more affordable option amid soaring GPU prices. Priced at $549, the card delivers solid performance for mainstream gaming and content creation.",
+      "title": "AMD Radeon RX 9070 GRE review: A cheaper GPU for a wildly expensive era",
+      "t": 1780385326230
+    },
+    "1rqe0bz": {
+      "ai_summary": "AMD’s RX 9070 GRE is a trimmed‑down variant of its RX 9070 lineup, positioned as a compromise offering. The card was released to alleviate GPU shortages by providing a lower‑spec option.",
+      "title": "AMD’s RX 9070 GRE Graphics Card Is a Compromise No Matter How You Slice It",
+      "t": 1780385331872
+    },
+    "z95xut": {
+      "ai_summary": "Mullvad’s blog argues that imposing mandatory age verification on social media threatens the openness of the internet by enabling broader surveillance and censorship. It warns that such measures could set a precedent for restricting anonymous access and eroding the free‑flow nature of online communication.",
+      "title": "Age verification for social media, the beginning of the end for a free internet?",
+      "t": 1780385334903
+    },
+    "j33u3q": {
+      "ai_summary": "The article examines whether the stock market could accommodate the massive valuations of Anthropic, SpaceX, and OpenAI. It explores what such a scenario would mean for investors and the broader technology landscape.",
+      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+      "t": 1780385337361
+    },
+    "10koz0p": {
+      "ai_summary": "The article argues that macOS should bring back a grid‑based window management approach to improve usability and workflow. It has sparked discussion on Hacker News, earning 197 points and 109 comments.",
+      "title": "macOS needs its grid back",
+      "t": 1780385339522
+    },
+    "x6ug64": {
+      "ai_summary": "The article offers hints and the full solution for the June 2 NYT Connections puzzle (game #1087). It also includes the author’s commentary on solving the day’s challenge.",
+      "title": "NYT Connections hints and answers for Tuesday, June 2 (game #1087)",
+      "t": 1780385341377
+    },
+    "uuk5mj": {
+      "ai_summary": "Apple's iPhone shipments grew 8% year‑over‑year in Latin America during Q1 2026, according to Counterpoint Research. The report notes this increase as part of its latest regional shipment analysis.",
+      "title": "Counterpoint: iPhone shipments grew 8% in Latin America during Q1",
+      "t": 1780385342368
+    },
+    "1j4vpc0": {
+      "ai_summary": "Disney is rebuilding the Magic of Disney Animation at Walt Disney World into a multi‑part physical attraction that immerses guests in the animation pipeline. The new experience will let visitors step inside the process of creating animated films.",
+      "title": "We went inside the Magic of Disney Animation before it opens at Disney World — and Disney is rebuilding animation as a physical experience",
+      "t": 1780385345304
+    },
+    "m134j": {
+      "ai_summary": "Apple will introduce a standalone Siri app in iOS 27, iPadOS 27, and macOS 27, giving users a dedicated interface for the assistant. The app reflects Siri’s shift toward a chatbot‑like experience comparable to ChatGPT or Claude.",
+      "title": "iOS 27: What We Know About the New Siri App",
+      "t": 1780385347078
+    },
+    "8w28kt": {
+      "ai_summary": "Chipotlai Max is a new open‑source project hosted on GitHub by user cyberpapiii. It recently garnered 176 points and 30 comments on Hacker News.",
+      "title": "Chipotlai Max",
+      "t": 1780385351815
+    },
+    "nk99b1": {
+      "ai_summary": "Microsoft Build 2026 is underway in San Francisco, delivering live coverage of the event. Attendees and viewers are receiving real-time updates on announcements and sessions.",
+      "title": "Microsoft Build 2026 live — all the updates as they happen",
+      "t": 1780385353628
+    },
+    "1eyf8ec": {
+      "ai_summary": "The article provides hints and the complete answer for Quordle game #1590, which was released on Tuesday, June 2. It also includes links to past Quordle solutions for players seeking additional reference.",
+      "title": "Quordle hints and answers for Tuesday, June 2 (game #1590)",
+      "t": 1780385353630
+    },
+    "an0oe1": {
+      "ai_summary": "DuckDuckGo reports a surge in usage after marketing itself as an AI‑free search alternative. Many users dissatisfied with AI‑integrated results are migrating from Google to DuckDuckGo.",
+      "title": "DuckDuckGo’s Doing Numbers After Pitching Itself as the Home of AI-Free Web Searches",
+      "t": 1780385354305
+    },
+    "ow5t7b": {
+      "ai_summary": "The article provides hints and the complete answer for the New York Times Strands puzzle #821 released on Tuesday, June 2. It also includes the spangram to assist players in solving the game.",
+      "title": "NYT Strands hints and answers for Tuesday, June 2 (game #821)",
+      "t": 1780385356650
+    },
+    "1j95s5n": {
+      "ai_summary": "Apple has launched its WWDC26 hashmoji on X ahead of next week’s keynote. The move continues Apple's yearly tradition of activating special emojis for posts that use the WWDC26 tag on the platform.",
+      "title": "#WWDC26 hashmoji now live on X ahead of next week’s keynote",
+      "t": 1780385361331
+    },
+    "9j2lxe": {
+      "ai_summary": "Sonos currently offers no TV sound system with dedicated left and right front speakers, while Sony has already released such a product. As TVs grow larger, soundbars alone cannot deliver the audio scale needed to match the picture, prompting calls for Sonos to catch up.",
+      "title": "Okay Sonos, where is my TV sound system with real left and right front speakers? Sony beat you to to the punch, the tech secretly exists in your products already — it's time to catch up",
+      "t": 1780385363030
+    },
+    "gevszz": {
+      "ai_summary": "Meta's AI support assistant allowed users to change the email linked to an Instagram account without verification, which hackers exploited to reset passwords and seize control of high‑profile profiles. The flaw emerged after Meta launched the AI‑driven help tool, highlighting a gap in its account‑security checks.",
+      "title": "Meta AI Support Bot Helped Hackers Hijack Instagram Accounts",
+      "t": 1780385372503
+    },
+    "91cz2n": {
+      "ai_summary": "WhatsApp is extending its Liquid Glass redesign, which was rolled out to iOS users last month, to the Mac version of the app. Meta plans to bring the updated interface to Mac users in the near future.",
+      "title": "WhatsApp working to bring Liquid Glass to its Mac app",
+      "t": 1780385374835
+    },
+    "x7ov7e": {
+      "ai_summary": "The June 1, 2026 episode of 9to5Mac Daily recaps the day's top stories, highlighting rumors about Apple TV and AI glasses. The show is available on iTunes, Apple Podcasts, Stitcher, TuneIn, Google Play, and via RSS feeds, and is sponsored by CardPointers.",
+      "title": "9to5Mac Daily: June 1, 2026 – Apple TV and AI glasses rumors",
+      "t": 1780385388995
     }
   }
 }
