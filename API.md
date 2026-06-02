@@ -23,9 +23,11 @@ Returns the newest articles across all sources, optionally filtered and paginate
 |-----------|--------|---------|----------------------------------------------------------------------------|
 | `q`       | string | –       | Full-text search across title, summary, keywords, author, source           |
 | `keyword` | string | –       | Filter by keyword/tag (case-insensitive). Comma-separated = AND. Alias: `tag` |
-| `source`  | string | –       | Filter by source id or name (`techcrunch`, `siliconvalley`, `wired`, `theverge`, `arstechnica`). Comma = OR |
-| `region`  | string | –       | Filter by region (`Silicon Valley`, `San Francisco`, `SF Bay Area`, `National`). Comma = OR |
+| `source`  | string | –       | Filter by source id or name (`techcrunch`, `siliconvalley`, `wired`, `theverge`, `arstechnica`, `x`). Comma = OR |
+| `region`  | string | –       | Filter by region (`Silicon Valley`, `San Francisco`, `SF Bay Area`, `National`, `Social`). Comma = OR |
 | `section` | string | –       | Filter by section                                                          |
+| `social`  | string | –       | `only` → just X posts · `exclude` → hide X posts (default: include both)    |
+| `min_score` | int  | 0       | Keep social (X) posts with `worthiness_score ≥ n` (0–100)                  |
 | `limit`   | int    | all     | Max articles to return (1–400)                                             |
 | `page`    | int    | –       | 1-based page number, used with `limit`                                     |
 | `offset`  | int    | 0       | Alternative to `page` (0-based)                                            |
@@ -63,6 +65,36 @@ Returns the newest articles across all sources, optionally filtered and paginate
 }
 ```
 
+**Social (X) items** carry everything above plus the newsworthiness verdict.
+TechScroll pulls the latest posts from major tech voices (Sam Altman, Anthropic,
+Claude, NVIDIA, Claude devs), scores each for *report-worthiness* + sentiment,
+and only surfaces the ones that read like news (replies, retweets and banter are
+dropped; duplicates are collapsed against the article feed):
+
+```jsonc
+{
+  "id": "x_1928…",
+  "title": "We've raised $65 billion in Series H funding at a $965 billion …",
+  "link": "https://x.com/AnthropicAI/status/1928…",
+  "source": "X", "source_id": "x", "region": "Social",
+  "content_type": "post",
+  "author": "Anthropic · @AnthropicAI",
+  "handle": "AnthropicAI", "org": "Anthropic",
+  "published": "2026-05-28T16:00:00.000Z",
+  "section": "Funding & deals",
+  "categories": ["X", "Anthropic", "Funding & deals"],
+  "is_social": true,
+  "report_worthy": true,
+  "worthiness_score": 100,                 // 0–100, ≥55 ⇒ report-worthy
+  "sentiment": "neutral",                  // positive | neutral | negative
+  "sentiment_score": 0,                    // -1 … 1
+  "reasons": ["report-worthy", "business signal (raised, funding)", "concrete metrics"],
+  "metrics": { "likes": 12000, "retweets": 800, "replies": 300, "likes_h": "12K" }
+}
+```
+
+The top-level response also includes `"social": [<handles surfaced>]`.
+
 **Examples**
 
 ```bash
@@ -74,6 +106,15 @@ curl ".../api/articles?region=Silicon%20Valley&limit=20"
 
 # only TechCrunch + Wired
 curl ".../api/articles?source=techcrunch,wired&limit=20"
+
+# only report-worthy X posts from the tech voices
+curl ".../api/articles?social=only"
+
+# big stories only (high newsworthiness)
+curl ".../api/articles?social=only&min_score=85"
+
+# articles only, no social
+curl ".../api/articles?social=exclude&limit=20"
 
 # page 2 of AI articles
 curl ".../api/articles?keyword=Artificial%20Intelligence&limit=20&page=2"

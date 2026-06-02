@@ -1,0 +1,527 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>TechScroll — Creator Kit (for influencers &amp; press)</title>
+<meta name="description" content="Everything creators need to talk about TechScroll — app screenshots, talking points, content ideas, ready-to-post captions, and brand assets." />
+<meta name="theme-color" content="#070a0e" />
+<meta property="og:title" content="TechScroll — Creator Kit" />
+<meta property="og:description" content="App screenshots, talking points, content ideas and ready-to-post captions for creators covering TechScroll." />
+<meta property="og:type" content="website" />
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='22' fill='%23070a0e'/%3E%3Cpath d='M56 12 30 56h18l-6 32 28-46H50z' fill='%2300e08a'/%3E%3C/svg%3E" />
+<style>
+  :root {
+    --bg: #070a0e; --bg-elev: #0d1219; --panel: #0f151d; --panel-2: #141c26;
+    --line: #1d2735; --line-2: #2a384c;
+    --txt: #eef3f8; --txt-2: #c4ced9; --mut: #93a0b0;
+    --accent: #00e08a; --accent-2: #34c5ff; --accent-3: #a98bff;
+    --grad: linear-gradient(120deg, #00e08a 0%, #34c5ff 52%, #a98bff 100%);
+    --chip: #131b25; --chip-on: #04331f;
+    --radius: 16px; --radius-sm: 11px;
+    --mono: ui-monospace, "SF Mono", "JetBrains Mono", Menlo, Consolas, monospace;
+    --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Inter, Helvetica, Arial, sans-serif;
+    --shadow: 0 18px 50px -20px rgba(0,0,0,.85);
+  }
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  html, body { margin: 0; background: var(--bg); color: var(--txt); font-family: var(--sans); -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; }
+  body {
+    min-height: 100vh;
+    background:
+      radial-gradient(900px 520px at 12% -8%, rgba(0,224,138,.10), transparent 60%),
+      radial-gradient(820px 480px at 92% 4%, rgba(52,197,255,.10), transparent 58%),
+      radial-gradient(700px 600px at 60% 110%, rgba(169,139,255,.07), transparent 60%),
+      var(--bg);
+    background-attachment: fixed;
+  }
+  a { color: inherit; text-decoration: none; }
+  ::selection { background: rgba(0,224,138,.28); color: #eafff4; }
+  .topbar { position: fixed; inset: 0 0 auto 0; height: 3px; background: var(--grad); z-index: 50; opacity: .9; }
+
+  /* ---------- header ---------- */
+  header {
+    position: sticky; top: 0; z-index: 30;
+    background: linear-gradient(180deg, rgba(8,11,16,.92), rgba(8,11,16,.72));
+    backdrop-filter: blur(14px) saturate(1.3); -webkit-backdrop-filter: blur(14px) saturate(1.3);
+    border-bottom: 1px solid var(--line); padding: 16px 22px;
+  }
+  .header-inner { max-width: 1100px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
+  .brand { display: flex; align-items: center; gap: 13px; }
+  .bolt {
+    width: 38px; height: 38px; flex: 0 0 auto; border-radius: 11px; display: grid; place-items: center;
+    background: radial-gradient(120% 120% at 30% 20%, rgba(0,224,138,.22), rgba(52,197,255,.12) 60%, transparent);
+    border: 1px solid var(--line-2); box-shadow: inset 0 1px 0 rgba(255,255,255,.06), 0 6px 20px -8px rgba(0,224,138,.5);
+  }
+  .bolt svg { filter: drop-shadow(0 0 6px rgba(0,224,138,.6)); }
+  .brand h1 { font-size: 22px; margin: 0; letter-spacing: -.6px; font-weight: 800; line-height: 1; }
+  .brand h1 .g { background: var(--grad); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; }
+  .brand .tag { display: block; font-family: var(--mono); font-size: 11px; color: var(--mut); letter-spacing: .3px; margin-top: 4px; }
+  .nav { display: flex; gap: 18px; font-family: var(--mono); font-size: 12.5px; color: var(--mut); flex-wrap: wrap; }
+  .nav a:hover { color: var(--accent); }
+
+  /* ---------- layout ---------- */
+  main { max-width: 1100px; margin: 0 auto; padding: 40px 22px 90px; }
+  section { margin-bottom: 64px; scroll-margin-top: 90px; }
+  .eyebrow { font-family: var(--mono); font-size: 12px; letter-spacing: 2px; text-transform: uppercase; color: var(--accent); margin: 0 0 12px; }
+  h2.sec { font-size: 26px; letter-spacing: -.5px; margin: 0 0 8px; font-weight: 800; }
+  h2.sec .g { background: var(--grad); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; }
+  .sec-sub { color: var(--mut); font-size: 15px; max-width: 640px; margin: 0 0 28px; line-height: 1.6; }
+
+  /* ---------- hero ---------- */
+  .hero { text-align: center; padding: 36px 0 8px; }
+  .hero h2 { font-size: clamp(34px, 6vw, 56px); line-height: 1.05; letter-spacing: -1.5px; font-weight: 850; margin: 0 auto 18px; max-width: 760px; }
+  .hero h2 .g { background: var(--grad); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; }
+  .hero p { color: var(--txt-2); font-size: 18px; max-width: 600px; margin: 0 auto 26px; line-height: 1.6; }
+  .cta-row { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
+  .btn { font-family: var(--mono); font-size: 13.5px; padding: 13px 22px; border-radius: var(--radius); cursor: pointer; border: 1px solid var(--line-2); transition: .16s; display: inline-flex; align-items: center; gap: 9px; }
+  .btn.primary { background: var(--grad); color: #03130c; font-weight: 700; border: none; box-shadow: 0 10px 30px -12px rgba(0,224,138,.7); }
+  .btn.primary:hover { transform: translateY(-2px); box-shadow: 0 16px 40px -14px rgba(0,224,138,.85); }
+  .btn.ghost { background: var(--panel); color: var(--txt-2); }
+  .btn.ghost:hover { border-color: var(--accent); color: var(--txt); background: var(--bg-elev); }
+
+  /* ---------- phone mockups ---------- */
+  .phones { display: flex; gap: 30px; justify-content: center; flex-wrap: wrap; align-items: flex-end; margin-top: 14px; }
+  .phone-wrap { text-align: center; }
+  .phone-wrap .cap { font-family: var(--mono); font-size: 12px; color: var(--mut); margin-top: 16px; }
+  .phone {
+    width: 248px; height: 524px; border-radius: 40px; padding: 11px; position: relative;
+    background: linear-gradient(160deg, #1a2430, #0a0e14);
+    border: 1px solid var(--line-2);
+    box-shadow: var(--shadow), inset 0 1px 0 rgba(255,255,255,.05);
+  }
+  .phone:nth-child(2) { transform: translateY(-22px); }
+  .phone .notch { position: absolute; top: 12px; left: 50%; transform: translateX(-50%); width: 92px; height: 22px; background: #05080c; border-radius: 0 0 14px 14px; z-index: 4; }
+  .screen { width: 100%; height: 100%; border-radius: 30px; overflow: hidden; background: var(--bg); position: relative; }
+  /* status + app bar inside screen */
+  .scr-top { padding: 26px 14px 10px; }
+  .scr-bar { display: flex; align-items: center; gap: 8px; }
+  .scr-bolt { width: 22px; height: 22px; border-radius: 7px; display: grid; place-items: center; background: radial-gradient(120% 120% at 30% 20%, rgba(0,224,138,.25), transparent); border: 1px solid var(--line-2); }
+  .scr-title { font-size: 15px; font-weight: 800; letter-spacing: -.3px; }
+  .scr-title .g { background: var(--grad); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; }
+  .scr-search { margin: 12px 14px 4px; background: var(--panel); border: 1px solid var(--line); border-radius: 11px; padding: 8px 11px; font-size: 11px; color: var(--mut); font-family: var(--mono); display: flex; align-items: center; gap: 7px; }
+  .scr-chips { display: flex; gap: 6px; padding: 10px 14px; overflow: hidden; }
+  .scr-chip { font-family: var(--mono); font-size: 9.5px; padding: 5px 10px; border-radius: 999px; border: 1px solid var(--line); color: var(--txt-2); background: var(--chip); white-space: nowrap; }
+  .scr-chip.on { background: var(--chip-on); color: var(--accent); border-color: var(--accent); }
+  .scr-feed { padding: 4px 14px; display: flex; flex-direction: column; gap: 11px; }
+  .scr-card { background: var(--panel); border: 1px solid var(--line); border-radius: 13px; overflow: hidden; }
+  .scr-img { height: 70px; background: linear-gradient(135deg, var(--panel-2), #16202c); position: relative; }
+  .scr-img.a { background: linear-gradient(135deg, rgba(0,224,138,.30), rgba(52,197,255,.18)); }
+  .scr-img.b { background: linear-gradient(135deg, rgba(169,139,255,.28), rgba(52,197,255,.16)); }
+  .scr-img.c { background: linear-gradient(135deg, rgba(52,197,255,.26), rgba(0,224,138,.16)); }
+  .scr-cb { padding: 9px 11px 11px; }
+  .scr-meta { font-family: var(--mono); font-size: 8.5px; color: var(--accent); margin-bottom: 5px; display: flex; align-items: center; gap: 5px; }
+  .scr-meta .d { width: 5px; height: 5px; border-radius: 50%; background: var(--accent); }
+  .scr-h { font-size: 11.5px; font-weight: 700; line-height: 1.3; color: var(--txt); }
+  .scr-sub { font-size: 9px; color: var(--mut); margin-top: 5px; line-height: 1.4; }
+  .scr-tabs { position: absolute; bottom: 0; left: 0; right: 0; display: flex; justify-content: space-around; padding: 9px 0 12px; background: linear-gradient(180deg, transparent, var(--bg) 40%); border-top: 1px solid var(--line); font-size: 8.5px; font-family: var(--mono); color: var(--mut); }
+  .scr-tabs .t.on { color: var(--accent); }
+  .scr-tabs .t { display: flex; flex-direction: column; align-items: center; gap: 3px; }
+  .scr-tabs .ic { width: 16px; height: 16px; border-radius: 5px; border: 1.5px solid currentColor; }
+  /* topic-picker variant */
+  .pick-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 9px; padding: 14px; }
+  .pick { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 16px 10px; text-align: center; font-size: 11px; color: var(--txt-2); font-family: var(--mono); }
+  .pick.on { background: var(--chip-on); border-color: var(--accent); color: var(--accent); }
+  .pick .e { font-size: 20px; display: block; margin-bottom: 7px; }
+  .pick-head { padding: 28px 16px 4px; }
+  .pick-head .k { font-size: 16px; font-weight: 800; letter-spacing: -.3px; }
+  .pick-head .s { font-size: 10px; color: var(--mut); margin-top: 5px; font-family: var(--mono); }
+  .pick-cta { margin: 6px 14px; background: var(--grad); color: #03130c; font-weight: 700; text-align: center; padding: 11px; border-radius: 12px; font-size: 11.5px; font-family: var(--mono); }
+
+  /* ---------- generic cards / grids ---------- */
+  .grid { display: grid; gap: 16px; }
+  .grid.two { grid-template-columns: repeat(2, 1fr); }
+  .grid.three { grid-template-columns: repeat(3, 1fr); }
+  @media (max-width: 760px) { .grid.two, .grid.three { grid-template-columns: 1fr; } .phone:nth-child(2){ transform: none; } }
+  .panel { background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); padding: 22px; transition: .18s; position: relative; }
+  .panel:hover { border-color: var(--line-2); box-shadow: var(--shadow); transform: translateY(-2px); }
+  .panel h3 { margin: 0 0 9px; font-size: 16.5px; letter-spacing: -.2px; display: flex; align-items: center; gap: 9px; }
+  .panel h3 .ix { font-family: var(--mono); font-size: 12px; color: var(--accent); border: 1px solid var(--line-2); border-radius: 7px; padding: 2px 8px; }
+  .panel p { margin: 0; color: var(--txt-2); font-size: 14px; line-height: 1.6; }
+  .panel ul { margin: 8px 0 0; padding-left: 18px; color: var(--txt-2); font-size: 13.5px; line-height: 1.7; }
+  .pull { color: var(--accent-2); font-weight: 600; }
+
+  /* facts */
+  .facts { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
+  @media (max-width: 760px) { .facts { grid-template-columns: repeat(2, 1fr); } }
+  .fact { background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); padding: 22px 18px; text-align: center; }
+  .fact .n { font-size: 30px; font-weight: 850; letter-spacing: -1px; background: var(--grad); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; }
+  .fact .l { font-family: var(--mono); font-size: 11px; color: var(--mut); margin-top: 6px; letter-spacing: .3px; }
+
+  /* copy blocks */
+  .copy { background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); padding: 18px 18px 16px; position: relative; }
+  .copy + .copy { margin-top: 14px; }
+  .copy .ctx { color: var(--txt); font-size: 14.5px; line-height: 1.65; white-space: pre-wrap; }
+  .copy .tagln { color: var(--accent); font-family: var(--mono); font-size: 12.5px; margin-top: 10px; word-break: break-word; }
+  .copy .cpy { position: absolute; top: 14px; right: 14px; font-family: var(--mono); font-size: 11px; color: var(--mut); border: 1px solid var(--line-2); border-radius: 8px; padding: 5px 10px; cursor: pointer; transition: .15s; background: var(--bg-elev); }
+  .copy .cpy:hover { color: var(--accent); border-color: var(--accent); }
+  .copy .cpy.done { color: var(--accent); border-color: var(--accent); }
+
+  /* brand swatches */
+  .swatches { display: flex; gap: 12px; flex-wrap: wrap; }
+  .sw { width: 92px; }
+  .sw .chip { height: 60px; border-radius: 12px; border: 1px solid var(--line-2); }
+  .sw .nm { font-family: var(--mono); font-size: 10.5px; color: var(--mut); margin-top: 7px; }
+  .sw .nm b { color: var(--txt); display: block; font-weight: 600; }
+
+  /* hashtag pills */
+  .tags { display: flex; flex-wrap: wrap; gap: 8px; }
+  .tags .ht { font-family: var(--mono); font-size: 12.5px; background: var(--chip); border: 1px solid var(--line); color: var(--txt-2); padding: 6px 12px; border-radius: 999px; cursor: pointer; transition: .14s; }
+  .tags .ht:hover { color: var(--accent); border-color: var(--accent); }
+
+  footer { max-width: 1100px; margin: 0 auto; text-align: center; color: var(--mut); font-family: var(--mono); font-size: 11.5px; padding: 26px 22px 50px; line-height: 1.8; border-top: 1px solid var(--line); }
+  footer .fbrand { color: var(--txt); font-weight: 700; }
+  footer .fbrand .g { background: var(--grad); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; }
+  footer a { color: var(--accent-2); }
+  footer .links { margin-top: 12px; display: flex; gap: 18px; justify-content: center; flex-wrap: wrap; }
+  footer .legal { color: #8893a3; max-width: 760px; margin: 12px auto 0; line-height: 1.7; }
+
+  a:focus-visible, button:focus-visible, [role="button"]:focus-visible { outline: 2px solid var(--accent-2); outline-offset: 2px; border-radius: 9px; }
+  @media (prefers-reduced-motion: reduce) { *, *::before, *::after { transition-duration: .001ms !important; scroll-behavior: auto !important; } }
+</style>
+</head>
+<body>
+<div class="topbar"></div>
+
+<header>
+  <div class="header-inner">
+    <a class="brand" href="/">
+      <span class="bolt"><svg width="20" height="20" viewBox="0 0 24 24" fill="none"><path d="M13 2 4 14h7l-2 8 9-12h-7z" fill="#00e08a"/></svg></span>
+      <div>
+        <h1>Tech<span class="g">Scroll</span></h1>
+        <span class="tag">// creator kit</span>
+      </div>
+    </a>
+    <nav class="nav">
+      <a href="#screens">Screenshots</a>
+      <a href="#talk">Talking points</a>
+      <a href="#ideas">Content ideas</a>
+      <a href="#captions">Captions</a>
+      <a href="#assets">Brand assets</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+
+  <!-- ===================== HERO ===================== -->
+  <section class="hero">
+    <p class="eyebrow">For creators, influencers &amp; press</p>
+    <h2>Got an audience that loves <span class="g">tech</span>? Let's make content.</h2>
+    <p>TechScroll is the fast, clean way to scan everything happening in Silicon Valley — one feed, your topics, zero noise. This kit has the screenshots, angles, and ready-to-post copy to make talking about it effortless.</p>
+    <div class="cta-row">
+      <a class="btn primary" href="/">Open the live app ⚡</a>
+      <a class="btn ghost" href="#assets">Grab brand assets</a>
+    </div>
+  </section>
+
+  <!-- ===================== SCREENSHOTS ===================== -->
+  <!--
+    SWAP IN REAL SCREENSHOTS:
+    The phone frames below contain a CSS recreation of the app UI so the page
+    works with zero image assets. To use real captures instead, drop PNGs into an
+    /img folder and replace the inner ".screen" markup of a .phone with:
+        <img class="screen" src="/img/feed.png" alt="TechScroll feed" />
+    (keep the .phone / .notch wrapper for the device frame).
+  -->
+  <section id="screens">
+    <p class="eyebrow">01 — Screenshots</p>
+    <h2 class="sec">See it on a <span class="g">phone</span></h2>
+    <p class="sec-sub">Drop these straight into a reel, a carousel, or a thumbnail. Three views: the live feed, the topic picker, and keyword search in action.</p>
+
+    <div class="phones">
+      <!-- Phone 1: feed -->
+      <div class="phone-wrap">
+        <div class="phone">
+          <div class="notch"></div>
+          <div class="screen">
+            <div class="scr-top">
+              <div class="scr-bar">
+                <span class="scr-bolt"><svg width="12" height="12" viewBox="0 0 24 24" fill="none"><path d="M13 2 4 14h7l-2 8 9-12h-7z" fill="#00e08a"/></svg></span>
+                <span class="scr-title">Tech<span class="g">Scroll</span></span>
+              </div>
+            </div>
+            <div class="scr-chips">
+              <span class="scr-chip on">For you</span>
+              <span class="scr-chip">AI</span>
+              <span class="scr-chip">Funding</span>
+              <span class="scr-chip">Startups</span>
+            </div>
+            <div class="scr-feed">
+              <div class="scr-card">
+                <div class="scr-img a"></div>
+                <div class="scr-cb">
+                  <div class="scr-meta"><span class="d"></span>TechCrunch · 2h</div>
+                  <div class="scr-h">OpenAI's new model lands — here's what changed</div>
+                  <div class="scr-sub">The release ships with cheaper inference and a longer context window…</div>
+                </div>
+              </div>
+              <div class="scr-card">
+                <div class="scr-img b"></div>
+                <div class="scr-cb">
+                  <div class="scr-meta"><span class="d"></span>The Verge · 4h</div>
+                  <div class="scr-h">A startup raised $40M to rethink the browser</div>
+                </div>
+              </div>
+            </div>
+            <div class="scr-tabs">
+              <span class="t on"><span class="ic"></span>Feed</span>
+              <span class="t"><span class="ic"></span>Saved</span>
+              <span class="t"><span class="ic"></span>Topics</span>
+            </div>
+          </div>
+        </div>
+        <div class="cap">The feed — newest first, your topics</div>
+      </div>
+
+      <!-- Phone 2: topic picker -->
+      <div class="phone-wrap">
+        <div class="phone">
+          <div class="notch"></div>
+          <div class="screen">
+            <div class="pick-head">
+              <div class="k">Pick your <span style="color:var(--accent)">topics</span></div>
+              <div class="s">Choose at least 3 to build your feed</div>
+            </div>
+            <div class="pick-grid">
+              <div class="pick on"><span class="e">🤖</span>AI</div>
+              <div class="pick on"><span class="e">💰</span>Funding</div>
+              <div class="pick"><span class="e">🚀</span>Startups</div>
+              <div class="pick on"><span class="e">🔐</span>Security</div>
+              <div class="pick"><span class="e">📱</span>Apple</div>
+              <div class="pick"><span class="e">🎮</span>Gaming</div>
+            </div>
+            <div class="pick-cta">Build my feed →</div>
+            <div class="scr-tabs">
+              <span class="t"><span class="ic"></span>Feed</span>
+              <span class="t"><span class="ic"></span>Saved</span>
+              <span class="t on"><span class="ic"></span>Topics</span>
+            </div>
+          </div>
+        </div>
+        <div class="cap">Topic picker — make the feed yours</div>
+      </div>
+
+      <!-- Phone 3: search -->
+      <div class="phone-wrap">
+        <div class="phone">
+          <div class="notch"></div>
+          <div class="screen">
+            <div class="scr-top">
+              <div class="scr-bar">
+                <span class="scr-bolt"><svg width="12" height="12" viewBox="0 0 24 24" fill="none"><path d="M13 2 4 14h7l-2 8 9-12h-7z" fill="#00e08a"/></svg></span>
+                <span class="scr-title">Search</span>
+              </div>
+            </div>
+            <div class="scr-search">
+              <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+              <span style="color:var(--accent)">nvidia</span><span style="opacity:.5">|</span>
+            </div>
+            <div class="scr-chips"><span class="scr-chip on">nvidia ✕</span><span class="scr-chip">12 results</span></div>
+            <div class="scr-feed">
+              <div class="scr-card">
+                <div class="scr-img c"></div>
+                <div class="scr-cb">
+                  <div class="scr-meta"><span class="d"></span>Ars Technica · 1h</div>
+                  <div class="scr-h">Nvidia ships next-gen chips for data centers</div>
+                </div>
+              </div>
+              <div class="scr-card">
+                <div class="scr-cb" style="padding-top:11px">
+                  <div class="scr-meta"><span class="d"></span>Wired · 6h</div>
+                  <div class="scr-h">Inside Nvidia's bet on robotics</div>
+                  <div class="scr-sub">Every source, filtered to one keyword in real time.</div>
+                </div>
+              </div>
+            </div>
+            <div class="scr-tabs">
+              <span class="t on"><span class="ic"></span>Feed</span>
+              <span class="t"><span class="ic"></span>Saved</span>
+              <span class="t"><span class="ic"></span>Topics</span>
+            </div>
+          </div>
+        </div>
+        <div class="cap">Search any keyword across every source</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== KEY FACTS ===================== -->
+  <section id="facts">
+    <p class="eyebrow">The numbers</p>
+    <h2 class="sec">Facts you can <span class="g">quote</span></h2>
+    <p class="sec-sub">Drop these into a script or a slide. All numbers refer to the public, fair-use aggregation feed.</p>
+    <div class="facts">
+      <div class="fact"><div class="n">5</div><div class="l">trusted sources, one feed</div></div>
+      <div class="fact"><div class="n">350+</div><div class="l">stories cached &amp; searchable</div></div>
+      <div class="fact"><div class="n">&lt;5s</div><div class="l">to scan the day's headlines</div></div>
+      <div class="fact"><div class="n">$0</div><div class="l">free · no paywall</div></div>
+    </div>
+    <p class="sec-sub" style="margin-top:18px;font-size:13px">Sources aggregated: TechCrunch · SiliconValley.com · Wired · The Verge · Ars Technica. Every headline links back to the original publisher.</p>
+  </section>
+
+  <!-- ===================== TALKING POINTS ===================== -->
+  <section id="talk">
+    <p class="eyebrow">02 — Talking points</p>
+    <h2 class="sec">What to <span class="g">say</span> about it</h2>
+    <p class="sec-sub">The angles that land. Pick the one that fits your voice — you don't need all of them.</p>
+    <div class="grid two">
+      <div class="panel"><h3><span class="ix">A</span>The one-liner</h3><p>"It's the <span class="pull">doomscroll that actually makes you smarter</span> — every tech headline from the sources I trust, in one feed, filtered to the topics I care about."</p></div>
+      <div class="panel"><h3><span class="ix">B</span>The problem it kills</h3><p>Stop opening six news sites and twenty tabs. TechScroll pulls TechCrunch, Wired, The Verge, Ars Technica &amp; SiliconValley.com into <span class="pull">one clean stream</span> — no algorithm rage-bait, no autoplay junk.</p></div>
+      <div class="panel"><h3><span class="ix">C</span>The killer feature</h3><p>Type a keyword — <span class="pull">"AI", "funding", "OpenAI", "nvidia"</span> — and the whole feed filters live across every source at once. It's a personal tech-news search engine.</p></div>
+      <div class="panel"><h3><span class="ix">D</span>Who it's for</h3><p>Founders, devs, VCs, PMs, and anyone who needs to <span class="pull">sound informed in the standup</span> without losing an hour to the timeline. Built for people who are busy but curious.</p></div>
+      <div class="panel"><h3><span class="ix">E</span>Why it feels good</h3><p>Fast, dark, distraction-free. No infinite ads, no clickbait ranking, no "you won't believe." Just <span class="pull">headlines, sources, and a tap-through</span> to the real article.</p></div>
+      <div class="panel"><h3><span class="ix">F</span>The honest note</h3><p>It's an <span class="pull">independent reader</span> — not affiliated with the publishers. It links straight back to them. Great line for credibility: "It respects the source, it just saves you the chaos."</p></div>
+    </div>
+  </section>
+
+  <!-- ===================== CONTENT IDEAS ===================== -->
+  <section id="ideas">
+    <p class="eyebrow">03 — Content ideas</p>
+    <h2 class="sec">Ready-made <span class="g">video &amp; post</span> concepts</h2>
+    <p class="sec-sub">Hooks and formats that work for short-form. Each is a full concept you can shoot today.</p>
+    <div class="grid two">
+      <div class="panel"><h3>⏱️ "5 minutes, fully caught up"</h3><p>Screen-record yourself scanning the feed for 5 min before coffee. Voiceover the 3 stories that matter. <b>Hook:</b> "This is how I stay on top of tech without doomscrolling for an hour."</p></div>
+      <div class="panel"><h3>🆚 "6 tabs vs 1 app"</h3><p>Split screen: messy browser with TechCrunch/Verge/Wired tabs on one side, TechScroll on the other. <b>Hook:</b> "POV: you finally stopped opening six news sites every morning."</p></div>
+      <div class="panel"><h3>🔍 "Type one word, watch this"</h3><p>Film the live keyword filter. Type "AI" → feed snaps to AI stories across every source. <b>Hook:</b> "It's basically a search engine for tech news and it's free."</p></div>
+      <div class="panel"><h3>🧠 "Apps every founder should have"</h3><p>List format — slot TechScroll as "the one that keeps me informed." <b>Hook:</b> "3 apps I open before I check Slack."</p></div>
+      <div class="panel"><h3>📲 "Rate my home screen"</h3><p>Casual home-screen tour; spend 10s on why TechScroll replaced your news app. Low-effort, high-relatability.</p></div>
+      <div class="panel"><h3>🌙 "Doomscroll, but make it productive"</h3><p>Lean into the doomscroll meme, then flip it: "same dopamine, but I actually learn something." Great for a relatable, funny tone.</p></div>
+    </div>
+  </section>
+
+  <!-- ===================== CAPTIONS ===================== -->
+  <section id="captions">
+    <p class="eyebrow">04 — Copy &amp; paste</p>
+    <h2 class="sec">Captions, ready to <span class="g">post</span></h2>
+    <p class="sec-sub">Tap copy, tweak the voice, ship it. Swap the link for your referral/UTM if you have one.</p>
+
+    <div class="copy">
+      <button class="cpy" data-copy>copy</button>
+      <div class="ctx">Found the app that finally fixed my tech-news routine 👀 One feed, every source, filtered to exactly what I care about. No more 6 open tabs every morning.</div>
+      <div class="tagln">→ techscroll.app  ·  #tech #startups #AI</div>
+    </div>
+
+    <div class="copy">
+      <button class="cpy" data-copy>copy</button>
+      <div class="ctx">me: "I'll just check the tech news real quick"
+also me, 47 minutes deep in 6 tabs: 🫠
+
+TechScroll = all of it in one clean feed. type a keyword, done.</div>
+      <div class="tagln">→ techscroll.app  ·  #techtok #productivity #founders</div>
+    </div>
+
+    <div class="copy">
+      <button class="cpy" data-copy>copy</button>
+      <div class="ctx">If you work in tech, you need this. TechScroll pulls TechCrunch, The Verge, Wired, Ars Technica + more into ONE feed — and you can search any topic live. Free. Dark mode. No clickbait ranking.</div>
+      <div class="tagln">→ techscroll.app  ·  #devtools #VC #productmanagement</div>
+    </div>
+
+    <div style="margin-top:24px">
+      <p class="sec-sub" style="margin-bottom:12px">Hashtag bank — tap to copy one:</p>
+      <div class="tags" id="htags">
+        <span class="ht">#tech</span><span class="ht">#technews</span><span class="ht">#techtok</span><span class="ht">#startups</span><span class="ht">#AI</span><span class="ht">#siliconvalley</span><span class="ht">#founders</span><span class="ht">#VC</span><span class="ht">#devtools</span><span class="ht">#productivity</span><span class="ht">#apps</span><span class="ht">#doomscroll</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== BRAND ASSETS ===================== -->
+  <section id="assets">
+    <p class="eyebrow">05 — Brand assets</p>
+    <h2 class="sec">Logo, colors &amp; the <span class="g">rules</span></h2>
+    <p class="sec-sub">Use these so it always looks like TechScroll. Keep the bolt on a dark background.</p>
+
+    <div class="grid two">
+      <div class="panel">
+        <h3>The mark</h3>
+        <div style="display:flex;align-items:center;gap:14px;margin-top:6px">
+          <span class="bolt" style="width:54px;height:54px;border-radius:15px"><svg width="28" height="28" viewBox="0 0 24 24" fill="none"><path d="M13 2 4 14h7l-2 8 9-12h-7z" fill="#00e08a"/></svg></span>
+          <div style="font-size:26px;font-weight:850;letter-spacing:-.8px">Tech<span style="background:var(--grad);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent">Scroll</span></div>
+        </div>
+        <p style="margin-top:14px">Wordmark is one word, camel-case: <b>TechScroll</b>. The ⚡ bolt is the icon. Always pair with the dark background — don't put it on white.</p>
+      </div>
+      <div class="panel">
+        <h3>Palette</h3>
+        <div class="swatches" style="margin-top:8px">
+          <div class="sw"><div class="chip" style="background:#00e08a"></div><div class="nm"><b>Accent</b>#00e08a</div></div>
+          <div class="sw"><div class="chip" style="background:#34c5ff"></div><div class="nm"><b>Sky</b>#34c5ff</div></div>
+          <div class="sw"><div class="chip" style="background:#a98bff"></div><div class="nm"><b>Violet</b>#a98bff</div></div>
+          <div class="sw"><div class="chip" style="background:#070a0e"></div><div class="nm"><b>Ink</b>#070a0e</div></div>
+        </div>
+        <p style="margin-top:14px">The signature look is the green→sky→violet gradient on near-black. That's the vibe to match in thumbnails.</p>
+      </div>
+    </div>
+
+    <div class="panel" style="margin-top:16px">
+      <h3>Quick do / don't</h3>
+      <div class="grid two" style="margin-top:6px">
+        <ul>
+          <li><b style="color:var(--accent)">Do</b> call it an independent news <i>reader</i> / aggregator.</li>
+          <li><b style="color:var(--accent)">Do</b> say headlines link back to the original publisher.</li>
+          <li><b style="color:var(--accent)">Do</b> show the live keyword search — it's the wow moment.</li>
+        </ul>
+        <ul>
+          <li><b style="color:var(--accent-3)">Don't</b> imply it's made by or partnered with TechCrunch, Wired, etc.</li>
+          <li><b style="color:var(--accent-3)">Don't</b> claim it hosts full articles — it links out.</li>
+          <li><b style="color:var(--accent-3)">Don't</b> recolor the bolt or put the logo on a light bg.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== CONTACT ===================== -->
+  <section style="text-align:center;margin-bottom:24px">
+    <h2 class="sec">Want assets, a code, or a collab?</h2>
+    <p class="sec-sub" style="margin:0 auto 22px">Reach out and we'll send hi-res logos, fresh screenshots, and anything else you need.</p>
+    <div class="cta-row">
+      <a class="btn primary" href="mailto:support@techscroll.app?subject=Creator%20collab%20%E2%80%94%20TechScroll">Email the team</a>
+      <a class="btn ghost" href="/">Open the live app</a>
+    </div>
+  </section>
+
+</main>
+
+<footer>
+  <span class="fbrand">Tech<span class="g">Scroll</span></span> — creator kit. Built for people who talk about tech.<br/>
+  <div class="links">
+    <a href="/">Home</a>
+    <a href="/privacy">Privacy</a>
+    <a href="/support">Support</a>
+    <a href="mailto:support@techscroll.app">Contact</a>
+  </div>
+  <p class="legal">
+    TechScroll is an independent news reader and is <b>not affiliated with, endorsed by, or sponsored by</b>
+    TechCrunch, SiliconValley.com, Wired, The Verge, Ars Technica, or their owners. Creators are welcome to use
+    the screenshots, copy, and brand assets on this page to talk about TechScroll. Please don't imply an official
+    partnership with the news sources we aggregate.
+  </p>
+</footer>
+
+<script>
+  // topbar scroll progress
+  const topbar = document.querySelector(".topbar");
+  addEventListener("scroll", () => {
+    const h = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+    const sc = document.documentElement.scrollTop;
+    topbar.style.transform = `scaleX(${h > 0 ? sc / h : 0})`;
+  }, { passive: true });
+  topbar.style.transformOrigin = "left";
+
+  // copy-to-clipboard for caption blocks
+  function flash(btn, label) { const o = btn.textContent; btn.textContent = label; btn.classList.add("done"); setTimeout(() => { btn.textContent = o; btn.classList.remove("done"); }, 1400); }
+  document.querySelectorAll("[data-copy]").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      const block = btn.closest(".copy");
+      const text = block.querySelector(".ctx").textContent.trim() + "\n\n" + block.querySelector(".tagln").textContent.replace("→ ", "").trim();
+      navigator.clipboard.writeText(text).then(() => flash(btn, "copied ✓")).catch(() => flash(btn, "select & copy"));
+    });
+  });
+  // tap a hashtag to copy it
+  document.querySelectorAll("#htags .ht").forEach((el) => {
+    el.addEventListener("click", () => {
+      navigator.clipboard.writeText(el.textContent).then(() => { const o = el.textContent; el.textContent = "copied ✓"; setTimeout(() => el.textContent = o, 1100); });
+    });
+  });
+</script>
+</body>
+</html>
