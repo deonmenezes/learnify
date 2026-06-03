@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-03T06:16:19.355Z",
+  "generated_at": "2026-06-03T06:24:18.748Z",
   "handles": [
-    "AnthropicAI",
     "nvidia",
+    "AnthropicAI",
     "NVIDIAAI"
   ],
   "count": 18,
@@ -45,7 +45,9 @@
         "retweets": 37,
         "replies": 21,
         "likes_h": "233"
-      }
+      },
+      "engagement": 328,
+      "hot": false
     },
     {
       "id": "x_2061954287324766570",
@@ -82,7 +84,9 @@
         "retweets": 10,
         "replies": 16,
         "likes_h": "125"
-      }
+      },
+      "engagement": 161,
+      "hot": false
     },
     {
       "id": "x_2061916898925699414",
@@ -120,7 +124,9 @@
         "retweets": 46,
         "replies": 30,
         "likes_h": "383"
-      }
+      },
+      "engagement": 505,
+      "hot": false
     },
     {
       "id": "x_2061907873672941929",
@@ -159,7 +165,9 @@
         "retweets": 89,
         "replies": 40,
         "likes_h": "990"
-      }
+      },
+      "engagement": 1208,
+      "hot": false
     },
     {
       "id": "x_2061904438478970985",
@@ -198,7 +206,9 @@
         "retweets": 39,
         "replies": 33,
         "likes_h": "366"
-      }
+      },
+      "engagement": 477,
+      "hot": false
     },
     {
       "id": "x_2061893154899366260",
@@ -238,7 +248,9 @@
         "retweets": 133,
         "replies": 67,
         "likes_h": "1.1K"
-      }
+      },
+      "engagement": 1416,
+      "hot": false
     },
     {
       "id": "x_2061796327986454883",
@@ -279,7 +291,9 @@
         "retweets": 368,
         "replies": 294,
         "likes_h": "3.4K"
-      }
+      },
+      "engagement": 4473,
+      "hot": true
     },
     {
       "id": "x_2061606345007104093",
@@ -318,7 +332,9 @@
         "retweets": 29,
         "replies": 26,
         "likes_h": "169"
-      }
+      },
+      "engagement": 253,
+      "hot": false
     },
     {
       "id": "x_2061502320752419085",
@@ -356,7 +372,9 @@
         "retweets": 82,
         "replies": 40,
         "likes_h": "412"
-      }
+      },
+      "engagement": 616,
+      "hot": false
     },
     {
       "id": "x_2061483007249203644",
@@ -396,7 +414,9 @@
         "retweets": 139,
         "replies": 58,
         "likes_h": "786"
-      }
+      },
+      "engagement": 1122,
+      "hot": false
     },
     {
       "id": "x_2061478052257841495",
@@ -437,7 +457,9 @@
         "retweets": 2636,
         "replies": 953,
         "likes_h": "21.6K"
-      }
+      },
+      "engagement": 27787,
+      "hot": true
     },
     {
       "id": "x_2061313474005737829",
@@ -476,7 +498,9 @@
         "retweets": 421,
         "replies": 290,
         "likes_h": "4.1K"
-      }
+      },
+      "engagement": 5275,
+      "hot": true
     },
     {
       "id": "x_2061308434629132553",
@@ -517,7 +541,9 @@
         "retweets": 398,
         "replies": 93,
         "likes_h": "2.6K"
-      }
+      },
+      "engagement": 3535,
+      "hot": true
     },
     {
       "id": "x_2060061348818518493",
@@ -561,7 +587,9 @@
         "retweets": 117,
         "replies": 71,
         "likes_h": "1.7K"
-      }
+      },
+      "engagement": 1984,
+      "hot": false
     },
     {
       "id": "x_2060061347522433422",
@@ -603,7 +631,9 @@
         "retweets": 1718,
         "replies": 1207,
         "likes_h": "22.3K"
-      }
+      },
+      "engagement": 26922,
+      "hot": true
     },
     {
       "id": "x_2059351260243919269",
@@ -643,7 +673,9 @@
         "retweets": 287,
         "replies": 323,
         "likes_h": "2.1K"
-      }
+      },
+      "engagement": 3019,
+      "hot": true
     },
     {
       "id": "x_2058983299092009421",
@@ -682,7 +714,9 @@
         "retweets": 683,
         "replies": 418,
         "likes_h": "4.4K"
-      }
+      },
+      "engagement": 6202,
+      "hot": true
     },
     {
       "id": "x_2057909104090169464",
@@ -724,7 +758,9 @@
         "retweets": 149,
         "replies": 113,
         "likes_h": "1.7K"
-      }
+      },
+      "engagement": 2068,
+      "hot": true
     }
   ]
 }

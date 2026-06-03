@@ -49,15 +49,16 @@ export default async function handler(req, res) {
     const kws = csv(req.query?.keyword).length ? csv(req.query?.keyword) : csv(req.query?.tag);
     const srcs = csv(req.query?.source);
     const regions = csv(req.query?.region);
-    const socialMode = str(req.query?.social).toLowerCase(); // "only" | "exclude" | ""
+    const socialMode = str(req.query?.social).toLowerCase(); // "only"|"hot"|"top"|"exclude"|""
     const minScore = pickInt(req.query?.min_score, 0, 0, 100);
     const papersMode = str(req.query?.papers).toLowerCase(); // "only" | "trending" | "exclude" | ""
+    const socialOnly = ["only", "hot", "top"].includes(socialMode);
 
     const filtered = all.filter((a) => {
       if (papersMode === "only" && !a.is_paper) return false;
       if (papersMode === "trending" && !a.trending) return false;
       if (papersMode === "exclude" && a.is_paper) return false;
-      if (socialMode === "only" && !a.is_social) return false;
+      if (socialOnly && !a.is_social) return false;
       if (socialMode === "exclude" && a.is_social) return false;
       if (a.is_social && minScore && (a.worthiness_score || 0) < minScore) return false;
       if (srcs.length && !srcs.includes(a.source_id) && !srcs.includes((a.source || "").toLowerCase())) return false;
@@ -76,6 +77,8 @@ export default async function handler(req, res) {
 
     // Trending papers are ranked by citations (the "top" sort), not recency.
     if (papersMode === "trending") filtered.sort((a, b) => (b.citations || 0) - (a.citations || 0));
+    // Hot/top tech on X = ranked by engagement (likes/retweets), not recency.
+    if (socialMode === "hot" || socialMode === "top") filtered.sort((a, b) => (b.engagement || 0) - (a.engagement || 0));
 
     const total = filtered.length;
     const limit = pickInt(req.query?.limit, total || 0, 1, 400);
