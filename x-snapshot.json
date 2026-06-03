@@ -1,12 +1,286 @@
 {
-  "generated_at": "2026-06-03T06:00:31.303Z",
+  "generated_at": "2026-06-03T06:16:19.355Z",
   "handles": [
-    "nvidia",
     "AnthropicAI",
+    "nvidia",
     "NVIDIAAI"
   ],
-  "count": 11,
+  "count": 18,
   "articles": [
+    {
+      "id": "x_2061961069212377313",
+      "title": "We are partnering with @Microsoft to enable secure, user-controlled AI on Windows. NVIDIA OpenShell runtime for agents will provide governance tools, policy enforcement, and smart local-to-cloud…",
+      "link": "https://x.com/nvidia/status/2061961069212377313",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-03T00:00:02.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "We are partnering with @Microsoft to enable secure, user-controlled AI on Windows. NVIDIA OpenShell runtime for agents will provide governance tools, policy enforcement, and smart local-to-cloud query routing. Learn more: https://nvda.ws/4uKWxaB",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 98,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (agents)",
+        "business signal (partnering)",
+        "links to a source"
+      ],
+      "metrics": {
+        "likes": 233,
+        "retweets": 37,
+        "replies": 21,
+        "likes_h": "233"
+      }
+    },
+    {
+      "id": "x_2061954287324766570",
+      "title": "The energy at GTC Taipei is unmatched. 💚 From packed sessions and live demos to conversations shaping what’s next in AI, here’s a look at the action across a show floor where innovation comes to…",
+      "link": "https://x.com/nvidia/status/2061954287324766570",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-02T23:33:06.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Commentary"
+      ],
+      "summary": "The energy at GTC Taipei is unmatched. 💚 From packed sessions and live demos to conversations shaping what’s next in AI, here’s a look at the action across a show floor where innovation comes to life.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 55,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy"
+      ],
+      "metrics": {
+        "likes": 125,
+        "retweets": 10,
+        "replies": 16,
+        "likes_h": "125"
+      }
+    },
+    {
+      "id": "x_2061916898925699414",
+      "title": "Taiwan isn’t just building AI infrastructure, it’s powering the world’s AI factory buildout. 👏 From fabs to factory floors, leaders like TSMC, Foxconn, QCT, Pegatron, and Wistron are using…",
+      "link": "https://x.com/nvidia/status/2061916898925699414",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-02T21:04:31.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "Taiwan isn’t just building AI infrastructure, it’s powering the world’s AI factory buildout. 👏 From fabs to factory floors, leaders like TSMC, Foxconn, QCT, Pegatron, and Wistron are using accelerated computing, digital twins, and AI agents to transform how AI systems are",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 75,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (agents)"
+      ],
+      "metrics": {
+        "likes": 383,
+        "retweets": 46,
+        "replies": 30,
+        "likes_h": "383"
+      }
+    },
+    {
+      "id": "x_2061907873672941929",
+      "title": "What does it take to build an AI factory ready for the agentic era? 80+ partners joined Jensen Huang at #NVIDIAGTC Taipei to show how NVIDIA MGX is making it possible. With NVIDIA Vera Rubin, 800…",
+      "link": "https://x.com/nvidia/status/2061907873672941929",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-02T20:28:40.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Commentary",
+        "NVIDIAGTC"
+      ],
+      "summary": "What does it take to build an AI factory ready for the agentic era? 80+ partners joined Jensen Huang at #NVIDIAGTC Taipei to show how NVIDIA MGX is making it possible. With NVIDIA Vera Rubin, 800 VDC, and partners spanning systems, power, and cooling, NVIDIA MGX is turning",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 60,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "high engagement (990 likes)"
+      ],
+      "metrics": {
+        "likes": 990,
+        "retweets": 89,
+        "replies": 40,
+        "likes_h": "990"
+      }
+    },
+    {
+      "id": "x_2061904438478970985",
+      "title": "NVIDIA DGX Station systems are beginning to arrive at the desks of developers and researchers. 📦 Enterprise teams can deploy data center-level performance locally with GB300-powered systems arriving…",
+      "link": "https://x.com/nvidia/status/2061904438478970985",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-02T20:15:01.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "NVIDIA DGX Station systems are beginning to arrive at the desks of developers and researchers. 📦 Enterprise teams can deploy data center-level performance locally with GB300-powered systems arriving from partners like @ASUS, @Dell, @GIGABYTEUSA, @HP, MSI and @Supermicro. 👉",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 89,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (data center)",
+        "business signal (enterprise)"
+      ],
+      "metrics": {
+        "likes": 366,
+        "retweets": 39,
+        "replies": 33,
+        "likes_h": "366"
+      }
+    },
+    {
+      "id": "x_2061893154899366260",
+      "title": "The AI era needs a new CPU. Meet NVIDIA Vera, 80% faster agentic task completion than x86. Built for AI factories. Built for what's next. The CPU for agents has arrived. 🔗 https://nvda.ws/4ugo9Uf",
+      "link": "https://x.com/nvidia/status/2061893154899366260",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-02T19:30:10.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "The AI era needs a new CPU. Meet NVIDIA Vera, 80% faster agentic task completion than x86. Built for AI factories. Built for what's next. The CPU for agents has arrived. 🔗 https://nvda.ws/4ugo9Uf",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 87,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "tech substance (agents)",
+        "links to a source",
+        "high engagement (1.1K likes)"
+      ],
+      "metrics": {
+        "likes": 1083,
+        "retweets": 133,
+        "replies": 67,
+        "likes_h": "1.1K"
+      }
+    },
+    {
+      "id": "x_2061796327986454883",
+      "title": "We’re expanding Project Glasswing. We’ve extended access to Claude Mythos Preview to approximately 150 additional organizations, based in more than fifteen countries. Read more about this expansion…",
+      "link": "https://x.com/AnthropicAI/status/2061796327986454883",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Anthropic · @AnthropicAI",
+      "handle": "AnthropicAI",
+      "org": "Anthropic",
+      "published": "2026-06-02T13:05:25.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "Anthropic",
+        "Product"
+      ],
+      "summary": "We’re expanding Project Glasswing. We’ve extended access to Claude Mythos Preview to approximately 150 additional organizations, based in more than fifteen countries. Read more about this expansion and our future plans for Project Glasswing: https://www.anthropic.com/news/expanding-project-glasswing",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 60,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "casual tone (this, based)",
+        "tech substance (claude)",
+        "links to a source",
+        "high engagement (3.4K likes)"
+      ],
+      "metrics": {
+        "likes": 3443,
+        "retweets": 368,
+        "replies": 294,
+        "likes_h": "3.4K"
+      }
+    },
     {
       "id": "x_2061606345007104093",
       "title": "Regional AI leaders are advancing sovereign AI with NVIDIA Nemotron. They’re building new datasets, sovereign AI models and agentic applications tailored to local languages, cultures and economies to…",
@@ -156,13 +430,13 @@
         "casual tone (this)",
         "business signal (s-1, s1, registration statement)",
         "links to a source",
-        "high engagement (19.5K likes)"
+        "high engagement (21.6K likes)"
       ],
       "metrics": {
-        "likes": 19475,
-        "retweets": 2296,
-        "replies": 813,
-        "likes_h": "19.5K"
+        "likes": 21562,
+        "retweets": 2636,
+        "replies": 953,
+        "likes_h": "21.6K"
       }
     },
     {
@@ -235,14 +509,14 @@
         "report-worthy",
         "announcement language (introducing, today we, releasing)",
         "tech substance (model, reasoning)",
-        "high engagement (2.5K likes)",
+        "high engagement (2.6K likes)",
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 2457,
-        "retweets": 371,
-        "replies": 79,
-        "likes_h": "2.5K"
+        "likes": 2646,
+        "retweets": 398,
+        "replies": 93,
+        "likes_h": "2.6K"
       }
     },
     {
@@ -283,8 +557,8 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 1671,
-        "retweets": 114,
+        "likes": 1679,
+        "retweets": 117,
         "replies": 71,
         "likes_h": "1.7K"
       }
@@ -325,9 +599,9 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 22261,
-        "retweets": 1715,
-        "replies": 1202,
+        "likes": 22279,
+        "retweets": 1718,
+        "replies": 1207,
         "likes_h": "22.3K"
       }
     },
@@ -365,9 +639,9 @@
         "high engagement (2.1K likes)"
       ],
       "metrics": {
-        "likes": 2120,
-        "retweets": 286,
-        "replies": 322,
+        "likes": 2122,
+        "retweets": 287,
+        "replies": 323,
         "likes_h": "2.1K"
       }
     },
@@ -404,9 +678,9 @@
         "high engagement (4.4K likes)"
       ],
       "metrics": {
-        "likes": 4422,
-        "retweets": 684,
-        "replies": 419,
+        "likes": 4418,
+        "retweets": 683,
+        "replies": 418,
         "likes_h": "4.4K"
       }
     },

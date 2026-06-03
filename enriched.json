@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-03T06:03:36.627Z",
+  "generated_at": "2026-06-03T06:16:01.434Z",
   "model": "nvidia/nemotron-3-super-120b-a12b",
-  "count": 202,
+  "count": 251,
   "items": {
     "x_2061606345007104093": {
       "ai_summary": "Regional AI leaders are leveraging NVIDIA Nemotron to build sovereign AI, crafting new datasets, models, and agentic applications customized for local languages, cultures, and economies. These initiatives aim to serve billions of people worldwide by aligning AI solutions with regional needs.",
@@ -1012,6 +1012,251 @@
       "ai_summary": "Sony's State of Play showcase will air on June 2 at 5 PM ET, giving an early look ahead of the Summer Game Fest weekend. The event arrives as PS5 prices continue to climb and Sony pursues a significant new strategic bet for the PlayStation brand.",
       "title": "PlayStation State of Play June 2026: All the news and trailers",
       "t": 1780466616625
+    },
+    "1vccj82": {
+      "ai_summary": "University of Toronto researchers demonstrated an AI‑driven worm that can infect any online device, regardless of its operating system or hardware. The proof‑of‑concept highlights a broad threat landscape where intelligent malware could autonomously spread across the internet.",
+      "title": "U of T researchers demonstrate AI worm could target any online device",
+      "t": 1780467176844
+    },
+    "1f6u8w0": {
+      "ai_summary": "The article titled \"Agentic Mfw.\" generated attention on Hacker News, receiving 132 points and 38 comments. Its discussion can be followed via the provided URLs.",
+      "title": "Agentic Mfw",
+      "t": 1780467184275
+    },
+    "10th86o": {
+      "ai_summary": "The article examines why nature produces a seemingly excessive number of redundant protein folds. It garnered 38 points and three comments on Hacker News.",
+      "title": "The Unreasonable Redundancy of Nature's Protein Folds",
+      "t": 1780467188527
+    },
+    "1u3n05d": {
+      "ai_summary": "Roku has made the source code for its Roku LT operating system available as an open‑source distribution. This allows developers to inspect, modify, and build upon the lightweight OS used in Roku’s LT streaming devices.",
+      "title": "Roku LT Operating System open source distribution",
+      "t": 1780467194383
+    },
+    "1dlx0hw": {
+      "ai_summary": "Capstone is a multi-platform, multi-architecture disassembly framework. Its project page is at capstone-engine.org and the related Hacker News submission has 32 points with zero comments.",
+      "title": "Capstone – multi-platform, multi-architecture disassembly framework",
+      "t": 1780467198794
+    },
+    "x_2061961069212377313": {
+      "ai_summary": "NVIDIA is partnering with Microsoft to deliver secure, user‑controlled AI on Windows. The NVIDIA OpenShell runtime for agents will offer governance tools, policy enforcement, and intelligent local‑to‑cloud query routing.",
+      "title": "We are partnering with @Microsoft to enable secure, user-controlled AI on Windows. NVIDIA OpenShell runtime for agents will provide governance tools, policy enforcement, and smart local-to-cloud…",
+      "t": 1780467199152
+    },
+    "v311v7": {
+      "ai_summary": "In a Stanford Law study, AI systems scored higher than law professors on a series of legal reasoning tasks. The results indicate that AI can match or surpass human performance in certain law school assessments.",
+      "title": "AI outperforms law professors in Stanford Law study",
+      "t": 1780467200447
+    },
+    "x_2061954287324766570": {
+      "ai_summary": "GTC Taipei drew a lively crowd with packed sessions and live demos that highlighted the latest AI advancements. Attendees engaged in discussions shaping the future of technology across the show floor.",
+      "title": "The energy at GTC Taipei is unmatched. 💚 From packed sessions and live demos to conversations shaping what’s next in AI, here’s a look at the action across a show floor where innovation comes to…",
+      "t": 1780467201383
+    },
+    "12hdabn": {
+      "ai_summary": "The nbd-vram project lets Linux users treat an Nvidia GPU's VRAM as swap space by exposing it as a network block device. This approach can provide additional virtual memory without needing extra physical RAM or disk swap.",
+      "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
+      "t": 1780467204293
+    },
+    "5zdowm": {
+      "ai_summary": "Pluto.jl version 1.0 has been released, offering a reactive notebook environment for the Julia programming language. The release was announced on the Julia Discourse forum and discussed on Hacker News, garnering 74 points and five comments.",
+      "title": "Pluto.jl 1.0 release – reactive notebook for Julia",
+      "t": 1780467208760
+    },
+    "647g5k": {
+      "ai_summary": "Paseo is an open-source coding agent interface featured on Hacker News, providing a beautiful UI for interacting with coding agents. Its source code is hosted on GitHub, with a live demo at paseo.sh and community discussion on Discord.",
+      "title": "Show HN: Paseo – Beautiful open-source coding agent interface",
+      "t": 1780467211561
+    },
+    "x_2061916898925699414": {
+      "ai_summary": "Taiwan's semiconductor and manufacturing leaders—including TSMC, Foxconn, QCT, Pegatron, and Wistron—are deploying accelerated computing, digital twins, and AI agents to reshape AI system production. This effort positions Taiwan as a central hub powering the global AI factory buildout.",
+      "title": "Taiwan isn’t just building AI infrastructure, it’s powering the world’s AI factory buildout. 👏 From fabs to factory floors, leaders like TSMC, Foxconn, QCT, Pegatron, and Wistron are using…",
+      "t": 1780467221017
+    },
+    "1s9oguw": {
+      "ai_summary": "Lumafield used industrial CT scanning to examine BYD car parts, revealing their internal structures and any hidden defects. The scans demonstrate how CT technology can improve quality control in electric‑vehicle manufacturing.",
+      "title": "CT scans of BYD car parts",
+      "t": 1780467224503
+    },
+    "1xsps84": {
+      "ai_summary": "Around 4,000 years ago, Mohenjo-daro showed a trend toward greater social equality. Archaeological evidence indicates that wealth disparities decreased as the city developed.",
+      "title": "4K years ago, Mohenjo-daro grew more equal over time",
+      "t": 1780467224771
+    },
+    "wxi0zq": {
+      "ai_summary": "President Trump signed a voluntary executive order asking companies to submit frontier AI models for government review 30 days before public release. The order, titled “Promoting Advanced Artificial Intelligence…”, establishes a pre‑review framework to resolve internal White House disagreements over AI regulation.",
+      "title": "Trump quietly signs a downsized AI executive order asking companies to voluntarily submit models for review 30 days before release",
+      "t": 1780467229758
+    },
+    "3r0hb4": {
+      "ai_summary": "Apple will unveil iOS 27 at WWDC on June 8, showcasing the upcoming operating system update. Rumors highlight five new features that have generated particular excitement among users and developers.",
+      "title": "iOS 27 is coming, here are five new features I’m most excited about",
+      "t": 1780467235055
+    },
+    "1k2a4uo": {
+      "ai_summary": "Cyberdeck enthusiasts are building DIY hardware that rejects big‑tech surveillance, ranging from solar‑powered game emulators to pocket‑sized ereaders and clamshell purse computers. Their projects have surged in visibility on social media over the past few months.",
+      "title": "Cyberdecks are having a moment, rejecting big tech surveillance with style and substance",
+      "t": 1780467235879
+    },
+    "x_2061907873672941929": {
+      "ai_summary": "Over 80 partners joined Jensen Huang at NVIDIA GTC Taipei to showcase how NVIDIA MGX enables AI factories for the agentic era, using NVIDIA Vera Rubin and 800 VDC capabilities across systems, power, and cooling. NVIDIA MGX is turning these components into scalable AI infrastructure.",
+      "title": "What does it take to build an AI factory ready for the agentic era? 80+ partners joined Jensen Huang at #NVIDIAGTC Taipei to show how NVIDIA MGX is making it possible. With NVIDIA Vera Rubin, 800…",
+      "t": 1780467239574
+    },
+    "nuvuul": {
+      "ai_summary": "A lawsuit alleges that Amazon-owned Ring’s cameras scan and AI‑identify the faces of guests and passersby without paying those individuals. The suit seeks compensation, claiming the practice violates privacy and exploits personal facial data.",
+      "title": "Amazon-owned Ring should pay Americans for scanning their faces, lawsuit says",
+      "t": 1780467240792
+    },
+    "x_2061904438478970985": {
+      "ai_summary": "NVIDIA's DGX Station systems, equipped with GB300 GPUs, are now arriving at the desks of developers and researchers. Enterprise users can obtain data‑center‑level performance locally through partners such as ASUS, Dell, Gigabyte, HP, MSI, and Supermicro.",
+      "title": "NVIDIA DGX Station systems are beginning to arrive at the desks of developers and researchers. 📦 Enterprise teams can deploy data center-level performance locally with GB300-powered systems arriving…",
+      "t": 1780467241671
+    },
+    "pysz0g": {
+      "ai_summary": "China is launching two immersive LED dome venues that echo the Las Vegas Sphere but with simpler designs and a price about 92% lower. The venues prioritize cultural content while offering a far more affordable alternative to the original Sphere experience.",
+      "title": "Massive Las Vegas Sphere competitors’ debut in China with simpler setups and a Temu-like, 92% lower price point",
+      "t": 1780467244296
+    },
+    "m9ga8l": {
+      "ai_summary": "An anonymous video‑chat app exposed over 22 million user records, with about three million containing names and email addresses. The leak stemmed from a misconfigured Kibana dashboard that left usernames, emails and network information publicly accessible.",
+      "title": "Anonymous video chat app leaks data on millions of users — more than 22 million records exposed, including 3 million containing names and email addresses",
+      "t": 1780467244849
+    },
+    "nbsqpg": {
+      "ai_summary": "Poland will require a \"sovereignty test\" for major government technology purchases to curb reliance on foreign digital infrastructure. Prime Minister Donald Tusk warned that the nation's AI dependency has reached dangerous proportions, necessitating this policy response.",
+      "title": "Poland will introduce a “sovereignty test” for government tech purchases as Tusk warns AI dependency has reached dangerous proportions",
+      "t": 1780467248165
+    },
+    "1vrht52": {
+      "ai_summary": "The 2026 Stanley Cup Final kicks off with Game 1 between the Vegas Golden Knights and the Carolina Hurricanes, streamable live on NHL.tv and major sports networks. Check your local TV listings or preferred streaming service for channel details and online access to watch the opener.",
+      "title": "How to watch NHL Stanley Cup Final 2026: live stream Vegas Golden Knights vs Carolina Hurricanes, TV channels, preview for Game 1",
+      "t": 1780467248511
+    },
+    "1kchmh1": {
+      "ai_summary": "The author shares their impressions and experiences after spending about a month working with Clojure. The post received 186 points and sparked 96 comments on Hacker News.",
+      "title": "My thoughts after using Clojure for about a month",
+      "t": 1780467253581
+    },
+    "1b3c9l4": {
+      "ai_summary": "Paste released MCP, a feature that links your clipboard history to AI tools such as Claude, Codex, and Cursor. This update lets the clipboard manager feed past copied content directly into those assistants for enhanced workflow.",
+      "title": "Paste launches MCP support to connect your clipboard history to AI tools",
+      "t": 1780467262527
+    },
+    "124icbz": {
+      "ai_summary": "Lego’s new Pokémon Smart Play sets resolve the major shortcomings of the Smart Brick line after three hours of hands‑on testing. Reviewers call the sets a perfect blend of Lego building and Pokémon charm.",
+      "title": "I spent 3 hours with Lego’s new Pokémon Smart Play sets — they solve the Smart Brick’s biggest problems, and are simply perfect",
+      "t": 1780467264250
+    },
+    "1set9g6": {
+      "ai_summary": "RogueDB has unveiled a simplified database platform intended to lessen infrastructure workload for startups and IT teams. The move targets the significant time early‑stage companies spend on behind‑the‑scenes tasks, as highlighted in a recent report.",
+      "title": "RogueDB introduces a simplified database platform designed to reduce infrastructure work for startups and IT teams",
+      "t": 1780467276485
+    },
+    "188c2l6": {
+      "ai_summary": "Researchers found that Neanderthals used rhinoceros teeth as hammer‑like tools. This shows they incorporated a variety of unexpected materials into their toolkits.",
+      "title": "If I had a hammer... it might actually be a rhino tooth",
+      "t": 1780467279503
+    },
+    "1ifzn77": {
+      "ai_summary": "Google has launched a new Pixel feature that detects AI‑driven impersonation scams before they reach users. The tool is intended to help thwart bad actors using synthetic voice or video to deceive people.",
+      "title": "Google's new Pixel feature catches AI impersonation scams before you fall for them",
+      "t": 1780467283620
+    },
+    "x_2061893154899366260": {
+      "ai_summary": "NVIDIA unveiled Vera, a new CPU that delivers up to 80% faster agentic task completion than traditional x86 processors. The chip is positioned as the CPU for AI agents, built for AI factories and future workloads.",
+      "title": "The AI era needs a new CPU. Meet NVIDIA Vera, 80% faster agentic task completion than x86. Built for AI factories. Built for what's next. The CPU for agents has arrived. 🔗 https://nvda.ws/4ugo9Uf",
+      "t": 1780467291229
+    },
+    "1cfbum3": {
+      "ai_summary": "Former Facebook executive and whistleblower Sarah Wynn-Williams was barred from promoting her book at the 2026 Hay Festival. Attendees described her silencing as a hostage situation, asserting it occurs regardless of the truth of her statements.",
+      "title": "She sat in silence as others discussed her \"hostage situation\" — how a former Facebook whistleblower is being silenced 'regardless of whether what she says is true'",
+      "t": 1780467305612
+    },
+    "1exsdxd": {
+      "ai_summary": "The headline warns of an advertising cartel emerging in web browsers. The article is published on blog.zgp.org.",
+      "title": "The advertising cartel coming to your web browser",
+      "t": 1780467306697
+    },
+    "1pfxbaj": {
+      "ai_summary": "The author explains that Gmail’s intelligent features made them feel patronized, prompting them to abandon the service. Their post on Hacker News attracted 786 points and 462 comments discussing the experience.",
+      "title": "Gmail thinks I'm stupid, so I left",
+      "t": 1780467309806
+    },
+    "egptcd": {
+      "ai_summary": "The Open Repair Alliance has released the Open Repair Data Standard. It provides a common format for sharing repair-related data.",
+      "title": "Open Repair Data Standard – Open Repair Alliance",
+      "t": 1780467312425
+    },
+    "jf7swt": {
+      "ai_summary": "Google is expanding its Quick Share feature, which enables file sharing between Android and iPhone devices similar to AirDrop, to additional Android smartphones. The update now includes Samsung’s Galaxy S26, S25, and S24 series models.",
+      "title": "Google Expands AirDrop Support to More Android Phones",
+      "t": 1780467316254
+    },
+    "d2knxu": {
+      "ai_summary": "Microsoft Build 2026 opened with a keynote by CEO Satya Nadella unveiling new Surface hardware, an always‑on personal assistant, and updates to Microsoft’s in‑house AI models. The event also included additional announcements spanning the company’s broader product lineup.",
+      "title": "Microsoft Build 2026: The 7 biggest announcements",
+      "t": 1780467316795
+    },
+    "1vh4t5r": {
+      "ai_summary": "Apple unveiled a smarter Siri powered by Apple Intelligence at WWDC 2024, initially slated for iOS 18 but postponed because the underlying architecture wasn’t ready. The enhanced assistant is now anticipated to debut with iOS 27.",
+      "title": "Siri in iOS 27: Every New Feature and Change to Expect",
+      "t": 1780467319707
+    },
+    "tyz0bn": {
+      "ai_summary": "The PlayStation VR2 is receiving a rare discount as part of Sony's Days of Play sale. This promotion offers consumers a reduced price on the headset for a limited time.",
+      "title": "The PlayStation VR2 gets a rare discount in this year's Days of Play sale",
+      "t": 1780467321664
+    },
+    "18m4az9": {
+      "ai_summary": "A federal IT staffer filed a complaint about DOGE, went public with his allegations, and shortly after Elon Musk boosted a post calling his claims false, his brake lines were cut. He is now suing for defamation.",
+      "title": "He Blew the Whistle on DOGE. Then His Brakes Were Cut",
+      "t": 1780467326332
+    },
+    "1x3c9gj": {
+      "ai_summary": "The EU’s €20 billion plan to build five AI gigafactories, each with one‑gigawatt capacity and about 100,000 advanced chips, is faltering before any bids are submitted. The bidding process, originally set for May, has been delayed to July, and funding uncertainty now threatens to leave only two of the five centres viable.",
+      "title": "The EU’s €20 billion plan for five AI gigafactories is falling apart before the first bid is even submitted",
+      "t": 1780467327491
+    },
+    "vlvnk1": {
+      "ai_summary": "Uber has imposed a cap on employee AI spending after exhausting its allocated budget within four months. The move follows a prior push encouraging staff to maximize AI usage.",
+      "title": "Uber caps employee AI spending after blowing through budget in 4 months",
+      "t": 1780467330781
+    },
+    "1gb9wlc": {
+      "ai_summary": "Microsoft says its agentic‑AI‑enhanced Majorana 2 chip delivers qubits 1,000 times more reliable than the original Majorana design. As a result, the company has halved its roadmap, now targeting a scalable quantum computer by 2029 instead of 2033.",
+      "title": "Microsoft used agentic AI to make its quantum chip 1,000 times more reliable, then cut its timeline to a scalable quantum computer in half",
+      "t": 1780467332752
+    },
+    "vb1f3b": {
+      "ai_summary": "Apple is poised to unveil iOS 27, featuring a major Siri overhaul. The update aims to boost iPhone performance and significantly enhance AirPods capabilities.",
+      "title": "iOS 27 could make AirPods a lot more powerful with one upgrade",
+      "t": 1780467333054
+    },
+    "1q3yi68": {
+      "ai_summary": "At Computex 2026, Perplexity AI unveiled its hybrid local‑cloud inference orchestrator, the first system that dynamically routes AI workloads between a user's device and the cloud in real time. The startup, now valued at $20 billion, says the software autonomously decides mid‑task which computations stay local and which are sent to the server.",
+      "title": "Perplexity AI unveils hybrid local-cloud inference system at Computex 2026",
+      "t": 1780467335959
+    },
+    "cmuw8k": {
+      "ai_summary": "Federal officials have failed in their effort to seize a supercomputer from the National Center for Atmospheric Research. The research center will continue to operate its high‑performance computing system.",
+      "title": "Feds failing in bid to take a supercomputer from a climate research center",
+      "t": 1780467353902
+    },
+    "16p73xo": {
+      "ai_summary": "HP has re‑issued the HP‑16C, its classic programmable calculator favored by computer‑science and engineering professionals, as a collector’s edition. The release is listed on hpcalcs.com and has sparked discussion on Hacker News, earning 150 points and 95 comments.",
+      "title": "HP re-releases classic computer science calculator: The HP-16C",
+      "t": 1780467355253
+    },
+    "1o6gcux": {
+      "ai_summary": "Microsoft unveiled Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open‑source framework that lets developers generate AI behavior tests from plain‑text descriptions. The tool streamlines the creation and execution of evaluations and regression checks for AI models.",
+      "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
+      "t": 1780467359359
+    },
+    "1lmqrex": {
+      "ai_summary": "Beelink is the first PC manufacturer to equip its entry‑level mini PCs with standard 10 GbE LAN ports. The Wildcat Lake series combines Intel’s 18A processors, a compact design, and AI capabilities while delivering that high‑speed networking.",
+      "title": "Beelink makes history by becoming the first PC manufacturer to roll out 10GbE LAN ports across entry-level Mini PCs",
+      "t": 1780467361433
     }
   }
 }
