@@ -14,6 +14,8 @@
 //    this is an unofficial mirror. Swap to Artificial Analysis (attribution) for
 //    a cleaner-licensed primary when ready.
 
+import { collectNewReleases } from "../lib/openrouter.js";
+
 const MIRROR = "https://raw.githubusercontent.com/oolong-tea-2026/arena-ai-leaderboards/main/data";
 const WULONG = "https://api.wulong.dev/arena-ai-leaderboards/v1/leaderboard";
 
@@ -59,10 +61,13 @@ export default async function handler(req, res) {
   res.setHeader("Access-Control-Allow-Origin", "*");
   res.setHeader("Access-Control-Allow-Methods", "GET, OPTIONS");
   res.setHeader("Access-Control-Allow-Headers", "Content-Type");
-  res.setHeader("Cache-Control", "public, s-maxage=86400, stale-while-revalidate=43200");
+  res.setHeader("Cache-Control", "public, s-maxage=21600, stale-while-revalidate=43200"); // 6h (new releases refresh faster)
   if (req.method === "OPTIONS") { res.status(204).end(); return; }
 
   try {
+    // Newest releases (incl. models too fresh for arena votes) — best-effort.
+    const newReleasesP = collectNewReleases(10).catch(() => []);
+
     const { date } = await j(`${MIRROR}/latest.json`);
 
     const wanted = [...new Set(Object.values(LENS_BOARD))];
@@ -107,6 +112,7 @@ export default async function handler(req, res) {
       last_updated: new Date().toISOString(),
       lenses: LENSES,
       models: models.slice(0, 12),
+      new_releases: await newReleasesP, // newest models (arena hasn't ranked yet)
     });
   } catch (e) {
     return res.status(502).json({ error: "leaderboard upstream unavailable", detail: String(e) });
