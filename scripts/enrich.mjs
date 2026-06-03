@@ -17,6 +17,7 @@ import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import { collectArticles } from "../lib/feeds.js";
 import { aiSummarize } from "../lib/summarize.js";
+import { openverseMedia } from "../lib/media.js";
 
 const ROOT = new URL("../", import.meta.url);
 const OUT = fileURLToPath(new URL("enriched.json", ROOT));
@@ -82,6 +83,36 @@ await mapLimit(pending, CONCURRENCY, async (a) => {
   }
   if (done % 10 === 0) console.log(`  …${done}/${pending.length}`);
 });
+
+// --- Images: precompute a license-clean, CREDITED photo per article ----------
+// Keyless Openverse (CC / public-domain) — legal to display with attribution.
+// Throttled so we don't hammer the anonymous rate limit. Articles that already
+// have a cached image are skipped; the rest fall back to the editorial poster.
+const IMG_MAX = parseInt(process.env.ENRICH_IMAGE_MAX || "70", 10);
+const needImg = articles
+  .filter((a) => a.id && !(cache.items[a.id] && cache.items[a.id].media_url))
+  .slice(0, IMG_MAX);
+console.log(`Resolving ${needImg.length} license-clean image(s) via Openverse…`);
+let imgOk = 0, imgDone = 0;
+await mapLimit(needImg, 3, async (a) => {
+  let m = null;
+  try { m = await openverseMedia(a); } catch { /* keep prior / poster fallback */ }
+  imgDone++;
+  if (m && m.media_url) {
+    const prev = cache.items[a.id] || { title: a.title, t: Date.now() };
+    cache.items[a.id] = {
+      ...prev,
+      media_url: m.media_url,
+      media_kind: m.media_kind,
+      media_credit: m.media_credit,
+      media_credit_url: m.media_credit_url,
+      t: prev.t || Date.now(),
+    };
+    imgOk++;
+  }
+  if (imgDone % 15 === 0) console.log(`  …img ${imgDone}/${needImg.length}`);
+});
+console.log(`Images: +${imgOk} license-clean CC photos resolved (credited).`);
 
 // Prune stale entries (keep recent so the cache doesn't grow unbounded).
 const cutoff = Date.now() - KEEP_DAYS * 864e5;
