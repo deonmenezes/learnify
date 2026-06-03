@@ -19,7 +19,9 @@ const OUT = fileURLToPath(new URL("../x-snapshot.json", import.meta.url));
 // Sequential + spaced so a CI runner's IP isn't rate-limited (429) by X. Slower,
 // but latency doesn't matter for a cron. Unions any fresh live posts on top of
 // the existing snapshot (entries age out of the 21-day window on their own).
-const { ok, articles } = await collectX(Date.now(), { sequential: true, delayMs: 3000 });
+// 6s spacing across the 18 voices (~2 min/run) — gentle enough on X's per-IP
+// rate limit that more handles succeed per pass; the union accumulates them.
+const { ok, articles } = await collectX(Date.now(), { sequential: true, delayMs: 6000 });
 if (!articles.length) {
   console.error("No report-worthy posts collected (rate-limited?). Snapshot NOT overwritten.");
   process.exit(1);
