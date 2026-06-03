@@ -1,0 +1,56 @@
+name: News refresh (24/7)
+
+# Keeps AI summaries (enriched.json) + the X/social snapshot fresh in the CLOUD,
+# independent of any laptop being awake. Headlines are already live per-request;
+# this only refreshes the precomputed summaries + social. A push of the data files
+# triggers Vercel to redeploy the live API.
+
+on:
+  schedule:
+    - cron: "0 * * * *"      # top of every hour (UTC), 24/7
+  workflow_dispatch: {}        # allow manual "Run workflow"
+
+# Never let two refreshes overlap (avoids push races).
+concurrency:
+  group: news-refresh
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies (if any)
+        run: npm ci || npm install || true
+
+      - name: Enrich AI summaries (NVIDIA)
+        env:
+          NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
+          NVIDIA_BASE_URL: ${{ secrets.NVIDIA_BASE_URL }}
+          NVIDIA_LLM_MODEL: ${{ secrets.NVIDIA_LLM_MODEL }}
+        run: node scripts/enrich.mjs || echo "enrich failed — keeping previous enriched.json"
+
+      - name: Refresh X / social snapshot
+        run: node scripts/snapshot-x.mjs || echo "snapshot skipped/failed — keeping previous"
+
+      - name: Commit + push if data changed
+        run: |
+          git config user.name "techscroll-bot"
+          git config user.email "bot@users.noreply.github.com"
+          if [ -n "$(git status --porcelain enriched.json x-snapshot.json)" ]; then
+            git add enriched.json x-snapshot.json
+            git commit -m "chore(data): hourly cloud refresh — AI summaries + X [skip ci]"
+            git push
+            echo "pushed — Vercel will redeploy with fresh data"
+          else
+            echo "no data changes this run"
+          fi
