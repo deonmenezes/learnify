@@ -3,11 +3,11 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>TechScroll — Ideas: the latest tech news in pictures</title>
-<meta name="description" content="A live visual board of the latest Silicon Valley / SF tech news — every story as a generated cover image. Updates in real time." />
+<title>TechScroll — Video Ideas: turn the latest tech news into content</title>
+<meta name="description" content="A live feed of video ideas for creators — every breaking tech story comes with a ready hook, talking points, caption and hashtags. Grab the cover, copy the script, post." />
 <meta name="theme-color" content="#070a0e" />
-<meta property="og:title" content="TechScroll — Ideas (latest tech news in pictures)" />
-<meta property="og:description" content="A live visual board of the latest tech news, every story as a cover image." />
+<meta property="og:title" content="TechScroll — Video Ideas for creators" />
+<meta property="og:description" content="Turn today's breaking tech news into your next video — hook, talking points, caption & hashtags, ready to copy." />
 <meta property="og:type" content="website" />
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='22' fill='%23070a0e'/%3E%3Cpath d='M56 12 30 56h18l-6 32 28-46H50z' fill='%2300e08a'/%3E%3C/svg%3E" />
 <style>
@@ -98,6 +98,27 @@
   .card .sum { max-height: 0; overflow: hidden; opacity: 0; transition: max-height .3s, opacity .25s, margin .3s; color: var(--txt-2); font-size: 12px; line-height: 1.5; margin: 0; }
   .card:hover .sum { max-height: 80px; opacity: 1; margin-top: 8px; }
 
+  /* creator card body */
+  .card .shot.compact { aspect-ratio: 16/9; }
+  .card .grab { position: absolute; right: 10px; bottom: 10px; z-index: 3; font-family: var(--mono); font-size: 10.5px; color: var(--txt); background: rgba(0,0,0,.55); border: 1px solid rgba(255,255,255,.18); border-radius: 7px; padding: 4px 8px; backdrop-filter: blur(4px); cursor: pointer; display: inline-flex; gap: 5px; align-items: center; opacity: 0; transition: .15s; }
+  .card:hover .grab { opacity: 1; }
+  .card .grab:hover { border-color: var(--accent); color: var(--accent); }
+  .body { padding: 13px 14px 14px; }
+  .hook { font-size: 15px; line-height: 1.32; font-weight: 750; letter-spacing: -.2px; margin: 0 0 9px; }
+  .points { margin: 0 0 11px; padding: 0; list-style: none; display: flex; flex-direction: column; gap: 5px; }
+  .points li { position: relative; padding-left: 15px; font-size: 12px; line-height: 1.45; color: var(--txt-2); }
+  .points li::before { content: ""; position: absolute; left: 0; top: 7px; width: 6px; height: 6px; border-radius: 50%; background: var(--accent); opacity: .85; }
+  .htags { display: flex; flex-wrap: wrap; gap: 5px; margin-bottom: 11px; }
+  .htag { font-family: var(--mono); font-size: 10.5px; color: var(--accent-2); background: rgba(52,197,255,.1); border: 1px solid rgba(52,197,255,.22); border-radius: 6px; padding: 2px 7px; }
+  .actions { display: flex; gap: 7px; flex-wrap: wrap; }
+  .act { font-family: var(--mono); font-size: 11px; cursor: pointer; border-radius: 8px; padding: 7px 10px; border: 1px solid var(--line-2); background: var(--bg-elev); color: var(--txt-2); transition: .14s; display: inline-flex; gap: 5px; align-items: center; }
+  .act:hover { color: var(--txt); border-color: var(--accent-2); transform: translateY(-1px); }
+  .act.primary { background: var(--grad); color: #04130c; border: none; font-weight: 700; }
+  .act.primary:hover { box-shadow: 0 8px 22px -10px rgba(0,224,138,.7); }
+  .act svg { width: 13px; height: 13px; }
+  .toast { position: fixed; left: 50%; bottom: 26px; transform: translateX(-50%) translateY(20px); z-index: 80; background: var(--accent); color: #04130c; font-family: var(--mono); font-size: 12.5px; font-weight: 700; padding: 10px 18px; border-radius: 10px; box-shadow: 0 14px 40px -12px rgba(0,224,138,.6); opacity: 0; pointer-events: none; transition: .25s; }
+  .toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
+
   /* skeleton */
   .sk { columns: 4 280px; column-gap: 16px; }
   .sk-card { break-inside: avoid; margin: 0 0 16px; border-radius: var(--radius); overflow: hidden; border: 1px solid var(--line); background: var(--panel); }
@@ -121,7 +142,7 @@
       <span class="bolt"><svg width="20" height="20" viewBox="0 0 24 24" fill="none"><path d="M13 2 4 14h7l-2 8 9-12h-7z" fill="#00e08a"/></svg></span>
       <div>
         <h1>Tech<span class="g">Scroll</span></h1>
-        <span class="tag">// ideas — the latest tech, <b style="color:var(--accent)">in pictures</b></span>
+        <span class="tag">// video ideas — <b style="color:var(--accent)">news → your next post</b></span>
       </div>
     </div>
     <nav class="nav">
@@ -135,9 +156,9 @@
 
 <main>
   <section class="hero">
-    <p class="eyebrow">Ideas board</p>
-    <h2>The latest tech news, <span class="g">in pictures</span></h2>
-    <p>Every breaking story across 22 sources — news, X &amp; Bluesky, research — rendered as a live cover-image board. Tap any tile to read the original.</p>
+    <p class="eyebrow">Video ideas for creators</p>
+    <h2>Turn today's tech news into <span class="g">your next video</span></h2>
+    <p>Every breaking story across 22 sources comes ready to film — a hook, talking points, a caption and hashtags. Grab the cover for your thumbnail, copy the script, post. Updates live.</p>
     <div class="stat" id="stat">loading the latest…</div>
   </section>
 
@@ -157,7 +178,7 @@
 
 <script>
 const $ = (id) => document.getElementById(id);
-const state = { all: [], filter: "all" };
+const state = { all: [], shown: [], filter: "all" };
 
 function escapeHtml(s){ return (s||"").replace(/[&<>"']/g,(c)=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c])); }
 function fmtAgo(iso){
@@ -191,33 +212,74 @@ function buildFilters(){
   });
 }
 
+// ---- creator helpers: turn a story into a ready-to-film video idea ----------
+const HASHMAP = { "artificial intelligence":"AI", "machine learning":"MachineLearning", "computer vision":"ComputerVision",
+  openai:"OpenAI", anthropic:"Anthropic", nvidia:"Nvidia", google:"Google", apple:"Apple", microsoft:"Microsoft",
+  meta:"Meta", "startups & vc":"Startups", funding:"Funding", "funding & deals":"Funding", research:"Research",
+  "security & cryptography":"CyberSecurity", robotics:"Robotics", crypto:"Crypto", android:"Android", iphone:"iPhone" };
+function hashtagify(c){ const k=(c||"").toLowerCase().trim(); if(HASHMAP[k]) return HASHMAP[k]; return c.replace(/[^a-zA-Z0-9]/g,""); }
+function makeTags(a){
+  const cats = (a.categories||[]).map(hashtagify).filter((t)=>t && t.length>1 && t.toLowerCase()!=="research" || a.is_paper);
+  const out = [...new Set([...cats.slice(0,3), "tech","technews", a.is_paper?"AIResearch":""].filter(Boolean))];
+  return out.slice(0,6).map((t)=>"#"+t);
+}
+function sentences(s){ return (s||"").replace(/\s+/g," ").trim().split(/(?<=[.!?])\s+/).map((x)=>x.trim()).filter((x)=>x.length>14); }
+function makeHook(a){
+  const t = (a.title||"").replace(/\s+/g," ").trim();
+  if(a.is_paper) return `🧠 New AI research just dropped — ${t}`;
+  const cat=(a.section||"").toLowerCase();
+  if(/funding|deals/.test(cat)) return `🤯 ${t} — here's what it actually means`;
+  if(/launch|announc|product/.test(cat)) return `🚨 ${t}`;
+  if(a.sentiment==="negative") return `Uh oh… ${t}`;
+  if(a.is_social){ const who=(a.author||"").split("·")[0].trim(); return `${who||"They"} just said this 👀 — ${t}`; }
+  return `Everyone's talking about this 👇 ${t}`;
+}
+function makePoints(a){
+  const pts = sentences(a.ai_summary || a.summary || a.title).slice(0,3);
+  return pts.length ? pts : [a.title];
+}
+function makeCaption(a){
+  const lead = sentences(a.ai_summary||a.title)[0] || a.title;
+  return `${makeHook(a)}\n\n${lead}\n\nSource: ${a.source||""} 🔗 (link in bio)\n${makeTags(a).join(" ")}`;
+}
+function makeScript(a){
+  const pts = makePoints(a).map((p,i)=>`  ${i+1}. ${p}`).join("\n");
+  return `🎬 ${a.title}\n\nHOOK:\n${makeHook(a)}\n\nTALKING POINTS:\n${pts}\n\nOUTRO:\n"Follow @techscroll for tomorrow's tech news first."\n\nCAPTION:\n${makeCaption(a)}\n\nSource: ${a.link}`;
+}
+
 function render(){
   const list = state.all.filter(passes);
+  state.shown = list;
   if(!list.length){ $("board").innerHTML=""; $("state").style.display="block"; $("state").textContent="No stories in this view yet."; return; }
   $("state").style.display="none";
   $("board").innerHTML = list.map((a,i)=>{
     const img = a.media_url || a.image || "";
     const social = a.is_social, paper = a.is_paper;
-    const badge = social ? (a.platform==="bluesky"?"Bluesky":"X") : (paper?(a.source||"Research"):a.source);
+    const badge = social ? (a.platform==="bluesky"?"Bluesky":"X") : (paper?"Research":a.source);
     const extra = social
       ? `<span class="pill${a.hot?" hot":""}">${a.hot?"🔥 ":"⚡ "}${a.worthiness_score??""}</span>`
       : (paper && a.citations ? `<span class="pill">${a.citations} cites</span>` : "");
+    const tags = makeTags(a).map((t)=>`<span class="htag">${escapeHtml(t)}</span>`).join("");
+    const pts = makePoints(a).map((p)=>`<li>${escapeHtml(p)}</li>`).join("");
     return `
-    <a class="card" style="--i:${i}; --c:${social?'#34c5ff':paper?'#a98bff':'#00e08a'}; animation-delay:${Math.min(i*22,500)}ms"
-       href="${escapeHtml(a.link)}" target="_blank" rel="noopener noreferrer">
-      <div class="shot">
+    <div class="card" style="--c:${social?'#34c5ff':paper?'#a98bff':'#00e08a'}; animation-delay:${Math.min(i*20,460)}ms">
+      <a class="shot compact" href="${escapeHtml(a.link)}" target="_blank" rel="noopener noreferrer" title="Open source">
         ${img?`<img loading="lazy" decoding="async" alt="${escapeHtml(a.title)}" src="${escapeHtml(img)}" onerror="this.style.display='none'">`:""}
-        <div class="badges">
-          <span class="src ${srcClass(a)}">${escapeHtml(badge)}</span>
-          ${extra}
-        </div>
-        <div class="cap">
-          <h3>${escapeHtml(a.title)}</h3>
-          <div class="meta"><span>${escapeHtml(a.author||a.source||"")}</span><span>·</span><span>${fmtAgo(a.published)}</span></div>
-          ${a.ai_summary?`<p class="sum">${escapeHtml(a.ai_summary)}</p>`:""}
+        <div class="badges"><span class="src ${srcClass(a)}">${escapeHtml(badge)}</span>${extra}<span class="pill">${fmtAgo(a.published)}</span></div>
+        <span class="grab" data-act="grab" data-i="${i}">⤓ thumbnail</span>
+      </a>
+      <div class="body">
+        <p class="hook">${escapeHtml(makeHook(a))}</p>
+        <ul class="points">${pts}</ul>
+        <div class="htags">${tags}</div>
+        <div class="actions">
+          <span class="act primary" data-act="script" data-i="${i}">🎬 Copy script</span>
+          <span class="act" data-act="caption" data-i="${i}">Caption</span>
+          <span class="act" data-act="hook" data-i="${i}">Hook</span>
+          <a class="act" href="${escapeHtml(a.link)}" target="_blank" rel="noopener noreferrer">Source ↗</a>
         </div>
       </div>
-    </a>`;
+    </div>`;
   }).join("");
 }
 
@@ -247,6 +309,28 @@ async function load(){
   $("stat").innerHTML = `<b>${state.all.length}</b> latest stories · ${(main.sources||[]).length} sources · ⚡ ${socialN} social · 🔬 ${paperN} research`;
   buildFilters(); render();
 }
+
+// toast + copy/grab actions (event delegation so it survives re-renders)
+const toastEl = document.createElement("div"); toastEl.className = "toast"; toastEl.id = "toast"; document.body.appendChild(toastEl);
+let toastT;
+function toast(msg){ toastEl.textContent = msg; toastEl.classList.add("show"); clearTimeout(toastT); toastT = setTimeout(()=>toastEl.classList.remove("show"), 1700); }
+function copy(text, label){
+  const done = ()=>toast(label+" copied ✓");
+  if(navigator.clipboard?.writeText){ navigator.clipboard.writeText(text).then(done).catch(()=>fallbackCopy(text,done)); }
+  else fallbackCopy(text, done);
+}
+function fallbackCopy(text, done){ const t=document.createElement("textarea"); t.value=text; t.style.position="fixed"; t.style.opacity="0"; document.body.appendChild(t); t.select(); try{document.execCommand("copy"); done();}catch(_){toast("Copy failed");} t.remove(); }
+
+$("board").addEventListener("click", (e)=>{
+  const el = e.target.closest("[data-act]"); if(!el) return;
+  const a = state.shown[+el.dataset.i]; if(!a) return;
+  const act = el.dataset.act;
+  if(act==="grab"){ e.preventDefault(); window.open(a.media_url||a.image, "_blank", "noopener"); toast("Thumbnail opened — right-click to save"); return; }
+  e.preventDefault();
+  if(act==="script") copy(makeScript(a), "Full script");
+  else if(act==="caption") copy(makeCaption(a), "Caption + hashtags");
+  else if(act==="hook") copy(makeHook(a), "Hook");
+});
 
 // skeleton
 $("skeleton").innerHTML = Array.from({length:12}).map(()=>`<div class="sk-card"><div class="sk-img"></div></div>`).join("");
