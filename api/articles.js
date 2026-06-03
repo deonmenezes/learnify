@@ -51,8 +51,12 @@ export default async function handler(req, res) {
     const regions = csv(req.query?.region);
     const socialMode = str(req.query?.social).toLowerCase(); // "only" | "exclude" | ""
     const minScore = pickInt(req.query?.min_score, 0, 0, 100);
+    const papersMode = str(req.query?.papers).toLowerCase(); // "only" | "trending" | "exclude" | ""
 
     const filtered = all.filter((a) => {
+      if (papersMode === "only" && !a.is_paper) return false;
+      if (papersMode === "trending" && !a.trending) return false;
+      if (papersMode === "exclude" && a.is_paper) return false;
       if (socialMode === "only" && !a.is_social) return false;
       if (socialMode === "exclude" && a.is_social) return false;
       if (a.is_social && minScore && (a.worthiness_score || 0) < minScore) return false;
@@ -69,6 +73,9 @@ export default async function handler(req, res) {
       }
       return true;
     });
+
+    // Trending papers are ranked by citations (the "top" sort), not recency.
+    if (papersMode === "trending") filtered.sort((a, b) => (b.citations || 0) - (a.citations || 0));
 
     const total = filtered.length;
     const limit = pickInt(req.query?.limit, total || 0, 1, 400);
