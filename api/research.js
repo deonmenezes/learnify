@@ -17,14 +17,33 @@
 import { collectPapers } from "../lib/papers.js";
 
 // The app DROPS any paper whose `category` is not one of these exact NewsCategory
-// rawValues. Papers are AI/ML-dominant; classify the few exceptions by keyword.
+// rawValues: "AI / ML", "Robotics", "Coding & Dev Tools", "Startups & Funding",
+// "Hardware & Gadgets", "Security", "Science".
+// Papers now span all categories via arXiv breadth (cs.RO, cs.CR, cs.SE, cs.PL,
+// cs.AR, cs.HC, eess.SY, cond-mat.mtrl-sci, q-bio.BM, physics.app-ph) and
+// OpenAlex concepts. Classifier order: most-specific first, AI/ML last as default.
 function toAppCategory(p) {
   const hay = `${p.section || ""} ${(p.categories || []).join(" ")} ${p.id || ""} ${p.title || ""}`.toLowerCase();
-  if (/\brobot|locomotion|quadruped|cs\.ro/.test(hay)) return "Robotics";
-  if (/secur|cryptograph|adversarial attack|cs\.cr/.test(hay)) return "Security";
-  if (/supercond|materials|cond-mat|physics|biolog|chemi|astro|quantum|genom|protein|climate|neurosci/.test(hay)) return "Science";
-  if (/semiconduct|hardware|fpga|circuit|photonic/.test(hay)) return "Hardware & Gadgets";
-  return "AI / ML"; // arXiv cs.* + OpenAlex AI concepts default to AI/ML
+
+  // Robotics — specific enough to go first
+  if (/\brobot|locomotion|quadruped|manipulation|\bcs\.ro\b/.test(hay)) return "Robotics";
+
+  // Security / Cryptography
+  if (/secur|cryptograph|adversarial|malware|vulnerab|\bcs\.cr\b/.test(hay)) return "Security";
+
+  // Coding & Dev Tools — software eng + PL before generic CS catch-alls
+  if (/software engineering|programming language|compiler|\bcode\b|developer|debug|\bcs\.se\b|\bcs\.pl\b|static analysis|software dev/.test(hay)) return "Coding & Dev Tools";
+
+  // Hardware & Gadgets — silicon, chips, architecture, photonics, systems
+  if (/semiconduct|\bhardware\b|fpga|circuit|photonic|\bgpu\b|accelerator|\bchip\b|\basic\b|\bcs\.ar\b|applied physics|\beess\b/.test(hay)) return "Hardware & Gadgets";
+
+  // Science — materials, physics, bio, chemistry, earth sciences
+  if (/supercond|materials|cond-mat|physics|biolog|chemi|astro|quantum|genom|protein|climate|neurosci|q-bio|biomolecul/.test(hay)) return "Science";
+
+  // Startups & Funding — light signal; only if nothing more specific matched
+  if (/venture|startup|fundrais|business model|q-fin|econ\.gn|market dynamics/.test(hay)) return "Startups & Funding";
+
+  return "AI / ML"; // arXiv cs.AI/LG/CL/CV + OpenAlex AI concepts default to AI/ML
 }
 
 // A 0…99 momentum score: most-cited "trending" papers scale by citations; fresh
