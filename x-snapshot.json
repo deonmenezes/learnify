@@ -1,12 +1,429 @@
 {
-  "generated_at": "2026-06-03T21:25:23.348Z",
+  "generated_at": "2026-06-03T23:53:01.516Z",
   "handles": [
-    "nvidia",
     "AnthropicAI",
+    "OpenAI",
+    "nvidia",
+    "GoogleDeepMind",
+    "demishassabis",
+    "gdb",
     "NVIDIAAI"
   ],
-  "count": 18,
+  "count": 32,
   "articles": [
+    {
+      "id": "x_2062292268602773747",
+      "title": "Major upgrade to GPT-Rosalind, with much better intelligence for drug discovery, analysis, design, and experimental workflows:",
+      "link": "https://x.com/gdb/status/2062292268602773747",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Greg Brockman · @gdb",
+      "handle": "gdb",
+      "org": "OpenAI",
+      "published": "2026-06-03T21:56:07.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Product"
+      ],
+      "summary": "Major upgrade to GPT-Rosalind, with much better intelligence for drug discovery, analysis, design, and experimental workflows:",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 67,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "tech substance (gpt)"
+      ],
+      "metrics": {
+        "likes": 303,
+        "retweets": 19,
+        "replies": 32,
+        "likes_h": "303"
+      },
+      "engagement": 373,
+      "hot": false
+    },
+    {
+      "id": "x_2062281977122996256",
+      "title": "We’re bringing new capabilities to GPT-Rosalind, a model series purpose-built for life sciences research at enterprise scale. It brings GPT-5.5’s agentic coding and tool use together with stronger…",
+      "link": "https://x.com/OpenAI/status/2062281977122996256",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-06-03T21:15:13.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Research"
+      ],
+      "summary": "We’re bringing new capabilities to GPT-Rosalind, a model series purpose-built for life sciences research at enterprise scale. It brings GPT-5.5’s agentic coding and tool use together with stronger intelligence for drug discovery, analysis, design, and experimental workflows.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 98,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (model, gpt, research)",
+        "business signal (enterprise)",
+        "high engagement (1.7K likes)"
+      ],
+      "metrics": {
+        "likes": 1724,
+        "retweets": 171,
+        "replies": 135,
+        "likes_h": "1.7K"
+      },
+      "engagement": 2201,
+      "hot": false
+    },
+    {
+      "id": "x_2062263049952674211",
+      "title": "Regional AI leaders are advancing sovereign AI with NVIDIA Nemotron. They’re building new datasets, sovereign AI models and agentic applications tailored to local languages, cultures and economies to…",
+      "link": "https://x.com/nvidia/status/2062263049952674211",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-03T20:00:00.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "Regional AI leaders are advancing sovereign AI with NVIDIA Nemotron. They’re building new datasets, sovereign AI models and agentic applications tailored to local languages, cultures and economies to serve billions of people across the globe. Learn more: https://nvda.ws/4vgAOav",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 87,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (models, nemotron)",
+        "links to a source"
+      ],
+      "metrics": {
+        "likes": 100,
+        "retweets": 14,
+        "replies": 15,
+        "likes_h": "100"
+      },
+      "engagement": 143,
+      "hot": false
+    },
+    {
+      "id": "x_2062243425580367905",
+      "title": "How well do the security community's techniques hold up against AI-enabled cyberattacks? We examined 832 malicious accounts and mapped their activity onto a longstanding database of tactics and…",
+      "link": "https://x.com/AnthropicAI/status/2062243425580367905",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Anthropic · @AnthropicAI",
+      "handle": "AnthropicAI",
+      "org": "Anthropic",
+      "published": "2026-06-03T18:42:01.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "Anthropic",
+        "Commentary"
+      ],
+      "summary": "How well do the security community's techniques hold up against AI-enabled cyberattacks? We examined 832 malicious accounts and mapped their activity onto a longstanding database of tactics and techniques used by threat actors. Here's what we learned:https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 65,
+      "sentiment": "negative",
+      "sentiment_score": -0.5,
+      "reasons": [
+        "report-worthy",
+        "links to a source"
+      ],
+      "metrics": {
+        "likes": 549,
+        "retweets": 69,
+        "replies": 79,
+        "likes_h": "549"
+      },
+      "engagement": 766,
+      "hot": false
+    },
+    {
+      "id": "x_2062241713398149524",
+      "title": "Celebrating the milestone of a massive 150+ million downloads of Gemma 4 with the release of the new Gemma 4 12B model! It's incredibly powerful for such a small model and it’s tiny enough to run…",
+      "link": "https://x.com/demishassabis/status/2062241713398149524",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Demis Hassabis · @demishassabis",
+      "handle": "demishassabis",
+      "org": "Google",
+      "published": "2026-06-03T18:35:13.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Funding & deals",
+      "categories": [
+        "X",
+        "Google",
+        "Funding & deals"
+      ],
+      "summary": "Celebrating the milestone of a massive 150+ million downloads of Gemma 4 with the release of the new Gemma 4 12B model! It's incredibly powerful for such a small model and it’s tiny enough to run locally on a laptop with just 16GB VRAM. Apache 2.0 license - happy building!",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 100,
+      "sentiment": "positive",
+      "sentiment_score": 1,
+      "reasons": [
+        "report-worthy",
+        "announcement language (release)",
+        "tech substance (model)",
+        "business signal (million)",
+        "high engagement (1.3K likes)",
+        "concrete metrics"
+      ],
+      "metrics": {
+        "likes": 1312,
+        "retweets": 109,
+        "replies": 77,
+        "likes_h": "1.3K"
+      },
+      "engagement": 1607,
+      "hot": false
+    },
+    {
+      "id": "x_2062232852561891718",
+      "title": "Local AI Agents are leveling up across DGX Spark &amp; RTX PCs. NVIDIA OpenShell is coming to Windows alongside new agentic AI optimizations and creator app updates—including NVIDIA Broadcast 2.2,…",
+      "link": "https://x.com/nvidia/status/2062232852561891718",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-03T18:00:01.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "Local AI Agents are leveling up across DGX Spark &amp; RTX PCs. NVIDIA OpenShell is coming to Windows alongside new agentic AI optimizations and creator app updates—including NVIDIA Broadcast 2.2, plus upcoming RTX acceleration for Adobe apps and Blender. Learn More:",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 72,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (agents)"
+      ],
+      "metrics": {
+        "likes": 131,
+        "retweets": 10,
+        "replies": 11,
+        "likes_h": "131"
+      },
+      "engagement": 162,
+      "hot": false
+    },
+    {
+      "id": "x_2062228974273716457",
+      "title": "The agentic AI era is here. From Taipei, Jensen Huang joined @satyanadella at #MSBuild to show how NVIDIA and @Microsoft are building it together, from Windows devices to AI factories at scale. ▶️…",
+      "link": "https://x.com/nvidia/status/2062228974273716457",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-03T17:44:36.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Commentary",
+        "MSBuild"
+      ],
+      "summary": "The agentic AI era is here. From Taipei, Jensen Huang joined @satyanadella at #MSBuild to show how NVIDIA and @Microsoft are building it together, from Windows devices to AI factories at scale. ▶️ Watch the conversation: https://nvda.ws/4uefQbs",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 64,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "links to a source"
+      ],
+      "metrics": {
+        "likes": 280,
+        "retweets": 44,
+        "replies": 32,
+        "likes_h": "280"
+      },
+      "engagement": 400,
+      "hot": false
+    },
+    {
+      "id": "x_2062216340786524373",
+      "title": "🏆 Cosmos 3 just topped 7 physical AI leaderboards. NVIDIA Cosmos™ 3, the open omni-model for physical AI, ranks #1 across world generation, robot action policy, and industrial vision understanding.…",
+      "link": "https://x.com/nvidia/status/2062216340786524373",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-03T16:54:24.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "🏆 Cosmos 3 just topped 7 physical AI leaderboards. NVIDIA Cosmos™ 3, the open omni-model for physical AI, ranks #1 across world generation, robot action policy, and industrial vision understanding. 🌎 World generation: Artificial Analysis, PAI-Bench, Physics-IQ, R-Bench 🤖",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 74,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "tech substance (model)"
+      ],
+      "metrics": {
+        "likes": 176,
+        "retweets": 38,
+        "replies": 28,
+        "likes_h": "176"
+      },
+      "engagement": 280,
+      "hot": false
+    },
+    {
+      "id": "x_2062210056280535154",
+      "title": "Agents need more than a model. Jensen Huang breaks down the enterprise agent stack: models, orchestration, tools with skills, and a secure runtime to hold it all together. This is the NVIDIA toolkit…",
+      "link": "https://x.com/nvidia/status/2062210056280535154",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-03T16:29:26.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "Agents need more than a model. Jensen Huang breaks down the enterprise agent stack: models, orchestration, tools with skills, and a secure runtime to hold it all together. This is the NVIDIA toolkit for agents: https://nvda.ws/4em0o8l",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 100,
+      "sentiment": "negative",
+      "sentiment_score": -0.5,
+      "reasons": [
+        "report-worthy",
+        "casual tone (this)",
+        "tech substance (model, models, agent)",
+        "business signal (enterprise)",
+        "links to a source"
+      ],
+      "metrics": {
+        "likes": 252,
+        "retweets": 40,
+        "replies": 28,
+        "likes_h": "252"
+      },
+      "engagement": 360,
+      "hot": false
+    },
+    {
+      "id": "x_2062191093748523401",
+      "title": "This week at #CVPR2026, NVIDIA Research is presenting three papers across physical ai that offer groundbreaking solutions for training at scale across diverse applications: → GraspGen-X: the first…",
+      "link": "https://x.com/nvidia/status/2062191093748523401",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-03T15:14:05.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Research",
+        "CVPR2026"
+      ],
+      "summary": "This week at #CVPR2026, NVIDIA Research is presenting three papers across physical ai that offer groundbreaking solutions for training at scale across diverse applications: → GraspGen-X: the first foundation model for zero-shot grasping, trained on billions of simulated grasps",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 59,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "casual tone (this, this week at)",
+        "tech substance (model, research, training)"
+      ],
+      "metrics": {
+        "likes": 143,
+        "retweets": 27,
+        "replies": 17,
+        "likes_h": "143"
+      },
+      "engagement": 214,
+      "hot": false
+    },
     {
       "id": "x_2061961069212377313",
       "title": "We are partnering with @Microsoft to enable secure, user-controlled AI on Windows. NVIDIA OpenShell runtime for agents will provide governance tools, policy enforcement, and smart local-to-cloud…",
@@ -253,6 +670,130 @@
       "hot": false
     },
     {
+      "id": "x_2061887650391625870",
+      "title": "We’re making Codex more useful for your work by expanding plugins beyond individual tools. These plugins turn Codex into a specialist for a specific role with a single install, no coding required.…",
+      "link": "https://x.com/OpenAI/status/2061887650391625870",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-06-02T19:08:18.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Commentary"
+      ],
+      "summary": "We’re making Codex more useful for your work by expanding plugins beyond individual tools. These plugins turn Codex into a specialist for a specific role with a single install, no coding required. Codex can access 62 popular apps and 110 skills for work across sales, data",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 56,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "high engagement (4.3K likes)"
+      ],
+      "metrics": {
+        "likes": 4291,
+        "retweets": 401,
+        "replies": 254,
+        "likes_h": "4.3K"
+      },
+      "engagement": 5347,
+      "hot": true
+    },
+    {
+      "id": "x_2061857539977842793",
+      "title": "We believe AI can be a dedicated research partner to help discover the next breakthrough. Enter Co-Scientist: our latest Gemini-based multi-agent system that can generate, debate and evolve novel…",
+      "link": "https://x.com/GoogleDeepMind/status/2061857539977842793",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Google DeepMind · @GoogleDeepMind",
+      "handle": "GoogleDeepMind",
+      "org": "Google",
+      "published": "2026-06-02T17:08:39.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "Google",
+        "Research"
+      ],
+      "summary": "We believe AI can be a dedicated research partner to help discover the next breakthrough. Enter Co-Scientist: our latest Gemini-based multi-agent system that can generate, debate and evolve novel hypotheses for complex scientific problems 🧵",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 75,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "casual tone (based)",
+        "tech substance (gemini, agent, research)",
+        "high engagement (1.5K likes)"
+      ],
+      "metrics": {
+        "likes": 1483,
+        "retweets": 276,
+        "replies": 107,
+        "likes_h": "1.5K"
+      },
+      "engagement": 2142,
+      "hot": false
+    },
+    {
+      "id": "x_2061845949170045346",
+      "title": "Building apps has never been easier. With Sites, Codex can turn your work, ideas, and plans into an interactive website or app your team can explore, use, and share with a URL. Rolling out to…",
+      "link": "https://x.com/OpenAI/status/2061845949170045346",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-06-02T16:22:36.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Announcement",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Announcement"
+      ],
+      "summary": "Building apps has never been easier. With Sites, Codex can turn your work, ideas, and plans into an interactive website or app your team can explore, use, and share with a URL. Rolling out to Business and Enterprise plans, before expanding more broadly.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 100,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "announcement language (rolling out)",
+        "business signal (enterprise)",
+        "high engagement (18.3K likes)"
+      ],
+      "metrics": {
+        "likes": 18252,
+        "retweets": 1714,
+        "replies": 843,
+        "likes_h": "18.3K"
+      },
+      "engagement": 22523,
+      "hot": true
+    },
+    {
       "id": "x_2061796327986454883",
       "title": "We’re expanding Project Glasswing. We’ve extended access to Claude Mythos Preview to approximately 150 additional organizations, based in more than fifteen countries. Read more about this expansion…",
       "link": "https://x.com/AnthropicAI/status/2061796327986454883",
@@ -284,16 +825,16 @@
         "casual tone (this, based)",
         "tech substance (claude)",
         "links to a source",
-        "high engagement (3.4K likes)"
+        "high engagement (3.8K likes)"
       ],
       "metrics": {
-        "likes": 3443,
-        "retweets": 368,
-        "replies": 294,
-        "likes_h": "3.4K"
+        "likes": 3795,
+        "retweets": 414,
+        "replies": 328,
+        "likes_h": "3.8K"
       },
-      "engagement": 4473,
-      "hot": true
+      "engagement": 4951,
+      "hot": false
     },
     {
       "id": "x_2061606345007104093",
@@ -335,6 +876,49 @@
       },
       "engagement": 253,
       "hot": false
+    },
+    {
+      "id": "x_2061564502160892138",
+      "title": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new way to build on Amazon Bedrock with OpenAI through the security, compliance, and governance workflows…",
+      "link": "https://x.com/OpenAI/status/2061564502160892138",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-06-01T21:44:13.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product launch",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Product launch"
+      ],
+      "summary": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new way to build on Amazon Bedrock with OpenAI through the security, compliance, and governance workflows they already use. This is also the beginning of a broader expansion of OpenAI",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 84,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "casual tone (this)",
+        "announcement language (generally available)",
+        "tech substance (models)",
+        "high engagement (5.4K likes)"
+      ],
+      "metrics": {
+        "likes": 5406,
+        "retweets": 550,
+        "replies": 326,
+        "likes_h": "5.4K"
+      },
+      "engagement": 6832,
+      "hot": true
     },
     {
       "id": "x_2061502320752419085",
@@ -450,15 +1034,15 @@
         "casual tone (this)",
         "business signal (s-1, s1, registration statement)",
         "links to a source",
-        "high engagement (21.6K likes)"
+        "high engagement (21.7K likes)"
       ],
       "metrics": {
-        "likes": 21562,
-        "retweets": 2636,
-        "replies": 953,
-        "likes_h": "21.6K"
+        "likes": 21690,
+        "retweets": 2653,
+        "replies": 970,
+        "likes_h": "21.7K"
       },
-      "engagement": 27787,
+      "engagement": 27966,
       "hot": true
     },
     {
@@ -543,7 +1127,89 @@
         "likes_h": "2.6K"
       },
       "engagement": 3535,
+      "hot": false
+    },
+    {
+      "id": "x_2060451757818601808",
+      "title": "AI can give researchers the freedom to pursue “crazier” ideas. For Terence Tao, AI creates more room to experiment, test unexpected paths, and discover what might otherwise stay out of reach.",
+      "link": "https://x.com/OpenAI/status/2060451757818601808",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-05-29T20:02:35.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Commentary"
+      ],
+      "summary": "AI can give researchers the freedom to pursue “crazier” ideas. For Terence Tao, AI creates more room to experiment, test unexpected paths, and discover what might otherwise stay out of reach.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 60,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "high engagement (5.9K likes)"
+      ],
+      "metrics": {
+        "likes": 5939,
+        "retweets": 635,
+        "replies": 308,
+        "likes_h": "5.9K"
+      },
+      "engagement": 7517,
       "hot": true
+    },
+    {
+      "id": "x_2060376598642405492",
+      "title": "We’re taking steps to accelerate defensive progress in biology: - Launching Rosalind Biodefense to help trusted builders develop new biodefense and pandemic preparedness capabilities. - Expanding…",
+      "link": "https://x.com/OpenAI/status/2060376598642405492",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-05-29T15:03:55.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product launch",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Product launch"
+      ],
+      "summary": "We’re taking steps to accelerate defensive progress in biology: - Launching Rosalind Biodefense to help trusted builders develop new biodefense and pandemic preparedness capabilities. - Expanding trusted access to GPT-Rosalind for select U.S. government and allied partners",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 96,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "announcement language (launching)",
+        "tech substance (gpt)",
+        "high engagement (2.2K likes)"
+      ],
+      "metrics": {
+        "likes": 2167,
+        "retweets": 224,
+        "replies": 214,
+        "likes_h": "2.2K"
+      },
+      "engagement": 2829,
+      "hot": false
     },
     {
       "id": "x_2060061348818518493",
@@ -583,12 +1249,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 1679,
+        "likes": 1680,
         "retweets": 117,
         "replies": 71,
         "likes_h": "1.7K"
       },
-      "engagement": 1984,
+      "engagement": 1985,
       "hot": false
     },
     {
@@ -627,12 +1293,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 22279,
-        "retweets": 1718,
-        "replies": 1207,
+        "likes": 22271,
+        "retweets": 1712,
+        "replies": 1210,
         "likes_h": "22.3K"
       },
-      "engagement": 26922,
+      "engagement": 26905,
       "hot": true
     },
     {
@@ -670,97 +1336,12 @@
       ],
       "metrics": {
         "likes": 2122,
-        "retweets": 287,
-        "replies": 323,
+        "retweets": 288,
+        "replies": 324,
         "likes_h": "2.1K"
       },
-      "engagement": 3019,
-      "hot": true
-    },
-    {
-      "id": "x_2058983299092009421",
-      "title": "Anthropic co-founder Chris Olah was invited to speak at today's presentation of Pope Leo XIV's encyclical \"Magnifica humanitas.\" Read the full text of his remarks:…",
-      "link": "https://x.com/AnthropicAI/status/2058983299092009421",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Anthropic · @AnthropicAI",
-      "handle": "AnthropicAI",
-      "org": "Anthropic",
-      "published": "2026-05-25T18:47:27.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "Anthropic",
-        "Commentary"
-      ],
-      "summary": "Anthropic co-founder Chris Olah was invited to speak at today's presentation of Pope Leo XIV's encyclical \"Magnifica humanitas.\" Read the full text of his remarks: https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 66,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "links to a source",
-        "high engagement (4.4K likes)"
-      ],
-      "metrics": {
-        "likes": 4418,
-        "retweets": 683,
-        "replies": 418,
-        "likes_h": "4.4K"
-      },
-      "engagement": 6202,
-      "hot": true
-    },
-    {
-      "id": "x_2057909104090169464",
-      "title": "Patching these vulnerabilities will make us safer. But the software industry will need to adapt to the volume of vulnerabilities that models like Claude Mythos Preview will be able to find. We…",
-      "link": "https://x.com/AnthropicAI/status/2057909104090169464",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Anthropic · @AnthropicAI",
-      "handle": "AnthropicAI",
-      "org": "Anthropic",
-      "published": "2026-05-22T19:38:59.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "Anthropic",
-        "Research"
-      ],
-      "summary": "Patching these vulnerabilities will make us safer. But the software industry will need to adapt to the volume of vulnerabilities that models like Claude Mythos Preview will be able to find. We discuss this in our initial update on Project Glasswing: https://www.anthropic.com/research/glasswing-initial-update",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 59,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "reply / conversation",
-        "casual tone (this)",
-        "tech substance (models, claude, research)",
-        "links to a source",
-        "high engagement (1.7K likes)"
-      ],
-      "metrics": {
-        "likes": 1657,
-        "retweets": 149,
-        "replies": 113,
-        "likes_h": "1.7K"
-      },
-      "engagement": 2068,
-      "hot": true
+      "engagement": 3022,
+      "hot": false
     }
   ]
 }
