@@ -18,11 +18,13 @@ export default async function handler(req, res) {
 
   const key = process.env.PEXELS_API_KEY;
   const q = (req.query.q || "").toString().trim().slice(0, 120) || "technology";
+  const fallback = (req.query.fallback || "").toString().trim().slice(0, 120);
   const seed = Math.abs(parseInt((req.query.seed || "0").toString(), 10) || 0);
 
   if (!key) { res.status(200).json({ url: null, reason: "no_key" }); return; }
 
   async function search(query) {
+    if (!query) return { photos: [] };
     const url = `https://api.pexels.com/v1/search?query=${encodeURIComponent(query)}&per_page=20`;
     const r = await fetch(url, { headers: { Authorization: key } });
     if (!r.ok) return { error: `pexels_${r.status}` };
@@ -31,11 +33,16 @@ export default async function handler(req, res) {
   }
 
   try {
-    // Try the specific query; if it's too niche to match, broaden to the first
-    // word (usually the field) before giving up.
+    // Most specific first (paper keywords); broaden to the first word; then the
+    // field fallback (e.g. the category) so there's always a topical match.
     let { photos = [], error } = await search(q);
-    if ((!photos || !photos.length) && q.includes(" ")) {
+    let matched = q;
+    if (!photos.length && q.includes(" ")) {
       ({ photos = [] } = await search(q.split(/\s+/)[0]));
+    }
+    if (!photos.length && fallback) {
+      ({ photos = [] } = await search(fallback));
+      matched = fallback;
     }
     if (error && !photos.length) { res.status(200).json({ url: null, reason: error, q }); return; }
     if (!photos.length) { res.status(200).json({ url: null, reason: "no_results", q }); return; }
@@ -48,8 +55,8 @@ export default async function handler(req, res) {
       thumb: photo.src?.medium || null,
       photographer: photo.photographer || null,
       photographer_url: photo.photographer_url || null,
-      alt: photo.alt || q,
-      q,
+      alt: photo.alt || matched,
+      q: matched,
     });
   } catch (err) {
     res.status(200).json({ url: null, reason: "error", detail: String(err) });
