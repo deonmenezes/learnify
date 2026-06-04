@@ -1,16 +1,185 @@
 {
-  "generated_at": "2026-06-04T12:08:16.479Z",
+  "generated_at": "2026-06-04T16:26:37.935Z",
   "handles": [
-    "gdb",
-    "OpenAI",
-    "nvidia",
     "AnthropicAI",
+    "OpenAI",
+    "gdb",
+    "nvidia",
     "demishassabis",
     "GoogleDeepMind",
     "NVIDIAAI"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2062568869240476050",
+      "title": "Each time we release a model, we run the same test: give it code that trains a small AI model, ask the new model to speed it up. It takes a skilled human 4-8 hours to reach 4x faster. In May 2024,…",
+      "link": "https://x.com/AnthropicAI/status/2062568869240476050",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Anthropic · @AnthropicAI",
+      "handle": "AnthropicAI",
+      "org": "Anthropic",
+      "published": "2026-06-04T16:15:13.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product launch",
+      "categories": [
+        "X",
+        "Anthropic",
+        "Product launch"
+      ],
+      "summary": "Each time we release a model, we run the same test: give it code that trains a small AI model, ask the new model to speed it up. It takes a skilled human 4-8 hours to reach 4x faster. In May 2024, Claude Opus 4 averaged a ~3x speedup. This April, Mythos Preview achieved ~52x.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 66,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "reply / conversation",
+        "casual tone (this)",
+        "announcement language (release)",
+        "tech substance (model, claude, opus)",
+        "concrete metrics"
+      ],
+      "metrics": {
+        "likes": 34,
+        "retweets": 4,
+        "replies": 1,
+        "likes_h": "34"
+      },
+      "engagement": 43,
+      "hot": false
+    },
+    {
+      "id": "x_2062568862479208923",
+      "title": "Our internal data shows Claude is accelerating AI development—a possible path to recursive self-improvement, or AI autonomously building a more capable successor. It’s happening faster than we…",
+      "link": "https://x.com/AnthropicAI/status/2062568862479208923",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Anthropic · @AnthropicAI",
+      "handle": "AnthropicAI",
+      "org": "Anthropic",
+      "published": "2026-06-04T16:15:12.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "Anthropic",
+        "Product"
+      ],
+      "summary": "Our internal data shows Claude is accelerating AI development—a possible path to recursive self-improvement, or AI autonomously building a more capable successor. It’s happening faster than we thought, and the implications deserve greater attention. https://www.anthropic.com/institute/recursive-self-improvement",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 83,
+      "sentiment": "positive",
+      "sentiment_score": 1,
+      "reasons": [
+        "report-worthy",
+        "tech substance (claude)",
+        "links to a source"
+      ],
+      "metrics": {
+        "likes": 474,
+        "retweets": 65,
+        "replies": 55,
+        "likes_h": "474"
+      },
+      "engagement": 659,
+      "hot": false
+    },
+    {
+      "id": "x_2062567561276100809",
+      "title": "The new memory system will keep track of important details automatically. If you prefer the legacy saved memories experience, you can switch back in settings. The new memory system is rolling out to…",
+      "link": "https://x.com/OpenAI/status/2062567561276100809",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-06-04T16:10:01.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Announcement",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Announcement"
+      ],
+      "summary": "The new memory system will keep track of important details automatically. If you prefer the legacy saved memories experience, you can switch back in settings. The new memory system is rolling out to Plus and Pro users in the US today, along with 2x more memory. To access it on",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 60,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "reply / conversation",
+        "announcement language (rolling out)",
+        "concrete metrics"
+      ],
+      "metrics": {
+        "likes": 103,
+        "retweets": 4,
+        "replies": 6,
+        "likes_h": "103"
+      },
+      "engagement": 117,
+      "hot": false
+    },
+    {
+      "id": "x_2062567556524003631",
+      "title": "We’ve been researching new ways for ChatGPT memory to carry context across conversations and keep it useful over time. Today, that work is rolling out as a more capable memory system in ChatGPT.…",
+      "link": "https://x.com/OpenAI/status/2062567556524003631",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-06-04T16:10:00.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Announcement",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Announcement"
+      ],
+      "summary": "We’ve been researching new ways for ChatGPT memory to carry context across conversations and keep it useful over time. Today, that work is rolling out as a more capable memory system in ChatGPT. https://openai.com/index/chatgpt-memory-dreaming/",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 96,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "announcement language (rolling out)",
+        "links to a source",
+        "high engagement (844 likes)"
+      ],
+      "metrics": {
+        "likes": 844,
+        "retweets": 94,
+        "replies": 81,
+        "likes_h": "844"
+      },
+      "engagement": 1113,
+      "hot": false
+    },
     {
       "id": "x_2062292268602773747",
       "title": "Major upgrade to GPT-Rosalind, with much better intelligence for drug discovery, analysis, design, and experimental workflows:",
@@ -82,15 +251,15 @@
         "report-worthy",
         "tech substance (model, gpt, research)",
         "business signal (enterprise)",
-        "high engagement (1.7K likes)"
+        "high engagement (3.3K likes)"
       ],
       "metrics": {
-        "likes": 1724,
-        "retweets": 171,
-        "replies": 135,
-        "likes_h": "1.7K"
+        "likes": 3348,
+        "retweets": 343,
+        "replies": 223,
+        "likes_h": "3.3K"
       },
-      "engagement": 2201,
+      "engagement": 4257,
       "hot": false
     },
     {
@@ -158,20 +327,21 @@
       "summary": "How well do the security community's techniques hold up against AI-enabled cyberattacks? We examined 832 malicious accounts and mapped their activity onto a longstanding database of tactics and techniques used by threat actors. Here's what we learned:https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 65,
+      "worthiness_score": 66,
       "sentiment": "negative",
       "sentiment_score": -0.5,
       "reasons": [
         "report-worthy",
-        "links to a source"
+        "links to a source",
+        "high engagement (1K likes)"
       ],
       "metrics": {
-        "likes": 549,
-        "retweets": 69,
-        "replies": 79,
-        "likes_h": "549"
+        "likes": 1048,
+        "retweets": 137,
+        "replies": 137,
+        "likes_h": "1K"
       },
-      "engagement": 766,
+      "engagement": 1459,
       "hot": false
     },
     {
@@ -698,15 +868,15 @@
       "sentiment_score": 0,
       "reasons": [
         "report-worthy",
-        "high engagement (4.3K likes)"
+        "high engagement (4.6K likes)"
       ],
       "metrics": {
-        "likes": 4291,
-        "retweets": 401,
-        "replies": 254,
-        "likes_h": "4.3K"
+        "likes": 4601,
+        "retweets": 442,
+        "replies": 274,
+        "likes_h": "4.6K"
       },
-      "engagement": 5347,
+      "engagement": 5759,
       "hot": true
     },
     {
@@ -782,15 +952,15 @@
         "report-worthy",
         "announcement language (rolling out)",
         "business signal (enterprise)",
-        "high engagement (18.3K likes)"
+        "high engagement (18.9K likes)"
       ],
       "metrics": {
-        "likes": 18252,
-        "retweets": 1714,
-        "replies": 843,
-        "likes_h": "18.3K"
+        "likes": 18936,
+        "retweets": 1787,
+        "replies": 883,
+        "likes_h": "18.9K"
       },
-      "engagement": 22523,
+      "engagement": 23393,
       "hot": true
     },
     {
@@ -825,15 +995,15 @@
         "casual tone (this, based)",
         "tech substance (claude)",
         "links to a source",
-        "high engagement (3.8K likes)"
+        "high engagement (3.9K likes)"
       ],
       "metrics": {
-        "likes": 3795,
-        "retweets": 414,
-        "replies": 328,
-        "likes_h": "3.8K"
+        "likes": 3853,
+        "retweets": 421,
+        "replies": 337,
+        "likes_h": "3.9K"
       },
-      "engagement": 4951,
+      "engagement": 5032,
       "hot": true
     },
     {
@@ -912,12 +1082,12 @@
         "high engagement (5.4K likes)"
       ],
       "metrics": {
-        "likes": 5406,
-        "retweets": 550,
+        "likes": 5409,
+        "retweets": 548,
         "replies": 326,
         "likes_h": "5.4K"
       },
-      "engagement": 6832,
+      "engagement": 6831,
       "hot": true
     },
     {
@@ -1037,12 +1207,12 @@
         "high engagement (21.7K likes)"
       ],
       "metrics": {
-        "likes": 21690,
+        "likes": 21708,
         "retweets": 2653,
-        "replies": 970,
+        "replies": 977,
         "likes_h": "21.7K"
       },
-      "engagement": 27966,
+      "engagement": 27991,
       "hot": true
     },
     {
@@ -1168,180 +1338,6 @@
       },
       "engagement": 7517,
       "hot": true
-    },
-    {
-      "id": "x_2060376598642405492",
-      "title": "We’re taking steps to accelerate defensive progress in biology: - Launching Rosalind Biodefense to help trusted builders develop new biodefense and pandemic preparedness capabilities. - Expanding…",
-      "link": "https://x.com/OpenAI/status/2060376598642405492",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-05-29T15:03:55.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product launch",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Product launch"
-      ],
-      "summary": "We’re taking steps to accelerate defensive progress in biology: - Launching Rosalind Biodefense to help trusted builders develop new biodefense and pandemic preparedness capabilities. - Expanding trusted access to GPT-Rosalind for select U.S. government and allied partners",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 96,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "announcement language (launching)",
-        "tech substance (gpt)",
-        "high engagement (2.2K likes)"
-      ],
-      "metrics": {
-        "likes": 2167,
-        "retweets": 224,
-        "replies": 214,
-        "likes_h": "2.2K"
-      },
-      "engagement": 2829,
-      "hot": false
-    },
-    {
-      "id": "x_2060061348818518493",
-      "title": "Earlier this month, our run-rate revenue crossed $47 billion. This growth has been driven by organizations across many industries deploying Claude in their core operations, and by a growing number of…",
-      "link": "https://x.com/AnthropicAI/status/2060061348818518493",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Anthropic · @AnthropicAI",
-      "handle": "AnthropicAI",
-      "org": "Anthropic",
-      "published": "2026-05-28T18:11:14.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Funding & deals",
-      "categories": [
-        "X",
-        "Anthropic",
-        "Funding & deals"
-      ],
-      "summary": "Earlier this month, our run-rate revenue crossed $47 billion. This growth has been driven by organizations across many industries deploying Claude in their core operations, and by a growing number of people using it for their everyday work. Read more: https://www.anthropic.com/news/series-h",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 72,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "reply / conversation",
-        "casual tone (this)",
-        "tech substance (claude)",
-        "business signal (billion, revenue)",
-        "links to a source",
-        "high engagement (1.7K likes)",
-        "concrete metrics"
-      ],
-      "metrics": {
-        "likes": 1680,
-        "retweets": 117,
-        "replies": 71,
-        "likes_h": "1.7K"
-      },
-      "engagement": 1985,
-      "hot": false
-    },
-    {
-      "id": "x_2060061347522433422",
-      "title": "We've raised $65 billion in Series H funding at a $965 billion post-money valuation, led by @AltimeterCap, Dragoneer, @Greenoaks, and @sequoia. This investment will help us advance our research and…",
-      "link": "https://x.com/AnthropicAI/status/2060061347522433422",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Anthropic · @AnthropicAI",
-      "handle": "AnthropicAI",
-      "org": "Anthropic",
-      "published": "2026-05-28T18:11:13.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Funding & deals",
-      "categories": [
-        "X",
-        "Anthropic",
-        "Funding & deals"
-      ],
-      "summary": "We've raised $65 billion in Series H funding at a $965 billion post-money valuation, led by @AltimeterCap, Dragoneer, @Greenoaks, and @sequoia. This investment will help us advance our research and expand our capacity to meet growing demand for Claude.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 100,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "casual tone (this)",
-        "tech substance (claude, research)",
-        "business signal (raised, funding, valuation)",
-        "high engagement (22.3K likes)",
-        "concrete metrics"
-      ],
-      "metrics": {
-        "likes": 22271,
-        "retweets": 1712,
-        "replies": 1210,
-        "likes_h": "22.3K"
-      },
-      "engagement": 26905,
-      "hot": true
-    },
-    {
-      "id": "x_2059351260243919269",
-      "title": "New on the Engineering Blog: The access and permissions we grant agents should evolve with their capabilities. In our own products, we set these parameters through sandboxing, which limits the scope…",
-      "link": "https://x.com/AnthropicAI/status/2059351260243919269",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Anthropic · @AnthropicAI",
-      "handle": "AnthropicAI",
-      "org": "Anthropic",
-      "published": "2026-05-26T19:09:35.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "Anthropic",
-        "Product"
-      ],
-      "summary": "New on the Engineering Blog: The access and permissions we grant agents should evolve with their capabilities. In our own products, we set these parameters through sandboxing, which limits the scope of any potentially destructive actions. Read more: https://www.anthropic.com/engineering/how-we-contain-claude",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 89,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (claude, agents)",
-        "links to a source",
-        "high engagement (2.1K likes)"
-      ],
-      "metrics": {
-        "likes": 2122,
-        "retweets": 288,
-        "replies": 324,
-        "likes_h": "2.1K"
-      },
-      "engagement": 3022,
-      "hot": false
     }
   ]
 }
