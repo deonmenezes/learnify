@@ -1,16 +1,57 @@
 {
-  "generated_at": "2026-06-04T19:29:10.336Z",
+  "generated_at": "2026-06-04T21:49:10.083Z",
   "handles": [
     "nvidia",
     "GoogleDeepMind",
     "demishassabis",
-    "NVIDIAAI",
     "AnthropicAI",
     "OpenAI",
+    "NVIDIAAI",
     "gdb"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2062647600424128773",
+      "title": "When laws and oversight depend on transcripts, 70–80% isn’t enough. http://Rafiqspace.ai hit 97.7% Bahasa Indonesia accuracy (2.3% WER) with fine‑tuned Nemotron Parakeet ASR—outperforming global…",
+      "link": "https://x.com/nvidia/status/2062647600424128773",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-04T21:28:04.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "When laws and oversight depend on transcripts, 70–80% isn’t enough. http://Rafiqspace.ai hit 97.7% Bahasa Indonesia accuracy (2.3% WER) with fine‑tuned Nemotron Parakeet ASR—outperforming global tools while cutting per‑hour costs by up to 90%. ⚖️",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 78,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (nemotron)",
+        "links to a source"
+      ],
+      "metrics": {
+        "likes": 30,
+        "retweets": 2,
+        "replies": 7,
+        "likes_h": "30"
+      },
+      "engagement": 41,
+      "hot": false
+    },
     {
       "id": "x_2062595934010130815",
       "title": "Agents are becoming a new layer of enterprise software. Jensen Huang explains why companies like @Cadence, @CrowdStrike, @Dassault3DS, @PalantirTech, @SAP, @ServiceNow, @Siemens, and @Synopsys are…",
@@ -35,7 +76,7 @@
       "summary": "Agents are becoming a new layer of enterprise software. Jensen Huang explains why companies like @Cadence, @CrowdStrike, @Dassault3DS, @PalantirTech, @SAP, @ServiceNow, @Siemens, and @Synopsys are building agents on NVIDIA, and why the opportunity for software partners is only",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 88,
+      "worthiness_score": 89,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -44,12 +85,12 @@
         "business signal (enterprise)"
       ],
       "metrics": {
-        "likes": 171,
-        "retweets": 31,
-        "replies": 22,
-        "likes_h": "171"
+        "likes": 337,
+        "retweets": 68,
+        "replies": 39,
+        "likes_h": "337"
       },
-      "engagement": 255,
+      "engagement": 512,
       "hot": false
     },
     {
@@ -76,7 +117,7 @@
       "summary": "Is your infrastructure ready for the shift to agentic AI? Discover how the latest NVIDIA DGX Spark updates simplify local agent workflows and boost inference speeds by up to 2.6x using NVIDIA NemoClaw. Read the blog: https://nvda.ws/4uPi16d",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 95,
+      "worthiness_score": 96,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -86,12 +127,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 101,
-        "retweets": 13,
-        "replies": 21,
-        "likes_h": "101"
+        "likes": 128,
+        "retweets": 19,
+        "replies": 22,
+        "likes_h": "128"
       },
-      "engagement": 148,
+      "engagement": 188,
       "hot": false
     },
     {
@@ -297,12 +338,12 @@
         "tech substance (agent, training)"
       ],
       "metrics": {
-        "likes": 178,
-        "retweets": 25,
-        "replies": 28,
-        "likes_h": "178"
+        "likes": 207,
+        "retweets": 29,
+        "replies": 29,
+        "likes_h": "207"
       },
-      "engagement": 256,
+      "engagement": 294,
       "hot": false
     },
     {
@@ -337,16 +378,16 @@
         "announcement language (introducing)",
         "tech substance (model, nemotron, agents)",
         "business signal (enterprise)",
-        "high engagement (1.5K likes)",
+        "high engagement (1.6K likes)",
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 1453,
-        "retweets": 172,
-        "replies": 85,
-        "likes_h": "1.5K"
+        "likes": 1607,
+        "retweets": 193,
+        "replies": 88,
+        "likes_h": "1.6K"
       },
-      "engagement": 1882,
+      "engagement": 2081,
       "hot": false
     },
     {
@@ -390,7 +431,7 @@
         "likes_h": "1.8K"
       },
       "engagement": 2395,
-      "hot": false
+      "hot": true
     },
     {
       "id": "x_2062292268602773747",
@@ -588,17 +629,17 @@
         "announcement language (release)",
         "tech substance (model)",
         "business signal (million)",
-        "high engagement (2.7K likes)",
+        "high engagement (2.8K likes)",
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 2718,
-        "retweets": 250,
-        "replies": 135,
-        "likes_h": "2.7K"
+        "likes": 2780,
+        "retweets": 255,
+        "replies": 134,
+        "likes_h": "2.8K"
       },
-      "engagement": 3353,
-      "hot": false
+      "engagement": 3424,
+      "hot": true
     },
     {
       "id": "x_2062232852561891718",
@@ -632,12 +673,12 @@
         "tech substance (agents)"
       ],
       "metrics": {
-        "likes": 214,
+        "likes": 216,
         "retweets": 19,
         "replies": 18,
-        "likes_h": "214"
+        "likes_h": "216"
       },
-      "engagement": 270,
+      "engagement": 272,
       "hot": false
     },
     {
@@ -1125,13 +1166,13 @@
         "high engagement (1.6K likes)"
       ],
       "metrics": {
-        "likes": 1566,
-        "retweets": 295,
+        "likes": 1569,
+        "retweets": 296,
         "replies": 117,
         "likes_h": "1.6K"
       },
-      "engagement": 2273,
-      "hot": false
+      "engagement": 2278,
+      "hot": true
     },
     {
       "id": "x_2061845949170045346",
@@ -1301,46 +1342,6 @@
       },
       "engagement": 6831,
       "hot": true
-    },
-    {
-      "id": "x_2061502320752419085",
-      "title": "The NVIDIA Vera Rubin platform is a multi-rack pod-scale system, built to process agentic AI and is now in full production. Built through extreme co-design, Vera Rubin unifies five connected…",
-      "link": "https://x.com/nvidia/status/2061502320752419085",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-01T17:37:08.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product"
-      ],
-      "summary": "The NVIDIA Vera Rubin platform is a multi-rack pod-scale system, built to process agentic AI and is now in full production. Built through extreme co-design, Vera Rubin unifies five connected rack-scale systems — the NVIDIA Vera Rubin NVL72, Vera CPU rack, Groq 3 LPX, Vera",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 76,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (platform)"
-      ],
-      "metrics": {
-        "likes": 412,
-        "retweets": 82,
-        "replies": 40,
-        "likes_h": "412"
-      },
-      "engagement": 616,
-      "hot": false
     }
   ]
 }
