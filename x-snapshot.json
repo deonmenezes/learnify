@@ -1,16 +1,99 @@
 {
-  "generated_at": "2026-06-04T16:26:37.935Z",
+  "generated_at": "2026-06-04T19:29:10.336Z",
   "handles": [
+    "nvidia",
+    "GoogleDeepMind",
+    "demishassabis",
+    "NVIDIAAI",
     "AnthropicAI",
     "OpenAI",
-    "gdb",
-    "nvidia",
-    "demishassabis",
-    "GoogleDeepMind",
-    "NVIDIAAI"
+    "gdb"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2062595934010130815",
+      "title": "Agents are becoming a new layer of enterprise software. Jensen Huang explains why companies like @Cadence, @CrowdStrike, @Dassault3DS, @PalantirTech, @SAP, @ServiceNow, @Siemens, and @Synopsys are…",
+      "link": "https://x.com/nvidia/status/2062595934010130815",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-04T18:02:46.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "Agents are becoming a new layer of enterprise software. Jensen Huang explains why companies like @Cadence, @CrowdStrike, @Dassault3DS, @PalantirTech, @SAP, @ServiceNow, @Siemens, and @Synopsys are building agents on NVIDIA, and why the opportunity for software partners is only",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 88,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (agents)",
+        "business signal (enterprise)"
+      ],
+      "metrics": {
+        "likes": 171,
+        "retweets": 31,
+        "replies": 22,
+        "likes_h": "171"
+      },
+      "engagement": 255,
+      "hot": false
+    },
+    {
+      "id": "x_2062583740392435852",
+      "title": "Is your infrastructure ready for the shift to agentic AI? Discover how the latest NVIDIA DGX Spark updates simplify local agent workflows and boost inference speeds by up to 2.6x using NVIDIA…",
+      "link": "https://x.com/nvidia/status/2062583740392435852",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-04T17:14:19.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "Is your infrastructure ready for the shift to agentic AI? Discover how the latest NVIDIA DGX Spark updates simplify local agent workflows and boost inference speeds by up to 2.6x using NVIDIA NemoClaw. Read the blog: https://nvda.ws/4uPi16d",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 95,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (agent, inference)",
+        "links to a source",
+        "concrete metrics"
+      ],
+      "metrics": {
+        "likes": 101,
+        "retweets": 13,
+        "replies": 21,
+        "likes_h": "101"
+      },
+      "engagement": 148,
+      "hot": false
+    },
     {
       "id": "x_2062568869240476050",
       "title": "Each time we release a model, we run the same test: give it code that trains a small AI model, ask the new model to speed it up. It takes a skilled human 4-8 hours to reach 4x faster. In May 2024,…",
@@ -181,6 +264,135 @@
       "hot": false
     },
     {
+      "id": "x_2062557490210852947",
+      "title": "Building autonomous vehicles, robots, and vision AI takes more data than any team can collect on their own. At #CVPR2026, NVIDIA announced physical AI agent skills to help speed development:…",
+      "link": "https://x.com/nvidia/status/2062557490210852947",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-04T15:30:00.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Research",
+        "CVPR2026"
+      ],
+      "summary": "Building autonomous vehicles, robots, and vision AI takes more data than any team can collect on their own. At #CVPR2026, NVIDIA announced physical AI agent skills to help speed development: composable workflows that automate data generation, simulation, policy training and",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 100,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "announcement language (announced)",
+        "tech substance (agent, training)"
+      ],
+      "metrics": {
+        "likes": 178,
+        "retweets": 25,
+        "replies": 28,
+        "likes_h": "178"
+      },
+      "engagement": 256,
+      "hot": false
+    },
+    {
+      "id": "x_2062522316672667770",
+      "title": "Introducing NVIDIA Nemotron 3 Ultra. A frontier smart open model built for long-running agents that need to plan, reason, use tools and keep working across complex coding, research and enterprise…",
+      "link": "https://x.com/nvidia/status/2062522316672667770",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-04T13:10:14.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Research"
+      ],
+      "summary": "Introducing NVIDIA Nemotron 3 Ultra. A frontier smart open model built for long-running agents that need to plan, reason, use tools and keep working across complex coding, research and enterprise workflows. Up to 5x faster inference and up to 30% lower cost for agentic tasks.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 100,
+      "sentiment": "positive",
+      "sentiment_score": 1,
+      "reasons": [
+        "report-worthy",
+        "announcement language (introducing)",
+        "tech substance (model, nemotron, agents)",
+        "business signal (enterprise)",
+        "high engagement (1.5K likes)",
+        "concrete metrics"
+      ],
+      "metrics": {
+        "likes": 1453,
+        "retweets": 172,
+        "replies": 85,
+        "likes_h": "1.5K"
+      },
+      "engagement": 1882,
+      "hot": false
+    },
+    {
+      "id": "x_2062521325076299981",
+      "title": "Today we're shipping Nemotron 3 Ultra. A 550B MoE frontier-intelligence open model built for long-running agents. It delivers 5x faster inference and lowers the cost of complex agentic tasks by up to…",
+      "link": "https://x.com/NVIDIAAI/status/2062521325076299981",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA AI · @NVIDIAAI",
+      "handle": "NVIDIAAI",
+      "org": "NVIDIA",
+      "published": "2026-06-04T13:06:18.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product launch",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product launch"
+      ],
+      "summary": "Today we're shipping Nemotron 3 Ultra. A 550B MoE frontier-intelligence open model built for long-running agents. It delivers 5x faster inference and lowers the cost of complex agentic tasks by up to 30% versus other open frontier models.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 100,
+      "sentiment": "positive",
+      "sentiment_score": 1,
+      "reasons": [
+        "report-worthy",
+        "announcement language (today we, today we're, shipping)",
+        "tech substance (model, models, nemotron)",
+        "high engagement (1.8K likes)",
+        "concrete metrics"
+      ],
+      "metrics": {
+        "likes": 1812,
+        "retweets": 239,
+        "replies": 105,
+        "likes_h": "1.8K"
+      },
+      "engagement": 2395,
+      "hot": false
+    },
+    {
       "id": "x_2062292268602773747",
       "title": "Major upgrade to GPT-Rosalind, with much better intelligence for drug discovery, analysis, design, and experimental workflows:",
       "link": "https://x.com/gdb/status/2062292268602773747",
@@ -260,7 +472,7 @@
         "likes_h": "3.3K"
       },
       "engagement": 4257,
-      "hot": false
+      "hot": true
     },
     {
       "id": "x_2062263049952674211",
@@ -376,16 +588,16 @@
         "announcement language (release)",
         "tech substance (model)",
         "business signal (million)",
-        "high engagement (1.8K likes)",
+        "high engagement (2.7K likes)",
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 1842,
-        "retweets": 160,
-        "replies": 92,
-        "likes_h": "1.8K"
+        "likes": 2718,
+        "retweets": 250,
+        "replies": 135,
+        "likes_h": "2.7K"
       },
-      "engagement": 2254,
+      "engagement": 3353,
       "hot": false
     },
     {
@@ -412,7 +624,7 @@
       "summary": "Local AI Agents are leveling up across DGX Spark &amp; RTX PCs. NVIDIA OpenShell is coming to Windows alongside new agentic AI optimizations and creator app updates—including NVIDIA Broadcast 2.2, plus upcoming RTX acceleration for Adobe apps and Blender. Learn More:",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 73,
+      "worthiness_score": 74,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -420,12 +632,12 @@
         "tech substance (agents)"
       ],
       "metrics": {
-        "likes": 173,
-        "retweets": 16,
-        "replies": 15,
-        "likes_h": "173"
+        "likes": 214,
+        "retweets": 19,
+        "replies": 18,
+        "likes_h": "214"
       },
-      "engagement": 220,
+      "engagement": 270,
       "hot": false
     },
     {
@@ -453,7 +665,7 @@
       "summary": "The agentic AI era is here. From Taipei, Jensen Huang joined @satyanadella at #MSBuild to show how NVIDIA and @Microsoft are building it together, from Windows devices to AI factories at scale. ▶️ Watch the conversation: https://nvda.ws/4uefQbs",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 64,
+      "worthiness_score": 65,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -461,12 +673,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 365,
-        "retweets": 60,
-        "replies": 40,
-        "likes_h": "365"
+        "likes": 461,
+        "retweets": 84,
+        "replies": 45,
+        "likes_h": "461"
       },
-      "engagement": 525,
+      "engagement": 674,
       "hot": false
     },
     {
@@ -910,15 +1122,15 @@
         "report-worthy",
         "casual tone (based)",
         "tech substance (gemini, agent, research)",
-        "high engagement (1.5K likes)"
+        "high engagement (1.6K likes)"
       ],
       "metrics": {
-        "likes": 1537,
-        "retweets": 291,
-        "replies": 110,
-        "likes_h": "1.5K"
+        "likes": 1566,
+        "retweets": 295,
+        "replies": 117,
+        "likes_h": "1.6K"
       },
-      "engagement": 2229,
+      "engagement": 2273,
       "hot": false
     },
     {
@@ -1129,215 +1341,6 @@
       },
       "engagement": 616,
       "hot": false
-    },
-    {
-      "id": "x_2061483007249203644",
-      "title": "CEO Jensen Huang took the stage at GTC Taipei and redefined the future of AI. He unveiled AI infrastructure running the world's AI factories, autonomous agents that actually do things, physical AI…",
-      "link": "https://x.com/nvidia/status/2061483007249203644",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-01T16:20:24.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product launch",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product launch"
-      ],
-      "summary": "CEO Jensen Huang took the stage at GTC Taipei and redefined the future of AI. He unveiled AI infrastructure running the world's AI factories, autonomous agents that actually do things, physical AI and robotics stepping into the real world, and a brand-new generation of personal",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 100,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "announcement language (unveiled)",
-        "tech substance (agents, robotics)",
-        "high engagement (786 likes)"
-      ],
-      "metrics": {
-        "likes": 786,
-        "retweets": 139,
-        "replies": 58,
-        "likes_h": "786"
-      },
-      "engagement": 1122,
-      "hot": false
-    },
-    {
-      "id": "x_2061478052257841495",
-      "title": "Anthropic has confidentially submitted a draft S-1 registration statement to the Securities and Exchange Commission. Pending completion of SEC review, this gives us the option to pursue an initial…",
-      "link": "https://x.com/AnthropicAI/status/2061478052257841495",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Anthropic · @AnthropicAI",
-      "handle": "AnthropicAI",
-      "org": "Anthropic",
-      "published": "2026-06-01T16:00:42.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "Anthropic",
-        "Commentary"
-      ],
-      "summary": "Anthropic has confidentially submitted a draft S-1 registration statement to the Securities and Exchange Commission. Pending completion of SEC review, this gives us the option to pursue an initial public offering. Read more: https://www.anthropic.com/news/confidential-draft-s1-sec",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 94,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "casual tone (this)",
-        "business signal (s-1, s1, registration statement)",
-        "links to a source",
-        "high engagement (21.7K likes)"
-      ],
-      "metrics": {
-        "likes": 21708,
-        "retweets": 2653,
-        "replies": 977,
-        "likes_h": "21.7K"
-      },
-      "engagement": 27991,
-      "hot": true
-    },
-    {
-      "id": "x_2061313474005737829",
-      "title": "NVIDIA RTX Spark: a 1-petaflop superchip, the full CUDA and RTX ecosystem, and Windows-native agents. A new beginning for personal computers.",
-      "link": "https://x.com/nvidia/status/2061313474005737829",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-01T05:06:44.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product"
-      ],
-      "summary": "NVIDIA RTX Spark: a 1-petaflop superchip, the full CUDA and RTX ecosystem, and Windows-native agents. A new beginning for personal computers.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 82,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (agents, cuda)",
-        "high engagement (4.1K likes)"
-      ],
-      "metrics": {
-        "likes": 4143,
-        "retweets": 421,
-        "replies": 290,
-        "likes_h": "4.1K"
-      },
-      "engagement": 5275,
-      "hot": true
-    },
-    {
-      "id": "x_2061308434629132553",
-      "title": "Introducing Cosmos 3: Our latest frontier model for Physical AI Cosmos 3 is the world’s first fully open omnimodel with native vision reasoning, world and action generation. Today we’re releasing…",
-      "link": "https://x.com/NVIDIAAI/status/2061308434629132553",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA AI · @NVIDIAAI",
-      "handle": "NVIDIAAI",
-      "org": "NVIDIA",
-      "published": "2026-06-01T04:46:42.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Research"
-      ],
-      "summary": "Introducing Cosmos 3: Our latest frontier model for Physical AI Cosmos 3 is the world’s first fully open omnimodel with native vision reasoning, world and action generation. Today we’re releasing Super (32B) and Nano (8B) variants.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 100,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "announcement language (introducing, today we, releasing)",
-        "tech substance (model, reasoning)",
-        "high engagement (2.6K likes)",
-        "concrete metrics"
-      ],
-      "metrics": {
-        "likes": 2646,
-        "retweets": 398,
-        "replies": 93,
-        "likes_h": "2.6K"
-      },
-      "engagement": 3535,
-      "hot": false
-    },
-    {
-      "id": "x_2060451757818601808",
-      "title": "AI can give researchers the freedom to pursue “crazier” ideas. For Terence Tao, AI creates more room to experiment, test unexpected paths, and discover what might otherwise stay out of reach.",
-      "link": "https://x.com/OpenAI/status/2060451757818601808",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-05-29T20:02:35.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Commentary"
-      ],
-      "summary": "AI can give researchers the freedom to pursue “crazier” ideas. For Terence Tao, AI creates more room to experiment, test unexpected paths, and discover what might otherwise stay out of reach.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 60,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "high engagement (5.9K likes)"
-      ],
-      "metrics": {
-        "likes": 5939,
-        "retweets": 635,
-        "replies": 308,
-        "likes_h": "5.9K"
-      },
-      "engagement": 7517,
-      "hot": true
     }
   ]
 }
