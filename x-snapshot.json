@@ -1,16 +1,56 @@
 {
-  "generated_at": "2026-06-05T12:16:43.793Z",
+  "generated_at": "2026-06-05T16:04:03.117Z",
   "handles": [
+    "OpenAI",
     "nvidia",
     "GoogleDeepMind",
-    "demishassabis",
-    "OpenAI",
     "AnthropicAI",
     "NVIDIAAI",
-    "gdb"
+    "gdb",
+    "demishassabis"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2062927046448431587",
+      "title": "An issue caused some user accounts to be incorrectly suspended. We’re restoring access and working through related subscription and credit issues. https://status.openai.com/incidents/ejj40mae",
+      "link": "https://x.com/OpenAI/status/2062927046448431587",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-06-05T15:58:29.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Commentary"
+      ],
+      "summary": "An issue caused some user accounts to be incorrectly suspended. We’re restoring access and working through related subscription and credit issues. https://status.openai.com/incidents/ejj40mae",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 63,
+      "sentiment": "negative",
+      "sentiment_score": -1,
+      "reasons": [
+        "report-worthy",
+        "links to a source"
+      ],
+      "metrics": {
+        "likes": 191,
+        "retweets": 30,
+        "replies": 45,
+        "likes_h": "191"
+      },
+      "engagement": 296,
+      "hot": false
+    },
     {
       "id": "x_2062691991494783218",
       "title": "AI compute demand isn't slowing down, and neither is the ecosystem to support it. AI Clouds are built on NVIDIA’s full-stack, end-to-end AI factory platform. They’re expanding worldwide to bring…",
@@ -35,7 +75,7 @@
       "summary": "AI compute demand isn't slowing down, and neither is the ecosystem to support it. AI Clouds are built on NVIDIA’s full-stack, end-to-end AI factory platform. They’re expanding worldwide to bring accelerated computing closer to developers, enterprises, startups and nations",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 75,
+      "worthiness_score": 76,
       "sentiment": "negative",
       "sentiment_score": -0.5,
       "reasons": [
@@ -43,12 +83,12 @@
         "tech substance (platform)"
       ],
       "metrics": {
-        "likes": 362,
-        "retweets": 55,
-        "replies": 47,
-        "likes_h": "362"
+        "likes": 454,
+        "retweets": 73,
+        "replies": 50,
+        "likes_h": "454"
       },
-      "engagement": 519,
+      "engagement": 650,
       "hot": false
     },
     {
@@ -85,12 +125,12 @@
         "tech substance (model)"
       ],
       "metrics": {
-        "likes": 260,
-        "retweets": 43,
-        "replies": 35,
-        "likes_h": "260"
+        "likes": 287,
+        "retweets": 44,
+        "replies": 36,
+        "likes_h": "287"
       },
-      "engagement": 381,
+      "engagement": 411,
       "hot": false
     },
     {
@@ -126,12 +166,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 133,
-        "retweets": 16,
+        "likes": 136,
+        "retweets": 17,
         "replies": 16,
-        "likes_h": "133"
+        "likes_h": "136"
       },
-      "engagement": 181,
+      "engagement": 186,
       "hot": false
     },
     {
@@ -168,12 +208,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 78,
-        "retweets": 5,
-        "replies": 8,
-        "likes_h": "78"
+        "likes": 93,
+        "retweets": 6,
+        "replies": 12,
+        "likes_h": "93"
       },
-      "engagement": 96,
+      "engagement": 117,
       "hot": false
     },
     {
@@ -206,15 +246,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (models)",
-        "high engagement (1K likes)"
+        "high engagement (1.1K likes)"
       ],
       "metrics": {
-        "likes": 1029,
-        "retweets": 85,
-        "replies": 114,
-        "likes_h": "1K"
+        "likes": 1140,
+        "retweets": 100,
+        "replies": 130,
+        "likes_h": "1.1K"
       },
-      "engagement": 1313,
+      "engagement": 1470,
       "hot": false
     },
     {
@@ -248,15 +288,15 @@
         "report-worthy",
         "tech substance (agents)",
         "business signal (enterprise)",
-        "high engagement (771 likes)"
+        "high engagement (814 likes)"
       ],
       "metrics": {
-        "likes": 771,
-        "retweets": 127,
-        "replies": 55,
-        "likes_h": "771"
+        "likes": 814,
+        "retweets": 131,
+        "replies": 56,
+        "likes_h": "814"
       },
-      "engagement": 1080,
+      "engagement": 1132,
       "hot": false
     },
     {
@@ -293,12 +333,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 242,
+        "likes": 251,
         "retweets": 28,
         "replies": 31,
-        "likes_h": "242"
+        "likes_h": "251"
       },
-      "engagement": 329,
+      "engagement": 338,
       "hot": false
     },
     {
@@ -454,7 +494,7 @@
       "summary": "The new memory system will keep track of important details automatically. If you prefer the legacy saved memories experience, you can switch back in settings. The new memory system is rolling out to Plus and Pro users in the US today, along with 2x more memory. To access it on",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 65,
+      "worthiness_score": 66,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -464,12 +504,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 722,
-        "retweets": 31,
-        "replies": 38,
-        "likes_h": "722"
+        "likes": 778,
+        "retweets": 35,
+        "replies": 44,
+        "likes_h": "778"
       },
-      "engagement": 822,
+      "engagement": 892,
       "hot": false
     },
     {
@@ -503,15 +543,15 @@
         "report-worthy",
         "announcement language (rolling out)",
         "links to a source",
-        "high engagement (8.1K likes)"
+        "high engagement (8.7K likes)"
       ],
       "metrics": {
-        "likes": 8138,
-        "retweets": 832,
-        "replies": 540,
-        "likes_h": "8.1K"
+        "likes": 8679,
+        "retweets": 902,
+        "replies": 605,
+        "likes_h": "8.7K"
       },
-      "engagement": 10342,
+      "engagement": 11088,
       "hot": true
     },
     {
@@ -548,12 +588,12 @@
         "tech substance (agent, training)"
       ],
       "metrics": {
-        "likes": 283,
-        "retweets": 38,
+        "likes": 298,
+        "retweets": 41,
         "replies": 35,
-        "likes_h": "283"
+        "likes_h": "298"
       },
-      "engagement": 394,
+      "engagement": 415,
       "hot": false
     },
     {
@@ -714,15 +754,15 @@
         "report-worthy",
         "tech substance (model, gpt, research)",
         "business signal (enterprise)",
-        "high engagement (3.7K likes)"
+        "high engagement (3.8K likes)"
       ],
       "metrics": {
-        "likes": 3675,
-        "retweets": 383,
-        "replies": 232,
-        "likes_h": "3.7K"
+        "likes": 3754,
+        "retweets": 388,
+        "replies": 234,
+        "likes_h": "3.8K"
       },
-      "engagement": 4673,
+      "engagement": 4764,
       "hot": true
     },
     {
@@ -1301,46 +1341,6 @@
       },
       "engagement": 1416,
       "hot": false
-    },
-    {
-      "id": "x_2061887650391625870",
-      "title": "We’re making Codex more useful for your work by expanding plugins beyond individual tools. These plugins turn Codex into a specialist for a specific role with a single install, no coding required.…",
-      "link": "https://x.com/OpenAI/status/2061887650391625870",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-06-02T19:08:18.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Commentary"
-      ],
-      "summary": "We’re making Codex more useful for your work by expanding plugins beyond individual tools. These plugins turn Codex into a specialist for a specific role with a single install, no coding required. Codex can access 62 popular apps and 110 skills for work across sales, data",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 56,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "high engagement (4.7K likes)"
-      ],
-      "metrics": {
-        "likes": 4654,
-        "retweets": 435,
-        "replies": 275,
-        "likes_h": "4.7K"
-      },
-      "engagement": 5799,
-      "hot": true
     }
   ]
 }
