@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-05T04:17:02.683Z",
+  "generated_at": "2026-06-05T08:49:54.659Z",
   "handles": [
-    "nvidia",
     "AnthropicAI",
     "OpenAI",
+    "nvidia",
     "NVIDIAAI",
     "gdb",
     "demishassabis",
@@ -50,6 +50,89 @@
         "likes_h": "30"
       },
       "engagement": 41,
+      "hot": false
+    },
+    {
+      "id": "x_2062630458433917126",
+      "title": "Listen to the OpenAI Podcast on— Spotify https://open.spotify.com/episode/3ca5s3o53D5xcEKmKgLLGj?si=4a9a555641fa4293 Apple…",
+      "link": "https://x.com/OpenAI/status/2062630458433917126",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-06-04T20:19:57.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Research"
+      ],
+      "summary": "Listen to the OpenAI Podcast on— Spotify https://open.spotify.com/episode/3ca5s3o53D5xcEKmKgLLGj?si=4a9a555641fa4293 Apple https://podcasts.apple.com/us/podcast/how-a-reasoning-model-cracked-an-80-year-old/id1820330260?i=1000771190131 YouTube https://youtu.be/wNWz5Hbh5VQ",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 55,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "reply / conversation",
+        "tech substance (model, reasoning)",
+        "links to a source"
+      ],
+      "metrics": {
+        "likes": 78,
+        "retweets": 5,
+        "replies": 8,
+        "likes_h": "78"
+      },
+      "engagement": 96,
+      "hot": false
+    },
+    {
+      "id": "x_2062630454537424930",
+      "title": "What happened when one of our models found a counterexample to an 80-year-old Erdős conjecture? Researchers @alexwei_, @HongxunWu, and @wjmzbmr1 shared the story on the OpenAI Podcast with…",
+      "link": "https://x.com/OpenAI/status/2062630454537424930",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-06-04T20:19:56.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Product"
+      ],
+      "summary": "What happened when one of our models found a counterexample to an 80-year-old Erdős conjecture? Researchers @alexwei_, @HongxunWu, and @wjmzbmr1 shared the story on the OpenAI Podcast with @AndrewMayne and explained how mathematicians and models can work together to make new",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 78,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (models)",
+        "high engagement (1K likes)"
+      ],
+      "metrics": {
+        "likes": 1029,
+        "retweets": 85,
+        "replies": 114,
+        "likes_h": "1K"
+      },
+      "engagement": 1313,
       "hot": false
     },
     {
@@ -136,6 +219,48 @@
       "hot": false
     },
     {
+      "id": "x_2062568870872003021",
+      "title": "AI research is a series of next-step decisions. We looked at sessions where a human researcher took a wrong turn, showed Claude the session up to that point, and asked it what to do next. Mythos…",
+      "link": "https://x.com/AnthropicAI/status/2062568870872003021",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Anthropic · @AnthropicAI",
+      "handle": "AnthropicAI",
+      "org": "Anthropic",
+      "published": "2026-06-04T16:15:14.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "Anthropic",
+        "Research"
+      ],
+      "summary": "AI research is a series of next-step decisions. We looked at sessions where a human researcher took a wrong turn, showed Claude the session up to that point, and asked it what to do next. Mythos Preview improved on humans 64% of the time—up from 22% in 2024.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 55,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "reply / conversation",
+        "tech substance (claude, research)",
+        "high engagement (1.2K likes)"
+      ],
+      "metrics": {
+        "likes": 1160,
+        "retweets": 49,
+        "replies": 30,
+        "likes_h": "1.2K"
+      },
+      "engagement": 1288,
+      "hot": false
+    },
+    {
       "id": "x_2062568869240476050",
       "title": "Each time we release a model, we run the same test: give it code that trains a small AI model, ask the new model to speed it up. It takes a skilled human 4-8 hours to reach 4x faster. In May 2024,…",
       "link": "https://x.com/AnthropicAI/status/2062568869240476050",
@@ -159,7 +284,7 @@
       "summary": "Each time we release a model, we run the same test: give it code that trains a small AI model, ask the new model to speed it up. It takes a skilled human 4-8 hours to reach 4x faster. In May 2024, Claude Opus 4 averaged a ~3x speedup. This April, Mythos Preview achieved ~52x.",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 66,
+      "worthiness_score": 74,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -168,15 +293,16 @@
         "casual tone (this)",
         "announcement language (release)",
         "tech substance (model, claude, opus)",
+        "high engagement (2.6K likes)",
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 34,
-        "retweets": 4,
-        "replies": 1,
-        "likes_h": "34"
+        "likes": 2641,
+        "retweets": 162,
+        "replies": 37,
+        "likes_h": "2.6K"
       },
-      "engagement": 43,
+      "engagement": 3002,
       "hot": false
     },
     {
@@ -203,22 +329,23 @@
       "summary": "Our internal data shows Claude is accelerating AI development—a possible path to recursive self-improvement, or AI autonomously building a more capable successor. It’s happening faster than we thought, and the implications deserve greater attention. https://www.anthropic.com/institute/recursive-self-improvement",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 83,
+      "worthiness_score": 84,
       "sentiment": "positive",
       "sentiment_score": 1,
       "reasons": [
         "report-worthy",
         "tech substance (claude)",
-        "links to a source"
+        "links to a source",
+        "high engagement (18.7K likes)"
       ],
       "metrics": {
-        "likes": 474,
-        "retweets": 65,
-        "replies": 55,
-        "likes_h": "474"
+        "likes": 18720,
+        "retweets": 2843,
+        "replies": 1138,
+        "likes_h": "18.7K"
       },
-      "engagement": 659,
-      "hot": false
+      "engagement": 25544,
+      "hot": true
     },
     {
       "id": "x_2062567561276100809",
@@ -244,7 +371,7 @@
       "summary": "The new memory system will keep track of important details automatically. If you prefer the legacy saved memories experience, you can switch back in settings. The new memory system is rolling out to Plus and Pro users in the US today, along with 2x more memory. To access it on",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 60,
+      "worthiness_score": 65,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -254,12 +381,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 103,
-        "retweets": 4,
-        "replies": 6,
-        "likes_h": "103"
+        "likes": 722,
+        "retweets": 31,
+        "replies": 38,
+        "likes_h": "722"
       },
-      "engagement": 117,
+      "engagement": 822,
       "hot": false
     },
     {
@@ -293,16 +420,16 @@
         "report-worthy",
         "announcement language (rolling out)",
         "links to a source",
-        "high engagement (844 likes)"
+        "high engagement (8.1K likes)"
       ],
       "metrics": {
-        "likes": 844,
-        "retweets": 94,
-        "replies": 81,
-        "likes_h": "844"
+        "likes": 8138,
+        "retweets": 832,
+        "replies": 540,
+        "likes_h": "8.1K"
       },
-      "engagement": 1113,
-      "hot": false
+      "engagement": 10342,
+      "hot": true
     },
     {
       "id": "x_2062557490210852947",
@@ -431,7 +558,7 @@
         "likes_h": "1.8K"
       },
       "engagement": 2395,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2062292268602773747",
@@ -504,15 +631,15 @@
         "report-worthy",
         "tech substance (model, gpt, research)",
         "business signal (enterprise)",
-        "high engagement (3.3K likes)"
+        "high engagement (3.7K likes)"
       ],
       "metrics": {
-        "likes": 3348,
-        "retweets": 343,
-        "replies": 223,
-        "likes_h": "3.3K"
+        "likes": 3675,
+        "retweets": 383,
+        "replies": 232,
+        "likes_h": "3.7K"
       },
-      "engagement": 4257,
+      "engagement": 4673,
       "hot": true
     },
     {
@@ -586,15 +713,15 @@
       "reasons": [
         "report-worthy",
         "links to a source",
-        "high engagement (1K likes)"
+        "high engagement (1.2K likes)"
       ],
       "metrics": {
-        "likes": 1048,
-        "retweets": 137,
-        "replies": 137,
-        "likes_h": "1K"
+        "likes": 1154,
+        "retweets": 154,
+        "replies": 138,
+        "likes_h": "1.2K"
       },
-      "engagement": 1459,
+      "engagement": 1600,
       "hot": false
     },
     {
@@ -639,7 +766,7 @@
         "likes_h": "2.8K"
       },
       "engagement": 3424,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2062232852561891718",
@@ -1121,15 +1248,15 @@
       "sentiment_score": 0,
       "reasons": [
         "report-worthy",
-        "high engagement (4.6K likes)"
+        "high engagement (4.7K likes)"
       ],
       "metrics": {
-        "likes": 4601,
-        "retweets": 442,
-        "replies": 274,
-        "likes_h": "4.6K"
+        "likes": 4654,
+        "retweets": 435,
+        "replies": 275,
+        "likes_h": "4.7K"
       },
-      "engagement": 5759,
+      "engagement": 5799,
       "hot": true
     },
     {
@@ -1172,7 +1299,7 @@
         "likes_h": "1.6K"
       },
       "engagement": 2278,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2061845949170045346",
@@ -1214,133 +1341,6 @@
         "likes_h": "18.9K"
       },
       "engagement": 23393,
-      "hot": true
-    },
-    {
-      "id": "x_2061796327986454883",
-      "title": "We’re expanding Project Glasswing. We’ve extended access to Claude Mythos Preview to approximately 150 additional organizations, based in more than fifteen countries. Read more about this expansion…",
-      "link": "https://x.com/AnthropicAI/status/2061796327986454883",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Anthropic · @AnthropicAI",
-      "handle": "AnthropicAI",
-      "org": "Anthropic",
-      "published": "2026-06-02T13:05:25.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "Anthropic",
-        "Product"
-      ],
-      "summary": "We’re expanding Project Glasswing. We’ve extended access to Claude Mythos Preview to approximately 150 additional organizations, based in more than fifteen countries. Read more about this expansion and our future plans for Project Glasswing: https://www.anthropic.com/news/expanding-project-glasswing",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 60,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "casual tone (this, based)",
-        "tech substance (claude)",
-        "links to a source",
-        "high engagement (3.9K likes)"
-      ],
-      "metrics": {
-        "likes": 3853,
-        "retweets": 421,
-        "replies": 337,
-        "likes_h": "3.9K"
-      },
-      "engagement": 5032,
-      "hot": true
-    },
-    {
-      "id": "x_2061606345007104093",
-      "title": "Regional AI leaders are advancing sovereign AI with NVIDIA Nemotron. They’re building new datasets, sovereign AI models and agentic applications tailored to local languages, cultures and economies to…",
-      "link": "https://x.com/nvidia/status/2061606345007104093",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-02T00:30:30.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product"
-      ],
-      "summary": "Regional AI leaders are advancing sovereign AI with NVIDIA Nemotron. They’re building new datasets, sovereign AI models and agentic applications tailored to local languages, cultures and economies to serve billions of people across the globe. Read more: https://nvda.ws/4vgAOav",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 88,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (models, nemotron)",
-        "links to a source"
-      ],
-      "metrics": {
-        "likes": 169,
-        "retweets": 29,
-        "replies": 26,
-        "likes_h": "169"
-      },
-      "engagement": 253,
-      "hot": false
-    },
-    {
-      "id": "x_2061564502160892138",
-      "title": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new way to build on Amazon Bedrock with OpenAI through the security, compliance, and governance workflows…",
-      "link": "https://x.com/OpenAI/status/2061564502160892138",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-06-01T21:44:13.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product launch",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Product launch"
-      ],
-      "summary": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new way to build on Amazon Bedrock with OpenAI through the security, compliance, and governance workflows they already use. This is also the beginning of a broader expansion of OpenAI",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 84,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "casual tone (this)",
-        "announcement language (generally available)",
-        "tech substance (models)",
-        "high engagement (5.4K likes)"
-      ],
-      "metrics": {
-        "likes": 5409,
-        "retweets": 548,
-        "replies": 326,
-        "likes_h": "5.4K"
-      },
-      "engagement": 6831,
       "hot": true
     }
   ]
