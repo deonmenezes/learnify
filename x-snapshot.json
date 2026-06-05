@@ -1,16 +1,98 @@
 {
-  "generated_at": "2026-06-05T08:49:54.659Z",
+  "generated_at": "2026-06-05T12:16:43.793Z",
   "handles": [
-    "AnthropicAI",
-    "OpenAI",
     "nvidia",
-    "NVIDIAAI",
-    "gdb",
+    "GoogleDeepMind",
     "demishassabis",
-    "GoogleDeepMind"
+    "OpenAI",
+    "AnthropicAI",
+    "NVIDIAAI",
+    "gdb"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2062691991494783218",
+      "title": "AI compute demand isn't slowing down, and neither is the ecosystem to support it. AI Clouds are built on NVIDIA’s full-stack, end-to-end AI factory platform. They’re expanding worldwide to bring…",
+      "link": "https://x.com/nvidia/status/2062691991494783218",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-05T00:24:28.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "AI compute demand isn't slowing down, and neither is the ecosystem to support it. AI Clouds are built on NVIDIA’s full-stack, end-to-end AI factory platform. They’re expanding worldwide to bring accelerated computing closer to developers, enterprises, startups and nations",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 75,
+      "sentiment": "negative",
+      "sentiment_score": -0.5,
+      "reasons": [
+        "report-worthy",
+        "tech substance (platform)"
+      ],
+      "metrics": {
+        "likes": 362,
+        "retweets": 55,
+        "replies": 47,
+        "likes_h": "362"
+      },
+      "engagement": 519,
+      "hot": false
+    },
+    {
+      "id": "x_2062677731763257587",
+      "title": "Physical AI needs to understand the world before it can act in it. Introducing Cosmos 3, the open world foundation model and the first omni-model for physical AI. It understands and generates across…",
+      "link": "https://x.com/nvidia/status/2062677731763257587",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-04T23:27:48.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product launch",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product launch"
+      ],
+      "summary": "Physical AI needs to understand the world before it can act in it. Introducing Cosmos 3, the open world foundation model and the first omni-model for physical AI. It understands and generates across text, image, video, sound and action - thanks to a new breakthrough",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 81,
+      "sentiment": "positive",
+      "sentiment_score": 1,
+      "reasons": [
+        "report-worthy",
+        "casual tone (thanks)",
+        "announcement language (introducing)",
+        "tech substance (model)"
+      ],
+      "metrics": {
+        "likes": 260,
+        "retweets": 43,
+        "replies": 35,
+        "likes_h": "260"
+      },
+      "engagement": 381,
+      "hot": false
+    },
     {
       "id": "x_2062647600424128773",
       "title": "When laws and oversight depend on transcripts, 70–80% isn’t enough. http://Rafiqspace.ai hit 97.7% Bahasa Indonesia accuracy (2.3% WER) with fine‑tuned Nemotron Parakeet ASR—outperforming global…",
@@ -35,7 +117,7 @@
       "summary": "When laws and oversight depend on transcripts, 70–80% isn’t enough. http://Rafiqspace.ai hit 97.7% Bahasa Indonesia accuracy (2.3% WER) with fine‑tuned Nemotron Parakeet ASR—outperforming global tools while cutting per‑hour costs by up to 90%. ⚖️",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 78,
+      "worthiness_score": 83,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -44,12 +126,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 30,
-        "retweets": 2,
-        "replies": 7,
-        "likes_h": "30"
+        "likes": 133,
+        "retweets": 16,
+        "replies": 16,
+        "likes_h": "133"
       },
-      "engagement": 41,
+      "engagement": 181,
       "hot": false
     },
     {
@@ -159,21 +241,22 @@
       "summary": "Agents are becoming a new layer of enterprise software. Jensen Huang explains why companies like @Cadence, @CrowdStrike, @Dassault3DS, @PalantirTech, @SAP, @ServiceNow, @Siemens, and @Synopsys are building agents on NVIDIA, and why the opportunity for software partners is only",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 89,
+      "worthiness_score": 91,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
         "report-worthy",
         "tech substance (agents)",
-        "business signal (enterprise)"
+        "business signal (enterprise)",
+        "high engagement (771 likes)"
       ],
       "metrics": {
-        "likes": 337,
-        "retweets": 68,
-        "replies": 39,
-        "likes_h": "337"
+        "likes": 771,
+        "retweets": 127,
+        "replies": 55,
+        "likes_h": "771"
       },
-      "engagement": 512,
+      "engagement": 1080,
       "hot": false
     },
     {
@@ -200,7 +283,7 @@
       "summary": "Is your infrastructure ready for the shift to agentic AI? Discover how the latest NVIDIA DGX Spark updates simplify local agent workflows and boost inference speeds by up to 2.6x using NVIDIA NemoClaw. Read the blog: https://nvda.ws/4uPi16d",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 96,
+      "worthiness_score": 97,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -210,12 +293,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 128,
-        "retweets": 19,
-        "replies": 22,
-        "likes_h": "128"
+        "likes": 242,
+        "retweets": 28,
+        "replies": 31,
+        "likes_h": "242"
       },
-      "engagement": 188,
+      "engagement": 329,
       "hot": false
     },
     {
@@ -303,7 +386,7 @@
         "likes_h": "2.6K"
       },
       "engagement": 3002,
-      "hot": false
+      "hot": true
     },
     {
       "id": "x_2062568862479208923",
@@ -465,12 +548,12 @@
         "tech substance (agent, training)"
       ],
       "metrics": {
-        "likes": 207,
-        "retweets": 29,
-        "replies": 29,
-        "likes_h": "207"
+        "likes": 283,
+        "retweets": 38,
+        "replies": 35,
+        "likes_h": "283"
       },
-      "engagement": 294,
+      "engagement": 394,
       "hot": false
     },
     {
@@ -558,7 +641,7 @@
         "likes_h": "1.8K"
       },
       "engagement": 2395,
-      "hot": false
+      "hot": true
     },
     {
       "id": "x_2062292268602773747",
@@ -756,17 +839,17 @@
         "announcement language (release)",
         "tech substance (model)",
         "business signal (million)",
-        "high engagement (2.8K likes)",
+        "high engagement (3K likes)",
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 2780,
-        "retweets": 255,
-        "replies": 134,
-        "likes_h": "2.8K"
+        "likes": 3031,
+        "retweets": 285,
+        "replies": 145,
+        "likes_h": "3K"
       },
-      "engagement": 3424,
-      "hot": false
+      "engagement": 3746,
+      "hot": true
     },
     {
       "id": "x_2062232852561891718",
@@ -1257,90 +1340,6 @@
         "likes_h": "4.7K"
       },
       "engagement": 5799,
-      "hot": true
-    },
-    {
-      "id": "x_2061857539977842793",
-      "title": "We believe AI can be a dedicated research partner to help discover the next breakthrough. Enter Co-Scientist: our latest Gemini-based multi-agent system that can generate, debate and evolve novel…",
-      "link": "https://x.com/GoogleDeepMind/status/2061857539977842793",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Google DeepMind · @GoogleDeepMind",
-      "handle": "GoogleDeepMind",
-      "org": "Google",
-      "published": "2026-06-02T17:08:39.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "Google",
-        "Research"
-      ],
-      "summary": "We believe AI can be a dedicated research partner to help discover the next breakthrough. Enter Co-Scientist: our latest Gemini-based multi-agent system that can generate, debate and evolve novel hypotheses for complex scientific problems 🧵",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 75,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "casual tone (based)",
-        "tech substance (gemini, agent, research)",
-        "high engagement (1.6K likes)"
-      ],
-      "metrics": {
-        "likes": 1569,
-        "retweets": 296,
-        "replies": 117,
-        "likes_h": "1.6K"
-      },
-      "engagement": 2278,
-      "hot": false
-    },
-    {
-      "id": "x_2061845949170045346",
-      "title": "Building apps has never been easier. With Sites, Codex can turn your work, ideas, and plans into an interactive website or app your team can explore, use, and share with a URL. Rolling out to…",
-      "link": "https://x.com/OpenAI/status/2061845949170045346",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-06-02T16:22:36.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Announcement",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Announcement"
-      ],
-      "summary": "Building apps has never been easier. With Sites, Codex can turn your work, ideas, and plans into an interactive website or app your team can explore, use, and share with a URL. Rolling out to Business and Enterprise plans, before expanding more broadly.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 100,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "announcement language (rolling out)",
-        "business signal (enterprise)",
-        "high engagement (18.9K likes)"
-      ],
-      "metrics": {
-        "likes": 18936,
-        "retweets": 1787,
-        "replies": 883,
-        "likes_h": "18.9K"
-      },
-      "engagement": 23393,
       "hot": true
     }
   ]
