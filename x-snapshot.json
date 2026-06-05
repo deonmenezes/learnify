@@ -1,15 +1,58 @@
 {
-  "generated_at": "2026-06-05T20:55:27.591Z",
+  "generated_at": "2026-06-05T22:24:50.451Z",
   "handles": [
     "OpenAI",
     "nvidia",
-    "AnthropicAI",
+    "GoogleDeepMind",
+    "demishassabis",
     "NVIDIAAI",
-    "gdb",
-    "demishassabis"
+    "AnthropicAI",
+    "gdb"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2062947470984855847",
+      "title": "Sovereign AI at population scale isn’t theory anymore, it’s shipping. Sarvam AI is building a full-stack, “Made in India” AI platform that: 🧠 Trains 100B+ parameter MoE models efficiently across…",
+      "link": "https://x.com/nvidia/status/2062947470984855847",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-05T17:19:39.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product launch",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product launch"
+      ],
+      "summary": "Sovereign AI at population scale isn’t theory anymore, it’s shipping. Sarvam AI is building a full-stack, “Made in India” AI platform that: 🧠 Trains 100B+ parameter MoE models efficiently across 4,096+ NVIDIA H100 GPUs ⚡ Delivers millisecond-level, multilingual voice",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 100,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "announcement language (shipping)",
+        "tech substance (models, gpus, platform)",
+        "concrete metrics"
+      ],
+      "metrics": {
+        "likes": 641,
+        "retweets": 95,
+        "replies": 41,
+        "likes_h": "641"
+      },
+      "engagement": 872,
+      "hot": false
+    },
     {
       "id": "x_2062927046448431587",
       "title": "An issue caused some user accounts to be incorrectly suspended. We’re restoring access and working through related subscription and credit issues. https://status.openai.com/incidents/ejj40mae",
@@ -34,21 +77,22 @@
       "summary": "An issue caused some user accounts to be incorrectly suspended. We’re restoring access and working through related subscription and credit issues. https://status.openai.com/incidents/ejj40mae",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 63,
+      "worthiness_score": 66,
       "sentiment": "negative",
       "sentiment_score": -1,
       "reasons": [
         "report-worthy",
-        "links to a source"
+        "links to a source",
+        "high engagement (2.1K likes)"
       ],
       "metrics": {
-        "likes": 191,
-        "retweets": 30,
-        "replies": 45,
-        "likes_h": "191"
+        "likes": 2088,
+        "retweets": 212,
+        "replies": 306,
+        "likes_h": "2.1K"
       },
-      "engagement": 296,
-      "hot": false
+      "engagement": 2818,
+      "hot": true
     },
     {
       "id": "x_2062691991494783218",
@@ -82,12 +126,12 @@
         "tech substance (platform)"
       ],
       "metrics": {
-        "likes": 454,
-        "retweets": 73,
-        "replies": 50,
-        "likes_h": "454"
+        "likes": 527,
+        "retweets": 79,
+        "replies": 54,
+        "likes_h": "527"
       },
-      "engagement": 650,
+      "engagement": 739,
       "hot": false
     },
     {
@@ -124,12 +168,12 @@
         "tech substance (model)"
       ],
       "metrics": {
-        "likes": 287,
-        "retweets": 44,
-        "replies": 36,
-        "likes_h": "287"
+        "likes": 306,
+        "retweets": 46,
+        "replies": 37,
+        "likes_h": "306"
       },
-      "engagement": 411,
+      "engagement": 435,
       "hot": false
     },
     {
@@ -165,12 +209,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 136,
+        "likes": 138,
         "retweets": 17,
-        "replies": 16,
-        "likes_h": "136"
+        "replies": 17,
+        "likes_h": "138"
       },
-      "engagement": 186,
+      "engagement": 189,
       "hot": false
     },
     {
@@ -207,12 +251,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 93,
+        "likes": 98,
         "retweets": 6,
-        "replies": 12,
-        "likes_h": "93"
+        "replies": 13,
+        "likes_h": "98"
       },
-      "engagement": 117,
+      "engagement": 123,
       "hot": false
     },
     {
@@ -245,15 +289,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (models)",
-        "high engagement (1.1K likes)"
+        "high engagement (1.2K likes)"
       ],
       "metrics": {
-        "likes": 1140,
-        "retweets": 100,
-        "replies": 130,
-        "likes_h": "1.1K"
+        "likes": 1203,
+        "retweets": 106,
+        "replies": 134,
+        "likes_h": "1.2K"
       },
-      "engagement": 1470,
+      "engagement": 1549,
       "hot": false
     },
     {
@@ -287,15 +331,15 @@
         "report-worthy",
         "tech substance (agents)",
         "business signal (enterprise)",
-        "high engagement (814 likes)"
+        "high engagement (846 likes)"
       ],
       "metrics": {
-        "likes": 814,
-        "retweets": 131,
-        "replies": 56,
-        "likes_h": "814"
+        "likes": 846,
+        "retweets": 137,
+        "replies": 58,
+        "likes_h": "846"
       },
-      "engagement": 1132,
+      "engagement": 1178,
       "hot": false
     },
     {
@@ -332,12 +376,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 251,
+        "likes": 263,
         "retweets": 28,
         "replies": 31,
-        "likes_h": "251"
+        "likes_h": "263"
       },
-      "engagement": 338,
+      "engagement": 350,
       "hot": false
     },
     {
@@ -503,12 +547,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 778,
+        "likes": 809,
         "retweets": 35,
-        "replies": 44,
-        "likes_h": "778"
+        "replies": 47,
+        "likes_h": "809"
       },
-      "engagement": 892,
+      "engagement": 926,
       "hot": false
     },
     {
@@ -542,15 +586,15 @@
         "report-worthy",
         "announcement language (rolling out)",
         "links to a source",
-        "high engagement (8.7K likes)"
+        "high engagement (9K likes)"
       ],
       "metrics": {
-        "likes": 8679,
-        "retweets": 902,
-        "replies": 605,
-        "likes_h": "8.7K"
+        "likes": 9015,
+        "retweets": 933,
+        "replies": 630,
+        "likes_h": "9K"
       },
-      "engagement": 11088,
+      "engagement": 11511,
       "hot": true
     },
     {
@@ -637,7 +681,7 @@
         "likes_h": "1.6K"
       },
       "engagement": 2081,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2062521325076299981",
@@ -670,16 +714,16 @@
         "report-worthy",
         "announcement language (today we, today we're, shipping)",
         "tech substance (model, models, nemotron)",
-        "high engagement (1.8K likes)",
+        "high engagement (3.2K likes)",
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 1812,
-        "retweets": 239,
-        "replies": 105,
-        "likes_h": "1.8K"
+        "likes": 3217,
+        "retweets": 426,
+        "replies": 168,
+        "likes_h": "3.2K"
       },
-      "engagement": 2395,
+      "engagement": 4237,
       "hot": true
     },
     {
@@ -756,12 +800,12 @@
         "high engagement (3.8K likes)"
       ],
       "metrics": {
-        "likes": 3754,
-        "retweets": 388,
-        "replies": 234,
+        "likes": 3785,
+        "retweets": 390,
+        "replies": 239,
         "likes_h": "3.8K"
       },
-      "engagement": 4764,
+      "engagement": 4804,
       "hot": true
     },
     {
@@ -844,7 +888,7 @@
         "likes_h": "1.2K"
       },
       "engagement": 1600,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2062241713398149524",
@@ -878,16 +922,16 @@
         "announcement language (release)",
         "tech substance (model)",
         "business signal (million)",
-        "high engagement (3K likes)",
+        "high engagement (3.1K likes)",
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 3031,
-        "retweets": 285,
-        "replies": 145,
-        "likes_h": "3K"
+        "likes": 3102,
+        "retweets": 295,
+        "replies": 151,
+        "likes_h": "3.1K"
       },
-      "engagement": 3746,
+      "engagement": 3843,
       "hot": true
     },
     {
@@ -1297,48 +1341,6 @@
         "likes_h": "366"
       },
       "engagement": 477,
-      "hot": false
-    },
-    {
-      "id": "x_2061893154899366260",
-      "title": "The AI era needs a new CPU. Meet NVIDIA Vera, 80% faster agentic task completion than x86. Built for AI factories. Built for what's next. The CPU for agents has arrived. 🔗 https://nvda.ws/4ugo9Uf",
-      "link": "https://x.com/nvidia/status/2061893154899366260",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-02T19:30:10.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product"
-      ],
-      "summary": "The AI era needs a new CPU. Meet NVIDIA Vera, 80% faster agentic task completion than x86. Built for AI factories. Built for what's next. The CPU for agents has arrived. 🔗 https://nvda.ws/4ugo9Uf",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 87,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "tech substance (agents)",
-        "links to a source",
-        "high engagement (1.1K likes)"
-      ],
-      "metrics": {
-        "likes": 1083,
-        "retweets": 133,
-        "replies": 67,
-        "likes_h": "1.1K"
-      },
-      "engagement": 1416,
       "hot": false
     }
   ]
