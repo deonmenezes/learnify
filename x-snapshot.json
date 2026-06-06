@@ -1,13 +1,12 @@
 {
-  "generated_at": "2026-06-05T22:24:50.451Z",
+  "generated_at": "2026-06-06T00:17:15.137Z",
   "handles": [
-    "OpenAI",
     "nvidia",
-    "GoogleDeepMind",
-    "demishassabis",
-    "NVIDIAAI",
+    "OpenAI",
     "AnthropicAI",
-    "gdb"
+    "NVIDIAAI",
+    "gdb",
+    "demishassabis"
   ],
   "count": 32,
   "articles": [
@@ -681,7 +680,7 @@
         "likes_h": "1.6K"
       },
       "engagement": 2081,
-      "hot": false
+      "hot": true
     },
     {
       "id": "x_2062521325076299981",
