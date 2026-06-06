@@ -1,12 +1,13 @@
 {
-  "generated_at": "2026-06-06T20:16:20.263Z",
+  "generated_at": "2026-06-06T22:10:45.023Z",
   "handles": [
-    "AnthropicAI",
     "nvidia",
+    "GoogleDeepMind",
+    "demishassabis",
+    "AnthropicAI",
     "OpenAI",
     "NVIDIAAI",
-    "gdb",
-    "demishassabis"
+    "gdb"
   ],
   "count": 32,
   "articles": [
@@ -83,16 +84,16 @@
         "report-worthy",
         "announcement language (shipping)",
         "tech substance (models, gpus, platform)",
-        "high engagement (967 likes)",
+        "high engagement (1K likes)",
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 967,
-        "retweets": 133,
-        "replies": 58,
-        "likes_h": "967"
+        "likes": 1020,
+        "retweets": 140,
+        "replies": 61,
+        "likes_h": "1K"
       },
-      "engagement": 1291,
+      "engagement": 1361,
       "hot": false
     },
     {
@@ -160,7 +161,7 @@
       "summary": "AI compute demand isn't slowing down, and neither is the ecosystem to support it. AI Clouds are built on NVIDIA’s full-stack, end-to-end AI factory platform. They’re expanding worldwide to bring accelerated computing closer to developers, enterprises, startups and nations",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 76,
+      "worthiness_score": 77,
       "sentiment": "negative",
       "sentiment_score": -0.5,
       "reasons": [
@@ -168,12 +169,12 @@
         "tech substance (platform)"
       ],
       "metrics": {
-        "likes": 561,
-        "retweets": 82,
-        "replies": 54,
-        "likes_h": "561"
+        "likes": 580,
+        "retweets": 85,
+        "replies": 55,
+        "likes_h": "580"
       },
-      "engagement": 779,
+      "engagement": 805,
       "hot": false
     },
     {
@@ -210,12 +211,12 @@
         "tech substance (model)"
       ],
       "metrics": {
-        "likes": 329,
-        "retweets": 50,
+        "likes": 347,
+        "retweets": 52,
         "replies": 40,
-        "likes_h": "329"
+        "likes_h": "347"
       },
-      "engagement": 469,
+      "engagement": 491,
       "hot": false
     },
     {
@@ -251,12 +252,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 145,
+        "likes": 151,
         "retweets": 17,
         "replies": 17,
-        "likes_h": "145"
+        "likes_h": "151"
       },
-      "engagement": 196,
+      "engagement": 202,
       "hot": false
     },
     {
@@ -373,15 +374,15 @@
         "report-worthy",
         "tech substance (agents)",
         "business signal (enterprise)",
-        "high engagement (875 likes)"
+        "high engagement (889 likes)"
       ],
       "metrics": {
-        "likes": 875,
-        "retweets": 140,
-        "replies": 60,
-        "likes_h": "875"
+        "likes": 889,
+        "retweets": 142,
+        "replies": 61,
+        "likes_h": "889"
       },
-      "engagement": 1215,
+      "engagement": 1234,
       "hot": false
     },
     {
@@ -418,12 +419,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 272,
+        "likes": 280,
         "retweets": 29,
         "replies": 31,
-        "likes_h": "272"
+        "likes_h": "280"
       },
-      "engagement": 361,
+      "engagement": 369,
       "hot": false
     },
     {
@@ -968,12 +969,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 3125,
-        "retweets": 300,
-        "replies": 152,
+        "likes": 3137,
+        "retweets": 303,
+        "replies": 155,
         "likes_h": "3.1K"
       },
-      "engagement": 3877,
+      "engagement": 3898,
       "hot": true
     },
     {
