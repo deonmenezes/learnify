@@ -1,15 +1,57 @@
 {
-  "generated_at": "2026-06-06T05:01:46.073Z",
+  "generated_at": "2026-06-06T07:57:11.937Z",
   "handles": [
-    "nvidia",
-    "OpenAI",
     "AnthropicAI",
+    "OpenAI",
+    "nvidia",
     "NVIDIAAI",
     "gdb",
     "demishassabis"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2062979607448682731",
+      "title": "New Anthropic Science Blog: Making Claude a chemist. To manipulate a molecule, chemists first need to understand its structure. Their main tool is NMR spectroscopy. We found Opus 4.7 matches—and on…",
+      "link": "https://x.com/AnthropicAI/status/2062979607448682731",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Anthropic · @AnthropicAI",
+      "handle": "AnthropicAI",
+      "org": "Anthropic",
+      "published": "2026-06-05T19:27:21.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "Anthropic",
+        "Research"
+      ],
+      "summary": "New Anthropic Science Blog: Making Claude a chemist. To manipulate a molecule, chemists first need to understand its structure. Their main tool is NMR spectroscopy. We found Opus 4.7 matches—and on some tasks beats—dedicated NMR software. Read more: https://www.anthropic.com/research/making-claude-a-chemist",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 94,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (claude, opus, research)",
+        "links to a source",
+        "high engagement (2.4K likes)"
+      ],
+      "metrics": {
+        "likes": 2406,
+        "retweets": 270,
+        "replies": 155,
+        "likes_h": "2.4K"
+      },
+      "engagement": 3101,
+      "hot": false
+    },
     {
       "id": "x_2062947470984855847",
       "title": "Sovereign AI at population scale isn’t theory anymore, it’s shipping. Sarvam AI is building a full-stack, “Made in India” AI platform that: 🧠 Trains 100B+ parameter MoE models efficiently across…",
@@ -82,15 +124,15 @@
       "reasons": [
         "report-worthy",
         "links to a source",
-        "high engagement (2.1K likes)"
+        "high engagement (2.7K likes)"
       ],
       "metrics": {
-        "likes": 2088,
-        "retweets": 212,
-        "replies": 306,
-        "likes_h": "2.1K"
+        "likes": 2688,
+        "retweets": 293,
+        "replies": 390,
+        "likes_h": "2.7K"
       },
-      "engagement": 2818,
+      "engagement": 3664,
       "hot": true
     },
     {
@@ -250,12 +292,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 98,
+        "likes": 101,
         "retweets": 6,
         "replies": 13,
-        "likes_h": "98"
+        "likes_h": "101"
       },
-      "engagement": 123,
+      "engagement": 126,
       "hot": false
     },
     {
@@ -291,12 +333,12 @@
         "high engagement (1.2K likes)"
       ],
       "metrics": {
-        "likes": 1203,
-        "retweets": 106,
-        "replies": 134,
+        "likes": 1233,
+        "retweets": 111,
+        "replies": 141,
         "likes_h": "1.2K"
       },
-      "engagement": 1549,
+      "engagement": 1596,
       "hot": false
     },
     {
@@ -414,15 +456,15 @@
         "report-worthy",
         "reply / conversation",
         "tech substance (claude, research)",
-        "high engagement (1.2K likes)"
+        "high engagement (1.4K likes)"
       ],
       "metrics": {
-        "likes": 1160,
-        "retweets": 49,
-        "replies": 30,
-        "likes_h": "1.2K"
+        "likes": 1429,
+        "retweets": 71,
+        "replies": 40,
+        "likes_h": "1.4K"
       },
-      "engagement": 1288,
+      "engagement": 1611,
       "hot": false
     },
     {
@@ -458,16 +500,16 @@
         "casual tone (this)",
         "announcement language (release)",
         "tech substance (model, claude, opus)",
-        "high engagement (2.6K likes)",
+        "high engagement (3.4K likes)",
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 2641,
-        "retweets": 162,
-        "replies": 37,
-        "likes_h": "2.6K"
+        "likes": 3408,
+        "retweets": 226,
+        "replies": 52,
+        "likes_h": "3.4K"
       },
-      "engagement": 3002,
+      "engagement": 3912,
       "hot": true
     },
     {
@@ -501,15 +543,15 @@
         "report-worthy",
         "tech substance (claude)",
         "links to a source",
-        "high engagement (18.7K likes)"
+        "high engagement (26.9K likes)"
       ],
       "metrics": {
-        "likes": 18720,
-        "retweets": 2843,
-        "replies": 1138,
-        "likes_h": "18.7K"
+        "likes": 26928,
+        "retweets": 4376,
+        "replies": 1604,
+        "likes_h": "26.9K"
       },
-      "engagement": 25544,
+      "engagement": 37284,
       "hot": true
     },
     {
@@ -546,12 +588,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 809,
+        "likes": 819,
         "retweets": 35,
-        "replies": 47,
-        "likes_h": "809"
+        "replies": 49,
+        "likes_h": "819"
       },
-      "engagement": 926,
+      "engagement": 938,
       "hot": false
     },
     {
@@ -585,15 +627,15 @@
         "report-worthy",
         "announcement language (rolling out)",
         "links to a source",
-        "high engagement (9K likes)"
+        "high engagement (9.3K likes)"
       ],
       "metrics": {
-        "likes": 9015,
-        "retweets": 933,
-        "replies": 630,
-        "likes_h": "9K"
+        "likes": 9267,
+        "retweets": 959,
+        "replies": 648,
+        "likes_h": "9.3K"
       },
-      "engagement": 11511,
+      "engagement": 11833,
       "hot": true
     },
     {
@@ -680,7 +722,7 @@
         "likes_h": "1.6K"
       },
       "engagement": 2081,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2062521325076299981",
@@ -799,12 +841,12 @@
         "high engagement (3.8K likes)"
       ],
       "metrics": {
-        "likes": 3785,
-        "retweets": 390,
-        "replies": 239,
+        "likes": 3788,
+        "retweets": 392,
+        "replies": 240,
         "likes_h": "3.8K"
       },
-      "engagement": 4804,
+      "engagement": 4812,
       "hot": true
     },
     {
@@ -881,12 +923,12 @@
         "high engagement (1.2K likes)"
       ],
       "metrics": {
-        "likes": 1154,
-        "retweets": 154,
-        "replies": 138,
+        "likes": 1178,
+        "retweets": 159,
+        "replies": 140,
         "likes_h": "1.2K"
       },
-      "engagement": 1600,
+      "engagement": 1636,
       "hot": false
     },
     {
@@ -1299,47 +1341,6 @@
         "likes_h": "990"
       },
       "engagement": 1208,
-      "hot": false
-    },
-    {
-      "id": "x_2061904438478970985",
-      "title": "NVIDIA DGX Station systems are beginning to arrive at the desks of developers and researchers. 📦 Enterprise teams can deploy data center-level performance locally with GB300-powered systems arriving…",
-      "link": "https://x.com/nvidia/status/2061904438478970985",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-02T20:15:01.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product"
-      ],
-      "summary": "NVIDIA DGX Station systems are beginning to arrive at the desks of developers and researchers. 📦 Enterprise teams can deploy data center-level performance locally with GB300-powered systems arriving from partners like @ASUS, @Dell, @GIGABYTEUSA, @HP, MSI and @Supermicro. 👉",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 89,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (data center)",
-        "business signal (enterprise)"
-      ],
-      "metrics": {
-        "likes": 366,
-        "retweets": 39,
-        "replies": 33,
-        "likes_h": "366"
-      },
-      "engagement": 477,
       "hot": false
     }
   ]
