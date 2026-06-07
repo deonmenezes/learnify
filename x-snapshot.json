@@ -1,15 +1,57 @@
 {
-  "generated_at": "2026-06-07T05:29:05.957Z",
+  "generated_at": "2026-06-07T09:24:44.299Z",
   "handles": [
-    "AnthropicAI",
     "nvidia",
-    "OpenAI",
-    "NVIDIAAI",
+    "GoogleDeepMind",
+    "demishassabis",
     "gdb",
-    "demishassabis"
+    "NVIDIAAI",
+    "AnthropicAI",
+    "OpenAI"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2063437915347136554",
+      "title": "Whenever I don’t use codex for a task, I ask myself why and usually realize that there’s some missing context, I needed to write a skill, or I just didn’t think to use it. Rarely is it because the…",
+      "link": "https://x.com/gdb/status/2063437915347136554",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Greg Brockman · @gdb",
+      "handle": "gdb",
+      "org": "OpenAI",
+      "published": "2026-06-07T01:48:30.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Product"
+      ],
+      "summary": "Whenever I don’t use codex for a task, I ask myself why and usually realize that there’s some missing context, I needed to write a skill, or I just didn’t think to use it. Rarely is it because the task is outside of the capabilities of the model. Overhang right now feels large.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 70,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (model)",
+        "high engagement (2K likes)"
+      ],
+      "metrics": {
+        "likes": 2025,
+        "retweets": 82,
+        "replies": 193,
+        "likes_h": "2K"
+      },
+      "engagement": 2382,
+      "hot": false
+    },
     {
       "id": "x_2062979607448682731",
       "title": "New Anthropic Science Blog: Making Claude a chemist. To manipulate a molecule, chemists first need to understand its structure. Their main tool is NMR spectroscopy. We found Opus 4.7 matches—and on…",
@@ -87,12 +129,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 1020,
-        "retweets": 140,
-        "replies": 61,
+        "likes": 1039,
+        "retweets": 142,
+        "replies": 64,
         "likes_h": "1K"
       },
-      "engagement": 1361,
+      "engagement": 1387,
       "hot": false
     },
     {
@@ -168,12 +210,12 @@
         "tech substance (platform)"
       ],
       "metrics": {
-        "likes": 580,
-        "retweets": 85,
+        "likes": 588,
+        "retweets": 86,
         "replies": 55,
-        "likes_h": "580"
+        "likes_h": "588"
       },
-      "engagement": 805,
+      "engagement": 815,
       "hot": false
     },
     {
@@ -210,12 +252,12 @@
         "tech substance (model)"
       ],
       "metrics": {
-        "likes": 347,
+        "likes": 348,
         "retweets": 52,
         "replies": 40,
-        "likes_h": "347"
+        "likes_h": "348"
       },
-      "engagement": 491,
+      "engagement": 492,
       "hot": false
     },
     {
@@ -251,12 +293,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 151,
+        "likes": 153,
         "retweets": 17,
-        "replies": 17,
-        "likes_h": "151"
+        "replies": 18,
+        "likes_h": "153"
       },
-      "engagement": 202,
+      "engagement": 205,
       "hot": false
     },
     {
@@ -756,16 +798,16 @@
         "report-worthy",
         "announcement language (today we, today we're, shipping)",
         "tech substance (model, models, nemotron)",
-        "high engagement (3.2K likes)",
+        "high engagement (3.4K likes)",
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 3217,
-        "retweets": 426,
-        "replies": 168,
-        "likes_h": "3.2K"
+        "likes": 3377,
+        "retweets": 448,
+        "replies": 178,
+        "likes_h": "3.4K"
       },
-      "engagement": 4237,
+      "engagement": 4451,
       "hot": true
     },
     {
@@ -968,12 +1010,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 3137,
-        "retweets": 303,
-        "replies": 155,
+        "likes": 3147,
+        "retweets": 306,
+        "replies": 156,
         "likes_h": "3.1K"
       },
-      "engagement": 3898,
+      "engagement": 3915,
       "hot": true
     },
     {
@@ -1301,47 +1343,6 @@
         "likes_h": "383"
       },
       "engagement": 505,
-      "hot": false
-    },
-    {
-      "id": "x_2061907873672941929",
-      "title": "What does it take to build an AI factory ready for the agentic era? 80+ partners joined Jensen Huang at #NVIDIAGTC Taipei to show how NVIDIA MGX is making it possible. With NVIDIA Vera Rubin, 800…",
-      "link": "https://x.com/nvidia/status/2061907873672941929",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-02T20:28:40.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Commentary",
-        "NVIDIAGTC"
-      ],
-      "summary": "What does it take to build an AI factory ready for the agentic era? 80+ partners joined Jensen Huang at #NVIDIAGTC Taipei to show how NVIDIA MGX is making it possible. With NVIDIA Vera Rubin, 800 VDC, and partners spanning systems, power, and cooling, NVIDIA MGX is turning",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 60,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "high engagement (990 likes)"
-      ],
-      "metrics": {
-        "likes": 990,
-        "retweets": 89,
-        "replies": 40,
-        "likes_h": "990"
-      },
-      "engagement": 1208,
       "hot": false
     }
   ]
