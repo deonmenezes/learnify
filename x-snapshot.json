@@ -1,15 +1,96 @@
 {
-  "generated_at": "2026-06-08T16:09:06.346Z",
+  "generated_at": "2026-06-08T19:31:03.030Z",
   "handles": [
+    "nvidia",
+    "GoogleDeepMind",
+    "gdb",
     "AnthropicAI",
     "OpenAI",
-    "gdb",
-    "nvidia",
     "NVIDIAAI",
     "demishassabis"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2064056027947934209",
+      "title": "Transaction foundation models transform raw data into intelligence, trained on billions of financial events — payments, transfers and behavioral signals. Financial institutions, like @Revolut and…",
+      "link": "https://x.com/nvidia/status/2064056027947934209",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-08T18:44:40.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "Transaction foundation models transform raw data into intelligence, trained on billions of financial events — payments, transfers and behavioral signals. Financial institutions, like @Revolut and @Mastercard, are already using NVIDIA accelerated computing to train foundation",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 70,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (models)"
+      ],
+      "metrics": {
+        "likes": 38,
+        "retweets": 6,
+        "replies": 13,
+        "likes_h": "38"
+      },
+      "engagement": 63,
+      "hot": false
+    },
+    {
+      "id": "x_2063874342203650113",
+      "title": "The next generation of AI builders brought the energy. 🦞 Jensen stopped by @SeoulNatlUni for a Build-a-Claw pop-up, packed with students, developers, and AI researchers building intelligent agents…",
+      "link": "https://x.com/nvidia/status/2063874342203650113",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-08T06:42:42.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "The next generation of AI builders brought the energy. 🦞 Jensen stopped by @SeoulNatlUni for a Build-a-Claw pop-up, packed with students, developers, and AI researchers building intelligent agents from the ground up.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 75,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (agents)"
+      ],
+      "metrics": {
+        "likes": 323,
+        "retweets": 37,
+        "replies": 41,
+        "likes_h": "323"
+      },
+      "engagement": 438,
+      "hot": false
+    },
     {
       "id": "x_2063437915347136554",
       "title": "Whenever I don’t use codex for a task, I ask myself why and usually realize that there’s some missing context, I needed to write a skill, or I just didn’t think to use it. Rarely is it because the…",
@@ -128,12 +209,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 1051,
+        "likes": 1057,
         "retweets": 143,
-        "replies": 64,
+        "replies": 65,
         "likes_h": "1.1K"
       },
-      "engagement": 1401,
+      "engagement": 1408,
       "hot": false
     },
     {
@@ -1015,7 +1096,7 @@
         "likes_h": "3.1K"
       },
       "engagement": 3927,
-      "hot": false
+      "hot": true
     },
     {
       "id": "x_2062232852561891718",
@@ -1263,85 +1344,6 @@
         "likes_h": "379"
       },
       "engagement": 529,
-      "hot": false
-    },
-    {
-      "id": "x_2061954287324766570",
-      "title": "The energy at GTC Taipei is unmatched. 💚 From packed sessions and live demos to conversations shaping what’s next in AI, here’s a look at the action across a show floor where innovation comes to…",
-      "link": "https://x.com/nvidia/status/2061954287324766570",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-02T23:33:06.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Commentary"
-      ],
-      "summary": "The energy at GTC Taipei is unmatched. 💚 From packed sessions and live demos to conversations shaping what’s next in AI, here’s a look at the action across a show floor where innovation comes to life.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 55,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy"
-      ],
-      "metrics": {
-        "likes": 125,
-        "retweets": 10,
-        "replies": 16,
-        "likes_h": "125"
-      },
-      "engagement": 161,
-      "hot": false
-    },
-    {
-      "id": "x_2061916898925699414",
-      "title": "Taiwan isn’t just building AI infrastructure, it’s powering the world’s AI factory buildout. 👏 From fabs to factory floors, leaders like TSMC, Foxconn, QCT, Pegatron, and Wistron are using…",
-      "link": "https://x.com/nvidia/status/2061916898925699414",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-02T21:04:31.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product"
-      ],
-      "summary": "Taiwan isn’t just building AI infrastructure, it’s powering the world’s AI factory buildout. 👏 From fabs to factory floors, leaders like TSMC, Foxconn, QCT, Pegatron, and Wistron are using accelerated computing, digital twins, and AI agents to transform how AI systems are",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 75,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (agents)"
-      ],
-      "metrics": {
-        "likes": 383,
-        "retweets": 46,
-        "replies": 30,
-        "likes_h": "383"
-      },
-      "engagement": 505,
       "hot": false
     }
   ]
