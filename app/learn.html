@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>TechScroll — Learn Through Tech</title>
+<meta name="theme-color" content="#2563eb" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="/app/app.css" />
+<style>
+  .ln-head h1{font-size:32px;font-weight:800;letter-spacing:-1px;margin:24px 0 6px}
+  .ln-head h1 .b{color:var(--blue)}
+  .ln-head p{color:var(--ink-3);font-size:15px;margin:0 0 8px;max-width:34ch}
+  .diff a{display:flex;align-items:center;gap:10px;padding:10px 12px;border-radius:11px;font-weight:600;font-size:14px;cursor:pointer}
+  .diff a:hover{background:var(--line-2)} .diff a.active{background:var(--blue-50)}
+  .diff .d{width:9px;height:9px;border-radius:50%}
+  .featured{background:#0b1220;color:#fff;border-radius:16px;overflow:hidden;display:grid;grid-template-columns:1.1fr 1fr}
+  .featured .v{position:relative;aspect-ratio:16/10;background:linear-gradient(135deg,#0b1220,#1e3a8a)}
+  .featured .v img{width:100%;height:100%;object-fit:cover;opacity:.85}
+  .featured .v .play{position:absolute;inset:0;display:grid;place-items:center}
+  .featured .v .play span{width:54px;height:54px;border-radius:50%;background:rgba(255,255,255,.16);border:2px solid #fff;display:grid;place-items:center;backdrop-filter:blur(4px)}
+  .featured .c{padding:22px;display:flex;flex-direction:column;gap:9px;justify-content:center}
+  .featured .c h3{font-size:19px;margin:0;font-weight:800}
+  .featured .c p{color:#cbd5e1;font-size:14px;margin:0}
+  .reel{position:relative;border-radius:13px;overflow:hidden;aspect-ratio:9/13;background:#0b1220}
+  .reel img{width:100%;height:100%;object-fit:cover;opacity:.8}
+  .reel .cat{position:absolute;top:8px;left:8px}
+  .reel .t{position:absolute;left:0;right:0;bottom:0;padding:10px;background:linear-gradient(transparent,#000);color:#fff;font-size:12px;font-weight:700;line-height:1.3}
+  .reel .dur{position:absolute;bottom:8px;right:8px;font-size:11px;font-weight:700;color:#fff;background:rgba(0,0,0,.5);border-radius:6px;padding:1px 6px}
+  .cb{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+  .cb .step{border:1px solid var(--line);border-radius:13px;padding:16px;background:var(--surface)}
+  .cb .step .n{width:26px;height:26px;border-radius:50%;background:var(--blue-50);color:var(--blue);display:grid;place-items:center;font-weight:800;font-size:13px;margin-bottom:9px}
+  .cb .step h4{margin:0 0 5px;font-size:14.5px}.cb .step p{margin:0;font-size:13px;color:var(--ink-3);line-height:1.5}
+  .streak7{display:flex;gap:7px;justify-content:space-between;margin:6px 0 4px}
+  .streak7 .d{flex:1;text-align:center}.streak7 .dot{width:28px;height:28px;border-radius:50%;display:grid;place-items:center;margin:0 auto 4px;font-size:13px;background:var(--line-2);color:var(--ink-4)}
+  .streak7 .dot.on{background:var(--green-bg);color:var(--green)}.streak7 .dot.today{background:var(--flame);color:#fff}
+  .streak7 span{font-size:11px;color:var(--ink-4);font-weight:600}
+  .ach{display:flex;align-items:center;gap:10px;padding:9px 0;border-bottom:1px solid var(--line-2)}.ach:last-child{border:none}
+  .ach .h{width:30px;height:30px;display:grid;place-items:center;color:#fff;font-size:14px;clip-path:polygon(50% 0,93% 25%,93% 75%,50% 100%,7% 75%,7% 25%)}
+  @media(max-width:760px){.featured{grid-template-columns:1fr}.cb{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<header id="nav" class="nav"></header>
+<main class="layout-3">
+  <div class="col-left" style="display:flex;flex-direction:column;gap:18px">
+    <div class="ln-head"><h1>Learn <span class="b">Through Tech</span></h1><p>Bite-sized lessons from the latest tech stories. Watch, learn, and level up.</p></div>
+    <div class="card pad">
+      <h2 style="font-size:13px;text-transform:uppercase;letter-spacing:.5px;color:var(--ink-3);margin:0 0 8px">Difficulty</h2>
+      <div class="diff">
+        <a class="active"><span class="d" style="background:var(--green)"></span> <div><b>Beginner</b><br><span class="muted" style="font-size:12px">New to the topic</span></div></a>
+        <a><span class="d" style="background:var(--amber)"></span> <div><b>Builder</b><br><span class="muted" style="font-size:12px">Ready to build</span></div></a>
+        <a><span class="d" style="background:var(--purple)"></span> <div><b>Expert</b><br><span class="muted" style="font-size:12px">Deep & advanced</span></div></a>
+      </div>
+    </div>
+    <div class="card pad">
+      <h2 style="font-size:13px;text-transform:uppercase;letter-spacing:.5px;color:var(--ink-3);margin:0 0 6px">Topics</h2>
+      <div class="sidelist" id="topics"></div>
+    </div>
+    <div class="card pad">
+      <h2 style="font-size:14px;margin:0 0 10px">Your Level</h2>
+      <div style="display:flex;align-items:center;gap:11px"><span class="lvl-badge" id="lvlBadge">1</span>
+        <div style="flex:1"><b id="lvlName" style="font-size:14px">Tech Explorer</b><div class="xpbar" style="margin-top:7px"><i id="lvlFill" style="width:0%"></i></div>
+        <div class="muted" style="font-size:12px;margin-top:6px" id="lvlXp"></div></div></div>
+    </div>
+  </div>
+
+  <div class="col-main" style="display:flex;flex-direction:column;gap:26px">
+    <div class="featured" id="featured"></div>
+    <section>
+      <div class="section-head"><h2>🎬 Tech Reels <span class="muted" style="font-size:13px;font-weight:500">quick lessons in 60s or less</span></h2><a class="see" href="/app/">See all ›</a></div>
+      <div class="grid4" id="reels"></div>
+    </section>
+    <section>
+      <div class="section-head"><h2>🧩 Concept Breakdown <span class="muted" style="font-size:13px;font-weight:500">the core idea in 3 simple parts</span></h2></div>
+      <div class="cb" id="breakdown"></div>
+    </section>
+    <div class="quizbox card pad" style="margin:0">
+      <h3 style="margin:0 0 4px;font-size:16px;font-weight:800;display:flex;align-items:center;gap:8px">⚡ Quick Quiz <span class="muted" style="font-size:13px;font-weight:500">test what you just learned</span> <span class="xp" style="margin-left:auto">+10 XP</span></h3>
+      <p style="font-weight:600;margin:10px 0 12px" id="quizQ"></p>
+      <div id="quizOpts" style="display:grid;grid-template-columns:repeat(2,1fr);gap:8px"></div>
+    </div>
+  </div>
+
+  <aside class="col-side">
+    <div class="card pad">
+      <div class="section-head"><h2 style="font-size:15px">Daily Goal</h2><a class="see" href="/app/saved.html">View all</a></div>
+      <div style="display:grid;place-items:center"><div class="ring" id="ring" style="width:120px;height:120px"><div class="v"><b id="ringV" style="font-size:24px">0%</b><span>keep it up</span></div></div></div>
+      <div style="text-align:center;margin-top:10px;font-size:13px"><b id="goalReads">0</b> <span class="muted">/ 5 today</span></div>
+    </div>
+    <div class="card pad">
+      <div class="section-head"><h2 style="font-size:15px">🔥 Learning Streak</h2></div>
+      <div style="font-size:22px;font-weight:800;text-align:center;margin-bottom:8px"><span id="streakN">0</span> <span style="font-size:14px;color:var(--ink-3)">Day Streak</span></div>
+      <div class="streak7" id="streak7"></div>
+    </div>
+    <div class="card pad">
+      <div class="section-head"><h2 style="font-size:15px">🏅 Achievements</h2></div>
+      <div id="achievements"></div>
+    </div>
+  </aside>
+</main>
+
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="/app/app.js"></script>
+<script>
+(async () => {
+  const T = window.TS, esc = T.esc;
+  const u = await T.requireAuth(); if (!u) return;
+  const profile = await T.loadProfile(u);
+  T.renderNav("Learn", profile);
+
+  const lv=T.levelForXP(profile.xp||0), into=(profile.xp||0)-T.xpFloor(lv), span=T.xpFloor(lv+1)-T.xpFloor(lv);
+  T.$("#lvlBadge").textContent=lv; T.$("#lvlName").textContent=T.levelTitle(lv); T.$("#lvlFill").style.width=Math.round(into/Math.max(1,span)*100)+"%";
+  T.$("#lvlXp").textContent=(profile.xp||0)+" / "+T.xpFloor(lv+1)+" XP to L"+(lv+1);
+
+  // today's reads → goal ring
+  const todayStart=new Date(); todayStart.setHours(0,0,0,0);
+  const { data: tr } = await T.sb.from("ts_read_events").select("created_at,opened").eq("user_id",u.id).gte("created_at",todayStart.toISOString());
+  const todayReads=(tr||[]).filter(r=>r.opened).length; const gp=Math.min(100,Math.round(todayReads/5*100));
+  T.$("#ring").style.setProperty("--p",gp); T.$("#ringV").textContent=gp+"%"; T.$("#goalReads").textContent=todayReads;
+
+  // streak strip (last 7 days)
+  T.$("#streakN").textContent=profile.streak||0;
+  const since=new Date(); since.setDate(since.getDate()-6); since.setHours(0,0,0,0);
+  const { data: wk } = await T.sb.from("ts_read_events").select("created_at,opened").eq("user_id",u.id).gte("created_at",since.toISOString());
+  const dayHit={}; (wk||[]).forEach(r=>{if(r.opened)dayHit[r.created_at.slice(0,10)]=true;});
+  const dl=["Mon","Tue","Wed","Thu","Fri","Sat","Sun"]; let html="";
+  for(let i=6;i>=0;i--){const d=new Date();d.setDate(d.getDate()-i);const k=d.toISOString().slice(0,10);const isToday=i===0;const hit=dayHit[k];
+    html+=`<div class="d"><div class="dot ${isToday?'today':(hit?'on':'')}">${hit?'✓':(isToday?'•':'')}</div><span>${dl[(d.getDay()+6)%7]}</span></div>`;}
+  T.$("#streak7").innerHTML=html;
+
+  // topics + articles
+  const arts=await T.articles(); const withImg=arts.filter(a=>a.media_url&&a.media_kind!=="poster");
+  const topicCounts={}; arts.forEach(a=>{const k=T.catMeta(T.catFor(a)).short;topicCounts[k]=(topicCounts[k]||0)+1;});
+  T.$("#topics").innerHTML=`<a class="active">All Topics <span class="n">${arts.length}</span></a>`+Object.entries(topicCounts).sort((a,b)=>b[1]-a[1]).slice(0,6).map(([k,n])=>`<a>${k} <span class="n">${n}</span></a>`).join("");
+
+  // featured
+  const f=withImg[0];
+  if(f){const c=T.catMeta(T.catFor(f));
+    T.$("#featured").innerHTML=`<div class="v"><img src="${esc(f.media_url)}" onerror="this.remove()"><div class="play"><span><svg width="22" height="22" viewBox="0 0 24 24" fill="#fff"><path d="M8 5v14l11-7z"/></svg></span></div><span class="cat" style="position:absolute;top:12px;left:12px;background:${c.color}">${c.short}</span></div>
+    <div class="c"><span class="muted" style="color:#93c5fd;font-size:12px;font-weight:700">✨ FEATURED REEL</span><h3>${esc(f.title)}</h3><p>${esc((f.ai_summary||f.summary||'').slice(0,120))}</p>
+    <a class="btn primary" href="/app/article.html?id=${encodeURIComponent(T.articleId(f))}" style="width:fit-content;margin-top:6px">Watch & Learn ▸</a></div>`;}
+
+  // reels
+  T.$("#reels").innerHTML=withImg.slice(1,5).map(a=>{const c=T.catMeta(T.catFor(a));
+    return `<a class="reel" href="/app/article.html?id=${encodeURIComponent(T.articleId(a))}"><img src="${esc(a.media_url)}" onerror="this.remove()"><span class="cat" style="background:${c.color}">${c.short}</span><span class="dur">+${10}XP</span><span class="t">${esc(a.title.slice(0,56))}</span></a>`;}).join("");
+
+  // concept breakdown from the featured article
+  if(f){const s=f.ai_summary||f.summary||f.title;
+    T.$("#breakdown").innerHTML=[["What happened?",s.slice(0,110)],["Why it matters?","It shifts the "+T.catMeta(T.catFor(f)).short+" landscape — new tools and decisions follow."],["Example","Skim the source, save the idea, and quiz yourself to lock it in."]].map((b,i)=>`<div class="step"><div class="n">${i+1}</div><h4>${b[0]}</h4><p>${esc(b[1])}</p></div>`).join("");}
+
+  // quick quiz
+  T.$("#quizQ").textContent="What's the smartest way to actually retain tech news?";
+  const opts=[["A","Read once and forget",false],["B","Save, summarize, and self-quiz",true],["C","Only read headlines",false],["D","Avoid taking notes",false]];
+  T.$("#quizOpts").innerHTML=opts.map(([k,t,ok])=>`<div class="opt" data-ok="${ok}"><span class="k">${k}</span> ${t}</div>`).join("");
+  T.$("#quizOpts").querySelectorAll(".opt").forEach(o=>o.onclick=async()=>{
+    if(T.$("#quizOpts").dataset.done)return; T.$("#quizOpts").dataset.done="1";
+    const ok=o.dataset.ok==="true"; o.classList.add(ok?"correct":"wrong");
+    if(!ok)T.$("#quizOpts").querySelector('[data-ok="true"]').classList.add("correct");
+    if(ok){await T.sb.from("ts_profiles").update({xp:(profile.xp||0)+10,level:T.levelForXP((profile.xp||0)+10)}).eq("user_id",u.id);T.toast("Correct! +10 XP 🎉");}
+    await T.sb.from("ts_quiz_attempts").insert({user_id:u.id,question:"retain",topic:"Learning & Career",correct:ok});
+  });
+
+  // achievements
+  const A=[["#2563eb","🎬","First Reel","Complete your first reel","+50 XP",(profile.total_read||0)>=1],
+    ["#f59e0b","🔥","Week Warrior","7-day learning streak","+100 XP",(profile.streak||0)>=7],
+    ["#16a34a","🧠","Concept Master","Learn 10 concepts","+150 XP",(profile.total_read||0)>=10]];
+  T.$("#achievements").innerHTML=A.map(([col,e,n,d,xp,earned])=>`<div class="ach" style="${earned?'':'opacity:.55'}"><span class="h" style="background:${earned?col:'#cbd5e1'}">${e}</span><div style="flex:1"><b style="font-size:13.5px">${n}</b><br><span class="muted" style="font-size:12px">${d}</span></div><span class="xp">${xp}</span></div>`).join("");
+})();
+</script>
+</body>
+</html>
