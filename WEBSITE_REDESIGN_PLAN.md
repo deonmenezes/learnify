@@ -23,7 +23,7 @@ UI **every hour until 08:00 local, consulting the Codex CLI** each round.
 - [x] **0. Homepage redesign** — hand-drawn scrapbook `index.html` + Codex hero/mascot/empty art. (89911d1)
 
 ## Backlog (first unchecked = next)
-- [ ] **1. Cleaner card images** — when an article only has the `/api/og` poster (headline baked in),
+- [x] **1. Cleaner card images** — when an article only has the `/api/og` poster (headline baked in),
   the headline shows twice (poster + card body). Either hide the poster image and show the sketch
   tile, or restyle `/api/og` to a cream hand-drawn poster. Pick the cleaner look.
 - [ ] **2. Redesign sub-pages** — `ideas.html`, `influencers.html`, `privacy.html`, `support.html`
@@ -43,3 +43,4 @@ UI **every hour until 08:00 local, consulting the Codex CLI** each round.
 - 2026-06-09 01:16 — Homepage redesigned + deployed. Codex art: hero.jpg (SF news-desk doodle),
   mascot.png (scroll-with-lightning logo), empty.png (magnifying-glass character). Live + verified.
 </content>
+- 2026-06-09 01:24 — Item 1: hide the /api/og text-poster images (headline no longer doubled); show clean hand-drawn sketch tiles with varied pastel washes instead. Real CC photos still show.
