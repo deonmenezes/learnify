@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>TechScroll — Article</title>
+<meta name="theme-color" content="#2563eb" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="/app/app.css" />
+<style>
+  .a-wrap{max-width:1180px;margin:0 auto;padding:22px 24px 70px;display:grid;grid-template-columns:1fr 330px;gap:30px;align-items:start}
+  @media(max-width:960px){.a-wrap{grid-template-columns:1fr}}
+  .crumb{font-size:13px;color:var(--ink-3);font-weight:600;margin-bottom:14px;display:flex;gap:8px;align-items:center}
+  .crumb a{color:var(--blue)}
+  .a-title{font-size:38px;font-weight:800;letter-spacing:-1px;line-height:1.08;margin:8px 0 12px}
+  .a-sub{font-size:17px;color:var(--ink-3);line-height:1.5;margin-bottom:18px}
+  .a-meta{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:20px}
+  .a-src{display:flex;align-items:center;gap:8px;font-weight:700;font-size:14px}
+  .a-src .av{width:30px;height:30px;border-radius:50%;background:var(--blue-100);display:grid;place-items:center;font-weight:800;color:#1d4ed8;font-size:13px}
+  .a-meta .sep{color:var(--ink-4)}
+  .a-actions{margin-left:auto;display:flex;gap:9px}
+  .a-hero{width:100%;aspect-ratio:16/8;object-fit:cover;border-radius:16px;background:linear-gradient(135deg,#0b1220,#172554);margin-bottom:22px}
+  .a30{background:var(--blue-50);border:1px solid var(--blue-100);border-radius:16px;padding:18px 20px;margin-bottom:26px;display:flex;gap:14px}
+  .a30 .ic{width:40px;height:40px;border-radius:11px;background:#fff;display:grid;place-items:center;flex:0 0 auto;color:var(--blue)}
+  .a30 b{color:var(--blue);font-size:15px}
+  .a30 p{margin:4px 0 0;font-size:15px;color:var(--ink-2);line-height:1.55}
+  .sect{display:flex;gap:14px;margin-bottom:22px}
+  .sect .ic{width:38px;height:38px;border-radius:11px;display:grid;place-items:center;flex:0 0 auto;color:#fff}
+  .sect h3{margin:0 0 5px;font-size:17px;font-weight:800}
+  .sect p{margin:0;font-size:15px;color:var(--ink-2);line-height:1.6}
+  .quizbox{background:var(--surface);border:1px solid var(--line);border-radius:16px;padding:20px;margin-top:26px}
+  .quizbox h3{margin:0 0 12px;font-size:16px;font-weight:800;display:flex;align-items:center;gap:8px}
+  .opt{display:flex;align-items:center;gap:10px;padding:11px 13px;border:1.5px solid var(--line);border-radius:11px;margin-bottom:8px;cursor:pointer;font-size:14.5px;font-weight:500;transition:.12s}
+  .opt:hover{border-color:#cdd7e5}
+  .opt.correct{border-color:var(--green);background:var(--green-bg)}
+  .opt.wrong{border-color:var(--red);background:var(--red-bg)}
+  .opt .k{width:24px;height:24px;border-radius:7px;background:var(--line-2);display:grid;place-items:center;font-weight:800;font-size:12px;flex:0 0 auto}
+  .read-full{display:inline-flex;align-items:center;gap:8px;margin-top:8px;color:var(--blue);font-weight:700;font-size:15px}
+  .takeaway{display:flex;gap:9px;margin-bottom:11px;font-size:14px;color:var(--ink-2);line-height:1.45}
+  .takeaway svg{color:var(--green);flex:0 0 auto;margin-top:2px}
+  .rel{display:flex;gap:11px;padding:9px 0;border-bottom:1px solid var(--line-2)}
+  .rel:last-child{border:none}
+  .rel img{width:62px;height:46px;border-radius:9px;object-fit:cover;flex:0 0 auto;background:#0b1220}
+  .rel b{font-size:13.5px;font-weight:700;line-height:1.3;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+  .rel span{font-size:11.5px;color:var(--ink-4);font-weight:600}
+</style>
+</head>
+<body>
+<header id="nav" class="nav"></header>
+<div class="a-wrap">
+  <article id="content"><div class="sk" style="height:60vh"></div></article>
+  <aside class="col-side">
+    <div class="card pad">
+      <div class="section-head"><h2 style="font-size:16px">Your Progress</h2><a class="see" href="/app/saved.html">View all</a></div>
+      <div style="display:grid;place-items:center"><div class="ring" id="ring" style="width:120px;height:120px"><div class="v"><b id="ringV" style="font-size:24px">0%</b><span id="ringL">Level 1</span></div></div></div>
+      <div class="xpbar" style="margin-top:14px"><i id="lvlFill" style="width:0%"></i></div>
+      <div style="display:flex;justify-content:space-between;margin-top:8px;font-size:13px;font-weight:600"><span id="xpInto" class="muted">0 XP</span><span class="pill" style="background:var(--green-bg);color:var(--green)" id="lvlPill">LVL 1</span></div>
+    </div>
+    <div class="card pad">
+      <h2 style="font-size:16px;margin:0 0 14px">💡 Key Takeaways</h2>
+      <div id="takeaways"></div>
+    </div>
+    <div class="card pad">
+      <div class="section-head"><h2 style="font-size:16px">Related Articles</h2></div>
+      <div id="related"></div>
+    </div>
+  </aside>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="/app/app.js"></script>
+<script>
+(async () => {
+  const T = window.TS, esc = T.esc;
+  const u = await T.requireAuth(); if (!u) return;
+  let profile = await T.loadProfile(u);
+  T.renderNav("Latest", profile);
+
+  const id = new URLSearchParams(location.search).get("id");
+  const arts = await T.articles();
+  const a = arts.find(x => T.articleId(x) === id) || arts[0];
+  if (!a) { document.getElementById("content").innerHTML = "<p>Article not found.</p>"; return; }
+  const c = T.catMeta(T.catFor(a));
+  const sum = a.ai_summary || a.summary || "";
+  const img = (a.media_url && a.media_kind !== "poster") ? a.media_url : "";
+
+  // sections derived from the article
+  const sects = [
+    ["#2563eb", "📄", "What happened", sum || (a.title + ".")],
+    ["#16a34a", "✦", "Why it matters", "This is moving the " + c.short + " space — worth understanding because it shapes the tools, products, and decisions teams will make next."],
+    ["#7c3aed", "👥", "Who this affects", "Builders, product teams, and anyone tracking " + c.short + ". Read the source for the full detail, then bank the key idea below."],
+    ["#2563eb", "🎓", "What to learn next", "Skim the related articles in the sidebar, then test yourself with the quick quiz to lock it in and earn XP."],
+  ];
+
+  document.getElementById("content").innerHTML = `
+    <div class="crumb"><a href="/app/">← Back to Latest</a> <span>›</span> <a href="/app/?cat=${c.short}">${c.short}</a></div>
+    <span class="cat" style="background:${c.color}">${c.short}</span>
+    <h1 class="a-title" style="margin-top:10px">${esc(a.title)}</h1>
+    <div class="a-sub">${esc(sum.slice(0,160))}</div>
+    <div class="a-meta">
+      <span class="a-src"><span class="av">${esc((a.source||'?')[0])}</span> ${esc(a.source||'')}</span>
+      <span class="sep">·</span><span class="muted">${T.timeAgo(a.published)||''}</span>
+      <span class="sep">·</span><span class="muted">${T.readMins(a)} min read</span>
+      <span class="a-actions"><button class="btn" id="saveBtn"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg> Save</button>
+      <a class="btn" href="${esc(a.link||a.url||'#')}" target="_blank" rel="noopener">Share ↗</a></span>
+    </div>
+    ${img ? `<img class="a-hero" src="${esc(img)}" onerror="this.style.display='none'">` : `<div class="a-hero"></div>`}
+    <div class="a30"><span class="ic"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg></span><div><b>⚡ In 30 Seconds</b><p>${esc(sum || a.title)}</p></div></div>
+    ${sects.map(([col,ic,h,p])=>`<div class="sect"><span class="ic" style="background:${col}">${ic}</span><div><h3>${h}</h3><p>${esc(p)}</p></div></div>`).join("")}
+    <a class="read-full" href="${esc(a.link||a.url||'#')}" target="_blank" rel="noopener">Read the full article at ${esc(a.source||'the source')} ↗</a>
+    <div class="quizbox">
+      <h3>🧠 Quick Quiz <span class="xp" style="margin-left:auto">+10 XP</span></h3>
+      <p style="margin:0 0 12px;font-weight:600">What's the best next step after reading this?</p>
+      <div id="opts">
+        ${[["A","Save it to my Brain Bank and review later",true],["B","Ignore it completely",false],["C","Memorize it word for word",false]].map(([k,t,ok])=>`<div class="opt" data-ok="${ok}"><span class="k">${k}</span> ${t}</div>`).join("")}
+      </div>
+    </div>`;
+
+  // sidebar progress
+  function paintProgress(){
+    const lv=T.levelForXP(profile.xp||0), into=(profile.xp||0)-T.xpFloor(lv), span=T.xpFloor(lv+1)-T.xpFloor(lv);
+    const pct=Math.round(into/Math.max(1,span)*100);
+    T.$("#ring").style.setProperty("--p",pct); T.$("#ringV").textContent=pct+"%"; T.$("#ringL").textContent="Level "+lv;
+    T.$("#lvlFill").style.width=pct+"%"; T.$("#xpInto").textContent=(profile.xp||0).toLocaleString()+" XP"; T.$("#lvlPill").textContent="LVL "+lv;
+  }
+  paintProgress();
+
+  // key takeaways (split summary into bullets)
+  const tk = (sum.match(/[^.!?]+[.!?]/g) || [sum]).slice(0,4).map(s=>s.trim()).filter(Boolean);
+  T.$("#takeaways").innerHTML = (tk.length?tk:["Read the full article to learn more."]).map(t=>`<div class="takeaway"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M5 13l4 4L19 7"/></svg> ${esc(t)}</div>`).join("");
+
+  // related
+  T.$("#related").innerHTML = arts.filter(x=>T.articleId(x)!==T.articleId(a)).slice(0,4).map(r=>{
+    const ri=(r.media_url&&r.media_kind!=="poster")?r.media_url:""; const rc=T.catMeta(T.catFor(r));
+    return `<a class="rel" href="/app/article.html?id=${encodeURIComponent(T.articleId(r))}"><img src="${esc(ri)}" onerror="this.style.visibility='hidden'"><div><b>${esc(r.title)}</b><br><span>${T.readMins(r)} min · ${rc.short}</span></div></a>`;
+  }).join("");
+
+  // save
+  const savedSet = await T.savedIds(u.id);
+  const sb_ = T.$("#saveBtn"); if (savedSet.has(T.articleId(a))) sb_.innerHTML = "✓ Saved";
+  sb_.onclick = async () => { const on = await T.toggleSave(u.id, a); sb_.innerHTML = on ? "✓ Saved" : "<svg width='15' height='15' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2'><path d='M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z'/></svg> Save"; T.toast(on?"Saved to your Brain Bank ✓":"Removed"); };
+
+  // quiz
+  T.$("#opts").querySelectorAll(".opt").forEach(o => o.onclick = async () => {
+    if (T.$("#opts").dataset.done) return; T.$("#opts").dataset.done = "1";
+    const ok = o.dataset.ok === "true"; o.classList.add(ok ? "correct" : "wrong");
+    if (!ok) T.$("#opts").querySelector('[data-ok="true"]').classList.add("correct");
+    if (ok) { profile.xp = (profile.xp||0)+10; await T.sb.from("ts_profiles").update({xp:profile.xp,level:T.levelForXP(profile.xp)}).eq("user_id",u.id); paintProgress(); T.toast("Correct! +10 XP 🎉"); }
+    await T.sb.from("ts_quiz_attempts").insert({user_id:u.id,question:"next step",topic:T.catFor(a),correct:ok});
+  });
+
+  // award read XP (once per article via ts_read_events upsert-ish)
+  profile = await T.recordOpen(u.id, a, profile); paintProgress(); T.toast("+8 XP for reading 📖");
+})();
+</script>
+</body>
+</html>
