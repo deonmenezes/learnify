@@ -1,15 +1,140 @@
 {
-  "generated_at": "2026-06-09T19:40:09.999Z",
+  "generated_at": "2026-06-09T21:53:46.936Z",
   "handles": [
     "AnthropicAI",
     "OpenAI",
     "nvidia",
+    "GoogleDeepMind",
+    "demishassabis",
     "gdb",
-    "NVIDIAAI",
-    "demishassabis"
+    "NVIDIAAI"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2064393419150041405",
+      "title": "Earlier this year we announced that telecom leaders are building AI grids using NVIDIA AI infrastructure to optimize inference on distributed networks But what actually is an AI Grid? In this video,…",
+      "link": "https://x.com/nvidia/status/2064393419150041405",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-09T17:05:20.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product launch",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product launch"
+      ],
+      "summary": "Earlier this year we announced that telecom leaders are building AI grids using NVIDIA AI infrastructure to optimize inference on distributed networks But what actually is an AI Grid? In this video, Amogh Dendukuri takes us back to basics. Watch now to see him break down the",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 82,
+      "sentiment": "negative",
+      "sentiment_score": -0.5,
+      "reasons": [
+        "report-worthy",
+        "casual tone (this)",
+        "announcement language (announced)",
+        "tech substance (inference)"
+      ],
+      "metrics": {
+        "likes": 104,
+        "retweets": 15,
+        "replies": 17,
+        "likes_h": "104"
+      },
+      "engagement": 151,
+      "hot": false
+    },
+    {
+      "id": "x_2064366504745828689",
+      "title": "Say hello, hola, 你好 to Gemini 3.5 Live Translate: our latest audio model built for fast, cross-language communication. 🌐",
+      "link": "https://x.com/GoogleDeepMind/status/2064366504745828689",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Google DeepMind · @GoogleDeepMind",
+      "handle": "GoogleDeepMind",
+      "org": "Google",
+      "published": "2026-06-09T15:18:23.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "Google",
+        "Product"
+      ],
+      "summary": "Say hello, hola, 你好 to Gemini 3.5 Live Translate: our latest audio model built for fast, cross-language communication. 🌐",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 82,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "tech substance (model, gemini)"
+      ],
+      "metrics": {
+        "likes": 688,
+        "retweets": 86,
+        "replies": 46,
+        "likes_h": "688"
+      },
+      "engagement": 906,
+      "hot": false
+    },
+    {
+      "id": "x_2064100362752294992",
+      "title": "Proud to collaborate on the next frontier of private AI. 🔒 Apple is expanding Private Cloud Compute to @GoogleCloud using NVIDIA GPUs. https://nvda.ws/4ewJl3q",
+      "link": "https://x.com/nvidia/status/2064100362752294992",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-08T21:40:50.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "Proud to collaborate on the next frontier of private AI. 🔒 Apple is expanding Private Cloud Compute to @GoogleCloud using NVIDIA GPUs. https://nvda.ws/4ewJl3q",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 83,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "tech substance (gpus)",
+        "links to a source",
+        "high engagement (2.4K likes)"
+      ],
+      "metrics": {
+        "likes": 2382,
+        "retweets": 238,
+        "replies": 79,
+        "likes_h": "2.4K"
+      },
+      "engagement": 2937,
+      "hot": false
+    },
     {
       "id": "x_2064056027947934209",
       "title": "Transaction foundation models transform raw data into intelligence, trained on billions of financial events — payments, transfers and behavioral signals. Financial institutions, like @Revolut and…",
@@ -34,7 +159,7 @@
       "summary": "Transaction foundation models transform raw data into intelligence, trained on billions of financial events — payments, transfers and behavioral signals. Financial institutions, like @Revolut and @Mastercard, are already using NVIDIA accelerated computing to train foundation",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 70,
+      "worthiness_score": 74,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -42,12 +167,12 @@
         "tech substance (models)"
       ],
       "metrics": {
-        "likes": 38,
-        "retweets": 6,
-        "replies": 13,
-        "likes_h": "38"
+        "likes": 206,
+        "retweets": 24,
+        "replies": 29,
+        "likes_h": "206"
       },
-      "engagement": 63,
+      "engagement": 283,
       "hot": false
     },
     {
@@ -81,15 +206,15 @@
         "report-worthy",
         "tech substance (agents, research)",
         "links to a source",
-        "high engagement (3.3K likes)"
+        "high engagement (3.4K likes)"
       ],
       "metrics": {
-        "likes": 3320,
-        "retweets": 439,
-        "replies": 275,
-        "likes_h": "3.3K"
+        "likes": 3377,
+        "retweets": 442,
+        "replies": 282,
+        "likes_h": "3.4K"
       },
-      "engagement": 4473,
+      "engagement": 4543,
       "hot": true
     },
     {
@@ -116,7 +241,7 @@
       "summary": "The next generation of AI builders brought the energy. 🦞 Jensen stopped by @SeoulNatlUni for a Build-a-Claw pop-up, packed with students, developers, and AI researchers building intelligent agents from the ground up.",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 75,
+      "worthiness_score": 76,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -124,12 +249,12 @@
         "tech substance (agents)"
       ],
       "metrics": {
-        "likes": 323,
-        "retweets": 37,
-        "replies": 41,
-        "likes_h": "323"
+        "likes": 414,
+        "retweets": 55,
+        "replies": 43,
+        "likes_h": "414"
       },
-      "engagement": 438,
+      "engagement": 567,
       "hot": false
     },
     {
@@ -164,12 +289,12 @@
         "high engagement (1.3K likes)"
       ],
       "metrics": {
-        "likes": 1250,
+        "likes": 1254,
         "retweets": 90,
-        "replies": 129,
+        "replies": 132,
         "likes_h": "1.3K"
       },
-      "engagement": 1559,
+      "engagement": 1566,
       "hot": false
     },
     {
@@ -247,12 +372,12 @@
         "high engagement (3.6K likes)"
       ],
       "metrics": {
-        "likes": 3594,
+        "likes": 3596,
         "retweets": 416,
         "replies": 261,
         "likes_h": "3.6K"
       },
-      "engagement": 4687,
+      "engagement": 4689,
       "hot": true
     },
     {
@@ -331,12 +456,12 @@
         "high engagement (3.1K likes)"
       ],
       "metrics": {
-        "likes": 3069,
+        "likes": 3068,
         "retweets": 341,
-        "replies": 508,
+        "replies": 510,
         "likes_h": "3.1K"
       },
-      "engagement": 4259,
+      "engagement": 4260,
       "hot": true
     },
     {
@@ -537,12 +662,12 @@
         "high engagement (1.3K likes)"
       ],
       "metrics": {
-        "likes": 1327,
+        "likes": 1328,
         "retweets": 139,
-        "replies": 156,
+        "replies": 158,
         "likes_h": "1.3K"
       },
-      "engagement": 1761,
+      "engagement": 1764,
       "hot": false
     },
     {
@@ -663,12 +788,12 @@
         "high engagement (1.5K likes)"
       ],
       "metrics": {
-        "likes": 1541,
+        "likes": 1542,
         "retweets": 79,
-        "replies": 48,
+        "replies": 49,
         "likes_h": "1.5K"
       },
-      "engagement": 1747,
+      "engagement": 1749,
       "hot": false
     },
     {
@@ -708,12 +833,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 3622,
+        "likes": 3625,
         "retweets": 242,
         "replies": 60,
         "likes_h": "3.6K"
       },
-      "engagement": 4166,
+      "engagement": 4169,
       "hot": true
     },
     {
@@ -750,12 +875,12 @@
         "high engagement (28.5K likes)"
       ],
       "metrics": {
-        "likes": 28494,
-        "retweets": 4652,
-        "replies": 1748,
+        "likes": 28511,
+        "retweets": 4653,
+        "replies": 1750,
         "likes_h": "28.5K"
       },
-      "engagement": 39546,
+      "engagement": 39567,
       "hot": true
     },
     {
@@ -792,12 +917,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 845,
+        "likes": 847,
         "retweets": 42,
         "replies": 54,
-        "likes_h": "845"
+        "likes_h": "847"
       },
-      "engagement": 983,
+      "engagement": 985,
       "hot": false
     },
     {
@@ -834,12 +959,12 @@
         "high engagement (9.6K likes)"
       ],
       "metrics": {
-        "likes": 9625,
+        "likes": 9627,
         "retweets": 1013,
         "replies": 731,
         "likes_h": "9.6K"
       },
-      "engagement": 12382,
+      "engagement": 12384,
       "hot": true
     },
     {
@@ -1045,12 +1170,12 @@
         "high engagement (3.8K likes)"
       ],
       "metrics": {
-        "likes": 3821,
+        "likes": 3822,
         "retweets": 401,
         "replies": 246,
         "likes_h": "3.8K"
       },
-      "engagement": 4869,
+      "engagement": 4870,
       "hot": true
     },
     {
@@ -1127,12 +1252,12 @@
         "high engagement (1.2K likes)"
       ],
       "metrics": {
-        "likes": 1197,
+        "likes": 1198,
         "retweets": 161,
         "replies": 144,
         "likes_h": "1.2K"
       },
-      "engagement": 1663,
+      "engagement": 1664,
       "hot": false
     },
     {
@@ -1171,12 +1296,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 3167,
+        "likes": 3172,
         "retweets": 319,
-        "replies": 167,
+        "replies": 171,
         "likes_h": "3.2K"
       },
-      "engagement": 3972,
+      "engagement": 3981,
       "hot": false
     },
     {
@@ -1217,130 +1342,6 @@
         "likes_h": "216"
       },
       "engagement": 272,
-      "hot": false
-    },
-    {
-      "id": "x_2062228974273716457",
-      "title": "The agentic AI era is here. From Taipei, Jensen Huang joined @satyanadella at #MSBuild to show how NVIDIA and @Microsoft are building it together, from Windows devices to AI factories at scale. ▶️…",
-      "link": "https://x.com/nvidia/status/2062228974273716457",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-03T17:44:36.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Commentary",
-        "MSBuild"
-      ],
-      "summary": "The agentic AI era is here. From Taipei, Jensen Huang joined @satyanadella at #MSBuild to show how NVIDIA and @Microsoft are building it together, from Windows devices to AI factories at scale. ▶️ Watch the conversation: https://nvda.ws/4uefQbs",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 65,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "links to a source"
-      ],
-      "metrics": {
-        "likes": 461,
-        "retweets": 84,
-        "replies": 45,
-        "likes_h": "461"
-      },
-      "engagement": 674,
-      "hot": false
-    },
-    {
-      "id": "x_2062216340786524373",
-      "title": "🏆 Cosmos 3 just topped 7 physical AI leaderboards. NVIDIA Cosmos™ 3, the open omni-model for physical AI, ranks #1 across world generation, robot action policy, and industrial vision understanding.…",
-      "link": "https://x.com/nvidia/status/2062216340786524373",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-03T16:54:24.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product"
-      ],
-      "summary": "🏆 Cosmos 3 just topped 7 physical AI leaderboards. NVIDIA Cosmos™ 3, the open omni-model for physical AI, ranks #1 across world generation, robot action policy, and industrial vision understanding. 🌎 World generation: Artificial Analysis, PAI-Bench, Physics-IQ, R-Bench 🤖",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 74,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "tech substance (model)"
-      ],
-      "metrics": {
-        "likes": 240,
-        "retweets": 47,
-        "replies": 35,
-        "likes_h": "240"
-      },
-      "engagement": 369,
-      "hot": false
-    },
-    {
-      "id": "x_2062210056280535154",
-      "title": "Agents need more than a model. Jensen Huang breaks down the enterprise agent stack: models, orchestration, tools with skills, and a secure runtime to hold it all together. This is the NVIDIA toolkit…",
-      "link": "https://x.com/nvidia/status/2062210056280535154",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-03T16:29:26.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product"
-      ],
-      "summary": "Agents need more than a model. Jensen Huang breaks down the enterprise agent stack: models, orchestration, tools with skills, and a secure runtime to hold it all together. This is the NVIDIA toolkit for agents: https://nvda.ws/4em0o8l",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 100,
-      "sentiment": "negative",
-      "sentiment_score": -0.5,
-      "reasons": [
-        "report-worthy",
-        "casual tone (this)",
-        "tech substance (model, models, agent)",
-        "business signal (enterprise)",
-        "links to a source"
-      ],
-      "metrics": {
-        "likes": 437,
-        "retweets": 57,
-        "replies": 39,
-        "likes_h": "437"
-      },
-      "engagement": 590,
       "hot": false
     }
   ]
