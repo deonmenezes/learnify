@@ -103,6 +103,9 @@
   // ---- record a read (XP + streak; mirrors iOS PulseStore floor) ----
   async function recordOpen(uid, a, profile) {
     const id = articleId(a);
+    // Idempotent: only the FIRST open of an article earns XP (no farming on refresh).
+    const already = await sb.from("ts_read_events").select("id").eq("user_id", uid).eq("article_id", id).eq("opened", true).limit(1).maybeSingle();
+    if (already.data) return profile;
     await sb.from("ts_read_events").insert({ user_id: uid, article_id: id, category: catFor(a), opened: true });
     const today = new Date(); const todayStr = today.toISOString().slice(0, 10);
     let xp = (profile.xp || 0) + 8;
