@@ -35,7 +35,7 @@ UI **every hour until 08:00 local, consulting the Codex CLI** each round.
 - [ ] **5. Codex section art** — generate a small set of hand-drawn category icons (AI, chips,
   startups, security…) and use them on source/keyword chips or card labels.
 - [ ] **6. Mobile polish** — verify the hero stacks nicely, tape/rotations don't overflow, tap targets.
-- [ ] **7. Playful micro-interactions** — a gentle "pick up the clipping" tilt, a doodle underline
+- [~] **7. Playful micro-interactions** (started) — a gentle "pick up the clipping" tilt, a doodle underline
   that draws on hover, a confetti-scribble when you clear filters.
 - [ ] **8. Codex OG/share image** — a hand-drawn social share image + favicon refresh.
 
@@ -46,3 +46,4 @@ UI **every hour until 08:00 local, consulting the Codex CLI** each round.
 - 2026-06-09 01:24 — Item 1: hide the /api/og text-poster images (headline no longer doubled); show clean hand-drawn sketch tiles with varied pastel washes instead. Real CC photos still show.
 - 2026-06-09 01:28 — Item 3: added twinkling star/sparkle/squiggle doodles in the hero + a coral hand-drawn 'tap to filter!' note by the keywords. Decorative, reduce-motion safe, hidden on mobile.
 - 2026-06-09 01:34 — Item 2 (part): reskinned privacy.html + support.html to the hand-drawn paper aesthetic (Caveat/Shantell/Nunito, washi-tape sheet, mascot brand). ideas/influencers still pending.
+- 2026-06-09 01:40 — CONSULTED CODEX (codex exec critique of index.html) → applied its top pick: a hand-drawn 'open ↗' tag that peeks onto each clipping's image on hover. Deployed.

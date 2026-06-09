@@ -287,6 +287,15 @@
   .card .media .credit { position: absolute; left: 8px; bottom: 8px; z-index: 2; font-family: var(--marker); font-size: 11px; color: var(--ink); background: rgba(255,253,246,.85); padding: 2px 8px; border: 1.5px solid var(--ink); border-radius: 8px; max-width: 82%; }
   .card .media .play { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; color: var(--ink); }
   .card .media .play span { width: 52px; height: 52px; border-radius: 50%; background: var(--paper-2); border: 2.5px solid var(--ink); display: grid; place-items: center; padding-left: 3px; box-shadow: var(--sh-sm); }
+  /* hand-drawn "open ↗" tag that peeks onto the clipping on hover (Codex-suggested) */
+  .card .media::before {
+    content: "open ↗"; position: absolute; right: 9px; top: 9px; z-index: 3;
+    font-family: var(--hand); font-size: 19px; font-weight: 700; color: var(--ink);
+    background: var(--paper-2); border: 2px solid var(--ink); border-radius: var(--wobble2);
+    padding: 0 11px 3px; box-shadow: var(--sh-sm);
+    opacity: 0; transform: translateY(6px) rotate(-3deg); transition: opacity .16s, transform .16s;
+  }
+  article.card:hover .media::before, article.card:focus-within .media::before { opacity: .97; transform: translateY(0) rotate(-3deg); }
 
   article.card.social { background: linear-gradient(180deg, var(--hl-blue) 0%, var(--paper-2) 42%); }
   .card .src-name .xglyph { width: 13px; height: 13px; display: inline-block; }
