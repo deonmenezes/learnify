@@ -4,58 +4,93 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>TechScroll — Privacy Policy</title>
+<meta name="theme-color" content="#f3ead4" />
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='22' fill='%23f3ead4'/%3E%3Cpath d='M58 14 32 56h18l-7 30 28-46H52z' fill='none' stroke='%231f7a40' stroke-width='5' stroke-linejoin='round'/%3E%3C/svg%3E" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@600;700&family=Shantell+Sans:wght@500;600;700&family=Nunito:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
 <style>
-  :root { --bg:#0a0d12; --panel:#11161d; --txt:#e6edf3; --mut:#8a97a6; --accent:#36c5ff; --line:#222b38; }
-  *{box-sizing:border-box} html,body{margin:0;background:var(--bg);color:var(--txt);
-    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;line-height:1.6}
-  main{max-width:760px;margin:0 auto;padding:48px 22px 80px}
-  h1{font-size:30px;letter-spacing:-.4px;margin:0 0 6px}
-  .sub{color:var(--mut);font-size:14px;margin-bottom:32px}
-  h2{font-size:19px;margin:30px 0 8px}
-  p,li{color:#c2ccd6;font-size:15.5px} a{color:var(--accent)}
-  .pill{display:inline-block;background:var(--panel);border:1px solid var(--line);border-radius:999px;
-    padding:4px 12px;font-size:12.5px;color:var(--mut);font-family:ui-monospace,Menlo,monospace}
-  footer{margin-top:40px;color:var(--mut);font-size:13px;border-top:1px solid var(--line);padding-top:18px}
+  :root {
+    --paper:#f5ecd6; --paper-2:#fffdf6; --paper-3:#efe4c8; --ink:#2c2620; --ink-2:#5a5044; --ink-3:#8b8170;
+    --rule:#e3d6b6; --green:#2f9e54; --green-d:#1f7a40; --coral:#ef6b54; --gold:#e2ad44;
+    --hl-yellow:#ffe6a0; --hl-green:#c4ecc2; --tape:rgba(231,200,120,.55);
+    --hand:'Caveat',cursive; --marker:'Shantell Sans',cursive; --read:'Nunito',system-ui,sans-serif;
+    --wobble:255px 14px 235px 16px/16px 235px 18px 255px; --sh:4px 6px 0 rgba(44,38,32,.13),0 14px 30px -16px rgba(44,38,32,.4);
+  }
+  *{box-sizing:border-box} html{scroll-behavior:smooth}
+  html,body{margin:0;color:var(--ink);font-family:var(--read);line-height:1.62;-webkit-font-smoothing:antialiased}
+  body{min-height:100vh;background-color:var(--paper);
+    background-image:radial-gradient(circle at 50% 50%,rgba(44,38,32,.05) 1px,transparent 1.4px),radial-gradient(800px 420px at 90% -6%,rgba(47,158,84,.10),transparent 60%);
+    background-size:24px 24px,auto;}
+  a{color:var(--green-d);text-decoration:none} a:hover{text-decoration:underline}
+  ::selection{background:var(--hl-yellow)}
+  .topbrand{max-width:820px;margin:0 auto;padding:26px 22px 6px;display:flex;align-items:center;justify-content:space-between;gap:14px;flex-wrap:wrap}
+  .brand{display:flex;align-items:center;gap:11px}
+  .brand img{width:46px;height:46px;object-fit:contain;mix-blend-mode:multiply;transform:rotate(-5deg)}
+  .brand b{font-family:var(--hand);font-weight:700;font-size:34px;line-height:.8}
+  .brand b em{color:var(--green-d);font-style:normal}
+  .back{font-family:var(--marker);font-weight:600;font-size:15px;border:2.5px solid var(--ink);border-radius:18px 240px 16px 250px/250px 16px 240px 18px;padding:6px 16px;background:var(--paper-2);box-shadow:var(--sh);color:var(--ink)}
+  .back:hover{text-decoration:none;background:var(--hl-green);transform:rotate(-1.5deg)}
+  main{max-width:820px;margin:14px auto 70px;padding:0 22px}
+  .sheet{position:relative;background:var(--paper-2);border:3px solid var(--ink);border-radius:var(--wobble);box-shadow:var(--sh);padding:38px 38px 34px}
+  .sheet::after{content:"";position:absolute;inset:8px;border:2px dashed var(--rule);border-radius:18px 240px 16px 250px/250px 16px 240px 18px;pointer-events:none}
+  .sheet::before{content:"";position:absolute;top:-13px;left:42px;width:96px;height:24px;background:var(--tape);border:1px dashed rgba(44,38,32,.22);transform:rotate(-3deg);box-shadow:var(--sh)}
+  .pill{display:inline-block;font-family:var(--marker);font-weight:700;background:var(--hl-yellow);border:2.5px solid var(--ink);border-radius:999px;padding:3px 14px;font-size:14px;color:var(--ink);transform:rotate(-1.5deg)}
+  h1{font-family:var(--hand);font-weight:700;font-size:54px;line-height:.95;margin:14px 0 4px;color:var(--ink)}
+  .sub{font-family:var(--marker);color:var(--coral);font-size:18px;margin-bottom:26px;font-weight:600}
+  h2{font-family:var(--marker);font-weight:700;font-size:23px;margin:28px 0 8px;color:var(--green-d)}
+  h2::before{content:"✎ ";color:var(--gold)}
+  p,li{color:var(--ink-2);font-size:16.5px} p strong,li strong{color:var(--ink)}
+  ul{padding-left:22px} li{margin-bottom:9px}
+  em{font-style:italic;color:var(--green-d)}
+  footer{font-family:var(--marker);margin-top:30px;color:var(--ink-3);font-size:14px;border-top:2px dashed var(--rule);padding-top:18px}
+  @media (max-width:600px){ .sheet{padding:28px 22px} h1{font-size:44px} }
 </style>
 </head>
 <body>
+<div class="topbrand">
+  <span class="brand"><img src="/art/mascot.png" alt="" onerror="this.remove()"><b>Tech<em>Scroll</em></b></span>
+  <a class="back" href="/">← back to the desk</a>
+</div>
 <main>
-  <span class="pill">⚡ TechScroll</span>
-  <h1>Privacy Policy</h1>
-  <div class="sub">Last updated: May 29, 2026</div>
+  <div class="sheet">
+    <span class="pill">⚡ TechScroll</span>
+    <h1>Privacy Policy</h1>
+    <div class="sub">Last updated: May 29, 2026</div>
 
-  <p>TechScroll ("the app", "we") is a tech-news reader that shows headlines from public sources and links you out to read the full article on the publisher's own website. This policy explains what data the app handles.</p>
+    <p>TechScroll ("the app", "we") is a tech-news reader that shows headlines from public sources and links you out to read the full article on the publisher's own website. This policy explains what data the app handles.</p>
 
-  <h2>Data we collect</h2>
-  <p>TechScroll is designed to collect as little as possible. We do <strong>not</strong> use third-party analytics, advertising SDKs, or trackers, and we do <strong>not</strong> sell your personal data.</p>
-  <ul>
-    <li><strong>Account details</strong> (email address and optional display name) and your <strong>topic interests</strong> are stored <strong>locally on your device</strong> to power sign-in and personalize your feed.</li>
-    <li><strong>Saved articles</strong> are stored locally on your device.</li>
-    <li><strong>Marketing (opt-in only):</strong> if — and only if — you tick the optional "updates" box at sign-up, we collect your <strong>email address</strong> and, if you choose to provide it, your <strong>phone number</strong>, in order to send you product updates and tech-news digests. This is <strong>off by default</strong>, is never required to use the app, and you can unsubscribe at any time. We do not sell this information.</li>
-  </ul>
+    <h2>Data we collect</h2>
+    <p>TechScroll is designed to collect as little as possible. We do <strong>not</strong> use third-party analytics, advertising SDKs, or trackers, and we do <strong>not</strong> sell your personal data.</p>
+    <ul>
+      <li><strong>Account details</strong> (email address and optional display name) and your <strong>topic interests</strong> are stored <strong>locally on your device</strong> to power sign-in and personalize your feed.</li>
+      <li><strong>Saved articles</strong> are stored locally on your device.</li>
+      <li><strong>Marketing (opt-in only):</strong> if — and only if — you tick the optional "updates" box at sign-up, we collect your <strong>email address</strong> and, if you choose to provide it, your <strong>phone number</strong>, in order to send you product updates and tech-news digests. This is <strong>off by default</strong>, is never required to use the app, and you can unsubscribe at any time. We do not sell this information.</li>
+    </ul>
 
-  <h2>Marketing communications</h2>
-  <p>If you opt in, we use your email (and optional phone number) only to send you TechScroll updates and digests. Every message includes a way to unsubscribe, and you can also email <a href="mailto:privacy@techscroll.app">privacy@techscroll.app</a> to be removed at any time.</p>
+    <h2>Marketing communications</h2>
+    <p>If you opt in, we use your email (and optional phone number) only to send you TechScroll updates and digests. Every message includes a way to unsubscribe, and you can also email <a href="mailto:privacy@techscroll.app">privacy@techscroll.app</a> to be removed at any time.</p>
 
-  <h2>News content</h2>
-  <p>To populate your feed, the app requests public news metadata (headlines, source names, categories, links) from our content endpoint. These requests do not include your account information or any personal identifiers. Article headlines and links belong to their respective publishers; TechScroll links you out to read full articles at the source.</p>
+    <h2>News content</h2>
+    <p>To populate your feed, the app requests public news metadata (headlines, source names, categories, links) from our content endpoint. These requests do not include your account information or any personal identifiers. Article headlines and links belong to their respective publishers; TechScroll links you out to read full articles at the source.</p>
 
-  <h2>Tracking</h2>
-  <p>TechScroll does not track you across apps or websites and does not request the App Tracking Transparency permission.</p>
+    <h2>Tracking</h2>
+    <p>TechScroll does not track you across apps or websites and does not request the App Tracking Transparency permission.</p>
 
-  <h2>Children</h2>
-  <p>TechScroll is not directed to children under 13 and does not knowingly collect personal information from children.</p>
+    <h2>Children</h2>
+    <p>TechScroll is not directed to children under 13 and does not knowingly collect personal information from children.</p>
 
-  <h2>Data deletion</h2>
-  <p>You can delete your account and all locally stored data at any time from <em>Settings → Delete Account</em> inside the app. Uninstalling the app also removes all locally stored data.</p>
+    <h2>Data deletion</h2>
+    <p>You can delete your account and all locally stored data at any time from <em>Settings → Delete Account</em> inside the app. Uninstalling the app also removes all locally stored data.</p>
 
-  <h2>Changes</h2>
-  <p>We may update this policy from time to time. Material changes will be reflected on this page with a new "Last updated" date.</p>
+    <h2>Changes</h2>
+    <p>We may update this policy from time to time. Material changes will be reflected on this page with a new "Last updated" date.</p>
 
-  <h2>Contact</h2>
-  <p>Questions about this policy? Email <a href="mailto:privacy@techscroll.app">privacy@techscroll.app</a>.</p>
+    <h2>Contact</h2>
+    <p>Questions about this policy? Email <a href="mailto:privacy@techscroll.app">privacy@techscroll.app</a>.</p>
 
-  <footer>© 2026 TechScroll. Article headlines, images, and content are the property of their respective publishers.</footer>
+    <footer>© 2026 TechScroll · Article headlines, images, and content are the property of their respective publishers.</footer>
+  </div>
 </main>
 </body>
 </html>

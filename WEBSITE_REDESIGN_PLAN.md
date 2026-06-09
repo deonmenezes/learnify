@@ -26,8 +26,8 @@ UI **every hour until 08:00 local, consulting the Codex CLI** each round.
 - [x] **1. Cleaner card images** — when an article only has the `/api/og` poster (headline baked in),
   the headline shows twice (poster + card body). Either hide the poster image and show the sketch
   tile, or restyle `/api/og` to a cream hand-drawn poster. Pick the cleaner look.
-- [ ] **2. Redesign sub-pages** — `ideas.html`, `influencers.html`, `privacy.html`, `support.html`
-  to share the cream/handwritten header + footer + type system.
+- [~] **2. Redesign sub-pages** — privacy.html + support.html DONE (cream paper sheet, handwritten,
+  scroll-mascot brand + 'back to the desk'). Still to do: `ideas.html`, `influencers.html` (bigger marketing pages).
 - [x] **3. Scattered doodle decorations** — inline SVG squiggles, arrows pointing at the search,
   stars/sparkles in the margins (reduce-motion + non-distracting).
 - [ ] **4. Fun loading state** — replace the plain skeleton with the scroll mascot + "pinning up
@@ -45,3 +45,4 @@ UI **every hour until 08:00 local, consulting the Codex CLI** each round.
 </content>
 - 2026-06-09 01:24 — Item 1: hide the /api/og text-poster images (headline no longer doubled); show clean hand-drawn sketch tiles with varied pastel washes instead. Real CC photos still show.
 - 2026-06-09 01:28 — Item 3: added twinkling star/sparkle/squiggle doodles in the hero + a coral hand-drawn 'tap to filter!' note by the keywords. Decorative, reduce-motion safe, hidden on mobile.
+- 2026-06-09 01:34 — Item 2 (part): reskinned privacy.html + support.html to the hand-drawn paper aesthetic (Caveat/Shantell/Nunito, washi-tape sheet, mascot brand). ideas/influencers still pending.
