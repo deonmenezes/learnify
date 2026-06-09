@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>TechScroll — Today in Tech, Explained Clearly</title>
+<meta name="theme-color" content="#2563eb" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="/app/app.css" />
+</head>
+<body>
+<header id="nav" class="nav"></header>
+
+<main class="layout-2">
+  <div class="col-main">
+    <!-- HERO -->
+    <section class="hero">
+      <div style="display:grid;grid-template-columns:1.1fr 1fr;gap:24px;align-items:center" class="hero-grid">
+        <div>
+          <span class="day"><b>📅</b> <span id="today">Today</span> <span style="color:var(--green)">●</span> <span class="muted" id="updated">live</span></span>
+          <h1>Today in Tech,<br>Explained <span class="u">Clearly</span></h1>
+          <p>Cut through the noise. The most important tech news, deep dives, and insights — curated and explained in <b style="color:var(--blue)">5 minutes</b> a day.</p>
+          <div class="actions">
+            <button class="btn primary" id="brief">Start Today's Briefing ▸</button>
+            <a class="btn" href="/app/?cat=AI">Explore AI News ›</a>
+          </div>
+        </div>
+        <a id="topStory" class="story" style="background:#0b1220;color:#fff;border:none" href="#"></a>
+      </div>
+    </section>
+
+    <!-- TOP STORIES -->
+    <section style="margin-top:26px">
+      <div class="section-head"><h2>📰 Top Stories</h2><a class="see" href="/app/?all=1">See all ›</a></div>
+      <div class="grid4" id="topStories"></div>
+    </section>
+
+    <!-- TECH REELS -->
+    <section style="margin-top:26px">
+      <div class="section-head"><h2>🎬 Tech Reels <span class="muted" style="font-size:13px;font-weight:500">quick insights in 60s</span></h2><a class="see" href="/app/learn.html">See all ›</a></div>
+      <div class="grid4" id="reels"></div>
+    </section>
+
+    <!-- RESEARCH -->
+    <section style="margin-top:26px">
+      <div class="section-head"><h2>🔬 Research, Without the Headache</h2><a class="see" href="/app/?cat=Research">See all ›</a></div>
+      <div class="grid3" id="research"></div>
+    </section>
+  </div>
+
+  <!-- RIGHT SIDEBAR -->
+  <aside class="col-side">
+    <div class="card pad" id="goalCard">
+      <div class="section-head"><h2 style="font-size:14px;text-transform:uppercase;letter-spacing:.5px;color:var(--ink-3)">Daily Learning Goal</h2></div>
+      <div style="display:grid;place-items:center"><div class="ring" id="ring"><div class="v"><b id="ringV">0%</b><span>keep going</span></div></div></div>
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-top:14px;font-size:13px">
+        <span><b id="goalReads">0</b> <span class="muted">/ 5 articles today</span></span>
+        <span class="pill" style="background:var(--green-bg);color:var(--green)" id="lvlPill">LVL 1</span>
+      </div>
+    </div>
+
+    <div class="card pad">
+      <div class="section-head"><h2 style="font-size:16px">Your Progress</h2><a class="see" href="/app/saved.html">View all</a></div>
+      <div style="display:flex;align-items:center;gap:12px">
+        <span class="lvl-badge" id="lvlBadge">1</span>
+        <div style="flex:1">
+          <div style="display:flex;justify-content:space-between;font-size:14px;font-weight:700"><span id="lvlName">Level 1</span><span class="muted" id="lvlNext"></span></div>
+          <div class="xpbar" style="margin-top:7px"><i id="lvlFill" style="width:0%"></i></div>
+        </div>
+      </div>
+      <div class="stat3" style="margin-top:16px;border-top:1px solid var(--line-2);padding-top:14px">
+        <div><b id="sStreak" style="color:var(--flame)">0</b><span>🔥 Day Streak</span></div>
+        <div><b id="sXP" style="color:var(--amber)">0</b><span>⭐ Total XP</span></div>
+        <div><b id="sRead" style="color:var(--blue)">0</b><span>📖 Articles Read</span></div>
+      </div>
+      <div style="margin-top:16px">
+        <div style="display:flex;justify-content:space-between;font-size:12px;font-weight:600;color:var(--ink-3)"><span>Weekly XP</span><span>This week: <b id="weekXP" style="color:var(--blue)">0 XP</b></span></div>
+        <div class="bars" id="bars"></div>
+      </div>
+    </div>
+
+    <div class="card pad">
+      <div class="section-head"><h2 style="font-size:16px">🏆 Top Learners</h2><span class="muted" style="font-size:12px">This Week</span></div>
+      <div id="leaderboard"></div>
+      <a class="see" href="/app/saved.html" style="display:block;margin-top:10px">See full leaderboard ›</a>
+    </div>
+  </aside>
+</main>
+
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="/app/app.js"></script>
+<script>
+(async () => {
+  const T = window.TS, { esc } = T;
+  const u = await T.requireAuth(); if (!u) return;
+  const profile = await T.loadProfile(u);
+  T.renderNav("Latest", profile);
+
+  document.getElementById("today").textContent = new Date().toLocaleDateString(undefined, { weekday: "long", month: "short", day: "numeric" });
+
+  // ----- progress sidebar (REAL data) -----
+  const lv = T.levelForXP(profile.xp || 0);
+  const into = (profile.xp || 0) - T.xpFloor(lv), span = T.xpFloor(lv + 1) - T.xpFloor(lv);
+  T.$("#lvlBadge").textContent = lv; T.$("#lvlName").textContent = "Level " + lv + " · " + T.levelTitle(lv);
+  T.$("#lvlNext").textContent = (T.xpFloor(lv + 1) - (profile.xp || 0)) + " XP to L" + (lv + 1);
+  T.$("#lvlFill").style.width = Math.round(into / Math.max(1, span) * 100) + "%";
+  T.$("#sStreak").textContent = profile.streak || 0;
+  T.$("#sXP").textContent = (profile.xp || 0).toLocaleString();
+  T.$("#sRead").textContent = profile.total_read || 0;
+  T.$("#lvlPill").textContent = "LVL " + lv;
+
+  // weekly bars + today's reads (from ts_read_events)
+  const since = new Date(); since.setDate(since.getDate() - 6); since.setHours(0,0,0,0);
+  const { data: reads } = await T.sb.from("ts_read_events").select("created_at,opened").eq("user_id", u.id).gte("created_at", since.toISOString());
+  const days = ["Mon","Tue","Wed","Thu","Fri","Sat","Sun"]; const perDay = [0,0,0,0,0,0,0];
+  const todayStr = new Date().toISOString().slice(0,10); let todayReads = 0; let weekXP = 0;
+  (reads||[]).forEach(r => { const d=new Date(r.created_at); let idx=(d.getDay()+6)%7; perDay[idx]+= (r.opened?8:2); weekXP+=(r.opened?8:2); if(r.created_at.slice(0,10)===todayStr && r.opened) todayReads++; });
+  const maxd = Math.max(10, ...perDay);
+  T.$("#bars").innerHTML = days.map((d,i)=>`<div class="b ${perDay[i]===Math.max(...perDay)&&perDay[i]>0?'on':''}"><i style="height:${Math.round(perDay[i]/maxd*100)}%"></i><span>${d}</span></div>`).join("");
+  T.$("#weekXP").textContent = weekXP + " XP";
+  const goalPct = Math.min(100, Math.round(todayReads/5*100));
+  T.$("#ring").style.setProperty("--p", goalPct); T.$("#ringV").textContent = goalPct + "%"; T.$("#goalReads").textContent = todayReads;
+
+  // ----- leaderboard (REAL) -----
+  const lb = await T.leaderboard(5);
+  T.$("#leaderboard").innerHTML = (lb.length ? lb : [{display_name:profile.display_name,xp:profile.xp,streak:profile.streak}]).map((r,i)=>`
+    <div class="lb-row"><span class="lb-rank ${i<3?'g'+(i+1):''}">${i+1}</span>
+      <span class="lb-av" style="display:grid;place-items:center;font-weight:800;color:#1d4ed8;font-size:12px">${esc((r.display_name||'U')[0].toUpperCase())}</span>
+      <span class="lb-name">${esc(r.display_name||'Reader')}</span>
+      <span class="lb-xp"><span class="st">🔥 ${r.streak||0}</span> ${(r.xp||0).toLocaleString()} XP</span></div>`).join("");
+
+  // ----- articles -----
+  const arts = await T.articles();
+  const withImg = arts.filter(a => a.media_url && a.media_kind !== "poster");
+  const top = withImg[0] || arts[0];
+  if (top) {
+    const c = T.catMeta(T.catFor(top));
+    const el = T.$("#topStory");
+    el.href = "/app/article.html?id=" + encodeURIComponent(T.articleId(top));
+    el.innerHTML = `<div class="thumb-wrap"><img class="thumb" src="${esc(top.media_url||'')}" onerror="this.style.display='none'"><span class="cat" style="background:${c.color};position:absolute;top:12px;left:12px">⭐ Top Story</span></div>
+      <div class="s-body" style="background:#0b1220"><h3 style="color:#fff;font-size:18px">${esc(top.title)}</h3>
+      <p style="color:#cbd5e1">${esc((top.ai_summary||top.summary||'').slice(0,120))}</p>
+      <div class="meta" style="color:#94a3b8">${T.readMins(top)} min read <span class="dot"></span> ${c.short} <span class="xp" style="margin-left:auto">+50 XP</span></div></div>`;
+  }
+  function storyCard(a, i){
+    const c = T.catMeta(T.catFor(a)); const id = T.articleId(a); const img = (a.media_url && a.media_kind!=="poster") ? a.media_url : "";
+    return `<a class="story" href="/app/article.html?id=${encodeURIComponent(id)}">
+      <div class="thumb-wrap"><img class="thumb" loading="lazy" src="${esc(img)}" onerror="this.closest('.thumb-wrap').style.background='linear-gradient(135deg,#1e293b,#0f172a)';this.remove()">
+        <span class="cat" style="background:${c.color}">${c.short}</span>
+        <button class="save" data-id="${esc(id)}" data-i="${i}" aria-label="Save"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg></button></div>
+      <div class="s-body"><h3>${esc(a.title)}</h3><p>${esc(a.ai_summary||a.summary||'')}</p>
+        <div class="meta">⏱ ${T.readMins(a)} min <span class="dot"></span> ${esc(a.source||'')} <span class="xp" style="margin-left:auto">+${10+ (i%3)*5} XP</span></div></div></a>`;
+  }
+  const params = new URLSearchParams(location.search);
+  let pool = withImg.concat(arts.filter(a=>!withImg.includes(a)));
+  const catFilter = params.get("cat");
+  if (catFilter) { const full = window.TS.catFor; pool = arts.filter(a => T.catMeta(T.catFor(a)).short.toLowerCase() === catFilter.toLowerCase()); }
+  T.$("#topStories").innerHTML = pool.slice(catFilter?0:1, catFilter?8:9).map((a,i)=>storyCard(a,i)).join("");
+  T.$("#reels").innerHTML = pool.slice(9,13).map((a,i)=>`<a class="story" href="/app/article.html?id=${encodeURIComponent(T.articleId(a))}" style="background:#0b1220">
+    <div class="thumb-wrap"><img class="thumb" loading="lazy" src="${esc((a.media_url&&a.media_kind!=='poster')?a.media_url:'')}" onerror="this.remove()" style="aspect-ratio:9/12">
+    <span class="cat" style="background:${T.catMeta(T.catFor(a)).color}">${T.catMeta(T.catFor(a)).short}</span>
+    <span style="position:absolute;left:0;right:0;bottom:0;padding:10px;background:linear-gradient(transparent,#000);color:#fff;font-size:12.5px;font-weight:700;line-height:1.3">${esc(a.title.slice(0,60))}</span></div></a>`).join("");
+  T.$("#research").innerHTML = pool.slice(13,16).map(a=>`<a class="story" href="/app/article.html?id=${encodeURIComponent(T.articleId(a))}"><div class="s-body">
+    <span class="muted" style="font-size:11px;font-weight:700">arXiv · ${T.timeAgo(a.published)||'recent'}</span>
+    <h3>${esc(a.title)}</h3><p>${esc(a.ai_summary||a.summary||'')}</p>
+    <div class="meta">📈 ${T.readMins(a)+6} min <span class="xp" style="margin-left:auto">+${25} XP</span></div></div></a>`).join("");
+
+  // save buttons
+  const saved = await T.savedIds(u.id);
+  document.querySelectorAll(".save").forEach(b => { if (saved.has(b.dataset.id)) b.classList.add("on"); });
+  document.querySelectorAll(".save").forEach(b => b.onclick = async (e) => {
+    e.preventDefault(); e.stopPropagation();
+    const a = pool[parseInt(b.dataset.i) + (catFilter?0:1)] || pool.find(x=>T.articleId(x)===b.dataset.id);
+    const on = await T.toggleSave(u.id, a); b.classList.toggle("on", on); T.toast(on ? "Saved to your Brain Bank ✓" : "Removed");
+  });
+
+  T.$("#brief") && (T.$("#brief").onclick = () => { if (top) location.href = "/app/article.html?id=" + encodeURIComponent(T.articleId(top)); });
+})();
+</script>
+<style>@media(max-width:760px){.hero-grid{grid-template-columns:1fr!important}.hero h1{font-size:34px}}</style>
+</body>
+</html>

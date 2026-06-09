@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Sign in · TechScroll</title>
+<meta name="theme-color" content="#2563eb" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="/app/app.css" />
+<style>
+  body{display:grid;place-items:center;min-height:100vh;background:
+    radial-gradient(800px 500px at 80% -10%,#dbeafe,transparent 60%),
+    radial-gradient(700px 500px at 0% 100%,#ede9fe,transparent 60%),var(--bg)}
+  .auth{width:100%;max-width:420px;padding:34px 32px 30px;border-radius:22px}
+  .auth .brand{display:flex;align-items:center;gap:10px;font-weight:800;font-size:22px;margin-bottom:6px}
+  .auth .brand .ts{width:38px;height:38px;border-radius:10px;background:linear-gradient(135deg,#1d4ed8,#3b82f6);color:#fff;display:grid;place-items:center;font-weight:800}
+  .auth h1{font-size:25px;font-weight:800;letter-spacing:-.5px;margin:14px 0 4px}
+  .auth .sub{color:var(--ink-3);font-size:14.5px;margin-bottom:20px}
+  .field{margin-bottom:13px}
+  .field label{display:block;font-size:13px;font-weight:600;color:var(--ink-2);margin-bottom:5px}
+  .field input{width:100%;font:inherit;font-size:15px;padding:12px 13px;border:1.5px solid var(--line);border-radius:11px;outline:none;transition:.15s;background:var(--surface)}
+  .field input:focus{border-color:var(--blue);box-shadow:0 0 0 4px rgba(37,99,235,.12)}
+  .err{color:var(--red);font-size:13px;font-weight:600;margin:4px 0 10px;min-height:16px}
+  .or{display:flex;align-items:center;gap:12px;color:var(--ink-4);font-size:12.5px;font-weight:600;margin:16px 0}
+  .or::before,.or::after{content:"";flex:1;height:1px;background:var(--line)}
+  .gbtn{display:flex;align-items:center;justify-content:center;gap:10px;width:100%;font-weight:600;font-size:14.5px;padding:12px;border:1.5px solid var(--line);border-radius:11px;background:#fff;cursor:pointer}
+  .gbtn:hover{border-color:#cdd7e5;box-shadow:var(--sh-sm)}
+  .toggle{text-align:center;font-size:14px;color:var(--ink-3);margin-top:18px}
+  .toggle b{color:var(--blue);cursor:pointer;font-weight:700}
+  .guest{display:block;text-align:center;margin-top:14px;font-size:13.5px;color:var(--ink-4);font-weight:600;cursor:pointer}
+  .guest:hover{color:var(--ink-2)}
+</style>
+</head>
+<body>
+<div class="auth card">
+  <div class="brand"><span class="ts">TS</span> TechScroll</div>
+  <h1 id="title">Welcome back</h1>
+  <div class="sub" id="subtitle">Sign in to your Brain Bank — your saved knowledge, streaks &amp; XP.</div>
+
+  <form id="form" autocomplete="on">
+    <div class="field" id="nameField" style="display:none">
+      <label for="name">Display name</label>
+      <input id="name" type="text" placeholder="Ada Lovelace" autocomplete="name" />
+    </div>
+    <div class="field">
+      <label for="email">Email</label>
+      <input id="email" type="email" placeholder="you@example.com" autocomplete="email" required />
+    </div>
+    <div class="field">
+      <label for="password">Password</label>
+      <input id="password" type="password" placeholder="••••••••" autocomplete="current-password" required />
+    </div>
+    <div class="err" id="err"></div>
+    <button class="btn primary block" id="submit" type="submit">Sign in</button>
+  </form>
+
+  <div class="or">or</div>
+  <button class="gbtn" id="google">
+    <svg width="18" height="18" viewBox="0 0 48 48"><path fill="#FFC107" d="M43.6 20.5H42V20H24v8h11.3C33.7 32.4 29.3 35 24 35c-6.6 0-12-5.4-12-12s5.4-12 12-12c3.1 0 5.9 1.2 8 3.1l5.7-5.7C34.6 5.1 29.6 3 24 3 12.4 3 3 12.4 3 24s9.4 21 21 21 21-9.4 21-21c0-1.2-.1-2.3-.4-3.5z"/><path fill="#FF3D00" d="M6.3 14.7l6.6 4.8C14.7 16 19 13 24 13c3.1 0 5.9 1.2 8 3.1l5.7-5.7C34.6 5.1 29.6 3 24 3 16 3 9.1 7.6 6.3 14.7z"/><path fill="#4CAF50" d="M24 45c5.2 0 9.9-2 13.4-5.2l-6.2-5.2C29.2 35.9 26.7 37 24 37c-5.3 0-9.7-2.6-11.3-7l-6.5 5C9 40.4 16 45 24 45z"/><path fill="#1976D2" d="M43.6 20.5H42V20H24v8h11.3c-.8 2.2-2.2 4.2-4.1 5.6l6.2 5.2C40.9 36.6 45 31 45 24c0-1.2-.1-2.3-.4-3.5z"/></svg>
+    Continue with Google
+  </button>
+
+  <div class="toggle" id="toggle">New here? <b>Create an account</b></div>
+  <span class="guest" id="guest">Just browse →</span>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="/app/app.js"></script>
+<script>
+const { sb, toast } = window.TS;
+const params = new URLSearchParams(location.search);
+const next = params.get("next") || "/app/";
+let mode = "login";
+
+(async () => { const u = await window.TS.getUser(); if (u) location.href = next; })();
+
+const F = (id) => document.getElementById(id);
+F("toggle").onclick = () => {
+  mode = mode === "login" ? "signup" : "login";
+  const su = mode === "signup";
+  F("title").textContent = su ? "Create your account" : "Welcome back";
+  F("subtitle").textContent = su ? "Start building your Brain Bank — save, learn, and level up." : "Sign in to your Brain Bank — your saved knowledge, streaks & XP.";
+  F("submit").textContent = su ? "Create account" : "Sign in";
+  F("nameField").style.display = su ? "block" : "none";
+  F("password").autocomplete = su ? "new-password" : "current-password";
+  F("toggle").innerHTML = su ? 'Already have an account? <b>Sign in</b>' : 'New here? <b>Create an account</b>';
+  F("err").textContent = "";
+};
+
+F("form").onsubmit = async (e) => {
+  e.preventDefault();
+  F("err").textContent = "";
+  const email = F("email").value.trim().toLowerCase();
+  const password = F("password").value;
+  const name = F("name").value.trim();
+  F("submit").disabled = true; F("submit").textContent = "…";
+  try {
+    if (mode === "signup") {
+      if (password.length < 8 || !/\d/.test(password)) throw new Error("Password needs 8+ characters and a number.");
+      const { data, error } = await sb.auth.signUp({ email, password, options: { data: name ? { display_name: name } : {} } });
+      if (error) throw error;
+      if (!data.session) { // email confirmation on → try immediate login
+        const r = await sb.auth.signInWithPassword({ email, password });
+        if (r.error) { toast("Check your email to confirm your account."); F("submit").disabled = false; F("submit").textContent = "Create account"; return; }
+      }
+    } else {
+      const { error } = await sb.auth.signInWithPassword({ email, password });
+      if (error) throw error;
+    }
+    location.href = next;
+  } catch (err) {
+    F("err").textContent = (err && err.message) || "Something went wrong.";
+    F("submit").disabled = false; F("submit").textContent = mode === "signup" ? "Create account" : "Sign in";
+  }
+};
+
+F("google").onclick = async () => {
+  const { error } = await sb.auth.signInWithOAuth({ provider: "google",
+    options: { redirectTo: location.origin + next } });
+  if (error) F("err").textContent = error.message;
+};
+
+F("guest").onclick = () => { location.href = "/app/?guest=1"; };
+</script>
+</body>
+</html>
