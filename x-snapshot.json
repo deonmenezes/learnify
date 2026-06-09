@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-09T04:04:06.164Z",
+  "generated_at": "2026-06-09T11:46:11.218Z",
   "handles": [
-    "AnthropicAI",
-    "OpenAI",
-    "nvidia",
+    "demishassabis",
     "gdb",
     "NVIDIAAI",
-    "demishassabis"
+    "nvidia",
+    "AnthropicAI",
+    "OpenAI"
   ],
   "count": 32,
   "articles": [
@@ -130,6 +130,46 @@
         "likes_h": "323"
       },
       "engagement": 438,
+      "hot": false
+    },
+    {
+      "id": "x_2063705280270021087",
+      "title": "Codex use-cases: “From software engineering and design to data analysis and operations, Codex is becoming an AI teammate instead of just an AI assistant.”",
+      "link": "https://x.com/gdb/status/2063705280270021087",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Greg Brockman · @gdb",
+      "handle": "gdb",
+      "org": "OpenAI",
+      "published": "2026-06-07T19:30:55.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Commentary"
+      ],
+      "summary": "Codex use-cases: “From software engineering and design to data analysis and operations, Codex is becoming an AI teammate instead of just an AI assistant.”",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 56,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "high engagement (1.3K likes)"
+      ],
+      "metrics": {
+        "likes": 1250,
+        "retweets": 90,
+        "replies": 129,
+        "likes_h": "1.3K"
+      },
+      "engagement": 1559,
       "hot": false
     },
     {
@@ -923,12 +963,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 3377,
-        "retweets": 448,
-        "replies": 178,
+        "likes": 3413,
+        "retweets": 459,
+        "replies": 184,
         "likes_h": "3.4K"
       },
-      "engagement": 4451,
+      "engagement": 4515,
       "hot": true
     },
     {
@@ -1127,16 +1167,16 @@
         "announcement language (release)",
         "tech substance (model)",
         "business signal (million)",
-        "high engagement (3.1K likes)",
+        "high engagement (3.2K likes)",
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 3150,
-        "retweets": 309,
-        "replies": 159,
-        "likes_h": "3.1K"
+        "likes": 3167,
+        "retweets": 319,
+        "replies": 167,
+        "likes_h": "3.2K"
       },
-      "engagement": 3927,
+      "engagement": 3972,
       "hot": true
     },
     {
@@ -1301,48 +1341,6 @@
         "likes_h": "437"
       },
       "engagement": 590,
-      "hot": false
-    },
-    {
-      "id": "x_2062191093748523401",
-      "title": "This week at #CVPR2026, NVIDIA Research is presenting three papers across physical ai that offer groundbreaking solutions for training at scale across diverse applications: → GraspGen-X: the first…",
-      "link": "https://x.com/nvidia/status/2062191093748523401",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-03T15:14:05.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Research",
-        "CVPR2026"
-      ],
-      "summary": "This week at #CVPR2026, NVIDIA Research is presenting three papers across physical ai that offer groundbreaking solutions for training at scale across diverse applications: → GraspGen-X: the first foundation model for zero-shot grasping, trained on billions of simulated grasps",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 60,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "casual tone (this, this week at)",
-        "tech substance (model, research, training)"
-      ],
-      "metrics": {
-        "likes": 179,
-        "retweets": 31,
-        "replies": 17,
-        "likes_h": "179"
-      },
-      "engagement": 258,
       "hot": false
     }
   ]
