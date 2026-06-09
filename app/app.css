@@ -154,3 +154,20 @@ img{max-width:100%;display:block}
 .sk{background:linear-gradient(100deg,#eef2f7 30%,#f6f9fd 50%,#eef2f7 70%);background-size:200% 100%;animation:sh 1.2s infinite;border-radius:8px}
 @keyframes sh{to{background-position:-200% 0}}
 @media(prefers-reduced-motion:reduce){*{animation-duration:.001ms!important;transition-duration:.001ms!important}}
+
+/* ---------- robust mobile / overflow guards ---------- */
+html,body{overflow-x:hidden;width:100%}
+/* let grid/flex children shrink below their content width (kills right-edge clipping) */
+.layout-2,.layout-3,.col-main,.col-side,.col-left,.card,.story,.grid4,.grid3,.s-body{min-width:0}
+.story h3,.story p,.lb-name,.section-head h2{overflow-wrap:anywhere}
+@media(max-width:560px){
+  .layout-2,.layout-3{padding:16px 14px 56px}
+  .nav-inner{padding:10px 14px;gap:10px}
+  .nav-right{gap:8px}
+  .streak-pill{padding:6px 9px;font-size:12px}
+  .nav-search{display:none}
+  .hero h1{font-size:32px;letter-spacing:-1px}
+  .hero-grid,.featured,.cb,#quizOpts{grid-template-columns:1fr!important}
+  .grid4,.grid3{grid-template-columns:1fr!important}
+  .a-title{font-size:28px}
+}
