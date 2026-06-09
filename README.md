@@ -1,6 +1,6 @@
-# TechScroll
+# Learnify
 
-Latest **Silicon Valley / San Francisco tech news** — **with images**,
+Latest **tech, science & learning news** — **with images**,
 aggregated locally from multiple outlets and made browsable **by keyword and
 source**. Type a keyword (e.g. `AI`, `funding`, `OpenAI`), pick a source, or
 click any tag to filter; thumbnails and headlines link back to the original
@@ -76,7 +76,7 @@ vercel --prod
 
 ## Attribution & legal
 
-**TechScroll is an independent news reader and is not affiliated with, endorsed
+**Learnify is an independent news reader and is not affiliated with, endorsed
 by, or sponsored by** TechCrunch, SiliconValley.com, Wired, The Verge, Ars
 Technica, or their owners. All article headlines, summaries, images, content and
 trademarks belong to their respective publishers and are referenced here only
@@ -91,5 +91,5 @@ identify where each item came from.
 **Rights holders:** to request removal of any item, email
 `support@techscroll.app`.
 
-> The name "TechScroll" should be cleared against existing trademarks
+> The name "Learnify" should be cleared against existing trademarks
 > (USPTO / EUIPO / your jurisdiction) before any commercial launch.

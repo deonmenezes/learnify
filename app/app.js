@@ -1,5 +1,6 @@
-/* TechScroll web app — shared client logic.
-   Same Supabase project + auth.users as the iOS app; cloud data in ts_* tables. */
+/* Learnify web app — shared client logic.
+   Same Supabase project + auth.users as the iOS app; cloud data in ts_* tables.
+   Soft-auth: guests browse freely; per-user features no-op or prompt sign-in. */
 (function () {
   const SUPABASE_URL = "https://bzvmrwdutrmouzbokxds.supabase.co";
   const SUPABASE_ANON = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJ6dm1yd2R1dHJtb3V6Ym9reGRzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODAwOTkyMjksImV4cCI6MjA5NTY3NTIyOX0.5kw8SgbuX4hiHGUluf8cvuK-_0zKErPWLf_O5sgRe-0";
@@ -52,12 +53,18 @@
 
   // ---- auth + profile ----
   async function getUser() { const { data } = await sb.auth.getUser(); return data.user || null; }
+  // Soft-auth: never redirects — returns the user or null so pages render for guests.
+  async function getUserOptional() { return await getUser(); }
+  function signInUrl(next) { return "/app/login.html?next=" + encodeURIComponent(next || (location.pathname + location.search)); }
+  // Kept for any page that genuinely needs a gate; de-gated pages use getUserOptional instead.
   async function requireAuth() {
     const u = await getUser();
-    if (!u) { location.href = "/app/login.html?next=" + encodeURIComponent(location.pathname); return null; }
+    if (!u) { location.href = signInUrl(); return null; }
     return u;
   }
   async function loadProfile(u) {
+    if (!u) return { guest: true, xp: 0, streak: 0, longest_streak: 0, total_read: 0, level: 1,
+      display_name: "Guest", avatar_url: null, interests: [] };
     let { data } = await sb.from("ts_profiles").select("*").eq("user_id", u.id).maybeSingle();
     if (!data) {
       const meta = u.user_metadata || {};
@@ -88,9 +95,10 @@
   function articleId(a) { return a.id || a.link || a.url || a.title; }
 
   // ---- saved ----
-  async function savedIds(uid) { const { data } = await sb.from("ts_saved_articles").select("article_id").eq("user_id", uid); return new Set((data || []).map((r) => r.article_id)); }
-  async function savedList(uid) { const { data } = await sb.from("ts_saved_articles").select("*").eq("user_id", uid).order("saved_at", { ascending: false }); return data || []; }
+  async function savedIds(uid) { if (!uid) return new Set(); const { data } = await sb.from("ts_saved_articles").select("article_id").eq("user_id", uid); return new Set((data || []).map((r) => r.article_id)); }
+  async function savedList(uid) { if (!uid) return []; const { data } = await sb.from("ts_saved_articles").select("*").eq("user_id", uid).order("saved_at", { ascending: false }); return data || []; }
   async function toggleSave(uid, a) {
+    if (!uid) { location.href = signInUrl(); return false; } // guests are invited to sign in to save
     const id = articleId(a);
     const ex = await sb.from("ts_saved_articles").select("id").eq("user_id", uid).eq("article_id", id).maybeSingle();
     if (ex.data) { await sb.from("ts_saved_articles").delete().eq("id", ex.data.id); return false; }
@@ -102,6 +110,7 @@
 
   // ---- record a read (XP + streak; mirrors iOS PulseStore floor) ----
   async function recordOpen(uid, a, profile) {
+    if (!uid) return profile; // guests read freely; no XP/streak writes (avoids RLS errors)
     const id = articleId(a);
     // Idempotent: only the FIRST open of an article earns XP (no farming on refresh).
     const already = await sb.from("ts_read_events").select("id").eq("user_id", uid).eq("article_id", id).eq("opened", true).limit(1).maybeSingle();
@@ -130,21 +139,25 @@
     const links = [["Latest", "/app/"], ["AI", "/app/?cat=AI"], ["Startups", "/app/?cat=Startups"],
       ["DevTools", "/app/?cat=DevTools"], ["Research", "/app/?cat=Research"], ["Saved", "/app/saved.html"], ["Learn", "/app/learn.html"]];
     const av = profile && profile.avatar_url;
+    const guest = !profile || profile.guest;
     el.className = "nav";
     el.innerHTML = `<div class="nav-inner">
-      <a class="logo" href="/app/"><span class="ts">TS</span> TechScroll</a>
+      <a class="logo" href="/app/"><span class="ts">L</span> Learnify</a>
       <nav class="nav-links">${links.map(([n, h]) => `<a href="${h}" class="${n === active ? "active" : ""}">${n}</a>`).join("")}</nav>
       <div class="nav-right">
         <a class="nav-search" href="/app/?focus=1"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="11" cy="11" r="7"/><path d="m21 21-4-4"/></svg> Search</a>
-        <span class="streak-pill"><span class="fl">🔥</span> ${(profile && profile.streak) || 0}-Day Streak</span>
-        <span class="nav-user" id="navUser">
-          ${av ? `<img class="avatar" src="${esc(av)}" alt="">` : `<span class="avatar" style="display:grid;place-items:center;font-weight:800;color:#1d4ed8">${esc(((profile && profile.display_name) || "U")[0].toUpperCase())}</span>`}
+        ${guest ? "" : `<span class="streak-pill"><span class="fl">🔥</span> ${profile.streak || 0}-Day Streak</span>`}
+        ${guest
+          ? `<button class="nav-signin" id="navSignin">Sign in</button>`
+          : `<span class="nav-user" id="navUser">
+          ${av ? `<img class="avatar" src="${esc(av)}" alt="">` : `<span class="avatar" style="display:grid;place-items:center;font-weight:800;color:#fff;background:#212126">${esc(((profile && profile.display_name) || "U")[0].toUpperCase())}</span>`}
           <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M6 9l6 6 6-6"/></svg>
-        </span>
+        </span>`}
       </div></div>`;
-    $("#navUser").onclick = async () => { if (confirm("Sign out of TechScroll?")) { await sb.auth.signOut(); location.href = "/app/login.html"; } };
+    if (guest) { const b = $("#navSignin"); if (b) b.onclick = () => location.href = signInUrl(); }
+    else { $("#navUser").onclick = async () => { if (confirm("Sign out of Learnify?")) { await sb.auth.signOut(); location.href = "/app/"; } }; }
   }
 
-  window.TS = { sb, getUser, requireAuth, loadProfile, leaderboard, articles, articleId, savedIds, savedList,
+  window.TS = { sb, getUser, getUserOptional, signInUrl, requireAuth, loadProfile, leaderboard, articles, articleId, savedIds, savedList,
     toggleSave, recordOpen, renderNav, catFor, catMeta, xpFloor, levelForXP, levelTitle, timeAgo, readMins, esc, toast, $ };
 })();

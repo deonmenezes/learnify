@@ -1,8 +1,8 @@
 {
-  "name": "techscroll",
+  "name": "learnify",
   "version": "1.0.0",
   "private": true,
-  "description": "TechScroll — the latest Silicon Valley / SF tech news, browsable by keyword and source. Aggregates public RSS / WordPress feeds and links back to the original publisher.",
+  "description": "Learnify — the latest tech, science & learning, browsable by keyword and source. Making learning addictive.",
   "type": "module",
   "scripts": {
     "scrape": "python3 scrape.py",

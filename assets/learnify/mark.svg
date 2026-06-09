@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Learnify">
+  <defs>
+    <linearGradient id="lf-green" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5BE889"/>
+      <stop offset="1" stop-color="#2FBF5A"/>
+    </linearGradient>
+    <linearGradient id="lf-green-side" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1F9E45"/>
+      <stop offset="1" stop-color="#37C764"/>
+    </linearGradient>
+    <linearGradient id="lf-page" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#D7DBDE"/>
+    </linearGradient>
+    <filter id="lf-glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="0" stdDeviation="1.6" flood-color="#45DB6B" flood-opacity="0.55"/>
+    </filter>
+  </defs>
+  <rect x="1.5" y="1.5" width="61" height="61" rx="15" fill="#0B0B0D"/>
+  <rect x="1.5" y="1.5" width="61" height="61" rx="15" fill="none" stroke="#45DB6B" stroke-opacity="0.45" stroke-width="1.4"/>
+  <g filter="url(#lf-glow)">
+    <!-- white pages fanning right = the base of the L -->
+    <path d="M27 44 L51 38 L51 46 L27 50 Z" fill="url(#lf-page)"/>
+    <path d="M27 44 L51 38 L51 41.5 L27 47 Z" fill="#ffffff" opacity="0.9"/>
+    <path d="M27 47 L48 41.8" stroke="#9aa0a6" stroke-width="0.7" stroke-opacity="0.7"/>
+    <!-- green book spine = the vertical stroke of the L -->
+    <path d="M19 13 L27 11 L27 50 L19 52 Z" fill="url(#lf-green-side)"/>
+    <rect x="19" y="13" width="9.5" height="37" rx="2.4" fill="url(#lf-green)"/>
+    <rect x="21" y="16" width="2" height="31" rx="1" fill="#ffffff" opacity="0.28"/>
+  </g>
+</svg>

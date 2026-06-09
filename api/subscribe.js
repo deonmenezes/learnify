@@ -1,4 +1,4 @@
-// POST /api/subscribe — opt-in marketing capture for TechScroll.
+// POST /api/subscribe — opt-in marketing capture for Learnify.
 //
 // Body (JSON): { email, phone?, optedIn:true, source? }
 // Persists to Upstash/Vercel KV if KV_REST_API_URL + KV_REST_API_TOKEN are set,

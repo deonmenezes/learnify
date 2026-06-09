@@ -1,4 +1,4 @@
-// GET /api/leaderboard — the AI model leaderboard powering the TechScroll app.
+// GET /api/leaderboard — the AI model leaderboard powering the Learnify app.
 //
 // Reads the arena.ai / LMArena community mirror (no auth) and normalizes it to
 // the app's house schema. Reasoning/Agentic/Math have no native arena board, so

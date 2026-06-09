@@ -3,14 +3,431 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>TechScroll — Learn through the latest tech news</title>
-<meta name="description" content="TechScroll — a gamified tech-news learning platform. Save knowledge, build streaks, earn XP." />
-<meta http-equiv="refresh" content="0; url=/app/" />
-<link rel="canonical" href="/app/" />
-<style>html,body{margin:0;height:100%;background:#f6f8fc;font-family:Inter,system-ui,sans-serif;display:grid;place-items:center;color:#64748b}</style>
+<title>Learnify — Turn scroll time into skill time</title>
+<meta name="description" content="Learnify — making learning addictive. The same scroll you love, except every reel actually teaches you something. Free on the App Store." />
+<meta name="theme-color" content="#0B0B0D" />
+<link rel="canonical" href="/" />
+<link rel="icon" href="/assets/learnify/mark.svg" />
+<link rel="apple-touch-icon" href="/assets/learnify/app-icon-1024.png" />
+<!-- Open Graph / Twitter -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Learnify — Turn scroll time into skill time" />
+<meta property="og:description" content="The same scroll you love, except every reel actually teaches you something. Free on the App Store." />
+<meta property="og:image" content="/ugc/learnify/video/poster/montage.jpg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Learnify — Turn scroll time into skill time" />
+<meta name="twitter:description" content="Making learning addictive. Free on the App Store." />
+<meta name="twitter:image" content="/ugc/learnify/video/poster/montage.jpg" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+<style>
+  :root{
+    --bg:#0B0B0D; --surface:#17171A; --elevated:#212126; --line:#2A2A30;
+    --ink:#FFFFFF; --ink60:rgba(255,255,255,.62); --ink50:rgba(255,255,255,.50); --ink40:rgba(255,255,255,.40);
+    --accent:#F7F7FA; --cta:#F7F7FA; --cta-ink:#0D0D0F;
+    --green:#45DB6B; --gold:#E8C24A;
+    --display:'Nunito',system-ui,-apple-system,sans-serif;
+    --body:'Inter',system-ui,-apple-system,'Segoe UI',sans-serif;
+    --max:1140px; --r:16px; --r-lg:22px;
+  }
+  *,*::before,*::after{box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  html,body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--body);line-height:1.55;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+  body{position:relative}
+  a{color:inherit;text-decoration:none}
+  img,video{display:block;max-width:100%}
+  h1,h2,h3,.wm{font-family:var(--display);letter-spacing:-.02em}
+  ::selection{background:rgba(247,247,250,.22)}
+  .wrap{max-width:var(--max);margin:0 auto;padding:0 22px}
+  .eyebrow{display:inline-flex;align-items:center;gap:8px;font-size:12.5px;font-weight:800;letter-spacing:.12em;text-transform:uppercase;color:var(--ink50)}
+  .stars{color:var(--gold);letter-spacing:2px;font-size:14px}
+  .btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;font-family:var(--display);font-weight:800;font-size:15px;cursor:pointer;border-radius:999px;padding:13px 22px;border:1px solid var(--line);background:var(--surface);color:var(--ink);transition:.16s;white-space:nowrap}
+  .btn:hover{border-color:#3a3a42;background:var(--elevated);transform:translateY(-1px)}
+  .btn.primary{background:var(--cta);border-color:var(--cta);color:var(--cta-ink);box-shadow:0 14px 40px -16px rgba(247,247,250,.5)}
+  .btn.primary:hover{background:#fff;transform:translateY(-2px)}
+  .btn .applelogo{width:18px;height:18px;fill:currentColor}
+
+  /* ---------- top bar ---------- */
+  .topbar{position:sticky;top:0;z-index:50;background:rgba(11,11,13,.78);backdrop-filter:saturate(160%) blur(14px);border-bottom:1px solid var(--line)}
+  .topbar .wrap{display:flex;align-items:center;gap:16px;padding-top:13px;padding-bottom:13px}
+  .brand{display:flex;align-items:center;gap:10px;font-family:var(--display);font-weight:900;font-size:20px}
+  .mark{width:34px;height:34px;border-radius:9px;flex:0 0 auto}
+  .topbar nav{margin-left:auto;display:flex;align-items:center;gap:10px}
+  .topbar nav a.link{display:none;color:var(--ink60);font-weight:700;font-size:14.5px;padding:8px 12px;border-radius:10px}
+  .topbar nav a.link:hover{color:#fff;background:var(--elevated)}
+  @media(min-width:840px){.topbar nav a.link{display:inline-flex}}
+
+  /* ---------- hero ---------- */
+  .hero{position:relative;overflow:hidden;padding:62px 0 40px}
+  .hero::before{content:"";position:absolute;left:50%;top:-120px;width:900px;height:620px;transform:translateX(-50%);
+    background:radial-gradient(closest-side,rgba(247,247,250,.10),transparent 70%);pointer-events:none}
+  .hero::after{content:"";position:absolute;left:50%;bottom:-160px;width:700px;height:480px;transform:translateX(-50%);
+    background:radial-gradient(closest-side,rgba(69,219,107,.07),transparent 70%);pointer-events:none}
+  .hero .wrap{position:relative;display:grid;grid-template-columns:1fr;gap:40px;align-items:center}
+  @media(min-width:900px){.hero .wrap{grid-template-columns:1.05fr .95fr;gap:30px}}
+  .hero h1{font-size:clamp(38px,7vw,60px);font-weight:900;line-height:1.02;margin:18px 0 16px}
+  .hero h1 .g{color:var(--green)}
+  .hero .sub{font-size:clamp(16px,2.2vw,19px);color:var(--ink60);max-width:34ch;margin:0 0 26px}
+  .hero .actions{display:flex;flex-wrap:wrap;gap:12px;align-items:center}
+  .trustline{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-top:18px;color:var(--ink60);font-size:13.5px;font-weight:600}
+  .trustline .sep{width:4px;height:4px;border-radius:50%;background:var(--ink40)}
+  .trustline b{color:var(--ink);font-weight:800}
+
+  /* phone mockup */
+  .phone{position:relative;width:min(280px,72vw);margin:0 auto;aspect-ratio:9/19.5;border-radius:42px;
+    background:#000;border:2px solid #2c2c33;box-shadow:0 40px 90px -30px rgba(0,0,0,.85),0 0 0 8px rgba(255,255,255,.02);overflow:hidden}
+  .phone::before{content:"";position:absolute;top:11px;left:50%;transform:translateX(-50%);width:96px;height:7px;border-radius:99px;background:#000;border:1px solid #1c1c22;z-index:3}
+  .phone video,.phone img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;border-radius:40px}
+  .hero-badge{position:absolute;left:50%;bottom:18px;transform:translateX(-50%);z-index:4;display:flex;align-items:center;gap:7px;
+    background:rgba(11,11,13,.7);backdrop-filter:blur(8px);border:1px solid rgba(255,255,255,.14);border-radius:999px;padding:7px 13px;font-size:12px;font-weight:800;color:#fff}
+  .hero-badge .stars{font-size:12px}
+
+  /* ---------- brand strip ---------- */
+  .strip{background:var(--surface);border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+  .strip .wrap{padding:22px 22px;text-align:center;display:flex;flex-direction:column;align-items:center;gap:6px}
+  .strip .wm{font-size:22px;font-weight:900;display:flex;align-items:center;gap:9px}
+  .strip .tag{color:var(--ink50);font-weight:700;font-size:12px;letter-spacing:.22em;text-transform:uppercase}
+
+  /* ---------- generic section ---------- */
+  section.block{padding:64px 0}
+  .head{text-align:center;max-width:640px;margin:0 auto 38px}
+  .head h2{font-size:clamp(26px,4.4vw,38px);font-weight:900;line-height:1.08;margin:10px 0 12px}
+  .head p{color:var(--ink60);font-size:16px;margin:0}
+
+  /* stat bar */
+  .stats{display:grid;grid-template-columns:repeat(2,1fr);gap:14px}
+  @media(min-width:760px){.stats{grid-template-columns:repeat(4,1fr)}}
+  .stat{background:var(--elevated);border:1px solid var(--line);border-radius:var(--r);padding:22px 18px;text-align:center}
+  .stat b{font-family:var(--display);display:block;font-size:30px;font-weight:900;line-height:1}
+  .stat span{display:block;margin-top:7px;color:var(--ink50);font-size:12px;font-weight:700;letter-spacing:.05em;text-transform:uppercase}
+
+  /* ---------- carousel ---------- */
+  .rail{display:flex;gap:18px;overflow-x:auto;scroll-snap-type:x mandatory;padding:6px 22px 22px;-webkit-overflow-scrolling:touch;scrollbar-width:none}
+  .rail::-webkit-scrollbar{display:none}
+  .uc{scroll-snap-align:center;flex:0 0 auto;width:74vw;max-width:248px}
+  @media(min-width:760px){.uc{width:236px}}
+  .uc .frame{position:relative;border-radius:26px;background:#000;border:2px solid #2c2c33;aspect-ratio:9/16;overflow:hidden;box-shadow:0 24px 60px -28px rgba(0,0,0,.8)}
+  .uc video,.uc img.poster{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+  .uc .mute{position:absolute;right:9px;bottom:9px;z-index:3;width:34px;height:34px;border-radius:50%;border:1px solid rgba(255,255,255,.18);
+    background:rgba(0,0,0,.5);backdrop-filter:blur(6px);color:#fff;display:grid;place-items:center;cursor:pointer;padding:0}
+  .uc .mute svg{width:17px;height:17px}
+  .uc .cap{margin-top:12px;color:var(--ink60);font-size:13px;font-weight:700;text-align:center;line-height:1.35;padding:0 4px}
+  .uc.anchor .frame{border-color:rgba(69,219,107,.5);box-shadow:0 24px 60px -26px rgba(69,219,107,.35)}
+  .railwrap{position:relative}
+  .arrow{position:absolute;top:42%;z-index:6;width:44px;height:44px;border-radius:50%;border:1px solid var(--line);background:rgba(23,23,26,.9);color:#fff;cursor:pointer;display:none;place-items:center}
+  .arrow:hover{background:var(--elevated)}
+  .arrow.l{left:6px}.arrow.r{right:6px}
+  @media(min-width:980px){.arrow{display:grid}}
+
+  /* how it works */
+  .steps{display:grid;grid-template-columns:1fr;gap:16px}
+  @media(min-width:760px){.steps{grid-template-columns:repeat(3,1fr)}}
+  .step{background:var(--elevated);border:1px solid var(--line);border-radius:var(--r);padding:26px 22px}
+  .step .n{font-family:var(--display);font-size:40px;font-weight:900;color:rgba(255,255,255,.16);line-height:1}
+  .step h3{font-size:19px;font-weight:900;margin:10px 0 7px}
+  .step p{color:var(--ink60);font-size:14.5px;margin:0}
+
+  /* features */
+  .feat{display:grid;grid-template-columns:1fr;gap:16px}
+  @media(min-width:680px){.feat{grid-template-columns:repeat(2,1fr)}}
+  @media(min-width:980px){.feat{grid-template-columns:repeat(3,1fr)}}
+  .fcard{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:24px 22px}
+  .fcard .ic{width:42px;height:42px;border-radius:12px;background:var(--elevated);border:1px solid var(--line);display:grid;place-items:center;margin-bottom:14px}
+  .fcard .ic svg{width:21px;height:21px;stroke:var(--accent);fill:none;stroke-width:1.8}
+  .fcard h3{font-size:17px;font-weight:900;margin:0 0 6px}
+  .fcard p{color:var(--ink60);font-size:14px;margin:0}
+
+  /* research panel */
+  .panel{background:var(--surface);border:1px solid var(--line);border-radius:var(--r-lg);padding:clamp(28px,5vw,56px);display:grid;grid-template-columns:1fr;gap:22px;align-items:center}
+  @media(min-width:860px){.panel{grid-template-columns:1.1fr .9fr}}
+  .panel h2{font-size:clamp(24px,3.6vw,34px);font-weight:900;margin:10px 0 12px}
+  .panel p{color:var(--ink60);font-size:16px;margin:0 0 16px}
+  .panel .link{color:var(--accent);font-weight:800}
+  .panel .link:hover{text-decoration:underline}
+  .panel .mini{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}
+  .panel .mini div{background:var(--elevated);border:1px solid var(--line);border-radius:14px;padding:16px}
+  .panel .mini b{font-family:var(--display);display:block;font-size:24px;font-weight:900}
+  .panel .mini span{color:var(--ink50);font-size:12px;font-weight:700}
+
+  /* final CTA */
+  .final{position:relative;overflow:hidden;text-align:center;padding:78px 0}
+  .final::before{content:"";position:absolute;left:50%;top:-120px;width:760px;height:520px;transform:translateX(-50%);background:radial-gradient(closest-side,rgba(247,247,250,.09),transparent 70%);pointer-events:none}
+  .final .wrap{position:relative}
+  .final h2{font-size:clamp(30px,5.4vw,48px);font-weight:900;line-height:1.05;margin:12px 0 12px}
+  .final p{color:var(--ink60);font-size:17px;margin:0 0 26px}
+  .final .actions{display:flex;flex-wrap:wrap;gap:12px;justify-content:center}
+
+  /* footer */
+  footer{border-top:1px solid var(--line);background:#0B0B0D;padding:46px 0 40px}
+  footer .wrap{display:grid;grid-template-columns:1fr;gap:30px}
+  @media(min-width:760px){footer .wrap{grid-template-columns:1.4fr 1fr 1fr}}
+  footer .wm{font-family:var(--display);font-weight:900;font-size:20px;display:flex;align-items:center;gap:9px}
+  footer .ft-tag{color:var(--ink50);font-size:13.5px;margin-top:10px;max-width:30ch}
+  footer h4{color:var(--ink50);font-size:11.5px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;margin:0 0 12px}
+  footer a.fl{display:block;color:var(--ink60);font-size:14px;font-weight:600;padding:5px 0}
+  footer a.fl:hover{color:#fff}
+  .copyright{border-top:1px solid var(--line);margin-top:34px;padding-top:20px;color:var(--ink40);font-size:12.5px;text-align:center}
+
+  @media(prefers-reduced-motion:reduce){*{animation-duration:.001ms!important;transition-duration:.001ms!important;scroll-behavior:auto!important}}
+</style>
 </head>
 <body>
-<p>Loading TechScroll… <a href="/app/" style="color:#2563eb">continue →</a></p>
-<script>location.replace("/app/");</script>
+
+<!-- ===== top bar ===== -->
+<header class="topbar">
+  <div class="wrap">
+    <a class="brand" href="/" aria-label="Learnify home">
+      <img class="mark" src="/assets/learnify/mark.svg" alt="" width="34" height="34" />
+      Learnify
+    </a>
+    <nav>
+      <a class="link" href="#carousel">Stories</a>
+      <a class="link" href="#features">Features</a>
+      <a class="link" href="/app/">Open web app</a>
+      <a class="btn primary" href="https://apps.apple.com/us/app/learnify-addictive-learning/id6774788081" target="_blank" rel="noopener">
+        <svg class="applelogo" viewBox="0 0 24 24" aria-hidden="true"><path d="M16.36 1.43c.03 1.02-.36 2.02-1.04 2.76-.7.78-1.85 1.38-2.96 1.29-.13-1 .38-2.05 1.02-2.73.72-.77 1.96-1.34 2.98-1.32zM20.5 17.2c-.55 1.27-.82 1.84-1.53 2.97-.99 1.57-2.39 3.53-4.12 3.54-1.54.02-1.93-1-4.02-.99-2.09.01-2.52 1.01-4.06.99-1.73-.02-3.05-1.78-4.04-3.35C-.02 16.91-.32 11.84 1.4 9.15c1.2-1.89 3.1-3 4.88-3 1.82 0 2.96 1 4.46 1 1.46 0 2.35-1 4.45-1 1.59 0 3.27.86 4.47 2.35-3.93 2.15-3.29 7.76.36 9.7z"/></svg>
+        Download
+      </a>
+    </nav>
+  </div>
+</header>
+
+<!-- ===== hero ===== -->
+<section class="hero">
+  <div class="wrap">
+    <div>
+      <span class="eyebrow"><span class="stars">★★★★★</span> Now on the App Store — Free</span>
+      <h1>Turn scroll time into <span class="g">skill time.</span></h1>
+      <p class="sub">Learnify is the same endless scroll you already love — except every reel actually teaches you something. Coding, money, study, habits. Close the app <b style="color:#fff">smarter</b>.</p>
+      <div class="actions">
+        <a class="btn primary" href="https://apps.apple.com/us/app/learnify-addictive-learning/id6774788081" target="_blank" rel="noopener">
+          <svg class="applelogo" viewBox="0 0 24 24" aria-hidden="true"><path d="M16.36 1.43c.03 1.02-.36 2.02-1.04 2.76-.7.78-1.85 1.38-2.96 1.29-.13-1 .38-2.05 1.02-2.73.72-.77 1.96-1.34 2.98-1.32zM20.5 17.2c-.55 1.27-.82 1.84-1.53 2.97-.99 1.57-2.39 3.53-4.12 3.54-1.54.02-1.93-1-4.02-.99-2.09.01-2.52 1.01-4.06.99-1.73-.02-3.05-1.78-4.04-3.35C-.02 16.91-.32 11.84 1.4 9.15c1.2-1.89 3.1-3 4.88-3 1.82 0 2.96 1 4.46 1 1.46 0 2.35-1 4.45-1 1.59 0 3.27.86 4.47 2.35-3.93 2.15-3.29 7.76.36 9.7z"/></svg>
+          Download Now
+        </a>
+        <a class="btn" href="/app/">Browse on web →</a>
+      </div>
+      <div class="trustline">
+        <span class="stars">★★★★★</span> <b>5.0</b>
+        <span class="sep"></span> <b>Free</b> to start
+        <span class="sep"></span> No account required
+      </div>
+    </div>
+    <div>
+      <div class="phone">
+        <img src="/ugc/learnify/video/poster/montage.jpg" alt="" id="heroPoster" />
+        <video id="heroVideo" muted loop playsinline webkit-playsinline preload="none" poster="/ugc/learnify/video/poster/montage.jpg" aria-label="Learnify app preview">
+          <source src="/ugc/learnify/video/montage.mp4" type="video/mp4" />
+        </video>
+        <span class="hero-badge"><span class="stars">★★★★★</span> Loved worldwide</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== brand strip ===== -->
+<div class="strip">
+  <div class="wrap">
+    <div class="wm"><img class="mark" src="/assets/learnify/mark.svg" alt="" width="28" height="28" style="width:28px;height:28px"> Learnify</div>
+    <div class="tag">Dark by design. Clear by choice.</div>
+  </div>
+</div>
+
+<!-- ===== stat bar ===== -->
+<section class="block" style="padding-bottom:18px">
+  <div class="wrap">
+    <div class="stats">
+      <div class="stat"><b style="color:var(--gold)">5.0★</b><span>App Store rating</span></div>
+      <div class="stat"><b>Free</b><span>to start</span></div>
+      <div class="stat"><b>0</b><span>account needed</span></div>
+      <div class="stat"><b>700+</b><span>lessons &amp; sources daily</span></div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== UGC carousel ===== -->
+<section class="block" id="carousel">
+  <div class="head">
+    <span class="eyebrow">Real people, real scrolls</span>
+    <h2>Trusted by people around the globe</h2>
+    <p>Same endless scroll. Except every reel actually teaches you something.</p>
+  </div>
+  <div class="railwrap">
+    <button class="arrow l" id="railL" aria-label="Scroll left">‹</button>
+    <button class="arrow r" id="railR" aria-label="Scroll right">›</button>
+    <div class="rail" id="rail"></div>
+  </div>
+</section>
+
+<!-- ===== how it works ===== -->
+<section class="block" style="padding-top:18px">
+  <div class="wrap">
+    <div class="head">
+      <span class="eyebrow">How it works</span>
+      <h2>Three taps to a smarter scroll</h2>
+    </div>
+    <div class="steps">
+      <div class="step"><div class="n">1</div><h3>Swap the brainrot</h3><p>Put Learnify where your worst app used to be.</p></div>
+      <div class="step"><div class="n">2</div><h3>Scroll like always</h3><p>Same feed, same dopamine — except every reel teaches you something.</p></div>
+      <div class="step"><div class="n">3</div><h3>Close the app smarter</h3><p>Build streaks, earn XP, and actually remember it.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== features ===== -->
+<section class="block" id="features" style="padding-top:18px">
+  <div class="wrap">
+    <div class="head">
+      <span class="eyebrow">What's inside</span>
+      <h2>Everything you scroll, now teaches you.</h2>
+    </div>
+    <div class="feat">
+      <div class="fcard"><div class="ic"><svg viewBox="0 0 24 24"><path d="M4 5h16M4 12h16M4 19h10"/></svg></div><h3>An addictive learning feed</h3><p>Vertical, bite-sized lessons across AI, tech, science, money &amp; study.</p></div>
+      <div class="fcard"><div class="ic"><svg viewBox="0 0 24 24"><path d="M12 3v18M5 8l7-5 7 5"/><circle cx="12" cy="14" r="3"/></svg></div><h3>AI summaries</h3><p>Every story distilled into a quick, clear read — seconds, not hours.</p></div>
+      <div class="fcard"><div class="ic"><svg viewBox="0 0 24 24"><path d="M6 4h9l3 3v13H6z"/><path d="M9 9h6M9 13h6"/></svg></div><h3>Real research papers</h3><p>arXiv &amp; OpenAlex, summarized and sorted by topic.</p></div>
+      <div class="fcard"><div class="ic"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="8"/><path d="M12 8v4l3 2"/></svg></div><h3>Focus mode</h3><p>Calm music while you read, so the lesson actually lands.</p></div>
+      <div class="fcard"><div class="ic"><svg viewBox="0 0 24 24"><path d="M13 2 5 14h6l-1 8 8-12h-6z"/></svg></div><h3>Streaks, XP &amp; daily goals</h3><p>Tiny wins that make learning stick — day after day.</p></div>
+      <div class="fcard"><div class="ic"><svg viewBox="0 0 24 24"><path d="M6 3h12v18l-6-4-6 4z"/></svg></div><h3>Save to read later</h3><p>Your own Brain Bank — keep any lesson or paper for later.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== research panel ===== -->
+<section class="block" style="padding-top:18px">
+  <div class="wrap">
+    <div class="panel">
+      <div>
+        <span class="eyebrow">Built on real signal, not noise</span>
+        <h2>Substance, summarized.</h2>
+        <p>Learnify pulls from 700+ continuously-updated lessons and sources every day, then AI distills each into seconds — so you learn the real thing, fast.</p>
+        <a class="link" href="/app/">Browse the live feed →</a>
+      </div>
+      <div class="mini">
+        <div><b>700+</b><span>fresh items / day</span></div>
+        <div><b>22</b><span>trusted sources</span></div>
+        <div><b>arXiv</b><span>+ OpenAlex papers</span></div>
+        <div><b>AI</b><span>summaries on every story</span></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== final CTA ===== -->
+<section class="final">
+  <div class="wrap">
+    <span class="eyebrow"><span class="stars">★★★★★</span> 5.0 on the App Store</span>
+    <h2>Start scrolling smarter today.</h2>
+    <p>Free. No account required to start.</p>
+    <div class="actions">
+      <a class="btn primary" href="https://apps.apple.com/us/app/learnify-addictive-learning/id6774788081" target="_blank" rel="noopener">
+        <svg class="applelogo" viewBox="0 0 24 24" aria-hidden="true"><path d="M16.36 1.43c.03 1.02-.36 2.02-1.04 2.76-.7.78-1.85 1.38-2.96 1.29-.13-1 .38-2.05 1.02-2.73.72-.77 1.96-1.34 2.98-1.32zM20.5 17.2c-.55 1.27-.82 1.84-1.53 2.97-.99 1.57-2.39 3.53-4.12 3.54-1.54.02-1.93-1-4.02-.99-2.09.01-2.52 1.01-4.06.99-1.73-.02-3.05-1.78-4.04-3.35C-.02 16.91-.32 11.84 1.4 9.15c1.2-1.89 3.1-3 4.88-3 1.82 0 2.96 1 4.46 1 1.46 0 2.35-1 4.45-1 1.59 0 3.27.86 4.47 2.35-3.93 2.15-3.29 7.76.36 9.7z"/></svg>
+        Download Now
+      </a>
+      <a class="btn" href="/app/">Open the web app →</a>
+    </div>
+  </div>
+</section>
+
+<!-- ===== footer ===== -->
+<footer>
+  <div class="wrap">
+    <div>
+      <div class="wm"><img class="mark" src="/assets/learnify/mark.svg" alt="" width="28" height="28" style="width:28px;height:28px"> Learnify</div>
+      <p class="ft-tag">Making learning addictive. The same scroll you love, except every reel teaches you something.</p>
+    </div>
+    <div>
+      <h4>Product</h4>
+      <a class="fl" href="https://apps.apple.com/us/app/learnify-addictive-learning/id6774788081" target="_blank" rel="noopener">Download on the App Store</a>
+      <a class="fl" href="/app/">Open web app</a>
+      <a class="fl" href="/feed.html">Browse the feed</a>
+    </div>
+    <div>
+      <h4>Company</h4>
+      <a class="fl" href="/privacy.html">Privacy Policy</a>
+      <a class="fl" href="/support.html">Support</a>
+      <a class="fl" href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/" target="_blank" rel="noopener">Terms of Use (EULA)</a>
+    </div>
+  </div>
+  <div class="wrap"><div class="copyright">© 2026 Learnify · Making learning addictive. Independent news &amp; learning reader.</div></div>
+</footer>
+
+<script>
+(function(){
+  var reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  // ---- captions for the carousel (montage anchor first, then c1..c10) ----
+  var clips = [
+    {id:'montage', cap:'Trusted around the globe'},
+    {id:'c1', cap:'India — exam prep & revision on her FYP'},
+    {id:'c2', cap:'USA — learning to code (Python & JS)'},
+    {id:'c3', cap:'South Korea — study techniques that stick'},
+    {id:'c4', cap:'UK — discipline, focus & Stoicism'},
+    {id:'c5', cap:'Mexico — time management & money psychology'},
+    {id:'c6', cap:'UAE — mindset shifts & digital marketing'},
+    {id:'c7', cap:'USA — confidence & better habits'},
+    {id:'c8', cap:'Singapore — finance & the power of compounding'},
+    {id:'c9', cap:'Australia — financial freedom & 5AM habits'},
+    {id:'c10', cap:'Brazil — active recall & economics'}
+  ];
+  var V='/ugc/learnify/video/', P='/ugc/learnify/video/poster/';
+  var rail = document.getElementById('rail');
+  var SPK_ON = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M11 5 6 9H2v6h4l5 4z"/><path d="M19 5a14 14 0 0 1 0 14M15.5 8.5a7 7 0 0 1 0 7"/></svg>';
+  var SPK_OFF = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M11 5 6 9H2v6h4l5 4z"/><path d="m23 9-6 6M17 9l6 6"/></svg>';
+
+  clips.forEach(function(c){
+    var card = document.createElement('div');
+    card.className = 'uc' + (c.id==='montage' ? ' anchor' : '');
+    card.innerHTML =
+      '<div class="frame">' +
+        '<video muted loop playsinline webkit-playsinline preload="none" poster="'+P+c.id+'.jpg" aria-label="Learnify creator — '+c.cap.replace(/"/g,'')+'">' +
+          '<source src="'+V+c.id+'.mp4" type="video/mp4"></video>' +
+        '<button class="mute" aria-label="Unmute this video" aria-pressed="false">'+SPK_OFF+'</button>' +
+      '</div>' +
+      '<div class="cap">'+c.cap+'</div>';
+    rail.appendChild(card);
+
+    var video = card.querySelector('video');
+    var btn = card.querySelector('.mute');
+    btn.addEventListener('click', function(e){
+      e.preventDefault();
+      var willUnmute = video.muted;
+      if(willUnmute){
+        // mute every other clip first
+        document.querySelectorAll('#rail video').forEach(function(v){ if(v!==video){ v.muted=true; }});
+        document.querySelectorAll('#rail .mute').forEach(function(b){ if(b!==btn){ b.innerHTML=SPK_OFF; b.setAttribute('aria-pressed','false'); }});
+      }
+      video.muted = !willUnmute;
+      try{ video.play(); }catch(_){}
+      btn.innerHTML = video.muted ? SPK_OFF : SPK_ON;
+      btn.setAttribute('aria-pressed', video.muted ? 'false':'true');
+    });
+  });
+
+  // ---- play only the in-view cards (battery/bandwidth friendly) ----
+  if(!reduce && 'IntersectionObserver' in window){
+    var io = new IntersectionObserver(function(entries){
+      entries.forEach(function(en){
+        var v = en.target;
+        if(en.isIntersecting && en.intersectionRatio > 0.45){ var p=v.play(); if(p&&p.catch)p.catch(function(){}); }
+        else { v.pause(); }
+      });
+    }, {threshold:[0,.45,.75]});
+    document.querySelectorAll('#rail video').forEach(function(v){ io.observe(v); });
+
+    // hero video
+    var hero = document.getElementById('heroVideo');
+    if(hero){
+      var hio = new IntersectionObserver(function(es){ es.forEach(function(en){ if(en.isIntersecting){ var p=en.target.play(); if(p&&p.catch)p.catch(function(){}); } else en.target.pause(); }); }, {threshold:.25});
+      hio.observe(hero);
+    }
+  }
+
+  // ---- arrow controls ----
+  function scrollByCard(dir){ var card = rail.querySelector('.uc'); var w = card ? card.offsetWidth + 18 : 260; rail.scrollBy({left: dir*w*1.2, behavior:'smooth'}); }
+  var L=document.getElementById('railL'), R=document.getElementById('railR');
+  if(L) L.addEventListener('click', function(){ scrollByCard(-1); });
+  if(R) R.addEventListener('click', function(){ scrollByCard(1); });
+})();
+</script>
 </body>
 </html>

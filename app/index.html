@@ -3,10 +3,10 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>TechScroll — Today in Tech, Explained Clearly</title>
-<meta name="theme-color" content="#2563eb" />
+<title>Learnify — Today in Tech, Explained Clearly</title>
+<meta name="theme-color" content="#0B0B0D" />
 <link rel="preconnect" href="https://fonts.googleapis.com" />
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
 <link rel="stylesheet" href="/app/app.css" />
 </head>
 <body>
@@ -19,14 +19,14 @@
       <div style="display:grid;grid-template-columns:1.1fr 1fr;gap:24px;align-items:center" class="hero-grid">
         <div>
           <span class="day"><b>📅</b> <span id="today">Today</span> <span style="color:var(--green)">●</span> <span class="muted" id="updated">live</span></span>
-          <h1>Today in Tech,<br>Explained <span class="u">Clearly</span></h1>
-          <p>Cut through the noise. The most important tech news, deep dives, and insights — curated and explained in <b style="color:var(--blue)">5 minutes</b> a day.</p>
+          <h1>Today in Tech,<br>Explained <span class="u" style="color:#F7F7FA">Clearly</span></h1>
+          <p>Cut through the noise. The most important tech news, deep dives, and insights — curated and explained in <b style="color:#F7F7FA">5 minutes</b> a day.</p>
           <div class="actions">
             <button class="btn primary" id="brief">Start Today's Briefing ▸</button>
             <a class="btn" href="/app/?cat=AI">Explore AI News ›</a>
           </div>
         </div>
-        <a id="topStory" class="story" style="background:#0b1220;color:#fff;border:none" href="#"></a>
+        <a id="topStory" class="story" style="background:#17171A;color:#fff;border:none" href="#"></a>
       </div>
     </section>
 
@@ -56,7 +56,7 @@
       <div style="display:grid;place-items:center"><div class="ring" id="ring"><div class="v"><b id="ringV">0%</b><span>keep going</span></div></div></div>
       <div style="display:flex;justify-content:space-between;align-items:center;margin-top:14px;font-size:13px">
         <span><b id="goalReads">0</b> <span class="muted">/ 5 articles today</span></span>
-        <span class="pill" style="background:var(--green-bg);color:var(--green)" id="lvlPill">LVL 1</span>
+        <span class="pill" style="background:rgba(69,219,107,0.15);color:#45DB6B" id="lvlPill">LVL 1</span>
       </div>
     </div>
 
@@ -93,7 +93,7 @@
 <script>
 (async () => {
   const T = window.TS, { esc } = T;
-  const u = await T.requireAuth(); if (!u) return;
+  const u = await T.getUserOptional();
   const profile = await T.loadProfile(u);
   T.renderNav("Latest", profile);
 
@@ -110,17 +110,19 @@
   T.$("#sRead").textContent = profile.total_read || 0;
   T.$("#lvlPill").textContent = "LVL " + lv;
 
-  // weekly bars + today's reads (from ts_read_events)
-  const since = new Date(); since.setDate(since.getDate() - 6); since.setHours(0,0,0,0);
-  const { data: reads } = await T.sb.from("ts_read_events").select("created_at,opened").eq("user_id", u.id).gte("created_at", since.toISOString());
-  const days = ["Mon","Tue","Wed","Thu","Fri","Sat","Sun"]; const perDay = [0,0,0,0,0,0,0];
-  const todayStr = new Date().toISOString().slice(0,10); let todayReads = 0; let weekXP = 0;
-  (reads||[]).forEach(r => { const d=new Date(r.created_at); let idx=(d.getDay()+6)%7; perDay[idx]+= (r.opened?8:2); weekXP+=(r.opened?8:2); if(r.created_at.slice(0,10)===todayStr && r.opened) todayReads++; });
-  const maxd = Math.max(10, ...perDay);
-  T.$("#bars").innerHTML = days.map((d,i)=>`<div class="b ${perDay[i]===Math.max(...perDay)&&perDay[i]>0?'on':''}"><i style="height:${Math.round(perDay[i]/maxd*100)}%"></i><span>${d}</span></div>`).join("");
-  T.$("#weekXP").textContent = weekXP + " XP";
-  const goalPct = Math.min(100, Math.round(todayReads/5*100));
-  T.$("#ring").style.setProperty("--p", goalPct); T.$("#ringV").textContent = goalPct + "%"; T.$("#goalReads").textContent = todayReads;
+  // weekly bars + today's reads (from ts_read_events) — signed-in users only
+  if (u) {
+    const since = new Date(); since.setDate(since.getDate() - 6); since.setHours(0,0,0,0);
+    const { data: reads } = await T.sb.from("ts_read_events").select("created_at,opened").eq("user_id", u.id).gte("created_at", since.toISOString());
+    const days = ["Mon","Tue","Wed","Thu","Fri","Sat","Sun"]; const perDay = [0,0,0,0,0,0,0];
+    const todayStr = new Date().toISOString().slice(0,10); let todayReads = 0; let weekXP = 0;
+    (reads||[]).forEach(r => { const d=new Date(r.created_at); let idx=(d.getDay()+6)%7; perDay[idx]+= (r.opened?8:2); weekXP+=(r.opened?8:2); if(r.created_at.slice(0,10)===todayStr && r.opened) todayReads++; });
+    const maxd = Math.max(10, ...perDay);
+    T.$("#bars").innerHTML = days.map((d,i)=>`<div class="b ${perDay[i]===Math.max(...perDay)&&perDay[i]>0?'on':''}"><i style="height:${Math.round(perDay[i]/maxd*100)}%"></i><span>${d}</span></div>`).join("");
+    T.$("#weekXP").textContent = weekXP + " XP";
+    const goalPct = Math.min(100, Math.round(todayReads/5*100));
+    T.$("#ring").style.setProperty("--p", goalPct); T.$("#ringV").textContent = goalPct + "%"; T.$("#goalReads").textContent = todayReads;
+  }
 
   // ----- leaderboard (REAL) -----
   const lb = await T.leaderboard(5);
@@ -139,7 +141,7 @@
     const el = T.$("#topStory");
     el.href = "/app/article.html?id=" + encodeURIComponent(T.articleId(top));
     el.innerHTML = `<div class="thumb-wrap"><img class="thumb" src="${esc(top.media_url||'')}" onerror="this.style.display='none'"><span class="cat" style="background:${c.color};position:absolute;top:12px;left:12px">⭐ Top Story</span></div>
-      <div class="s-body" style="background:#0b1220"><h3 style="color:#fff;font-size:18px">${esc(top.title)}</h3>
+      <div class="s-body" style="background:#212126"><h3 style="color:#fff;font-size:18px">${esc(top.title)}</h3>
       <p style="color:#cbd5e1">${esc((top.ai_summary||top.summary||'').slice(0,120))}</p>
       <div class="meta" style="color:#94a3b8">${T.readMins(top)} min read <span class="dot"></span> ${c.short} <span class="xp" style="margin-left:auto">+50 XP</span></div></div>`;
   }
@@ -157,7 +159,7 @@
   const catFilter = params.get("cat");
   if (catFilter) { const full = window.TS.catFor; pool = arts.filter(a => T.catMeta(T.catFor(a)).short.toLowerCase() === catFilter.toLowerCase()); }
   T.$("#topStories").innerHTML = pool.slice(catFilter?0:1, catFilter?8:9).map((a,i)=>storyCard(a,i)).join("");
-  T.$("#reels").innerHTML = pool.slice(9,13).map((a,i)=>`<a class="story" href="/app/article.html?id=${encodeURIComponent(T.articleId(a))}" style="background:#0b1220">
+  T.$("#reels").innerHTML = pool.slice(9,13).map((a,i)=>`<a class="story" href="/app/article.html?id=${encodeURIComponent(T.articleId(a))}" style="background:#17171A">
     <div class="thumb-wrap"><img class="thumb" loading="lazy" src="${esc((a.media_url&&a.media_kind!=='poster')?a.media_url:'')}" onerror="this.remove()" style="aspect-ratio:9/12">
     <span class="cat" style="background:${T.catMeta(T.catFor(a)).color}">${T.catMeta(T.catFor(a)).short}</span>
     <span style="position:absolute;left:0;right:0;bottom:0;padding:10px;background:linear-gradient(transparent,#000);color:#fff;font-size:12.5px;font-weight:700;line-height:1.3">${esc(a.title.slice(0,60))}</span></div></a>`).join("");
@@ -167,12 +169,12 @@
     <div class="meta">📈 ${T.readMins(a)+6} min <span class="xp" style="margin-left:auto">+${25} XP</span></div></div></a>`).join("");
 
   // save buttons
-  const saved = await T.savedIds(u.id);
+  const saved = await T.savedIds(u?.id);
   document.querySelectorAll(".save").forEach(b => { if (saved.has(b.dataset.id)) b.classList.add("on"); });
   document.querySelectorAll(".save").forEach(b => b.onclick = async (e) => {
     e.preventDefault(); e.stopPropagation();
     const a = pool[parseInt(b.dataset.i) + (catFilter?0:1)] || pool.find(x=>T.articleId(x)===b.dataset.id);
-    const on = await T.toggleSave(u.id, a); b.classList.toggle("on", on); T.toast(on ? "Saved to your Brain Bank ✓" : "Removed");
+    const on = await T.toggleSave(u?.id, a); b.classList.toggle("on", on); T.toast(on ? "Saved to your Brain Bank ✓" : "Removed");
   });
 
   T.$("#brief") && (T.$("#brief").onclick = () => { if (top) location.href = "/app/article.html?id=" + encodeURIComponent(T.articleId(top)); });

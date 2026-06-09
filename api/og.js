@@ -29,7 +29,7 @@ function accentFor(source, override) {
   if (override && /^#[0-9a-fA-F]{6}$/.test(override)) return override;
   const key = (source || "").toLowerCase().trim();
   if (PALETTE[key]) return PALETTE[key];
-  return `hsl(${hashHue(key || "techscroll")} 85% 62%)`;
+  return `hsl(${hashHue(key || "learnify")} 85% 62%)`;
 }
 function xml(s) {
   return String(s || "")
@@ -66,9 +66,9 @@ function poster({ title, source, accent, kind }) {
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img" aria-label="${xml(title)}">
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="${ac}" stop-opacity="0.95"/>
-      <stop offset="0.55" stop-color="#0b1018"/>
-      <stop offset="1" stop-color="#070a0e"/>
+      <stop offset="0" stop-color="#0B0B0D" stop-opacity="1"/>
+      <stop offset="0.55" stop-color="#0B0B0D"/>
+      <stop offset="1" stop-color="#0B0B0D"/>
     </linearGradient>
     <radialGradient id="glow" cx="0.82" cy="0.12" r="0.9">
       <stop offset="0" stop-color="${ac}" stop-opacity="0.45"/>
@@ -82,14 +82,14 @@ function poster({ title, source, accent, kind }) {
   <rect width="${W}" height="${H}" fill="url(#g)"/>
   <rect width="${W}" height="${H}" fill="url(#glow)"/>
   <text x="${W - 40}" y="${H + 70}" text-anchor="end" font-family="Inter, system-ui, sans-serif"
-        font-size="540" font-weight="800" fill="#ffffff" fill-opacity="0.06">${initial}</text>
+        font-size="540" font-weight="800" fill="#F7F7FA" fill-opacity="0.05">${initial}</text>
   <rect width="${W}" height="${H}" fill="url(#scrim)"/>
   <g font-family="Inter, system-ui, -apple-system, sans-serif">
-    <text x="72" y="86" font-size="26" font-weight="700" letter-spacing="0.5" fill="#ffffff" fill-opacity="0.92">
-      <tspan fill="${ac}">/</tspan> TechScroll
+    <text x="72" y="86" font-size="26" font-weight="700" letter-spacing="0.5" fill="#F7F7FA" fill-opacity="0.92">
+      <tspan fill="#45DB6B">L</tspan> Learnify
     </text>
-    <text x="72" y="120" font-size="22" font-weight="600" fill="#ffffff" fill-opacity="0.7">${xml(source || "")}${kind ? `  ·  ${xml(kind)}` : ""}</text>
-    <text x="72" y="${startY}" font-size="56" font-weight="800" fill="#ffffff" letter-spacing="-0.5">${headline}</text>
+    <text x="72" y="120" font-size="22" font-weight="600" fill="#F7F7FA" fill-opacity="0.7">${xml(source || "")}${kind ? `  ·  ${xml(kind)}` : ""}</text>
+    <text x="72" y="${startY}" font-size="56" font-weight="800" fill="#F7F7FA" letter-spacing="-0.5">${headline}</text>
   </g>
 </svg>`;
 }

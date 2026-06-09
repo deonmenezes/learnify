@@ -3,20 +3,22 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>TechScroll — Your Brain Bank</title>
-<meta name="theme-color" content="#2563eb" />
+<title>Learnify — Your Brain Bank</title>
+<meta name="theme-color" content="#0B0B0D" />
+<link rel="icon" href="/assets/learnify/mark.svg" />
+<link rel="apple-touch-icon" href="/assets/learnify/app-icon-1024.png" />
 <link rel="preconnect" href="https://fonts.googleapis.com" />
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@700;800;900&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
 <link rel="stylesheet" href="/app/app.css" />
 <style>
   .bb-head{padding:28px 0 6px}
-  .bb-head .kick{color:var(--blue);font-weight:800;font-size:12.5px;letter-spacing:.6px;text-transform:uppercase}
-  .bb-head h1{font-size:34px;font-weight:800;letter-spacing:-1px;line-height:1.08;margin:8px 0 8px}
+  .bb-head .kick{color:var(--accent);font-weight:800;font-size:12.5px;letter-spacing:.6px;text-transform:uppercase}
+  .bb-head h1{font-size:34px;font-weight:900;font-family:'Nunito',system-ui,sans-serif;letter-spacing:-1px;line-height:1.08;margin:8px 0 8px}
   .bb-head p{color:var(--ink-3);font-size:15px;margin:0;max-width:34ch}
   .ov-row{display:flex;justify-content:space-between;padding:9px 0;border-bottom:1px solid var(--line-2);font-size:13.5px}
   .ov-row:last-child{border:none}.ov-row b{font-weight:800}
   .qa a{display:flex;align-items:center;gap:11px;padding:8px 4px;font-size:14px;font-weight:600;color:var(--ink-2);cursor:pointer}
-  .qa a:hover{color:var(--blue)}
+  .qa a:hover{color:var(--accent)}
   .fc{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:16px;box-shadow:var(--sh-sm)}
   .fc .q{font-size:14px;font-weight:700;margin-bottom:10px;line-height:1.35}
   .fc .a{font-size:13px;color:var(--ink-3);line-height:1.5;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
@@ -25,6 +27,11 @@
   .badge-card .hex{width:48px;height:48px;margin:0 auto 8px;display:grid;place-items:center;color:#fff;font-size:20px;clip-path:polygon(50% 0,93% 25%,93% 75%,50% 100%,7% 75%,7% 25%)}
   .badge-card b{font-size:12.5px;display:block}.badge-card span{font-size:10.5px;color:var(--ink-4)}
   .badge-card .earned{color:var(--green);font-size:11px;font-weight:700;margin-top:5px}
+  /* guest empty state */
+  .guest-empty{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:16px;padding:48px 24px;text-align:center;grid-column:1/-1}
+  .guest-empty p{color:var(--ink-3);font-size:15px;max-width:30ch;line-height:1.5;margin:0}
+  .guest-empty .btn-primary{display:inline-block;background:#F7F7FA;color:#0D0D0F;font-weight:800;font-size:14.5px;padding:11px 28px;border-radius:999px;text-decoration:none;letter-spacing:.01em}
+  .guest-empty .btn-primary:hover{opacity:.88}
 </style>
 </head>
 <body>
@@ -95,7 +102,7 @@
       <div class="stat3" style="margin-top:14px;border-top:1px solid var(--line-2);padding-top:12px">
         <div><b id="sStreak" style="color:var(--flame)">0</b><span>🔥 Streak</span></div>
         <div><b id="sXP" style="color:var(--amber)">0</b><span>⭐ Total XP</span></div>
-        <div><b id="sRead" style="color:var(--blue)">0</b><span>📖 Read</span></div>
+        <div><b id="sRead" style="color:var(--accent)">0</b><span>📖 Read</span></div>
       </div>
     </div>
     <div class="card pad">
@@ -114,7 +121,7 @@
 <script>
 (async () => {
   const T = window.TS, esc = T.esc;
-  const u = await T.requireAuth(); if (!u) return;
+  const u = await T.getUserOptional();
   const profile = await T.loadProfile(u);
   T.renderNav("Saved", profile);
 
@@ -128,58 +135,78 @@
   // leaderboard
   const lb = await T.leaderboard(5);
   T.$("#leaderboard").innerHTML = lb.map((r,i)=>`<div class="lb-row"><span class="lb-rank ${i<3?'g'+(i+1):''}">${i+1}</span>
-    <span class="lb-av" style="display:grid;place-items:center;font-weight:800;color:#1d4ed8;font-size:12px">${esc((r.display_name||'U')[0].toUpperCase())}</span>
+    <span class="lb-av" style="display:grid;place-items:center;font-weight:800;color:var(--accent);font-size:12px">${esc((r.display_name||'U')[0].toUpperCase())}</span>
     <span class="lb-name">${esc(r.display_name||'Reader')}</span>
     <span class="lb-xp"><span class="st">🔥 ${r.streak||0}</span> ${(r.xp||0).toLocaleString()} XP</span></div>`).join("");
 
   // saved articles
-  const saved = await T.savedList(u.id);
-  T.$("#nSaved").textContent = saved.length; T.$("#savedCount").textContent = saved.length; T.$("#ovTotal").textContent = saved.length;
-  T.$("#ovRead").textContent = profile.total_read||0;
-  if (saved.length) {
-    T.$("#savedGrid").innerHTML = saved.slice(0,6).map(s=>{
-      const col = T.catMeta(s.category||"").color, sh = T.catMeta(s.category||"").short;
-      return `<a class="story" href="${esc(s.url||'#')}" target="_blank" rel="noopener">
-        <div class="thumb-wrap">${s.image_url?`<img class="thumb" src="${esc(s.image_url)}" onerror="this.remove()">`:`<div class="thumb"></div>`}<span class="cat" style="background:${col}">${sh}</span></div>
-        <div class="s-body"><h3>${esc(s.title||'')}</h3><p>${esc(s.summary||'')}</p><div class="meta">${esc(s.source||'')}<span class="xp" style="margin-left:auto">saved</span></div></div></a>`;
-    }).join("");
+  if (!u) {
+    // guest: show sign-in prompt in place of the saved grid
+    T.$("#savedGrid").innerHTML = `<div class="guest-empty">
+      <p>Sign in to start your Brain Bank — save any lesson to read later.</p>
+      <a class="btn-primary" href="${T.signInUrl()}">Sign in to save articles</a>
+    </div>`;
+    // leave counts at 0, show empty flashcards and neutral states below
+    T.$("#flashGrid").innerHTML = `<div class="card pad" style="grid-column:1/-1;text-align:center;color:var(--ink-3)">🗂 No flashcards yet — sign in and create one to start reviewing.</div>`;
   } else {
-    T.$("#savedGrid").innerHTML = `<div class="card pad" style="grid-column:1/-1;text-align:center;color:var(--ink-3)">📭 No saved articles yet. <a href="/app/" style="color:var(--blue);font-weight:700">Browse the latest</a> and tap the bookmark to fill your Brain Bank.</div>`;
-  }
+    const saved = await T.savedList(u.id);
+    T.$("#nSaved").textContent = saved.length; T.$("#savedCount").textContent = saved.length; T.$("#ovTotal").textContent = saved.length;
+    T.$("#ovRead").textContent = profile.total_read||0;
+    if (saved.length) {
+      T.$("#savedGrid").innerHTML = saved.slice(0,6).map(s=>{
+        const col = T.catMeta(s.category||"").color, sh = T.catMeta(s.category||"").short;
+        return `<a class="story" href="${esc(s.url||'#')}" target="_blank" rel="noopener">
+          <div class="thumb-wrap">${s.image_url?`<img class="thumb" src="${esc(s.image_url)}" onerror="this.remove()">`:`<div class="thumb"></div>`}<span class="cat" style="background:${col}">${sh}</span></div>
+          <div class="s-body"><h3>${esc(s.title||'')}</h3><p>${esc(s.summary||'')}</p><div class="meta">${esc(s.source||'')}<span class="xp" style="margin-left:auto">saved</span></div></div></a>`;
+      }).join("");
+    } else {
+      T.$("#savedGrid").innerHTML = `<div class="card pad" style="grid-column:1/-1;text-align:center;color:var(--ink-3)">📭 No saved articles yet. <a href="/app/" style="color:var(--accent);font-weight:700">Browse the latest</a> and tap the bookmark to fill your Brain Bank.</div>`;
+    }
 
-  // flashcards
-  const { data: flash } = await T.sb.from("ts_flashcards").select("*").eq("user_id",u.id).order("created_at",{ascending:false});
-  T.$("#nFlash").textContent=(flash||[]).length; T.$("#flashCount").textContent=(flash||[]).length;
-  if ((flash||[]).length) {
-    T.$("#flashGrid").innerHTML = flash.slice(0,4).map(f=>`<div class="fc"><div class="q">${esc(f.question)}</div><div class="a">${esc(f.answer||'')}</div><div class="t"><span class="cat" style="background:${T.catMeta(f.topic||'').color}">${T.catMeta(f.topic||'').short||'Note'}</span></div></div>`).join("");
-  } else {
-    T.$("#flashGrid").innerHTML = `<div class="card pad" style="grid-column:1/-1;text-align:center;color:var(--ink-3)">🗂 No flashcards yet — create one to start reviewing.</div>`;
+    // flashcards (user only)
+    const { data: flash } = await T.sb.from("ts_flashcards").select("*").eq("user_id",u.id).order("created_at",{ascending:false});
+    T.$("#nFlash").textContent=(flash||[]).length; T.$("#flashCount").textContent=(flash||[]).length;
+    if ((flash||[]).length) {
+      T.$("#flashGrid").innerHTML = flash.slice(0,4).map(f=>`<div class="fc"><div class="q">${esc(f.question)}</div><div class="a">${esc(f.answer||'')}</div><div class="t"><span class="cat" style="background:${T.catMeta(f.topic||'').color}">${T.catMeta(f.topic||'').short||'Note'}</span></div></div>`).join("");
+    } else {
+      T.$("#flashGrid").innerHTML = `<div class="card pad" style="grid-column:1/-1;text-align:center;color:var(--ink-3)">🗂 No flashcards yet — create one to start reviewing.</div>`;
+    }
   }
 
   // topic mastery + topics covered (from ts_read_events per category)
-  const { data: ev } = await T.sb.from("ts_read_events").select("category").eq("user_id",u.id);
-  const byCat = {}; (ev||[]).forEach(e=>{ const k=e.category||"Other"; byCat[k]=(byCat[k]||0)+1; });
+  let byCat = {}, ev = [];
+  if (u) {
+    const { data: evData } = await T.sb.from("ts_read_events").select("category").eq("user_id",u.id);
+    ev = evData || [];
+    ev.forEach(e=>{ const k=e.category||"Other"; byCat[k]=(byCat[k]||0)+1; });
+  }
   const cats = Object.entries(byCat).sort((a,b)=>b[1]-a[1]).slice(0,5);
   T.$("#ovTopics").textContent = Object.keys(byCat).length;
-  T.$("#nConcept").textContent = (ev||[]).length;
+  T.$("#nConcept").textContent = ev.length;
   T.$("#ovLast").textContent = profile.last_activity ? T.timeAgo(profile.last_activity) : "—";
   const maxc = Math.max(1, ...cats.map(c=>c[1]));
   T.$("#mastery").innerHTML = (cats.length?cats:[["AI / ML",0]]).map(([k,n])=>{
     const pct=Math.round(n/maxc*100); const m=T.catMeta(k);
     return `<div class="m"><div class="top"><span>${m.short}</span><b>${pct}%</b></div><div class="xpbar"><i style="width:${pct}%;background:${m.color}"></i></div></div>`;
   }).join("");
-  // quiz mistakes count
-  const { count: qm } = await T.sb.from("ts_quiz_attempts").select("*",{count:"exact",head:true}).eq("user_id",u.id).eq("correct",false);
-  T.$("#nQuiz").textContent = qm||0;
-  const { count: pc } = await T.sb.from("ts_saved_articles").select("*",{count:"exact",head:true}).eq("user_id",u.id).eq("category","Science");
-  T.$("#nPapers").textContent = pc||0;
 
-  // continue learning (recommended live articles)
+  // quiz mistakes count
+  let qm = 0, pc = 0;
+  if (u) {
+    const { count: qmCount } = await T.sb.from("ts_quiz_attempts").select("*",{count:"exact",head:true}).eq("user_id",u.id).eq("correct",false);
+    qm = qmCount || 0;
+    const { count: pcCount } = await T.sb.from("ts_saved_articles").select("*",{count:"exact",head:true}).eq("user_id",u.id).eq("category","Science");
+    pc = pcCount || 0;
+  }
+  T.$("#nQuiz").textContent = qm;
+  T.$("#nPapers").textContent = pc;
+
+  // continue learning (recommended live articles — available to guests too)
   const arts = await T.articles();
   T.$("#recGrid").innerHTML = arts.filter(a=>a.media_url&&a.media_kind!=="poster").slice(0,4).map((a,i)=>{
     const c=T.catMeta(T.catFor(a));
-    return `<a class="story" href="/app/article.html?id=${encodeURIComponent(T.articleId(a))}" style="background:#0b1220"><div class="thumb-wrap"><img class="thumb" src="${esc(a.media_url)}" onerror="this.remove()"><span class="cat" style="background:${c.color}">${c.short}</span></div>
-    <div class="s-body" style="background:#0b1220"><h3 style="color:#fff">${esc(a.title)}</h3><div class="meta" style="color:#94a3b8">${T.readMins(a)} min <span class="xp" style="margin-left:auto">+${15+i*5} XP</span></div></div></a>`;
+    return `<a class="story" href="/app/article.html?id=${encodeURIComponent(T.articleId(a))}" style="background:var(--surface)"><div class="thumb-wrap"><img class="thumb" src="${esc(a.media_url)}" onerror="this.remove()"><span class="cat" style="background:${c.color}">${c.short}</span></div>
+    <div class="s-body"><h3>${esc(a.title)}</h3><div class="meta">${T.readMins(a)} min <span class="xp" style="margin-left:auto">+${15+i*5} XP</span></div></div></a>`;
   }).join("");
 
   // badges (earned from real stats)
@@ -190,8 +217,9 @@
     ["🔥","Streak Star","7-day streak","#f97316",(profile.streak||0)>=7]];
   T.$("#badges").innerHTML = BADGES.map(([e,n,d,col,earned])=>`<div class="badge-card" style="${earned?'':'opacity:.5'}"><div class="hex" style="background:${earned?col:'#cbd5e1'}">${e}</div><b>${n}</b><span>${d}</span>${earned?'<div class="earned">✓ Earned</div>':''}</div>`).join("");
 
-  // create flashcard
+  // create flashcard (sign-in required)
   async function addFlash(){
+    if(!u){ location.href=T.signInUrl(); return; }
     const q=prompt("Flashcard question?"); if(!q)return; const a=prompt("Answer / note?")||"";
     await T.sb.from("ts_flashcards").insert({user_id:u.id,question:q,answer:a,topic:"AI / ML"}); T.toast("Flashcard saved ✓"); location.reload();
   }

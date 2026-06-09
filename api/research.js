@@ -1,4 +1,4 @@
-// GET /api/research — LIVE trending/top research papers for the TechScroll app.
+// GET /api/research — LIVE trending/top research papers for the Learnify app.
 //
 // Sources real papers from lib/papers.js (arXiv newest across cs.AI/LG/CL/CV +
 // OpenAlex recent + OpenAlex most-cited "trending"), de-duplicated, mapped to the
