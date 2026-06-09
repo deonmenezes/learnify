@@ -22,8 +22,57 @@ import { collectPapers } from "../lib/papers.js";
 // Papers now span all categories via arXiv breadth (cs.RO, cs.CR, cs.SE, cs.PL,
 // cs.AR, cs.HC, eess.SY, cond-mat.mtrl-sci, q-bio.BM, physics.app-ph) and
 // OpenAlex concepts. Classifier order: most-specific first, AI/ML last as default.
+// RELEVANCE GATE — this is an AI/tech/science reader, NOT a med/social-science
+// digest. OpenAlex's "recent AI" tier floods with applied-ML papers from clinical
+// medicine, epidemiology, psychology, education and pure social science; those
+// bury the genuine CS/AI/eng work from arXiv. Drop a paper that reads off-topic
+// UNLESS it also carries a hard CS/AI/engineering signal (e.g. a real ML-systems
+// paper that happens to mention "clinical").
+const OFFTOPIC = /\b(disease|clinical|patient|cancer|tumou?rs?|oncolog\w*|epidemiolog\w*|mortalit\w*|prevalence|incidence|comorbid\w*|disabilit\w*|metaboli\w*|metabolom\w*|cytometr\w*|genome-wide|gwas|biomarker\w*|therapeutic\w*|\btherapy\b|diagnos\w*|surgery|surgical|nursing|psycholog\w*|psychiatr\w*|learner aptitude|second[- ]language|institutional distance|drug discovery|pharmac\w*|vaccine\w*|antibod\w*|cohort study|randomi[sz]ed controlled|public health|clinical trial|\bpedagog\w*)\b/i;
+const TECHSIG = /\b(algorithm|neural network|transformer|\bllm\b|large language model|\bgpu\b|robot\w*|autonomous|software|compiler|programming|cryptograph\w*|encryption|semiconductor|quantum comput\w*|reinforcement learning|computer vision|benchmark|inference|fine[- ]tun\w*|diffusion model|graph neural|\bfpga\b|chip design|distributed system|operating system|database system|kubernetes|\bcs\.[a-z]{2}\b)\b/i;
+
+// Sections that lib/papers.js force-tags onto curated topical OpenAlex picks
+// (these are intentionally on-topic even without a lexical tech signal — e.g.
+// startup/funding papers).
+const TOPIC_TAGS = new Set([
+  "robotics", "security cryptography", "software engineering",
+  "startup venture funding business model",
+]);
+
+// Runs on a RAW paper (has source/section), so we can trust arXiv wholesale and
+// hold OpenAlex to a higher bar. Keeps: all arXiv (curated CS/AI/science), the
+// curated topical picks, and OpenAlex papers with a real tech signal. Drops:
+// clinical/med/psych/social-science noise and "applied-ML-to-random-field".
+// Crackpot / non-English / garbage preprint guard. A real paper title is mostly
+// Latin script, a reasonable length, and doesn't lead with a math-symbol token
+// (e.g. "SΔϕ-62 — World Model Kernel").
+function looksLikeJunk(title) {
+  const t = String(title || "").trim();
+  if (t.length < 14) return true;
+  const ascii = (t.match(/[\x20-\x7E]/g) || []).length / t.length;
+  if (ascii < 0.9) return true;              // mostly non-Latin → non-English / garbage
+  if (/^[^A-Za-z0-9"'(]/.test(t)) return true; // leads with a symbol → odd
+  return false;
+}
+
+function isRelevantRaw(p) {
+  const hay = `${p.title || ""} ${p.summary || ""}`.toLowerCase();
+  if (looksLikeJunk(p.title)) return false;
+  if (OFFTOPIC.test(hay) && !TECHSIG.test(hay)) return false;
+  if (p.source_id === "arxiv" || p.source === "arXiv") return true;
+  if (TOPIC_TAGS.has(p.section)) return true;
+  return TECHSIG.test(hay);
+}
+
+// The app DROPS any paper whose `category` is not one of these exact NewsCategory
+// rawValues: "AI / ML", "Robotics", "Coding & Dev Tools", "Startups & Funding",
+// "Hardware & Gadgets", "Security", "Science".
+// Classifier order: most-specific first; life/physical-science (incl. medicine)
+// goes BEFORE the Coding bucket so force-tagged medical papers route to Science,
+// AI/ML last as default.
 function toAppCategory(p) {
   const hay = `${p.section || ""} ${(p.categories || []).join(" ")} ${p.id || ""} ${p.title || ""}`.toLowerCase();
+  const title = (p.title || "").toLowerCase();
 
   // Robotics — specific enough to go first
   if (/\brobot|locomotion|quadruped|manipulation|\bcs\.ro\b/.test(hay)) return "Robotics";
@@ -31,13 +80,18 @@ function toAppCategory(p) {
   // Security / Cryptography
   if (/secur|cryptograph|adversarial|malware|vulnerab|\bcs\.cr\b/.test(hay)) return "Security";
 
+  // Life / physical sciences & medicine → Science (judged on the TITLE, before
+  // the Coding bucket, so a force-tagged "software engineering" medical paper
+  // can't masquerade as Coding & Dev Tools).
+  if (/disease|clinical|patient|cancer|tumou?r|oncolog|epidemiolog|mortalit|metaboli|metabolom|cytometr|genom|protein|biomarker|therap|diagnos|vaccine|\bcell\b|molecul|chemi|materials|cond-mat|\bphysics\b|astro|\btelescope\b|interferometr|exoplanet|radial[- ]velocity|cosmolog|climate|neurosci|q-bio|biolog|supercond|\bquantum\b/.test(title)) return "Science";
+
   // Coding & Dev Tools — software eng + PL before generic CS catch-alls
   if (/software engineering|programming language|compiler|\bcode\b|developer|debug|\bcs\.se\b|\bcs\.pl\b|static analysis|software dev/.test(hay)) return "Coding & Dev Tools";
 
   // Hardware & Gadgets — silicon, chips, architecture, photonics, systems
   if (/semiconduct|\bhardware\b|fpga|circuit|photonic|\bgpu\b|accelerator|\bchip\b|\basic\b|\bcs\.ar\b|applied physics|\beess\b/.test(hay)) return "Hardware & Gadgets";
 
-  // Science — materials, physics, bio, chemistry, earth sciences
+  // Science — materials, physics, bio, chemistry, earth sciences (from any field)
   if (/supercond|materials|cond-mat|physics|biolog|chemi|astro|quantum|genom|protein|climate|neurosci|q-bio|biomolecul/.test(hay)) return "Science";
 
   // Startups & Funding — light signal; only if nothing more specific matched
@@ -89,13 +143,15 @@ export default async function handler(req, res) {
   if (req.method === "OPTIONS") { res.status(204).end(); return; }
 
   const category = str(req.query?.category).toLowerCase();
-  const sort = str(req.query?.sort) || "trending";
+  // Default to FRESH (newest-first). The app requests sort=recent; "trending"
+  // (most-cited) is opt-in only, since most-cited skews old + medical.
+  const sort = str(req.query?.sort) || "recent";
   const limit = parseInt(str(req.query?.limit), 10);
 
   let papers = [];
   try {
     const raw = await collectPapers();
-    papers = raw.map(toResearch).filter((p) => p.title && p.url);
+    papers = raw.filter(isRelevantRaw).map(toResearch).filter((p) => p.title && p.url);
   } catch (err) {
     // Never 500 the tab — the app has its own bundled-sample fallback.
     return res.status(200).json({ generated_at: new Date().toISOString(), count: 0, papers: [], error: String(err) });
@@ -104,8 +160,8 @@ export default async function handler(req, res) {
   if (category) papers = papers.filter((p) => p.category.toLowerCase() === category);
   papers.sort((a, b) => {
     if (sort === "citations") return b.citations - a.citations;
-    if (sort === "recent") return 0; // collectPapers already returns newest-first
-    return b.trend - a.trend;        // "trending" (default)
+    if (sort === "trending") return b.trend - a.trend;
+    return 0; // "recent"/"fresh" (default): collectPapers already newest-first
   });
   if (!Number.isNaN(limit)) papers = papers.slice(0, Math.max(0, limit));
 
