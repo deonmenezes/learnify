@@ -1,16 +1,99 @@
 {
-  "generated_at": "2026-06-10T01:42:58.446Z",
+  "generated_at": "2026-06-10T06:34:38.629Z",
   "handles": [
     "nvidia",
     "GoogleDeepMind",
-    "AnthropicAI",
+    "demishassabis",
     "gdb",
-    "OpenAI",
     "NVIDIAAI",
-    "demishassabis"
+    "AnthropicAI",
+    "OpenAI"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2064482269998281206",
+      "title": "At #WWDC26, NVIDIA Confidential Computing on @GoogleCloud is enabling Apple to extend their groundbreaking Private Cloud Compute service to third-party data centers for the first time. NVIDIA is…",
+      "link": "https://x.com/nvidia/status/2064482269998281206",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-09T22:58:24.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product",
+        "WWDC26"
+      ],
+      "summary": "At #WWDC26, NVIDIA Confidential Computing on @GoogleCloud is enabling Apple to extend their groundbreaking Private Cloud Compute service to third-party data centers for the first time. NVIDIA is collaborating with Apple and Google to power Apple Intelligence workloads built",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 74,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (data center)"
+      ],
+      "metrics": {
+        "likes": 188,
+        "retweets": 29,
+        "replies": 24,
+        "likes_h": "188"
+      },
+      "engagement": 270,
+      "hot": false
+    },
+    {
+      "id": "x_2064473736737358105",
+      "title": "Voice AI calls just got a privacy upgrade. 🔒 @DeepgramAI now runs fully on-prem with encrypted audio and model weights, powered by @fortanix Confidential AI and NVIDIA Confidential Computing. Read…",
+      "link": "https://x.com/nvidia/status/2064473736737358105",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-09T22:24:29.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product launch",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product launch"
+      ],
+      "summary": "Voice AI calls just got a privacy upgrade. 🔒 @DeepgramAI now runs fully on-prem with encrypted audio and model weights, powered by @fortanix Confidential AI and NVIDIA Confidential Computing. Read the press release: https://nvda.ws/43KdoyN",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 100,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "announcement language (release)",
+        "tech substance (model, weights)",
+        "links to a source"
+      ],
+      "metrics": {
+        "likes": 84,
+        "retweets": 13,
+        "replies": 12,
+        "likes_h": "84"
+      },
+      "engagement": 122,
+      "hot": false
+    },
     {
       "id": "x_2064393419150041405",
       "title": "Earlier this year we announced that telecom leaders are building AI grids using NVIDIA AI infrastructure to optimize inference on distributed networks But what actually is an AI Grid? In this video,…",
@@ -35,7 +118,7 @@
       "summary": "Earlier this year we announced that telecom leaders are building AI grids using NVIDIA AI infrastructure to optimize inference on distributed networks But what actually is an AI Grid? In this video, Amogh Dendukuri takes us back to basics. Watch now to see him break down the",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 82,
+      "worthiness_score": 83,
       "sentiment": "negative",
       "sentiment_score": -0.5,
       "reasons": [
@@ -45,12 +128,12 @@
         "tech substance (inference)"
       ],
       "metrics": {
-        "likes": 104,
-        "retweets": 15,
-        "replies": 17,
-        "likes_h": "104"
+        "likes": 137,
+        "retweets": 17,
+        "replies": 26,
+        "likes_h": "137"
       },
-      "engagement": 151,
+      "engagement": 197,
       "hot": false
     },
     {
@@ -82,15 +165,16 @@
       "sentiment_score": 0.5,
       "reasons": [
         "report-worthy",
-        "tech substance (model, gemini)"
+        "tech substance (model, gemini)",
+        "high engagement (799 likes)"
       ],
       "metrics": {
-        "likes": 688,
-        "retweets": 86,
-        "replies": 46,
-        "likes_h": "688"
+        "likes": 799,
+        "retweets": 106,
+        "replies": 55,
+        "likes_h": "799"
       },
-      "engagement": 906,
+      "engagement": 1066,
       "hot": false
     },
     {
@@ -127,12 +211,12 @@
         "high engagement (2.4K likes)"
       ],
       "metrics": {
-        "likes": 2382,
-        "retweets": 238,
-        "replies": 79,
+        "likes": 2414,
+        "retweets": 243,
+        "replies": 80,
         "likes_h": "2.4K"
       },
-      "engagement": 2937,
+      "engagement": 2980,
       "hot": false
     },
     {
@@ -167,12 +251,12 @@
         "tech substance (models)"
       ],
       "metrics": {
-        "likes": 206,
-        "retweets": 24,
+        "likes": 210,
+        "retweets": 23,
         "replies": 29,
-        "likes_h": "206"
+        "likes_h": "210"
       },
-      "engagement": 283,
+      "engagement": 285,
       "hot": false
     },
     {
@@ -249,12 +333,12 @@
         "tech substance (agents)"
       ],
       "metrics": {
-        "likes": 414,
+        "likes": 422,
         "retweets": 55,
         "replies": 43,
-        "likes_h": "414"
+        "likes_h": "422"
       },
-      "engagement": 567,
+      "engagement": 575,
       "hot": false
     },
     {
@@ -289,12 +373,12 @@
         "high engagement (1.3K likes)"
       ],
       "metrics": {
-        "likes": 1254,
-        "retweets": 90,
+        "likes": 1256,
+        "retweets": 91,
         "replies": 132,
         "likes_h": "1.3K"
       },
-      "engagement": 1566,
+      "engagement": 1570,
       "hot": false
     },
     {
@@ -1088,12 +1172,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 3413,
-        "retweets": 459,
-        "replies": 184,
+        "likes": 3422,
+        "retweets": 462,
+        "replies": 188,
         "likes_h": "3.4K"
       },
-      "engagement": 4515,
+      "engagement": 4534,
       "hot": true
     },
     {
@@ -1258,90 +1342,6 @@
         "likes_h": "1.2K"
       },
       "engagement": 1664,
-      "hot": false
-    },
-    {
-      "id": "x_2062241713398149524",
-      "title": "Celebrating the milestone of a massive 150+ million downloads of Gemma 4 with the release of the new Gemma 4 12B model! It's incredibly powerful for such a small model and it’s tiny enough to run…",
-      "link": "https://x.com/demishassabis/status/2062241713398149524",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Demis Hassabis · @demishassabis",
-      "handle": "demishassabis",
-      "org": "Google",
-      "published": "2026-06-03T18:35:13.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Funding & deals",
-      "categories": [
-        "X",
-        "Google",
-        "Funding & deals"
-      ],
-      "summary": "Celebrating the milestone of a massive 150+ million downloads of Gemma 4 with the release of the new Gemma 4 12B model! It's incredibly powerful for such a small model and it’s tiny enough to run locally on a laptop with just 16GB VRAM. Apache 2.0 license - happy building!",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 100,
-      "sentiment": "positive",
-      "sentiment_score": 1,
-      "reasons": [
-        "report-worthy",
-        "announcement language (release)",
-        "tech substance (model)",
-        "business signal (million)",
-        "high engagement (3.2K likes)",
-        "concrete metrics"
-      ],
-      "metrics": {
-        "likes": 3172,
-        "retweets": 319,
-        "replies": 171,
-        "likes_h": "3.2K"
-      },
-      "engagement": 3981,
-      "hot": false
-    },
-    {
-      "id": "x_2062232852561891718",
-      "title": "Local AI Agents are leveling up across DGX Spark &amp; RTX PCs. NVIDIA OpenShell is coming to Windows alongside new agentic AI optimizations and creator app updates—including NVIDIA Broadcast 2.2,…",
-      "link": "https://x.com/nvidia/status/2062232852561891718",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-03T18:00:01.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product"
-      ],
-      "summary": "Local AI Agents are leveling up across DGX Spark &amp; RTX PCs. NVIDIA OpenShell is coming to Windows alongside new agentic AI optimizations and creator app updates—including NVIDIA Broadcast 2.2, plus upcoming RTX acceleration for Adobe apps and Blender. Learn More:",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 74,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (agents)"
-      ],
-      "metrics": {
-        "likes": 216,
-        "retweets": 19,
-        "replies": 18,
-        "likes_h": "216"
-      },
-      "engagement": 272,
       "hot": false
     }
   ]
