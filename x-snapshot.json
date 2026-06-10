@@ -1,16 +1,55 @@
 {
-  "generated_at": "2026-06-10T20:39:17.341Z",
+  "generated_at": "2026-06-10T22:56:46.974Z",
   "handles": [
     "claudeai",
     "nvidia",
     "GoogleDeepMind",
-    "gdb",
-    "NVIDIAAI",
     "AnthropicAI",
+    "gdb",
     "OpenAI"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2064829962482241778",
+      "title": "NVIDIA Vera CPUs are ready to transform every industry, including financial services. In partnership with Redpanda and HPE, NYSE is scaling capacity while further optimizing latency to power a…",
+      "link": "https://x.com/nvidia/status/2064829962482241778",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-10T22:00:00.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Commentary"
+      ],
+      "summary": "NVIDIA Vera CPUs are ready to transform every industry, including financial services. In partnership with Redpanda and HPE, NYSE is scaling capacity while further optimizing latency to power a high-performance, resilient and AI-ready market infrastructure, accelerated by NVIDIA",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 76,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "business signal (partnership)"
+      ],
+      "metrics": {
+        "likes": 94,
+        "retweets": 15,
+        "replies": 9,
+        "likes_h": "94"
+      },
+      "engagement": 133,
+      "hot": false
+    },
     {
       "id": "x_2064785573852672275",
       "title": "In Sierra Leone, a surging student population is outpacing available teachers. Our latest research explores how AI can act as a partner to support educators in these environments – amplifying their…",
@@ -43,12 +82,12 @@
         "tech substance (research)"
       ],
       "metrics": {
-        "likes": 65,
-        "retweets": 6,
-        "replies": 14,
-        "likes_h": "65"
+        "likes": 84,
+        "retweets": 9,
+        "replies": 16,
+        "likes_h": "84"
       },
-      "engagement": 91,
+      "engagement": 118,
       "hot": false
     },
     {
@@ -75,7 +114,7 @@
       "summary": "What does it take to bring open models into the enterprise? On the NVIDIA AI Podcast, Mistral CTO and co-founder Timothée Lacroix joins to discuss @MistralAI’s open-model philosophy, its Forge customization framework, and its collaboration with NVIDIA through the Nemotron",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 95,
+      "worthiness_score": 96,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -84,12 +123,12 @@
         "business signal (enterprise)"
       ],
       "metrics": {
-        "likes": 81,
-        "retweets": 12,
-        "replies": 22,
-        "likes_h": "81"
+        "likes": 100,
+        "retweets": 14,
+        "replies": 25,
+        "likes_h": "100"
       },
-      "engagement": 127,
+      "engagement": 153,
       "hot": false
     },
     {
@@ -125,12 +164,12 @@
         "business signal (partnership)"
       ],
       "metrics": {
-        "likes": 156,
-        "retweets": 22,
-        "replies": 21,
-        "likes_h": "156"
+        "likes": 186,
+        "retweets": 24,
+        "replies": 26,
+        "likes_h": "186"
       },
-      "engagement": 221,
+      "engagement": 260,
       "hot": false
     },
     {
@@ -164,16 +203,16 @@
         "report-worthy",
         "casual tone (this)",
         "tech substance (model, gpus)",
-        "high engagement (1.4K likes)",
+        "high engagement (1.7K likes)",
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 1448,
-        "retweets": 159,
-        "replies": 79,
-        "likes_h": "1.4K"
+        "likes": 1666,
+        "retweets": 180,
+        "replies": 90,
+        "likes_h": "1.7K"
       },
-      "engagement": 1845,
+      "engagement": 2116,
       "hot": false
     },
     {
@@ -209,12 +248,12 @@
         "tech substance (data center)"
       ],
       "metrics": {
-        "likes": 280,
+        "likes": 286,
         "retweets": 49,
         "replies": 39,
-        "likes_h": "280"
+        "likes_h": "286"
       },
-      "engagement": 417,
+      "engagement": 423,
       "hot": false
     },
     {
@@ -251,10 +290,10 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 137,
-        "retweets": 20,
+        "likes": 139,
+        "retweets": 19,
         "replies": 17,
-        "likes_h": "137"
+        "likes_h": "139"
       },
       "engagement": 194,
       "hot": false
@@ -290,15 +329,15 @@
         "report-worthy",
         "announcement language (introducing, generally available)",
         "tech substance (model, claude)",
-        "high engagement (99.4K likes)"
+        "high engagement (100.1K likes)"
       ],
       "metrics": {
-        "likes": 99423,
-        "retweets": 13943,
-        "replies": 4624,
-        "likes_h": "99.4K"
+        "likes": 100053,
+        "retweets": 14003,
+        "replies": 4655,
+        "likes_h": "100.1K"
       },
-      "engagement": 131933,
+      "engagement": 132714,
       "hot": true
     },
     {
@@ -335,12 +374,12 @@
         "tech substance (inference)"
       ],
       "metrics": {
-        "likes": 170,
-        "retweets": 20,
-        "replies": 29,
-        "likes_h": "170"
+        "likes": 173,
+        "retweets": 22,
+        "replies": 30,
+        "likes_h": "173"
       },
-      "engagement": 239,
+      "engagement": 247,
       "hot": false
     },
     {
@@ -373,15 +412,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (model, gemini)",
-        "high engagement (881 likes)"
+        "high engagement (889 likes)"
       ],
       "metrics": {
-        "likes": 881,
-        "retweets": 115,
-        "replies": 62,
-        "likes_h": "881"
+        "likes": 889,
+        "retweets": 116,
+        "replies": 63,
+        "likes_h": "889"
       },
-      "engagement": 1173,
+      "engagement": 1184,
       "hot": false
     },
     {
@@ -424,7 +463,7 @@
         "likes_h": "2.4K"
       },
       "engagement": 3020,
-      "hot": false
+      "hot": true
     },
     {
       "id": "x_2064056027947934209",
@@ -1298,50 +1337,6 @@
         "likes_h": "298"
       },
       "engagement": 415,
-      "hot": false
-    },
-    {
-      "id": "x_2062522316672667770",
-      "title": "Introducing NVIDIA Nemotron 3 Ultra. A frontier smart open model built for long-running agents that need to plan, reason, use tools and keep working across complex coding, research and enterprise…",
-      "link": "https://x.com/nvidia/status/2062522316672667770",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-04T13:10:14.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Research"
-      ],
-      "summary": "Introducing NVIDIA Nemotron 3 Ultra. A frontier smart open model built for long-running agents that need to plan, reason, use tools and keep working across complex coding, research and enterprise workflows. Up to 5x faster inference and up to 30% lower cost for agentic tasks.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 100,
-      "sentiment": "positive",
-      "sentiment_score": 1,
-      "reasons": [
-        "report-worthy",
-        "announcement language (introducing)",
-        "tech substance (model, nemotron, agents)",
-        "business signal (enterprise)",
-        "high engagement (1.6K likes)",
-        "concrete metrics"
-      ],
-      "metrics": {
-        "likes": 1607,
-        "retweets": 193,
-        "replies": 88,
-        "likes_h": "1.6K"
-      },
-      "engagement": 2081,
       "hot": false
     }
   ]
