@@ -1,0 +1,265 @@
+{
+  "generated_at": "2026-06-10T17:22:16.192Z",
+  "count": 37,
+  "papers": {
+    "oa_vfyp9y": {
+      "headline": "A New Way to Pick the Best Model for Unsupervised Domain Adaptation",
+      "hook": "Researchers created a simple score that predicts how well any unsupervised domain‑adaptation model will perform on new target data, using only a few labeled source examples and a tiny unlabeled target sample. The score works by measuring how much the model’s predictions shift when that small target batch is added, letting it rank models almost as accurately as if full labels were available. This breakthrough could finally let engineers compare UDA methods fairly and pick the best one for real‑world tasks.",
+      "visual": "a laptop screen showing a source‑domain photo of street cars labeled with bounding boxes on the left half and an unlabeled target‑domain night‑time street scene on the right half",
+      "cover": "/paper-covers/oa_vfyp9y.jpg",
+      "enriched_at": "2026-06-10T17:10:21.783Z"
+    },
+    "oa_1bkhp34": {
+      "headline": "Takoma Park Runs First End‑to‑End Verifiable Election with Privacy",
+      "hook": "In November 2009, Takoma Park, Maryland, let voters use Scantegrity II, a cryptographic voting system that lets anyone check that their vote was counted correctly while keeping the ballot secret. It was the first time a binding government election used an end‑to‑end verifiable method with ballot privacy, proving that strong security and voter anonymity can coexist in a real election. The successful run showed that advanced math can protect democracy without sacrificing trust.",
+      "visual": "a close‑up of a voter’s hand marking a Scantegrity II ballot with a special invisible ink pen",
+      "cover": "/paper-covers/oa_1bkhp34.jpg",
+      "enriched_at": "2026-06-10T17:10:31.678Z"
+    },
+    "oa_apr07p": {
+      "headline": "Real-Time Feeder Monitoring Transforms Smart Grid Reliability",
+      "hook": "Researchers reviewed the latest systems that continuously monitor electricity feeders using sensors, communication networks, and data analytics to detect problems in real time. This shift from occasional manual checks to live monitoring can cut power losses and help prevent blackouts. The review shows how combining fast local processing, smart algorithms, and strong communication makes the grid smarter and more reliable.",
+      "visual": "a sleek sensor device clamped onto a high-voltage power line with data streaming to a control room screen",
+      "cover": "/paper-covers/oa_apr07p.jpg",
+      "enriched_at": "2026-06-10T17:10:57.817Z"
+    },
+    "oa_apr07v": {
+      "headline": "ESP32-Powered Voice Control System Brings Smart Home Automation",
+      "hook": "Researchers built a low‑cost smart‑home controller using an ESP32 microchip that listens to voice commands and talks to the cloud. The system lets users turn lights, fans, or appliances on and off just by speaking, without needing expensive proprietary hubs. In tests, it responded quickly and reliably, showing how accessible voice‑controlled automation can be for everyday homes.",
+      "visual": "a hand issuing a voice command to a compact ESP32 board connected to a smart light bulb",
+      "cover": "/paper-covers/oa_apr07v.jpg",
+      "enriched_at": "2026-06-10T17:12:58.041Z"
+    },
+    "oa_1mfwk7n": {
+      "headline": "Agentic AI Survey Introduces Dual-Paradigm Framework",
+      "hook": "Researchers looked at the booming area of agentic AI and noticed that people often confuse today’s learning‑based systems with older rule‑based programs, which muddies the conversation. They created a straightforward two‑part framework that splits agents into those that learn from data and those that follow explicit rules, giving a common language to compare approaches. This clearer view helps engineers and decision‑makers see where the technology is headed and how to build smarter, more reliable autonomous systems.",
+      "visual": "a delivery drone hovering over a bustling city street",
+      "cover": "/paper-covers/oa_1mfwk7n.jpg",
+      "enriched_at": "2026-06-10T17:13:13.507Z"
+    },
+    "oa_vpm4p6": {
+      "headline": "Evaluating LSB Steganography Across Image Formats for Data Hiding",
+      "hook": "Researchers tested how well the simplest pixel‑tweaking method hides data in PNG, JPEG, and BMP files, measuring how much information can be stored before the image looks noticeably altered. They found that lossless formats like PNG keep the secret intact with minimal distortion, while JPEG’s compression quickly erases the hidden bits.",
+      "visual": "a side‑by‑side comparison of a PNG, JPEG, and BMP image each with a hidden text overlay visible as slight color shifts",
+      "cover": "/paper-covers/oa_vpm4p6.jpg",
+      "enriched_at": "2026-06-10T17:13:17.745Z"
+    },
+    "oa_gppjrc": {
+      "headline": "SOAR Telescope Reveals Thousands of Close Binary Star Measurements",
+      "hook": "Using speckle interferometry on the 4.1‑meter SOAR telescope, astronomers measured the positions and brightness differences of over 5,300 star pairs, some as close as a tiny fraction of an arcsecond. These observations sharpen our view of nearby binary systems, helping refine stellar masses and evolution models. The dataset includes hundreds of previously unpublished measurements from before 2024.",
+      "visual": "the SOAR telescope’s open dome under a Milky Way‑filled sky",
+      "cover": "/paper-covers/oa_gppjrc.jpg",
+      "enriched_at": "2026-06-10T17:13:39.522Z"
+    },
+    "oa_1yy1l7j": {
+      "headline": "AI Kernel Keeps Observation, Assumptions, and Revision Paths Separate",
+      "hook": "Researchers built a new AI component called the World Model Kernel that forces the system to spell out what it saw, what it assumed, any leftover uncertainties, and how it might change its mind before giving an answer. By keeping these steps visible, the AI can explain its reasoning instead of hiding them behind a single guess. This could make AI safer and easier to trust in critical tasks.",
+      "visual": "a robotic hand holding a clear glass sphere filled with floating sticky notes labeled 'Observed', 'Assumed', and 'Revised'",
+      "cover": "/paper-covers/oa_1yy1l7j.jpg",
+      "enriched_at": "2026-06-10T17:14:22.310Z"
+    },
+    "oa_lxaqk0": {
+      "headline": "Survey Maps Security, Privacy, and Standards for the Coming 6G Era",
+      "hook": "Researchers reviewed dozens of upcoming 6G proposals to see how they plan to protect data as billions of devices, edge servers, and AI algorithms join the network. They found that while new encryption and AI‑driven threat detection are promising, many privacy safeguards and global standards are still missing. The survey highlights where the field is heading and what gaps need to be filled before 6G rolls out.",
+      "visual": "a futuristic cityscape with interconnected drones, smart sensors, and glowing data streams linking to a central 6G tower",
+      "cover": "/paper-covers/oa_lxaqk0.jpg",
+      "enriched_at": "2026-06-10T17:17:09.156Z"
+    },
+    "oa_1td7chm": {
+      "headline": "Electronic Palm Achieves Crosstalk‑Free Pressure And Temperature Sensing",
+      "hook": "Researchers built a biomimetic electronic palm that splits sensing tasks among specialized units, eliminating interference between pressure and temperature readings. This design lets the hand detect both stimuli with high precision across large arrays, paving the way for more realistic touch in robots. The result is a sensor skin that could let machines feel objects as delicately as a human hand.",
+      "visual": "a silicone electronic palm pressing gently on a ripe strawberry",
+      "cover": "/paper-covers/oa_1td7chm.jpg",
+      "enriched_at": "2026-06-10T17:17:16.783Z"
+    },
+    "oa_1mfwmmt": {
+      "headline": "Survey Covers Knowledge and Dataset Distillation for LLMs",
+      "hook": "Researchers surveyed recent work on compressing huge language models using knowledge distillation—teaching smaller models from big ones—and dataset distillation—creating tiny synthetic datasets that capture the essence of massive training data. These techniques can cut compute and storage needs dramatically, making powerful AI more accessible on everyday devices. The survey highlights remaining challenges like preserving reasoning abilities and scaling to trillion‑parameter models.",
+      "visual": "a smartphone screen showing a tiny AI model icon next to a massive data center silhouette",
+      "cover": "/paper-covers/oa_1mfwmmt.jpg",
+      "enriched_at": "2026-06-10T17:17:18.753Z"
+    },
+    "oa_gah38b": {
+      "headline": "How Edge and Cloud Team Up to Power Smarter Apps",
+      "hook": "Researchers surveyed the latest ways edge devices and cloud servers share AI workloads to cut latency and save energy. They show how splitting tasks between nearby sensors and distant data centers lets smartphones run complex models without draining the battery. The result is a roadmap for faster, greener smart‑city and industrial applications.",
+      "visual": "a smart factory floor with autonomous robots communicating with a distant data center via glowing fiber‑optic links",
+      "cover": "/paper-covers/oa_gah38b.jpg",
+      "enriched_at": "2026-06-10T17:17:37.217Z"
+    },
+    "oa_1wxekog": {
+      "headline": "When Silence Speaks: A New Index Measures What Unsaid Words Might Mean",
+      "hook": "Researchers built a tiny score called the Disclosure Terrain Index that tells you when someone's silence can be taken as a weak hint that something is absent. The score looks at how costly or risky it would be for a person to speak up; if speaking up is cheap, silence means less, but if it's expensive, silence counts a bit more as evidence. This gives auditors, journalists, or even chatbots a quick way to judge whether to trust a lack of comment as a clue, turning a gut feeling into a simple number.",
+      "visual": "a lone figure hesitating before a microphone in a dimly lit room, with a faint speech bubble hovering empty",
+      "cover": "/paper-covers/oa_1wxekog.jpg",
+      "enriched_at": "2026-06-10T17:17:43.703Z"
+    },
+    "oa_197l5j": {
+      "headline": "Designing Low-Power Chips for Deep Learning",
+      "hook": "Researchers explored ways to make deep neural network processors use less energy without sacrificing speed. By tweaking circuit design and data flow, they cut power draw significantly for common AI tasks. The result could help run sophisticated models on phones and edge devices.",
+      "visual": "a close-up of a neuromorphic processor chip with visible gold interconnects",
+      "cover": "/paper-covers/oa_197l5j.jpg",
+      "enriched_at": "2026-06-10T17:17:59.617Z"
+    },
+    "arxiv_1e8v0az": {
+      "headline": "Rethinking ISO 26262 Controllability for Self‑Driving Cars",
+      "hook": "The classic ISO 26262 safety framework assumes a human driver can intervene when something goes wrong. For autonomous vehicles, that assumption falls apart, so researchers broke down the controllability factor into two new ideas: how well the system can transfer control and how predictable its actions are. This shift lets safety experts judge AVs more fairly and could shape future regulations.",
+      "visual": "a self‑driving car stopping at a crosswalk as pedestrians cross a city street",
+      "cover": "/paper-covers/arxiv_1e8v0az.jpg",
+      "enriched_at": "2026-06-10T17:18:03.707Z"
+    },
+    "oa_1ng2ctv": {
+      "headline": "Review Maps the Evolving Landscape of Zero Trust Architecture Research",
+      "hook": "Researchers combed through hundreds of papers to map how zero trust ideas have shifted from theory to practice. They found that while the concept promises stronger security, real-world deployment still struggles with complexity and integration. The review highlights where the field is heading and what questions remain unanswered.",
+      "visual": "a padlock overlaying a network diagram with interconnected nodes",
+      "cover": "/paper-covers/oa_1ng2ctv.jpg",
+      "enriched_at": "2026-06-10T17:18:05.451Z"
+    },
+    "arxiv_nytipv": {
+      "headline": "Even The Best Generative Models Hallucinate, Study Shows",
+      "hook": "Researchers redefined hallucinations in AI as moments when a model's guess has no real‑world cause behind it. They showed that even the most accurate possible algorithms still make these baseless guesses, guaranteeing a minimum rate of hallucination for any data. The result means hallucinations are built‑in to learning, not just a flaw to be erased.",
+      "visual": "a vintage telescope pointed at a night sky where a bright star is missing",
+      "cover": "/paper-covers/arxiv_nytipv.jpg",
+      "enriched_at": "2026-06-10T17:18:39.759Z"
+    },
+    "arxiv_12yz2ct": {
+      "headline": "How Well Do Multimodal AI Models Know Their Own Limits?",
+      "hook": "Researchers took several advanced models that can read both images and text and checked how well their confidence matches their actual performance on jobs like captioning pictures and answering visual questions. They discovered that many of these models tend to be overconfident, which could cause problems in critical areas like medical diagnosis or self‑driving cars.",
+      "visual": "a self-driving car's dashboard display showing a pedestrian outline with a question mark overlay",
+      "cover": "/paper-covers/arxiv_12yz2ct.jpg",
+      "enriched_at": "2026-06-10T17:18:46.305Z"
+    },
+    "arxiv_1yazkj2": {
+      "headline": "Gradient-Based Prompt Tuning Boosts Diffusion Model Image Quality",
+      "hook": "Researchers turned prompt writing into a gradient‑driven search, nudging words until the diffusion model’s output matches the description more closely. This approach finds better prompts without exhaustive trial‑and‑error, giving users higher‑quality images that follow their intent.",
+      "visual": "a sleek workstation with a holographic keyboard where typed words float upward and morph into a vivid landscape on a transparent screen",
+      "cover": "/paper-covers/arxiv_1yazkj2.jpg",
+      "enriched_at": "2026-06-10T17:18:58.393Z"
+    },
+    "arxiv_xk890m": {
+      "headline": "Blockly2Hooks Enables Visual Smart Contracts On XRP Ledger",
+      "hook": "Researchers built Blockly2Hooks, a tool that lets anyone create smart contracts for the XRP Ledger by snapping together Google Blockly blocks like a visual programming language. This lowers the barrier for everyday users to deploy contracts for payments, NFTs, or automated agreements without writing code. The result is a drag‑and‑drop way to bring blockchain functionality to anyone with a browser.",
+      "visual": "a hand arranging colorful Blockly puzzle blocks on a laptop screen displaying the XRP Ledger logo",
+      "cover": "/paper-covers/arxiv_xk890m.jpg",
+      "enriched_at": "2026-06-10T17:18:59.694Z"
+    },
+    "arxiv_13jqmwf": {
+      "headline": "A Simple Trick Lets AI Learn From Any Number of Data Types At Once",
+      "hook": "Researchers built a lightweight method that can align representations from text, images, audio, sensor streams, and more without needing paired examples for every combination. By contrasting each modality against a shared reference, the approach scales to unlimited data types while staying simple enough to plug into existing models. The result is a single embedding space that lets robots, medical systems, or video apps understand and transfer knowledge across modalities they’ve never seen together before.",
+      "visual": "a quadruped robot stepping over rubble while projecting holographic icons of a speech bubble, a musical note, and a video frame above its back",
+      "cover": "/paper-covers/arxiv_13jqmwf.jpg",
+      "enriched_at": "2026-06-10T17:19:02.278Z"
+    },
+    "arxiv_15n7ox4": {
+      "headline": "Shared Control Tested for Critical Driving Maneuvers",
+      "hook": "Researchers let drivers and automation share steering during emergency lane changes and hard braking, measuring how well the combined system avoids collisions. They found that when the car gently nudges the wheel while the driver stays alert, reaction times improve and crash risk drops. The result shows a practical way to make self‑driving aids feel safer without taking full control away from the person behind the wheel.",
+      "visual": "a sedan's steering wheel moving slightly under automated assistance while the driver's hands hover nearby",
+      "cover": "/paper-covers/arxiv_15n7ox4.jpg",
+      "enriched_at": "2026-06-10T17:19:13.443Z"
+    },
+    "arxiv_6tnq76": {
+      "headline": "A New Primal‑Dual Lens Clarifies How Transformers Build Attention",
+      "hook": "Researchers turned the design of transformer attention into a primal‑dual optimization problem, letting them derive attention formulas from first principles. This view reveals why certain attention patterns work well and offers a systematic way to invent new ones that could improve language and vision models. The approach bridges the gap between heuristic tricks and solid mathematical grounding, promising more reliable and interpretable AI systems.",
+      "visual": "a mathematician drawing dual geometric shapes on a chalkboard next to a glowing transformer network diagram",
+      "cover": "/paper-covers/arxiv_6tnq76.jpg",
+      "enriched_at": "2026-06-10T17:19:26.656Z"
+    },
+    "arxiv_fpi292": {
+      "headline": "Bayesian Trust Shields Multi‑Agent Tracking From Compromised Agents",
+      "hook": "Researchers examined how teams of sensors share data to track moving targets, then designed a Bayesian approach that lets each sensor judge the trustworthiness of its peers. Even when some sensors are hijacked and send false information, the method can still correctly decide whether a target is present. This means critical intelligence networks can stay reliable despite adversaries trying to slip in compromised agents.",
+      "visual": "a flock of drones flying over a battlefield with one drone glowing red to indicate a compromised agent",
+      "cover": "/paper-covers/arxiv_fpi292.jpg",
+      "enriched_at": "2026-06-10T17:19:34.026Z"
+    },
+    "arxiv_1rf9q8e": {
+      "headline": "Scene-Driven Exploration Boosts Android GUI Model Coverage",
+      "hook": "Researchers created a method that guides automated testers to focus on what users actually see on screen, letting them click through many more app pages than before. This produces richer maps of how an app’s screens connect, revealing hidden navigation paths. The improved maps help developers catch bugs faster and designers understand complex flows.",
+      "visual": "a smartphone screen displaying a vibrant app interface with highlighted buttons and arrows tracing a user’s path through multiple screens",
+      "cover": "/paper-covers/arxiv_1rf9q8e.jpg",
+      "enriched_at": "2026-06-10T17:19:36.792Z"
+    },
+    "arxiv_1ujia7b": {
+      "headline": "Formal Tool Checks That Masked Crypto Code Behaves Like the Original",
+      "hook": "Researchers built an automated checker that compares a masked version of a cryptographic routine with its plain version, proving they produce the same results despite the added noise. This matters because masking is supposed to stop hackers from reading power leaks, but only if the masked code still works correctly. The tool can catch subtle bugs that would otherwise slip through, giving developers confidence that their side‑channel defenses don’t break the algorithm.",
+      "visual": "a split‑screen laptop display showing the original cryptographic algorithm on the left and its masked version on the right, with a checkmark highlighting equivalence",
+      "cover": "/paper-covers/arxiv_1ujia7b.jpg",
+      "enriched_at": "2026-06-10T17:19:47.761Z"
+    },
+    "arxiv_1puy6bz": {
+      "headline": "Logic‑Boosted AI Models Learn To Ground Abstract Concepts In Vision",
+      "hook": "Researchers taught large language models to write simple programs that tell vision systems how to spot abstract ideas like “justice” or “freedom” in pictures. By adding logical rules, the AI can reason about concepts that aren’t directly visible, opening the door to machines that understand meaning beyond pixels. This step could let future assistants interpret complex scenes the way humans do.",
+      "visual": "a transparent tablet screen showing a flowchart linking the word 'justice' to images of courtroom scenes",
+      "cover": "/paper-covers/arxiv_1puy6bz.jpg",
+      "enriched_at": "2026-06-10T17:19:52.416Z"
+    },
+    "arxiv_1nagers": {
+      "headline": "New Testing Method Finds Compiler Bugs in Relaxed Memory Models",
+      "hook": "Researchers built a tool that runs the same multi-threaded program through a compiler and then checks whether the allowed outcomes under the hardware's relaxed memory model match those possible from the original source code. When a mismatch appears, it signals a compiler bug that could cause subtle race conditions only visible in concurrent executions. This approach catches bugs that traditional testing misses, helping make compilers safer for real-world parallel software.",
+      "visual": "a dual-pane code view showing source and compiled code with diverging thread arrows",
+      "cover": "/paper-covers/arxiv_1nagers.jpg",
+      "enriched_at": "2026-06-10T17:20:01.245Z"
+    },
+    "arxiv_16k44pz": {
+      "headline": "Implicit Redundancy Boosts Self-Healing in Cyber-Physical Systems",
+      "hook": "Researchers found that hidden backup pathways already present in the hardware of cyber‑physical systems let the machines automatically reroute tasks when parts fail or are hit by an attack. This built‑in redundancy keeps the system running without adding extra components or waiting for a human fix. The approach could make factories, power grids, and other critical infrastructure far more resilient to unexpected glitches.",
+      "visual": "a factory robotic arm smoothly moving around a damaged joint while continuing its assembly task",
+      "cover": "/paper-covers/arxiv_16k44pz.jpg",
+      "enriched_at": "2026-06-10T17:20:12.957Z"
+    },
+    "arxiv_1xq1hyg": {
+      "headline": "LLM Frameworks Streamline Power‑System Coding From Routine to Novel",
+      "hook": "Researchers created LLM‑driven tools that turn plain‑language requests into working power‑system code, handling everything from routine data‑processing scripts to novel control algorithms. By automating the coding step, these frameworks let engineers spend less time debugging syntax and more time designing cleaner, more reliable energy systems.",
+      "visual": "a laptop displaying colorful power‑system code next to a miniature model of a power grid",
+      "cover": "/paper-covers/arxiv_1xq1hyg.jpg",
+      "enriched_at": "2026-06-10T17:20:13.263Z"
+    },
+    "arxiv_1qqq5je": {
+      "headline": "How Drivers Follow Self‑Driving Cars vs Human‑Driven Ones in Lyft Data",
+      "hook": "Researchers pulled thousands of real‑world driving moments from Lyft’s open self‑driving car data, comparing how people drive behind robotaxis versus ordinary cars. They discovered that drivers leave noticeably more space when trailing an autonomous vehicle, suggesting a built‑in wariness of the machines. This gap could smooth traffic or create bottlenecks as self‑driving cars become common.",
+      "visual": "a sedan trailing a self‑driving Lyft car on a city street at dusk",
+      "cover": "/paper-covers/arxiv_1qqq5je.jpg",
+      "enriched_at": "2026-06-10T17:20:14.401Z"
+    },
+    "arxiv_gpdtxl": {
+      "headline": "Most CHERI-Ported Memory Allocators Fall to Security Tests on Morello",
+      "hook": "Researchers took several open-source memory allocators and ran them on Arm's Morello board, which uses CHERI hardware capabilities to protect memory. They then tried a set of new attacks designed to bypass those protections and found that every allocator except one leaked or corrupted data. The result shows that even with strong hardware safeguards, allocator design still matters for real-world security.",
+      "visual": "a researcher's hand holding a small circuit board labeled Morello with glowing CHERI capability tags",
+      "cover": "/paper-covers/arxiv_gpdtxl.jpg",
+      "enriched_at": "2026-06-10T17:20:25.069Z"
+    },
+    "arxiv_tn4xbj": {
+      "headline": "How Ready Are People for Fully Driverless Cars?",
+      "hook": "Researchers surveyed thousands of drivers across several countries to gauge trust, safety concerns, and willingness to ride in fully autonomous vehicles. They found that while many appreciate the promise of fewer accidents, a significant share remains uneasy about giving up control. The results highlight a clear gap between technological readiness and public acceptance that could shape how self‑driving cars roll out.",
+      "visual": "a self-driving car stopped at a crosswalk with pedestrians waiting",
+      "cover": "/paper-covers/arxiv_tn4xbj.jpg",
+      "enriched_at": "2026-06-10T17:21:01.170Z"
+    },
+    "arxiv_cvnvux": {
+      "headline": "AR Boosts Control of Vibration Exciters for Structural Tests",
+      "hook": "Researchers used augmented reality overlays to let engineers see and adjust vibration exciter settings in real time, replacing manual dials. This approach makes structural dynamics tests faster and more precise, especially in hard-to-reach lab or field setups. The result is a more intuitive way to probe how buildings and bridges respond to shakes.",
+      "visual": "an engineer wearing AR glasses while pointing at a vibrating metal plate on a test rig",
+      "cover": "/paper-covers/arxiv_cvnvux.jpg",
+      "enriched_at": "2026-06-10T17:21:01.175Z"
+    },
+    "arxiv_1tngp28": {
+      "headline": "Secure Key Exchange Protects Remote-Controlled Robots from Cyber Attacks",
+      "hook": "Researchers designed a protocol that lets a remote controller and a mobile robot agree on a secret encryption key while anyone listening can only see useless data. This keeps the robot’s commands safe from hackers who might try to seize control in factories, hospitals, or disaster zones. The scheme works even if the attacker can observe the whole exchange, making the robot resilient to sophisticated cyber‑attacks.",
+      "visual": "a wheeled robot navigating a warehouse aisle while a bright encrypted signal pulses from a remote controller in the operator's hand",
+      "cover": "/paper-covers/arxiv_1tngp28.jpg",
+      "enriched_at": "2026-06-10T17:21:25.615Z"
+    },
+    "arxiv_1mrj63p": {
+      "headline": "SysML Extension Enables Early Testing of Cyber‑Physical Systems",
+      "hook": "Researchers built a modeling language based on SysML that lets engineers check both simulated and real‑world versions of cyber‑physical parts before building them. It helps spot design flaws early, saving time and money by showing whether a component can be reused across different systems. The result is a clearer path from concept to prototype, turning vague ideas into testable plans.",
+      "visual": "a split‑screen showing a virtual drone model on one side and its real‑world counterpart flying side by side",
+      "cover": "/paper-covers/arxiv_1mrj63p.jpg",
+      "enriched_at": "2026-06-10T17:21:34.379Z"
+    },
+    "arxiv_1afte1a": {
+      "headline": "Can Java Taint-Analysis Tools Find Bugs in Kotlin Code?",
+      "hook": "The researchers ran several Java-based taint analyzers on a suite of real-world Kotlin Android apps to see how many security flaws they could spot. They found that the tools catch most classic Java-style vulnerabilities, but miss issues that rely on Kotlin-specific features like null-safe calls, extension functions, and coroutines. This shows that reusing Java analysis works surprisingly well, yet Android developers still need Kotlin-aware extensions for full coverage.",
+      "visual": "a laptop screen showing Kotlin code with red arrows highlighting data flow from user input to a sink",
+      "cover": "/paper-covers/arxiv_1afte1a.jpg",
+      "enriched_at": "2026-06-10T17:21:38.393Z"
+    }
+  }
+}

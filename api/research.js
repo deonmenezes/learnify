@@ -10,11 +10,28 @@
 //   sort      "trending" (default, by momentum) | "citations" | "recent"
 //
 // Response: { generated_at, count, papers: [
-//   { id, title, org, category, summary, citations, trend, url } ] }
+//   { id, title, org, category, summary, citations, trend, url,
+//     original_title, image } ] }
+// `title`/`summary` are the precomputed addictive headline + hook from
+// papers-enriched.json (scripts/enrich.mjs) when available — falling back to
+// the raw arXiv/OpenAlex title + abstract. `original_title` always carries the
+// raw title; `image` is the absolute URL of the generated Flux cover (or null).
 //
 // CORS open. Edge-cached ~30m with stale-while-revalidate so it stays fresh + fast.
 
+import { readFileSync } from "node:fs";
 import { collectPapers } from "../lib/papers.js";
+import { isRelevantRaw } from "../lib/research-shared.js";
+
+// Precomputed per-paper enrichment (headline/hook/cover) from scripts/enrich.mjs.
+// Same readFileSync-try/catch convention as the enriched.json article cache —
+// a missing/corrupt file just means raw titles/abstracts (never a 500).
+function loadPapersEnriched() {
+  try {
+    const j = JSON.parse(readFileSync(new URL("../papers-enriched.json", import.meta.url), "utf-8"));
+    return j && j.papers && typeof j.papers === "object" ? j.papers : {};
+  } catch { return {}; }
+}
 
 // The app DROPS any paper whose `category` is not one of these exact NewsCategory
 // rawValues: "AI / ML", "Robotics", "Coding & Dev Tools", "Startups & Funding",
@@ -22,47 +39,8 @@ import { collectPapers } from "../lib/papers.js";
 // Papers now span all categories via arXiv breadth (cs.RO, cs.CR, cs.SE, cs.PL,
 // cs.AR, cs.HC, eess.SY, cond-mat.mtrl-sci, q-bio.BM, physics.app-ph) and
 // OpenAlex concepts. Classifier order: most-specific first, AI/ML last as default.
-// RELEVANCE GATE — this is an AI/tech/science reader, NOT a med/social-science
-// digest. OpenAlex's "recent AI" tier floods with applied-ML papers from clinical
-// medicine, epidemiology, psychology, education and pure social science; those
-// bury the genuine CS/AI/eng work from arXiv. Drop a paper that reads off-topic
-// UNLESS it also carries a hard CS/AI/engineering signal (e.g. a real ML-systems
-// paper that happens to mention "clinical").
-const OFFTOPIC = /\b(disease|clinical|patient|cancer|tumou?rs?|oncolog\w*|epidemiolog\w*|mortalit\w*|prevalence|incidence|comorbid\w*|disabilit\w*|metaboli\w*|metabolom\w*|cytometr\w*|genome-wide|gwas|biomarker\w*|therapeutic\w*|\btherapy\b|diagnos\w*|surgery|surgical|nursing|psycholog\w*|psychiatr\w*|learner aptitude|second[- ]language|institutional distance|drug discovery|pharmac\w*|vaccine\w*|antibod\w*|cohort study|randomi[sz]ed controlled|public health|clinical trial|\bpedagog\w*)\b/i;
-const TECHSIG = /\b(algorithm|neural network|transformer|\bllm\b|large language model|\bgpu\b|robot\w*|autonomous|software|compiler|programming|cryptograph\w*|encryption|semiconductor|quantum comput\w*|reinforcement learning|computer vision|benchmark|inference|fine[- ]tun\w*|diffusion model|graph neural|\bfpga\b|chip design|distributed system|operating system|database system|kubernetes|\bcs\.[a-z]{2}\b)\b/i;
-
-// Sections that lib/papers.js force-tags onto curated topical OpenAlex picks
-// (these are intentionally on-topic even without a lexical tech signal — e.g.
-// startup/funding papers).
-const TOPIC_TAGS = new Set([
-  "robotics", "security cryptography", "software engineering",
-  "startup venture funding business model",
-]);
-
-// Runs on a RAW paper (has source/section), so we can trust arXiv wholesale and
-// hold OpenAlex to a higher bar. Keeps: all arXiv (curated CS/AI/science), the
-// curated topical picks, and OpenAlex papers with a real tech signal. Drops:
-// clinical/med/psych/social-science noise and "applied-ML-to-random-field".
-// Crackpot / non-English / garbage preprint guard. A real paper title is mostly
-// Latin script, a reasonable length, and doesn't lead with a math-symbol token
-// (e.g. "SΔϕ-62 — World Model Kernel").
-function looksLikeJunk(title) {
-  const t = String(title || "").trim();
-  if (t.length < 14) return true;
-  const ascii = (t.match(/[\x20-\x7E]/g) || []).length / t.length;
-  if (ascii < 0.9) return true;              // mostly non-Latin → non-English / garbage
-  if (/^[^A-Za-z0-9"'(]/.test(t)) return true; // leads with a symbol → odd
-  return false;
-}
-
-function isRelevantRaw(p) {
-  const hay = `${p.title || ""} ${p.summary || ""}`.toLowerCase();
-  if (looksLikeJunk(p.title)) return false;
-  if (OFFTOPIC.test(hay) && !TECHSIG.test(hay)) return false;
-  if (p.source_id === "arxiv" || p.source === "arXiv") return true;
-  if (TOPIC_TAGS.has(p.section)) return true;
-  return TECHSIG.test(hay);
-}
+// RELEVANCE GATE — isRelevantRaw/looksLikeJunk now live in lib/research-shared.js
+// (shared with scripts/enrich.mjs so we only enrich papers that actually ship).
 
 // The app DROPS any paper whose `category` is not one of these exact NewsCategory
 // rawValues: "AI / ML", "Robotics", "Coding & Dev Tools", "Startups & Funding",
@@ -118,18 +96,29 @@ function idFor(title) {
   return `p_${h.toString(16)}`;
 }
 
-function toResearch(p) {
+// `enr` is the precomputed papers-enriched.json entry for this paper (may be
+// undefined); `base` is the absolute origin ("https://host") for cover URLs.
+// Enriched papers ship the addictive headline as `title` and the hook as
+// `summary` (raw title/abstract are the fallbacks); `original_title` always
+// carries the raw title, `image` the generated Flux cover (or null).
+function toResearch(p, enr, base) {
   const org = String(p.author || p.source || "Research").slice(0, 80);
-  const summary = (p.summary && p.summary.trim()) || `Recent ${p.source || "research"} paper.`;
+  const rawTitle = String(p.title || "").trim();
+  const rawSummary = (p.summary && p.summary.trim()) || `Recent ${p.source || "research"} paper.`;
+  const headline = (enr && typeof enr.headline === "string" && enr.headline.trim()) || "";
+  const hook = (enr && typeof enr.hook === "string" && enr.hook.trim()) || "";
+  const cover = (enr && typeof enr.cover === "string" && enr.cover.startsWith("/paper-covers/")) ? enr.cover : null;
   return {
-    id: p.id || idFor(String(p.title || "")),
-    title: String(p.title || "").trim(),
+    id: p.id || idFor(rawTitle),
+    title: headline || rawTitle,
     org,
     category: toAppCategory(p),
-    summary,
+    summary: hook || rawSummary,
     citations: Number.isFinite(p.citations) ? p.citations : 0,
     trend: trendScore(p),
     url: String(p.link || "").trim(),
+    original_title: rawTitle,
+    image: cover ? `${base}${cover}` : null,
   };
 }
 
@@ -148,10 +137,16 @@ export default async function handler(req, res) {
   const sort = str(req.query?.sort) || "recent";
   const limit = parseInt(str(req.query?.limit), 10);
 
+  // Absolute origin for cover-image URLs — built exactly like api/articles.js.
+  const proto = (req.headers["x-forwarded-proto"] || "https").split(",")[0];
+  const host = req.headers["x-forwarded-host"] || req.headers.host || "";
+  const base = host ? `${proto}://${host}` : "";
+
   let papers = [];
   try {
     const raw = await collectPapers();
-    papers = raw.filter(isRelevantRaw).map(toResearch).filter((p) => p.title && p.url);
+    const enriched = loadPapersEnriched();
+    papers = raw.filter(isRelevantRaw).map((p) => toResearch(p, enriched[p.id], base)).filter((p) => p.title && p.url);
   } catch (err) {
     // Never 500 the tab — the app has its own bundled-sample fallback.
     return res.status(200).json({ generated_at: new Date().toISOString(), count: 0, papers: [], error: String(err) });
