@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T17:48:55.282Z",
+  "generated_at": "2026-06-10T18:57:49.994Z",
   "handles": [
     "nvidia",
     "GoogleDeepMind",
@@ -10,6 +10,131 @@
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2064770676473418144",
+      "title": "What does it take to bring open models into the enterprise? On the NVIDIA AI Podcast, Mistral CTO and co-founder Timothée Lacroix joins to discuss @MistralAI’s open-model philosophy, its Forge…",
+      "link": "https://x.com/nvidia/status/2064770676473418144",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-10T18:04:25.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "What does it take to bring open models into the enterprise? On the NVIDIA AI Podcast, Mistral CTO and co-founder Timothée Lacroix joins to discuss @MistralAI’s open-model philosophy, its Forge customization framework, and its collaboration with NVIDIA through the Nemotron",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 94,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "tech substance (model, models, nemotron)",
+        "business signal (enterprise)"
+      ],
+      "metrics": {
+        "likes": 47,
+        "retweets": 8,
+        "replies": 16,
+        "likes_h": "47"
+      },
+      "engagement": 79,
+      "hot": false
+    },
+    {
+      "id": "x_2064748589117497618",
+      "title": "More than 500 researchers across all seven of @Stanford University’s schools now have access to a massive upgrade in computing power. In partnership with NVIDIA and Mark III Systems, Stanford has…",
+      "link": "https://x.com/nvidia/status/2064748589117497618",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-10T16:36:39.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "More than 500 researchers across all seven of @Stanford University’s schools now have access to a massive upgrade in computing power. In partnership with NVIDIA and Mark III Systems, Stanford has deployed \"Marlowe\", a DGX SuperPOD equipped with 248 NVIDIA Hopper GPUs. The goal",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 91,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "tech substance (gpus, hopper)",
+        "business signal (partnership)"
+      ],
+      "metrics": {
+        "likes": 126,
+        "retweets": 16,
+        "replies": 18,
+        "likes_h": "126"
+      },
+      "engagement": 176,
+      "hot": false
+    },
+    {
+      "id": "x_2064741061352636762",
+      "title": "DiffusionGemma is our new experimental open model with up to 4x faster output on dedicated GPUs. Instead of predicting word-by-word, it generates entire blocks of text simultaneously. This lets the…",
+      "link": "https://x.com/GoogleDeepMind/status/2064741061352636762",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Google DeepMind · @GoogleDeepMind",
+      "handle": "GoogleDeepMind",
+      "org": "Google",
+      "published": "2026-06-10T16:06:44.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "Google",
+        "Product"
+      ],
+      "summary": "DiffusionGemma is our new experimental open model with up to 4x faster output on dedicated GPUs. Instead of predicting word-by-word, it generates entire blocks of text simultaneously. This lets the model self-correct and format complex markdown in real time.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 78,
+      "sentiment": "positive",
+      "sentiment_score": 1,
+      "reasons": [
+        "report-worthy",
+        "casual tone (this)",
+        "tech substance (model, gpus)",
+        "high engagement (1.2K likes)",
+        "concrete metrics"
+      ],
+      "metrics": {
+        "likes": 1220,
+        "retweets": 135,
+        "replies": 70,
+        "likes_h": "1.2K"
+      },
+      "engagement": 1560,
+      "hot": false
+    },
     {
       "id": "x_2064482269998281206",
       "title": "At #WWDC26, NVIDIA Confidential Computing on @GoogleCloud is enabling Apple to extend their groundbreaking Private Cloud Compute service to third-party data centers for the first time. NVIDIA is…",
@@ -35,7 +160,7 @@
       "summary": "At #WWDC26, NVIDIA Confidential Computing on @GoogleCloud is enabling Apple to extend their groundbreaking Private Cloud Compute service to third-party data centers for the first time. NVIDIA is collaborating with Apple and Google to power Apple Intelligence workloads built",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 74,
+      "worthiness_score": 75,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -43,12 +168,12 @@
         "tech substance (data center)"
       ],
       "metrics": {
-        "likes": 252,
-        "retweets": 42,
-        "replies": 37,
-        "likes_h": "252"
+        "likes": 272,
+        "retweets": 48,
+        "replies": 39,
+        "likes_h": "272"
       },
-      "engagement": 373,
+      "engagement": 407,
       "hot": false
     },
     {
@@ -85,12 +210,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 116,
-        "retweets": 15,
+        "likes": 132,
+        "retweets": 18,
         "replies": 16,
-        "likes_h": "116"
+        "likes_h": "132"
       },
-      "engagement": 162,
+      "engagement": 184,
       "hot": false
     },
     {
@@ -127,12 +252,12 @@
         "tech substance (inference)"
       ],
       "metrics": {
-        "likes": 156,
+        "likes": 168,
         "retweets": 19,
-        "replies": 27,
-        "likes_h": "156"
+        "replies": 29,
+        "likes_h": "168"
       },
-      "engagement": 221,
+      "engagement": 235,
       "hot": false
     },
     {
@@ -165,15 +290,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (model, gemini)",
-        "high engagement (840 likes)"
+        "high engagement (873 likes)"
       ],
       "metrics": {
-        "likes": 840,
-        "retweets": 111,
-        "replies": 61,
-        "likes_h": "840"
+        "likes": 873,
+        "retweets": 115,
+        "replies": 62,
+        "likes_h": "873"
       },
-      "engagement": 1123,
+      "engagement": 1165,
       "hot": false
     },
     {
@@ -210,12 +335,12 @@
         "high engagement (2.4K likes)"
       ],
       "metrics": {
-        "likes": 2429,
-        "retweets": 245,
+        "likes": 2436,
+        "retweets": 250,
         "replies": 80,
         "likes_h": "2.4K"
       },
-      "engagement": 2999,
+      "engagement": 3016,
       "hot": false
     },
     {
@@ -1217,130 +1342,6 @@
         "likes_h": "529"
       },
       "engagement": 620,
-      "hot": false
-    },
-    {
-      "id": "x_2062281977122996256",
-      "title": "We’re bringing new capabilities to GPT-Rosalind, a model series purpose-built for life sciences research at enterprise scale. It brings GPT-5.5’s agentic coding and tool use together with stronger…",
-      "link": "https://x.com/OpenAI/status/2062281977122996256",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-06-03T21:15:13.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Research"
-      ],
-      "summary": "We’re bringing new capabilities to GPT-Rosalind, a model series purpose-built for life sciences research at enterprise scale. It brings GPT-5.5’s agentic coding and tool use together with stronger intelligence for drug discovery, analysis, design, and experimental workflows.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 98,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (model, gpt, research)",
-        "business signal (enterprise)",
-        "high engagement (3.8K likes)"
-      ],
-      "metrics": {
-        "likes": 3823,
-        "retweets": 401,
-        "replies": 246,
-        "likes_h": "3.8K"
-      },
-      "engagement": 4871,
-      "hot": true
-    },
-    {
-      "id": "x_2062263049952674211",
-      "title": "Regional AI leaders are advancing sovereign AI with NVIDIA Nemotron. They’re building new datasets, sovereign AI models and agentic applications tailored to local languages, cultures and economies to…",
-      "link": "https://x.com/nvidia/status/2062263049952674211",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-03T20:00:00.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product"
-      ],
-      "summary": "Regional AI leaders are advancing sovereign AI with NVIDIA Nemotron. They’re building new datasets, sovereign AI models and agentic applications tailored to local languages, cultures and economies to serve billions of people across the globe. Learn more: https://nvda.ws/4vgAOav",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 87,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (models, nemotron)",
-        "links to a source"
-      ],
-      "metrics": {
-        "likes": 100,
-        "retweets": 14,
-        "replies": 15,
-        "likes_h": "100"
-      },
-      "engagement": 143,
-      "hot": false
-    },
-    {
-      "id": "x_2062243425580367905",
-      "title": "How well do the security community's techniques hold up against AI-enabled cyberattacks? We examined 832 malicious accounts and mapped their activity onto a longstanding database of tactics and…",
-      "link": "https://x.com/AnthropicAI/status/2062243425580367905",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Anthropic · @AnthropicAI",
-      "handle": "AnthropicAI",
-      "org": "Anthropic",
-      "published": "2026-06-03T18:42:01.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "Anthropic",
-        "Commentary"
-      ],
-      "summary": "How well do the security community's techniques hold up against AI-enabled cyberattacks? We examined 832 malicious accounts and mapped their activity onto a longstanding database of tactics and techniques used by threat actors. Here's what we learned:https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 66,
-      "sentiment": "negative",
-      "sentiment_score": -0.5,
-      "reasons": [
-        "report-worthy",
-        "links to a source",
-        "high engagement (1.2K likes)"
-      ],
-      "metrics": {
-        "likes": 1198,
-        "retweets": 162,
-        "replies": 144,
-        "likes_h": "1.2K"
-      },
-      "engagement": 1666,
       "hot": false
     }
   ]
