@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-10T17:22:16.192Z",
-  "count": 37,
+  "generated_at": "2026-06-10T17:46:56.046Z",
+  "count": 38,
   "papers": {
     "oa_vfyp9y": {
       "headline": "A New Way to Pick the Best Model for Unsupervised Domain Adaptation",
@@ -260,6 +260,13 @@
       "visual": "a laptop screen showing Kotlin code with red arrows highlighting data flow from user input to a sink",
       "cover": "/paper-covers/arxiv_1afte1a.jpg",
       "enriched_at": "2026-06-10T17:21:38.393Z"
+    },
+    "oa_195jat": {
+      "headline": "Transit-Radial-Velocity Method Tracks Close-In Small Planet Evolution",
+      "hook": "Researchers built a model that uses both transit dips and stellar wobbles to study how small planets near their stars change over time. By combining these two measurements, they can infer the planets' makeup and how much atmosphere they lose without relying on guesses from a single technique. The approach gives a clearer picture of which close-in worlds might retain conditions suitable for life.",
+      "visual": "a small rocky planet transiting its host star while a spectrometer measures the star's wobble",
+      "cover": "/paper-covers/oa_195jat.jpg",
+      "enriched_at": "2026-06-10T17:46:53.578Z"
     }
   }
 }
