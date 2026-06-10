@@ -17,7 +17,7 @@ import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import { collectArticles } from "../lib/feeds.js";
 import { aiSummarize } from "../lib/summarize.js";
-import { openverseMedia } from "../lib/media.js";
+import { openverseMedia, scrapeOgImage } from "../lib/media.js";
 
 const ROOT = new URL("../", import.meta.url);
 const OUT = fileURLToPath(new URL("enriched.json", ROOT));
@@ -83,6 +83,38 @@ await mapLimit(pending, CONCURRENCY, async (a) => {
   }
   if (done % 10 === 0) console.log(`  …${done}/${pending.length}`);
 });
+
+// --- Images: scrape og:image for items whose feed carries none ---------------
+// Hacker News RSS ships zero images — each item just links an external page.
+// Scrape that page's <meta og:image> here, at enrich time, so the live API
+// serves a real publisher image with no request latency. HN first (it's the
+// whole coverage gap), then any other image-less stragglers. Items the live
+// fallback already scraped this run (image_origin === "scrape") are persisted
+// too — the per-link memo makes that a free cache hit, not a refetch.
+const OG_MAX = parseInt(process.env.ENRICH_OG_MAX || "60", 10);
+const needOg = articles
+  .filter((a) => a.id && !a.is_social && !a.is_paper
+    && (!a.image || a.image_origin === "scrape")
+    && /^https?:\/\//i.test(a.link || "")
+    && !(cache.items[a.id] && cache.items[a.id].image))
+  .sort((a, b) =>
+    (b.source_id === "hackernews" ? 1 : 0) - (a.source_id === "hackernews" ? 1 : 0))
+  .slice(0, OG_MAX);
+console.log(`Scraping og:image for ${needOg.length} image-less item(s) (cap ${OG_MAX})…`);
+let ogOk = 0, ogDone = 0;
+await mapLimit(needOg, 4, async (a) => {
+  let img = null;
+  try { img = await scrapeOgImage(a.link); } catch { /* dead/slow page — stays imageless */ }
+  ogDone++;
+  if (img) {
+    const prev = cache.items[a.id] || { title: a.title, t: Date.now() };
+    cache.items[a.id] = { ...prev, image: img, t: prev.t || Date.now() };
+    ogOk++;
+    if (ogOk <= 5) console.log(`  ✓ [${a.source}] ${a.title.slice(0, 60)}\n     → ${img.slice(0, 90)}`);
+  }
+  if (ogDone % 15 === 0) console.log(`  …og ${ogDone}/${needOg.length}`);
+});
+console.log(`og:image: +${ogOk} publisher images scraped.`);
 
 // --- Images: precompute a license-clean, CREDITED photo per article ----------
 // Keyless Openverse (CC / public-domain) — legal to display with attribution.
