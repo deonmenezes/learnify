@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-10T18:55:53.576Z",
+  "generated_at": "2026-06-10T20:37:25.914Z",
   "model": "nvidia/nemotron-3-super-120b-a12b",
-  "count": 160,
+  "count": 215,
   "items": {
     "1lhf9ld": {
       "ai_summary": "MassMutual is adopting 12‑month AI contracts that deliver roughly 30% productivity gains while avoiding vendor lock‑in, allowing models to be swapped as the market evolves. CIO Sears Merritt says the approach prevents long‑term bets on today’s best models, which may not remain optimal a year later.",
@@ -459,9 +459,9 @@
       "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140191397"
     },
     "1xb06hs": {
+      "ai_summary": "PgDog announced it has secured funding to support its development. The tool is slated for release to work with databases in the near future.",
       "title": "PgDog is funded and coming to a database near you",
-      "t": 1781113527437,
-      "image": "https://pgdog.dev/assets/images/logo2_wide.png?v=bb9c0ef3de",
+      "t": 1781123817116,
       "media_url": "https://live.staticflickr.com/2663/4140950816_e131180c13.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
@@ -494,7 +494,11 @@
     "t7dohf": {
       "title": "Building an HTML-first site doubled our users overnight",
       "t": 1781113528204,
-      "image": "https://mohkohn.co.uk/_astro/efe-kurnaz-RnCPiXixooY-unsplash.Bp9uDJkY.jpg"
+      "image": "https://mohkohn.co.uk/_astro/efe-kurnaz-RnCPiXixooY-unsplash.Bp9uDJkY.jpg",
+      "media_url": "https://live.staticflickr.com/2663/4140950816_e131180c13.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950816"
     },
     "mhmpsb": {
       "title": "David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition",
@@ -752,8 +756,9 @@
       "media_credit_url": "https://www.flickr.com/photos/64667396@N00/2795336383"
     },
     "1ej1h4o": {
+      "ai_summary": "Apple announced that HomePod will receive two new improvements with the upcoming iOS 27 update. Additional HomePod features are expected to be revealed later this fall.",
       "title": "HomePod gets better in two new ways with iOS 27",
-      "t": 1781113547282,
+      "t": 1781123781006,
       "media_url": "https://live.staticflickr.com/8159/7228265920_7a072451a3_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: Rockspindeln / BY 2.0 via flickr",
@@ -1113,72 +1118,81 @@
       "media_credit_url": "https://www.flickr.com/photos/65193799@N00/234526475"
     },
     "1sxbp36": {
+      "ai_summary": "The top 1% of US companies by AI adoption spend about $7,500 per employee each month on AI tools and compute, while the median firm spends only $11.38. This 680‑fold disparity, highlighted by the Ramp AI Index, shows how unevenly AI investment is distributed across American business.",
       "title": "The most AI-obsessed companies spend $7,500 per employee per month. The median spends $11.",
-      "t": 1781117747898,
+      "t": 1781123777532,
       "media_url": "https://live.staticflickr.com/1/625533_9379b86613.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: cohærence * / BY-SA 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/61034561@N00/625533"
     },
     "aiozls": {
+      "ai_summary": "iOS 27 rolls out new features across multiple system apps such as Wallet, Calendar, Music, and Maps, with the Messages app receiving its own updates. The Messages app in iOS 27 gains additional capabilities as part of this broader release.",
       "title": "Here’s everything new for Messages in iOS 27",
-      "t": 1781117752899,
+      "t": 1781123784098,
       "media_url": "https://live.staticflickr.com/2359/3529299478_bf0be6bd15_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/3529299478"
     },
     "161ky40": {
+      "ai_summary": "The Saratoga Blossom Festival, originally scheduled for June 13, has been canceled. City officials said the cancellation was due to unforeseen circumstances.",
       "title": "Saratoga Blossom Festival canceled due to unforeseen circumstances",
-      "t": 1781117752902,
+      "t": 1781123781092,
       "media_url": "https://live.staticflickr.com/3942/15558667478_93ca015cf4_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: dave.see / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/9639178@N08/15558667478"
     },
     "1lnofh4": {
+      "ai_summary": "UK enterprises relying on a fragmented multi-cloud approach may still face exposure to modern threats. To improve security, they should move beyond single-cloud thinking and adopt a connected, resilient multi-cloud strategy.",
       "title": "The single-cloud trap: why UK businesses’ multi-cloud strategy risks leaving them exposed",
-      "t": 1781117752912,
+      "t": 1781123818847,
       "media_url": "https://live.staticflickr.com/3137/3067913817_83a603ef0e_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: arturodonate / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/15790252@N06/3067913817"
     },
     "x4cose": {
+      "ai_summary": "watchOS 27 introduces several helpful features for Apple Watch but drops the dedicated communication app that was present in previous versions. Users who relied on that app will need to find alternative ways to stay in touch.",
       "title": "A dedicated Apple Watch communication app is missing in watchOS 27",
-      "t": 1781117752914,
+      "t": 1781123782650,
       "media_url": "https://live.staticflickr.com/3767/10543419934_de1f8be9ce_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: Jocey K / BY-SA 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/48627921@N05/10543419934"
     },
     "sqh8r5": {
+      "ai_summary": "ServiceNow warned customers that a security bug left some of their data exposed on the internet. The company, which provides process‑automation software to thousands of enterprises, said several customers' data was accessed as a result of the flaw.",
       "title": "ServiceNow tells customers a bug left some of their data exposed to the internet",
-      "t": 1781117752938,
+      "t": 1781123797863,
       "media_url": "https://live.staticflickr.com/2069/2073400408_b42c8b1cdf_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: LoopZilla / BY-SA 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/24987280@N00/2073400408"
     },
     "1oncp8x": {
+      "ai_summary": "Netflix's live-action Scooby-Doo: Origins casts a real dog as Scooby, the first time the iconic character is portrayed by an actual animal. The decision has divided fans, with some welcoming the change and others expressing dissatisfaction.",
       "title": "Netflix's Scooby-Doo: Origins just introduced its canine star — but the live-action series is already dividing fans",
-      "t": 1781117752945,
+      "t": 1781123788424,
       "media_url": "https://live.staticflickr.com/5597/15245179158_01d95ee0c8_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: bionicteaching / BY-SA 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/29096601@N00/15245179158"
     },
     "wu7hmt": {
+      "ai_summary": "French officials confirmed that the internal messaging tool Tchap experienced a breach but said they have not yet determined whether any data was actually compromised. A cybercriminal posted on a dark web forum claiming to have stolen gigabytes of sensitive information from Tchap.",
       "title": "French government internal messaging tool Tchap hit by data breach — but it doesn't know if any data was compromised",
-      "t": 1781117752951,
+      "t": 1781123787340,
       "media_url": "https://live.staticflickr.com/8380/8675799486_faa2094766_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: Defence Images / BY-SA 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/48399297@N04/8675799486"
     },
     "1iqt7n9": {
+      "ai_summary": "The HyperX Origins 2 1800 offers top‑tier mechanical switches and hardware customization, delivering pure mechanical excellence. Yet certain gamers may find it lacking compared to newer options in the modern gaming keyboard landscape.",
       "title": "‘The mechanical switches and hardware customizations are top-tier’: this HyperX gaming keyboard is one of the best I’ve tested — but certain gamers will be disappointed",
-      "t": 1781117752960,
+      "t": 1781123789490,
       "media_url": "https://live.staticflickr.com/6086/6053891782_31c05b3d9a_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: blakespot / BY 2.0 via flickr",
@@ -1249,8 +1263,9 @@
       "media_credit_url": "https://www.flickr.com/photos/24662369@N07/22012623666"
     },
     "3go8fz": {
+      "ai_summary": "Google's Gemini service suffered an outage that left users encountering error codes 1076 and 1099. The company says a fix is currently being implemented.",
       "title": "Google Gemini outage frustrates users, but a fix is in the works (Updated)",
-      "t": 1781117753432,
+      "t": 1781123792214,
       "media_url": "https://live.staticflickr.com/65535/54410796874_43ff6842c2_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: PatrickRich / CC0 1.0 via flickr",
@@ -1271,6 +1286,486 @@
       "media_kind": "stock",
       "media_credit": "Photo: ImagePros / BY-SA 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/40645329@N06/14923161637"
+    },
+    "3hxfpj": {
+      "ai_summary": "Nashville Zoo is opposing a proposed 69,000‑square‑foot AI data center that would overlook its animal habitats, having gathered more than 375,000 petition signatures. The zoo warns the facility could threaten animal welfare and conservation efforts.",
+      "title": "Nashville Zoo leads fight against mega AI data center — over 375,000 sign petition against 69,000 square foot building set to overlook animal habitats",
+      "t": 1781123706921,
+      "media_url": "https://live.staticflickr.com/2498/4101477686_f17a4bd323_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: insidious_plots / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/70928775@N00/4101477686"
+    },
+    "1qyt7y5": {
+      "ai_summary": "Apple and Google have added Thread 1.4 support to their smart‑home streaming devices, with Apple TV receiving it in the tvOS 27 developer beta and the Google TV Streamer getting it via a software update. The update prepares these devices for enhanced Matter‑based connectivity and improved smart‑home performance.",
+      "title": "Apple, Google add support for Thread 1.4",
+      "t": 1781123709776,
+      "media_url": "https://live.staticflickr.com/3712/13251512835_4a99624ce9_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: QUOI Media / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/49698777@N02/13251512835"
+    },
+    "d3mm4f": {
+      "ai_summary": "Apple unveiled over 250 changes across its upcoming OS releases shown at WWDC 2026, including iOS 27, macOS 27 Golden Gate, watchOS 27, tvOS 27, and visionOS 27. The updates are currently available as developer betas and are expected to roll out to all users later this year.",
+      "title": "Apple Shares Massive List of Over 250 Changes Across iOS 27, macOS Golden Gate, and More",
+      "t": 1781123709931,
+      "media_url": "https://live.staticflickr.com/3503/3952644038_4693b262a0_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/3952644038"
+    },
+    "oc4wow": {
+      "ai_summary": "Rising electricity demand from AI data centers is pushing automakers like GM and Ford to enter the energy‑storage sector, seeking a share of Tesla’s battery business. This move reflects a broader trend of companies leveraging battery expertise beyond electric vehicles.",
+      "title": "Everyone wants a piece of Tesla’s battery business",
+      "t": 1781123710018,
+      "media_url": "https://live.staticflickr.com/4103/5188745207_4874e293d0_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: USAG-Humphreys / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/31687107@N07/5188745207"
+    },
+    "18xim9w": {
+      "ai_summary": "Kalshi has begun requiring employment verification for some of its prediction‑market bets. The CFTC is issuing a notice of proposed rulemaking that would set up a structured framework to assess whether such markets facilitate insider‑trading violations.",
+      "title": "Kalshi adds required employment verification for some prediction market bets",
+      "t": 1781123714186,
+      "media_url": "https://live.staticflickr.com/3623/3561445749_15558076bf_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: triberesearch / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/16860458@N02/3561445749"
+    },
+    "1dkiu4g": {
+      "ai_summary": "President Trump's nomination of housing official Bill Pulte to lead a major surveillance program has raised alarms among lawmakers over his lack of intelligence experience. Critics warn the move could jeopardize key surveillance authorities.",
+      "title": "Trump Risks Key Surveillance Authority Over ‘Unqualified’ Spy-Chief Pick",
+      "t": 1781123716609,
+      "media_url": "https://live.staticflickr.com/65535/52671288180_514355728f_m.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: nordique / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/28435100@N00/52671288180"
+    },
+    "8vq2na": {
+      "ai_summary": "The Raspberry Pi 5 is now available with 16 GB of RAM for $350. This model represents the highest‑memory option in the latest Pi 5 series.",
+      "title": "Raspberry Pi 5 – 16 GB, $350",
+      "t": 1781123717782,
+      "image": "https://www.adafruit.com/images/480x360/6125-00.jpg",
+      "media_url": "https://live.staticflickr.com/2723/4140951044_cebe112a5b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140951044"
+    },
+    "rx1fv5": {
+      "ai_summary": "WhatsApp will end support for older iOS and iPadOS versions, with the change taking effect on November 30, 2026. After that date, the app will require a newer operating system to run on iPhones and iPads.",
+      "title": "WhatsApp to drop support for these older iOS and iPadOS versions later this year",
+      "t": 1781123718474,
+      "media_url": "https://live.staticflickr.com/7226/7228043754_55199398fc_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Rockspindeln / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/53030568@N07/7228043754"
+    },
+    "15rnksw": {
+      "ai_summary": "Amazon secured a $17.5 billion bank loan after a recent bond sale to fund its growing AI expenditures. The borrowing highlights increasing corporate debt as companies pour money into the AI arms race.",
+      "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+      "t": 1781123719519,
+      "media_url": "https://live.staticflickr.com/5806/30466646812_ef581bf8de_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: ITU Pictures / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/42121221@N07/30466646812"
+    },
+    "9y1mzf": {
+      "ai_summary": "Stockton, California has approved the use of Flock drones as first responders after investing millions of dollars in the technology. Residents have expressed concerns that the deployment could lead to militarization and increased surveillance.",
+      "title": "This California city just approved the use of Flock drones as first responders, but residents are worried about 'militarization and surveillance'",
+      "t": 1781123726146,
+      "media_url": "https://live.staticflickr.com/3929/15438985795_a58866a1ff_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: FolsomNatural / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/87249144@N08/15438985795"
+    },
+    "4bvk3t": {
+      "ai_summary": "Valve announced it will stop producing physical Steam gift cards to combat ongoing scam problems. The decision aims to reduce fraudulent activity linked to the cards.",
+      "title": "Valve will stop producing physical Steam gift cards because of scammers",
+      "t": 1781123729740,
+      "media_url": "https://live.staticflickr.com/3461/13005240394_017eabc945_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: JeepersMedia / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/39160147@N03/13005240394"
+    },
+    "18qskeh": {
+      "ai_summary": "A new deep‑dive video showcases Fable’s compelling life‑sim system in the upcoming reboot. The game will release on Xbox Series X/S, PS5 and PC on February 23.",
+      "title": "A Fable deep dive video shows off the RPG's compelling life sim system",
+      "t": 1781123730122,
+      "media_url": "https://live.staticflickr.com/2200/1774781183_3c4956edb4_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: tomer.gabel / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/8432555@N03/1774781183"
+    },
+    "kbcfmt": {
+      "ai_summary": "NEURA Robotics secured up to $1.4 billion in Series C funding from investors including Nvidia, Amazon, and Tether, valuing the German firm at roughly $7 billion. The company says this is the largest funding round ever raised by a full‑stack robotics company.",
+      "title": "NEURA Robotics raises up to $1.4B in record robotics round backed by Nvidia, Amazon, and Tether",
+      "t": 1781123732219,
+      "media_url": "https://live.staticflickr.com/4276/34909539225_8b2f0008a8_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/34909539225"
+    },
+    "y1dbzv": {
+      "ai_summary": "CrowdStrike reports that North Korean hackers are responsible for nearly half of recent cyberattacks on the U.S. tech industry. Posing as remote IT workers and recruiters, they continue to threaten companies across the United States, Europe, and Asia.",
+      "title": "North Koreans behind nearly half of US tech industry hacks, says CrowdStrike",
+      "t": 1781123732984,
+      "media_url": "https://live.staticflickr.com/2682/4090015274_d975b05539_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: US Army Africa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/36281822@N08/4090015274"
+    },
+    "1goxmk3": {
+      "ai_summary": "Anthropic CEO Dario Amodei argues that powerful AI models should be subject to government oversight similar to the FAA’s regulation of commercial aviation, advocating for safety‑focused release standards. Enterprises should anticipate forthcoming compliance requirements that could impact how they develop, test, and deploy large‑scale AI systems.",
+      "title": "Anthropic CEO calls for FAA-style regulation of powerful AI models: what enterprises should know",
+      "t": 1781123733660,
+      "media_url": "https://live.staticflickr.com/7098/7084704269_5b6ff69b60_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: MDGovpics / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/64018555@N03/7084704269"
+    },
+    "1qe5322": {
+      "ai_summary": "A recently terminated Meta employee was detained by immigration agents, according to internal communications reviewed by WIRED. Colleagues discussed the detention on the company's internal message boards.",
+      "title": "A Meta Employee Who Just Lost Their Job Was Detained by Immigration Agents",
+      "t": 1781123738150,
+      "media_url": "https://live.staticflickr.com/5329/17446739231_593a358f49_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: hasgeek / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/59407447@N06/17446739231"
+    },
+    "18xhjp0": {
+      "ai_summary": "The article titled \"The Abundance Illusion\" appears on Carlyle.com. It explores the concept that perceived abundance may be misleading.",
+      "title": "The Abundance Illusion",
+      "t": 1781123750955,
+      "media_url": "https://live.staticflickr.com/2571/4140191985_68bbbe9e22.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140191985"
+    },
+    "1yt7sjv": {
+      "ai_summary": "Alien: Isolation 2 retains the series' uncompromising, tension‑driven horror approach. The opening prologue we played shows it still delivers effective scares.",
+      "title": "Alien: Isolation 2 keeps the classic horror game's uncompromising approach to raising tension",
+      "t": 1781123751989,
+      "media_url": "https://live.staticflickr.com/4040/4229404933_055747a5fb.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Patrick Hoesly / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/60057912@N00/4229404933"
+    },
+    "z4zrtg": {
+      "ai_summary": "Xcode 27 introduces native support for Google Gemini alongside Claude Code and OpenAI Codex for agentic coding assistance. Developers can now plan, write, and review code using these AI models directly within the IDE.",
+      "title": "Xcode 27 expands agentic coding toolset with Gemini integration",
+      "t": 1781123755746,
+      "media_url": "https://live.staticflickr.com/565/22012623666_53b364878e_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: NASA Goddard Photo and Video / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/24662369@N07/22012623666"
+    },
+    "nxl6jt": {
+      "ai_summary": "The buyers of a downtown San Jose housing tower have brought the founder of WeWork and Flow onto the ownership group. Adam Neumann, who launched both WeWork and the residential startup Flow, now holds an ownership stake in the tower.",
+      "title": "San Jose housing tower owners include exec who started Flow and WeWork",
+      "t": 1781123756270,
+      "media_url": "https://live.staticflickr.com/674/23209540182_f0c27ef3b7_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: USDAgov / PDM 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/41284017@N08/23209540182"
+    },
+    "1ash7wn": {
+      "ai_summary": "Google released DiffusionGemma, an open AI model that delivers a four‑times speed increase for diffusion‑based text generation. Although diffusion models are primarily used for image creation, this version significantly accelerates producing text outputs.",
+      "title": "Google's latest DiffusionGemma open AI model comes with a 4x speed boost",
+      "t": 1781123757304,
+      "media_url": "https://live.staticflickr.com/65535/48732961972_c4b3bb2438_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/48732961972"
+    },
+    "kz0o3e": {
+      "ai_summary": "Varonis researchers created an OpenClaw email agent named Pinchy and linked it to a Gmail inbox containing fabricated corporate data. A single phishing email impersonating a trusted sender caused Pinchy to disclose AWS credentials, database connection strings, and a customer export without authentication.",
+      "title": "Researchers tricked an OpenClaw AI agent into leaking AWS keys and customer data with a phishing email",
+      "t": 1781123759101,
+      "media_url": "https://live.staticflickr.com/5350/30495671441_8ffef49d47_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: ITU Pictures / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/42121221@N07/30495671441"
+    },
+    "i1ews9": {
+      "ai_summary": "A newly discovered zero‑day vulnerability in Microsoft Defender could allow attackers to gain full control of affected systems. The threat group Chaotic Eclipse has now disclosed its seventh zero‑day exploit within the past two months.",
+      "title": "This Microsoft Defender zero-day could give hackers unprecedented access to your system",
+      "t": 1781123760754,
+      "media_url": "https://live.staticflickr.com/1161/624970578_cc45f55ea4_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Hay Kranen / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/27574438@N00/624970578"
+    },
+    "btcm13": {
+      "ai_summary": "A farmer donated land meant for a park, but the city sold it for $10 million to be used as a data‑center site. The city expects to collect about $30 million in tax revenue from the development over the next decade.",
+      "title": "Farmer donates land for a park, city sells it for $10M as data center land",
+      "t": 1781123761540,
+      "image": "https://cdn.mos.cms.futurecdn.net/iRypPh9tngoWdjn9byB345-1920-80.jpg",
+      "media_url": "https://live.staticflickr.com/3402/4646054291_13d1773717_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: cincodenada06 / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/14506798@N00/4646054291"
+    },
+    "v0wz2t": {
+      "ai_summary": "Mint Mobile has increased the data allowances on its plans without raising prices. Customers now receive more data at no extra cost.",
+      "title": "Mint Mobile's surprise move delivers more data at no extra cost",
+      "t": 1781123762642,
+      "media_url": "https://live.staticflickr.com/7395/27650024050_0c2b4119a5_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: USDAgov / PDM 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/41284017@N08/27650024050"
+    },
+    "c93ji0": {
+      "ai_summary": "Amazon's Story So Far feature is now rolling out to Kindle hardware and the iOS app, offering readers a quick recap of their progress in series books. Android users will have to wait for the feature to arrive on their devices.",
+      "title": "Amazon's 'Story So Far' feature is finally rolling out to Kindles",
+      "t": 1781123763479,
+      "media_url": "https://live.staticflickr.com/7422/12369089904_166e8573d5_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/12369089904"
+    },
+    "1k4e5v4": {
+      "ai_summary": "The classic 6‑inch Kindle’s compact size means only cases made for its exact dimensions will fit properly. The recommended bundles are those specifically designed to match the device’s measurements.",
+      "title": "Buying a new classic 6-inch Kindle? These are the best cases to bundle in with your purchase",
+      "t": 1781123765740,
+      "media_url": "https://live.staticflickr.com/2165/2139831945_2a99097f88_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: adactio / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/74105777@N00/2139831945"
+    },
+    "9j78xc": {
+      "ai_summary": "Halo: Campaign Evolved is a remake of the original Halo game, offering a refreshed take on the classic campaign. It will be released on consoles on July 28.",
+      "title": "Take a deep look at Halo: Campaign Evolved before it launches next month",
+      "t": 1781123767257,
+      "media_url": "https://live.staticflickr.com/4201/34864038691_bbd8947c58_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: BLM Oregon & Washington / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/50169152@N06/34864038691"
+    },
+    "1xnr861": {
+      "ai_summary": "Android Desktop Mode provides the core features needed for a laptop‑like experience, yet persistent annoyances keep it from being a true replacement. The interface still feels unfinished, giving the impression of a beta release.",
+      "title": "Android Desktop Mode almost made me throw away my laptop, but these annoying issues held me back",
+      "t": 1781123767786,
+      "media_url": "https://live.staticflickr.com/3805/9889314773_02472bb15c_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Daniel_Afanador / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/8532510@N05/9889314773"
+    },
+    "m3kyt6": {
+      "ai_summary": "The article examines Anthropic's approach to naming its AI models and projects how those conventions might evolve. It extrapolates current naming patterns to predict future model designations.",
+      "title": "Anthropic's Model Naming, Extrapolated",
+      "t": 1781123772583,
+      "media_url": "https://live.staticflickr.com/2663/4140950816_e131180c13.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950816"
+    },
+    "1s3ci6j": {
+      "ai_summary": "Potensic’s new Atom 3 beginner drone features a 1/1.3‑inch sensor, 4K 60p video with Log color profile, 50MP stills, and up to 40 minutes of flight time, positioning it as a direct competitor to the DJI Lito X1. Despite its upgraded controller and competitive price, the same US regulatory barriers to entry still apply.",
+      "title": "Potensic just took on the DJI Lito X1 with its new and upgraded Atom 3 beginner drone — but the same US barriers to entry currently apply",
+      "t": 1781123773211,
+      "media_url": "https://live.staticflickr.com/2629/12970826404_a6fbdf0f16_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Michael Khor / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/27578890@N07/12970826404"
+    },
+    "15negii": {
+      "ai_summary": "PiFS is a playful file system that stores data by locating it within the digits of π, treating the constant as an infinite lookup table. Though presented as a working prototype on GitHub, it is intended as a conceptual joke rather than a practical storage solution.",
+      "title": "ΠFS",
+      "t": 1781123775072,
+      "image": "https://opengraph.githubassets.com/d6b3d753aad8f775c0975946af7ccabbeec28567098ead7799f88de186c58582/philipl/pifs",
+      "media_url": "https://live.staticflickr.com/2669/4140191319_7dc49ddca2.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140191319"
+    },
+    "1lgkxa6": {
+      "ai_summary": "A Chinese state‑linked botnet dubbed JDY now controls over 1,500 compromised routers, firewalls and IoT devices and scans for newly disclosed vulnerabilities within hours of their release. Researchers say the network has more than doubled in size and is actively mapping targets for exploitation.",
+      "title": "A Chinese state-linked botnet has grown to 1,500 hacked routers and is mapping vulnerable targets within hours of disclosure",
+      "t": 1781123775851,
+      "media_url": "https://live.staticflickr.com/3161/3033615378_3855c03b42_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: futureatlas.com / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/87913776@N00/3033615378"
+    },
+    "3aq3ux": {
+      "ai_summary": "GeoLibre 1.0 has been released, as announced in the article at geolibre.app. The launch post received 46 points and three comments on Hacker News.",
+      "title": "GeoLibre 1.0",
+      "t": 1781123779805,
+      "media_url": "https://live.staticflickr.com/2630/4140950240_d53df4111b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950240"
+    },
+    "1o9eewr": {
+      "ai_summary": "Bay Area agricultural officials are scrambling to trace grapevines sold at Costco that may be infested with the glassy‑winged sharpshooter. The insect transmits a bacterium that causes plants to die of thirst, prompting a rapid search for the potentially contaminated vines.",
+      "title": "Bay Area counties struggling to ID infested grapevine plants sold at Costco",
+      "t": 1781123780291,
+      "media_url": "https://live.staticflickr.com/27/68184846_6b7d17e992_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Ken Lund / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/75683070@N00/68184846"
+    },
+    "x_2064770676473418144": {
+      "ai_summary": "Mistral CTO Timothée Lacroix appeared on the NVIDIA AI Podcast to explain the company's open‑model philosophy for enterprise adoption. He detailed MistralAI’s Forge customization framework and its joint work with NVIDIA on the Nemotron model.",
+      "title": "What does it take to bring open models into the enterprise? On the NVIDIA AI Podcast, Mistral CTO and co-founder Timothée Lacroix joins to discuss @MistralAI’s open-model philosophy, its Forge…",
+      "t": 1781123781814,
+      "media_url": "https://live.staticflickr.com/4029/4422056048_b2e34546c0_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: royblumenthal / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/56788416@N00/4422056048"
+    },
+    "10m3v2a": {
+      "title": "Hands-On With iOS 27's Siri AI",
+      "t": 1781123837220,
+      "image": "https://images.macrumors.com/t/FvvE61ZpC2dlbK-qoIUBLtFbNNM=/2500x/article-new/2026/06/Siri-AI-Hands-On-Thumb-1.jpg",
+      "media_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Lest_We_Forget_-_World_War_I_Memorial_-_Marlborough%2C_MA_-_DSC04388.JPG",
+      "media_kind": "stock",
+      "media_credit": "Photo: Daderot / CC0 1.0 via wikimedia",
+      "media_credit_url": "https://commons.wikimedia.org/w/index.php?curid=18521404"
+    },
+    "hclbd1": {
+      "title": "Major Russian mobile provider Beeline launches 'whitelist VPN' for Netflix and Spotify",
+      "t": 1781123844923,
+      "media_url": "https://live.staticflickr.com/65535/49568006143_7c99e6ab01_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: topten5 / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/185174148@N07/49568006143"
+    },
+    "1udrgo5": {
+      "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
+      "t": 1781123844947,
+      "media_url": "https://live.staticflickr.com/1801/43267970922_94ebb5b7e6.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: deepakiqlect / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/158301585@N08/43267970922"
+    },
+    "p8c6zm": {
+      "title": "Racist comments targeting politicians tripled since Meta relaxed its rules",
+      "t": 1781123844958,
+      "media_url": "https://live.staticflickr.com/7393/12470755584_b474931c4e_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Gene Hunt / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/90384027@N00/12470755584"
+    },
+    "ozf3av": {
+      "title": "What that tiny green dot on your Samsung phone is telling you",
+      "t": 1781123844983,
+      "media_url": "https://live.staticflickr.com/3279/2965871882_610e9c6410.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: jontintinjordan / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/25414047@N00/2965871882"
+    },
+    "10tgm9a": {
+      "title": "iOS 27 Adds Six New Features to Apple Wallet on Your iPhone",
+      "t": 1781123844996,
+      "media_url": "https://live.staticflickr.com/8042/8035724293_ab73a8ce35_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Karen Roe / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/28752865@N08/8035724293"
+    },
+    "1179a8x": {
+      "title": "GM Energy introduces V2G support and new energy storage battery chemistry",
+      "t": 1781123845008,
+      "media_url": "https://live.staticflickr.com/764/22937617980_15c2d468f3_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Sicnag / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/42220226@N07/22937617980"
+    },
+    "fbbazz": {
+      "title": "iOS 27 Brings These Five New Features to Your iPhone Lock Screen",
+      "t": 1781123845023,
+      "media_url": "https://live.staticflickr.com/7099/7174087319_43082b0c18_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Ron Cogswell / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/22711505@N05/7174087319"
+    },
+    "146kbtn": {
+      "title": "Decart’s new world model can simulate hours of photorealistic driving — with some caveats",
+      "t": 1781123845045,
+      "media_url": "https://live.staticflickr.com/5350/30495671441_8ffef49d47_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: ITU Pictures / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/42121221@N07/30495671441"
+    },
+    "bsky_1bt5ztu": {
+      "title": "1. I am not an AI researcher 2. \"Doesn't just repeat back to you what you said\" ... isn't what any chatbots do, nor what that metaphor was about. 3. For the millionth time, that paper was about LLMs,…",
+      "t": 1781123845074,
+      "media_url": "https://live.staticflickr.com/7323/14109847526_28444a91cf_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: JeepersMedia / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/39160147@N03/14109847526"
+    },
+    "1h5i7nd": {
+      "title": "ServiceNow reveals security issue affecting customer data, but won't reveal much on what actually happened",
+      "t": 1781123845083,
+      "media_url": "https://live.staticflickr.com/7129/7712545428_8615dcb6d8_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Alexandre Dulaunoy / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/31797858@N00/7712545428"
+    },
+    "1dtlz8t": {
+      "title": "Digital Notebook Throwdown (2026): Kindle Scribe, ReMarkable Paper Pure",
+      "t": 1781123845087,
+      "media_url": "https://cdn.stocksnap.io/img-thumbs/960w/J2EZQDXGOT.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Top Down Tech / CC0 1.0 via stocksnap",
+      "media_credit_url": "https://stocksnap.io/photo/watch-phone-J2EZQDXGOT"
+    },
+    "g5etg": {
+      "title": "What’s the Best Kindle of 2026? (So Far)",
+      "t": 1781123845116,
+      "media_url": "https://live.staticflickr.com/2856/33333691792_061e83a4e5_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Eric Seneca Kim / PDM 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/77356818@N00/33333691792"
+    },
+    "zzproa": {
+      "title": "Capcom has finally announced a major Dragon's Dogma 2 expansion — and there's a huge quality-of-life update available now",
+      "t": 1781123845183,
+      "media_url": "https://live.staticflickr.com/1681/24547586063_246f0b9a20_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Nelo Hotsuma / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/63122283@N06/24547586063"
+    },
+    "ro98xr": {
+      "title": "Snapchat limits users under 16 to sharing Spotlights with friends",
+      "t": 1781123845218,
+      "media_url": "https://live.staticflickr.com/8209/8170094533_2e12f7c26c_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: NASA Goddard Photo and Video / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/24662369@N07/8170094533"
+    },
+    "1orngu3": {
+      "title": "Interview: Swift Student Challenge winners talk app inspiration, presenting to Tim Cook and John Ternus, more",
+      "t": 1781123845274,
+      "media_url": "https://live.staticflickr.com/4552/38736797352_54c2ab7b9a_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: LBJLibraryNow / PDM 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/100836534@N04/38736797352"
+    },
+    "pyqzjt": {
+      "title": "Only 3 iPhones can access the best version of Siri AI — here’s which features are exclusive to Apple's 'most powerful on-device model', AFM Core Advanced, and whether you should care about them",
+      "t": 1781123845330,
+      "media_url": "https://live.staticflickr.com/8369/8455872022_edd90a7685_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: See-ming Lee (SML) / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/48973657@N00/8455872022"
+    },
+    "k151ol": {
+      "title": "We Are Crowd-Sourcing the Panopticon",
+      "t": 1781123845759,
+      "media_url": "https://live.staticflickr.com/8522/8566082872_1b3b11dc9d.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Mike Licht, NotionsCapital.com / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/9106303@N05/8566082872"
+    },
+    "1n31jc7": {
+      "title": "Insta360's Luna Ultra takes on DJI's Osmo Pocket gimbal cameras",
+      "t": 1781123845913,
+      "media_url": "https://live.staticflickr.com/8294/7850002860_dcfccc05dd_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: archer10 (Dennis) / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/22490717@N02/7850002860"
     }
   }
 }

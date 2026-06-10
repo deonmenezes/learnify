@@ -1,15 +1,56 @@
 {
-  "generated_at": "2026-06-10T18:57:49.994Z",
+  "generated_at": "2026-06-10T20:39:17.341Z",
   "handles": [
+    "claudeai",
     "nvidia",
     "GoogleDeepMind",
-    "AnthropicAI",
     "gdb",
-    "OpenAI",
-    "NVIDIAAI"
+    "NVIDIAAI",
+    "AnthropicAI",
+    "OpenAI"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2064785573852672275",
+      "title": "In Sierra Leone, a surging student population is outpacing available teachers. Our latest research explores how AI can act as a partner to support educators in these environments – amplifying their…",
+      "link": "https://x.com/GoogleDeepMind/status/2064785573852672275",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Google DeepMind · @GoogleDeepMind",
+      "handle": "GoogleDeepMind",
+      "org": "Google",
+      "published": "2026-06-10T19:03:37.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "Google",
+        "Research"
+      ],
+      "summary": "In Sierra Leone, a surging student population is outpacing available teachers. Our latest research explores how AI can act as a partner to support educators in these environments – amplifying their reach without replacing their essential expertise and skills. 🧵",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 71,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "tech substance (research)"
+      ],
+      "metrics": {
+        "likes": 65,
+        "retweets": 6,
+        "replies": 14,
+        "likes_h": "65"
+      },
+      "engagement": 91,
+      "hot": false
+    },
     {
       "id": "x_2064770676473418144",
       "title": "What does it take to bring open models into the enterprise? On the NVIDIA AI Podcast, Mistral CTO and co-founder Timothée Lacroix joins to discuss @MistralAI’s open-model philosophy, its Forge…",
@@ -34,7 +75,7 @@
       "summary": "What does it take to bring open models into the enterprise? On the NVIDIA AI Podcast, Mistral CTO and co-founder Timothée Lacroix joins to discuss @MistralAI’s open-model philosophy, its Forge customization framework, and its collaboration with NVIDIA through the Nemotron",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 94,
+      "worthiness_score": 95,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -43,12 +84,12 @@
         "business signal (enterprise)"
       ],
       "metrics": {
-        "likes": 47,
-        "retweets": 8,
-        "replies": 16,
-        "likes_h": "47"
+        "likes": 81,
+        "retweets": 12,
+        "replies": 22,
+        "likes_h": "81"
       },
-      "engagement": 79,
+      "engagement": 127,
       "hot": false
     },
     {
@@ -75,7 +116,7 @@
       "summary": "More than 500 researchers across all seven of @Stanford University’s schools now have access to a massive upgrade in computing power. In partnership with NVIDIA and Mark III Systems, Stanford has deployed \"Marlowe\", a DGX SuperPOD equipped with 248 NVIDIA Hopper GPUs. The goal",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 91,
+      "worthiness_score": 92,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -84,12 +125,12 @@
         "business signal (partnership)"
       ],
       "metrics": {
-        "likes": 126,
-        "retweets": 16,
-        "replies": 18,
-        "likes_h": "126"
+        "likes": 156,
+        "retweets": 22,
+        "replies": 21,
+        "likes_h": "156"
       },
-      "engagement": 176,
+      "engagement": 221,
       "hot": false
     },
     {
@@ -123,16 +164,16 @@
         "report-worthy",
         "casual tone (this)",
         "tech substance (model, gpus)",
-        "high engagement (1.2K likes)",
+        "high engagement (1.4K likes)",
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 1220,
-        "retweets": 135,
-        "replies": 70,
-        "likes_h": "1.2K"
+        "likes": 1448,
+        "retweets": 159,
+        "replies": 79,
+        "likes_h": "1.4K"
       },
-      "engagement": 1560,
+      "engagement": 1845,
       "hot": false
     },
     {
@@ -168,12 +209,12 @@
         "tech substance (data center)"
       ],
       "metrics": {
-        "likes": 272,
-        "retweets": 48,
+        "likes": 280,
+        "retweets": 49,
         "replies": 39,
-        "likes_h": "272"
+        "likes_h": "280"
       },
-      "engagement": 407,
+      "engagement": 417,
       "hot": false
     },
     {
@@ -210,13 +251,55 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 132,
-        "retweets": 18,
-        "replies": 16,
-        "likes_h": "132"
+        "likes": 137,
+        "retweets": 20,
+        "replies": 17,
+        "likes_h": "137"
       },
-      "engagement": 184,
+      "engagement": 194,
       "hot": false
+    },
+    {
+      "id": "x_2064394146916229443",
+      "title": "Introducing Claude Fable 5: a Mythos-class model that we’ve made safe for general use. Its capabilities exceed those of any model we’ve ever made generally available.",
+      "link": "https://x.com/claudeai/status/2064394146916229443",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Claude · @claudeai",
+      "handle": "claudeai",
+      "org": "Anthropic",
+      "published": "2026-06-09T17:08:13.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product launch",
+      "categories": [
+        "X",
+        "Anthropic",
+        "Product launch"
+      ],
+      "summary": "Introducing Claude Fable 5: a Mythos-class model that we’ve made safe for general use. Its capabilities exceed those of any model we’ve ever made generally available.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 100,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "announcement language (introducing, generally available)",
+        "tech substance (model, claude)",
+        "high engagement (99.4K likes)"
+      ],
+      "metrics": {
+        "likes": 99423,
+        "retweets": 13943,
+        "replies": 4624,
+        "likes_h": "99.4K"
+      },
+      "engagement": 131933,
+      "hot": true
     },
     {
       "id": "x_2064393419150041405",
@@ -252,12 +335,12 @@
         "tech substance (inference)"
       ],
       "metrics": {
-        "likes": 168,
-        "retweets": 19,
+        "likes": 170,
+        "retweets": 20,
         "replies": 29,
-        "likes_h": "168"
+        "likes_h": "170"
       },
-      "engagement": 235,
+      "engagement": 239,
       "hot": false
     },
     {
@@ -290,15 +373,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (model, gemini)",
-        "high engagement (873 likes)"
+        "high engagement (881 likes)"
       ],
       "metrics": {
-        "likes": 873,
+        "likes": 881,
         "retweets": 115,
         "replies": 62,
-        "likes_h": "873"
+        "likes_h": "881"
       },
-      "engagement": 1165,
+      "engagement": 1173,
       "hot": false
     },
     {
@@ -335,12 +418,12 @@
         "high engagement (2.4K likes)"
       ],
       "metrics": {
-        "likes": 2436,
+        "likes": 2440,
         "retweets": 250,
         "replies": 80,
         "likes_h": "2.4K"
       },
-      "engagement": 3016,
+      "engagement": 3020,
       "hot": false
     },
     {
@@ -497,12 +580,12 @@
         "high engagement (1.3K likes)"
       ],
       "metrics": {
-        "likes": 1256,
-        "retweets": 91,
-        "replies": 132,
+        "likes": 1258,
+        "retweets": 92,
+        "replies": 133,
         "likes_h": "1.3K"
       },
-      "engagement": 1570,
+      "engagement": 1575,
       "hot": false
     },
     {
@@ -1259,89 +1342,6 @@
         "likes_h": "1.6K"
       },
       "engagement": 2081,
-      "hot": false
-    },
-    {
-      "id": "x_2062521325076299981",
-      "title": "Today we're shipping Nemotron 3 Ultra. A 550B MoE frontier-intelligence open model built for long-running agents. It delivers 5x faster inference and lowers the cost of complex agentic tasks by up to…",
-      "link": "https://x.com/NVIDIAAI/status/2062521325076299981",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA AI · @NVIDIAAI",
-      "handle": "NVIDIAAI",
-      "org": "NVIDIA",
-      "published": "2026-06-04T13:06:18.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product launch",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product launch"
-      ],
-      "summary": "Today we're shipping Nemotron 3 Ultra. A 550B MoE frontier-intelligence open model built for long-running agents. It delivers 5x faster inference and lowers the cost of complex agentic tasks by up to 30% versus other open frontier models.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 100,
-      "sentiment": "positive",
-      "sentiment_score": 1,
-      "reasons": [
-        "report-worthy",
-        "announcement language (today we, today we're, shipping)",
-        "tech substance (model, models, nemotron)",
-        "high engagement (3.4K likes)",
-        "concrete metrics"
-      ],
-      "metrics": {
-        "likes": 3422,
-        "retweets": 462,
-        "replies": 188,
-        "likes_h": "3.4K"
-      },
-      "engagement": 4534,
-      "hot": true
-    },
-    {
-      "id": "x_2062292268602773747",
-      "title": "Major upgrade to GPT-Rosalind, with much better intelligence for drug discovery, analysis, design, and experimental workflows:",
-      "link": "https://x.com/gdb/status/2062292268602773747",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Greg Brockman · @gdb",
-      "handle": "gdb",
-      "org": "OpenAI",
-      "published": "2026-06-03T21:56:07.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Product"
-      ],
-      "summary": "Major upgrade to GPT-Rosalind, with much better intelligence for drug discovery, analysis, design, and experimental workflows:",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 69,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "tech substance (gpt)"
-      ],
-      "metrics": {
-        "likes": 529,
-        "retweets": 25,
-        "replies": 41,
-        "likes_h": "529"
-      },
-      "engagement": 620,
       "hot": false
     }
   ]
