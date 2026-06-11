@@ -1,15 +1,220 @@
 {
-  "generated_at": "2026-06-11T14:08:13.050Z",
+  "generated_at": "2026-06-11T17:54:47.538Z",
   "handles": [
+    "claudeai",
     "nvidia",
     "GoogleDeepMind",
-    "claudeai",
-    "AnthropicAI",
+    "demishassabis",
     "gdb",
+    "AnthropicAI",
     "OpenAI"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2065112614414229934",
+      "title": "Our CEO Jensen Huang on the opportunity ahead: use AI deeply, challenge the status quo, and stay focused on the human purpose behind the work. Every job has tasks. People give those tasks purpose,…",
+      "link": "https://x.com/nvidia/status/2065112614414229934",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-11T16:43:09.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Commentary"
+      ],
+      "summary": "Our CEO Jensen Huang on the opportunity ahead: use AI deeply, challenge the status quo, and stay focused on the human purpose behind the work. Every job has tasks. People give those tasks purpose, and AI can help turn that purpose into greater impact.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 56,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy"
+      ],
+      "metrics": {
+        "likes": 124,
+        "retweets": 22,
+        "replies": 32,
+        "likes_h": "124"
+      },
+      "engagement": 200,
+      "hot": false
+    },
+    {
+      "id": "x_2065093482088169719",
+      "title": "We’re teaming up @Palmeiras, the first football club to meaningfully build upon TacticAI: our AI system that can help simulate field scenarios and predict open play dynamics up to 8 seconds in…",
+      "link": "https://x.com/GoogleDeepMind/status/2065093482088169719",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Google DeepMind · @GoogleDeepMind",
+      "handle": "GoogleDeepMind",
+      "org": "Google",
+      "published": "2026-06-11T15:27:08.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "Google",
+        "Commentary"
+      ],
+      "summary": "We’re teaming up @Palmeiras, the first football club to meaningfully build upon TacticAI: our AI system that can help simulate field scenarios and predict open play dynamics up to 8 seconds in advance. ⚽",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 60,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy"
+      ],
+      "metrics": {
+        "likes": 681,
+        "retweets": 81,
+        "replies": 29,
+        "likes_h": "681"
+      },
+      "engagement": 872,
+      "hot": false
+    },
+    {
+      "id": "x_2065031279213441309",
+      "title": "When millions of AI agents interact with each other, new collective behaviors can emerge. 🌐 Together with @schmidtsciences, @coop_ai, @ARIA_research and supported by @GoogleOrg, we’re launching a…",
+      "link": "https://x.com/GoogleDeepMind/status/2065031279213441309",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Google DeepMind · @GoogleDeepMind",
+      "handle": "GoogleDeepMind",
+      "org": "Google",
+      "published": "2026-06-11T11:19:58.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "Google",
+        "Research"
+      ],
+      "summary": "When millions of AI agents interact with each other, new collective behaviors can emerge. 🌐 Together with @schmidtsciences, @coop_ai, @ARIA_research and supported by @GoogleOrg, we’re launching a $10M research fund to help understand how AI systems behave as a group. →",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 100,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "announcement language (launching)",
+        "tech substance (agents, research)",
+        "concrete metrics"
+      ],
+      "metrics": {
+        "likes": 322,
+        "retweets": 67,
+        "replies": 61,
+        "likes_h": "322"
+      },
+      "engagement": 517,
+      "hot": false
+    },
+    {
+      "id": "x_2064904409008504922",
+      "title": "Honored. 🏆 NVIDIA has been recognized with the Industry AI Acceleration Award by @OpenAI, celebrating our work accelerating OpenAI adoption across industries. We're proud to partner with OpenAI in…",
+      "link": "https://x.com/nvidia/status/2064904409008504922",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-11T02:55:49.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Commentary"
+      ],
+      "summary": "Honored. 🏆 NVIDIA has been recognized with the Industry AI Acceleration Award by @OpenAI, celebrating our work accelerating OpenAI adoption across industries. We're proud to partner with OpenAI in helping every industry unlock the full potential of AI. This recognition belongs",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 68,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "casual tone (this)",
+        "business signal (partner with)"
+      ],
+      "metrics": {
+        "likes": 547,
+        "retweets": 59,
+        "replies": 53,
+        "likes_h": "547"
+      },
+      "engagement": 718,
+      "hot": false
+    },
+    {
+      "id": "x_2064873362799600042",
+      "title": "Awesome to see this innovation in text diffusion. DiffusionGemma is lightning fast, 4x faster than other Gemma 4 models! Congrats to @bodonoghue85 and the team who worked so hard on this - excited to…",
+      "link": "https://x.com/demishassabis/status/2064873362799600042",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Demis Hassabis · @demishassabis",
+      "handle": "demishassabis",
+      "org": "Google",
+      "published": "2026-06-11T00:52:27.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "Google",
+        "Product"
+      ],
+      "summary": "Awesome to see this innovation in text diffusion. DiffusionGemma is lightning fast, 4x faster than other Gemma 4 models! Congrats to @bodonoghue85 and the team who worked so hard on this - excited to see what people build with it!",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 55,
+      "sentiment": "positive",
+      "sentiment_score": 1,
+      "reasons": [
+        "report-worthy",
+        "casual tone (congrats, this)",
+        "tech substance (models)",
+        "high engagement (1.2K likes)",
+        "concrete metrics"
+      ],
+      "metrics": {
+        "likes": 1203,
+        "retweets": 83,
+        "replies": 49,
+        "likes_h": "1.2K"
+      },
+      "engagement": 1418,
+      "hot": false
+    },
     {
       "id": "x_2064829962482241778",
       "title": "NVIDIA Vera CPUs are ready to transform every industry, including financial services. In partnership with Redpanda and HPE, NYSE is scaling capacity while further optimizing latency to power a…",
@@ -34,7 +239,7 @@
       "summary": "NVIDIA Vera CPUs are ready to transform every industry, including financial services. In partnership with Redpanda and HPE, NYSE is scaling capacity while further optimizing latency to power a high-performance, resilient and AI-ready market infrastructure, accelerated by NVIDIA",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 76,
+      "worthiness_score": 80,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -42,12 +247,12 @@
         "business signal (partnership)"
       ],
       "metrics": {
-        "likes": 94,
-        "retweets": 15,
-        "replies": 9,
-        "likes_h": "94"
+        "likes": 493,
+        "retweets": 71,
+        "replies": 33,
+        "likes_h": "493"
       },
-      "engagement": 133,
+      "engagement": 668,
       "hot": false
     },
     {
@@ -74,7 +279,7 @@
       "summary": "In Sierra Leone, a surging student population is outpacing available teachers. Our latest research explores how AI can act as a partner to support educators in these environments – amplifying their reach without replacing their essential expertise and skills. 🧵",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 72,
+      "worthiness_score": 73,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -82,12 +287,12 @@
         "tech substance (research)"
       ],
       "metrics": {
-        "likes": 114,
-        "retweets": 12,
-        "replies": 21,
-        "likes_h": "114"
+        "likes": 142,
+        "retweets": 17,
+        "replies": 25,
+        "likes_h": "142"
       },
-      "engagement": 159,
+      "engagement": 201,
       "hot": false
     },
     {
@@ -114,7 +319,7 @@
       "summary": "What does it take to bring open models into the enterprise? On the NVIDIA AI Podcast, Mistral CTO and co-founder Timothée Lacroix joins to discuss @MistralAI’s open-model philosophy, its Forge customization framework, and its collaboration with NVIDIA through the Nemotron",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 96,
+      "worthiness_score": 97,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -123,12 +328,12 @@
         "business signal (enterprise)"
       ],
       "metrics": {
-        "likes": 100,
-        "retweets": 14,
-        "replies": 25,
-        "likes_h": "100"
+        "likes": 161,
+        "retweets": 22,
+        "replies": 32,
+        "likes_h": "161"
       },
-      "engagement": 153,
+      "engagement": 237,
       "hot": false
     },
     {
@@ -155,7 +360,7 @@
       "summary": "More than 500 researchers across all seven of @Stanford University’s schools now have access to a massive upgrade in computing power. In partnership with NVIDIA and Mark III Systems, Stanford has deployed \"Marlowe\", a DGX SuperPOD equipped with 248 NVIDIA Hopper GPUs. The goal",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 92,
+      "worthiness_score": 94,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -164,12 +369,51 @@
         "business signal (partnership)"
       ],
       "metrics": {
-        "likes": 186,
-        "retweets": 24,
-        "replies": 26,
-        "likes_h": "186"
+        "likes": 290,
+        "retweets": 34,
+        "replies": 36,
+        "likes_h": "290"
       },
-      "engagement": 260,
+      "engagement": 394,
+      "hot": false
+    },
+    {
+      "id": "x_2064744109680861450",
+      "title": "From Taiwan to Kentucky to Silicon Valley, our CEO Jensen Huang’s story is one of resilience, reinvention, and a belief that accelerated computing could change the world. Watch Jensen join…",
+      "link": "https://x.com/nvidia/status/2064744109680861450",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-10T16:18:51.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Commentary"
+      ],
+      "summary": "From Taiwan to Kentucky to Silicon Valley, our CEO Jensen Huang’s story is one of resilience, reinvention, and a belief that accelerated computing could change the world. Watch Jensen join @CondoleezzaRice for the first episode of @HooverInst’s Only in America series.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 55,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy"
+      ],
+      "metrics": {
+        "likes": 478,
+        "retweets": 89,
+        "replies": 31,
+        "likes_h": "478"
+      },
+      "engagement": 687,
       "hot": false
     },
     {
@@ -203,16 +447,16 @@
         "report-worthy",
         "casual tone (this)",
         "tech substance (model, gpus)",
-        "high engagement (1.9K likes)",
+        "high engagement (2.2K likes)",
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 1938,
-        "retweets": 208,
-        "replies": 101,
-        "likes_h": "1.9K"
+        "likes": 2199,
+        "retweets": 242,
+        "replies": 105,
+        "likes_h": "2.2K"
       },
-      "engagement": 2455,
+      "engagement": 2788,
       "hot": false
     },
     {
@@ -329,15 +573,15 @@
         "report-worthy",
         "announcement language (introducing, generally available)",
         "tech substance (model, claude)",
-        "high engagement (100.1K likes)"
+        "high engagement (103.2K likes)"
       ],
       "metrics": {
-        "likes": 100053,
-        "retweets": 14003,
-        "replies": 4655,
-        "likes_h": "100.1K"
+        "likes": 103249,
+        "retweets": 14390,
+        "replies": 4840,
+        "likes_h": "103.2K"
       },
-      "engagement": 132714,
+      "engagement": 136869,
       "hot": true
     },
     {
@@ -412,15 +656,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (model, gemini)",
-        "high engagement (901 likes)"
+        "high engagement (941 likes)"
       ],
       "metrics": {
-        "likes": 901,
-        "retweets": 119,
-        "replies": 65,
-        "likes_h": "901"
+        "likes": 941,
+        "retweets": 121,
+        "replies": 67,
+        "likes_h": "941"
       },
-      "engagement": 1204,
+      "engagement": 1250,
       "hot": false
     },
     {
@@ -619,12 +863,12 @@
         "high engagement (1.3K likes)"
       ],
       "metrics": {
-        "likes": 1259,
-        "retweets": 93,
-        "replies": 134,
+        "likes": 1262,
+        "retweets": 94,
+        "replies": 136,
         "likes_h": "1.3K"
       },
-      "engagement": 1579,
+      "engagement": 1586,
       "hot": false
     },
     {
@@ -1082,261 +1326,6 @@
         "likes_h": "279"
       },
       "engagement": 368,
-      "hot": false
-    },
-    {
-      "id": "x_2062568870872003021",
-      "title": "AI research is a series of next-step decisions. We looked at sessions where a human researcher took a wrong turn, showed Claude the session up to that point, and asked it what to do next. Mythos…",
-      "link": "https://x.com/AnthropicAI/status/2062568870872003021",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Anthropic · @AnthropicAI",
-      "handle": "AnthropicAI",
-      "org": "Anthropic",
-      "published": "2026-06-04T16:15:14.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "Anthropic",
-        "Research"
-      ],
-      "summary": "AI research is a series of next-step decisions. We looked at sessions where a human researcher took a wrong turn, showed Claude the session up to that point, and asked it what to do next. Mythos Preview improved on humans 64% of the time—up from 22% in 2024.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 55,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "reply / conversation",
-        "tech substance (claude, research)",
-        "high engagement (1.5K likes)"
-      ],
-      "metrics": {
-        "likes": 1547,
-        "retweets": 81,
-        "replies": 49,
-        "likes_h": "1.5K"
-      },
-      "engagement": 1758,
-      "hot": false
-    },
-    {
-      "id": "x_2062568869240476050",
-      "title": "Each time we release a model, we run the same test: give it code that trains a small AI model, ask the new model to speed it up. It takes a skilled human 4-8 hours to reach 4x faster. In May 2024,…",
-      "link": "https://x.com/AnthropicAI/status/2062568869240476050",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Anthropic · @AnthropicAI",
-      "handle": "AnthropicAI",
-      "org": "Anthropic",
-      "published": "2026-06-04T16:15:13.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product launch",
-      "categories": [
-        "X",
-        "Anthropic",
-        "Product launch"
-      ],
-      "summary": "Each time we release a model, we run the same test: give it code that trains a small AI model, ask the new model to speed it up. It takes a skilled human 4-8 hours to reach 4x faster. In May 2024, Claude Opus 4 averaged a ~3x speedup. This April, Mythos Preview achieved ~52x.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 74,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "reply / conversation",
-        "casual tone (this)",
-        "announcement language (release)",
-        "tech substance (model, claude, opus)",
-        "high engagement (3.6K likes)",
-        "concrete metrics"
-      ],
-      "metrics": {
-        "likes": 3630,
-        "retweets": 244,
-        "replies": 61,
-        "likes_h": "3.6K"
-      },
-      "engagement": 4179,
-      "hot": true
-    },
-    {
-      "id": "x_2062568862479208923",
-      "title": "Our internal data shows Claude is accelerating AI development—a possible path to recursive self-improvement, or AI autonomously building a more capable successor. It’s happening faster than we…",
-      "link": "https://x.com/AnthropicAI/status/2062568862479208923",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Anthropic · @AnthropicAI",
-      "handle": "AnthropicAI",
-      "org": "Anthropic",
-      "published": "2026-06-04T16:15:12.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "Anthropic",
-        "Product"
-      ],
-      "summary": "Our internal data shows Claude is accelerating AI development—a possible path to recursive self-improvement, or AI autonomously building a more capable successor. It’s happening faster than we thought, and the implications deserve greater attention. https://www.anthropic.com/institute/recursive-self-improvement",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 84,
-      "sentiment": "positive",
-      "sentiment_score": 1,
-      "reasons": [
-        "report-worthy",
-        "tech substance (claude)",
-        "links to a source",
-        "high engagement (28.5K likes)"
-      ],
-      "metrics": {
-        "likes": 28544,
-        "retweets": 4658,
-        "replies": 1750,
-        "likes_h": "28.5K"
-      },
-      "engagement": 39610,
-      "hot": true
-    },
-    {
-      "id": "x_2062567561276100809",
-      "title": "The new memory system will keep track of important details automatically. If you prefer the legacy saved memories experience, you can switch back in settings. The new memory system is rolling out to…",
-      "link": "https://x.com/OpenAI/status/2062567561276100809",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-06-04T16:10:01.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Announcement",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Announcement"
-      ],
-      "summary": "The new memory system will keep track of important details automatically. If you prefer the legacy saved memories experience, you can switch back in settings. The new memory system is rolling out to Plus and Pro users in the US today, along with 2x more memory. To access it on",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 66,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "reply / conversation",
-        "announcement language (rolling out)",
-        "concrete metrics"
-      ],
-      "metrics": {
-        "likes": 848,
-        "retweets": 42,
-        "replies": 54,
-        "likes_h": "848"
-      },
-      "engagement": 986,
-      "hot": false
-    },
-    {
-      "id": "x_2062567556524003631",
-      "title": "We’ve been researching new ways for ChatGPT memory to carry context across conversations and keep it useful over time. Today, that work is rolling out as a more capable memory system in ChatGPT.…",
-      "link": "https://x.com/OpenAI/status/2062567556524003631",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-06-04T16:10:00.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Announcement",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Announcement"
-      ],
-      "summary": "We’ve been researching new ways for ChatGPT memory to carry context across conversations and keep it useful over time. Today, that work is rolling out as a more capable memory system in ChatGPT. https://openai.com/index/chatgpt-memory-dreaming/",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 96,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "announcement language (rolling out)",
-        "links to a source",
-        "high engagement (9.6K likes)"
-      ],
-      "metrics": {
-        "likes": 9636,
-        "retweets": 1014,
-        "replies": 733,
-        "likes_h": "9.6K"
-      },
-      "engagement": 12397,
-      "hot": true
-    },
-    {
-      "id": "x_2062557490210852947",
-      "title": "Building autonomous vehicles, robots, and vision AI takes more data than any team can collect on their own. At #CVPR2026, NVIDIA announced physical AI agent skills to help speed development:…",
-      "link": "https://x.com/nvidia/status/2062557490210852947",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-04T15:30:00.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Research",
-        "CVPR2026"
-      ],
-      "summary": "Building autonomous vehicles, robots, and vision AI takes more data than any team can collect on their own. At #CVPR2026, NVIDIA announced physical AI agent skills to help speed development: composable workflows that automate data generation, simulation, policy training and",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 100,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "announcement language (announced)",
-        "tech substance (agent, training)"
-      ],
-      "metrics": {
-        "likes": 298,
-        "retweets": 41,
-        "replies": 35,
-        "likes_h": "298"
-      },
-      "engagement": 415,
       "hot": false
     }
   ]
