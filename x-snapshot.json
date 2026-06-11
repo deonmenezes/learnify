@@ -1,14 +1,13 @@
 {
-  "generated_at": "2026-06-11T20:30:38.700Z",
+  "generated_at": "2026-06-11T22:27:04.503Z",
   "handles": [
-    "AnthropicAI",
-    "OpenAI",
-    "NVIDIAAI",
     "nvidia",
     "GoogleDeepMind",
+    "AnthropicAI",
     "demishassabis",
     "claudeai",
-    "gdb"
+    "gdb",
+    "OpenAI"
   ],
   "count": 32,
   "articles": [
@@ -670,7 +669,7 @@
         "likes_h": "2.2K"
       },
       "engagement": 2788,
-      "hot": false
+      "hot": true
     },
     {
       "id": "x_2064482269998281206",
@@ -920,7 +919,7 @@
         "likes_h": "2.4K"
       },
       "engagement": 3020,
-      "hot": false
+      "hot": true
     },
     {
       "id": "x_2064056027947934209",
@@ -1249,7 +1248,7 @@
         "likes_h": "3.1K"
       },
       "engagement": 4347,
-      "hot": false
+      "hot": true
     },
     {
       "id": "x_2062691991494783218",
