@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-06-11T00:22:05.783Z",
+  "generated_at": "2026-06-11T05:13:15.750Z",
   "handles": [
-    "nvidia",
     "GoogleDeepMind",
+    "gdb",
+    "NVIDIAAI",
+    "nvidia",
     "claudeai",
     "AnthropicAI",
-    "gdb",
     "OpenAI"
   ],
   "count": 32,
@@ -74,7 +75,7 @@
       "summary": "In Sierra Leone, a surging student population is outpacing available teachers. Our latest research explores how AI can act as a partner to support educators in these environments – amplifying their reach without replacing their essential expertise and skills. 🧵",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 71,
+      "worthiness_score": 72,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -82,12 +83,12 @@
         "tech substance (research)"
       ],
       "metrics": {
-        "likes": 84,
-        "retweets": 9,
-        "replies": 16,
-        "likes_h": "84"
+        "likes": 114,
+        "retweets": 12,
+        "replies": 21,
+        "likes_h": "114"
       },
-      "engagement": 118,
+      "engagement": 159,
       "hot": false
     },
     {
@@ -203,16 +204,16 @@
         "report-worthy",
         "casual tone (this)",
         "tech substance (model, gpus)",
-        "high engagement (1.7K likes)",
+        "high engagement (1.9K likes)",
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 1666,
-        "retweets": 180,
-        "replies": 90,
-        "likes_h": "1.7K"
+        "likes": 1938,
+        "retweets": 208,
+        "replies": 101,
+        "likes_h": "1.9K"
       },
-      "engagement": 2116,
+      "engagement": 2455,
       "hot": false
     },
     {
@@ -412,15 +413,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (model, gemini)",
-        "high engagement (889 likes)"
+        "high engagement (901 likes)"
       ],
       "metrics": {
-        "likes": 889,
-        "retweets": 116,
-        "replies": 63,
-        "likes_h": "889"
+        "likes": 901,
+        "retweets": 119,
+        "replies": 65,
+        "likes_h": "901"
       },
-      "engagement": 1184,
+      "engagement": 1204,
       "hot": false
     },
     {
@@ -463,7 +464,7 @@
         "likes_h": "2.4K"
       },
       "engagement": 3020,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2064056027947934209",
@@ -619,12 +620,12 @@
         "high engagement (1.3K likes)"
       ],
       "metrics": {
-        "likes": 1258,
-        "retweets": 92,
-        "replies": 133,
+        "likes": 1259,
+        "retweets": 93,
+        "replies": 134,
         "likes_h": "1.3K"
       },
-      "engagement": 1575,
+      "engagement": 1579,
       "hot": false
     },
     {
