@@ -1,13 +1,14 @@
 {
-  "generated_at": "2026-06-11T17:54:47.538Z",
+  "generated_at": "2026-06-11T20:30:38.700Z",
   "handles": [
-    "claudeai",
+    "AnthropicAI",
+    "OpenAI",
+    "NVIDIAAI",
     "nvidia",
     "GoogleDeepMind",
     "demishassabis",
-    "gdb",
-    "AnthropicAI",
-    "OpenAI"
+    "claudeai",
+    "gdb"
   ],
   "count": 32,
   "articles": [
@@ -88,6 +89,49 @@
       },
       "engagement": 872,
       "hot": false
+    },
+    {
+      "id": "x_2065057393927467084",
+      "title": "We’re launching Claude Corps, a national fellowship program matching people early in their careers with US nonprofits. We'll teach 1,000 people to use Claude, and pay them to use AI to advance their…",
+      "link": "https://x.com/AnthropicAI/status/2065057393927467084",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Anthropic · @AnthropicAI",
+      "handle": "AnthropicAI",
+      "org": "Anthropic",
+      "published": "2026-06-11T13:03:44.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product launch",
+      "categories": [
+        "X",
+        "Anthropic",
+        "Product launch"
+      ],
+      "summary": "We’re launching Claude Corps, a national fellowship program matching people early in their careers with US nonprofits. We'll teach 1,000 people to use Claude, and pay them to use AI to advance their hosts’ missions. https://www.anthropic.com/claude-corps",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 100,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "announcement language (launching)",
+        "tech substance (claude)",
+        "links to a source",
+        "high engagement (4.2K likes)"
+      ],
+      "metrics": {
+        "likes": 4201,
+        "retweets": 423,
+        "replies": 313,
+        "likes_h": "4.2K"
+      },
+      "engagement": 5360,
+      "hot": true
     },
     {
       "id": "x_2065031279213441309",
@@ -294,6 +338,175 @@
       },
       "engagement": 201,
       "hot": false
+    },
+    {
+      "id": "x_2064783424251101553",
+      "title": "And tomorrow, we’ll launch a $150 million national fellowship program designed to help people early in their careers extend the benefits of AI to communities across America.",
+      "link": "https://x.com/AnthropicAI/status/2064783424251101553",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Anthropic · @AnthropicAI",
+      "handle": "AnthropicAI",
+      "org": "Anthropic",
+      "published": "2026-06-10T18:55:04.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Funding & deals",
+      "categories": [
+        "X",
+        "Anthropic",
+        "Funding & deals"
+      ],
+      "summary": "And tomorrow, we’ll launch a $150 million national fellowship program designed to help people early in their careers extend the benefits of AI to communities across America.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 55,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "reply / conversation",
+        "business signal (million)",
+        "concrete metrics"
+      ],
+      "metrics": {
+        "likes": 300,
+        "retweets": 15,
+        "replies": 20,
+        "likes_h": "300"
+      },
+      "engagement": 350,
+      "hot": false
+    },
+    {
+      "id": "x_2064783421860413780",
+      "title": "Our Advanced AI Framework sets out how governments should prepare for and prevent catastrophic risks from frontier AI systems. The government should have the authority to block or revoke the release…",
+      "link": "https://x.com/AnthropicAI/status/2064783421860413780",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Anthropic · @AnthropicAI",
+      "handle": "AnthropicAI",
+      "org": "Anthropic",
+      "published": "2026-06-10T18:55:04.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product launch",
+      "categories": [
+        "X",
+        "Anthropic",
+        "Product launch"
+      ],
+      "summary": "Our Advanced AI Framework sets out how governments should prepare for and prevent catastrophic risks from frontier AI systems. The government should have the authority to block or revoke the release of unsafe models, and invest in societal resilience. http://www.anthropic.com/policy-on-the-ai-exponential/aaif",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 75,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "reply / conversation",
+        "announcement language (release)",
+        "tech substance (models)",
+        "links to a source"
+      ],
+      "metrics": {
+        "likes": 237,
+        "retweets": 13,
+        "replies": 22,
+        "likes_h": "237"
+      },
+      "engagement": 285,
+      "hot": false
+    },
+    {
+      "id": "x_2064783420425929169",
+      "title": "An Economic Policy Framework: a proposal for how the US government should manage labor market disruption from advanced AI. We’re contributing $200 million to a new fund to sponsor major evaluations…",
+      "link": "https://x.com/AnthropicAI/status/2064783420425929169",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Anthropic · @AnthropicAI",
+      "handle": "AnthropicAI",
+      "org": "Anthropic",
+      "published": "2026-06-10T18:55:03.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Funding & deals",
+      "categories": [
+        "X",
+        "Anthropic",
+        "Funding & deals"
+      ],
+      "summary": "An Economic Policy Framework: a proposal for how the US government should manage labor market disruption from advanced AI. We’re contributing $200 million to a new fund to sponsor major evaluations of some of these ideas. https://www.anthropic.com/policy-on-the-ai-exponential/epf",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 66,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "reply / conversation",
+        "business signal (million)",
+        "links to a source",
+        "concrete metrics"
+      ],
+      "metrics": {
+        "likes": 394,
+        "retweets": 45,
+        "replies": 20,
+        "likes_h": "394"
+      },
+      "engagement": 504,
+      "hot": false
+    },
+    {
+      "id": "x_2064783418844762489",
+      "title": "AI is advancing at a pace our policymaking institutions were never built for—and the gap between the two is becoming the central challenge of the technology. In his latest essay, our CEO Dario Amodei…",
+      "link": "https://x.com/AnthropicAI/status/2064783418844762489",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Anthropic · @AnthropicAI",
+      "handle": "AnthropicAI",
+      "org": "Anthropic",
+      "published": "2026-06-10T18:55:03.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Announcement",
+      "categories": [
+        "X",
+        "Anthropic",
+        "Announcement"
+      ],
+      "summary": "AI is advancing at a pace our policymaking institutions were never built for—and the gap between the two is becoming the central challenge of the technology. In his latest essay, our CEO Dario Amodei lays out how to close it. We're launching three new initiatives to support the",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 86,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "announcement language (launching)",
+        "high engagement (5.1K likes)"
+      ],
+      "metrics": {
+        "likes": 5109,
+        "retweets": 418,
+        "replies": 387,
+        "likes_h": "5.1K"
+      },
+      "engagement": 6332,
+      "hot": true
     },
     {
       "id": "x_2064770676473418144",
@@ -707,7 +920,7 @@
         "likes_h": "2.4K"
       },
       "engagement": 3020,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2064056027947934209",
@@ -780,15 +993,15 @@
         "report-worthy",
         "tech substance (agents, research)",
         "links to a source",
-        "high engagement (3.5K likes)"
+        "high engagement (3.6K likes)"
       ],
       "metrics": {
-        "likes": 3531,
-        "retweets": 471,
-        "replies": 291,
-        "likes_h": "3.5K"
+        "likes": 3622,
+        "retweets": 484,
+        "replies": 305,
+        "likes_h": "3.6K"
       },
-      "engagement": 4764,
+      "engagement": 4895,
       "hot": true
     },
     {
@@ -1030,13 +1243,13 @@
         "high engagement (3.1K likes)"
       ],
       "metrics": {
-        "likes": 3079,
-        "retweets": 342,
-        "replies": 516,
+        "likes": 3115,
+        "retweets": 351,
+        "replies": 530,
         "likes_h": "3.1K"
       },
-      "engagement": 4279,
-      "hot": true
+      "engagement": 4347,
+      "hot": false
     },
     {
       "id": "x_2062691991494783218",
@@ -1118,214 +1331,6 @@
         "likes_h": "347"
       },
       "engagement": 491,
-      "hot": false
-    },
-    {
-      "id": "x_2062647600424128773",
-      "title": "When laws and oversight depend on transcripts, 70–80% isn’t enough. http://Rafiqspace.ai hit 97.7% Bahasa Indonesia accuracy (2.3% WER) with fine‑tuned Nemotron Parakeet ASR—outperforming global…",
-      "link": "https://x.com/nvidia/status/2062647600424128773",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-04T21:28:04.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product"
-      ],
-      "summary": "When laws and oversight depend on transcripts, 70–80% isn’t enough. http://Rafiqspace.ai hit 97.7% Bahasa Indonesia accuracy (2.3% WER) with fine‑tuned Nemotron Parakeet ASR—outperforming global tools while cutting per‑hour costs by up to 90%. ⚖️",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 83,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (nemotron)",
-        "links to a source"
-      ],
-      "metrics": {
-        "likes": 153,
-        "retweets": 17,
-        "replies": 18,
-        "likes_h": "153"
-      },
-      "engagement": 205,
-      "hot": false
-    },
-    {
-      "id": "x_2062630458433917126",
-      "title": "Listen to the OpenAI Podcast on— Spotify https://open.spotify.com/episode/3ca5s3o53D5xcEKmKgLLGj?si=4a9a555641fa4293 Apple…",
-      "link": "https://x.com/OpenAI/status/2062630458433917126",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-06-04T20:19:57.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Research"
-      ],
-      "summary": "Listen to the OpenAI Podcast on— Spotify https://open.spotify.com/episode/3ca5s3o53D5xcEKmKgLLGj?si=4a9a555641fa4293 Apple https://podcasts.apple.com/us/podcast/how-a-reasoning-model-cracked-an-80-year-old/id1820330260?i=1000771190131 YouTube https://youtu.be/wNWz5Hbh5VQ",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 56,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "reply / conversation",
-        "tech substance (model, reasoning)",
-        "links to a source"
-      ],
-      "metrics": {
-        "likes": 120,
-        "retweets": 14,
-        "replies": 17,
-        "likes_h": "120"
-      },
-      "engagement": 165,
-      "hot": false
-    },
-    {
-      "id": "x_2062630454537424930",
-      "title": "What happened when one of our models found a counterexample to an 80-year-old Erdős conjecture? Researchers @alexwei_, @HongxunWu, and @wjmzbmr1 shared the story on the OpenAI Podcast with…",
-      "link": "https://x.com/OpenAI/status/2062630454537424930",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-06-04T20:19:56.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Product"
-      ],
-      "summary": "What happened when one of our models found a counterexample to an 80-year-old Erdős conjecture? Researchers @alexwei_, @HongxunWu, and @wjmzbmr1 shared the story on the OpenAI Podcast with @AndrewMayne and explained how mathematicians and models can work together to make new",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 78,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (models)",
-        "high engagement (1.3K likes)"
-      ],
-      "metrics": {
-        "likes": 1329,
-        "retweets": 138,
-        "replies": 158,
-        "likes_h": "1.3K"
-      },
-      "engagement": 1763,
-      "hot": false
-    },
-    {
-      "id": "x_2062595934010130815",
-      "title": "Agents are becoming a new layer of enterprise software. Jensen Huang explains why companies like @Cadence, @CrowdStrike, @Dassault3DS, @PalantirTech, @SAP, @ServiceNow, @Siemens, and @Synopsys are…",
-      "link": "https://x.com/nvidia/status/2062595934010130815",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-04T18:02:46.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product"
-      ],
-      "summary": "Agents are becoming a new layer of enterprise software. Jensen Huang explains why companies like @Cadence, @CrowdStrike, @Dassault3DS, @PalantirTech, @SAP, @ServiceNow, @Siemens, and @Synopsys are building agents on NVIDIA, and why the opportunity for software partners is only",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 91,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (agents)",
-        "business signal (enterprise)",
-        "high engagement (890 likes)"
-      ],
-      "metrics": {
-        "likes": 890,
-        "retweets": 142,
-        "replies": 61,
-        "likes_h": "890"
-      },
-      "engagement": 1235,
-      "hot": false
-    },
-    {
-      "id": "x_2062583740392435852",
-      "title": "Is your infrastructure ready for the shift to agentic AI? Discover how the latest NVIDIA DGX Spark updates simplify local agent workflows and boost inference speeds by up to 2.6x using NVIDIA…",
-      "link": "https://x.com/nvidia/status/2062583740392435852",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-04T17:14:19.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product"
-      ],
-      "summary": "Is your infrastructure ready for the shift to agentic AI? Discover how the latest NVIDIA DGX Spark updates simplify local agent workflows and boost inference speeds by up to 2.6x using NVIDIA NemoClaw. Read the blog: https://nvda.ws/4uPi16d",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 97,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (agent, inference)",
-        "links to a source",
-        "concrete metrics"
-      ],
-      "metrics": {
-        "likes": 279,
-        "retweets": 29,
-        "replies": 31,
-        "likes_h": "279"
-      },
-      "engagement": 368,
       "hot": false
     }
   ]
