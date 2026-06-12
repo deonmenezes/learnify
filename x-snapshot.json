@@ -1,9 +1,10 @@
 {
-  "generated_at": "2026-06-12T20:42:20.179Z",
+  "generated_at": "2026-06-12T22:29:49.460Z",
   "handles": [
+    "AnthropicAI",
+    "OpenAI",
     "nvidia",
     "GoogleDeepMind",
-    "AnthropicAI",
     "demishassabis",
     "claudeai",
     "gdb"
@@ -132,6 +133,47 @@
       },
       "engagement": 348,
       "hot": false
+    },
+    {
+      "id": "x_2065225362544726371",
+      "title": "We heard you wanted to use Codex rate limit resets on your own time. Starting today, we’re rolling out the ability to save rate limit resets to use later. We’re starting Go, Plus, Pro, and Business…",
+      "link": "https://x.com/OpenAI/status/2065225362544726371",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-06-12T00:11:11.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Announcement",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Announcement"
+      ],
+      "summary": "We heard you wanted to use Codex rate limit resets on your own time. Starting today, we’re rolling out the ability to save rate limit resets to use later. We’re starting Go, Plus, Pro, and Business users with one free reset:",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 98,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "announcement language (rolling out, starting today)",
+        "high engagement (20.2K likes)"
+      ],
+      "metrics": {
+        "likes": 20225,
+        "retweets": 1606,
+        "replies": 1156,
+        "likes_h": "20.2K"
+      },
+      "engagement": 24593,
+      "hot": true
     },
     {
       "id": "x_2065177250799009837",
@@ -324,15 +366,15 @@
         "announcement language (launching)",
         "tech substance (claude)",
         "links to a source",
-        "high engagement (4.2K likes)"
+        "high engagement (6.3K likes)"
       ],
       "metrics": {
-        "likes": 4201,
-        "retweets": 423,
-        "replies": 313,
-        "likes_h": "4.2K"
+        "likes": 6288,
+        "retweets": 646,
+        "replies": 494,
+        "likes_h": "6.3K"
       },
-      "engagement": 5360,
+      "engagement": 8074,
       "hot": true
     },
     {
@@ -575,12 +617,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 300,
-        "retweets": 15,
-        "replies": 20,
-        "likes_h": "300"
+        "likes": 312,
+        "retweets": 18,
+        "replies": 24,
+        "likes_h": "312"
       },
-      "engagement": 350,
+      "engagement": 372,
       "hot": false
     },
     {
@@ -618,12 +660,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 237,
+        "likes": 246,
         "retweets": 13,
-        "replies": 22,
-        "likes_h": "237"
+        "replies": 21,
+        "likes_h": "246"
       },
-      "engagement": 285,
+      "engagement": 293,
       "hot": false
     },
     {
@@ -661,12 +703,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 394,
-        "retweets": 45,
-        "replies": 20,
-        "likes_h": "394"
+        "likes": 407,
+        "retweets": 44,
+        "replies": 23,
+        "likes_h": "407"
       },
-      "engagement": 504,
+      "engagement": 518,
       "hot": false
     },
     {
@@ -699,15 +741,15 @@
       "reasons": [
         "report-worthy",
         "announcement language (launching)",
-        "high engagement (5.1K likes)"
+        "high engagement (5.4K likes)"
       ],
       "metrics": {
-        "likes": 5109,
-        "retweets": 418,
-        "replies": 387,
-        "likes_h": "5.1K"
+        "likes": 5381,
+        "retweets": 438,
+        "replies": 410,
+        "likes_h": "5.4K"
       },
-      "engagement": 6332,
+      "engagement": 6667,
       "hot": true
     },
     {
@@ -872,7 +914,7 @@
         "likes_h": "2.3K"
       },
       "engagement": 2961,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2064482269998281206",
@@ -1122,7 +1164,7 @@
         "likes_h": "2.4K"
       },
       "engagement": 3020,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2064056027947934209",
@@ -1198,12 +1240,12 @@
         "high engagement (3.6K likes)"
       ],
       "metrics": {
-        "likes": 3622,
-        "retweets": 484,
-        "replies": 305,
+        "likes": 3634,
+        "retweets": 486,
+        "replies": 308,
         "likes_h": "3.6K"
       },
-      "engagement": 4895,
+      "engagement": 4914,
       "hot": true
     },
     {
@@ -1285,47 +1327,6 @@
       },
       "engagement": 1586,
       "hot": false
-    },
-    {
-      "id": "x_2063437915347136554",
-      "title": "Whenever I don’t use codex for a task, I ask myself why and usually realize that there’s some missing context, I needed to write a skill, or I just didn’t think to use it. Rarely is it because the…",
-      "link": "https://x.com/gdb/status/2063437915347136554",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Greg Brockman · @gdb",
-      "handle": "gdb",
-      "org": "OpenAI",
-      "published": "2026-06-07T01:48:30.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Product"
-      ],
-      "summary": "Whenever I don’t use codex for a task, I ask myself why and usually realize that there’s some missing context, I needed to write a skill, or I just didn’t think to use it. Rarely is it because the task is outside of the capabilities of the model. Overhang right now feels large.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 70,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (model)",
-        "high engagement (2K likes)"
-      ],
-      "metrics": {
-        "likes": 2025,
-        "retweets": 82,
-        "replies": 193,
-        "likes_h": "2K"
-      },
-      "engagement": 2382,
-      "hot": true
     }
   ]
 }
