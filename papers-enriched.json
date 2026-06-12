@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-12T16:25:23.361Z",
-  "count": 43,
+  "generated_at": "2026-06-12T17:30:50.985Z",
+  "count": 56,
   "papers": {
     "oa_vfyp9y": {
       "headline": "A New Way to Pick the Best Model for Unsupervised Domain Adaptation",
@@ -282,26 +282,117 @@
       "cover": "/paper-covers/oa_bxkqto.jpg",
       "enriched_at": "2026-06-12T00:07:21.419Z"
     },
-    "arxiv_1tpafy8": {
-      "headline": "Modeling How Humans Learn Complex Hand Movements for Better Rehab",
-      "hook": "Researchers built a computer model that captures how people learn to move their many finger joints when practicing tasks like grasping objects. The model shows which combinations of joint motions are learned first and how practice reshapes those patterns. This insight could help design smarter rehab devices that guide stroke patients to regain dexterity faster.",
-      "visual": "a close-up of a sensor-laden glove on a hand as it curls fingers to pick up a small cube",
-      "cover": "/paper-covers/arxiv_1tpafy8.jpg",
-      "enriched_at": "2026-06-12T09:47:23.390Z"
+    "oa_1cg6bv4": {
+      "headline": "Genetic Overlap Reveals Shared Roots Across 14 Psychiatric Disorders",
+      "hook": "Researchers examined DNA from thousands of people diagnosed with fourteen different psychiatric conditions, searching for genetic variants that appear more often than chance. They discovered that most of the genetic risk is shared, especially between disorders like schizophrenia and bipolar disorder, pointing to common biological pathways. This finding could change how we think about diagnosing and treating mental illness.",
+      "visual": "a human brain silhouette composed of fourteen interlocking colored puzzle pieces",
+      "cover": "/paper-covers/oa_1cg6bv4.jpg",
+      "enriched_at": "2026-06-12T17:26:41.747Z"
     },
-    "arxiv_i57oq0": {
-      "headline": "ReverseORC Reveals How Apps Adapt Layouts Across Technologies",
-      "hook": "Researchers built ReverseORC to figure out how user interfaces change size when you stretch or shrink a window, without needing to know the underlying code. By watching the UI as it resizes, the tool extracts the hidden rules that govern layouts, working for web, desktop, and mobile apps alike.",
-      "visual": "a resizable desktop window with UI elements shifting as the border is dragged",
-      "cover": "/paper-covers/arxiv_i57oq0.jpg",
-      "enriched_at": "2026-06-12T09:47:26.147Z"
+    "oa_1lbgzg0": {
+      "headline": "Immune and Metabolic Signals Trigger Mitochondria-Driven Membrane Burst",
+      "hook": "Researchers found that when the body’s immune system and metabolism send certain signals, mitochondria can punch holes in a cell’s outer membrane, causing it to burst. They named this process mitoxyperiosis. Learning how it works could help explain tissue damage in infections and inflammation and suggest new treatment angles.",
+      "visual": "a mitochondrion releasing reactive molecules that puncture a cell membrane",
+      "cover": "/paper-covers/oa_1lbgzg0.jpg",
+      "enriched_at": "2026-06-12T17:26:52.784Z"
     },
-    "arxiv_2jfn9d": {
-      "headline": "Smart Contract Developers Ignore Security Despite $680M Losses",
-      "hook": "Researchers looked at how smart contract developers handle security, hoping to explain why over $680 million in digital assets were stolen in 2021. They wanted to know whether creators follow formal safety steps or rely on informal checks. Figuring this out could help stop future hacks that put users’ funds at risk.",
-      "visual": "a laptop screen displaying Solidity smart contract code highlighted with a red security warning icon",
-      "cover": "/paper-covers/arxiv_2jfn9d.jpg",
-      "enriched_at": "2026-06-12T09:48:06.942Z"
+    "oa_1tghvmj": {
+      "headline": "Plant Bioactives: From Extraction to Immunity and Health Benefits",
+      "hook": "Researchers gathered hundreds of studies on plant-based compounds — from how they’re pulled out of leaves and fruits to what they do in our bodies. They show these molecules can strengthen immunity, improve nutrition, and even be used to make healthier foods. The takeaway? Everyday plants might hold powerful tools for fighting disease and boosting well‑being.",
+      "visual": "a mortar and pestle grinding fresh green leaves, releasing a bright green liquid into a glass beaker",
+      "cover": "/paper-covers/oa_1tghvmj.jpg",
+      "enriched_at": "2026-06-12T17:26:59.507Z"
+    },
+    "oa_lvja8a": {
+      "headline": "How Macrophage Switching Shapes Disease and Therapy",
+      "hook": "Macrophages are immune cells that can change their behavior to either heal tissue or drive inflammation, depending on signals they receive. Researchers reviewed how these switches work at the molecular level and how they contribute to diseases like cancer, arthritis, and Alzheimer’s. Understanding these mechanisms opens the door to drugs that can reprogram macrophages for therapeutic benefit.",
+      "visual": "a macrophage cell splitting into two distinct shapes, one spiky and one rounded, against a tissue background",
+      "cover": "/paper-covers/oa_lvja8a.jpg",
+      "enriched_at": "2026-06-12T17:27:22.647Z"
+    },
+    "oa_16uvo67": {
+      "headline": "Why a Fixed Human Lifespan Might Threaten Civilization's Future",
+      "hook": "The paper argues that knowing we will probably die before 120 pushes societies to favor short‑term rewards over long‑term investments. This mindset weakens institutions that need decades to pay off, such as climate mitigation or AI safety research. Over generations, the resulting decay could become a bigger existential threat than any sudden catastrophe.",
+      "visual": "an hourglass half‑filled with sand, its lower bulb spilling over a miniature cityscape",
+      "cover": "/paper-covers/oa_16uvo67.jpg",
+      "enriched_at": "2026-06-12T17:27:57.820Z"
+    },
+    "oa_1w7sm0o": {
+      "headline": "AI Combines Genomics, Proteomics, and Imaging to Guide Cancer Treatment",
+      "hook": "Researchers used artificial intelligence to pull together data from genes, proteins, metabolites and medical scans from thousands of cancer patients. By finding patterns across these layers, the AI predicts which therapies will work best for each individual. This could turn a mountain of confusing lab results into clear, actionable treatment plans.",
+      "visual": "a doctor holding a tablet that shows a vibrant, layered map of genes, proteins, and tumor images intertwining",
+      "cover": "/paper-covers/oa_1w7sm0o.jpg",
+      "enriched_at": "2026-06-12T17:28:07.153Z"
+    },
+    "oa_qgust4": {
+      "headline": "Mitophagy Protects Cells by Removing Damaged Mitochondria in Disease",
+      "hook": "Researchers reviewed how cells use mitophagy to toss out busted mitochondria, keeping the power plants healthy. When this cleanup falters, it can fuel neurodegenerative disorders, heart disease, and even cancer. Understanding these mechanisms points to new ways to boost cellular health and treat illness.",
+      "visual": "a damaged mitochondrion being engulfed by a green autophagosome inside a cell",
+      "cover": "/paper-covers/oa_qgust4.jpg",
+      "enriched_at": "2026-06-12T17:29:22.706Z"
+    },
+    "oa_4uz67v": {
+      "headline": "How mTOR Controls Cell Growth And Why It Matters For Treating Disease",
+      "hook": "Researchers mapped how the mTOR pathway senses nutrients and stress to switch cell growth on and off, revealing new details about its wiring. Understanding these switches helps explain why mTOR drugs are being tested for cancer, diabetes, and even aging, opening doors to more precise treatments.",
+      "visual": "a close-up of a fluorescently labeled mTOR protein complex inside a living cell",
+      "cover": "/paper-covers/oa_4uz67v.jpg",
+      "enriched_at": "2026-06-12T17:29:25.385Z"
+    },
+    "oa_1had1bc": {
+      "headline": "New Safety Guidelines for Low‑Intensity Brain Stimulation from ESBS",
+      "hook": "Experts have refreshed the safety and ethical rules for using weak electric currents on the scalp to tweak brain activity. The updated guide helps anyone using these devices stay safe while exploring possible boosts to mood, focus, and recovery.",
+      "visual": "a close‑up of a flexible electrode pad gently pressed against a person's forehead",
+      "cover": "/paper-covers/oa_1had1bc.jpg",
+      "enriched_at": "2026-06-12T17:29:31.113Z"
+    },
+    "oa_1opdfeh": {
+      "headline": "Fasting Improves Mitochondrial and Endothelial Health in Aging Vessels",
+      "hook": "Researchers put older mice on intermittent fasting regimens and measured how well their brain‑feeding blood vessels worked. They found that fasting restored mitochondrial energy production and tightened the lining of those vessels, improving blood flow and barrier integrity. The results suggest a simple dietary tweak could help protect cognition as we age.",
+      "visual": "a cross‑section of a mouse cerebral artery showing bright mitochondria pulsing inside endothelial cells",
+      "cover": "/paper-covers/oa_1opdfeh.jpg",
+      "enriched_at": "2026-06-12T17:29:38.501Z"
+    },
+    "oa_6yzapf": {
+      "headline": "Childhood Emotional Abuse Tied to Suicidal Thoughts in College",
+      "hook": "Researchers surveyed college students about childhood emotional abuse, their difficulty identifying feelings, and suicidal thoughts, while also measuring exercise habits. They found that trouble processing emotions partly explains why abuse leads to suicidal ideas, but regular physical activity weakens both the direct link and this emotional pathway. This suggests that staying active could help break a dangerous chain from early trauma to self‑harm.",
+      "visual": "a college student running on a campus track at sunrise, headphones on, with a folded journal tucked under arm",
+      "cover": "/paper-covers/oa_6yzapf.jpg",
+      "enriched_at": "2026-06-12T17:29:48.430Z"
+    },
+    "oa_m2go4": {
+      "headline": "When AI Helps Us Cope: Offloading Thoughts or Overloading Minds?",
+      "hook": "Researchers surveyed how people use AI assistants, predictive alerts, and therapy chatbots to manage daily stress, finding that these tools can both lighten mental load and create new dependencies. The results show that while AI can offload routine thinking, it may also flood users with constant notifications and expectations, reshaping how we cope with challenges.",
+      "visual": "a young adult holding a smartphone displaying a chatbot interface, with thought bubbles of to-do lists and stress icons",
+      "cover": "/paper-covers/oa_m2go4.jpg",
+      "enriched_at": "2026-06-12T17:30:04.472Z"
+    },
+    "oa_56z0wl": {
+      "headline": "How Eating Less Triggers Longevity Genes Across Yeast, Worms, and Mice",
+      "hook": "Researchers looked at organisms ranging from yeast to mice that were fed fewer calories and found they all activated a similar set of genes linked to slower aging and better health. This shared response shows that the benefits of eating less are built into our biology across evolution, not just a quirk of one species. Understanding these common pathways could point to ways to help people stay healthier longer without extreme dieting.",
+      "visual": "a split‑image showing a yeast colony, a tiny nematode worm, and a mouse each next to a reduced‑portion food dish",
+      "cover": "/paper-covers/oa_56z0wl.jpg",
+      "enriched_at": "2026-06-12T17:30:18.363Z"
+    },
+    "oa_1xtvrqg": {
+      "headline": "Designing Digital Media For Kids Boosts Learning And Well‑Being",
+      "hook": "Researchers looked at how television, apps, video games and voice assistants influence kids' development, finding that when these tools match children's cognitive and emotional stages they can boost learning and mental health. But when the same platforms are built to maximize clicks and ad revenue, they often hurt attention, sleep and self‑esteem. The message is clear: thoughtful design, not just more screen time, decides whether digital media helps or harms the next generation.",
+      "visual": "a child sitting on a rug surrounded by floating icons of a TV, tablet, game controller and smartphone, each emitting a soft glow",
+      "cover": "/paper-covers/oa_1xtvrqg.jpg",
+      "enriched_at": "2026-06-12T17:30:30.033Z"
+    },
+    "oa_1ve4hha": {
+      "headline": "Microplastics Lurking in Your Lipstick: What It Means for Your Skin",
+      "hook": "Researchers scanned dozens of everyday cosmetics — from foundations to mascaras — and found tiny plastic particles hiding in the formulas. These microplastics can slip through the skin's outer layer, raising questions about what they might do once inside. Understanding this hidden exposure could change how we think about the safety of our beauty routines.",
+      "visual": "a close-up of a lipstick bullet speckled with tiny glitter-like plastic fragments",
+      "cover": "/paper-covers/oa_1ve4hha.jpg",
+      "enriched_at": "2026-06-12T17:30:33.874Z"
+    },
+    "oa_mokk9x": {
+      "headline": "How Resistance Training Prescription Shapes Muscle Growth and Strength",
+      "hook": "Researchers combined findings from many review articles to see how different resistance‑training routines influence muscle size and strength in healthy adults. They concluded that programs using challenging weights performed regularly lead to clear gains in both muscle growth and functional ability. The result is a practical, evidence‑backed guide that anyone can use to build effective workouts.",
+      "visual": "a close‑up of hands gripping a barbell during a deadlift",
+      "cover": "/paper-covers/oa_mokk9x.jpg",
+      "enriched_at": "2026-06-12T17:30:39.382Z"
     }
   }
 }
