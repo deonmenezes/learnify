@@ -1,16 +1,55 @@
 {
-  "generated_at": "2026-06-12T00:09:27.497Z",
+  "generated_at": "2026-06-12T05:20:10.940Z",
   "handles": [
+    "claudeai",
     "nvidia",
     "GoogleDeepMind",
     "AnthropicAI",
     "demishassabis",
-    "claudeai",
     "gdb",
     "OpenAI"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2065147052560908331",
+      "title": "Curious what went down at GTC Taipei? ✈️✨ Follow along with Skye from NVIDIA’s digital marketing team as she takes you behind the scenes of the event. From Build-A-Claw and Startup Day to the launch…",
+      "link": "https://x.com/nvidia/status/2065147052560908331",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-11T19:00:00.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Commentary"
+      ],
+      "summary": "Curious what went down at GTC Taipei? ✈️✨ Follow along with Skye from NVIDIA’s digital marketing team as she takes you behind the scenes of the event. From Build-A-Claw and Startup Day to the launch of NVIDIA RTX Spark, get a glimpse into the innovation, excitement, and moments",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 55,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy"
+      ],
+      "metrics": {
+        "likes": 104,
+        "retweets": 11,
+        "replies": 15,
+        "likes_h": "104"
+      },
+      "engagement": 141,
+      "hot": false
+    },
     {
       "id": "x_2065112614414229934",
       "title": "Our CEO Jensen Huang on the opportunity ahead: use AI deeply, challenge the status quo, and stay focused on the human purpose behind the work. Every job has tasks. People give those tasks purpose,…",
@@ -35,19 +74,19 @@
       "summary": "Our CEO Jensen Huang on the opportunity ahead: use AI deeply, challenge the status quo, and stay focused on the human purpose behind the work. Every job has tasks. People give those tasks purpose, and AI can help turn that purpose into greater impact.",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 56,
+      "worthiness_score": 59,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
         "report-worthy"
       ],
       "metrics": {
-        "likes": 124,
-        "retweets": 22,
-        "replies": 32,
-        "likes_h": "124"
+        "likes": 412,
+        "retweets": 77,
+        "replies": 60,
+        "likes_h": "412"
       },
-      "engagement": 200,
+      "engagement": 626,
       "hot": false
     },
     {
@@ -78,15 +117,16 @@
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
-        "report-worthy"
+        "report-worthy",
+        "high engagement (2.3K likes)"
       ],
       "metrics": {
-        "likes": 681,
-        "retweets": 81,
-        "replies": 29,
-        "likes_h": "681"
+        "likes": 2299,
+        "retweets": 247,
+        "replies": 69,
+        "likes_h": "2.3K"
       },
-      "engagement": 872,
+      "engagement": 2862,
       "hot": false
     },
     {
@@ -166,12 +206,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 322,
-        "retweets": 67,
-        "replies": 61,
-        "likes_h": "322"
+        "likes": 405,
+        "retweets": 83,
+        "replies": 69,
+        "likes_h": "405"
       },
-      "engagement": 517,
+      "engagement": 640,
       "hot": false
     },
     {
@@ -207,12 +247,12 @@
         "business signal (partner with)"
       ],
       "metrics": {
-        "likes": 547,
-        "retweets": 59,
-        "replies": 53,
-        "likes_h": "547"
+        "likes": 620,
+        "retweets": 68,
+        "replies": 57,
+        "likes_h": "620"
       },
-      "engagement": 718,
+      "engagement": 813,
       "hot": false
     },
     {
@@ -290,12 +330,12 @@
         "business signal (partnership)"
       ],
       "metrics": {
-        "likes": 493,
-        "retweets": 71,
-        "replies": 33,
-        "likes_h": "493"
+        "likes": 539,
+        "retweets": 76,
+        "replies": 34,
+        "likes_h": "539"
       },
-      "engagement": 668,
+      "engagement": 725,
       "hot": false
     },
     {
@@ -330,12 +370,12 @@
         "tech substance (research)"
       ],
       "metrics": {
-        "likes": 142,
+        "likes": 146,
         "retweets": 17,
         "replies": 25,
-        "likes_h": "142"
+        "likes_h": "146"
       },
-      "engagement": 201,
+      "engagement": 205,
       "hot": false
     },
     {
@@ -540,12 +580,12 @@
         "business signal (enterprise)"
       ],
       "metrics": {
-        "likes": 161,
-        "retweets": 22,
-        "replies": 32,
-        "likes_h": "161"
+        "likes": 172,
+        "retweets": 24,
+        "replies": 33,
+        "likes_h": "172"
       },
-      "engagement": 237,
+      "engagement": 253,
       "hot": false
     },
     {
@@ -581,12 +621,12 @@
         "business signal (partnership)"
       ],
       "metrics": {
-        "likes": 290,
-        "retweets": 34,
-        "replies": 36,
-        "likes_h": "290"
+        "likes": 308,
+        "retweets": 37,
+        "replies": 38,
+        "likes_h": "308"
       },
-      "engagement": 394,
+      "engagement": 420,
       "hot": false
     },
     {
@@ -659,16 +699,16 @@
         "report-worthy",
         "casual tone (this)",
         "tech substance (model, gpus)",
-        "high engagement (2.2K likes)",
+        "high engagement (2.3K likes)",
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 2199,
-        "retweets": 242,
-        "replies": 105,
-        "likes_h": "2.2K"
+        "likes": 2293,
+        "retweets": 250,
+        "replies": 107,
+        "likes_h": "2.3K"
       },
-      "engagement": 2788,
+      "engagement": 2900,
       "hot": true
     },
     {
@@ -785,15 +825,15 @@
         "report-worthy",
         "announcement language (introducing, generally available)",
         "tech substance (model, claude)",
-        "high engagement (103.2K likes)"
+        "high engagement (103.7K likes)"
       ],
       "metrics": {
-        "likes": 103249,
-        "retweets": 14390,
-        "replies": 4840,
-        "likes_h": "103.2K"
+        "likes": 103662,
+        "retweets": 14441,
+        "replies": 4885,
+        "likes_h": "103.7K"
       },
-      "engagement": 136869,
+      "engagement": 137429,
       "hot": true
     },
     {
@@ -868,15 +908,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (model, gemini)",
-        "high engagement (941 likes)"
+        "high engagement (947 likes)"
       ],
       "metrics": {
-        "likes": 941,
-        "retweets": 121,
-        "replies": 67,
-        "likes_h": "941"
+        "likes": 947,
+        "retweets": 120,
+        "replies": 68,
+        "likes_h": "947"
       },
-      "engagement": 1250,
+      "engagement": 1255,
       "hot": false
     },
     {
@@ -1288,48 +1328,6 @@
         "likes_h": "591"
       },
       "engagement": 818,
-      "hot": false
-    },
-    {
-      "id": "x_2062677731763257587",
-      "title": "Physical AI needs to understand the world before it can act in it. Introducing Cosmos 3, the open world foundation model and the first omni-model for physical AI. It understands and generates across…",
-      "link": "https://x.com/nvidia/status/2062677731763257587",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-04T23:27:48.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product launch",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product launch"
-      ],
-      "summary": "Physical AI needs to understand the world before it can act in it. Introducing Cosmos 3, the open world foundation model and the first omni-model for physical AI. It understands and generates across text, image, video, sound and action - thanks to a new breakthrough",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 81,
-      "sentiment": "positive",
-      "sentiment_score": 1,
-      "reasons": [
-        "report-worthy",
-        "casual tone (thanks)",
-        "announcement language (introducing)",
-        "tech substance (model)"
-      ],
-      "metrics": {
-        "likes": 347,
-        "retweets": 52,
-        "replies": 40,
-        "likes_h": "347"
-      },
-      "engagement": 491,
       "hot": false
     }
   ]
