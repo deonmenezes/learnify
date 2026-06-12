@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-11T22:25:06.341Z",
-  "count": 38,
+  "generated_at": "2026-06-12T00:07:28.941Z",
+  "count": 40,
   "papers": {
     "oa_vfyp9y": {
       "headline": "A New Way to Pick the Best Model for Unsupervised Domain Adaptation",
@@ -267,6 +267,20 @@
       "visual": "a small rocky planet transiting its host star while a spectrometer measures the star's wobble",
       "cover": "/paper-covers/oa_195jat.jpg",
       "enriched_at": "2026-06-10T17:46:53.578Z"
+    },
+    "oa_1yv8s0t": {
+      "headline": "How Machine Learning and IoT Are Transforming Crop Farming Monitoring",
+      "hook": "They gathered research showing how field sensors send data to smart programs that can warn farmers about dry spots or disease before it spreads. By turning those alerts into simple actions—like adjusting irrigation or applying fertilizer only where needed—growers can save water, cut costs and harvest more.",
+      "visual": "a farmer checking a tablet that shows a color-coded map of a wheat field while a small drone with attached sensors flies overhead",
+      "cover": "/paper-covers/oa_1yv8s0t.jpg",
+      "enriched_at": "2026-06-12T00:07:16.311Z"
+    },
+    "oa_bxkqto": {
+      "headline": "Prompt Injection Attacks on AI Systems: Risks and New Defenses",
+      "hook": "Researchers surveyed dozens of studies to map out how attackers can trick language models with malicious prompts, turning harmless chatbots into tools for data theft or harmful actions. They found that even simple text tweaks can bypass safeguards, exposing a hidden weakness in AI that powers everything from customer service bots to coding assistants. Understanding these tricks is the first step toward building AI that can resist being fooled.",
+      "visual": "a laptop screen showing a chat window with a highlighted malicious prompt overriding the AI's response",
+      "cover": "/paper-covers/oa_bxkqto.jpg",
+      "enriched_at": "2026-06-12T00:07:21.419Z"
     }
   }
 }
