@@ -1,0 +1,1009 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Learnify — Influencer Scripts: video ideas you can film today</title>
+<meta name="description" content="Ready-to-film video ideas for influencers — every concept comes with a full timestamped script, hook, talking points, shot list, caption and hashtags. Pick one, copy the script, post." />
+<meta name="theme-color" content="#0B0B0D" />
+<meta property="og:title" content="Learnify — Influencer Scripts" />
+<meta property="og:description" content="Video ideas with complete scripts — hook, beats, shot list, caption & hashtags, ready to copy." />
+<meta property="og:type" content="website" />
+<link rel="icon" href="/assets/learnify/mark.svg" />
+<link rel="apple-touch-icon" href="/assets/learnify/app-icon-1024.png" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@700;800;900&display=swap" rel="stylesheet" />
+<style>
+  :root {
+    --bg:        #0B0B0D;
+    --surface:   #17171A;
+    --elevated:  #212126;
+    --line:      #2A2A30;
+    --txt:       #FFFFFF;
+    --txt-60:    rgba(255,255,255,.6);
+    --txt-50:    rgba(255,255,255,.5);
+    --txt-45:    rgba(255,255,255,.45);
+    --accent:    #F7F7FA;
+    --accent-deep:#9E9EA8;
+    --save-green:#45DB6B;
+    --gold:      #E8C24A;
+    --mono: ui-monospace, "SF Mono", "JetBrains Mono", Menlo, Consolas, monospace;
+    --shadow-lg: 0 30px 60px -20px rgba(0,0,0,.7), 0 10px 30px -10px rgba(0,0,0,.5);
+    --shadow-md: 0 14px 30px -12px rgba(0,0,0,.6);
+    --shadow-sm: 0 6px 14px -6px rgba(0,0,0,.5);
+    --radius:    18px;
+    --radius-sm: 12px;
+    --max: 1240px;
+  }
+  *, *::before, *::after { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  html, body {
+    margin: 0; padding: 0;
+    background: var(--bg); color: var(--txt);
+    font-family: system-ui, Inter, -apple-system, sans-serif;
+    -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; line-height: 1.55;
+  }
+  body {
+    min-height: 100vh;
+    background:
+      radial-gradient(700px 420px at 88% -4%, rgba(69,219,107,.06), transparent 58%),
+      radial-gradient(580px 380px at 8% 30%, rgba(247,247,250,.03), transparent 60%),
+      var(--bg);
+  }
+  a { color: inherit; text-decoration: none; }
+  em { font-style: normal; font-weight: 900; color: var(--accent); }
+  ::selection { background: rgba(69,219,107,.22); color: var(--txt); }
+
+  .topbar {
+    position: fixed; inset: 0 0 auto 0; height: 3px;
+    background: linear-gradient(90deg, var(--save-green), var(--accent), var(--gold));
+    z-index: 50; opacity: .85; transform-origin: 0 50%; transform: scaleX(0);
+  }
+
+  /* ---- HEADER ---- */
+  header {
+    position: sticky; top: 0; z-index: 30;
+    background: rgba(11,11,13,.88);
+    backdrop-filter: saturate(160%) blur(14px);
+    -webkit-backdrop-filter: saturate(160%) blur(14px);
+    border-bottom: 1px solid var(--line);
+    padding: 14px 22px;
+  }
+  .header-inner {
+    max-width: var(--max); margin: 0 auto;
+    display: flex; align-items: center; justify-content: space-between; gap: 16px; flex-wrap: wrap;
+  }
+  .brand { display: flex; align-items: center; gap: 13px; }
+  .brand-logo {
+    width: 36px; height: 36px; flex: 0 0 auto; border-radius: 10px;
+    display: grid; place-items: center;
+    background: #0B0B0D;
+    box-shadow: var(--shadow-sm), 0 0 0 1px var(--line), 0 0 10px rgba(69,219,107,.18);
+  }
+  .brand-logo .l-mark {
+    font-family: 'Nunito', system-ui, sans-serif;
+    font-weight: 900; font-size: 20px; line-height: 1;
+    color: var(--save-green);
+    filter: drop-shadow(0 0 5px rgba(69,219,107,.5));
+    user-select: none;
+  }
+  .brand-text h1 {
+    font-family: 'Nunito', system-ui, sans-serif;
+    font-size: 20px; margin: 0; letter-spacing: -.5px; font-weight: 900; line-height: 1; color: var(--txt);
+  }
+  .brand-text .tag { display: block; font-size: 11px; color: var(--txt-45); margin-top: 3px; font-weight: 500; }
+  .brand-text .tag b { color: var(--save-green); font-weight: 600; }
+  .nav { display: flex; gap: 16px; font-size: 13px; color: var(--txt-60); flex-wrap: wrap; align-items: center; font-weight: 500; }
+  .nav a:hover { color: var(--accent); }
+  .nav a.on { color: var(--accent); font-weight: 700; }
+
+  /* ---- MAIN ---- */
+  main { max-width: var(--max); margin: 0 auto; padding: 30px 18px 90px; }
+
+  .hero {
+    text-align: center; padding: 32px 24px 28px;
+    background:
+      radial-gradient(60% 60% at 85% 10%, rgba(69,219,107,.08), transparent 60%),
+      radial-gradient(50% 50% at 15% 80%, rgba(247,247,250,.04), transparent 60%),
+      linear-gradient(180deg, var(--surface) 0%, var(--bg) 100%);
+    border-radius: var(--radius); border: 1.5px solid var(--line);
+    margin-bottom: 26px; position: relative; overflow: hidden;
+  }
+  .eyebrow {
+    font-size: 11px; letter-spacing: .22em; text-transform: uppercase;
+    color: var(--accent-deep); margin: 0 0 12px; font-weight: 600;
+  }
+  .hero h2 {
+    font-family: 'Nunito', system-ui, sans-serif;
+    font-size: clamp(28px, 5vw, 46px); line-height: 1.08;
+    letter-spacing: -1.2px; font-weight: 900; margin: 0 auto 14px; max-width: 780px; color: var(--txt);
+  }
+  .hero h2 em { font-family: 'Nunito', system-ui, sans-serif; }
+  .hero p { color: var(--txt-60); font-size: 16px; max-width: 580px; margin: 0 auto; line-height: 1.6; }
+  .hero .more { font-size: 12.5px; color: var(--txt-50); margin-top: 14px; }
+  .hero .more a { color: var(--save-green); font-weight: 600; }
+
+  /* ---- CONTROLS ---- */
+  .controls { display: flex; gap: 10px; justify-content: space-between; flex-wrap: wrap; align-items: center; margin: 0 0 20px; }
+  .chips { display: flex; gap: 8px; flex-wrap: wrap; }
+  .chip {
+    font-size: 13px; color: var(--txt-60); background: var(--surface);
+    border: 1.5px solid var(--line); border-radius: 999px; padding: 7px 15px;
+    cursor: pointer; transition: .15s; font-weight: 500;
+  }
+  .chip:hover { color: var(--accent); border-color: var(--elevated); box-shadow: var(--shadow-sm); }
+  .chip.on { background: var(--elevated); border-color: var(--accent-deep); color: var(--accent); font-weight: 700; }
+  .selects { display: flex; gap: 8px; }
+  .sel {
+    font-size: 13px; color: var(--txt-60); background: var(--surface);
+    border: 1.5px solid var(--line); border-radius: 999px; padding: 7px 13px;
+    cursor: pointer; font-weight: 500; appearance: none; -webkit-appearance: none;
+  }
+  .back {
+    font-size: 13px; color: var(--txt-60); background: var(--surface);
+    border: 1.5px solid var(--line); border-radius: 999px; padding: 7px 16px;
+    cursor: pointer; font-weight: 600; transition: .15s;
+    display: inline-flex; gap: 7px; align-items: center;
+  }
+  .back:hover { color: var(--accent); border-color: var(--accent-deep); }
+
+  /* ---- GRID ---- */
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 16px; }
+  .card {
+    border-radius: var(--radius); overflow: hidden; cursor: pointer;
+    background: var(--surface); border: 1.5px solid var(--line); position: relative;
+    transition: transform .2s cubic-bezier(.2,.7,.3,1), border-color .2s, box-shadow .2s;
+    animation: rise .5s both;
+  }
+  @keyframes rise { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+  .card:hover { transform: translateY(-4px); border-color: var(--elevated); box-shadow: var(--shadow-md); }
+
+  .cover {
+    position: relative; aspect-ratio: 16/9; display: grid; place-items: center; overflow: hidden;
+  }
+  .cover .big { font-size: 52px; filter: drop-shadow(0 8px 18px rgba(0,0,0,.5)); transition: transform .4s cubic-bezier(.2,.7,.3,1); }
+  .card:hover .cover .big { transform: scale(1.12) rotate(-3deg); }
+  .cover::after {
+    content: ""; position: absolute; inset: 0;
+    background: linear-gradient(180deg, transparent 45%, rgba(0,0,0,.55));
+    pointer-events: none;
+  }
+  .cover .score {
+    position: absolute; top: 10px; left: 10px; z-index: 2;
+    font-size: 11px; font-weight: 800; color: #0D0D0F;
+    background: var(--save-green); border-radius: 8px; padding: 3px 9px;
+    box-shadow: 0 4px 12px -4px rgba(0,0,0,.6);
+  }
+  .cover .dur {
+    position: absolute; top: 10px; right: 10px; z-index: 2;
+    font-size: 10.5px; font-family: var(--mono); color: rgba(255,255,255,.92);
+    background: rgba(0,0,0,.55); border: 1px solid rgba(255,255,255,.16);
+    border-radius: 7px; padding: 3px 8px; backdrop-filter: blur(4px);
+  }
+  .cover .fmt {
+    position: absolute; left: 12px; bottom: 11px; z-index: 2;
+    font-size: 10.5px; font-weight: 700; color: rgba(255,255,255,.92);
+    background: rgba(0,0,0,.5); border: 1px solid rgba(255,255,255,.16);
+    border-radius: 7px; padding: 3px 9px; backdrop-filter: blur(4px);
+  }
+  .cbody { padding: 14px 15px 15px; }
+  .cbody h3 { margin: 0 0 7px; font-size: 15.5px; line-height: 1.3; font-weight: 800; letter-spacing: -.2px; color: var(--txt); }
+  .cbody .hookline { font-size: 12.5px; line-height: 1.5; color: var(--txt-60); margin: 0 0 11px; }
+  .cbody .hookline b { color: var(--save-green); font-weight: 700; }
+  .ctags { display: flex; flex-wrap: wrap; gap: 5px; }
+  .ctag {
+    font-size: 10.5px; color: var(--accent-deep); font-weight: 600;
+    background: var(--elevated); border: 1px solid var(--line);
+    border-radius: 7px; padding: 2px 8px;
+  }
+  .copen {
+    margin-top: 12px; display: inline-flex; gap: 6px; align-items: center;
+    font-size: 12px; font-weight: 700; color: var(--accent);
+  }
+  .copen svg { width: 13px; height: 13px; transition: transform .15s; }
+  .card:hover .copen svg { transform: translateX(3px); }
+
+  /* ---- DETAIL ---- */
+  .detail { display: grid; grid-template-columns: 360px 1fr; gap: 18px; align-items: start; }
+  @media (max-width: 880px) { .detail { grid-template-columns: 1fr; } }
+
+  .panel {
+    background: var(--surface); border: 1.5px solid var(--line);
+    border-radius: var(--radius); overflow: hidden;
+  }
+  .panel + .panel { margin-top: 16px; }
+
+  .d-cover { position: relative; aspect-ratio: 4/3; display: grid; place-items: center; }
+  .d-cover .big { font-size: 84px; filter: drop-shadow(0 12px 26px rgba(0,0,0,.55)); }
+  .d-cover .fmt {
+    position: absolute; left: 14px; top: 13px;
+    font-size: 11px; font-weight: 700; color: rgba(255,255,255,.92);
+    background: rgba(0,0,0,.5); border: 1px solid rgba(255,255,255,.16);
+    border-radius: 8px; padding: 4px 10px; backdrop-filter: blur(4px);
+  }
+  .d-stats {
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 16px 18px; border-top: 1px solid var(--line); gap: 10px;
+  }
+  .d-stat { font-size: 12px; color: var(--txt-50); }
+  .d-stat b { display: block; font-size: 15px; color: var(--txt); font-weight: 800; letter-spacing: -.2px; }
+  .ring { position: relative; width: 62px; height: 62px; flex: 0 0 auto; }
+  .ring svg { width: 100%; height: 100%; }
+  .ring span {
+    position: absolute; inset: 0; display: grid; place-items: center;
+    font-size: 12px; font-weight: 800; color: var(--save-green);
+  }
+  .shotlist { padding: 16px 18px 18px; border-top: 1px solid var(--line); }
+  .shotlist h4 { margin: 0 0 10px; font-size: 12px; letter-spacing: .14em; text-transform: uppercase; color: var(--accent-deep); font-weight: 700; }
+  .shotlist ol { margin: 0; padding-left: 18px; display: flex; flex-direction: column; gap: 7px; }
+  .shotlist li { font-size: 13px; line-height: 1.5; color: var(--txt-60); }
+  .shotlist li::marker { color: var(--save-green); font-weight: 700; }
+
+  .p-hd {
+    display: flex; align-items: center; justify-content: space-between; gap: 10px; flex-wrap: wrap;
+    padding: 15px 18px; border-bottom: 1px solid var(--line);
+  }
+  .p-hd h3 { margin: 0; font-size: 15px; font-weight: 800; letter-spacing: -.2px; display: flex; align-items: center; gap: 9px; }
+  .p-hd h3 .ico { color: var(--save-green); display: inline-flex; }
+  .p-hd h3 .ico svg { width: 16px; height: 16px; }
+  .p-actions { display: flex; gap: 7px; flex-wrap: wrap; }
+  .btn-chip {
+    font-size: 11.5px; cursor: pointer; border-radius: 10px; padding: 7px 12px;
+    border: 1.5px solid var(--line); background: var(--elevated); color: var(--txt-60);
+    transition: .14s; display: inline-flex; gap: 6px; align-items: center; font-weight: 600;
+  }
+  .btn-chip:hover { color: var(--accent); border-color: var(--accent-deep); transform: translateY(-1px); }
+  .btn-chip.primary { background: var(--accent); color: #0D0D0F; border-color: transparent; font-weight: 700; box-shadow: var(--shadow-sm); }
+  .btn-chip.primary:hover { color: #0D0D0F; box-shadow: var(--shadow-md); }
+  .btn-chip svg { width: 12px; height: 12px; }
+
+  .script { padding: 8px 6px; max-height: 460px; overflow-y: auto; }
+  .s-row {
+    display: grid; grid-template-columns: 52px 1fr; gap: 12px;
+    padding: 9px 14px; border-radius: 10px; cursor: pointer; transition: background .12s;
+  }
+  .s-row:hover { background: var(--elevated); }
+  .s-time { font-family: var(--mono); font-size: 11.5px; color: var(--save-green); padding-top: 2px; }
+  .s-text { font-size: 13.5px; line-height: 1.55; color: var(--txt); }
+  .s-text .dir { color: var(--txt-45); font-style: italic; }
+  .s-foot { padding: 10px 18px 14px; font-size: 11px; color: var(--txt-45); border-top: 1px solid var(--line); }
+
+  .insights { padding: 6px 0; }
+  .ins {
+    display: grid; grid-template-columns: 38px 1fr; gap: 13px;
+    padding: 14px 18px;
+  }
+  .ins + .ins { border-top: 1px solid var(--line); }
+  .ins .ico {
+    width: 34px; height: 34px; border-radius: 10px; display: grid; place-items: center;
+    background: var(--elevated); border: 1px solid var(--line); color: var(--save-green);
+  }
+  .ins .ico svg { width: 16px; height: 16px; }
+  .ins h4 { margin: 0 0 4px; font-size: 13.5px; font-weight: 800; color: var(--txt); }
+  .ins p, .ins ul { margin: 0; font-size: 13px; line-height: 1.6; color: var(--txt-60); }
+  .ins ul { padding-left: 17px; display: flex; flex-direction: column; gap: 4px; }
+  .ins ul li::marker { color: var(--save-green); }
+
+  .d-bottom { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-top: 16px; }
+  @media (max-width: 720px) { .d-bottom { grid-template-columns: 1fr; } }
+  .cap-text { padding: 14px 18px 16px; font-size: 13.5px; line-height: 1.6; color: var(--txt); white-space: pre-wrap; }
+  .taglist { padding: 14px 18px 18px; display: flex; flex-wrap: wrap; gap: 7px; }
+  .htag {
+    font-family: var(--mono); font-size: 12px; color: var(--txt-60);
+    background: var(--elevated); border: 1px solid var(--line);
+    border-radius: 999px; padding: 5px 12px; cursor: pointer; transition: .14s;
+  }
+  .htag:hover { color: var(--save-green); border-color: var(--save-green); }
+
+  /* toast */
+  .toast {
+    position: fixed; left: 50%; bottom: 26px;
+    transform: translateX(-50%) translateY(20px); z-index: 80;
+    background: var(--elevated); color: var(--txt);
+    font-size: 13px; font-weight: 600; padding: 11px 20px;
+    border-radius: 12px; box-shadow: var(--shadow-md);
+    opacity: 0; pointer-events: none; transition: .25s;
+    border: 1px solid var(--line);
+  }
+  .toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
+
+  footer {
+    background: #08080A; color: var(--txt-50);
+    border-top: 1px solid var(--line); margin-top: 40px; padding: 40px 22px 50px;
+    text-align: center; font-size: 12.5px; line-height: 1.7;
+  }
+  .footer-inner { max-width: var(--max); margin: 0 auto; }
+  .fbrand { font-family: 'Nunito', system-ui, sans-serif; font-weight: 900; font-size: 17px; color: var(--txt); }
+  .fbrand .l-mark-sm {
+    display: inline-block; width: 20px; height: 20px; border-radius: 5px;
+    background: #0B0B0D; border: 1px solid var(--line);
+    vertical-align: middle; text-align: center; line-height: 20px;
+    font-size: 13px; color: var(--save-green); font-weight: 900;
+    box-shadow: 0 0 6px rgba(69,219,107,.25); margin-right: 4px;
+  }
+  .links { margin-top: 12px; display: flex; gap: 16px; justify-content: center; flex-wrap: wrap; font-size: 12.5px; }
+  .links a { color: var(--accent-deep); transition: color .15s; }
+  .links a:hover { color: var(--txt); }
+
+  a:focus-visible, button:focus-visible, [role="button"]:focus-visible {
+    outline: 2.5px solid var(--save-green); outline-offset: 2px; border-radius: 9px;
+  }
+  :focus:not(:focus-visible) { outline: none; }
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after { animation-duration: .001ms !important; transition-duration: .001ms !important; }
+    .card { opacity: 1; transform: none; }
+  }
+</style>
+</head>
+<body>
+<div class="topbar"></div>
+
+<header>
+  <div class="header-inner">
+    <a class="brand" href="/">
+      <span class="brand-logo"><span class="l-mark">L</span></span>
+      <div class="brand-text">
+        <h1>Learnify</h1>
+        <span class="tag">influencer scripts — <b>pick · copy · film</b></span>
+      </div>
+    </a>
+    <nav class="nav">
+      <a href="/">Feed</a>
+      <a href="/ideas">Ideas</a>
+      <a href="/influencer" class="on">Influencer</a>
+      <a href="/influencers">Creator kit</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section class="hero">
+    <p class="eyebrow">For influencers</p>
+    <h2>Video ideas with <em>full scripts</em>, ready to film today</h2>
+    <p>Every concept below is shot-ready — a timestamped script you can read off camera, a hook that stops the scroll, a shot list, and a caption with hashtags. Tap a card, copy, film.</p>
+    <p class="more">Want a fresh idea from today's news instead? The <a href="/ideas">Ideas board</a> turns every breaking story into a script, live.</p>
+  </section>
+
+  <div class="controls">
+    <div class="chips" id="chips"></div>
+    <div class="selects">
+      <select class="sel" id="sort">
+        <option value="score">Highest score</option>
+        <option value="short">Shortest first</option>
+        <option value="long">Longest first</option>
+      </select>
+      <button class="back" id="back" hidden>
+        <svg width="13" height="13" viewBox="0 0 24 24"><path d="M15 18l-6-6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" fill="none"/></svg>
+        All scripts
+      </button>
+    </div>
+  </div>
+
+  <section class="grid" id="grid" aria-live="polite"></section>
+  <section class="detail" id="detail" hidden></section>
+</main>
+
+<div class="toast" id="toast"></div>
+
+<footer>
+  <div class="footer-inner">
+    <span class="fbrand"><span class="l-mark-sm">L</span>Learnify</span> — scripts and ideas for creators who talk about tech. Read them as-is or make them yours.
+    <div class="links">
+      <a href="/">Feed</a><a href="/ideas">Ideas</a><a href="/influencers">Creator kit</a><a href="/privacy">Privacy</a><a href="/support">Support</a>
+    </div>
+  </div>
+</footer>
+
+<script>
+const IDEAS = [
+  {
+    id: "five-minutes",
+    emoji: "⏱️",
+    title: "5 minutes, fully caught up",
+    format: "Screen record",
+    dur: 38, score: 94, level: "Easy",
+    hue: ["rgba(69,219,107,.30)", "rgba(247,247,250,.08)"],
+    hook: "This is how I stay on top of tech without doomscrolling for an hour.",
+    premise: "A morning-routine style screen record: you open Learnify with your coffee, scan the feed for a few minutes, and voice over the three stories that actually matter today. Calm, fast, repeatable — this one can be a weekly series.",
+    script: [
+      { t: 0, text: "This is how I stay on top of tech without doomscrolling for an hour.", dir: "talking head, coffee in hand" },
+      { t: 4, text: "Every morning I open one app — it's called Learnify — and it pulls every tech source I trust into a single feed.", dir: "cut to screen record, scrolling the feed" },
+      { t: 11, text: "No algorithm rage-bait, no autoplay junk. Just headlines, newest first, filtered to my topics." },
+      { t: 17, text: "Today? Three things matter. One — [insert today's biggest AI story].", dir: "tap into story 1" },
+      { t: 23, text: "Two — [insert a funding or startup story]. That's a big deal because [one-line why]." },
+      { t: 29, text: "Three — [insert a research or product story]. Watch this space." },
+      { t: 33, text: "Five minutes, fully caught up. It's free — link in bio. Follow for tomorrow's three.", dir: "back to talking head" }
+    ],
+    points: [
+      "Position it as a routine, not an app review — routines get rewatched and saved.",
+      "Use TODAY'S real stories from the feed; the freshness is the proof.",
+      "End with a series promise (“tomorrow's three”) to convert viewers into followers."
+    ],
+    steps: [
+      "Film a 4-second talking-head hook with your morning coffee.",
+      "Screen-record 60–90s of scrolling the Learnify feed; you'll speed-ramp it.",
+      "Tap into the 3 stories you'll mention so viewers see the app navigation.",
+      "Voice over the three stories in one take — keep each under 7 seconds.",
+      "Close on camera with the CTA. Caption + hashtags below."
+    ],
+    caption: "POV: it's 7am and you already know everything that happened in tech 🧠\n\nOne feed. Every source. Five minutes.\n\n→ Learnify, free on the App Store (link in bio)",
+    tags: ["#technews", "#morningroutine", "#productivity", "#AI", "#techtok", "#apps"]
+  },
+  {
+    id: "six-tabs",
+    emoji: "🆚",
+    title: "6 tabs vs 1 app",
+    format: "Skit",
+    dur: 30, score: 91, level: "Easy",
+    hue: ["rgba(232,194,74,.26)", "rgba(69,219,107,.12)"],
+    hook: "POV: you finally stopped opening six news sites every morning.",
+    premise: "A split-screen (or before/after) skit. Left: chaotic you, drowning in browser tabs, pop-ups and paywalls. Right: calm you, one dark feed, done in minutes. The visual contrast IS the joke — minimal dialogue needed.",
+    script: [
+      { t: 0, text: "Me, every morning, trying to 'quickly check the tech news':", dir: "frantic typing, 6 tabs opening, sigh" },
+      { t: 5, text: "(no dialogue — show tab chaos: cookie banners, paywall, autoplay video blasting)", dir: "zoom into the mess" },
+      { t: 11, text: "47 minutes later I've read one article and three quizzes about which laptop I am.", dir: "deadpan to camera" },
+      { t: 17, text: "So I switched to this: every source, one feed, newest first.", dir: "cut to Learnify, slow calm scroll" },
+      { t: 23, text: "Type a keyword — 'AI' — and the whole feed filters live. That's it. That's the app.", dir: "show keyword filter snapping" },
+      { t: 28, text: "Learnify. Free. Your mornings back. Link in bio." }
+    ],
+    points: [
+      "The chaos half should be genuinely chaotic — cookie banners and paywalls are universally hated.",
+      "Don't over-explain the app; one calm scroll says more than a feature list.",
+      "The live keyword filter is the 'wow moment' — always show it."
+    ],
+    steps: [
+      "Screen-record a messy browser session: 6 tabs, banners, a paywall (15s of footage).",
+      "Screen-record a calm Learnify scroll + one keyword search (15s).",
+      "Film two 3-second reaction shots: stressed face, then relaxed face.",
+      "Edit as split-screen or hard before/after cut. Add a record-scratch on the transition.",
+      "Text overlay: '6 tabs' → '1 app'."
+    ],
+    caption: "me: 'I'll just check the tech news real quick'\nalso me, 47 minutes deep in 6 tabs: 🫠\n\nLearnify = all of it in one clean feed. type a keyword, done. free, link in bio",
+    tags: ["#techtok", "#relatable", "#productivity", "#technews", "#founders", "#apps"]
+  },
+  {
+    id: "one-word",
+    emoji: "🔍",
+    title: "Type one word, watch this",
+    format: "Screen record",
+    dur: 25, score: 92, level: "Easy",
+    hue: ["rgba(247,247,250,.14)", "rgba(69,219,107,.16)"],
+    hook: "It's basically a search engine for tech news — and it's free.",
+    premise: "A pure demo reel built around one satisfying moment: typing a keyword and watching the entire multi-source feed snap to it in real time. Short, loopable, zero face-cam needed if you don't want one.",
+    script: [
+      { t: 0, text: "It's basically a search engine for tech news — and it's free.", dir: "voice over, screen on the feed" },
+      { t: 4, text: "This feed is pulling from every major tech source at once — TechCrunch, The Verge, Wired, Ars, research papers, even X." },
+      { t: 11, text: "Now watch. I type one word… 'nvidia'.", dir: "slow-type the keyword" },
+      { t: 15, text: "Every source, filtered live, to one topic. Instantly.", dir: "feed snaps; let it breathe 2s" },
+      { t: 19, text: "'Funding.' 'OpenAI.' 'Robotics.' Anything.", dir: "rapid-fire three more keywords" },
+      { t: 23, text: "Learnify — link in bio. Go type your obsession." }
+    ],
+    points: [
+      "Loopable: the last frame (typing a new word) flows back into the first.",
+      "Type ON CAMERA in real time — the live snap is the proof, don't cut around it.",
+      "Ending with 'go type your obsession' invites comments (people reply with keywords)."
+    ],
+    steps: [
+      "Screen-record the feed scroll for 5s of b-roll.",
+      "Record the keyword moment in ONE unbroken take: type 'nvidia', let results land.",
+      "Record three quick keyword changes for the rapid-fire section.",
+      "Add a subtle zoom-in on the moment the feed snaps.",
+      "Voice over in one pass; keep total under 25 seconds."
+    ],
+    caption: "one word and every tech source on earth lines up for you 🔍\n\nwhat keyword would you type first? 👇\n\nLearnify, free on iOS — link in bio",
+    tags: ["#technews", "#AI", "#apps", "#productivity", "#techtok", "#nvidia"]
+  },
+  {
+    id: "founder-apps",
+    emoji: "🧠",
+    title: "Apps every founder should have",
+    format: "Listicle",
+    dur: 45, score: 88, level: "Medium",
+    hue: ["rgba(158,158,168,.22)", "rgba(69,219,107,.12)"],
+    hook: "3 apps I open before I check Slack.",
+    premise: "A classic list format with Learnify slotted as 'the one that keeps me informed.' Works because the other two apps lend credibility — you're curating, not advertising. Swap in your real favourites for the other slots.",
+    script: [
+      { t: 0, text: "3 apps I open before I even check Slack.", dir: "talking head, phone in hand" },
+      { t: 4, text: "Number one — [your favourite focus/notes app]. [One line on why].", dir: "show 3s of the app" },
+      { t: 12, text: "Number two — [your favourite finance/calendar app]. [One line on why]." },
+      { t: 20, text: "Number three — Learnify. This is how I know what's happening in tech before everyone else.", dir: "screen record: feed scroll" },
+      { t: 27, text: "Every source in one feed. I type a keyword — my market, my competitors — and it filters live.", dir: "show keyword filter" },
+      { t: 35, text: "Founders, this replaces your six-tab morning. It's free." },
+      { t: 40, text: "All three are linked in my bio. Which one did I miss? Comment it." }
+    ],
+    points: [
+      "Put Learnify LAST — the final slot gets the most watch-time attention.",
+      "Tie the keyword demo to founder pain: 'your market, your competitors'.",
+      "Ask 'which one did I miss?' — list videos live and die on comments."
+    ],
+    steps: [
+      "Pick your two real companion apps (credibility comes from honesty).",
+      "Film one talking-head intro + three short voice-over segments.",
+      "Capture 5–8s of clean screen footage per app, Learnify last with the keyword moment.",
+      "Number overlays: big '1', '2', '3' text cards between segments.",
+      "End-card with all three app names + CTA."
+    ],
+    caption: "the 3 apps that run my morning — #3 is how I sound informed in every standup 🧠\n\nwhich one did I miss? 👇\n\nLearnify + the rest: link in bio",
+    tags: ["#founders", "#startups", "#productivity", "#apps", "#VC", "#technews"]
+  },
+  {
+    id: "doomscroll-flip",
+    emoji: "🌙",
+    title: "Doomscroll, but make it productive",
+    format: "Talking head",
+    dur: 32, score: 90, level: "Easy",
+    hue: ["rgba(69,219,107,.18)", "rgba(158,158,168,.18)"],
+    hook: "Same dopamine. Except I accidentally got smart.",
+    premise: "Lean into the doomscroll meme, then flip it. You're not telling people to stop scrolling — you're telling them to scroll better. Self-aware, funny tone; works great filmed in bed at night with low light.",
+    script: [
+      { t: 0, text: "It's 1am and I'm doomscrolling. But hear me out — this one's different.", dir: "filmed in bed, phone glow on face" },
+      { t: 6, text: "Regular doomscrolling: 40 minutes, learned nothing, mad at a stranger." },
+      { t: 12, text: "This: same swipe, same dopamine — except it's every tech headline from sources I actually trust.", dir: "flip phone to show Learnify feed" },
+      { t: 19, text: "AI breakthroughs. Startup funding. Actual research papers, explained like a human wrote it." },
+      { t: 25, text: "Same addiction. Except I accidentally got smart." },
+      { t: 28, text: "It's called Learnify. It's free. Ruin your sleep productively — link in bio." }
+    ],
+    points: [
+      "Don't fight the doomscroll behaviour — reframe it. The honesty is the charm.",
+      "Low-light, in-bed filming makes it feel native, not like an ad.",
+      "'Accidentally got smart' is the shareable line — put it in the caption too."
+    ],
+    steps: [
+      "Film at night, lights off, phone glow as your key light.",
+      "One continuous talking-head take — imperfect is better here.",
+      "Insert 4–6s of feed footage when you flip the phone.",
+      "Caption overlay the punchline: 'accidentally got smart'.",
+      "Keep edits minimal; this format sells on authenticity."
+    ],
+    caption: "doomscrolling but it's actually a 27-source tech news feed so technically this is studying 🌙\n\nsame dopamine. accidentally got smart.\n\nLearnify — free, link in bio",
+    tags: ["#doomscroll", "#relatable", "#techtok", "#AI", "#nighttime", "#apps"]
+  },
+  {
+    id: "standup-smart",
+    emoji: "💼",
+    title: "POV: you sound smart in standup",
+    format: "Skit",
+    dur: 28, score: 87, level: "Medium",
+    hue: ["rgba(247,247,250,.10)", "rgba(232,194,74,.16)"],
+    hook: "How my coworkers think I know everything before they do.",
+    premise: "Office-humour skit: a coworker mentions breaking tech news, and you casually finish the story with details — because you read it at 7am in Learnify. Play both characters or rope in a friend.",
+    script: [
+      { t: 0, text: "Coworker: 'Did you see OpenAI just announced—'", dir: "play coworker, or friend cameo" },
+      { t: 4, text: "Me: 'The new model. Yeah. Cheaper inference, longer context. Shipped this morning.'", dir: "smug sip of coffee" },
+      { t: 10, text: "Coworker: 'How do you ALWAYS know first??'", dir: "exaggerated disbelief" },
+      { t: 14, text: "What they think I do: read 6 newspapers at 5am like a Victorian businessman.", dir: "cut: dramatic newspaper b-roll" },
+      { t: 19, text: "What I actually do: scroll one feed for five minutes while my coffee brews.", dir: "cut: casual Learnify scroll" },
+      { t: 24, text: "Learnify. Every tech source, one feed, free. Be the annoying informed one — link in bio." }
+    ],
+    points: [
+      "The 'what they think vs what I do' cut is the engine of the joke.",
+      "Keep the smug energy playful — aspirational, not arrogant.",
+      "Swap in whatever story is ACTUALLY trending the day you post."
+    ],
+    steps: [
+      "Film both characters (change shirt/angle) or grab a coworker for 2 lines.",
+      "Shoot the 'Victorian businessman' gag — newspaper, dramatic lighting, 3s.",
+      "Screen-record the real morning scroll for the reveal.",
+      "Punch in on the smug coffee sip — that's your thumbnail frame.",
+      "Update the opening line to reference a real story from today's feed."
+    ],
+    caption: "they think it's talent. it's a 5-minute feed scroll ☕\n\nbe the annoying informed one on your team — Learnify, free, link in bio",
+    tags: ["#worktok", "#standup", "#techtok", "#corporatehumor", "#technews", "#AI"]
+  },
+  {
+    id: "research-explained",
+    emoji: "🔬",
+    title: "AI papers, explained like gossip",
+    format: "Talking head",
+    dur: 40, score: 89, level: "Medium",
+    hue: ["rgba(107,71,168,.30)", "rgba(69,219,107,.12)"],
+    hook: "An AI paper dropped this week that nobody's talking about — yet.",
+    premise: "Pick one paper from Learnify's Research tab and retell it like juicy gossip — no jargon, pure 'here's why you should care'. The Research feed gives you the headline, the hook and the 'why it matters' already written.",
+    script: [
+      { t: 0, text: "An AI paper dropped this week that nobody's talking about — yet.", dir: "lean into camera" },
+      { t: 5, text: "It's called [paper headline from the Research tab]. Sounds boring. It's not." },
+      { t: 11, text: "Here's the gossip version: [retell the 'hook' from the app in your own words].", dir: "b-roll: the paper open in Learnify" },
+      { t: 20, text: "Why you should care: [the 'why it matters' line]. That changes things for [who it affects]." },
+      { t: 28, text: "I find these in the Research tab of Learnify — it turns dense papers into headlines a human can read." },
+      { t: 35, text: "Follow for one paper a week, minus the PhD. Link in bio." }
+    ],
+    points: [
+      "The app literally writes your script: headline → hook → why-it-matters are all in the Research tab.",
+      "'Explained like gossip' framing beats 'explained simply' — it promises fun, not homework.",
+      "A weekly series ('one paper a week') compounds followers fast in the AI niche."
+    ],
+    steps: [
+      "Open Learnify → Research tab, pick the paper with the most surprising headline.",
+      "Steal the structure: headline = your intro, hook = your middle, why-it-matters = your close.",
+      "Film talking-head with 2 punch-ins; show the paper in-app for 3–4s.",
+      "Add the paper's cover image as a full-screen insert.",
+      "Title overlay: 'AI paper of the week #1' — series numbering matters."
+    ],
+    caption: "AI paper of the week, explained like gossip 🔬☕\n\nno PhD required. new one every week.\n\nfound via Learnify's research feed — free, link in bio",
+    tags: ["#AI", "#airesearch", "#machinelearning", "#science", "#techtok", "#learnontiktok"]
+  },
+  {
+    id: "creator-meta",
+    emoji: "🎬",
+    title: "How I never run out of video ideas",
+    format: "Screen record",
+    dur: 35, score: 93, level: "Easy",
+    hue: ["rgba(69,219,107,.24)", "rgba(232,194,74,.12)"],
+    hook: "Tech creators: stop staring at a blank notes app.",
+    premise: "The meta one — show OTHER creators how you turn breaking news into content using Learnify's own Ideas board (learnify /ideas), where every story comes with a pre-written hook, talking points and caption. Creators sharing creator tools always travels.",
+    script: [
+      { t: 0, text: "Tech creators — stop staring at a blank notes app. Steal my system.", dir: "talking head" },
+      { t: 5, text: "Step one: I open Learnify's Ideas board. It's a live feed of today's tech news, reframed as video ideas.", dir: "screen record: /ideas board" },
+      { t: 13, text: "Every story already has a hook, talking points, a caption, hashtags. Pre-written.", dir: "tap a card, show the script" },
+      { t: 20, text: "Step two: I hit copy script. Step three: I film it before lunch.", dir: "show the copy button + toast" },
+      { t: 26, text: "Posting about news the day it breaks is the biggest cheat code on this app." },
+      { t: 31, text: "It's free — learnify, link in bio. Go take today's story before someone else does." }
+    ],
+    points: [
+      "Creator-tools content gets shared in group chats — high send rate.",
+      "Show the actual copy-script moment; the toast notification is the payoff.",
+      "Urgency close ('before someone else does') matches how news content actually works."
+    ],
+    steps: [
+      "Screen-record the /ideas board: scroll, filter, open one card.",
+      "Capture the 'Copy script' tap and the confirmation toast.",
+      "Film a 5s talking-head intro and outro.",
+      "Speed-ramp the scroll; slow down on the script reveal.",
+      "Pin a comment with the link to the ideas board."
+    ],
+    caption: "my entire content system is one free website 🎬\n\nbreaking tech news → pre-written hook, points & caption → film by lunch\n\nlearnify ideas board — link in bio",
+    tags: ["#contentcreator", "#creatortips", "#techtok", "#contentstrategy", "#technews", "#smallcreator"]
+  },
+  {
+    id: "thirty-days",
+    emoji: "📈",
+    title: "I read tech news for 30 days straight",
+    format: "Talking head",
+    dur: 50, score: 86, level: "Hard",
+    hue: ["rgba(69,219,107,.16)", "rgba(247,247,250,.10)"],
+    hook: "I read tech news every morning for 30 days. Here's what changed.",
+    premise: "A transformation/challenge video. Document (or retroactively narrate) a month of 5-minute daily scans — what you learned, conversations it unlocked, calls you made early. Transformation framing makes a habit app feel like a life upgrade.",
+    script: [
+      { t: 0, text: "I read tech news every single morning for 30 days. Here's what actually changed.", dir: "talking head, slightly tired but proud energy" },
+      { t: 7, text: "The rules: five minutes a day, one app — Learnify — every source in one feed, no social media rabbit holes." },
+      { t: 15, text: "Week one: I just felt less behind. Standups stopped being scary.", dir: "overlay: 'week 1'" },
+      { t: 22, text: "Week two: I called [a real trend you noticed] two weeks before my whole timeline did.", dir: "overlay: 'week 2', show the old story in-app" },
+      { t: 31, text: "Week four: people started asking ME what's happening in AI. That's new." },
+      { t: 38, text: "Total time invested: about two and a half hours. Across a MONTH." },
+      { t: 44, text: "The app's free. The habit's five minutes. Link in bio if you want in." }
+    ],
+    points: [
+      "Receipts make this video: screenshot a story you saw early and show the date.",
+      "The time math (2.5 hours/month) is the most quotable stat — overlay it.",
+      "Works as a duet/stitch seed: 'try it for 30 days and stitch me'."
+    ],
+    steps: [
+      "Collect 3 receipts: stories you read early, with visible dates in the app.",
+      "Film one main talking-head take with week-by-week beats.",
+      "Overlay 'Week 1 / 2 / 4' text cards as chapter marks.",
+      "Insert in-app screenshots as proof at each beat.",
+      "Close with the time-math overlay: '2.5 hrs total'."
+    ],
+    caption: "30 days of tech news, 5 minutes a day. week 2 is when it got weird 📈\n\ntotal time: 2.5 hours. for a month of knowing everything first.\n\nLearnify, free — link in bio",
+    tags: ["#30daychallenge", "#selfimprovement", "#technews", "#habits", "#productivity", "#AI"]
+  },
+  {
+    id: "free-vs-paid",
+    emoji: "💸",
+    title: "Stop paying for news apps",
+    format: "Talking head",
+    dur: 30, score: 85, level: "Easy",
+    hue: ["rgba(232,194,74,.24)", "rgba(158,158,168,.14)"],
+    hook: "You're paying $15 a month for what this free app does better.",
+    premise: "A spicy value-comparison take. News subscriptions and 'premium' aggregators charge monthly; Learnify's whole feed is free with no paywall. Mild controversy in the hook drives comments — keep the body factual and fair.",
+    script: [
+      { t: 0, text: "You're paying fifteen dollars a month for what this free app does better.", dir: "hold up phone" },
+      { t: 5, text: "Premium news apps: one outlet, a paywall, and somehow still ads." },
+      { t: 11, text: "This: TechCrunch, The Verge, Wired, Ars Technica, research papers, X — one feed, zero dollars.", dir: "screen record: scroll + sources" },
+      { t: 19, text: "Live keyword search across all of them. Still zero dollars.", dir: "keyword demo" },
+      { t: 24, text: "Look — pay for journalism you love. But pay for the WRITING, not for a worse feed." },
+      { t: 28, text: "Learnify. Free. Link in bio." }
+    ],
+    points: [
+      "The nuance beat ('pay for the writing, not the feed') keeps journalists and fans on side.",
+      "Spicy hook + fair body = comments without a ratio.",
+      "Always show the price moment: a paywall screenshot vs the free feed."
+    ],
+    steps: [
+      "Screenshot a typical news paywall (blur the outlet name if you prefer).",
+      "Film the talking head in one take, punchy delivery.",
+      "Insert the paywall vs feed comparison as a quick cut.",
+      "Demo the keyword search for 4 seconds.",
+      "Pin a comment clarifying you support paying for journalism — fuel, not fire."
+    ],
+    caption: "hot take: your $15/mo news app is a worse feed with extra steps 💸\n\nevery major tech source, one free feed, live keyword search.\n\nLearnify — link in bio (and yes, still subscribe to writers you love)",
+    tags: ["#hottake", "#technews", "#frugal", "#apps", "#productivity", "#techtok"]
+  },
+  {
+    id: "home-screen",
+    emoji: "📲",
+    title: "Rate my home screen",
+    format: "Screen record",
+    dur: 22, score: 84, level: "Easy",
+    hue: ["rgba(158,158,168,.20)", "rgba(69,219,107,.14)"],
+    hook: "My home screen is 90% boring and 10% unfair advantage.",
+    premise: "The lowest-effort format here: a casual home-screen tour where Learnify gets the 'unfair advantage' slot. Native, relatable, zero production. Great filler between bigger videos.",
+    script: [
+      { t: 0, text: "My home screen is 90% boring and 10% unfair advantage. Quick tour.", dir: "screen record of home screen" },
+      { t: 5, text: "Messages, maps, bank — boring. Spotify — necessary. Camera roll — chaos." },
+      { t: 11, text: "But THIS one. This is the unfair advantage.", dir: "zoom on Learnify icon, open it" },
+      { t: 15, text: "Every tech headline, every source, one feed. It replaced four news apps and my morning panic." },
+      { t: 20, text: "Learnify, free. What's on your home screen? Show me." }
+    ],
+    points: [
+      "Self-deprecating inventory ('camera roll — chaos') earns the pitch moment.",
+      "The zoom-in on one icon creates a natural spotlight beat.",
+      "Ending question invites duets and comment replies."
+    ],
+    steps: [
+      "Screen-record your real home screen — don't stage it, mess is relatable.",
+      "Voice over in one casual take, like you're showing a friend.",
+      "Zoom edit on the Learnify icon, then 4s inside the app.",
+      "Keep it under 25 seconds total.",
+      "Reply to comments with your actual app stack — engagement gold."
+    ],
+    caption: "rate my home screen — the green one is the unfair advantage 📲\n\nwhat's on yours? 👇\n\nLearnify, free on iOS — link in bio",
+    tags: ["#homescreen", "#ratemysetup", "#apps", "#techtok", "#relatable", "#iphone"]
+  },
+  {
+    id: "explain-fast",
+    emoji: "⚡",
+    title: "Today's tech news in 60 seconds",
+    format: "Listicle",
+    dur: 60, score: 92, level: "Medium",
+    hue: ["rgba(69,219,107,.28)", "rgba(107,71,168,.14)"],
+    hook: "Everything that happened in tech today — in 60 seconds. Go.",
+    premise: "The daily-recap format: rapid-fire today's 5 biggest stories straight from the feed, with a countdown timer on screen. The hardest-working but highest-ceiling format — daily recaps build appointment viewing and loyal followings.",
+    script: [
+      { t: 0, text: "Everything that happened in tech today — 60 seconds. Go.", dir: "timer overlay starts" },
+      { t: 4, text: "One: [today's biggest story]. [One-line what + one-line why it matters].", dir: "headline + cover on screen" },
+      { t: 15, text: "Two: [story 2]. [What + why]." },
+      { t: 26, text: "Three: [story 3]. [What + why]." },
+      { t: 37, text: "Four: [story 4 — pick a fun or weird one]. [What + why]." },
+      { t: 47, text: "Five: [story 5 — research or a sleeper story]. [What + why]." },
+      { t: 55, text: "Sourced from my Learnify feed — every outlet, one app, free. Same time tomorrow.", dir: "timer hits zero" }
+    ],
+    points: [
+      "Pull all five stories from the feed's top of the morning — your prep is literally a 5-minute scroll.",
+      "The visible countdown timer creates urgency and rewatches.",
+      "'Same time tomorrow' is the follower converter — daily formats compound."
+    ],
+    steps: [
+      "Scan the Learnify feed; pick 5 stories (mix: AI, funding, product, weird, research).",
+      "Write one 'what' + one 'why' line per story — 10 seconds each, no more.",
+      "Film against a clean background with high energy; add a countdown overlay.",
+      "Insert each story's cover image as you hit it.",
+      "Post at the same hour daily; consistency is the whole strategy."
+    ],
+    caption: "today's tech news in 60 seconds ⚡ day 1\n\nall five stories from one free feed (Learnify, link in bio)\n\nsame time tomorrow — follow so you don't miss day 2",
+    tags: ["#technews", "#dailynews", "#in60seconds", "#AI", "#startups", "#techtok"]
+  },
+  {
+    id: "duet-bait",
+    emoji: "🗣️",
+    title: "Hot takes from today's feed",
+    format: "Talking head",
+    dur: 34, score: 83, level: "Medium",
+    hue: ["rgba(232,194,74,.20)", "rgba(69,219,107,.16)"],
+    hook: "Three tech opinions I'm willing to die on — today's edition.",
+    premise: "Opinion content built on the day's stories: scan the feed, pick three stories, give a one-line spicy-but-defensible take on each. Opinions get comments; comments get reach. The feed is your endless prompt machine.",
+    script: [
+      { t: 0, text: "Three tech opinions I'm willing to die on. Today's edition.", dir: "confident lean-in" },
+      { t: 5, text: "One. [Story 1 from the feed]. My take: [spicy one-liner — e.g. 'this changes nothing and everyone knows it']." },
+      { t: 13, text: "Two. [Story 2]. Take: [contrarian but defensible angle]." },
+      { t: 21, text: "Three. [Story 3]. Take: [the optimistic flip nobody is saying]." },
+      { t: 28, text: "Disagree? Duet me. I pull these from my Learnify feed every morning — free, link in bio." },
+      { t: 32, text: "Tomorrow: three more. Follow up or miss out." }
+    ],
+    points: [
+      "Spicy but DEFENSIBLE — you want debate in comments, not a pile-on.",
+      "Explicitly inviting duets/stitches multiplies distribution.",
+      "Date-stamp it ('today's edition') so the series feels alive."
+    ],
+    steps: [
+      "Scan the feed; pick 3 stories you genuinely have a reaction to.",
+      "Write each take as ONE sentence — if it needs two, it's not sharp enough.",
+      "Film with direct eye contact, minimal cuts.",
+      "Show each story's headline on screen as you address it.",
+      "Reply to the best disagreement in comments with a video — that's video #2."
+    ],
+    caption: "3 tech opinions I'm willing to die on — today's edition 🗣️\n\ndisagree? duet me.\n\n(stories pulled from my Learnify feed every morning — free, link in bio)",
+    tags: ["#hottake", "#techtok", "#AI", "#debate", "#technews", "#opinions"]
+  }
+];
+
+/* ---------------- state + helpers ---------------- */
+const $ = (id) => document.getElementById(id);
+const state = { format: "all", sort: "score", open: null };
+
+function escapeHtml(s){ return String(s||"").replace(/[&<>"']/g,(c)=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c])); }
+function mmss(sec){ return `${String(Math.floor(sec/60)).padStart(2,"0")}:${String(Math.floor(sec%60)).padStart(2,"0")}`; }
+
+const toastEl = $("toast");
+let toastT;
+function toast(msg){ toastEl.textContent = msg; toastEl.classList.add("show"); clearTimeout(toastT); toastT = setTimeout(()=>toastEl.classList.remove("show"), 1700); }
+function copy(text, label){
+  const done = ()=>toast(label+" copied ✓");
+  if(navigator.clipboard?.writeText){ navigator.clipboard.writeText(text).then(done).catch(()=>fallbackCopy(text,done)); }
+  else fallbackCopy(text, done);
+}
+function fallbackCopy(text, done){ const t=document.createElement("textarea"); t.value=text; t.style.position="fixed"; t.style.opacity="0"; document.body.appendChild(t); t.select(); try{document.execCommand("copy"); done();}catch(_){toast("Copy failed");} t.remove(); }
+
+function fullScript(i){
+  const lines = i.script.map((s)=>`[${mmss(s.t)}] ${s.text}${s.dir?`  (${s.dir})`:""}`).join("\n");
+  return `🎬 ${i.title}  ·  ${i.format}  ·  ~${i.dur}s\n\nHOOK:\n${i.hook}\n\nSCRIPT:\n${lines}\n\nSHOT LIST:\n${i.steps.map((s,n)=>`  ${n+1}. ${s}`).join("\n")}\n\nCAPTION:\n${i.caption}\n\nHASHTAGS:\n${i.tags.join(" ")}`;
+}
+
+/* ---------------- filters ---------------- */
+const FORMATS = ["all", ...new Set(IDEAS.map((i)=>i.format))];
+function buildChips(){
+  $("chips").innerHTML = FORMATS.map((f)=>
+    `<span class="chip${f===state.format?" on":""}" data-f="${escapeHtml(f)}">${f==="all"?`All scripts (${IDEAS.length})`:escapeHtml(f)}</span>`).join("");
+  $("chips").querySelectorAll(".chip").forEach((el)=>{
+    el.onclick = ()=>{ state.format = el.dataset.f; buildChips(); renderGrid(); };
+  });
+}
+
+function visible(){
+  let list = IDEAS.filter((i)=>state.format==="all" || i.format===state.format);
+  if(state.sort==="score") list = [...list].sort((a,b)=>b.score-a.score);
+  if(state.sort==="short") list = [...list].sort((a,b)=>a.dur-b.dur);
+  if(state.sort==="long")  list = [...list].sort((a,b)=>b.dur-a.dur);
+  return list;
+}
+
+/* ---------------- grid ---------------- */
+function renderGrid(){
+  state.open = null;
+  $("detail").hidden = true;
+  $("back").hidden = true;
+  const grid = $("grid");
+  grid.hidden = false;
+  grid.innerHTML = visible().map((i,n)=>`
+    <article class="card" data-id="${i.id}" style="animation-delay:${Math.min(n*30,400)}ms" tabindex="0" role="button" aria-label="Open script: ${escapeHtml(i.title)}">
+      <div class="cover" style="background:linear-gradient(135deg, ${i.hue[0]}, ${i.hue[1]}), var(--elevated)">
+        <span class="big">${i.emoji}</span>
+        <span class="score">${i.score}/100</span>
+        <span class="dur">~${i.dur}s</span>
+        <span class="fmt">${escapeHtml(i.format)}</span>
+      </div>
+      <div class="cbody">
+        <h3>${escapeHtml(i.title)}</h3>
+        <p class="hookline"><b>Hook:</b> ${escapeHtml(i.hook)}</p>
+        <div class="ctags">${i.tags.slice(0,3).map((t)=>`<span class="ctag">${escapeHtml(t)}</span>`).join("")}</div>
+        <span class="copen">Open full script
+          <svg viewBox="0 0 24 24"><path d="M9 6l6 6-6 6" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round"/></svg>
+        </span>
+      </div>
+    </article>`).join("");
+  grid.querySelectorAll(".card").forEach((card)=>{
+    const open = ()=>openDetail(card.dataset.id);
+    card.addEventListener("click", open);
+    card.addEventListener("keydown", (e)=>{ if(e.key==="Enter"||e.key===" "){ e.preventDefault(); open(); } });
+  });
+}
+
+/* ---------------- detail ---------------- */
+function openDetail(id){
+  const i = IDEAS.find((x)=>x.id===id);
+  if(!i) return;
+  state.open = id;
+  $("grid").hidden = true;
+  $("back").hidden = false;
+  const d = $("detail");
+  d.hidden = false;
+  window.scrollTo({ top: 0, behavior: "smooth" });
+
+  const C = 2 * Math.PI * 24;
+  d.innerHTML = `
+    <div class="d-left">
+      <div class="panel">
+        <div class="d-cover" style="background:linear-gradient(135deg, ${i.hue[0]}, ${i.hue[1]}), var(--elevated)">
+          <span class="big">${i.emoji}</span>
+          <span class="fmt">${escapeHtml(i.format)}</span>
+        </div>
+        <div class="d-stats">
+          <div class="d-stat"><b>~${i.dur}s</b>runtime</div>
+          <div class="d-stat"><b>${escapeHtml(i.level)}</b>to film</div>
+          <div class="ring" title="Concept score">
+            <svg viewBox="0 0 60 60">
+              <circle cx="30" cy="30" r="24" stroke="var(--elevated)" stroke-width="5" fill="none"/>
+              <circle cx="30" cy="30" r="24" stroke="var(--save-green)" stroke-width="5" fill="none" stroke-linecap="round"
+                stroke-dasharray="${C.toFixed(0)}" stroke-dashoffset="${(C - (i.score/100)*C).toFixed(0)}" transform="rotate(-90 30 30)"/>
+            </svg>
+            <span>${i.score}</span>
+          </div>
+        </div>
+        <div class="shotlist">
+          <h4>Shot list</h4>
+          <ol>${i.steps.map((s)=>`<li>${escapeHtml(s)}</li>`).join("")}</ol>
+        </div>
+      </div>
+    </div>
+
+    <div class="d-right">
+      <div class="panel">
+        <div class="p-hd">
+          <h3><span class="ico"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M4 6h16v2H4zM4 11h16v2H4zM4 16h10v2H4z"/></svg></span>${escapeHtml(i.title)} — full script</h3>
+          <div class="p-actions">
+            <button class="btn-chip primary" id="copy-script">
+              <svg viewBox="0 0 24 24"><rect x="8" y="8" width="12" height="12" rx="2" stroke="currentColor" stroke-width="1.8" fill="none"/><path d="M4 16V6a2 2 0 0 1 2-2h10" stroke="currentColor" stroke-width="1.8" fill="none"/></svg>
+              Copy full script
+            </button>
+            <button class="btn-chip" id="copy-hook">Hook</button>
+            <button class="btn-chip" id="copy-caption">Caption</button>
+          </div>
+        </div>
+        <div class="script">
+          ${i.script.map((s)=>`
+            <div class="s-row" data-line="${escapeHtml(s.text)}" title="Click to copy this line">
+              <div class="s-time">${mmss(s.t)}</div>
+              <div class="s-text">${escapeHtml(s.text)}${s.dir?` <span class="dir">— ${escapeHtml(s.dir)}</span>`:""}</div>
+            </div>`).join("")}
+        </div>
+        <div class="s-foot">Lines in [brackets] are slots — fill them with today's stories from the <a href="/ideas" style="color:var(--save-green)">Ideas board</a> or your <a href="/" style="color:var(--save-green)">feed</a>. Click any line to copy it.</div>
+      </div>
+
+      <div class="panel">
+        <div class="insights">
+          <div class="ins">
+            <div class="ico"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M13 2L3 14h7l-1 8 10-12h-7l1-8z"/></svg></div>
+            <div><h4>Hook</h4><p>${escapeHtml(i.hook)}</p></div>
+          </div>
+          <div class="ins">
+            <div class="ico"><svg viewBox="0 0 24 24"><path d="M9 18h6M10 22h4M12 2a7 7 0 0 0-4 13v3h8v-3a7 7 0 0 0-4-13z" stroke="currentColor" stroke-width="1.7" fill="none" stroke-linejoin="round"/></svg></div>
+            <div><h4>The idea</h4><p>${escapeHtml(i.premise)}</p></div>
+          </div>
+          <div class="ins">
+            <div class="ico"><svg viewBox="0 0 24 24"><path d="M21 15a2 2 0 0 1-2 2H8l-5 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z" stroke="currentColor" stroke-width="1.7" fill="none" stroke-linejoin="round"/></svg></div>
+            <div><h4>Why it works</h4><ul>${i.points.map((p)=>`<li>${escapeHtml(p)}</li>`).join("")}</ul></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="d-bottom">
+        <div class="panel">
+          <div class="p-hd">
+            <h3><span class="ico"><svg viewBox="0 0 24 24"><path d="M4 4h16v12H5l-1 4V4z" stroke="currentColor" stroke-width="1.7" fill="none" stroke-linejoin="round"/></svg></span>Suggested caption</h3>
+            <button class="btn-chip" id="copy-caption-2">
+              <svg viewBox="0 0 24 24"><rect x="8" y="8" width="12" height="12" rx="2" stroke="currentColor" stroke-width="1.8" fill="none"/><path d="M4 16V6a2 2 0 0 1 2-2h10" stroke="currentColor" stroke-width="1.8" fill="none"/></svg>
+              Copy
+            </button>
+          </div>
+          <div class="cap-text">${escapeHtml(i.caption)}</div>
+        </div>
+        <div class="panel">
+          <div class="p-hd">
+            <h3><span class="ico"><svg viewBox="0 0 24 24"><path d="M20 12L12 4H4v8l8 8 8-8z" stroke="currentColor" stroke-width="1.7" fill="none" stroke-linejoin="round"/><circle cx="8" cy="8" r="1.5" fill="currentColor"/></svg></span>Hashtags <span style="font-size:11px;color:var(--txt-45);font-weight:500">tap to copy</span></h3>
+          </div>
+          <div class="taglist">${i.tags.map((t)=>`<span class="htag">${escapeHtml(t)}</span>`).join("")}</div>
+        </div>
+      </div>
+    </div>`;
+
+  d.querySelector("#copy-script").addEventListener("click", ()=>copy(fullScript(i), "Full script"));
+  d.querySelector("#copy-hook").addEventListener("click", ()=>copy(i.hook, "Hook"));
+  d.querySelector("#copy-caption").addEventListener("click", ()=>copy(i.caption + "\n\n" + i.tags.join(" "), "Caption + hashtags"));
+  d.querySelector("#copy-caption-2").addEventListener("click", ()=>copy(i.caption + "\n\n" + i.tags.join(" "), "Caption + hashtags"));
+  d.querySelectorAll(".s-row").forEach((r)=>r.addEventListener("click", ()=>copy(r.dataset.line, "Line")));
+  d.querySelectorAll(".htag").forEach((el)=>el.addEventListener("click", ()=>copy(el.textContent, el.textContent)));
+}
+
+$("back").addEventListener("click", renderGrid);
+$("sort").addEventListener("change", (e)=>{ state.sort = e.target.value; if(!state.open) renderGrid(); });
+
+buildChips();
+renderGrid();
+
+// topbar scroll progress
+const tb = document.querySelector(".topbar");
+addEventListener("scroll", ()=>{ const h=document.documentElement.scrollHeight-innerHeight; tb.style.transform=`scaleX(${h>0?scrollY/h:0})`; }, { passive:true });
+</script>
+</body>
+</html>
