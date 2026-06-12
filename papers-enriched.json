@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-12T05:18:15.078Z",
-  "count": 40,
+  "generated_at": "2026-06-12T09:48:11.814Z",
+  "count": 43,
   "papers": {
     "oa_vfyp9y": {
       "headline": "A New Way to Pick the Best Model for Unsupervised Domain Adaptation",
@@ -281,6 +281,27 @@
       "visual": "a laptop screen showing a chat window with a highlighted malicious prompt overriding the AI's response",
       "cover": "/paper-covers/oa_bxkqto.jpg",
       "enriched_at": "2026-06-12T00:07:21.419Z"
+    },
+    "arxiv_1tpafy8": {
+      "headline": "Modeling How Humans Learn Complex Hand Movements for Better Rehab",
+      "hook": "Researchers built a computer model that captures how people learn to move their many finger joints when practicing tasks like grasping objects. The model shows which combinations of joint motions are learned first and how practice reshapes those patterns. This insight could help design smarter rehab devices that guide stroke patients to regain dexterity faster.",
+      "visual": "a close-up of a sensor-laden glove on a hand as it curls fingers to pick up a small cube",
+      "cover": "/paper-covers/arxiv_1tpafy8.jpg",
+      "enriched_at": "2026-06-12T09:47:23.390Z"
+    },
+    "arxiv_i57oq0": {
+      "headline": "ReverseORC Reveals How Apps Adapt Layouts Across Technologies",
+      "hook": "Researchers built ReverseORC to figure out how user interfaces change size when you stretch or shrink a window, without needing to know the underlying code. By watching the UI as it resizes, the tool extracts the hidden rules that govern layouts, working for web, desktop, and mobile apps alike.",
+      "visual": "a resizable desktop window with UI elements shifting as the border is dragged",
+      "cover": "/paper-covers/arxiv_i57oq0.jpg",
+      "enriched_at": "2026-06-12T09:47:26.147Z"
+    },
+    "arxiv_2jfn9d": {
+      "headline": "Smart Contract Developers Ignore Security Despite $680M Losses",
+      "hook": "Researchers looked at how smart contract developers handle security, hoping to explain why over $680 million in digital assets were stolen in 2021. They wanted to know whether creators follow formal safety steps or rely on informal checks. Figuring this out could help stop future hacks that put users’ funds at risk.",
+      "visual": "a laptop screen displaying Solidity smart contract code highlighted with a red security warning icon",
+      "cover": "/paper-covers/arxiv_2jfn9d.jpg",
+      "enriched_at": "2026-06-12T09:48:06.942Z"
     }
   }
 }
