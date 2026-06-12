@@ -253,7 +253,7 @@ function paperSeed(id) {
 }
 
 const TEASER_SYSTEM = [
-  'You write irresistible but strictly accurate research-paper teasers for a tech news app.',
+  'You write irresistible but strictly accurate research-paper teasers for a learning app whose papers span AI, tech, science, fitness, nutrition, skincare, psychology, finance and space.',
   'Reply with ONLY strict JSON, no markdown, no commentary: {"headline": "...", "hook": "...", "visual": "..."}.',
   'headline: at most 72 characters, concrete and curiosity-driven, accurate to the abstract, no fabricated claims or numbers,',
   'never start with "Scientists discover", no clickbait lies, Title Case (never ALL CAPS).',

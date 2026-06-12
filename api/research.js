@@ -6,12 +6,16 @@
 //
 // Query params (optional):
 //   category  filter by app category value (e.g. "AI / ML", "Science")
+//   genre     filter by fine-grained genre (e.g. "Fitness", "Skincare",
+//             "Finance", "Nutrition", "Mind & Psychology", "Space")
 //   limit     max papers (default all)
 //   sort      "trending" (default, by momentum) | "citations" | "recent"
 //
 // Response: { generated_at, count, papers: [
-//   { id, title, org, category, summary, citations, trend, url,
+//   { id, title, org, category, genre, summary, citations, trend, url,
 //     original_title, image } ] }
+// `genre` is ADDITIVE (the iOS app ignores unknown fields); `category` still
+// maps every paper into the app's fixed NewsCategory set.
 // `title`/`summary` are the precomputed addictive headline + hook from
 // papers-enriched.json (scripts/enrich.mjs) when available — falling back to
 // the raw arXiv/OpenAlex title + abstract. `original_title` always carries the
@@ -35,7 +39,9 @@ function loadPapersEnriched() {
 
 // The app DROPS any paper whose `category` is not one of these exact NewsCategory
 // rawValues: "AI / ML", "Robotics", "Coding & Dev Tools", "Startups & Funding",
-// "Hardware & Gadgets", "Security", "Science".
+// "Hardware & Gadgets", "Security", "Science", "Fitness", "Skincare".
+// ("Fitness"/"Skincare" are NEW — the iOS side is adding matching enum cases;
+// old app builds silently drop them, which is the intended safe degradation.)
 // Papers now span all categories via arXiv breadth (cs.RO, cs.CR, cs.SE, cs.PL,
 // cs.AR, cs.HC, eess.SY, cond-mat.mtrl-sci, q-bio.BM, physics.app-ph) and
 // OpenAlex concepts. Classifier order: most-specific first, AI/ML last as default.
@@ -44,13 +50,59 @@ function loadPapersEnriched() {
 
 // The app DROPS any paper whose `category` is not one of these exact NewsCategory
 // rawValues: "AI / ML", "Robotics", "Coding & Dev Tools", "Startups & Funding",
-// "Hardware & Gadgets", "Security", "Science".
+// "Hardware & Gadgets", "Security", "Science", "Fitness", "Skincare".
 // Classifier order: most-specific first; life/physical-science (incl. medicine)
 // goes BEFORE the Coding bucket so force-tagged medical papers route to Science,
 // AI/ML last as default.
+// Force-tagged genre sections (lib/papers.js OA_TOPICS) → app category.
+// Fitness + Skincare route to NEW app-category rawValues ("Fitness"/"Skincare")
+// — the iOS side is adding matching NewsCategory enum cases; older app builds
+// silently drop unknown categories (intended safe degradation). The remaining
+// human-science genres still ride the app's "Science" bucket; money rides
+// "Startups & Funding". The fine-grained genre also ships in the additive
+// `genre` field below.
+const TAG_TO_APP = {
+  "fitness exercise": "Fitness",
+  "skincare dermatology": "Skincare",
+  "nutrition diet": "Science",
+  "psychology mind": "Science",
+  "longevity health": "Science",
+  "finance investing": "Startups & Funding",
+};
+
+// Fine-grained genre for the website/genre filters — ADDITIVE field, the iOS
+// app ignores it (decoders are Optional). Force-tag first, then arXiv subject
+// codes, then keyword fallback; defaults to the app category.
+const TAG_TO_GENRE = {
+  "fitness exercise": "Fitness",
+  "skincare dermatology": "Skincare",
+  "nutrition diet": "Nutrition",
+  "psychology mind": "Mind & Psychology",
+  "longevity health": "Longevity",
+  "finance investing": "Finance",
+  "robotics": "Robotics",
+  "security cryptography": "Security",
+  "software engineering": "Coding & Dev Tools",
+};
+function toGenre(p, appCategory) {
+  if (TAG_TO_GENRE[p.section]) return TAG_TO_GENRE[p.section];
+  const hay = `${p.section || ""} ${(p.categories || []).join(" ")} ${p.title || ""}`.toLowerCase();
+  if (/q-fin|econ\.gn|\bfinance\b|investing|portfolio|asset pricing|household finance|stock market/.test(hay)) return "Finance";
+  if (/q-bio\.nc|neurosci|cognit|\bsleep\b|psycholog|memory consolidation|\bbrain\b/.test(hay)) return "Mind & Psychology";
+  if (/astro-ph|exoplanet|\bplanet\b|cosmolog|telescope|\bspace\b/.test(hay)) return "Space";
+  if (/exercise|resistance training|muscle|endurance|athlet|\bvo2\b/.test(hay)) return "Fitness";
+  if (/dermatolog|\bskin\b|sunscreen|cosmetic/.test(hay)) return "Skincare";
+  if (/nutrition|\bdiet\b|dietary|protein intake|metabolism/.test(hay)) return "Nutrition";
+  if (/longevity|aging|healthspan|lifespan/.test(hay)) return "Longevity";
+  return appCategory;
+}
+
 function toAppCategory(p) {
   const hay = `${p.section || ""} ${(p.categories || []).join(" ")} ${p.id || ""} ${p.title || ""}`.toLowerCase();
   const title = (p.title || "").toLowerCase();
+
+  // Force-tagged genre picks route directly (before any keyword heuristics)
+  if (TAG_TO_APP[p.section]) return TAG_TO_APP[p.section];
 
   // Robotics — specific enough to go first
   if (/\brobot|locomotion|quadruped|manipulation|\bcs\.ro\b/.test(hay)) return "Robotics";
@@ -108,11 +160,13 @@ function toResearch(p, enr, base) {
   const headline = (enr && typeof enr.headline === "string" && enr.headline.trim()) || "";
   const hook = (enr && typeof enr.hook === "string" && enr.hook.trim()) || "";
   const cover = (enr && typeof enr.cover === "string" && enr.cover.startsWith("/paper-covers/")) ? enr.cover : null;
+  const appCategory = toAppCategory(p);
   return {
     id: p.id || idFor(rawTitle),
     title: headline || rawTitle,
     org,
-    category: toAppCategory(p),
+    category: appCategory,
+    genre: toGenre(p, appCategory),
     summary: hook || rawSummary,
     citations: Number.isFinite(p.citations) ? p.citations : 0,
     trend: trendScore(p),
@@ -132,6 +186,7 @@ export default async function handler(req, res) {
   if (req.method === "OPTIONS") { res.status(204).end(); return; }
 
   const category = str(req.query?.category).toLowerCase();
+  const genre = str(req.query?.genre).toLowerCase();
   // Default to FRESH (newest-first). The app requests sort=recent; "trending"
   // (most-cited) is opt-in only, since most-cited skews old + medical.
   const sort = str(req.query?.sort) || "recent";
@@ -153,6 +208,7 @@ export default async function handler(req, res) {
   }
 
   if (category) papers = papers.filter((p) => p.category.toLowerCase() === category);
+  if (genre) papers = papers.filter((p) => (p.genre || "").toLowerCase() === genre);
   papers.sort((a, b) => {
     if (sort === "citations") return b.citations - a.citations;
     if (sort === "trending") return b.trend - a.trend;
