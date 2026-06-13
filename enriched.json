@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-13T21:48:06.421Z",
+  "generated_at": "2026-06-13T23:10:18.437Z",
   "model": "nvidia/nemotron-3-super-120b-a12b",
-  "count": 1671,
+  "count": 1699,
   "items": {
     "85219": {
       "ai_summary": "Amazon’s cybersecurity research reportedly helped trigger a White House export‑control directive that forced Anthropic to cut off access to its Fable 5 and Mythos 5 models. The Wall Street Journal says the move was influenced by Amazon’s paper and discussions between CEO Andy Jassy and administration officials.",
@@ -531,9 +531,9 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/5-things-a.jpg?resize=1200,600"
     },
     "b07dm1": {
+      "ai_summary": "Scientists used nanoscale gold metamaterials to boost heat transfer across tiny gaps, achieving up to four times more energy flow than conventional systems. This advance could improve chip cooling, enhance energy‑efficient technologies, and enable precise heat engineering at the nanoscale.",
       "title": "Heat breaks the rules at the nanoscale and scientists used it to their advantage",
-      "t": 1781113528355,
-      "image": "https://www.sciencedaily.com/images/1920/metamaterials-cooling-for-chips.webp",
+      "t": 1781392197482,
       "media_url": "https://live.staticflickr.com/3884/14251619410_67047b0448.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: NASA Goddard Photo and Video / BY 2.0 via flickr",
@@ -619,82 +619,146 @@
     "1yzxpgq": {
       "title": "The forgotten organ that could predict how long you live",
       "t": 1781113528696,
-      "image": "https://www.sciencedaily.com/images/1920/human-body-thymus-gland.webp"
+      "image": "https://www.sciencedaily.com/images/1920/human-body-thymus-gland.webp",
+      "media_url": "https://live.staticflickr.com/1516/24107393709_d61a2616ef_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Simon Knott / CC0 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/97947642@N00/24107393709"
     },
     "1taij65": {
       "title": "This strange crystal acts like metal and glass at the same time",
       "t": 1781113528722,
-      "image": "https://www.sciencedaily.com/images/1920/guiding-light-with-moocl2.webp"
+      "image": "https://www.sciencedaily.com/images/1920/guiding-light-with-moocl2.webp",
+      "media_url": "https://live.staticflickr.com/5209/5287765856_e1055e3fb8_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Shadowgate / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/79586279@N00/5287765856"
     },
     "1ijqx0q": {
       "title": "New 3D silicon chip breakthrough could extend Moore’s Law for years",
       "t": 1781113528763,
-      "image": "https://www.sciencedaily.com/images/1920/3d-cpu-processor-chip.webp"
+      "image": "https://www.sciencedaily.com/images/1920/3d-cpu-processor-chip.webp",
+      "media_url": "https://live.staticflickr.com/3886/14394511284_a7372c43a9_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: eevblog / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/58072483@N02/14394511284"
     },
     "byodop": {
       "title": "This strange new phase of matter could transform quantum technology",
       "t": 1781113528784,
-      "image": "https://www.sciencedaily.com/images/1920/strange-quantum-material-new-phase-state.webp"
+      "image": "https://www.sciencedaily.com/images/1920/strange-quantum-material-new-phase-state.webp",
+      "media_url": "https://live.staticflickr.com/1857/43334756495_35b6447601_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: NASA Goddard Space Flight Center / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/35278629@N08/43334756495"
     },
     "d25de3": {
       "title": "Stanford quantum computing breakthrough uses twisted light to work without extreme cooling",
       "t": 1781113528817,
-      "image": "https://www.sciencedaily.com/images/1920/stanford-quantum-signaling-breakthrough.webp"
+      "image": "https://www.sciencedaily.com/images/1920/stanford-quantum-signaling-breakthrough.webp",
+      "media_url": "https://live.staticflickr.com/6127/6013914231_8b0aa85b27.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Jeffrey Beall / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/31437555@N00/6013914231"
     },
     "2jvk23": {
       "title": "AI-powered spectrometer chip shrinks lab technology to the size of a grain of sand",
       "t": 1781113528843,
-      "image": "https://www.sciencedaily.com/images/1920/spectrometer-chip.webp"
+      "image": "https://www.sciencedaily.com/images/1920/spectrometer-chip.webp",
+      "media_url": "https://live.staticflickr.com/7580/15983496555_08d0789d4c.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Kitmondo.com / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/129143611@N03/15983496555"
     },
     "lyb0oe": {
       "title": "Scientists create global treasure map pointing to hidden rare earth deposits",
       "t": 1781113528874,
-      "image": "https://www.sciencedaily.com/images/1920/mapping-rocks-with-rare-earth-element-potential.webp"
+      "image": "https://www.sciencedaily.com/images/1920/mapping-rocks-with-rare-earth-element-potential.webp",
+      "media_url": "https://live.staticflickr.com/3751/20185002499_cff40f0687_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: NASA Goddard Photo and Video / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/24662369@N07/20185002499"
     },
     "k76bpj": {
       "title": "AI won’t replace you but someone using AI might",
       "t": 1781113528903,
-      "image": "https://www.sciencedaily.com/images/1920/ai-cyborg-robot-whispering-secret-to-man.webp"
+      "image": "https://www.sciencedaily.com/images/1920/ai-cyborg-robot-whispering-secret-to-man.webp",
+      "media_url": "https://live.staticflickr.com/3618/3527467203_5d1d9c20c6_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: vtdeacon / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/33849785@N06/3527467203"
     },
     "1gkoraf": {
       "title": "AI scans 400,000 Reddit posts and finds hidden Ozempic side effects",
       "t": 1781113528932,
-      "image": "https://www.sciencedaily.com/images/1920/woman-face-close-up-surprise-worry-fear.webp"
+      "image": "https://www.sciencedaily.com/images/1920/woman-face-close-up-surprise-worry-fear.webp",
+      "media_url": "https://live.staticflickr.com/3369/3344857830_4705300d3e_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: U.S. Geological Survey / CC0 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/27784370@N05/3344857830"
     },
     "1g3eku9": {
       "title": "Scientists discover atoms suddenly spinning backward in quantum experiment",
       "t": 1781113528964,
-      "image": "https://www.sciencedaily.com/images/1920/terahertz-laser-drives-atoms-crystal-circular-paths.webp"
+      "image": "https://www.sciencedaily.com/images/1920/terahertz-laser-drives-atoms-crystal-circular-paths.webp",
+      "media_url": "https://live.staticflickr.com/3547/3462504316_148d6f8df1_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: NASA Goddard Photo and Video / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/24662369@N07/3462504316"
     },
     "1b6c0iq": {
       "title": "New AI body map reveals obesity’s hidden attack on facial nerves",
       "t": 1781113528990,
-      "image": "https://www.sciencedaily.com/images/1920/whole-body-3d-reconstruction.webp"
+      "image": "https://www.sciencedaily.com/images/1920/whole-body-3d-reconstruction.webp",
+      "media_url": "https://live.staticflickr.com/2925/14539805013_810d357348_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: NASA Goddard Photo and Video / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/24662369@N07/14539805013"
     },
     "hbslwt": {
       "title": "Ordinary WiFi can now identify people with near perfect accuracy",
       "t": 1781113529022,
-      "image": "https://www.sciencedaily.com/images/1920/wifi-imaging-secret-spying.webp"
+      "image": "https://www.sciencedaily.com/images/1920/wifi-imaging-secret-spying.webp",
+      "media_url": "https://live.staticflickr.com/2376/5809351607_ff9853a762_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: ultrakickgirl / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/9032130@N03/5809351607"
     },
     "1dz5yte": {
       "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
       "t": 1781113529048,
-      "image": "https://www.sciencedaily.com/images/1920/photonic-computing-component.webp"
+      "image": "https://www.sciencedaily.com/images/1920/photonic-computing-component.webp",
+      "media_url": "https://live.staticflickr.com/2376/5809351607_ff9853a762_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: ultrakickgirl / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/9032130@N03/5809351607"
     },
     "y1xdoj": {
       "title": "The “impossible” LED that could change everything",
       "t": 1781113529086,
-      "image": "https://www.sciencedaily.com/images/1920/lanthanide-doped-nanoparticle.webp"
+      "image": "https://www.sciencedaily.com/images/1920/lanthanide-doped-nanoparticle.webp",
+      "media_url": "https://live.staticflickr.com/65535/52470312781_dbe65b8242_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/52470312781"
     },
     "1lw5a94": {
       "title": "AI reveals the invisible magnetic chaos wasting energy inside electric motors",
       "t": 1781113529102,
-      "image": "https://www.sciencedaily.com/images/1920/computational-model-identifies-origin-of-complex-magnetization-reversal-in-soft-magnets.webp"
+      "image": "https://www.sciencedaily.com/images/1920/computational-model-identifies-origin-of-complex-magnetization-reversal-in-soft-magnets.webp",
+      "media_url": "https://live.staticflickr.com/65535/52812028196_5f59765207_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: James Webb Space Telescope / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/50785054@N03/52812028196"
     },
     "p4ct1k": {
       "title": "NASA’s new AI space chip could let spacecraft think for themselves",
       "t": 1781113529142,
-      "image": "https://www.sciencedaily.com/images/1920/nasa-high-performance-spaceflight-computing-processor.webp"
+      "image": "https://www.sciencedaily.com/images/1920/nasa-high-performance-spaceflight-computing-processor.webp",
+      "media_url": "https://live.staticflickr.com/4430/36845690330_24be2e6e1e_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: NASA Goddard Photo and Video / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/24662369@N07/36845690330"
     },
     "ezw08d": {
       "title": "Scientists discover hidden math secret inside Chinese money plant leaves",
@@ -2702,7 +2766,8 @@
       "media_url": "https://live.staticflickr.com/1855/44386760371_b1d7d22888_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: PLeia2 / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/64684255@N00/44386760371"
+      "media_credit_url": "https://www.flickr.com/photos/64684255@N00/44386760371",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3-5_Live_Translate_hero.width-1300.png"
     },
     "it0px3": {
       "ai_summary": "Gemma 4 12B is a unified, encoder-free multimodal model. The model contains 12 billion parameters.",
@@ -2717,17 +2782,29 @@
     "3h9rwz": {
       "title": "Simulate real-world places with Project Genie and Street View",
       "t": 1781137196657,
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/projectgenie-social.width-1300.png"
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/projectgenie-social.width-1300.png",
+      "media_url": "https://live.staticflickr.com/7594/28799579322_f9e3ce8511_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/28799579322"
     },
     "87bha0": {
       "title": "Introducing Gemini Omni",
       "t": 1781137196677,
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GeminiOmni_social.width-1300.png"
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GeminiOmni_social.width-1300.png",
+      "media_url": "https://live.staticflickr.com/1856/42583851010_46217c0c38_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: PLeia2 / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/64684255@N00/42583851010"
     },
     "1y1hks1": {
       "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
       "t": 1781137196680,
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Image_for_APAC_GDM_Accelerator.max-1440x810.png"
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Image_for_APAC_GDM_Accelerator.max-1440x810.png",
+      "media_url": "https://live.staticflickr.com/65535/51589917963_050daf83ce_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/51589917963"
     },
     "1wbbh54": {
       "ai_summary": "Powering the future of robotics in Europe. Powering the future of robotics in Europe.",
@@ -12189,8 +12266,9 @@
       "media_credit_url": "https://www.flickr.com/photos/111692634@N04/11406986014"
     },
     "3fchhh": {
+      "ai_summary": "Terry Tao promotes the use of AI-powered proof‑checkers that split mathematical problems into small, verifiable chunks and reassemble them with confidence in each step’s correctness. He sees this method as heralding a new area of mathematical research.",
       "title": "How Terry Tao Became an Evangelist for AI in Math",
-      "t": 1781349593166,
+      "t": 1781392173507,
       "media_url": "https://live.staticflickr.com/2157/2255017512_6d5795c9be_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: Bolckow / BY-SA 2.0 via flickr",
@@ -12206,56 +12284,63 @@
       "media_credit_url": "https://www.flickr.com/photos/21137468@N08/5416386712"
     },
     "agxqwm": {
+      "ai_summary": "Sam Bankman‑Fried, co‑founder of the collapsed cryptocurrency exchange FTX, has submitted a pardon request to former President Donald Trump. He is currently serving a 25‑year prison sentence that was handed down in 2024.",
       "title": "Sam Bankman-Fried applies for a pardon from Trump",
-      "t": 1781349593570,
+      "t": 1781392176302,
       "media_url": "https://live.staticflickr.com/4578/37893852474_f78ae54a12_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: EthereumClassic / CC0 1.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/149639283@N08/37893852474"
     },
     "1xjbz97": {
+      "ai_summary": "Jill On Money returns with a new Ask Jill Q&A column. The feature invites readers to submit personal finance questions for Jill Schlesinger to answer.",
       "title": "Jill On Money: Ask Jill",
-      "t": 1781349593594,
+      "t": 1781392176136,
       "media_url": "https://live.staticflickr.com/7136/7613173816_ae53816f2b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: Global X / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/25601791@N00/7613173816"
     },
     "5wg1t4": {
+      "ai_summary": "Bending Spoons, the parent company of Eventbrite and Vimeo, has filed to go public. The firm says its suite of apps reaches more than 500 million monthly active users.",
       "title": "Eventbrite and Vimeo owner Bending Spoons files to go public",
-      "t": 1781349593620,
+      "t": 1781392179719,
       "media_url": "https://live.staticflickr.com/7262/8170123034_f5684034f9_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: NASA Goddard Photo and Video / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/24662369@N07/8170123034"
     },
     "1jk6cks": {
+      "ai_summary": "A traveler paid $2,369 for a Panama Canal cruise booked through an agent and settled the bill on schedule. Two days later, Princess Cruises canceled the reservation despite the payment.",
       "title": "He paid $2,369 for his cruise, but Princess canceled the reservation anyway",
-      "t": 1781349594009,
+      "t": 1781392182610,
       "media_url": "https://live.staticflickr.com/65535/52595721497_a6a57d3bc6_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: A Guy Named Nyal / BY-SA 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/189326381@N08/52595721497"
     },
     "3f6hp3": {
+      "ai_summary": "Developers are proposing an eight‑story, 100‑plus‑unit apartment complex near San Jose’s SAP Center. They intend to invoke SB 330 provisions to speed up the city’s approval process.",
       "title": "Apartment hub with 100-plus units is eyed in San Jose near SAP Center",
-      "t": 1781349594023,
+      "t": 1781392179386,
       "media_url": "https://live.staticflickr.com/4153/5087186341_8302a2af07_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: Jordanhill School D&T Dept / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/42042252@N02/5087186341"
     },
     "t9dmap": {
+      "ai_summary": "California lawmakers are advancing a bill that would require baby formula manufacturers to share heavy‑metal test results, extending the state’s existing monitoring of prenatal vitamins and baby food. Assemblymember Celeste Rodriguez, who highlighted the lack of formula testing before joining the legislature, is championing the measure.",
       "title": "Companies are testing baby formula for heavy metals — a new California bill would make them share results",
-      "t": 1781349594437,
+      "t": 1781392184636,
       "media_url": "https://live.staticflickr.com/8378/8589181792_b8ee44832b_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: Cognizant Technology Solutions / BY-SA 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/43262583@N05/8589181792"
     },
     "17wzenl": {
+      "ai_summary": "Massachusetts lawmakers approved a privacy rights bill that prohibits the sale of individuals' precise location data. The legislation will apply to all companies and startups operating within the state.",
       "title": "Massachusetts votes to pass new privacy rights bill that bans sale of precise location data",
-      "t": 1781349594514,
+      "t": 1781392186111,
       "media_url": "https://live.staticflickr.com/8529/8521624548_fe3b21051d_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: g4ll4is / BY-SA 2.0 via flickr",
@@ -12563,72 +12648,81 @@
       "media_credit_url": "https://www.flickr.com/photos/28958738@N06/7116952427"
     },
     "1q7mr7c": {
+      "ai_summary": "A randomized controlled trial in Sierra Leone found that Gemini’s Guided Learning feature boosted engagement and accelerated learning. The results suggest the tool could improve educational outcomes in similar contexts.",
       "title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
-      "t": 1781356142783,
+      "t": 1781392194878,
       "media_url": "https://live.staticflickr.com/1856/42583851010_46217c0c38_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: PLeia2 / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/64684255@N00/42583851010"
     },
     "brgijd": {
+      "ai_summary": "The Lucid Air is positioned as an underdog in the luxury electric sedan market. It offers a broad suite of safety technologies, including forward and reverse collision warning, traffic‑sign recognition, front and rear parking sensors, and stop‑and‑go adaptive cruise control.",
       "title": "Autopia: Lucid Air is an underdog luxury electric sedan",
-      "t": 1781356142863,
+      "t": 1781392188929,
       "media_url": "https://live.staticflickr.com/4199/34666276201_50fc312022_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: kevin dooley / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/12836528@N00/34666276201"
     },
     "18c3oq4": {
+      "ai_summary": "Uber is allowing UK customers to join an interest list for a better shot at riding Wayve’s robotaxis. This move highlights the growing robotaxi competition in London involving Uber, Wayve, and Waymo.",
       "title": "Uber, Wayve, and Waymo are headed toward a robotaxi showdown in London",
-      "t": 1781356143070,
+      "t": 1781392192629,
       "media_url": "https://live.staticflickr.com/8114/8657120528_e88bbb1cc5_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: Bernard Spragg / CC0 1.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/88123769@N02/8657120528"
     },
     "t46vyc": {
+      "ai_summary": "FIFA projects the upcoming World Cup will yield at least $11 billion in profit for the organization. However, the economic advantages promised to host cities are often exaggerated, leaving many facing potential regrets after the tournament.",
       "title": "FIFA’s biggest World Cup may leave host cities with big regrets",
-      "t": 1781356143151,
+      "t": 1781392192488,
       "media_url": "https://live.staticflickr.com/4070/4547691850_12cdbe4b86.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: flowcomm / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/21162417@N07/4547691850"
     },
     "kukrtg": {
+      "ai_summary": "The term “Tokenpocalypse” hints at looming market turbulence as major AI companies move toward public offerings, which could push token prices higher. Investors should expect increased volatility and potential price spikes in the AI‑linked crypto space.",
       "title": "Is this the dawn of the Tokenpocalypse?",
-      "t": 1781356143316,
+      "t": 1781392194415,
       "media_url": "https://live.staticflickr.com/5350/30495671441_8ffef49d47_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: ITU Pictures / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/42121221@N07/30495671441"
     },
     "1eshetz": {
+      "ai_summary": "Canada and the European Union have begun allowing imports of Chinese electric vehicles this year, while the United States continues to enforce tariffs that restrict such imports. This contrast underscores a widening split in EV trade policy, with North America and Europe opening their markets to Chinese EVs as the U.S. holds back.",
       "title": "As the world embraces EVs, the U.S. hits the brakes",
-      "t": 1781356143343,
+      "t": 1781392206734,
       "media_url": "https://live.staticflickr.com/65535/54082026218_9e9c6e9e06_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: dalecruse / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/91873384@N04/54082026218"
     },
     "azwif8": {
+      "ai_summary": "Notion restored access to Anthropic following a service disruption, as confirmed by the company's head of product. He said he was astonished by the large number of people retweeting news of the outage.",
       "title": "Notion restores access to Anthropic after service disruption",
-      "t": 1781356143461,
+      "t": 1781392196580,
       "media_url": "https://live.staticflickr.com/65535/51918050245_2ac4e700b0_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: Wendelin Jacober / CC0 1.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/91619724@N04/51918050245"
     },
     "1hifglg": {
+      "ai_summary": "OpenAI remains engaged in building its proposed super app that aims to combine various functionalities. A senior OpenAI employee reportedly stated that chat is dead, indicating a potential move beyond traditional chat interfaces.",
       "title": "OpenAI is still working on that ‘super app’",
-      "t": 1781356143547,
+      "t": 1781392210418,
       "media_url": "https://live.staticflickr.com/65535/51917430076_f988efa3bd_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: Wendelin Jacober / CC0 1.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/91619724@N04/51917430076"
     },
     "1yrofai": {
+      "ai_summary": "In 2026, a massive DOGE data breach, coordinated hacks of critical energy and water systems, and an intrusion into an FBI surveillance system have ranked among the year’s most damaging security incidents. These attacks resulted in large‑scale data leaks, ransom demands, and threats to essential public services.",
       "title": "Hacked, leaked, and held for ransom: The worst breaches of 2026 so far",
-      "t": 1781356143738,
+      "t": 1781392202455,
       "media_url": "https://live.staticflickr.com/31/56919158_9c178af382_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: nedrichards / BY-SA 2.0 via flickr",
@@ -12643,8 +12737,9 @@
       "media_credit_url": "https://www.flickr.com/photos/52957117@N04/7604980870"
     },
     "g383ii": {
+      "ai_summary": "General Motors is committing $900 million to develop or expand its electric vehicle battery capabilities. The investment underscores GM's push to secure battery supply as it accelerates its EV transition.",
       "title": "TechCrunch Mobility: Inside GM’s $900M EV battery gamble",
-      "t": 1781356143792,
+      "t": 1781392198997,
       "media_url": "https://live.staticflickr.com/65535/52086929166_65c3981d07_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: TechCrunch / BY 2.0 via flickr",
@@ -13037,8 +13132,9 @@
       "media_credit_url": "https://www.flickr.com/photos/42121221@N07/30466646812"
     },
     "1b9jdwf": {
+      "ai_summary": "Researchers are uncovering how anorexia nervosa hijacks brain circuits, shedding light on why current treatments often fail. These insights could pave the way for novel therapies for the one‑third of patients who do not recover.",
       "title": "Understanding anorexia’s grip on the brain could unlock new therapies",
-      "t": 1781364076739,
+      "t": 1781392183060,
       "media_url": "https://live.staticflickr.com/3004/2656957748_4f4f1f3b20_m.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: tonynetone / BY 2.0 via flickr",
@@ -14553,6 +14649,240 @@
       "media_kind": "stock",
       "media_credit": "Photo: VC4Africa / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/67242643@N08/8032308486"
+    },
+    "1x2gful": {
+      "ai_summary": "Apple unveiled iOS 27 at WWDC, highlighting a suite of new Siri and Apple Intelligence features. The headline addition is a standalone Siri app that will appear on the iPhone Home Screen for the first time.",
+      "title": "iOS 27 adds an all-new app to your iPhone’s Home Screen",
+      "t": 1781392164521,
+      "media_url": "https://live.staticflickr.com/4066/4491013564_9291768c98_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: andrewkimmell / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/24231889@N02/4491013564"
+    },
+    "y9trzd": {
+      "ai_summary": "Ocean monitoring is deteriorating as the limited set of countries responsible for tracking deep‑sea ecosystems can no longer sustain the effort. Europe and Asia must choose whether to let the system fail or to jointly assume responsibility for maintaining it.",
+      "title": "Ocean monitoring is in trouble: It's up to Europe and Asia to avoid losing sight of the world's deep‑sea ecosystems",
+      "t": 1781392167416,
+      "media_url": "https://live.staticflickr.com/7278/7110180423_a316dc14de_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: NASA Goddard Photo and Video / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/24662369@N07/7110180423"
+    },
+    "pxmd3c": {
+      "ai_summary": "A Tesla operating on Autopilot crashed into a residential garage door in Redmond, Washington on Monday, with the driver saying the self‑driving mode malfunctioned before the impact. Police arrived around 11 AM, found the vehicle lodged inside the garage, and are investigating the incident, which resulted in no injuries.",
+      "title": "A Tesla on Autopilot swerved into someone’s garage door in Washington. Police are investigating.",
+      "t": 1781392169714,
+      "media_url": "https://live.staticflickr.com/4165/33486317634_84f3e6ae87_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/33486317634"
+    },
+    "ipj8p7": {
+      "ai_summary": "The article provides hints and the complete answer for the New York Times Connections puzzle #1099 published on Sunday, June 14. It also features the author's commentary on the puzzle's themes and difficulty.",
+      "title": "NYT Connections hints and answers for Sunday, June 14 (game #1099)",
+      "t": 1781392171226,
+      "media_url": "https://live.staticflickr.com/5329/9512594023_cc23848025_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: origamiguy1971 / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/94246383@N00/9512594023"
+    },
+    "15acj1b": {
+      "ai_summary": "Antonee Robinson was photographed on Instagram wearing unreleased two‑tone Beats over‑ear headphones during the World Cup. He joins several other players who have been spotted with the same unannounced gear.",
+      "title": "Antonee Robinson Shows Off Unreleased Two-Tone Beats Over-Ear Headphones at the World Cup",
+      "t": 1781392171511,
+      "media_url": "https://live.staticflickr.com/65535/48311529686_5dcd1b9dc4_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: suRANTo dwi saputra / CC0 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/125321218@N07/48311529686"
+    },
+    "i5ioj": {
+      "ai_summary": "The article provides hints and the solution for Quordle game #1602, played on Sunday, June 14. It also offers access to today's answers and an archive of past Quordle solutions.",
+      "title": "Quordle hints and answers for Sunday, June 14 (game #1602)",
+      "t": 1781392171731,
+      "media_url": "https://live.staticflickr.com/6032/5886243344_7b38de8dab_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Pink Poppy Photography / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/64620837@N05/5886243344"
+    },
+    "19i4e3k": {
+      "ai_summary": "The article offers hints and the complete answer for the New York Times Strands puzzle released on Sunday, June 14 (game #833). It also discloses the spangram to assist solvers in finishing the grid.",
+      "title": "NYT Strands hints and answers for Sunday, June 14 (game #833)",
+      "t": 1781392171933,
+      "media_url": "https://live.staticflickr.com/5014/5555966978_bb3029ca5a_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Patrick Hoesly / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/60057912@N00/5555966978"
+    },
+    "s3qns7": {
+      "ai_summary": "AirPods Pro 3 are now available for $179 shipped, their lowest price ever. Apple also announced upcoming iOS 27 features for the AirPods Pro 3.",
+      "title": "AirPods Pro 3 are getting even better with iOS 27, order them today at their lowest price ever",
+      "t": 1781392174617,
+      "media_url": "https://live.staticflickr.com/8150/7228296854_9192f9294f_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Rockspindeln / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/53030568@N07/7228296854"
+    },
+    "1ntqpue": {
+      "ai_summary": "Former OpenAI CTO Mira Murati said some creative jobs might disappear, suggesting they perhaps shouldn't have existed. She noted that OpenAI, driving major technological shifts, could eliminate many positions in the creative industries.",
+      "title": "'Some creative jobs maybe will go away, but maybe they shouldn't have been there in the first place' - quote of the day by ex-OpenAI CTO Mira Murati",
+      "t": 1781392177494,
+      "media_url": "https://live.staticflickr.com/3668/9104641893_52e55e459d_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Eva Rinaldi Celebrity Photographer / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/58820009@N05/9104641893"
+    },
+    "115corg": {
+      "ai_summary": "Several wearables now offer up to seven days of battery life, far exceeding the Apple Watch’s typical two‑day runtime while providing many of its core features. These alternatives give users longer endurance without sacrificing essential smartwatch functionality.",
+      "title": "Apple Watch alternatives that will last for 7 days on a charge",
+      "t": 1781392178544,
+      "media_url": "https://live.staticflickr.com/3822/13765650794_b11e102be6_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: z3d.at / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/72173649@N02/13765650794"
+    },
+    "1azgpyl": {
+      "title": "IEEE President’s Note: Designing a Safer Digital World for Kids",
+      "t": 1781392214140,
+      "media_url": "https://live.staticflickr.com/5333/17890670699_94aaaa020b_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: ITU Pictures / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/42121221@N07/17890670699"
+    },
+    "bxv39w": {
+      "title": "India’s AI deal with the UAE challenges U.S. cloud dominance",
+      "t": 1781392214491,
+      "media_url": "https://live.staticflickr.com/3344/3552090794_da6a624f4b_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/3552090794"
+    },
+    "knvw1i": {
+      "title": "Why Sardinians Are Fighting the Renewable Energy Transition",
+      "t": 1781392214526,
+      "media_url": "https://live.staticflickr.com/5015/5540065930_7e7d59c95b_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: kevin dooley / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/12836528@N00/5540065930"
+    },
+    "1yx1sf7": {
+      "title": "Poetry for Engineers: Cyborg Laboratory",
+      "t": 1781392215097,
+      "media_url": "https://live.staticflickr.com/1569/24585192686_2692b3fcbc_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: National Institutes of Health (NIH) / CC0 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/132318516@N08/24585192686"
+    },
+    "18pvc7p": {
+      "title": "This DIY Bipedal Robot Used Pneumatic “Air-Muscles” Instead of Motors",
+      "t": 1781392215154,
+      "media_url": "https://live.staticflickr.com/766/22666348397_570b35b940_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Jack at Wikipedia / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/11495326@N00/22666348397"
+    },
+    "hz4d9z": {
+      "title": "Pope’s encyclical raises questions on who gets to shape AI",
+      "t": 1781392215589,
+      "media_url": "https://live.staticflickr.com/7458/8810446747_bfb5cc3dbf_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/8810446747"
+    },
+    "1gwmpxg": {
+      "title": "A New Era of Discovery: Google Research at I/O 2026",
+      "t": 1781392215637,
+      "media_url": "https://live.staticflickr.com/3270/2884363626_da025bcc84_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/2884363626"
+    },
+    "k4aci3": {
+      "title": "Make a Soft Digital Clock Tick With Millifluidics",
+      "t": 1781392215943,
+      "media_url": "https://live.staticflickr.com/3247/3049090875_ca8ea21514_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: oomlout / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/33504192@N00/3049090875"
+    },
+    "1fzavws": {
+      "title": "Finding Success in Industry as a Chip Designer",
+      "t": 1781392216026,
+      "media_url": "https://live.staticflickr.com/5307/13945057356_dbe7f21938_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: HALDANE MARTIN / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/52634191@N08/13945057356"
+    },
+    "3gb1so": {
+      "title": "South Africa Has AI Leverage. Its Draft Policy Leaves It Unused",
+      "t": 1781392216271,
+      "media_url": "https://live.staticflickr.com/65535/54135465116_28b7e431a5_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: quinet / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/91994044@N00/54135465116"
+    },
+    "hawuk6": {
+      "title": "What It Takes to Preserve Floppy Disks",
+      "t": 1781392216433,
+      "media_url": "https://live.staticflickr.com/3538/3325069387_78f19f029f_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: army.arch / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45923298@N00/3325069387"
+    },
+    "3ssawn": {
+      "title": "Reclaiming Social Engineering for Good",
+      "t": 1781392216680,
+      "media_url": "https://live.staticflickr.com/8493/29146173342_b51a211476_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: exit78 / PDM 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/28826830@N00/29146173342"
+    },
+    "1mslpaf": {
+      "title": "Meet NASA Low Outgassing Standards With Adhesives for Aerospace and Optical Systems",
+      "t": 1781392216873,
+      "media_url": "https://live.staticflickr.com/7567/16168086491_a97b34fedf_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: ehud42 / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/39634010@N02/16168086491"
+    },
+    "oa_1xllq73": {
+      "title": "Paper 6 — Multi-Layer Cross Verification in the AGI Era: Role Feasibility, Output Reference, and Pre-Transaction Validation",
+      "t": 1781392217203,
+      "media_url": "https://live.staticflickr.com/8163/7275640430_a23974bcc0_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Tim Evanson / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/23165290@N00/7275640430"
+    },
+    "oa_1xm87i1": {
+      "title": "Paper 1 - BIFACE-Based Sentence Coordinate Documents: Human-Readable Surfaces and AI+AGI-Referable Coordinates Across Documents, Code, Media, and Conversations",
+      "t": 1781392217486,
+      "media_url": "https://live.staticflickr.com/5483/14592386702_f46453e246_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: michaelseangallagher / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/13518023@N03/14592386702"
+    },
+    "oa_1xlkxvh": {
+      "title": "Paper 10 — Consent and Order Candidate Layers in the AGI Era: Non-Executable Action Candidates Before Human Discretion",
+      "t": 1781392217488,
+      "media_url": "https://live.staticflickr.com/6137/6012439650_99bee9908d_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: NWABR / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/64704683@N04/6012439650"
+    },
+    "1vgc8dw": {
+      "title": "Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery",
+      "t": 1781392217744,
+      "media_url": "https://live.staticflickr.com/7839/47526896391_decc8b79cd_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Ken Lund / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/75683070@N00/47526896391"
+    },
+    "1o28agr": {
+      "title": "Fast-tracking genetic leads to reverse cellular aging",
+      "t": 1781392218002,
+      "media_url": "https://live.staticflickr.com/4410/37187233172_771439fd13_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/37187233172"
     }
   }
 }
