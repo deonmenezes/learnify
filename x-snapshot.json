@@ -1,16 +1,100 @@
 {
-  "generated_at": "2026-06-12T22:29:49.460Z",
+  "generated_at": "2026-06-13T00:07:22.560Z",
   "handles": [
     "AnthropicAI",
+    "claudeai",
     "OpenAI",
     "nvidia",
     "GoogleDeepMind",
-    "demishassabis",
-    "claudeai",
-    "gdb"
+    "NVIDIAAI",
+    "demishassabis"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2065543509478670375",
+      "title": "The first agentic AI infrastructure benchmark is here. An AI agent chains dozens to hundreds of AI model calls together, using tools, gathering context, and iterating until the task is done. Existing…",
+      "link": "https://x.com/nvidia/status/2065543509478670375",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-12T21:15:23.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Research"
+      ],
+      "summary": "The first agentic AI infrastructure benchmark is here. An AI agent chains dozens to hundreds of AI model calls together, using tools, gathering context, and iterating until the task is done. Existing benchmarks weren't designed for that. AgentPerf from @ArtificialAnlys gives",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 89,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (model, agent, benchmark)"
+      ],
+      "metrics": {
+        "likes": 218,
+        "retweets": 30,
+        "replies": 26,
+        "likes_h": "218"
+      },
+      "engagement": 304,
+      "hot": false
+    },
+    {
+      "id": "x_2065519514603647403",
+      "title": "Huge congratulations to the @SpaceX team on a historic IPO debut. Fueling the next frontier of space and AI. 🌌 NVIDIA's partnership with SpaceX spans nearly a decade, from hand-delivering the…",
+      "link": "https://x.com/nvidia/status/2065519514603647403",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-12T19:40:02.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Funding & deals",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Funding & deals",
+        "NVIDIADGX"
+      ],
+      "summary": "Huge congratulations to the @SpaceX team on a historic IPO debut. Fueling the next frontier of space and AI. 🌌 NVIDIA's partnership with SpaceX spans nearly a decade, from hand-delivering the world's first #NVIDIADGX-1 supercomputer in 2016 to the custom DGX Spark handoff at",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 100,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "casual tone (congratulations)",
+        "announcement language (debut)",
+        "business signal (ipo, partnership, ipo)",
+        "high engagement (7.7K likes)"
+      ],
+      "metrics": {
+        "likes": 7718,
+        "retweets": 634,
+        "replies": 213,
+        "likes_h": "7.7K"
+      },
+      "engagement": 9199,
+      "hot": true
+    },
     {
       "id": "x_2065494342043685095",
       "title": "Looking back at these clips from GTC Taipei and reminiscing on what an incredible week it was. There’s nothing quite like the buzz of the tech community coming together in person. From the packed…",
@@ -35,7 +119,7 @@
       "summary": "Looking back at these clips from GTC Taipei and reminiscing on what an incredible week it was. There’s nothing quite like the buzz of the tech community coming together in person. From the packed keynote hall and cutting-edge robotics to the fun local activations (and yes, those",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 58,
+      "worthiness_score": 61,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -44,12 +128,12 @@
         "tech substance (robotics)"
       ],
       "metrics": {
-        "likes": 54,
-        "retweets": 6,
-        "replies": 10,
-        "likes_h": "54"
+        "likes": 158,
+        "retweets": 28,
+        "replies": 16,
+        "likes_h": "158"
       },
-      "engagement": 76,
+      "engagement": 230,
       "hot": false
     },
     {
@@ -76,7 +160,7 @@
       "summary": "What if compliance wasn't the reason your AI initiative never made it past the pilot stage? 🔒 NVIDIA AI Enterprise's government-ready software gives teams around the world a secure, production-ready foundation — so they can focus on deploying AI, not managing vulnerabilities.",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 76,
+      "worthiness_score": 77,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -84,12 +168,12 @@
         "business signal (enterprise)"
       ],
       "metrics": {
-        "likes": 96,
-        "retweets": 16,
-        "replies": 14,
-        "likes_h": "96"
+        "likes": 153,
+        "retweets": 20,
+        "replies": 19,
+        "likes_h": "153"
       },
-      "engagement": 142,
+      "engagement": 212,
       "hot": false
     },
     {
@@ -116,7 +200,7 @@
       "summary": "Our Robotics Accelerator has launched with 15 startups helping shape the future of physical AI in Europe. 🤖 This three-month program will connect them with access to our AI stack, Gemini Robotics models and hands-on support from our teams. Meet the companies →",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 94,
+      "worthiness_score": 95,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -126,12 +210,12 @@
         "tech substance (models, gemini, robotics)"
       ],
       "metrics": {
-        "likes": 249,
-        "retweets": 34,
-        "replies": 31,
-        "likes_h": "249"
+        "likes": 298,
+        "retweets": 42,
+        "replies": 37,
+        "likes_h": "298"
       },
-      "engagement": 348,
+      "engagement": 419,
       "hot": false
     },
     {
@@ -164,15 +248,15 @@
       "reasons": [
         "report-worthy",
         "announcement language (rolling out, starting today)",
-        "high engagement (20.2K likes)"
+        "high engagement (20.4K likes)"
       ],
       "metrics": {
-        "likes": 20225,
-        "retweets": 1606,
-        "replies": 1156,
-        "likes_h": "20.2K"
+        "likes": 20355,
+        "retweets": 1614,
+        "replies": 1162,
+        "likes_h": "20.4K"
       },
-      "engagement": 24593,
+      "engagement": 24745,
       "hot": true
     },
     {
@@ -207,12 +291,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 147,
+        "likes": 152,
         "retweets": 13,
-        "replies": 12,
-        "likes_h": "147"
+        "replies": 13,
+        "likes_h": "152"
       },
-      "engagement": 185,
+      "engagement": 191,
       "hot": false
     },
     {
@@ -246,12 +330,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 154,
+        "likes": 156,
         "retweets": 15,
         "replies": 19,
-        "likes_h": "154"
+        "likes_h": "156"
       },
-      "engagement": 203,
+      "engagement": 205,
       "hot": false
     },
     {
@@ -323,16 +407,16 @@
       "sentiment_score": 0.5,
       "reasons": [
         "report-worthy",
-        "high engagement (3K likes)"
+        "high engagement (3.1K likes)"
       ],
       "metrics": {
-        "likes": 3029,
-        "retweets": 333,
-        "replies": 97,
-        "likes_h": "3K"
+        "likes": 3146,
+        "retweets": 343,
+        "replies": 101,
+        "likes_h": "3.1K"
       },
-      "engagement": 3792,
-      "hot": true
+      "engagement": 3933,
+      "hot": false
     },
     {
       "id": "x_2065057393927467084",
@@ -369,12 +453,12 @@
         "high engagement (6.3K likes)"
       ],
       "metrics": {
-        "likes": 6288,
-        "retweets": 646,
-        "replies": 494,
+        "likes": 6304,
+        "retweets": 647,
+        "replies": 496,
         "likes_h": "6.3K"
       },
-      "engagement": 8074,
+      "engagement": 8094,
       "hot": true
     },
     {
@@ -411,12 +495,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 441,
-        "retweets": 89,
-        "replies": 79,
-        "likes_h": "441"
+        "likes": 453,
+        "retweets": 91,
+        "replies": 83,
+        "likes_h": "453"
       },
-      "engagement": 698,
+      "engagement": 718,
       "hot": false
     },
     {
@@ -617,12 +701,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 312,
+        "likes": 314,
         "retweets": 18,
         "replies": 24,
-        "likes_h": "312"
+        "likes_h": "314"
       },
-      "engagement": 372,
+      "engagement": 374,
       "hot": false
     },
     {
@@ -746,10 +830,10 @@
       "metrics": {
         "likes": 5381,
         "retweets": 438,
-        "replies": 410,
+        "replies": 411,
         "likes_h": "5.4K"
       },
-      "engagement": 6667,
+      "engagement": 6668,
       "hot": true
     },
     {
@@ -908,12 +992,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 2341,
+        "likes": 2344,
         "retweets": 256,
         "replies": 108,
         "likes_h": "2.3K"
       },
-      "engagement": 2961,
+      "engagement": 2964,
       "hot": false
     },
     {
@@ -1033,12 +1117,12 @@
         "high engagement (104K likes)"
       ],
       "metrics": {
-        "likes": 103971,
-        "retweets": 14480,
-        "replies": 4934,
+        "likes": 104048,
+        "retweets": 14485,
+        "replies": 4949,
         "likes_h": "104K"
       },
-      "engagement": 137865,
+      "engagement": 137967,
       "hot": true
     },
     {
@@ -1113,15 +1197,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (model, gemini)",
-        "high engagement (956 likes)"
+        "high engagement (957 likes)"
       ],
       "metrics": {
-        "likes": 956,
+        "likes": 957,
         "retweets": 122,
         "replies": 69,
-        "likes_h": "956"
+        "likes_h": "957"
       },
-      "engagement": 1269,
+      "engagement": 1270,
       "hot": false
     },
     {
@@ -1247,86 +1331,6 @@
       },
       "engagement": 4914,
       "hot": true
-    },
-    {
-      "id": "x_2063874342203650113",
-      "title": "The next generation of AI builders brought the energy. 🦞 Jensen stopped by @SeoulNatlUni for a Build-a-Claw pop-up, packed with students, developers, and AI researchers building intelligent agents…",
-      "link": "https://x.com/nvidia/status/2063874342203650113",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-08T06:42:42.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product"
-      ],
-      "summary": "The next generation of AI builders brought the energy. 🦞 Jensen stopped by @SeoulNatlUni for a Build-a-Claw pop-up, packed with students, developers, and AI researchers building intelligent agents from the ground up.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 76,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (agents)"
-      ],
-      "metrics": {
-        "likes": 423,
-        "retweets": 56,
-        "replies": 43,
-        "likes_h": "423"
-      },
-      "engagement": 578,
-      "hot": false
-    },
-    {
-      "id": "x_2063705280270021087",
-      "title": "Codex use-cases: “From software engineering and design to data analysis and operations, Codex is becoming an AI teammate instead of just an AI assistant.”",
-      "link": "https://x.com/gdb/status/2063705280270021087",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Greg Brockman · @gdb",
-      "handle": "gdb",
-      "org": "OpenAI",
-      "published": "2026-06-07T19:30:55.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Commentary"
-      ],
-      "summary": "Codex use-cases: “From software engineering and design to data analysis and operations, Codex is becoming an AI teammate instead of just an AI assistant.”",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 56,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "high engagement (1.3K likes)"
-      ],
-      "metrics": {
-        "likes": 1262,
-        "retweets": 94,
-        "replies": 136,
-        "likes_h": "1.3K"
-      },
-      "engagement": 1586,
-      "hot": false
     }
   ]
 }
