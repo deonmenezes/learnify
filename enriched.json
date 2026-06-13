@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-13T11:19:54.516Z",
+  "generated_at": "2026-06-13T13:09:04.373Z",
   "model": "nvidia/nemotron-3-super-120b-a12b",
-  "count": 1401,
+  "count": 1449,
   "items": {
     "1lhf9ld": {
       "ai_summary": "MassMutual is adopting 12‑month AI contracts that deliver roughly 30% productivity gains while avoiding vendor lock‑in, allowing models to be swapped as the market evolves. CIO Sears Merritt says the approach prevents long‑term bets on today’s best models, which may not remain optimal a year later.",
@@ -523,7 +523,11 @@
     "b07dm1": {
       "title": "Heat breaks the rules at the nanoscale and scientists used it to their advantage",
       "t": 1781113528355,
-      "image": "https://www.sciencedaily.com/images/1920/metamaterials-cooling-for-chips.webp"
+      "image": "https://www.sciencedaily.com/images/1920/metamaterials-cooling-for-chips.webp",
+      "media_url": "https://live.staticflickr.com/3884/14251619410_67047b0448.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: NASA Goddard Photo and Video / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/24662369@N07/14251619410"
     },
     "1exjgoc": {
       "title": "A tiny atomic shift gives scientists powerful control over metals",
@@ -543,7 +547,11 @@
     "12jwbbj": {
       "title": "Scientists finally complete Schrödinger’s 100-year-old color theory",
       "t": 1781113528524,
-      "image": "https://www.sciencedaily.com/images/1920/color-perception-experiment.webp"
+      "image": "https://www.sciencedaily.com/images/1920/color-perception-experiment.webp",
+      "media_url": "https://live.staticflickr.com/3549/3831297210_62bdb31193_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: CthulhuWho1 (Will Hart) / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/41340252@N08/3831297210"
     },
     "1v08nyp": {
       "title": "Are AI chatbots making us lose control of our brains?",
@@ -3787,8 +3795,9 @@
       "media_credit_url": "https://www.flickr.com/photos/21678559@N06/11581752686"
     },
     "1keodim": {
+      "ai_summary": "GitHub announced that npm version 12 will disable install scripts by default, a breaking change designed to thwart supply‑chain attacks. The move blocks malicious code from being executed during npm lifecycle events such as \"install\".",
       "title": "GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks",
-      "t": 1781171617632,
+      "t": 1781356103951,
       "media_url": "https://live.staticflickr.com/5140/5428495287_68463a85ec_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: followtheseinstructions / BY-SA 2.0 via flickr",
@@ -4397,21 +4406,22 @@
       "media_url": "https://live.staticflickr.com/6233/6385413439_8120f08e65_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: NASA Goddard Photo and Video / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/24662369@N07/6385413439"
+      "media_credit_url": "https://www.flickr.com/photos/24662369@N07/6385413439",
+      "image": "https://www.sciencedaily.com/images/1920/rice-petri-dish-gmo-science.webp"
     },
     "1byz2ek": {
+      "ai_summary": "Google DeepMind is funding research to study the potential dangers that could arise when millions of AI agents interact online without human oversight. AGI safety lead Rohin Shah warns that the imminent mass‑market deployment of autonomous task‑performing agents heightens these risks.",
       "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
-      "t": 1781186763747,
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/corralling-agents.jpg?resize=1200,600",
+      "t": 1781356080006,
       "media_url": "https://live.staticflickr.com/4574/25047577618_06a9861301_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/25047577618"
     },
     "1nbu18d": {
+      "ai_summary": "Tim Cernak, a chemist who spent nearly two decades at Merck creating precision therapies for cancer, HIV, and diabetes, began shifting in 2018 toward nature‑inspired drug design. His transition highlights a growing trend of pharmaceutical scientists leveraging natural compounds to develop future therapeutics.",
       "title": "Job titles of the future: Nature’s drug designer",
-      "t": 1781186763747,
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/jobs-nature-drugs-thumb.jpg?resize=1200,600",
+      "t": 1781356111404,
       "media_url": "https://live.staticflickr.com/964/41790551372_46bfc0f9f7_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: ASU English Department / BY 2.0 via flickr",
@@ -4427,18 +4437,18 @@
       "media_credit_url": "https://www.flickr.com/photos/53255320@N07/6637727009"
     },
     "n66jwi": {
+      "ai_summary": "China has rapidly expanded its nuclear power fleet, nearly doubling capacity since 2016 to almost 60 GW, driven by a wave of gigawatt‑scale pressurized‑water reactors. Meanwhile, the United States' nuclear trajectory differs markedly.",
       "title": "Why China is betting on big nuclear reactors",
-      "t": 1781186763747,
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/AP25249306493046.jpg?resize=1200,600",
+      "t": 1781356093925,
       "media_url": "https://live.staticflickr.com/2792/4538083341_7ae99b218d_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: eutrophication&hypoxia / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/48722974@N07/4538083341"
     },
     "1yoqycp": {
+      "ai_summary": "Transfer learning can accelerate the search for new physics by reducing the need for costly simulations. However, over-reliance on familiar patterns may cause AI to overlook genuinely novel phenomena.",
       "title": "AI could uncover new physics faster but there’s a surprising catch",
-      "t": 1781186763747,
-      "image": "https://www.sciencedaily.com/images/1920/quijote-simulations.webp",
+      "t": 1781356099142,
       "media_url": "https://live.staticflickr.com/65535/50060710938_84240beecc_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: europeanspaceagency / BY 2.0 via flickr",
@@ -7275,24 +7285,27 @@
       "media_credit_url": "https://www.flickr.com/photos/31442459@N00/23900274051"
     },
     "1r8drmb": {
+      "ai_summary": "Anthropic has partnered with Tata Consultancy Services to scale its enterprise AI deployments. TCS will create a dedicated business unit to deploy Anthropic’s AI models for its customers.",
       "title": "Anthropic taps TCS to scale its enterprise AI deployments",
-      "t": 1781241493074,
+      "t": 1781356076791,
       "media_url": "https://live.staticflickr.com/8515/8389766696_1d49a7ba54_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: JD Hancock / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/83346641@N00/8389766696"
     },
     "1dzw1ur": {
+      "ai_summary": "AI has narrowed the gap between vulnerability discovery and weaponization, eroding the buffer that traditional vulnerability management relied on. As a result, CISOs are shifting budget toward breach and attack simulation (BAS) solutions to maintain security effectiveness.",
       "title": "AI Broke Vulnerability Management. That's Why CISOs Are Moving Budget to BAS.",
-      "t": 1781241493434,
+      "t": 1781356075689,
       "media_url": "https://live.staticflickr.com/5566/14626249654_06e73a3547_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: Scott 97006 / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/29487672@N07/14626249654"
     },
     "x_2065031279213441309": {
+      "ai_summary": "A new $10 million research fund has been launched to study emergent collective behaviors of AI agents. The initiative is backed by Schmidt Sciences, Coop AI, ARIA Research and Google.org.",
       "title": "When millions of AI agents interact with each other, new collective behaviors can emerge. 🌐 Together with @schmidtsciences, @coop_ai, @ARIA_research and supported by @GoogleOrg, we’re launching a…",
-      "t": 1781241493699,
+      "t": 1781356080568,
       "media_url": "https://live.staticflickr.com/3892/15173335507_14338f691e_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: NASA Goddard Photo and Video / BY 2.0 via flickr",
@@ -7684,8 +7697,9 @@
       "media_credit_url": "https://www.flickr.com/photos/7655955@N07/6016835558"
     },
     "2iqjv7": {
+      "ai_summary": "Steven Spielberg’s new extraterrestrial film Disclosure Day has just been released. Film columnist Bethan Ackerley recommends watching Close Encounters of the Third Kind beforehand as the ideal UFO film to see before Disclosure Day.",
       "title": "The one film to watch before seeing Steven Spielberg’s Disclosure Day",
-      "t": 1781257612788,
+      "t": 1781356082961,
       "media_url": "https://live.staticflickr.com/287/18013449674_4c5da17298_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: Felix Berndt Photography / BY 2.0 via flickr",
@@ -7700,8 +7714,9 @@
       "media_credit_url": "https://www.flickr.com/photos/65265630@N03/10289807426"
     },
     "hybqo9": {
+      "ai_summary": "Archaeologists uncovered a rare 10th‑century burial in southern Russia containing a woman, a newborn child, and the complete skin of an adult horse. The find offers unusual insight into medieval Siberian funerary practices.",
       "title": "Complete skin of an adult horse found with 10th-century woman and newborn in rare Siberian burial",
-      "t": 1781257612949,
+      "t": 1781356087729,
       "media_url": "https://live.staticflickr.com/2811/11962741014_a34f4f980e_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: summonedbyfells / BY 2.0 via flickr",
@@ -8886,7 +8901,8 @@
       "media_url": "https://live.staticflickr.com/3777/10813661054_709581b384_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: Open Science / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/97963478@N06/10813661054"
+      "media_credit_url": "https://www.flickr.com/photos/97963478@N06/10813661054",
+      "image": "https://www.sciencedaily.com/images/1920/nonreciprocal-quantum-synchronization.webp"
     },
     "1xcuj33": {
       "title": "European sunscreens are safer than American (2024)",
@@ -10669,16 +10685,18 @@
       "media_credit_url": "https://www.flickr.com/photos/9032130@N03/5809917634"
     },
     "1280c5h": {
+      "ai_summary": "OceanLotus, a Vietnam‑aligned threat actor, deployed the SPECTRALVIPER backdoor in two separate campaigns that hit domestic entities and stock investors. The attacks are part of a prolonged cyber‑espionage effort focusing on Vietnam’s infrastructure and transport construction sectors.",
       "title": "OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack",
-      "t": 1781303270763,
+      "t": 1781356097397,
       "media_url": "https://live.staticflickr.com/3679/13856199984_4667251db8_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: aag_photos / BY-SA 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/120360673@N04/13856199984"
     },
     "1k73m2c": {
+      "ai_summary": "A Chinese state‑backed satellite firm is assembling a rival low‑Earth‑orbit constellation, securing partnerships and government deals that SpaceX’s Starlink has struggled to retain. The move comes just days ahead of SpaceX’s anticipated public listing, positioning China as a direct competitor in the global broadband‑from‑space market.",
       "title": "China builds a rival satellite constellation as SpaceX goes public",
-      "t": 1781303270785,
+      "t": 1781356097583,
       "media_url": "https://live.staticflickr.com/2042/2349490274_ba0c9b1379_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: Wonderlane / BY 2.0 via flickr",
@@ -10693,8 +10711,9 @@
       "media_credit_url": "https://www.flickr.com/photos/83346641@N00/3500203823"
     },
     "x_2064873362799600042": {
+      "ai_summary": "DiffusionGemma is a text‑diffusion model that runs four times faster than other Gemma 4 models. The speed improvement was achieved by the team led by @bodonoghue85, opening the door for quicker text generation applications.",
       "title": "Awesome to see this innovation in text diffusion. DiffusionGemma is lightning fast, 4x faster than other Gemma 4 models! Congrats to @bodonoghue85 and the team who worked so hard on this - excited to…",
-      "t": 1781303270919,
+      "t": 1781356102487,
       "media_url": "https://live.staticflickr.com/3626/3500203823_4786c69c4b_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: JD Hancock / BY 2.0 via flickr",
@@ -10709,8 +10728,9 @@
       "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/13939682899"
     },
     "x_2064783424251101553": {
+      "ai_summary": "Tomorrow, a $150 million national fellowship program will launch to support early‑career professionals in extending AI benefits. The initiative aims to bring AI advantages to communities across America.",
       "title": "And tomorrow, we’ll launch a $150 million national fellowship program designed to help people early in their careers extend the benefits of AI to communities across America.",
-      "t": 1781303271089,
+      "t": 1781356103850,
       "media_url": "https://live.staticflickr.com/1911/45454897241_5cec0b7a51_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: europeanspaceagency / BY-SA 2.0 via flickr",
@@ -11629,7 +11649,8 @@
       "media_url": "https://live.staticflickr.com/2681/4140950940_186aec55ba.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950940"
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950940",
+      "image": "https://blog.unitedheroes.net/JRS_128x128.jpg"
     },
     "x_2064056027947934209": {
       "title": "Transaction foundation models transform raw data into intelligence, trained on billions of financial events — payments, transfers and behavioral signals. Financial institutions, like @Revolut and…",
@@ -11970,8 +11991,9 @@
       "media_credit_url": "https://www.flickr.com/photos/42121221@N07/33721186053"
     },
     "1iv6ftj": {
+      "ai_summary": "EcoFlow's PowerOcean home battery reportedly cuts electricity bills by up to half by storing solar energy and supplying power during outages. It is marketed as a versatile option for lowering energy costs, storing solar power, and providing backup power.",
       "title": "EcoFlow PowerOcean Battery Review: Cutting My Bill in Half",
-      "t": 1781349583245,
+      "t": 1781356063884,
       "media_url": "https://live.staticflickr.com/6189/6153576072_945ae3122a_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: cdamian / BY-SA 2.0 via flickr",
@@ -12096,6 +12118,425 @@
       "media_kind": "stock",
       "media_credit": "Photo: g4ll4is / BY-SA 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/77281252@N02/8521624548"
+    },
+    "1f8mogn": {
+      "ai_summary": "KPMG released a paper last year outlining the benefits of AI. An investigation later determined that the report contained numerous AI-generated hallucinations.",
+      "title": "A report on the benefits of AI was reportedly full of AI hallucinations",
+      "t": 1781355990688,
+      "media_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Scores_benchmarks_intelligences_artificielles_2024.png",
+      "media_kind": "stock",
+      "media_credit": "Photo: Y. Bengio, S. Mindermann, D. Privitera, T. Besiroglu, R. Bommasani, S. Casper, Y. Choi, P. Fox, B. Garfinkel, D. Goldfarb, H. Heidari, A. Ho, S. Kapoor, L. Khalatbari, S. Longpre, S. Manning, V. Mavroudis, M. Mazeika, J. Michael, J. Newman, K. Y. Ng, C. T. Okolo, D. Raji, G. Sastry, E. Seger, T. Skeadas, T. South, E. Strubell, F. Tramèr, L. Velasco, N. Wheeler, D. Acemoglu, O. Adekanmbi, D. Dalrymple, T. G. Dietterich, P. Fung, P.-O. Gourinchas, F. Heintz, G. Hinton, N. Jennings, A. Krause, S. Leavy, P. Liang, T. Ludermir, V. Marda, H. Margetts, J. McDermid, J. Munga, A. Narayanan, A. Nelson, C. Neppel, A. Oh, G. Ramchurn, S. Russell, M. Schaake, B. Schölkopf, D. Song, A. Soto, L. Tiedrich, G. Varoquaux, E. W. Felten, A. Yao, Y.-Q. Zhang, O. Ajala, F. Albalawi, M. Alserkal, G. Avrin, C. Busch, A. C. P. de L. F. de Carvalho, B. Fox, A. S. Gill, A. H. Hatip, J. Heikkilä, C. Johnson, G. Jolly, Z. Katzir, S. M. Khan, H. Kitano, A. Krüger, K. M. Lee, D. V. Ligot, J. R. López Portillo, D., O. Molchanovskyi, A. Monti, N. Mwamanzi, M. Nemer, N. Oliver, R. Pezoa Rivera, B. Ravindran, H. Riza, C. Rugege, C. Seoighe, H. Sheikh, J. Sheehan, D. Wong, Y. Zeng, in “International AI Safety Report” (DSIT 2025/001, 2025); https://www.gov.uk/government/publications/international-ai-safety-report-2025 / BY 4.0 via wikimedia",
+      "media_credit_url": "https://commons.wikimedia.org/w/index.php?curid=168309527"
+    },
+    "1k9v7nt": {
+      "ai_summary": "NASA's experimental X-59 jet, developed with Lockheed Martin, broke the sound barrier for the first time, reaching Mach 1.1. This milestone advances the agency's goal of demonstrating quiet supersonic flight technology.",
+      "title": "NASA's experimental X-59 jet breaks sound barrier for 1st time in step toward 'quiet supersonic' technology",
+      "t": 1781355990823,
+      "media_url": "https://live.staticflickr.com/8326/8410701337_da3a11c113_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: NASA Goddard Photo and Video / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/24662369@N07/8410701337"
+    },
+    "n5xfv4": {
+      "ai_summary": "The piece challenges readers to take a Yellowstone trivia quiz to see if they can score above 50%. It notes that while newer shows like Dutton Ranch and Marshals carry on the legacy, the original Taylor Sheridan series remains the benchmark for fans.",
+      "title": "Think you know your Dutton Ranch from your Marshals? I bet you can't even score 50% on my ultimate Yellowstone trivia quiz",
+      "t": 1781355992038,
+      "media_url": "https://live.staticflickr.com/3283/2650321366_4767068b17_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: yowie#82 / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/27473075@N03/2650321366"
+    },
+    "aesqjx": {
+      "ai_summary": "Divers filming ghost‑net removal captured an adult great white shark near a shipwreck between Tunisia and Sicily, drawing worldwide attention. The sighting highlighted surprise at seeing a great white in the Mediterranean, underscoring its rarity there.",
+      "title": "The Ghosts of the Mediterranean: What a rare great white shark sighting could reveal about a changing ocean",
+      "t": 1781355994964,
+      "media_url": "https://live.staticflickr.com/4298/36027886886_f4a02e79a0_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Gary Lee Todd, Ph.D. / CC0 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/101561334@N08/36027886886"
+    },
+    "12b7lo5": {
+      "ai_summary": "Chrome on Android includes three hidden settings that can noticeably improve browsing speed when enabled. These options are readily accessible within the browser's settings menu.",
+      "title": "3 hidden Chrome settings that instantly speed up Android browsing",
+      "t": 1781355999706,
+      "media_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Google_chrome_Maximized_screen_vista.png",
+      "media_kind": "stock",
+      "media_credit": "Photo: Google / BY-SA 4.0 via wikimedia",
+      "media_credit_url": "https://commons.wikimedia.org/w/index.php?curid=9023705"
+    },
+    "d6wc5x": {
+      "ai_summary": "The US government issued an export‑control directive ordering Anthropic to suspend foreign‑national access to its Claude Fable 5 and Claude Mythos 5 models for national‑security reasons. Anthropic complied by blocking all public access to those models.",
+      "title": "Anthropic blocks all public access to Claude Fable 5, Mythos 5 following US government order — what enterprises should do",
+      "t": 1781356002055,
+      "media_url": "https://live.staticflickr.com/5076/6938633224_dac07fee9c_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: MDGovpics / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/64018555@N03/6938633224"
+    },
+    "i9kp1n": {
+      "ai_summary": "The excerpt does not contain specific details about AI and jobs. Therefore a factual summary cannot be provided.",
+      "title": "Thoughts on AI and Jobs",
+      "t": 1781356002836,
+      "image": "https://substackcdn.com/image/fetch/$s_!xb1D!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F279a249a-f0e2-4016-b9d4-b87b4b384736_2752x1536.jpeg",
+      "media_url": "https://live.staticflickr.com/1061/686562697_5d86ba6d67.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Wesley Clouden / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/40622964@N00/686562697"
+    },
+    "a5lf1q": {
+      "ai_summary": "Nvidia has raised the price of its RTX Pro 6000 Blackwell GPU to $13,250, marking a 55% increase over the card's original MSRP within a year. Partner‑branded versions of the same card now start at $11,359.99.",
+      "title": "Nvidia raises RTX Pro 6000 Blackwell GPU pricing to $13,250 — 55% increase over MSRP in a year's time",
+      "t": 1781356004583,
+      "media_url": "https://live.staticflickr.com/4917/45786862842_6aae404e0c_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: FritzchensFritz / CC0 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/130561288@N04/45786862842"
+    },
+    "1pn7ar": {
+      "ai_summary": "Many Pixel owners have reported unusually slow charging, which appears to be caused by a Google-imposed charging limit. Adjusting specific battery or developer settings can bypass this restriction and restore normal charging speeds.",
+      "title": "My Pixel was charging at a crawl, but these settings finally fixed it for me",
+      "t": 1781356010672,
+      "media_url": "https://live.staticflickr.com/65535/49558111211_bc91191601_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: faustinoverstreet / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/187059875@N03/49558111211"
+    },
+    "pnodcx": {
+      "ai_summary": "Microsoft's June 2026 Patch Tuesday update lowers Windows Search's minimum query length from three to two characters. This change lets users find files with short names like Q3 or V2 that were previously invisible.",
+      "title": "Windows 11 finally finds files when you type two characters instead of three",
+      "t": 1781356014196,
+      "media_url": "https://live.staticflickr.com/3834/9261375907_80b0c6acd6_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: ImagineCup / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/51065206@N08/9261375907"
+    },
+    "fpgza5": {
+      "ai_summary": "An interview with Intel's Kira Boyko was conducted. She is the product director for Xeon 6.",
+      "title": "An Interview with Intel's Kira Boyko: Xeon 6's Product Director",
+      "t": 1781356014808,
+      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/_6wmFnY9NZ4",
+      "media_url": "https://live.staticflickr.com/2630/4140950240_d53df4111b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950240"
+    },
+    "14qxhv2": {
+      "ai_summary": "Harmonic radar tags have been used to track mosquito movement across fields and parkland, providing detailed data on their flight patterns. As temperatures rise across the United States, mosquito swarms are expected to increase, raising the risk of bites that can transmit West Nile, Zika, malaria and other pathogens.",
+      "title": "Harmonic radar tags reveal how mosquitoes move through fields and parkland",
+      "t": 1781356016118,
+      "media_url": "https://live.staticflickr.com/8002/7316320620_87fa604abc_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: thezenderagenda.com / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/92402750@N00/7316320620"
+    },
+    "gbojzj": {
+      "ai_summary": "Chrome's new inactive tabs toggle lets Android users separate unused tabs from active ones, reducing visual clutter. This makes it easy to close large numbers of tabs—like 100—without anxiety.",
+      "title": "How a single Chrome layout toggle finally let me close 100 open Android tabs without anxiety",
+      "t": 1781356018137,
+      "media_url": "https://live.staticflickr.com/4057/4695566482_30b574af5c_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: osde8info / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/8764442@N07/4695566482"
+    },
+    "1uanmv2": {
+      "ai_summary": "The developer spent two weeks building Hallucinate, a photo‑gallery web app, and posted it to Show HN. The project showcases the features and progress made during that short development sprint.",
+      "title": "Show HN: 2 Weeks of Hallucinate – The Photo Gallery",
+      "t": 1781356018232,
+      "media_url": "https://live.staticflickr.com/1061/686562697_5d86ba6d67.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Wesley Clouden / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/40622964@N00/686562697"
+    },
+    "z9pmn6": {
+      "ai_summary": "Researchers at Washington University in St. Louis have devised a rapid method to produce and screen disaggregase enzymes capable of breaking down protein aggregates associated with ALS and Parkinson's disease. This breakthrough could accelerate the development of new treatments for neurodegenerative disorders.",
+      "title": "Engineering enzymes with potential against ALS and Parkinson's disease",
+      "t": 1781356021223,
+      "media_url": "https://live.staticflickr.com/6163/6195573431_6f96c4c80d_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/6195573431"
+    },
+    "1side0i": {
+      "ai_summary": "Echo Isle is a small‑scale adventure game heavily inspired by classic Zelda titles, with retro graphics that resemble Link’s Awakening. The player controls a blue‑tunic‑wearing swordsman who navigates dungeons, collects items and keys, battles bosses, and gathers magical MacGuffins.",
+      "title": "Echo Isle is a pint-sized adventure inspired by classic Zelda",
+      "t": 1781356027022,
+      "media_url": "https://live.staticflickr.com/6011/5994979312_4a2bdefc40.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Robotclaw666 / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/60517117@N00/5994979312"
+    },
+    "1kld7vw": {
+      "ai_summary": "El Niño has arrived, according to the U.S. weather agency, and scientists say it could rank among the strongest events since 1950. The pattern is expected to intensify through the end of the year, potentially reaching historic strength.",
+      "title": "El Niño arrives and could rank among strongest events since 1950",
+      "t": 1781356029346,
+      "media_url": "https://live.staticflickr.com/8533/15616172069_a068fbc95e_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Karen Roe / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/28752865@N08/15616172069"
+    },
+    "hqqwmk": {
+      "ai_summary": "Apple's iOS 27 introduces its first set of serious AI photo‑editing tools, which work adequately but are relatively tame compared to offerings on Google's Pixel phones. While the features are functional, early reactions suggest they are both promising and underwhelming.",
+      "title": "Apple’s new AI photo editing tools mostly work, for better and worse",
+      "t": 1781356036217,
+      "media_url": "https://live.staticflickr.com/65535/52305441729_8a2833d6d2_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: chris-hayes / PDM 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/162244249@N03/52305441729"
+    },
+    "ww49s4": {
+      "ai_summary": "Installer No. 132 highlights a new approach for managing screenshots efficiently. The writer also mentions gearing up for a low‑productivity month during the World Cup.",
+      "title": "A better way to manage all your screenshots",
+      "t": 1781356037024,
+      "media_url": "https://live.staticflickr.com/332/20307815048_9a68f15ba0_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Papahānaumokuākea Marine National Monument / PDM 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/93641120@N05/20307815048"
+    },
+    "cz52sm": {
+      "ai_summary": "Cats that frequently roam outdoors can bring unwelcome pathogens into the home. The article outlines steps to stop this from happening.",
+      "title": "How you can stop your cat from bringing home unwelcome pathogens",
+      "t": 1781356042737,
+      "media_url": "https://live.staticflickr.com/7241/7316322336_0b6f1ddbc9_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: thezenderagenda.com / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/92402750@N00/7316322336"
+    },
+    "o1ihti": {
+      "ai_summary": "TCL unveiled its flagship gaming monitor at Summer Game Fest 2026, featuring a 4K panel capable of 320Hz refresh at 1080p resolution. Hands‑on testing praised the display as a strong performer for any game.",
+      "title": "I went hands-on with TCL's new flagship gaming monitor at SGF 2026, and its beautiful 4K panel with support for 320Hz at 1080p is a winning combo no matter what you play",
+      "t": 1781356042935,
+      "media_url": "https://live.staticflickr.com/19/100706041_f404320ad9_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: fsse8info / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/37031529@N00/100706041"
+    },
+    "fnu3xa": {
+      "ai_summary": "Engadget published a recap of its recent reviews, spotlighting the Motorola Razr Ultra and AMD Radeon RX 9070 GRE alongside other products. The roundup offers brief impressions and scores from the site’s latest hands‑on evaluations.",
+      "title": "Engadget review recap: Razr Ultra, AMD Radeon RX 9070 GRE and more",
+      "t": 1781356043311,
+      "image": "https://www.engadget.com/img/engadget-meta-image-1280x720.png",
+      "media_url": "https://live.staticflickr.com/4777/26103251787_ac058e4320_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: AntMan3001 / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/92461652@N07/26103251787"
+    },
+    "vb729o": {
+      "ai_summary": "JAXA partnered with toy company TOMY on a space‑related project, while researchers unveiled a new brain‑computer interface and announced a potential solution for inflammatory bowel disease. Meanwhile, studies suggest collapsing stars could spawn mini universes, chimpanzees reject unfair offers, and a single dose of psilocybin temporarily restored cognitive…",
+      "title": "Saturday Citations: JAXA collaboration with toy company TOMY; a new brain-computer interface; IBD solved",
+      "t": 1781356045601,
+      "media_url": "https://live.staticflickr.com/3068/2897814057_c5b72cbea2_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: MarkScottAustinTX / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/57185608@N00/2897814057"
+    },
+    "1jsdgi": {
+      "ai_summary": "Rising token costs for frontier AI models are pushing companies to adopt cheaper Chinese LLMs and open‑source alternatives to stretch budgets. This shift, combined with subscription fees that erode profitability when utilization exceeds 5.7%, threatens the bottom lines of OpenAI and Anthropic.",
+      "title": "AI costs spike as subscriptions hit pricing wall — firms turn towards Chinese LLMs, open-source models to extend budget",
+      "t": 1781356047350,
+      "media_url": "https://live.staticflickr.com/8664/30466627572_6ab18c4125_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: ITU Pictures / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/42121221@N07/30466627572"
+    },
+    "1peh9hi": {
+      "ai_summary": "The FBI’s Kinetic Cyber Range in Huntsville, Alabama, is a 22,000‑square‑foot mock town featuring a hospital, power company and 200 servers designed to simulate cyberattacks. Opened in February 2025, it has trained more than 1,400 students, including FBI personnel and partners from other agencies.",
+      "title": "The FBI built a fake town to train agents for cyberattacks. It has a hospital, a power company, and 200 servers.",
+      "t": 1781356050270,
+      "media_url": "https://live.staticflickr.com/8479/8245544980_1120203371_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: NASA Goddard Photo and Video / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/24662369@N07/8245544980"
+    },
+    "11l7192": {
+      "ai_summary": "Dyson has released its 2026 vacuum lineup, introducing the V16 Piston Animal, V10 Konical, and an updated V8 Cyclone. The collection fulfills the company's promised 2026 models, offering refreshed technology across the series.",
+      "title": "Meet the New Dyson Vacuums: V16 Piston Animal, V10 Konical, V8 Cyclone (2026)",
+      "t": 1781356050458,
+      "media_url": "https://live.staticflickr.com/7386/9367777707_17077103df_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: ehud42 / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/39634010@N02/9367777707"
+    },
+    "nfpd8v": {
+      "ai_summary": "The U.S. government directed Anthropic to shut down its Claude Fable 5 and Claude Mythos 5 models worldwide, citing security concerns that bar access by any foreign national, including the company’s own staff. Anthropic complied, disabling the two models for all customers on Friday.",
+      "title": "U.S. gov't orders Anthropic to disable its newest AI models worldwide due to security threats — ban on Claude Fable 5 and Mythos 5 bars access by any foreign national, even its own employees",
+      "t": 1781356055871,
+      "media_url": "https://live.staticflickr.com/65535/51917430076_f988efa3bd_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Wendelin Jacober / CC0 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/91619724@N04/51917430076"
+    },
+    "136jc6p": {
+      "ai_summary": "Global arbuscular mycorrhizal fungal networks collectively stretch to lengths that surpass the distance to the edge of the Solar System. Researchers have quantified both the total length and mass of these underground networks worldwide.",
+      "title": "Threads of underground fungal networks are long enough to reach beyond the Solar System",
+      "t": 1781356058292,
+      "media_url": "https://live.staticflickr.com/6127/6013914231_8b0aa85b27.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Jeffrey Beall / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/31437555@N00/6013914231"
+    },
+    "nyxqlr": {
+      "ai_summary": "Arch Linux announced that a malware incident affecting its package repositories is now under control. The breach involved more than 1,500 packages, but the threat has been mitigated.",
+      "title": "Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages",
+      "t": 1781356061338,
+      "image": "https://www.phoronix.net/image.php?id=cachyos-ubuntu-2510-f43&image=cachyos_nov_1",
+      "media_url": "https://live.staticflickr.com/2669/4140191319_7dc49ddca2.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140191319"
+    },
+    "x_2065597531644743999": {
+      "ai_summary": "The US government has issued an export control directive suspending all access to Fable 5 and Mythos 5 for any foreign national, inside or outside the United States. The restriction also applies to foreign‑national employees of Anthropic, citing national‑security concerns.",
+      "title": "The US government, citing national security authorities, has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the…",
+      "t": 1781356066932,
+      "media_url": "https://live.staticflickr.com/7357/27541647533_70982e9d5e_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Cambridge Room at the Cambridge Public Library / PDM 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/140174526@N06/27541647533"
+    },
+    "19s6qsu": {
+      "ai_summary": "WWDC 2026 introduced Siri AI as both a standalone app and a system-wide feature across Apple’s next‑generation operating systems. The event also highlighted iOS 27’s performance‑centric enhancements and the debut of macOS Golden Gate.",
+      "title": "Top Stories: WWDC 2026 Recap With Siri AI, iOS 27, macOS Golden Gate, and More",
+      "t": 1781356071524,
+      "media_url": "https://live.staticflickr.com/7194/6945508477_eae093f34b_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Jeff Rowley Big Wave Surfer / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/74040983@N03/6945508477"
+    },
+    "16058pv": {
+      "title": "'This might be the point of no return': Experts on the current measles outbreak and where we go from here",
+      "t": 1781356139249,
+      "media_url": "https://live.staticflickr.com/8023/7106996757_7e5fe60d58_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: TEDxMonterey / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/50491078@N08/7106996757"
+    },
+    "15ucus3": {
+      "title": "Intel reportedly preparing surprise return to DDR4 systems with 'Raptor Lake Next' — LGA 1700 platform apparently slated for first half of 2027, takes a page from AMD's book by extending budget platform longevity",
+      "t": 1781356139723,
+      "media_url": "https://live.staticflickr.com/7220/7116952427_ff9f1dcfa9_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Public Domain Photos / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/28958738@N06/7116952427"
+    },
+    "1q7mr7c": {
+      "title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
+      "t": 1781356142783,
+      "media_url": "https://live.staticflickr.com/1856/42583851010_46217c0c38_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: PLeia2 / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/64684255@N00/42583851010"
+    },
+    "brgijd": {
+      "title": "Autopia: Lucid Air is an underdog luxury electric sedan",
+      "t": 1781356142863,
+      "media_url": "https://live.staticflickr.com/4199/34666276201_50fc312022_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: kevin dooley / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/12836528@N00/34666276201"
+    },
+    "18c3oq4": {
+      "title": "Uber, Wayve, and Waymo are headed toward a robotaxi showdown in London",
+      "t": 1781356143070,
+      "media_url": "https://live.staticflickr.com/8114/8657120528_e88bbb1cc5_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Bernard Spragg / CC0 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/88123769@N02/8657120528"
+    },
+    "t46vyc": {
+      "title": "FIFA’s biggest World Cup may leave host cities with big regrets",
+      "t": 1781356143151,
+      "media_url": "https://live.staticflickr.com/4070/4547691850_12cdbe4b86.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: flowcomm / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/21162417@N07/4547691850"
+    },
+    "kukrtg": {
+      "title": "Is this the dawn of the Tokenpocalypse?",
+      "t": 1781356143316,
+      "media_url": "https://live.staticflickr.com/5350/30495671441_8ffef49d47_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: ITU Pictures / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/42121221@N07/30495671441"
+    },
+    "1eshetz": {
+      "title": "As the world embraces EVs, the U.S. hits the brakes",
+      "t": 1781356143343,
+      "media_url": "https://live.staticflickr.com/65535/54082026218_9e9c6e9e06_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: dalecruse / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/91873384@N04/54082026218"
+    },
+    "azwif8": {
+      "title": "Notion restores access to Anthropic after service disruption",
+      "t": 1781356143461,
+      "media_url": "https://live.staticflickr.com/65535/51918050245_2ac4e700b0_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Wendelin Jacober / CC0 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/91619724@N04/51918050245"
+    },
+    "1hifglg": {
+      "title": "OpenAI is still working on that ‘super app’",
+      "t": 1781356143547,
+      "media_url": "https://live.staticflickr.com/65535/51917430076_f988efa3bd_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Wendelin Jacober / CC0 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/91619724@N04/51917430076"
+    },
+    "1yrofai": {
+      "title": "Hacked, leaked, and held for ransom: The worst breaches of 2026 so far",
+      "t": 1781356143738,
+      "media_url": "https://live.staticflickr.com/31/56919158_9c178af382_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: nedrichards / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/35034348080@N01/56919158"
+    },
+    "13byl8m": {
+      "title": "Iconic Campbell comic book store making a big move this month",
+      "t": 1781356143742,
+      "media_url": "https://live.staticflickr.com/8018/7604980870_80044aefa6_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Dave Catchpole / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/52957117@N04/7604980870"
+    },
+    "g383ii": {
+      "title": "TechCrunch Mobility: Inside GM’s $900M EV battery gamble",
+      "t": 1781356143792,
+      "media_url": "https://live.staticflickr.com/65535/52086929166_65c3981d07_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: TechCrunch / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/52522100@N07/52086929166"
+    },
+    "vuly2w": {
+      "title": "World Cup rental demand rises in Bay Area, but trails other U.S. host cities",
+      "t": 1781356144068,
+      "media_url": "https://live.staticflickr.com/5543/13968983094_ecd32dca96_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: North Charleston / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/36686551@N06/13968983094"
+    },
+    "1j0keyp": {
+      "title": "Asia Live food emporium will make its Valley Fair debut Friday",
+      "t": 1781356144152,
+      "media_url": "https://live.staticflickr.com/3124/4553735268_bb54a40fe0_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: US Army Africa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/36281822@N08/4553735268"
+    },
+    "1steklq": {
+      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+      "t": 1781356144246,
+      "media_url": "https://live.staticflickr.com/5628/30284645320_6c22cf0fa5_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: ITU Pictures / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/42121221@N07/30284645320"
+    },
+    "1aa2i62": {
+      "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+      "t": 1781356144371,
+      "media_url": "https://live.staticflickr.com/2284/2263161375_820c5a83c2_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: deltaMike / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/86078640@N00/2263161375"
     }
   }
 }
