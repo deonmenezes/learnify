@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-13T18:18:29.523Z",
+  "generated_at": "2026-06-13T20:04:46.226Z",
   "model": "nvidia/nemotron-3-super-120b-a12b",
-  "count": 1590,
+  "count": 1622,
   "items": {
     "1lhf9ld": {
       "ai_summary": "MassMutual is adopting 12‑month AI contracts that deliver roughly 30% productivity gains while avoiding vendor lock‑in, allowing models to be swapped as the market evolves. CIO Sears Merritt says the approach prevents long‑term bets on today’s best models, which may not remain optimal a year later.",
@@ -592,7 +592,11 @@
     "rq4yg5": {
       "title": "Scientists discover a quantum effect that could eliminate batteries",
       "t": 1781113528637,
-      "image": "https://www.sciencedaily.com/images/1920/abstract-energy-mysterious-quantum-effect.webp"
+      "image": "https://www.sciencedaily.com/images/1920/abstract-energy-mysterious-quantum-effect.webp",
+      "media_url": "https://live.staticflickr.com/6132/6035684573_7a09813a21_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: poptech / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/40287103@N07/6035684573"
     },
     "1x2tozu": {
       "title": "New light-powered chip could accelerate AI and quantum computing",
@@ -2688,9 +2692,9 @@
       "media_credit_url": "https://www.flickr.com/photos/64684255@N00/44386760371"
     },
     "it0px3": {
+      "ai_summary": "Gemma 4 12B is a unified, encoder-free multimodal model. The model contains 12 billion parameters.",
       "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
-      "t": 1781137196443,
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Social_Image_G4_12B.width-1300.png",
+      "t": 1781381001299,
       "media_url": "https://live.staticflickr.com/4425/37187233992_9a92bf6076_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
@@ -2712,9 +2716,9 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Image_for_APAC_GDM_Accelerator.max-1440x810.png"
     },
     "1wbbh54": {
+      "ai_summary": "Powering the future of robotics in Europe. Powering the future of robotics in Europe.",
       "title": "Powering the future of robotics in Europe",
-      "t": 1781137196684,
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/130.width-1300.jpg",
+      "t": 1781381024817,
       "media_url": "https://live.staticflickr.com/65535/48546728682_e1308f9bb7_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
@@ -11107,8 +11111,9 @@
       "media_credit_url": "https://www.flickr.com/photos/10563720@N03/3752428880"
     },
     "152jt9g": {
+      "ai_summary": "Anthropic has released Claude Fable 5, its first Mythos-class model available to the public. The model includes guardrails that prevent responses in high‑risk domains such as cybersecurity and biology.",
       "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
-      "t": 1781309091458,
+      "t": 1781380983989,
       "media_url": "https://live.staticflickr.com/5672/29949919183_74ebb78def_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: ITU Pictures / BY 2.0 via flickr",
@@ -11354,192 +11359,216 @@
       "media_credit_url": "https://www.flickr.com/photos/45322811@N06/4632435274"
     },
     "x_2064366504745828689": {
+      "ai_summary": "Google has introduced Gemini 3.5 Live Translate, an audio model designed for rapid cross‑language communication. The model supports real‑time translation across languages such as English, Spanish and Chinese.",
       "title": "Say hello, hola, 你好 to Gemini 3.5 Live Translate: our latest audio model built for fast, cross-language communication. 🌐",
-      "t": 1781327171792,
+      "t": 1781380984567,
       "media_url": "https://live.staticflickr.com/2664/3752428880_02724d33c6_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: AndYaDontStop / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/10563720@N03/3752428880"
     },
     "1ffkcej": {
+      "ai_summary": "iOS 27 introduces numerous minor features that were not highlighted during the keynote, focusing on subtle enhancements for everyday iPhone use. Although it lacks major overhauls, these incremental updates aim to improve user experience.",
       "title": "iOS 27 features we didn’t see onstage",
-      "t": 1781327171936,
+      "t": 1781380990846,
       "media_url": "https://live.staticflickr.com/5049/5324223435_08184240d8.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: Sean MacEntee / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/18090920@N07/5324223435"
     },
     "1rhhf1v": {
+      "ai_summary": "Apple is expanding its App Bundles feature so developers can collaborate on discounted subscription packages. This move brings streaming‑style bundle pricing to the App Store.",
       "title": "Apple brings streaming-style subscription bundles to the App Store",
-      "t": 1781327171969,
+      "t": 1781380989085,
       "media_url": "https://live.staticflickr.com/8262/29492749790_d7e2333281_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: fabola / BY-SA 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/44124339301@N01/29492749790"
     },
     "1p5koke": {
+      "ai_summary": "Sam Bankman-Fried has applied for a pardon from President Donald Trump. He has been using social media and interviews with conservative news outlets to pursue executive relief.",
       "title": "FTX co-founder Sam Bankman-Fried applies for Trump pardon",
-      "t": 1781327172099,
+      "t": 1781380996020,
       "media_url": "https://live.staticflickr.com/3800/10153714035_751c64e948.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: JustABoy / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/39298920@N00/10153714035"
     },
     "k3apsx": {
+      "ai_summary": "Apple announced new child‑safety features for iPhone and iPad at WWDC, letting parents set limits on app usage, content access, and communication. The rollout comes amid growing calls for stricter social‑media restrictions for minors.",
       "title": "Apple expands child safety tools as social media bans grow",
-      "t": 1781327172235,
+      "t": 1781380998876,
       "media_url": "https://live.staticflickr.com/3730/12193836865_d74a3fe009_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: p_a_h / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/64654599@N00/12193836865"
     },
     "1hlm6qb": {
+      "ai_summary": "Apple’s App Store now delivers personalized app recommendations based on each user’s download history and behavior. The update aims to enhance app discovery by surfacing suggestions that match individual usage patterns.",
       "title": "Apple’s App Store rolls out personalized recommendations",
-      "t": 1781327172289,
+      "t": 1781380994716,
       "media_url": "https://live.staticflickr.com/8038/8072874153_cab0e797ea.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: zaneology / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/11271224@N00/8072874153"
     },
     "ry8nfe": {
+      "ai_summary": "Sandstone raised $30 million in a Series A round to bring AI-powered tools to in-house legal teams. The funding follows a Sequoia-led seed round completed just six months ago.",
       "title": "Sandstone raises $30M to bring AI to in-house legal teams",
-      "t": 1781327172747,
+      "t": 1781381001899,
       "media_url": "https://live.staticflickr.com/2284/2263161375_820c5a83c2_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: deltaMike / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/86078640@N00/2263161375"
     },
     "zvhmxd": {
+      "ai_summary": "A Japan-based concrete firm has purchased several properties in San Jose, Northern California. The acquisition aims to position the company to benefit from the AI-driven growth of the Bay Area’s technology sector.",
       "title": "Japan-based concrete firm acquires San Jose properties",
-      "t": 1781327172879,
+      "t": 1781381005114,
       "media_url": "https://live.staticflickr.com/2895/13906557728_471f3e114c_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: Centenarian Diet Research / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/122538183@N07/13906557728"
     },
     "zkbi08": {
+      "ai_summary": "Lovable reports reaching $500 million in annualized run‑rate revenue, driven by users creating about one million new projects each week. The platform says its customers are using it to build businesses and replace internal software.",
       "title": "Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week",
-      "t": 1781327172985,
+      "t": 1781381012112,
       "media_url": "https://live.staticflickr.com/2284/2263161375_820c5a83c2_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: deltaMike / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/86078640@N00/2263161375"
     },
     "13qfvev": {
+      "ai_summary": "The US Navy is deploying autonomous skiffs built by San Diego startup Seasats to track Chinese ghost fleets. The vessels provide critical reconnaissance, intelligence, and surveillance capabilities at sea.",
       "title": "US Navy uses autonomous boats created by California startup to track Chinese ghost fleets",
-      "t": 1781327173118,
+      "t": 1781381018222,
       "media_url": "https://live.staticflickr.com/2659/5783080399_3444cdf2ed_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: intellax / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/11045073@N05/5783080399"
     },
     "1b2u8wu": {
+      "ai_summary": "Euwyn Poon, the founder who built 250,000 e‑scooters at Spin, raised $5 million for his new venture Orbital. He plans to use the funding to launch 10,000 space‑based data centers.",
       "title": "How an e-scooter founder raised $5 million to build space data centers",
-      "t": 1781327173320,
+      "t": 1781381020526,
       "media_url": "https://live.staticflickr.com/65535/51917430076_f988efa3bd_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: Wendelin Jacober / CC0 1.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/91619724@N04/51917430076"
     },
     "mpkqsj": {
+      "ai_summary": "Palo Alto has been expanding its parklet and street closure programs to activate public spaces. Early indications show these initiatives are boosting downtown vibrancy.",
       "title": "Has Palo Alto unlocked the secret to downtown vibrancy?",
-      "t": 1781327173351,
+      "t": 1781381021679,
       "media_url": "https://live.staticflickr.com/162/347117538_45bb610d2c.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: kiwanja / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/47778386@N00/347117538"
     },
     "oqvg9j": {
+      "ai_summary": "At the 2026 IEEE International Conference on Robotics in Vienna, a pair of robotic hands slowly twisted a balloon into a dog shape, drawing significant attention. The demonstration underscored how precise contact‑based manipulation, rather than pure dexterity, may drive the next generation of robotics.",
       "title": "Beyond Dexterity: Why Contact May Define the Next Era of Robotics",
-      "t": 1781327173410,
+      "t": 1781381017997,
       "media_url": "https://live.staticflickr.com/7168/6685913637_35789c7abf_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: jiuguangw / BY-SA 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/32366606@N00/6685913637"
     },
     "uex82a": {
+      "ai_summary": "Apple’s deliberate, incremental AI strategy is yielding tangible improvements across its ecosystem, countering earlier critiques of lagging behind rivals. Recent updates to Siri, on‑device processing, and developer tools suggest the company’s AI glow‑up is narrowing the perceived gap.",
       "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
-      "t": 1781327173589,
+      "t": 1781381026071,
       "media_url": "https://live.staticflickr.com/1/625533_9379b86613.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: cohærence * / BY-SA 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/61034561@N00/625533"
     },
     "pi3acs": {
+      "ai_summary": "Mercor executive Brendan Foody accused Sequoia of using dual‑pricing tactics to value the same equity at different prices. He said Sequoia is among the top firms employing such valuation tricks.",
       "title": "Mercor’s Brendan Foody calls out Sequoia, accusing it of ‘dual-pricing’ valuation tricks",
-      "t": 1781327173792,
+      "t": 1781381038413,
       "media_url": "https://live.staticflickr.com/1801/43267970922_94ebb5b7e6.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: deepakiqlect / BY-SA 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/158301585@N08/43267970922"
     },
     "1fe4jkp": {
+      "ai_summary": "Evotrex secured $30 million in funding to develop an RV equipped with a hybrid power system that eliminates the need for external charging stations. The vehicle is designed for extended off‑grid travel, allowing use far beyond traditional campsites.",
       "title": "Evotrex raises $30M to build the RV that doesn’t need a charging station",
-      "t": 1781327173912,
+      "t": 1781381045275,
       "media_url": "https://live.staticflickr.com/7328/27657285780_8e4c6ce18e_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: Izzie Button (Izzie's) / BY-SA 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/48385543@N02/27657285780"
     },
     "2vcueg": {
+      "ai_summary": "During New York Tech Week, a Rest of World event examined the growing dominance of U.S. and Chinese AI firms and the challenges it creates for global competition. Participants discussed potential strategies to balance the market and foster broader innovation.",
       "title": "The Great AI Divide: Navigating U.S. and Chinese dominance",
-      "t": 1781327173920,
+      "t": 1781381023215,
       "media_url": "https://live.staticflickr.com/3955/33803012505_bd6ffd8103_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/33803012505"
     },
     "10fw10m": {
+      "ai_summary": "OpenAI has filed for an initial public offering, while Sam Altman’s identity‑verification startup Tools for Humanity is reportedly cutting staff due to weak revenue. The layoffs reflect the company’s struggle to monetize its eye‑scanning technology.",
       "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
-      "t": 1781327173987,
+      "t": 1781381028272,
       "media_url": "https://live.staticflickr.com/65535/51917430076_f988efa3bd_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: Wendelin Jacober / CC0 1.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/91619724@N04/51917430076"
     },
     "1051l4x": {
+      "ai_summary": "OpenAI has submitted a confidential registration statement for an initial public offering, following its rival Anthropic which filed a similar confidential IPO filing just over a week ago. The back-to-back filings heighten the competitive race between the two leading artificial‑intelligence companies.",
       "title": "OpenAI files confidentially for IPO, following Anthropic",
-      "t": 1781327174014,
+      "t": 1781381033653,
       "media_url": "https://live.staticflickr.com/65535/51918050245_2ac4e700b0_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: Wendelin Jacober / CC0 1.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/91619724@N04/51918050245"
     },
     "4docz0": {
+      "ai_summary": "After settling a $250M false‑advertising claim, Apple presented more credible AI demos at WWDC 2026, frequently showing presenters standing while holding an iPhone. The keynote’s tone was compared to a spouse proudly listing completed honey‑do‑list tasks.",
       "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
-      "t": 1781327174021,
+      "t": 1781381031101,
       "media_url": "https://live.staticflickr.com/5672/29949919183_74ebb78def_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: ITU Pictures / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/42121221@N07/29949919183"
     },
     "15vjbfj": {
+      "ai_summary": "Apple’s WWDC keynote emphasized bug fixes, performance gains, and long‑awaited feature updates before introducing its upgraded AI‑powered Siri. The presentation framed the new Siri as one component of a wider push to enhance Apple’s software ecosystem.",
       "title": "Apple plays catch-up at WWDC",
-      "t": 1781327174179,
+      "t": 1781381033085,
       "media_url": "https://live.staticflickr.com/4190/33721186053_e0d41fb5a2_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: ITU Pictures / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/42121221@N07/33721186053"
     },
     "5r4rsh": {
+      "ai_summary": "Apple will waive cloud API fees for developers whose apps have fewer than two million first‑time App Store downloads, aiming to lower the cost of AI experimentation. The move targets small developers as AI‑related cloud expenses rise.",
       "title": "Apple bets cheaper AI will woo small developers",
-      "t": 1781327174183,
+      "t": 1781381036080,
       "media_url": "https://live.staticflickr.com/2284/2263161375_820c5a83c2_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: deltaMike / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/86078640@N00/2263161375"
     },
     "x_2064100362752294992": {
+      "ai_summary": "Apple is extending its Private Cloud Compute service to run on Google Cloud infrastructure. The deployment utilizes NVIDIA GPUs to support private AI workloads.",
       "title": "Proud to collaborate on the next frontier of private AI. 🔒 Apple is expanding Private Cloud Compute to @GoogleCloud using NVIDIA GPUs. https://nvda.ws/4ewJl3q",
-      "t": 1781327174217,
+      "t": 1781381031456,
       "media_url": "https://live.staticflickr.com/8124/8693809047_b8cb1eef8b_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: CthulhuWho1 (Will Hart) / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/41340252@N08/8693809047"
     },
     "1o8gn6e": {
+      "ai_summary": "Hackers compromised Microsoft's open‑source tools to steal passwords from AI developers. In response, Microsoft took down dozens of GitHub repositories for Azure and AI coding tools.",
       "title": "Microsoft’s open source tools were hacked to steal passwords of AI developers",
-      "t": 1781327174510,
+      "t": 1781381043032,
       "media_url": "https://live.staticflickr.com/5333/17719163589_9c704d7226_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: New America / BY 2.0 via flickr",
@@ -11554,32 +11583,36 @@
       "media_credit_url": "https://www.flickr.com/photos/22711505@N05/8308389376"
     },
     "1szmsbe": {
+      "ai_summary": "Apple is rolling out AI-powered enhancements to Safari, Shortcuts, and the Password app that let the iPhone auto‑complete sentences, improve photos, and automate routine tasks. The updates aim to make everyday iPhone use faster and more intuitive by integrating generative AI directly into core apps.",
       "title": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
-      "t": 1781327174774,
+      "t": 1781381049426,
       "media_url": "https://live.staticflickr.com/5628/30284645320_6c22cf0fa5_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: ITU Pictures / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/42121221@N07/30284645320"
     },
     "v3e43m": {
+      "ai_summary": "Waymo purchased Apple's former self-driving car proving ground in Arizona for $220 million. The 5,500‑acre site, held by Delaware shell company Route 14 Investment Partners LLC, was recorded in Maricopa County documents.",
       "title": "Waymo bought Apple’s self-driving car proving ground for $220M",
-      "t": 1781327174780,
+      "t": 1781381038454,
       "media_url": "https://live.staticflickr.com/218/529840632_12b69d059f_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: conner395 / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/91779914@N00/529840632"
     },
     "1ti3ozv": {
+      "ai_summary": "The Pentagon stated that Alibaba, Baidu, BYD, and Unitree provide support to China's military. The Trump administration had issued an updated list naming these firms four months earlier but withdrew it without giving a reason.",
       "title": "Pentagon says Alibaba, Baidu, BYD, and Unitree support China’s military",
-      "t": 1781327174781,
+      "t": 1781381046617,
       "media_url": "https://live.staticflickr.com/120/290220212_89dc84f524_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: pingnews.com / PDM 1.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/39735679@N00/290220212"
     },
     "ziajk": {
+      "ai_summary": "Apple is adding AI-powered workflow creation to its Shortcuts app, allowing users to generate automations by describing them in natural language. The upgrade lets you type a prompt and the app builds the corresponding shortcut automatically.",
       "title": "Apple will let you build workflows using AI in its new Shortcuts app",
-      "t": 1781327174947,
+      "t": 1781381059525,
       "media_url": "https://live.staticflickr.com/1/625533_9379b86613.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: cohærence * / BY-SA 2.0 via flickr",
@@ -11725,8 +11758,9 @@
       "image": "https://blog.unitedheroes.net/JRS_128x128.jpg"
     },
     "x_2064056027947934209": {
+      "ai_summary": "Transaction foundation models convert raw financial data into actionable intelligence by training on billions of payment, transfer, and behavioral events. Institutions like Revolut and Mastercard are leveraging NVIDIA accelerated computing to train these models.",
       "title": "Transaction foundation models transform raw data into intelligence, trained on billions of financial events — payments, transfers and behavioral signals. Financial institutions, like @Revolut and…",
-      "t": 1781339960031,
+      "t": 1781381055349,
       "media_url": "https://live.staticflickr.com/3807/9242313266_0ed48e642a_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: j_cadmus / BY 2.0 via flickr",
@@ -11741,24 +11775,27 @@
       "media_credit_url": "https://www.flickr.com/photos/60057912@N00/5504041923"
     },
     "11noj25": {
+      "ai_summary": "Apple is revamping its Image Playground AI image generator to address previous shortcomings. The update aims to enhance performance and make the tool more competitive in the market.",
       "title": "Apple’s Image Playground doesn’t suck anymore",
-      "t": 1781339960554,
+      "t": 1781381051340,
       "media_url": "https://live.staticflickr.com/5350/30495671441_8ffef49d47_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: ITU Pictures / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/42121221@N07/30495671441"
     },
     "1ia07qt": {
+      "ai_summary": "Apple is adding AI-powered editing tools to its Photos app. A new spatial “Reframe” feature will let users adjust image perspectives using AI.",
       "title": "Apple’s Photos app is getting new AI editing features",
-      "t": 1781339960554,
+      "t": 1781381053003,
       "media_url": "https://live.staticflickr.com/1/625533_9379b86613.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: cohærence * / BY-SA 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/61034561@N00/625533"
     },
     "10qgdia": {
+      "ai_summary": "Apple is releasing a dedicated Siri app that lets users launch the voice assistant as a standalone application. The new app separates Siri from the system interface, giving it its own icon and interface.",
       "title": "Apple gives Siri its own dedicated app",
-      "t": 1781339960555,
+      "t": 1781381055407,
       "media_url": "https://live.staticflickr.com/1801/43267970922_94ebb5b7e6.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: deepakiqlect / BY-SA 2.0 via flickr",
@@ -13818,6 +13855,276 @@
       "media_kind": "stock",
       "media_credit": "Photo: startup_mena / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/123943225@N07/17526423146"
+    },
+    "78xh56": {
+      "ai_summary": "Researchers at the Leibniz Centre for Agricultural Landscape Research used a computer model of the lower Spree catchment in Brandenburg to show that directing stream water into naturally occurring small basins can store it in the aquifer during wet periods. This approach aims to bolster both groundwater reserves and surface‑water streams by enhancing…",
+      "title": "How directing water flows in the landscape could support groundwater and surface water streams",
+      "t": 1781380958704,
+      "media_url": "https://live.staticflickr.com/6034/5909841424_2a61acfa11_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: NASA Goddard Photo and Video / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/24662369@N07/5909841424"
+    },
+    "17wcbqu": {
+      "ai_summary": "Finnish researchers have developed a cellulose‑based film platform that matches the performance of conventional plastic while being recyclable or biodegradable. The material meets tightening regulations, such as the requirement to keep plastic content below 5 wt % in fiber‑based packaging, and offers transparency for various applications.",
+      "title": "Cellulose films match plastic performance while enabling recycling or biodegradation",
+      "t": 1781380958734,
+      "media_url": "https://live.staticflickr.com/4671/26356782088_19859314ef_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: NRCgov / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/69383258@N08/26356782088"
+    },
+    "1ootcjf": {
+      "ai_summary": "Amazon CEO Andy Jassy reportedly voiced security concerns about Anthropic's AI models, which may have influenced the company's decision. As a result, Anthropic cut off worldwide access to two of its models on Friday, ahead of an anticipated government crackdown.",
+      "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+      "t": 1781380962619,
+      "media_url": "https://live.staticflickr.com/5350/30495671441_8ffef49d47_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: ITU Pictures / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/42121221@N07/30495671441"
+    },
+    "ix05o0": {
+      "ai_summary": "The TRACERS spacecraft mapped solar energy’s route into Earth by tracking cusp electrons. Led by University of Iowa physicists, the study delivers the finest‑detail view yet of how solar energy interacts with Earth’s magnetic field, offering new insight into space‑weather drivers.",
+      "title": "TRACERS spacecraft maps solar energy's route into Earth using cusp electrons",
+      "t": 1781380970151,
+      "media_url": "https://live.staticflickr.com/760/21800621932_2ccbba50e2_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: NASA Goddard Space Flight Center / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/35278629@N08/21800621932"
+    },
+    "10eaok0": {
+      "ai_summary": "University of Amsterdam researchers found that the self‑propelled motion of worms or gut bacteria prevents the alignment that passive string‑like objects readily achieve. This demonstrates that activity can fundamentally disrupt ordering in active matter systems.",
+      "title": "When motion prevents order in active matter systems",
+      "t": 1781380972816,
+      "media_url": "https://live.staticflickr.com/4860/44577923390_7aeac3da55_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: NASA Goddard Photo and Video / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/24662369@N07/44577923390"
+    },
+    "a1b3ep": {
+      "ai_summary": "\"oh my hours\" is an indie iOS app that measures the time users consider wasted, rather than total screen time. It was highlighted in 9to5Mac's Indie App Spotlight, a weekly series showcasing apps designed to help people reduce iPhone usage for productivity or social goals.",
+      "title": "Indie App Spotlight: ‘oh my hours’ counts the hours you’ve wasted, not your screen time",
+      "t": 1781380972924,
+      "media_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/AJR_Weak_Spotify_Performance_2016-2017.png",
+      "media_kind": "stock",
+      "media_credit": "Photo: Koopastar / BY 4.0 via wikimedia",
+      "media_credit_url": "https://commons.wikimedia.org/w/index.php?curid=141365147"
+    },
+    "1ls9j6l": {
+      "ai_summary": "An accessibility app improved the usability of large Android phones for the user. It addressed the challenges posed by big-screen devices.",
+      "title": "This accessibility app changed how I approach any Android phone",
+      "t": 1781380973806,
+      "media_url": "https://live.staticflickr.com/8748/28117729951_f0cbce3cc1_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Visual Content / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/143601516@N03/28117729951"
+    },
+    "c5xj5e": {
+      "ai_summary": "Gemini's Daily Brief replaces traditional morning routines by delivering helpful nudges and reminders. Users report that it makes mornings easier and more efficient.",
+      "title": "Gemini's Daily Brief replaced my morning routine, and I'm shocked how well it works",
+      "t": 1781380975954,
+      "media_url": "https://live.staticflickr.com/5287/5254813885_f7a01583ba.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Sean MacEntee / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/18090920@N07/5254813885"
+    },
+    "xk5dk8": {
+      "ai_summary": "An enthusiast installed MS‑DOS on a Behringer DDX3216 digital mixer by writing a custom x86 BIOS from scratch. The project shows how the mixer’s hardware can be repurposed as a generic x86 platform for running legacy software.",
+      "title": "Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch",
+      "t": 1781380977990,
+      "media_url": "https://live.staticflickr.com/2681/4140950940_186aec55ba.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950940"
+    },
+    "1fne5ry": {
+      "ai_summary": "The Q&A explores how researchers are tracing the origins of supermassive black holes, highlighting the work of Ph.D. candidate Sarah Pappert at the TUM School of Natural Sciences and the Max Planck Institute for Extraterrestrial Physics. She is supervised by Prof. Dr. Reinhard Genzel and Prof. Dr. Frank Eisenhauer, who holds a TUM Distinguished Affiliated…",
+      "title": "Q&A: Tracing the origins of supermassive black holes",
+      "t": 1781380978252,
+      "media_url": "https://live.staticflickr.com/65535/53867394329_0c987e52ab_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: NASA Hubble / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/144614754@N02/53867394329"
+    },
+    "m0twws": {
+      "ai_summary": "The headline reads \"GameBoy Workboy\". No further details are provided.",
+      "title": "GameBoy Workboy",
+      "t": 1781380978564,
+      "media_url": "https://live.staticflickr.com/2669/4140191319_7dc49ddca2.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140191319"
+    },
+    "jz599p": {
+      "ai_summary": "A sealed copy of Super Mario Bros. sold for $3 million at Heritage Auctions, setting a new record that doubles the prior $2 million mark from 2021. The sale follows a recent controversial auction, continuing the surge in high‑value video‑game collectibles.",
+      "title": "Sealed Super Mario Bros. sells for a record $3 million",
+      "t": 1781380980979,
+      "media_url": "https://live.staticflickr.com/3262/2844911324_ca034817a0_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Randy Son Of Robert / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/46042146@N00/2844911324"
+    },
+    "1evj4w3": {
+      "ai_summary": "A PwC report found that the growing use of AI in healthcare is linked to higher medical billing costs. The analysis suggests that while AI can improve efficiency, it also contributes to increased charges for patients.",
+      "title": "PwC Report: AI Making Medical Bills Higher",
+      "t": 1781380981342,
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/GettyImages-1313653697-e1781288687366.jpg?resize=1200,600",
+      "media_url": "https://live.staticflickr.com/2669/4140191319_7dc49ddca2.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140191319"
+    },
+    "2n883t": {
+      "title": "Larry Magid: ‘Smart’ devices to keep you cool this summer",
+      "t": 1781381084911,
+      "media_url": "https://live.staticflickr.com/8393/8607213314_af3cd0d690_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Sean MacEntee / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/18090920@N07/8607213314"
+    },
+    "wzcv8j": {
+      "title": "Apple touts $1.4 trillion in App Store billings and sales, 90% without a commission",
+      "t": 1781381084952,
+      "media_url": "https://live.staticflickr.com/8664/30466627572_6ab18c4125_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: ITU Pictures / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/42121221@N07/30466627572"
+    },
+    "grv4pm": {
+      "title": "Chinese spies are using LinkedIn to lure Westerners into sharing sensitive information",
+      "t": 1781381084961,
+      "media_url": "https://live.staticflickr.com/4049/4504842081_da6859e521.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Sean MacEntee / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/18090920@N07/4504842081"
+    },
+    "egngoa": {
+      "title": "Google’s ‘Debug Project’ would release 32 million sterile male mosquitos in California and Florida",
+      "t": 1781381085034,
+      "media_url": "https://live.staticflickr.com/8393/8607213314_af3cd0d690_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Sean MacEntee / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/18090920@N07/8607213314"
+    },
+    "norvyp": {
+      "title": "A pantry challenge can save you $400 this month",
+      "t": 1781381085110,
+      "media_url": "https://live.staticflickr.com/4199/34666276201_50fc312022_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: kevin dooley / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/12836528@N00/34666276201"
+    },
+    "wyyxsy": {
+      "title": "Uber cuts 23% of ‘People and Places’ division as new president takes over",
+      "t": 1781381085147,
+      "media_url": "https://live.staticflickr.com/65535/49628791573_2fffec039f_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: shankar s. / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/77742560@N06/49628791573"
+    },
+    "1m3oiro": {
+      "title": "Oura Ring 5 review: Thinner, lighter, better",
+      "t": 1781381085290,
+      "media_url": "https://live.staticflickr.com/41/84294702_9a7107b77a_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Glutnix / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/41894168820@N01/84294702"
+    },
+    "3a612o": {
+      "title": "Scarcity is driving AI innovation outside Silicon Valley",
+      "t": 1781381085331,
+      "media_url": "https://live.staticflickr.com/3103/2902768949_b55c03e555.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Anonymous9000 / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/25414324@N02/2902768949"
+    },
+    "8e3h4e": {
+      "title": "Benchmark raises its first-ever growth fund as part of $2B capital haul",
+      "t": 1781381085459,
+      "media_url": "https://live.staticflickr.com/7328/27657285780_8e4c6ce18e_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Izzie Button (Izzie's) / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/48385543@N02/27657285780"
+    },
+    "fyg33z": {
+      "title": "How Bay Area farmers markets became a symbol of downtown resilience",
+      "t": 1781381085500,
+      "media_url": "https://live.staticflickr.com/7029/6677160011_7f9717ddfb_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: USDAgov / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/41284017@N08/6677160011"
+    },
+    "1qtr0v1": {
+      "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
+      "t": 1781381085565,
+      "media_url": "https://live.staticflickr.com/5628/30284645320_6c22cf0fa5_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: ITU Pictures / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/42121221@N07/30284645320"
+    },
+    "omck6a": {
+      "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
+      "t": 1781381085658,
+      "media_url": "https://live.staticflickr.com/65535/51918050245_2ac4e700b0_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Wendelin Jacober / CC0 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/91619724@N04/51918050245"
+    },
+    "8buf15": {
+      "title": "Meta mercifully spun out VR fitness game Supernatural instead of just killing it",
+      "t": 1781381085672,
+      "media_url": "https://live.staticflickr.com/3262/2844911324_ca034817a0_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Randy Son Of Robert / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/46042146@N00/2844911324"
+    },
+    "1fbqaai": {
+      "title": "Uber to put 500 data-collection vehicles on the road this year",
+      "t": 1781381085731,
+      "media_url": "https://live.staticflickr.com/5788/21000491690_d9068e0699.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: ShashiBellamkonda / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/35899785@N00/21000491690"
+    },
+    "iyywm9": {
+      "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
+      "t": 1781381085758,
+      "media_url": "https://live.staticflickr.com/65535/51917430076_f988efa3bd_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Wendelin Jacober / CC0 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/91619724@N04/51917430076"
+    },
+    "cey4eu": {
+      "title": "Substack’s new ‘Reply Rules’ feature lets creators control how people respond",
+      "t": 1781381085768,
+      "media_url": "https://live.staticflickr.com/8435/7766488264_629ea567aa_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: osde8info / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/8764442@N07/7766488264"
+    },
+    "1qi9wd3": {
+      "title": "The next chapter in flood resilience: Open sourcing Google’s hydrology framework",
+      "t": 1781381085920,
+      "media_url": "https://live.staticflickr.com/1487/23388905224_cb47db6df8_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: kevin dooley / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/12836528@N00/23388905224"
+    },
+    "16mtpm7": {
+      "title": "7 Ways New Engineers Can Flourish in the Age of AI",
+      "t": 1781381086213,
+      "media_url": "https://live.staticflickr.com/7309/13093939375_7d76c0f7d7_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: juhansonin / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/38869431@N00/13093939375"
+    },
+    "15aj1wn": {
+      "title": "Ultrahuman says hackers accessed customers’ wellness data via internal tool",
+      "t": 1781381086223,
+      "media_url": "https://live.staticflickr.com/8035/8018706048_46d77494de_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Tsahi Levent-Levi / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/86979666@N00/8018706048"
     }
   }
 }
