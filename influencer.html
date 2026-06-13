@@ -261,6 +261,63 @@
   .links a { color: var(--accent-deep); transition: color .15s; }
   .links a:hover { color: var(--txt); }
 
+  /* ---- HOW-TO-FILM GUIDE ---- */
+  .guide { margin: 0 0 26px; border-radius: var(--radius); border: 1.5px solid var(--line);
+    background: linear-gradient(180deg, var(--surface) 0%, var(--bg) 100%); overflow: hidden; }
+  .guide-top { padding: 22px 24px 6px; }
+  .guide-eyebrow { font-size: 11px; letter-spacing: .2em; text-transform: uppercase; color: var(--save-green); font-weight: 700; margin: 0 0 8px; display: inline-flex; align-items: center; gap: 7px; }
+  .guide-eyebrow::before { content: ""; width: 6px; height: 6px; border-radius: 50%; background: var(--save-green); box-shadow: 0 0 8px rgba(69,219,107,.7); }
+  .guide-top h3 { font-family: 'Nunito', system-ui, sans-serif; font-size: clamp(22px,3.4vw,30px); font-weight: 900; letter-spacing: -.6px; margin: 0 0 8px; color: var(--txt); }
+  .guide-top h3 em { font-family: 'Nunito', system-ui, sans-serif; color: var(--save-green); }
+  .guide-top p { color: var(--txt-60); font-size: 14.5px; line-height: 1.6; max-width: 720px; margin: 0; }
+  .guide-genres-label { font-size: 11px !important; letter-spacing: .12em; text-transform: uppercase; color: var(--accent-deep) !important; font-weight: 700; margin: 16px 0 9px !important; }
+  .guide-genres { display: flex; flex-wrap: wrap; gap: 7px; }
+  .gg { display: inline-flex; align-items: center; gap: 6px; font-size: 12.5px; font-weight: 700; color: var(--txt-60);
+    background: var(--surface); border: 1.5px solid var(--line); border-radius: 999px; padding: 6px 12px; cursor: pointer; transition: .14s; }
+  .gg .e { font-size: 14px; line-height: 1; }
+  .gg:hover { color: var(--txt); border-color: var(--save-green); background: linear-gradient(180deg, rgba(69,219,107,.1), var(--surface)); transform: translateY(-1px); }
+  .guide-grid { display: grid; grid-template-columns: 340px 1fr; gap: 22px; padding: 20px 24px 26px; align-items: start; }
+  @media (max-width: 860px) { .guide-grid { grid-template-columns: 1fr; } }
+
+  .reel-col { position: sticky; top: 86px; }
+  @media (max-width: 860px) { .reel-col { position: static; } }
+  .reel-frame { border-radius: var(--radius-sm); border: 1.5px solid var(--line); background: #000; overflow: hidden; box-shadow: var(--shadow-md); }
+  .reel-frame .instagram-media { margin: 0 !important; min-width: 0 !important; border: 0 !important; box-shadow: none !important; background: #000 !important; }
+  .reel-fallback { aspect-ratio: 9/16; display: grid; place-items: center; text-align: center; padding: 26px; gap: 12px;
+    background: radial-gradient(120% 120% at 50% 0%, rgba(69,219,107,.12), transparent 60%), var(--elevated); }
+  .reel-fallback .rf-emoji { font-size: 44px; }
+  .reel-fallback p { margin: 0; color: var(--txt-60); font-size: 13px; line-height: 1.5; }
+  .reel-watch { margin-top: 12px; display: flex; flex-direction: column; gap: 8px; }
+  .reel-watch a { display: inline-flex; align-items: center; justify-content: center; gap: 8px; font-size: 13.5px; font-weight: 800;
+    padding: 12px 16px; border-radius: 12px; transition: .15s; }
+  .reel-watch .primary { background: var(--accent); color: #0D0D0F; box-shadow: var(--shadow-sm); }
+  .reel-watch .primary:hover { transform: translateY(-1px); box-shadow: var(--shadow-md); }
+  .reel-watch .ghost { background: var(--surface); border: 1.5px solid var(--line); color: var(--txt-60); }
+  .reel-watch .ghost:hover { color: var(--accent); border-color: var(--accent-deep); }
+  .reel-cap { margin-top: 11px; font-size: 11.5px; line-height: 1.5; color: var(--txt-45); text-align: center; }
+  .reel-cap b { color: var(--save-green); font-weight: 700; }
+
+  .examples-label { font-size: 11px; letter-spacing: .12em; text-transform: uppercase; color: var(--accent-deep); font-weight: 700; margin: 18px 0 9px; text-align: center; }
+  .examples { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+  .exclip { margin: 0; }
+  .exclip video { width: 100%; aspect-ratio: 9/16; object-fit: cover; display: block; background: #000;
+    border-radius: var(--radius-sm); border: 1.5px solid var(--line); box-shadow: var(--shadow-sm); cursor: pointer; }
+  .exclip video:hover { border-color: var(--save-green); }
+  .exclip figcaption { font-size: 10.5px; line-height: 1.4; color: var(--txt-50); margin-top: 7px; text-align: center; }
+
+  .steps-col { display: flex; flex-direction: column; gap: 0; }
+  .gstep { display: grid; grid-template-columns: 38px 1fr; gap: 15px; padding: 15px 0; }
+  .gstep + .gstep { border-top: 1px solid var(--line); }
+  .gstep .num { width: 34px; height: 34px; border-radius: 11px; flex: 0 0 auto; display: grid; place-items: center;
+    font-family: 'Nunito', system-ui, sans-serif; font-size: 15px; font-weight: 900; color: var(--save-green);
+    background: var(--elevated); border: 1.5px solid var(--line); box-shadow: 0 0 0 1px rgba(69,219,107,.12); }
+  .gstep h4 { margin: 4px 0 5px; font-size: 15px; font-weight: 800; letter-spacing: -.2px; color: var(--txt); display: flex; align-items: center; gap: 9px; flex-wrap: wrap; }
+  .gstep h4 .chip { font-size: 10px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--accent-deep);
+    background: var(--elevated); border: 1px solid var(--line); border-radius: 7px; padding: 2px 8px; }
+  .gstep p { margin: 0; font-size: 13.5px; line-height: 1.6; color: var(--txt-60); }
+  .gstep p b { color: var(--txt); font-weight: 700; }
+  .gstep p .g { color: var(--save-green); font-weight: 700; }
+
   a:focus-visible, button:focus-visible, [role="button"]:focus-visible { outline: 2.5px solid var(--save-green); outline-offset: 2px; border-radius: 9px; }
   :focus:not(:focus-visible) { outline: none; }
   @media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation-duration: .001ms !important; transition-duration: .001ms !important; } .card { opacity: 1; transform: none; } }
@@ -292,6 +349,89 @@
     <p class="eyebrow">For creators in every niche</p>
     <h2>Pick your niche. Get a <em>full script</em>. Film it today.</h2>
     <p>Fitness, skincare, nutrition, AI, finance, science, psychology — choose your lane below for proven video formats, plus fresh ideas pulled straight from today's research papers. Tap any card for a timestamped script, hook, shot list and caption.</p>
+  </section>
+
+  <!-- HOW TO FILM IT — reference reel + step-by-step -->
+  <section class="guide" aria-labelledby="guide-h">
+    <div class="guide-top">
+      <p class="guide-eyebrow">Watch this first</p>
+      <h3 id="guide-h">How to <em>film it</em> — copy this exact reel</h3>
+      <p>This is the format that works: a fast, text-heavy "doomscroll → learn" reel. Watch it once, then follow the seven steps to shoot your own with any script below. Same energy, same on-screen text — your face and your niche.</p>
+      <p class="guide-genres-label">Works for every genre — pick your lane:</p>
+      <div class="guide-genres" id="guide-genres"></div>
+    </div>
+    <div class="guide-grid">
+      <!-- Reference reel -->
+      <div class="reel-col">
+        <div class="reel-frame">
+          <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/DZZcVZTBV9i/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14">
+            <div class="reel-fallback">
+              <div class="rf-emoji">🎬</div>
+              <p><b style="color:var(--txt)">The reference reel</b><br>@deon_tech · "doomscroll learning content"<br>532 likes · 412 comments</p>
+            </div>
+          </blockquote>
+        </div>
+        <div class="reel-watch">
+          <a class="primary" href="https://www.instagram.com/p/DZZcVZTBV9i/" target="_blank" rel="noopener">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none"><rect x="3" y="3" width="18" height="18" rx="5" stroke="currentColor" stroke-width="2"/><circle cx="12" cy="12" r="4" stroke="currentColor" stroke-width="2"/><circle cx="17.5" cy="6.5" r="1.3" fill="currentColor"/></svg>
+            Watch the reel on Instagram ↗
+          </a>
+          <a class="ghost" href="https://www.instagram.com/deon_tech/" target="_blank" rel="noopener">See more from @deon_tech</a>
+        </div>
+        <p class="reel-cap">Hook in the first 2s · finding as big text · <b>"comment link"</b> CTA at the end. Steal the structure, not the words.</p>
+
+        <p class="examples-label">More Learnify creator examples</p>
+        <div class="examples">
+          <figure class="exclip">
+            <video src="/ugc/learnify/video/inf1.mp4" poster="/ugc/learnify/video/poster/inf1.jpg" muted loop playsinline preload="none" controls></video>
+            <figcaption>Real people, real scrolls — the UGC look</figcaption>
+          </figure>
+          <figure class="exclip">
+            <video src="/ugc/learnify/video/inf2.mp4" poster="/ugc/learnify/video/poster/inf2.jpg" muted loop playsinline preload="none" controls></video>
+            <figcaption>"5 hours a day, gone" — hook + payoff</figcaption>
+          </figure>
+        </div>
+      </div>
+
+      <!-- Step-by-step -->
+      <div class="steps-col">
+        <div class="gstep">
+          <div class="num">1</div>
+          <div><h4>Watch the reference reel <span class="chip">30 sec</span></h4>
+          <p>Play it twice. Notice three things: the <b>hook lands in the first 2 seconds</b>, the key point is always <b>burned in as big on-screen text</b>, and it ends with a clear <span class="g">"comment link"</span> call-to-action. That's the whole formula.</p></div>
+        </div>
+        <div class="gstep">
+          <div class="num">2</div>
+          <div><h4>Pick a script <span class="chip">copy</span></h4>
+          <p>Choose your niche below, tap any card, and hit <b>Copy full script</b>. The hook, timestamped lines, shot list and caption are all done — paste them into your notes. <span class="g">[Bracketed]</span> bits are your slots; fill them with your own example or a paper from the research strip.</p></div>
+        </div>
+        <div class="gstep">
+          <div class="num">3</div>
+          <div><h4>Set up your shot <span class="chip">1 min</span></h4>
+          <p>Phone <b>vertical (9:16)</b>, propped at eye level. Face a window so the light is on you, not behind you. Quiet room, phone on a stack of books or a cheap tripod. No fancy gear needed — the reference reel is shot on a phone.</p></div>
+        </div>
+        <div class="gstep">
+          <div class="num">4</div>
+          <div><h4>Nail the hook first <span class="chip">2 sec</span></h4>
+          <p>Record the <b>hook line straight to camera</b> with energy before anything else. This first sentence decides whether people keep watching. Do 3–4 takes and keep the punchiest one. No slow intro, no "hey guys" — open on the hook.</p></div>
+        </div>
+        <div class="gstep">
+          <div class="num">5</div>
+          <div><h4>Film the body in short takes <span class="chip">5 min</span></h4>
+          <p>Shoot <b>one script beat per take</b> — glance at the timestamped lines between takes. Fumble a word? Just re-record that beat. Add the demo or personal example where the script says to. Keep your pace fast; dead air kills retention.</p></div>
+        </div>
+        <div class="gstep">
+          <div class="num">6</div>
+          <div><h4>Add captions + the big text <span class="chip">edit</span></h4>
+          <p>In CapCut / Reels editor: <b>auto-caption the whole thing</b> (most watch on mute), then drop the <span class="g">key finding as large text</span> on screen exactly like the reel. Cut the gaps between takes so it's punchy. Optional: a trending low-volume audio underneath.</p></div>
+        </div>
+        <div class="gstep">
+          <div class="num">7</div>
+          <div><h4>Post with the CTA <span class="chip">go live</span></h4>
+          <p>Paste the card's <b>caption + hashtags</b>. End your video and caption with the same move as the reel: <span class="g">"comment 'link' and I'll send it"</span> or "follow for one study a week." Cite the paper in your bio. Post, reply to every comment in the first hour.</p></div>
+        </div>
+      </div>
+    </div>
   </section>
 
   <div class="niche-wrap">
@@ -543,6 +683,9 @@ const FORMATS = [
     tags: ["#science","#sciencetok","#research","#stem","#learnontiktok","#didyouknow"]
   }
 ];
+// Give every curated format a stable id so "Open full script" can find it.
+// (Without this, data-id="" and openDetail() bails — the cards looked dead.)
+FORMATS.forEach((f, i) => { if (!f.id) f.id = `f_${i}`; });
 
 /* ===================== STATE + HELPERS ===================== */
 const $ = (id) => document.getElementById(id);
@@ -861,13 +1004,48 @@ function closeDetail(){
 $("back").addEventListener("click", closeDetail);
 $("sort").addEventListener("change", (e)=>{ state.sort = e.target.value; if(!state.open) renderBrowse(); });
 
+/* Genre chips inside the how-to-film guide — jump to that niche + scroll to the cards */
+function buildGuideGenres(){
+  const host = $("guide-genres");
+  if(!host) return;
+  host.innerHTML = NICHES.filter((n)=>n.key!=="all")
+    .map((n)=>`<button class="gg" data-k="${n.key}"><span class="e">${n.emoji}</span>${n.label}</button>`).join("");
+  host.querySelectorAll(".gg").forEach((el)=>{
+    el.onclick = ()=>{
+      state.niche = el.dataset.k;
+      buildNiches(); renderBrowse(); loadResearch();
+      const t = document.querySelector(".niche-wrap");
+      if(t) t.scrollIntoView({ behavior:"smooth", block:"start" });
+    };
+  });
+}
+
+/* Example clips — click a poster to play with sound; pause the others */
+document.querySelectorAll(".exclip video").forEach((v)=>{
+  v.addEventListener("click", ()=>{
+    if(v.paused){
+      document.querySelectorAll(".exclip video").forEach((o)=>{ if(o!==v){ o.pause(); } });
+      v.muted = false; v.play().catch(()=>{ v.muted = true; v.play(); });
+    } else { v.pause(); }
+  });
+});
+
 buildNiches();
+buildGuideGenres();
 renderBrowse();
 loadResearch();
 
 // topbar scroll progress
 const tb = document.querySelector(".topbar");
 addEventListener("scroll", ()=>{ const h=document.documentElement.scrollHeight-innerHeight; tb.style.transform=`scaleX(${h>0?scrollY/h:0})`; }, { passive:true });
+
+// Instagram reel embed — load script, then ask it to render. Fallback card stays if it can't.
+(function loadInstagramEmbed(){
+  const s = document.createElement("script");
+  s.async = true; s.src = "https://www.instagram.com/embed.js";
+  s.onload = ()=>{ try { window.instgrm && window.instgrm.Embeds.process(); } catch(_){} };
+  document.body.appendChild(s);
+})();
 </script>
 </body>
 </html>
