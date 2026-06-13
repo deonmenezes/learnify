@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-13T16:59:53.125Z",
+  "generated_at": "2026-06-13T18:18:29.523Z",
   "model": "nvidia/nemotron-3-super-120b-a12b",
-  "count": 1534,
+  "count": 1590,
   "items": {
     "1lhf9ld": {
       "ai_summary": "MassMutual is adopting 12‑month AI contracts that deliver roughly 30% productivity gains while avoiding vendor lock‑in, allowing models to be swapped as the market evolves. CIO Sears Merritt says the approach prevents long‑term bets on today’s best models, which may not remain optimal a year later.",
@@ -513,7 +513,8 @@
       "media_url": "https://live.staticflickr.com/2673/4116668236_cc3c02366e_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: Staccabees / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/44689913@N04/4116668236"
+      "media_credit_url": "https://www.flickr.com/photos/44689913@N04/4116668236",
+      "image": "https://www.sciencedaily.com/images/1920/humanoid-artificial-intelligence-robot-confused.webp"
     },
     "5yx8on": {
       "title": "Five things you need to know about AI",
@@ -573,12 +574,20 @@
     "18c65ce": {
       "title": "Scientists discover a hidden quantum world inside cobalt",
       "t": 1781113528581,
-      "image": "https://www.sciencedaily.com/images/1920/crystal-blue-moonstone-labradorite-stone-cobalt.webp"
+      "image": "https://www.sciencedaily.com/images/1920/crystal-blue-moonstone-labradorite-stone-cobalt.webp",
+      "media_url": "https://live.staticflickr.com/6233/6385413439_8120f08e65_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: NASA Goddard Photo and Video / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/24662369@N07/6385413439"
     },
     "18kszgj": {
       "title": "Scientists are seriously asking if bees and ChatGPT are conscious",
       "t": 1781113528606,
-      "image": "https://www.sciencedaily.com/images/1920/extreme-close-up-of-eye.webp"
+      "image": "https://www.sciencedaily.com/images/1920/extreme-close-up-of-eye.webp",
+      "media_url": "https://live.staticflickr.com/4029/4350661032_284391a44f_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: quinn.anya / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/53326337@N00/4350661032"
     },
     "rq4yg5": {
       "title": "Scientists discover a quantum effect that could eliminate batteries",
@@ -1717,12 +1726,13 @@
       "media_credit_url": "https://www.flickr.com/photos/42121221@N07/30495671441"
     },
     "bsky_1bt5ztu": {
+      "ai_summary": "The author stresses they are not an AI researcher and insists that a recent paper focuses solely on large language models, not on broader AI or AI agents. They also reject the claim that chatbots merely repeat user input, saying the metaphor was misapplied.",
       "title": "1. I am not an AI researcher 2. \"Doesn't just repeat back to you what you said\" ... isn't what any chatbots do, nor what that metaphor was about. 3. For the millionth time, that paper was about LLMs,…",
-      "t": 1781123845074,
-      "media_url": "https://live.staticflickr.com/7323/14109847526_28444a91cf_b.jpg",
+      "t": 1781374649640,
+      "media_url": "https://live.staticflickr.com/2932/14130055142_d0f32a1f00_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: JeepersMedia / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/39160147@N03/14109847526"
+      "media_credit_url": "https://www.flickr.com/photos/39160147@N03/14130055142"
     },
     "1h5i7nd": {
       "title": "ServiceNow reveals security issue affecting customer data, but won't reveal much on what actually happened",
@@ -2113,8 +2123,9 @@
       "media_credit_url": "https://www.flickr.com/photos/138077105@N08/23583178426"
     },
     "16gaa0i": {
+      "ai_summary": "The historic Maryknoll Residence in Los Altos, a century‑old South Bay Catholic property, was sold for more than $40 million. The transaction price exceeds the $40 million threshold, highlighting a major sale of the site.",
       "title": "Century-old South Bay Catholic property is bought for $40 million-plus",
-      "t": 1781132087612,
+      "t": 1781374656054,
       "media_url": "https://live.staticflickr.com/3828/9452346719_3b515e3878_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: Nicola since 1972 / BY 2.0 via flickr",
@@ -11060,8 +11071,9 @@
       "media_credit_url": "https://www.flickr.com/photos/158301585@N08/43267970922"
     },
     "e6uihn": {
+      "ai_summary": "CISA has directed U.S. federal agencies to patch a critical VPN vulnerability within three days after it was exploited by a ransomware gang. Check Point warned that attackers have already breached dozens of organizations using the flaw in its VPN solutions deployed across the government.",
       "title": "CISA gives US federal agencies three days to fix a VPN bug under attack by a ransomware gang",
-      "t": 1781309090941,
+      "t": 1781374659229,
       "media_url": "https://live.staticflickr.com/7414/11406986014_b67eef2a2e_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: perspec_photo88 / BY-SA 2.0 via flickr",
@@ -11112,48 +11124,54 @@
       "media_credit_url": "https://www.flickr.com/photos/16638697@N00/716691137"
     },
     "po6cxs": {
+      "ai_summary": "Historically, megacap IPOs tend to see their stocks slump in the first year of trading. However, the upcoming listings of SpaceX, Anthropic, and OpenAI are large enough and systemically important that those past patterns may not hold.",
       "title": "SpaceX, Anthropic, OpenAI can rewrite history for megacap IPOs",
-      "t": 1781309091794,
+      "t": 1781374661293,
       "media_url": "https://live.staticflickr.com/3623/3561445749_15558076bf_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: triberesearch / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/16860458@N02/3561445749"
     },
     "107yyej": {
+      "ai_summary": "SpaceX, Anthropic, and OpenAI are each reportedly preparing for large-scale public offerings, prompting speculation about a new tech elite dubbed MANGOS. This potential shift would replace the long-standing FAANG grouping with a fresh acronym reflecting the next generation of tech giants.",
       "title": "It’s not FAANG anymore. It’s MANGOS.",
-      "t": 1781309092209,
+      "t": 1781374667006,
       "media_url": "https://live.staticflickr.com/5567/14696937320_c76e4b8646_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: theglobalpanorama / BY-SA 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/121483302@N02/14696937320"
     },
     "m4f974": {
+      "ai_summary": "Apple may be nearing a foldable iPhone, as hints appear in the iOS 27 developer beta. The beta contains code that tracks a device's fold state and screen angle.",
       "title": "Apple’s foldable iPhone could be just around the corner",
-      "t": 1781309092440,
+      "t": 1781374664648,
       "media_url": "https://live.staticflickr.com/21/24563731_23aabd0139_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: pixeljones / BY-SA 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/82862615@N00/24563731"
     },
     "uku2z8": {
+      "ai_summary": "Rivian has started deliveries of its R2 SUV. CEO RJ Scaringe said the vehicle may be the most important product the company has launched to date.",
       "title": "Rivian starts deliveries of its all-important R2 SUV",
-      "t": 1781309092486,
+      "t": 1781374661481,
       "media_url": "https://live.staticflickr.com/2848/12693403053_e94ce2def4_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: Alang7™ / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/99610616@N02/12693403053"
     },
     "1lpaxb2": {
+      "ai_summary": "A Trump-era rule that would have added a $100,000 fee to each H-1B visa petition was invalidated by a federal court, which found the charge exceeded statutory authority. Tech companies and universities, which rely on the H-1B program to hire skilled workers and attract top researchers, welcomed the ruling as it preserves their access to the visa stream.",
       "title": "What to know about Trump’s $100,000 fee on H-1B visas and the court decision that struck it down",
-      "t": 1781309092794,
+      "t": 1781374671293,
       "media_url": "https://live.staticflickr.com/4037/5080010428_1f3f462767.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: 666isMONEY ☮ ♥ & ☠ / BY-SA 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/32645377@N06/5080010428"
     },
     "19pmvfm": {
+      "ai_summary": "Apple announced it may start removing apps from the App Store that fail to attract users, labeling them as stale or low‑value. The move aims to improve the store's quality by eliminating underperforming applications.",
       "title": "Apple says it may remove some apps from the App Store if they don’t attract users",
-      "t": 1781309092911,
+      "t": 1781374667918,
       "media_url": "https://live.staticflickr.com/7439/8730762026_a1d49d05d8_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: Danny Choo / BY-SA 2.0 via flickr",
@@ -11327,8 +11345,9 @@
       "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950240"
     },
     "j4cm30": {
+      "ai_summary": "A real estate alliance acquired multiple East Bay work hubs for a combined $63 million. The purchases are part of a broader $1.8 billion real estate transaction.",
       "title": "East Bay buildings bought as part of $1.8 billion real estate deal",
-      "t": 1781327171376,
+      "t": 1781374671156,
       "media_url": "https://live.staticflickr.com/4049/4632435274_e877ab697f_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: Infernal elf / BY 2.0 via flickr",
@@ -12919,7 +12938,8 @@
       "media_url": "https://live.staticflickr.com/2762/4140950690_e8e7fa21f4.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950690"
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950690",
+      "image": "https://repository-images.githubusercontent.com/829640443/56e9b8da-eabc-4dff-bac7-73d459e7880d"
     },
     "y7k8su": {
       "ai_summary": "Some USB ports are purple to indicate they are USB 3.0 ports that support always‑on charging (PowerShare). They are rarely sold in the US because most manufacturers follow the USB‑IF’s standard blue color coding for USB 3.0, making purple ports uncommon in retail.",
@@ -13328,6 +13348,476 @@
       "media_kind": "stock",
       "media_credit": "Photo: infomatique / BY-SA 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/80824546@N00/27398501192"
+    },
+    "yodoxq": {
+      "ai_summary": "Belkin’s new 25W MagSafe battery pack offers 10,000mAh of capacity and includes a built‑in kickstand plus a second MagSafe ring for versatile charging. First shown at CES 2026, the accessory is now available for purchase.",
+      "title": "Hands-on: Belkin’s new 25W MagSafe battery packs 10,000mAh for your iPhone",
+      "t": 1781374616656,
+      "media_url": "https://live.staticflickr.com/149/424710073_18f6701cea_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: melanzane1013 / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/25847577@N00/424710073"
+    },
+    "dlnf3h": {
+      "ai_summary": "Brazil takes on Morocco in the opening fixture of the 2026 FIFA World Cup. Fans can watch the match for free through online streams and on designated TV channels in various regions.",
+      "title": "How to watch Brazil vs Morocco: Free Streams & TV Channels for FIFA World Cup 2026",
+      "t": 1781374620382,
+      "media_url": "https://live.staticflickr.com/4082/4774098318_994da9d5e1_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: DFID - UK Department for International Development / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/14214150@N02/4774098318"
+    },
+    "lwbo7n": {
+      "ai_summary": "Researchers have created a detailed atlas of the pituitary gland by integrating data from numerous studies. This map provides a clearer picture of how the master gland controls growth, stress, and reproduction.",
+      "title": "New atlas reveals more about how the body's 'master gland' really works",
+      "t": 1781374622629,
+      "media_url": "https://live.staticflickr.com/121/301920983_736d05876a_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: euthman / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/78147607@N00/301920983"
+    },
+    "pcgheq": {
+      "ai_summary": "Index funds automatically buy every stock that is part of the index they track. If SpaceX is included in such an index, many investors could own its shares indirectly without realizing it.",
+      "title": "Why you’re likely to be investing in SpaceX, even if you don’t know it",
+      "t": 1781374623303,
+      "media_url": "https://live.staticflickr.com/6029/5929622407_dd7f0033e3_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Images_of_Money / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/59937401@N07/5929622407"
+    },
+    "dvtzao": {
+      "ai_summary": "Verso is a Mac word processor available for a one‑time purchase of $14.99, with no subscription required. It offers standard writing features aimed at users seeking a simple, cost‑free alternative to subscription‑based editors.",
+      "title": "Show HN: Verso – A $14.99 Mac word processor with no subscription",
+      "t": 1781374624898,
+      "image": "https://www.versowriter.app/screenshot-clean-writing.png",
+      "media_url": "https://live.staticflickr.com/2723/4140951044_cebe112a5b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140951044"
+    },
+    "j13srz": {
+      "ai_summary": "The author plans to immediately use three new Android features to reduce stress during summer trips. They note that they rarely get this excited about new features, but these have impressed them.",
+      "title": "I'm putting these 3 new Android features immediately to use to make my summer trips less stressful",
+      "t": 1781374625815,
+      "media_url": "https://live.staticflickr.com/2717/4105883302_2c16b34819.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: krossbow / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/13194817@N00/4105883302"
+    },
+    "vq2kfc": {
+      "ai_summary": "CDC sleuthing is helping to uncover the reasons behind the rise of drug‑resistant infections in the United States. The agency’s research shows that NDM‑producing carbapenem‑resistant Enterobacterales (NDM‑CRE) cases surged by 461% between 2019 and 2023.",
+      "title": "CDC sleuthing helps decipher drug-resistant infection rise",
+      "t": 1781374627401,
+      "media_url": "https://live.staticflickr.com/5180/5390287631_3dfcd79f5d.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: adonofrio (Biology101.org) / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/48784416@N06/5390287631"
+    },
+    "qstwhb": {
+      "ai_summary": "Disclosure Day emphasizes action over original ideas, offering little that feels new or surprising. Nonetheless, the film remains entertaining, bolstered by the reputation of its acclaimed director.",
+      "title": "Review: Disclosure Day is big on action, light on ideas",
+      "t": 1781374629917,
+      "media_url": "https://live.staticflickr.com/7147/6721910825_49d45c46f3_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Sweet Chili Arts / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/74611013@N02/6721910825"
+    },
+    "1j1n7j7": {
+      "ai_summary": "Microsoft is evaluating a spin‑off of its Xbox division after its margins fell to about 3%, weighing options such as making it a wholly owned subsidiary, forming a joint venture, or selling it outright. No decision is imminent, and the new Xbox CEO is part of the ongoing review.",
+      "title": "Microsoft is considering spinning off Xbox entirely as the division’s margins hit 3%",
+      "t": 1781374631994,
+      "media_url": "https://live.staticflickr.com/65535/52018884465_15698b9fd3_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: ACRM-Rehabilitation / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/92423552@N07/52018884465"
+    },
+    "1jw9qx7": {
+      "ai_summary": "Bluesound’s Pulse Cinema Mini delivers high‑quality audio in a compact soundbar, outperforming many small‑footprint models that sacrifice sound. However, its premium price places it in a risky position for buyers seeking value.",
+      "title": "'I really love the way the Cinema Mini sounds': I tested Bluesound's latest small soundbar, and it's the best compact options for audio quality — but the price puts it in dangerous territory",
+      "t": 1781374634252,
+      "media_url": "https://live.staticflickr.com/21/27507034_34b7e94942_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: kteague / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/49503205198@N01/27507034"
+    },
+    "12ptvqq": {
+      "ai_summary": "Samsung provided an early look at the forthcoming Galaxy Watch 9 and Galaxy Watch Ultra 2, revealing upcoming design and feature updates. The company emphasized that its Samsung Health platform will guide the health and wellness capabilities of these new wearables.",
+      "title": "Samsung just gave us a major glimpse of the Galaxy Watch 9 and Ultra 2, and no one's talking about it",
+      "t": 1781374635281,
+      "media_url": "https://live.staticflickr.com/3742/32894777646_8e111114fa_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: garryknight / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/8176740@N05/32894777646"
+    },
+    "1xf4830": {
+      "ai_summary": "Adaptive Security has enlisted comedian Conan O'Brien to star in its new cybersecurity training videos. The videos aim to teach employees how to spot phishing deepfakes and AI‑driven fraud.",
+      "title": "Security firm signs up Conan O'Brien for corporate training videos — will celebrity firepower be enough to keep us focused on safety?",
+      "t": 1781374636997,
+      "media_url": "https://live.staticflickr.com/7417/10470864116_679ae2b367_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: AMISOM Public Information / CC0 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/61765479@N08/10470864116"
+    },
+    "kuuw4d": {
+      "ai_summary": "Researchers used Argonne National Laboratory's supercomputer to map the pion's internal structure with unprecedented detail. Their results appear in the Journal of High Energy Physics.",
+      "title": "Supercomputer illuminates subatomic particle that helps hold matter together",
+      "t": 1781374637226,
+      "media_url": "https://live.staticflickr.com/2822/12657813525_dede981494.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: DonkeyHotey / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/47422005@N04/12657813525"
+    },
+    "ke02ri": {
+      "ai_summary": "Fusion reactors could eventually provide practically limitless energy, but physicists stress that preventing their covert misuse for plutonium production is essential before widespread deployment. Monitoring techniques are being explored to detect any illicit weapons‑related activity in these facilities.",
+      "title": "Fusion reactors could be monitored for covert plutonium production",
+      "t": 1781374638008,
+      "media_url": "https://live.staticflickr.com/65535/50402096131_3fde1f334a_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/50402096131"
+    },
+    "1s7md4e": {
+      "ai_summary": "Apple dropped several hints at WWDC 2026 — including announcements and code discoveries — that point to a forthcoming foldable iPhone Ultra. These clues suggest the device is nearing official release.",
+      "title": "5 WWDC 2026 clues that tell us Apple is about to release a foldable iPhone Ultra",
+      "t": 1781374638713,
+      "media_url": "https://live.staticflickr.com/1047/774093068_1093e2f6b3_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: hyku / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/12734746@N00/774093068"
+    },
+    "qa1fx9": {
+      "ai_summary": "Semiconductor stocks posted their worst weekly performance since 2020, reflecting a broad market sell‑off. The decline was driven by external pressures rather than company‑specific problems.",
+      "title": "Semiconductor stocks just had their worst week since 2020 — but it wasn't all their fault",
+      "t": 1781374643064,
+      "media_url": "https://live.staticflickr.com/3195/2795336383_3716963cc0.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: _Tophee_ / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/64667396@N00/2795336383"
+    },
+    "dntjsy": {
+      "ai_summary": "The Intel 8087 coprocessor incorporated a dedicated binary adder that handled mantissa addition and subtraction for its 80‑bit extended‑precision floating‑point format. This adder was central to the chip’s ability to perform fast floating‑point arithmetic, making the 8087 the first hardware FPU for IBM PC‑compatible systems.",
+      "title": "The adder at the heart of Intel's 8087 floating-point chip",
+      "t": 1781374643102,
+      "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tS4Hid1cJuifabSjXGw6HD9S2HEUb78z-pDf9pGY65SYw2vNE71SO41procsAnaCdZ3joW4WxJh8c54LRI9lrQAondhEZd5JO4UFOtoNEBdEIB9714Lt7rFsAc0xGOklzSNQ971GLD-g=w1200-h630-p-k-no-nu",
+      "media_url": "https://live.staticflickr.com/2663/4140950816_e131180c13.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950816"
+    },
+    "1ih6b5z": {
+      "ai_summary": "Amazon’s CEO held discussions with U.S. government officials about AI safety and competition. Those talks prompted regulators to increase scrutiny and impose restrictions on Anthropic’s AI models.",
+      "title": "Amazon CEO's Talks with U.S. Officials Triggered Crackdown on Anthropic Models",
+      "t": 1781374649756,
+      "media_url": "https://live.staticflickr.com/2571/4140191985_68bbbe9e22.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140191985"
+    },
+    "bf77z": {
+      "ai_summary": "GLM 5.2 has been released. It provides the newest iteration of the OpenGL Mathematics C++ library.",
+      "title": "GLM 5.2 Is Out",
+      "t": 1781374660815,
+      "image": "https://cnl5taoq5on9lswk.public.blob.vercel-storage.com/cluster-share-cards/154ee890-ca35-4d87-87f3-3fac9adbffee/1781374369756.png",
+      "media_url": "https://live.staticflickr.com/3402/4646054291_13d1773717_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: cincodenada06 / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/14506798@N00/4646054291"
+    },
+    "yvbhiy": {
+      "title": "Stephen Colbert’s ‘Americone Dream’ gets new post-late night look",
+      "t": 1781374702743,
+      "media_url": "https://live.staticflickr.com/3653/3611536356_255a22b32d.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Yahoo Inc / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/99527366@N00/3611536356"
+    },
+    "14a7j2z": {
+      "title": "PG&E doubles size of San Jose substation, plans further expansion",
+      "t": 1781374702873,
+      "media_url": "https://live.staticflickr.com/8107/8609631006_e424cfbc1b_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: See-ming Lee (SML) / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/48973657@N00/8609631006"
+    },
+    "arxiv_1e8v0az": {
+      "title": "Re-imagining ISO 26262 in the Age of Autonomous Vehicles: Enhancing Controllability through Transferability and Predictability",
+      "t": 1781374702956,
+      "media_url": "https://live.staticflickr.com/3863/14804224326_f5ceae50a6_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: U.S. Geological Survey / CC0 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/27784370@N05/14804224326"
+    },
+    "b5mndg": {
+      "title": "What to read: A summer book list",
+      "t": 1781374703888,
+      "media_url": "https://live.staticflickr.com/3955/33803012505_bd6ffd8103_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/33803012505"
+    },
+    "1nip5ry": {
+      "title": "Unlocking dependable responses with Gemini Enterprise Agent Platform’s Agentic RAG",
+      "t": 1781374703974,
+      "media_url": "https://live.staticflickr.com/2902/14740342074_1e5dbdc347_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: OnePoint Services / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/78830297@N05/14740342074"
+    },
+    "1q0wb6c": {
+      "title": "Founders Fund launches game show starring Sam Altman, Palmer Luckey, and other tech elites",
+      "t": 1781374704355,
+      "media_url": "https://live.staticflickr.com/2845/11040932733_fc23114b47_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: RedCarpetReport / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/47170787@N05/11040932733"
+    },
+    "2aip3l": {
+      "title": "Mira Murati steps back into the spotlight, carefully",
+      "t": 1781374704367,
+      "media_url": "https://live.staticflickr.com/5806/30466646812_ef581bf8de_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: ITU Pictures / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/42121221@N07/30466646812"
+    },
+    "1efi72d": {
+      "title": "How much money did Super Bowl LX pump into the Bay Area economy?",
+      "t": 1781374704389,
+      "media_url": "https://live.staticflickr.com/5195/5857581720_6882e1f38c_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Images_of_Money / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/59937401@N07/5857581720"
+    },
+    "1fy8jae": {
+      "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+      "t": 1781374704777,
+      "media_url": "https://live.staticflickr.com/65535/51917430076_f988efa3bd_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Wendelin Jacober / CC0 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/91619724@N04/51917430076"
+    },
+    "su7t0k": {
+      "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+      "t": 1781374704842,
+      "media_url": "https://live.staticflickr.com/65535/51917430076_f988efa3bd_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Wendelin Jacober / CC0 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/91619724@N04/51917430076"
+    },
+    "1te6c5y": {
+      "title": "Amazon data center rises in Gilroy. Residents say they were left in the dark",
+      "t": 1781374704851,
+      "media_url": "https://live.staticflickr.com/3747/10575730154_4aa9213c2f_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Janitors / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/65265630@N03/10575730154"
+    },
+    "11pbr0d": {
+      "title": "Filtr is a new privacy tool that blocks ads in almost every iPhone and Mac app",
+      "t": 1781374705166,
+      "media_url": "https://live.staticflickr.com/5140/5428495287_68463a85ec_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: followtheseinstructions / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/58481558@N05/5428495287"
+    },
+    "vvkg95": {
+      "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+      "t": 1781374705523,
+      "media_url": "https://live.staticflickr.com/7422/12369089904_166e8573d5_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/12369089904"
+    },
+    "1ct5au5": {
+      "title": "Startup Battlefield is returning to Australia — here’s what happened the last time we came to Sydney",
+      "t": 1781374705602,
+      "media_url": "https://live.staticflickr.com/65535/52438098109_38494e1a01_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: TechCrunch / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/52522100@N07/52438098109"
+    },
+    "1rrfb27": {
+      "title": "Google sells several Redwood City office buildings",
+      "t": 1781374705765,
+      "media_url": "https://live.staticflickr.com/8881/17154454298_7b0c5e4b51_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Jonathan Rolande / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/110671496@N06/17154454298"
+    },
+    "qe0yae": {
+      "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
+      "t": 1781374705988,
+      "media_url": "https://live.staticflickr.com/65535/51918050245_2ac4e700b0_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Wendelin Jacober / CC0 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/91619724@N04/51918050245"
+    },
+    "1yymwvi": {
+      "title": "Meta steals a tactic from Tesla and builds data centers in tents",
+      "t": 1781374706068,
+      "media_url": "https://live.staticflickr.com/5672/29949919183_74ebb78def_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: ITU Pictures / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/42121221@N07/29949919183"
+    },
+    "84m534": {
+      "title": "Livermore’s happening downtown: Wine country chic and small-town charm",
+      "t": 1781374706450,
+      "media_url": "https://live.staticflickr.com/2216/2060325146_c197e2b055_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: kevin dooley / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/12836528@N00/2060325146"
+    },
+    "k7yb9": {
+      "title": "Towards passive heart health monitoring via smartphone camera",
+      "t": 1781374706519,
+      "media_url": "https://live.staticflickr.com/2825/33227271313_1f888a6319_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: JasonParis / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/94064020@N00/33227271313"
+    },
+    "h54xmf": {
+      "title": "Are Californians ready to give up their cars? A San Jose apartment tower put that to the test",
+      "t": 1781374706889,
+      "media_url": "https://live.staticflickr.com/3823/10071241123_52f47a7d39_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Sean MacEntee / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/18090920@N07/10071241123"
+    },
+    "1rxefsh": {
+      "title": "Wagyu beef rancher, environmentalist asks $35 million for sprawling Wine Country estate",
+      "t": 1781374706978,
+      "media_url": "https://live.staticflickr.com/4081/4734585685_5834810862_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: avlxyz / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/10559879@N00/4734585685"
+    },
+    "150hoyf": {
+      "title": "Sam Altman says he doesn’t plan to put money into 2026 elections",
+      "t": 1781374707028,
+      "media_url": "https://live.staticflickr.com/3800/10153714035_751c64e948.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: JustABoy / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/39298920@N00/10153714035"
+    },
+    "1tvz0x7": {
+      "title": "Helion, the Sam Altman-backed fusion startup, raises $465M to build a power plant for Microsoft",
+      "t": 1781374707057,
+      "media_url": "https://live.staticflickr.com/734/23583178426_e2ef38a2bb_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: COPPARIS2015 / CC0 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/138077105@N08/23583178426"
+    },
+    "2y2r6m": {
+      "title": "Netflix aims to use AI to help viewers manage content overload",
+      "t": 1781374707228,
+      "media_url": "https://live.staticflickr.com/3823/10071241123_52f47a7d39_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Sean MacEntee / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/18090920@N07/10071241123"
+    },
+    "haup67": {
+      "title": "Meta rolls out a new AI creator assistant on Facebook",
+      "t": 1781374707492,
+      "media_url": "https://live.staticflickr.com/5567/14696937320_c76e4b8646_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: theglobalpanorama / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/121483302@N02/14696937320"
+    },
+    "1mklaq9": {
+      "title": "SpaceX IPO sells rocket business hype in 17-minute video pitch",
+      "t": 1781374707635,
+      "media_url": "https://live.staticflickr.com/3800/10153714035_751c64e948.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: JustABoy / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/39298920@N00/10153714035"
+    },
+    "ggjcut": {
+      "title": "Broadcom slides by most in more than a year on AI outlook miss",
+      "t": 1781374707902,
+      "media_url": "https://live.staticflickr.com/5743/21666276190_40647d8327_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: christophe.benoit74 / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/134859971@N02/21666276190"
+    },
+    "hytbb1": {
+      "title": "LinkedIn China spying threat prompts warning from US, allies",
+      "t": 1781374708022,
+      "media_url": "https://live.staticflickr.com/4514/37199008984_0b93618a69_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: AndreyFilippov.com / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/147731466@N03/37199008984"
+    },
+    "1kyzf9k": {
+      "title": "Meta’s Oversight Board says account bans lack due process, transparency",
+      "t": 1781374708037,
+      "media_url": "https://live.staticflickr.com/3851/14622138911_5c5edc89af_m.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: socialautomotive / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/126052185@N03/14622138911"
+    },
+    "4ozfbf": {
+      "title": "A burglar used a Waymo to steal yoga clothes in San Francisco — and got away with it",
+      "t": 1781374708106,
+      "media_url": "https://live.staticflickr.com/8114/8657120528_e88bbb1cc5_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Bernard Spragg / CC0 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/88123769@N02/8657120528"
+    },
+    "1c1rn2u": {
+      "title": "Waymo’s spent robotaxi batteries will be used as grid storage",
+      "t": 1781374708470,
+      "media_url": "https://live.staticflickr.com/5261/5797061470_2d1c1d9439_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Louis K. / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/49644719@N06/5797061470"
+    },
+    "fpfefs": {
+      "title": "Cash App launches a wand for tap-and-pay",
+      "t": 1781374708515,
+      "media_url": "https://live.staticflickr.com/8209/8170094533_2e12f7c26c_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: NASA Goddard Photo and Video / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/24662369@N07/8170094533"
+    },
+    "npeyf4": {
+      "title": "US jobless claims rose in holiday week to most since february",
+      "t": 1781374708618,
+      "media_url": "https://live.staticflickr.com/4199/34666276201_50fc312022_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: kevin dooley / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/12836528@N00/34666276201"
+    },
+    "q0bosz": {
+      "title": "Tesla settles some Bay Area worker’s racism claims as bigger trial looms",
+      "t": 1781374708947,
+      "media_url": "https://live.staticflickr.com/1096/5136928274_243b576cc7.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Sean MacEntee / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/18090920@N07/5136928274"
+    },
+    "16ouioy": {
+      "title": "Bay Area lodging woes persist as San Jose hotel suffers loan failure",
+      "t": 1781374708981,
+      "media_url": "https://live.staticflickr.com/5053/5508628138_e01c62b561_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Alan Stanton / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/53921762@N00/5508628138"
+    },
+    "1e9giw6": {
+      "title": "Is Silicon Valley ready to put robots in people’s homes? Hello Robot is.",
+      "t": 1781374709512,
+      "media_url": "https://live.staticflickr.com/7826/33560342308_536fc86f2b_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Ministerie van Buitenlandse Zaken / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/78392295@N06/33560342308"
+    },
+    "1ot9v7c": {
+      "title": "Ramp raises $750M at $44B valuation as investors hunger for fintechs with an AI story",
+      "t": 1781374709521,
+      "media_url": "https://live.staticflickr.com/8823/17526423146_0a459c30df_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: startup_mena / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/123943225@N07/17526423146"
     }
   }
 }
