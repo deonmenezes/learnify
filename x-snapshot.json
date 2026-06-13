@@ -1,8 +1,9 @@
 {
-  "generated_at": "2026-06-13T08:41:22.626Z",
+  "generated_at": "2026-06-13T11:21:55.837Z",
   "handles": [
     "nvidia",
     "GoogleDeepMind",
+    "NVIDIAAI",
     "OpenAI",
     "AnthropicAI",
     "demishassabis",
@@ -34,7 +35,7 @@
       "summary": "The first agentic AI infrastructure benchmark is here. An AI agent chains dozens to hundreds of AI model calls together, using tools, gathering context, and iterating until the task is done. Existing benchmarks weren't designed for that. AgentPerf from @ArtificialAnlys gives",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 89,
+      "worthiness_score": 91,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -42,12 +43,12 @@
         "tech substance (model, agent, benchmark)"
       ],
       "metrics": {
-        "likes": 218,
-        "retweets": 30,
-        "replies": 26,
-        "likes_h": "218"
+        "likes": 407,
+        "retweets": 56,
+        "replies": 47,
+        "likes_h": "407"
       },
-      "engagement": 304,
+      "engagement": 566,
       "hot": false
     },
     {
@@ -83,15 +84,15 @@
         "casual tone (congratulations)",
         "announcement language (debut)",
         "business signal (ipo, partnership, ipo)",
-        "high engagement (7.7K likes)"
+        "high engagement (15.7K likes)"
       ],
       "metrics": {
-        "likes": 7718,
-        "retweets": 634,
-        "replies": 213,
-        "likes_h": "7.7K"
+        "likes": 15722,
+        "retweets": 1313,
+        "replies": 407,
+        "likes_h": "15.7K"
       },
-      "engagement": 9199,
+      "engagement": 18755,
       "hot": true
     },
     {
@@ -118,7 +119,7 @@
       "summary": "Looking back at these clips from GTC Taipei and reminiscing on what an incredible week it was. There’s nothing quite like the buzz of the tech community coming together in person. From the packed keynote hall and cutting-edge robotics to the fun local activations (and yes, those",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 61,
+      "worthiness_score": 62,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -127,12 +128,12 @@
         "tech substance (robotics)"
       ],
       "metrics": {
-        "likes": 158,
-        "retweets": 28,
-        "replies": 16,
-        "likes_h": "158"
+        "likes": 230,
+        "retweets": 34,
+        "replies": 21,
+        "likes_h": "230"
       },
-      "engagement": 230,
+      "engagement": 319,
       "hot": false
     },
     {
@@ -159,7 +160,7 @@
       "summary": "What if compliance wasn't the reason your AI initiative never made it past the pilot stage? 🔒 NVIDIA AI Enterprise's government-ready software gives teams around the world a secure, production-ready foundation — so they can focus on deploying AI, not managing vulnerabilities.",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 77,
+      "worthiness_score": 78,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -167,12 +168,12 @@
         "business signal (enterprise)"
       ],
       "metrics": {
-        "likes": 153,
-        "retweets": 20,
-        "replies": 19,
-        "likes_h": "153"
+        "likes": 185,
+        "retweets": 28,
+        "replies": 22,
+        "likes_h": "185"
       },
-      "engagement": 212,
+      "engagement": 263,
       "hot": false
     },
     {
@@ -209,12 +210,12 @@
         "tech substance (models, gemini, robotics)"
       ],
       "metrics": {
-        "likes": 298,
-        "retweets": 42,
-        "replies": 37,
-        "likes_h": "298"
+        "likes": 362,
+        "retweets": 49,
+        "replies": 42,
+        "likes_h": "362"
       },
-      "engagement": 419,
+      "engagement": 502,
       "hot": false
     },
     {
@@ -290,12 +291,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 152,
-        "retweets": 13,
+        "likes": 161,
+        "retweets": 15,
         "replies": 13,
-        "likes_h": "152"
+        "likes_h": "161"
       },
-      "engagement": 191,
+      "engagement": 204,
       "hot": false
     },
     {
@@ -329,12 +330,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 156,
-        "retweets": 15,
+        "likes": 163,
+        "retweets": 16,
         "replies": 19,
-        "likes_h": "156"
+        "likes_h": "163"
       },
-      "engagement": 205,
+      "engagement": 214,
       "hot": false
     },
     {
@@ -406,15 +407,15 @@
       "sentiment_score": 0.5,
       "reasons": [
         "report-worthy",
-        "high engagement (3.1K likes)"
+        "high engagement (3.2K likes)"
       ],
       "metrics": {
-        "likes": 3146,
-        "retweets": 343,
-        "replies": 101,
-        "likes_h": "3.1K"
+        "likes": 3198,
+        "retweets": 352,
+        "replies": 105,
+        "likes_h": "3.2K"
       },
-      "engagement": 3933,
+      "engagement": 4007,
       "hot": true
     },
     {
@@ -494,12 +495,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 453,
-        "retweets": 91,
-        "replies": 83,
-        "likes_h": "453"
+        "likes": 462,
+        "retweets": 92,
+        "replies": 84,
+        "likes_h": "462"
       },
-      "engagement": 718,
+      "engagement": 730,
       "hot": false
     },
     {
@@ -991,12 +992,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 2344,
-        "retweets": 256,
-        "replies": 108,
+        "likes": 2346,
+        "retweets": 257,
+        "replies": 109,
         "likes_h": "2.3K"
       },
-      "engagement": 2964,
+      "engagement": 2969,
       "hot": false
     },
     {
@@ -1247,7 +1248,7 @@
         "likes_h": "2.4K"
       },
       "engagement": 3020,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2064056027947934209",
