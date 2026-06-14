@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T10:35:40.896Z",
-  "count": 142,
+  "generated_at": "2026-06-14T12:30:51.060Z",
+  "count": 146,
   "papers": {
     "oa_vfyp9y": {
       "headline": "A New Way to Pick the Best Model for Unsupervised Domain Adaptation",
@@ -995,6 +995,34 @@
       "visual": "a developer pointing at lines of smart‑contract code on a laptop screen while a blockchain icon glows in the background",
       "cover": "/paper-covers/arxiv_2jfn9d.jpg",
       "enriched_at": "2026-06-14T10:35:11.946Z"
+    },
+    "arxiv_1c0t24u": {
+      "headline": "Chat2Code Lets You Talk To Build Smart Contracts",
+      "hook": "Researchers built a chatbot that lets users describe smart‑contract features in everyday language and instantly produces executable code. This approach removes the need to learn specialized modeling tools, opening blockchain development to non‑programmers. Early tests show the generated contracts are correct and can be deployed directly.",
+      "visual": "a person typing a chat message on a laptop while a holographic smart contract code appears on the screen",
+      "cover": "/paper-covers/arxiv_1c0t24u.jpg",
+      "enriched_at": "2026-06-14T12:28:34.398Z"
+    },
+    "arxiv_1eriwpb": {
+      "headline": "New Tool Automates Safety Controller Design for Collaborative Robots",
+      "hook": "Researchers built a software tool that automatically creates and checks the safety programs that tell collaborative robots when to stop to protect nearby workers. By verifying these controllers before they run, the approach helps prevent accidents on factory floors where humans and robots share tasks. The result is a faster, more reliable way to keep human‑robot teamwork safe without manual coding.",
+      "visual": "a collaborative robot arm pausing mid‑motion as a human hand reaches toward a shared workpiece",
+      "cover": "/paper-covers/arxiv_1eriwpb.jpg",
+      "enriched_at": "2026-06-14T12:28:34.537Z"
+    },
+    "arxiv_zqdc0y": {
+      "headline": "Evidential Softmax Creates Sparse, Multimodal Generative Outputs",
+      "hook": "Researchers designed a tweak to the usual softmax function so that the model’s output probabilities are mostly zero except for a few distinct peaks, making it easier to compute exact sums over many possibilities. This sparsity lets generative models represent multiple plausible outcomes at once without blowing up computation. The result is a more efficient way to capture complex, uncertain data like images or scenes that could look several different ways.",
+      "visual": "three bright clusters of points floating in a dark space",
+      "cover": "/paper-covers/arxiv_zqdc0y.jpg",
+      "enriched_at": "2026-06-14T12:28:36.668Z"
+    },
+    "arxiv_1gh2ogy": {
+      "headline": "Turning Unstable Data Features Into Reliable Classifiers",
+      "hook": "Researchers took the noisy, task‑specific signals that usually mislead AI and re‑used them from related problems to uncover the truly causal patterns. By sharing these “unstable” features across tasks, the algorithm learns to ignore spurious correlations and focus on what really matters, making predictions that hold up even when the data shifts. The result is a classifier that stays fair and accurate where ordinary models would fail.",
+      "visual": "a handful of glittering, shifting confetti pieces being guided into a stable, glowing mosaic",
+      "cover": "/paper-covers/arxiv_1gh2ogy.jpg",
+      "enriched_at": "2026-06-14T12:30:41.642Z"
     }
   }
 }
