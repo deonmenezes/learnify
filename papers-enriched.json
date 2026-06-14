@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T01:56:33.221Z",
-  "count": 94,
+  "generated_at": "2026-06-14T06:51:56.205Z",
+  "count": 118,
   "papers": {
     "oa_vfyp9y": {
       "headline": "A New Way to Pick the Best Model for Unsupervised Domain Adaptation",
@@ -659,6 +659,174 @@
       "visual": "a deep-field infrared image packed with countless faint galaxies",
       "cover": "/paper-covers/oa_184shlb.jpg",
       "enriched_at": "2026-06-13T00:05:20.982Z"
+    },
+    "oa_nof7hj": {
+      "headline": "Large Language Models Threaten Online Survey Trustworthiness",
+      "hook": "Researchers built an AI agent that can fill out surveys with answers indistinguishable from those of real people. When mixed into real data sets, these synthetic responses can skew results and lead to false conclusions. The finding suggests we may need new ways to verify that survey answers come from humans.",
+      "visual": "a laptop screen showing a survey questionnaire with AI-generated answers highlighted in neon",
+      "cover": "/paper-covers/oa_nof7hj.jpg",
+      "enriched_at": "2026-06-14T06:47:55.697Z"
+    },
+    "oa_1oxobix": {
+      "headline": "How Epigenetic Drugs Reset Cancer Cells and Boost Immunity",
+      "hook": "Researchers surveyed the latest epigenetic therapies—drugs that tweak DNA methylation, histone acetylation, and chromatin readers—to see how they can reprogram tumor cells. They found these agents not only silence cancer‑driving genes but also make tumors more visible to the immune system, turning cold cancers hot. The review highlights clinical trials where combining epigenetic drugs with immunotherapy improved patient outcomes.",
+      "visual": "a cancer cell nucleus with fluorescent markers showing DNA methylation patterns fading as a drug molecule binds",
+      "cover": "/paper-covers/oa_1oxobix.jpg",
+      "enriched_at": "2026-06-14T06:47:58.994Z"
+    },
+    "oa_1nxda73": {
+      "headline": "AI Models Predict Climate‑Linked Disease Outbreaks to Boost Global",
+      "hook": "Researchers reviewed dozens of studies where machine‑learning models were trained on temperature, rainfall, and satellite data to anticipate where diseases like malaria or dengue might flare up. The review shows these AI tools can spot outbreak risks weeks earlier than traditional methods, giving health agencies more time to prepare. By linking climate trends with disease patterns, the work points to a smarter way to protect vulnerable communities worldwide.",
+      "visual": "a world map speckled with glowing red dots indicating AI‑forecasted infectious disease hotspots",
+      "cover": "/paper-covers/oa_1nxda73.jpg",
+      "enriched_at": "2026-06-14T06:48:01.822Z"
+    },
+    "oa_1oipwb5": {
+      "headline": "Global Study Finds Low Nutrient Use Efficiency In Major Crops",
+      "hook": "Researchers gathered data from thousands of farms worldwide to measure how efficiently crops use nitrogen and phosphorus fertilizers. They found that, across most regions, the efficiency is low, meaning much of the applied fertilizer is wasted and can harm the environment. Improving this could cut costs for farmers and reduce pollution.",
+      "visual": "a close-up of a corn field with visible fertilizer granules scattered on the soil",
+      "cover": "/paper-covers/oa_1oipwb5.jpg",
+      "enriched_at": "2026-06-14T06:48:06.101Z"
+    },
+    "oa_sv72ra": {
+      "headline": "International Guideline Revises Definition and Management of Urticaria",
+      "hook": "Researchers reviewed the latest evidence and used Cochrane and GRADE methods to update the global guideline for urticaria. The revised guideline clarifies how to classify the condition, diagnose it accurately, and choose effective treatments ranging from antihistamines to biologics. By standardizing care worldwide, it aims to reduce the burden of chronic hives for millions of patients.",
+      "visual": "a close-up of red, raised hives on a person's forearm",
+      "cover": "/paper-covers/oa_sv72ra.jpg",
+      "enriched_at": "2026-06-14T06:48:17.195Z"
+    },
+    "oa_1rlxkms": {
+      "headline": "Nanoencapsulation Improves Nutrient Stability and Absorption",
+      "hook": "Researchers wrapped vitamins and other health‑boosting compounds in tiny nanoscale shells to keep them from breaking down during storage and digestion. This nano‑coating lets the nutrients survive longer in food and be taken up more efficiently by the body, turning everyday snacks into functional boosters.",
+      "visual": "a translucent nanocapsule releasing shimmering nutrient particles into a glass of smoothie",
+      "cover": "/paper-covers/oa_1rlxkms.jpg",
+      "enriched_at": "2026-06-14T06:48:19.853Z"
+    },
+    "oa_euaf6n": {
+      "headline": "A New Variational Principle for Micro‑Electro‑Mechanical Systems",
+      "hook": "Researchers used a mathematical trick called the semi‑inverse method to derive a least‑action principle that governs how tiny MEMS devices move. This principle lets engineers predict and optimize the behavior of sensors, actuators, and switches at the microscale, potentially making them faster and more reliable. The approach could streamline design cycles for everything from smartphone accelerometers to lab‑on‑a‑chip sensors.",
+      "visual": "a silicon micro‑cantilever bending under an electrostatic voltage",
+      "cover": "/paper-covers/oa_euaf6n.jpg",
+      "enriched_at": "2026-06-14T06:48:28.563Z"
+    },
+    "oa_1et2nu8": {
+      "headline": "How AI Is Redefining Chemical Safety and Risk Assessment",
+      "hook": "Researchers are training AI systems to predict whether a chemical will be toxic by analyzing its structure and biological effects. This approach can flag dangers faster than traditional lab tests, potentially reducing the need for animal experiments and speeding up safety reviews.",
+      "visual": "a laptop screen showing a 3D molecular model beside a row of test tubes with colored liquids",
+      "cover": "/paper-covers/oa_1et2nu8.jpg",
+      "enriched_at": "2026-06-14T06:48:37.257Z"
+    },
+    "oa_lwexif": {
+      "headline": "How Diet and Lifestyle Can Slow Immune Aging and Chronic Inflammation",
+      "hook": "Researchers looked at how the immune system changes as we get older, making it harder to fight infections and causing a steady, low‑level inflammation. They reviewed studies showing that specific diets, regular movement, good sleep, and stress‑reduction can counteract these shifts. The upshot: simple lifestyle tweaks may help preserve a youthful immune response and lower the chance of age‑related illnesses.",
+      "visual": "a vibrant salad bowl filled with leafy greens, berries, nuts, and olive oil placed next to a pair of sneakers on a wooden table",
+      "cover": "/paper-covers/oa_lwexif.jpg",
+      "enriched_at": "2026-06-14T06:48:43.292Z"
+    },
+    "oa_mmjktp": {
+      "headline": "ERF Transcription Factors Balance Plant Growth and Stress Defense",
+      "hook": "Plants constantly juggle growing new leaves and defending against drought, heat, or pathogens. ERF transcription factors act as molecular switches that read ethylene and stress signals, turning on the right genes for growth or defense at the right time. By tweaking these switches, scientists hope to engineer crops that stay productive even under harsh conditions.",
+      "visual": "a soybean plant with half its leaves illuminated in green for growth and the other half illuminated in orange for stress defense",
+      "cover": "/paper-covers/oa_mmjktp.jpg",
+      "enriched_at": "2026-06-14T06:48:49.361Z"
+    },
+    "oa_vtzid0": {
+      "headline": "Europe Aims To Sequence Genomes Of Every Butterfly And Moth Species",
+      "hook": "Researchers across Europe are teaming up to decode the full DNA blueprint of every butterfly and moth on the continent. By building a shared network of labs and using the same sampling methods, they hope to finish complete DNA maps of each species’ chromosomes for all ~11,000 species. The data could reveal how these insects evolve, adapt to climate change, and inspire new conservation strategies.",
+      "visual": "a European peacock butterfly with its wings open on a green leaf",
+      "cover": "/paper-covers/oa_vtzid0.jpg",
+      "enriched_at": "2026-06-14T06:48:50.769Z"
+    },
+    "oa_19r861c": {
+      "headline": "Why Nanotech Stalls: Hidden Barriers Keeping It From Everyday Use",
+      "hook": "Researchers surveyed leading tech firms and found that most avoid investing in nanomaterials because of scaling doubts and unclear market demand. They argue that without stronger industry‑academic partnerships and clearer safety standards, lab breakthroughs stay stuck in journals. The result is a gap where promising nano‑enabled products never reach consumers.",
+      "visual": "a close‑up of a smartphone screen showing an iridescent nanostructured coating",
+      "cover": "/paper-covers/oa_19r861c.jpg",
+      "enriched_at": "2026-06-14T06:49:03.229Z"
+    },
+    "oa_2myepk": {
+      "headline": "Solar-Powered EV Chargers: A Global Feasibility Review",
+      "hook": "Researchers reviewed almost 100 studies from around the world to gauge how well solar panels can power electric‑vehicle charging stations. They found that in many sunny regions the cost of building and running these stations is already competitive with grid‑powered chargers, and adding storage can make them viable even where sunlight is intermittent. The review highlights where the technology works best today and what policies or innovations could expand its use globally.",
+      "visual": "a solar canopy covered with photovoltaic panels shading a row of electric cars plugged into charging stations",
+      "cover": "/paper-covers/oa_2myepk.jpg",
+      "enriched_at": "2026-06-14T06:49:13.599Z"
+    },
+    "oa_1nzoz1v": {
+      "headline": "How AI Is Shaping The Future Of Quantum Computing",
+      "hook": "Researchers surveyed recent AI techniques that help design, optimize, and error‑correct quantum circuits, showing how machine learning models can predict noise and suggest better gate sequences. This cross‑disciplinary work could make today’s noisy quantum processors far more reliable and useful for real‑world problems.",
+      "visual": "a gleaming quantum processor chip mounted on a dilution refrigerator, with translucent neural network layers hovering above it",
+      "cover": "/paper-covers/oa_1nzoz1v.jpg",
+      "enriched_at": "2026-06-14T06:49:13.989Z"
+    },
+    "oa_51fggo": {
+      "headline": "How Brain, Heart, and Gut Talk to Keep Your Body in Balance",
+      "hook": "Researchers reviewed dozens of studies showing how signals from the brain influence heart rhythms, how gut microbes affect mood, and how the heart’s hormones can shape brain function. This constant chatter helps the body stay steady when we eat, exercise, or face stress. Understanding these links could lead to new treatments for conditions ranging from depression to heart disease.",
+      "visual": "a human torso with the brain, heart, and gut highlighted and connected by pulsing light fibers",
+      "cover": "/paper-covers/oa_51fggo.jpg",
+      "enriched_at": "2026-06-14T06:49:16.232Z"
+    },
+    "oa_1tn7s63": {
+      "headline": "Primordial Black Holes May Hide in Early Universe's 21‑cm Signal",
+      "hook": "Researchers modeled how messy astrophysics, like star formation and gas heating, can blur the 21-cm fingerprint of primordial black holes. They found that these uncertainties could hide or fake the signal, weakening what we thought were strong limits on exotic physics. The result reminds us that decoding the early universe's whisper requires untangling ordinary cosmic noise first.",
+      "visual": "the SKA radio telescope array under a night sky dotted with faint red hydrogen clouds",
+      "cover": "/paper-covers/oa_1tn7s63.jpg",
+      "enriched_at": "2026-06-14T06:49:30.605Z"
+    },
+    "oa_uv9xsm": {
+      "headline": "Review Shows How Radio Sky Shifts from Stellar Flares to Cosmic Bursts",
+      "hook": "Astronomers have compiled a comprehensive review of all the radio sources that flicker, flare, or burst across the sky. By linking everything from nearby stellar outbursts to distant gamma‑ray bursts, the work shows how the radio universe is far more active than we thought. This new perspective lets scientists hunt for exotic events and test fundamental physics in real time.",
+      "visual": "a radio telescope dish capturing a burst of radio waves from a flaring star",
+      "cover": "/paper-covers/oa_uv9xsm.jpg",
+      "enriched_at": "2026-06-14T06:49:37.473Z"
+    },
+    "oa_1ra7a71": {
+      "headline": "How Cepheid Metallicity Shifts the Cosmic Distance Ladder",
+      "hook": "Researchers measured the metal content of hundreds of Cepheid variable stars to see if their composition changes the link between how fast they pulse and how bright they are. They found that even modest variations in metallicity can shift the inferred brightness, which would tweak distances to nearby galaxies and affect the Hubble constant. Understanding this effect helps sharpen the first rung of the distance ladder and improves our map of the expanding universe.",
+      "visual": "a bright yellow Cepheid star surrounded by faint spiral galaxies",
+      "cover": "/paper-covers/oa_1ra7a71.jpg",
+      "enriched_at": "2026-06-14T06:49:42.633Z"
+    },
+    "oa_13p57pz": {
+      "headline": "Cyclic Cosmology Solves Life’s Fast Origin Puzzle",
+      "hook": "Researchers propose that the universe’s repeating cycles imprint a conformally invariant topological code onto early chemistry, guiding molecules toward life‑friendly shapes. This mechanism could explain why life appeared quickly and shares universal traits like homochirality, without relying on astronomically unlikely random searches. The idea links cosmic dynamics to the origin of life in a single, testable framework.",
+      "visual": "a bouncing universe diagram with a glowing prebiotic soup at its center",
+      "cover": "/paper-covers/oa_13p57pz.jpg",
+      "enriched_at": "2026-06-14T06:49:46.621Z"
+    },
+    "oa_13tlh8c": {
+      "headline": "Nano‑Structured Electrodes Across Dimensions Boost Supercapacitor Power",
+      "hook": "The review looks at how building supercapacitor electrodes from tiny particles, wires, sheets, and 3D nano‑frameworks changes their ability to store and release charge. By comparing the surface area, pore layout, and mechanical flexibility of these different dimensional designs, the authors pinpoint which shapes give the highest power bursts for devices like smartphones and electric cars. The takeaway is simple: choosing the right nano‑shape can turn an ordinary capacitor into a fast‑charging, high‑energy buffer.",
+      "visual": "a scanning electron microscope image showing a tangled forest of nanowires interwoven with nanosheets forming a porous 3D electrode",
+      "cover": "/paper-covers/oa_13tlh8c.jpg",
+      "enriched_at": "2026-06-14T06:50:14.351Z"
+    },
+    "arxiv_gtmfho": {
+      "headline": "Vancomycin‑Loaded Silicate Microspheres Tune Drug Release for Better",
+      "hook": "Researchers created magnesium‑calcium silicate microspheres riddled with tiny pores and loaded them with vancomycin hydrochloride. By measuring how fast the ceramic matrix dissolves versus how quickly the antibiotic leaks out, they identified a sweet spot where the material supports cell growth while keeping bacteria at bay. This balance could make bone‑void fillers that both heal and fight infection.",
+      "visual": "a porous white microsphere with visible red vancomycin crystals scattered inside its pores",
+      "cover": "/paper-covers/arxiv_gtmfho.jpg",
+      "enriched_at": "2026-06-14T06:50:15.287Z"
+    },
+    "arxiv_gz1i8y": {
+      "headline": "Chitosan‑Alginate Scaffolds With Silica Nanoparticles Heal Bone Defects",
+      "hook": "Researchers combined chitosan and alginate, two biocompatible polymers, with tiny silica particles full of small holes to create a sponge-like scaffold. The material mimics natural bone, encourages stem cells to grow, and releases helpful ions that speed up healing. In lab tests, it supported new bone formation better than the polymers alone, offering a promising path for repairing jaw and skull defects.",
+      "visual": "a porous chitosan‑alginate scaffold speckled with tiny silica nanoparticles",
+      "cover": "/paper-covers/arxiv_gz1i8y.jpg",
+      "enriched_at": "2026-06-14T06:50:16.436Z"
+    },
+    "arxiv_he3npn": {
+      "headline": "Plga Coating Boosts Scaffold Strength and Cell Support",
+      "hook": "Researchers dipped tissue-engineered scaffolds in a PLGA solution to create a thin, biodegradable coating. The coated scaffolds became stiffer and held onto cells better, letting the cells spread and multiply more effectively. This simple tweak could make regenerative implants work faster and last longer.",
+      "visual": "a tissue engineering scaffold coated in a glossy PLGA layer with fibroblasts spreading across its porous surface",
+      "cover": "/paper-covers/arxiv_he3npn.jpg",
+      "enriched_at": "2026-06-14T06:50:34.465Z"
+    },
+    "arxiv_gtmga5": {
+      "headline": "Antibiotic-Loaded Bone Scaffold Coated with Biodegradable Polymer",
+      "hook": "Researchers created a sponge‑like scaffold from a magnesium‑calcium silicate ceramic, loaded it with the antibiotic vancomycin, and then wrapped the entire structure in a thin, biodegradable polymer coating. This dual‑function design provides a framework for new bone to grow while steadily releasing the drug to ward off infection. In laboratory tests, the scaffold kept its strength and released antibiotic over several weeks, showing promise for safer bone grafts.",
+      "visual": "a porous white ceramic scaffold coated with a clear polymer film, with visible antibiotic crystals inside its pores",
+      "cover": "/paper-covers/arxiv_gtmga5.jpg",
+      "enriched_at": "2026-06-14T06:51:26.734Z"
     }
   }
 }
