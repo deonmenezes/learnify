@@ -304,6 +304,10 @@
     border-radius: var(--radius-sm); border: 1.5px solid var(--line); box-shadow: var(--shadow-sm); cursor: pointer; }
   .exclip video:hover { border-color: var(--save-green); }
   .exclip figcaption { font-size: 10.5px; line-height: 1.4; color: var(--txt-50); margin-top: 7px; text-align: center; }
+  .exdl { margin-top: 7px; display: inline-flex; width: 100%; justify-content: center; align-items: center; gap: 6px;
+    font-size: 11px; font-weight: 700; color: var(--txt-60); background: var(--surface); border: 1.5px solid var(--line);
+    border-radius: 9px; padding: 7px 10px; cursor: pointer; transition: .14s; }
+  .exdl:hover { color: var(--save-green); border-color: var(--save-green); transform: translateY(-1px); }
 
   .steps-col { display: flex; flex-direction: column; gap: 0; }
   .gstep { display: grid; grid-template-columns: 38px 1fr; gap: 15px; padding: 15px 0; }
@@ -317,6 +321,69 @@
   .gstep p { margin: 0; font-size: 13.5px; line-height: 1.6; color: var(--txt-60); }
   .gstep p b { color: var(--txt); font-weight: 700; }
   .gstep p .g { color: var(--save-green); font-weight: 700; }
+
+  /* ---- SHAREABLE PAPER CARD (matches the iOS app research card) ---- */
+  .cover-share { position: absolute; right: 10px; bottom: 11px; z-index: 3; width: 30px; height: 30px; border-radius: 9px;
+    display: grid; place-items: center; font-size: 14px; cursor: pointer;
+    background: rgba(0,0,0,.55); border: 1px solid rgba(255,255,255,.18); backdrop-filter: blur(4px); transition: .14s; }
+  .cover-share:hover { background: var(--save-green); border-color: var(--save-green); transform: translateY(-1px); }
+
+  .share-modal { position: fixed; inset: 0; z-index: 90; display: grid; place-items: center; padding: 22px;
+    background: rgba(5,5,7,.78); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); }
+  .share-modal[hidden] { display: none; }
+  .share-sheet { width: 100%; max-width: 400px; display: flex; flex-direction: column; align-items: center; gap: 14px; position: relative; }
+  .share-x { position: absolute; top: -8px; right: -4px; z-index: 2; width: 38px; height: 38px; border-radius: 50%;
+    background: var(--elevated); border: 1.5px solid var(--line); color: var(--txt); font-size: 20px; line-height: 1; cursor: pointer; }
+  .share-x:hover { color: var(--save-green); border-color: var(--save-green); }
+
+  .share-stage { width: 340px; max-width: 100%; }
+  /* The card itself — this is what gets exported / screenshotted */
+  .share-card { width: 340px; height: 604px; border-radius: 26px; overflow: hidden; position: relative;
+    display: flex; flex-direction: column; color: #fff; background: #0B0B0D;
+    border: 1px solid #2A2A30; box-shadow: 0 30px 60px -20px rgba(0,0,0,.8);
+    font-family: system-ui, -apple-system, "SF Pro Rounded", sans-serif; }
+  .sc-topbar { display: flex; align-items: center; justify-content: space-between; padding: 16px 16px 0; }
+  .sc-brand { display: flex; align-items: center; gap: 8px; }
+  .sc-l { width: 26px; height: 26px; border-radius: 8px; background: #0B0B0D; border: 1px solid #2A2A30;
+    display: grid; place-items: center; font-weight: 900; font-size: 16px; color: #45DB6B;
+    font-family: 'Nunito', system-ui, sans-serif; box-shadow: 0 0 8px rgba(69,219,107,.35); }
+  .sc-wm { font-weight: 900; font-size: 17px; letter-spacing: -.4px; color: #fff; font-family: 'Nunito', system-ui, sans-serif; }
+  .sc-wm i { color: #F7F7FA; font-style: normal; }
+  .sc-kicker { font-size: 9.5px; letter-spacing: .14em; text-transform: uppercase; color: #9E9EA8; font-weight: 700; }
+
+  .sc-hero { position: relative; height: 286px; margin: 14px 16px 0; border-radius: 22px; overflow: hidden;
+    background: linear-gradient(135deg, rgba(69,219,107,.2), rgba(247,247,250,.06)), #212126;
+    display: grid; place-items: center; }
+  .sc-hero img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+  .sc-hero .sc-emoji { font-size: 86px; filter: drop-shadow(0 12px 26px rgba(0,0,0,.55)); position: relative; z-index: 1; }
+  .sc-hero::after { content: ""; position: absolute; inset: 0; z-index: 1;
+    background: linear-gradient(180deg, rgba(0,0,0,.34) 0%, transparent 34%, transparent 64%, rgba(0,0,0,.5) 100%); }
+  .sc-cat { position: absolute; top: 12px; left: 12px; z-index: 2; font-size: 11px; font-weight: 800; letter-spacing: .02em;
+    padding: 5px 11px; border-radius: 999px; color: #fff; display: inline-flex; align-items: center; gap: 5px;
+    background: rgba(0,0,0,.42); border: 1px solid rgba(255,255,255,.18); backdrop-filter: blur(4px); }
+  .sc-cat .dot { width: 7px; height: 7px; border-radius: 50%; background: var(--cat, #45DB6B); box-shadow: 0 0 7px var(--cat, #45DB6B); }
+  .sc-trend { position: absolute; top: 12px; right: 12px; z-index: 2; font-size: 11px; font-weight: 800; color: #45DB6B;
+    padding: 5px 10px; border-radius: 999px; background: rgba(69,219,107,.16); border: 1px solid rgba(69,219,107,.3); }
+
+  .sc-body { padding: 16px 18px 0; display: flex; flex-direction: column; gap: 9px; flex: 1; }
+  .sc-title { margin: 0; font-size: 20px; line-height: 1.18; font-weight: 800; letter-spacing: -.4px;
+    font-family: 'Nunito', system-ui, sans-serif;
+    display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+  .sc-org { font-size: 12.5px; font-weight: 700; color: rgba(255,255,255,.88); display: flex; align-items: center; gap: 6px; }
+  .sc-summary { margin: 0; font-size: 13px; line-height: 1.5; color: rgba(255,255,255,.82);
+    display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; }
+  .sc-pills { display: flex; gap: 7px; margin-top: auto; padding-top: 6px; }
+  .sc-pill { font-size: 10.5px; font-weight: 700; color: rgba(255,255,255,.9); padding: 5px 10px; border-radius: 999px;
+    background: rgba(255,255,255,.07); border: 1px solid rgba(255,255,255,.14); display: inline-flex; align-items: center; gap: 5px; }
+
+  .sc-cta { margin: 12px 16px 0; text-align: center; font-size: 14px; font-weight: 800; color: #0D0D0F;
+    padding: 13px; border-radius: 999px; background: linear-gradient(180deg, #fff, #F7F7FA);
+    box-shadow: 0 6px 14px -6px rgba(0,0,0,.5); font-family: 'Nunito', system-ui, sans-serif; }
+  .sc-foot { padding: 11px 16px 16px; text-align: center; font-size: 10.5px; color: #9E9EA8; font-weight: 600; }
+  .sc-foot b { color: #45DB6B; }
+
+  .share-hint { font-size: 12px; color: var(--txt-50); text-align: center; margin: 2px 0 0; max-width: 320px; line-height: 1.5; }
+  .share-actions { display: flex; gap: 8px; flex-wrap: wrap; justify-content: center; }
 
   a:focus-visible, button:focus-visible, [role="button"]:focus-visible { outline: 2.5px solid var(--save-green); outline-offset: 2px; border-radius: 9px; }
   :focus:not(:focus-visible) { outline: none; }
@@ -332,13 +399,14 @@
       <span class="brand-logo"><span class="l-mark">L</span></span>
       <div class="brand-text">
         <h1>Learnify</h1>
-        <span class="tag">creator scripts — <b>pick a niche · copy · film</b></span>
+        <span class="tag">creator scripts — <b>pick a niche · your spin · film</b></span>
       </div>
     </a>
     <nav class="nav">
       <a href="/">Feed</a>
       <a href="/ideas">Ideas</a>
       <a href="/influencer" class="on">Scripts</a>
+      <a href="/references">References</a>
       <a href="/influencers">Creator kit</a>
     </nav>
   </div>
@@ -354,9 +422,9 @@
   <!-- HOW TO FILM IT — reference reel + step-by-step -->
   <section class="guide" aria-labelledby="guide-h">
     <div class="guide-top">
-      <p class="guide-eyebrow">Watch this first</p>
-      <h3 id="guide-h">How to <em>film it</em> — copy this exact reel</h3>
-      <p>This is the format that works: a fast, text-heavy "doomscroll → learn" reel. Watch it once, then follow the seven steps to shoot your own with any script below. Same energy, same on-screen text — your face and your niche.</p>
+      <p class="guide-eyebrow">Main reference reel</p>
+      <h3 id="guide-h">How to <em>film it</em> — your main reference</h3>
+      <p>This is the <b>main reference reel</b> — a fast, text-heavy "doomscroll → learn" format. <b>Don't copy it line-for-line.</b> Use it as a reference for the pace, the energy and the on-screen text, then bring <em>your own creativity</em> and your own angle for your niche. Want more inspiration? See every Learnify reel on the <a href="/references" style="color:var(--save-green);font-weight:700">references page →</a></p>
       <p class="guide-genres-label">Works for every genre — pick your lane:</p>
       <div class="guide-genres" id="guide-genres"></div>
     </div>
@@ -367,28 +435,36 @@
           <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/DZZcVZTBV9i/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14">
             <div class="reel-fallback">
               <div class="rf-emoji">🎬</div>
-              <p><b style="color:var(--txt)">The reference reel</b><br>@deon_tech · "doomscroll learning content"<br>532 likes · 412 comments</p>
+              <p><b style="color:var(--txt)">Main reference reel</b><br>@learnify.app_ · "doomscroll learning content"<br>a reference for pace &amp; on-screen text</p>
             </div>
           </blockquote>
         </div>
         <div class="reel-watch">
           <a class="primary" href="https://www.instagram.com/p/DZZcVZTBV9i/" target="_blank" rel="noopener">
             <svg width="15" height="15" viewBox="0 0 24 24" fill="none"><rect x="3" y="3" width="18" height="18" rx="5" stroke="currentColor" stroke-width="2"/><circle cx="12" cy="12" r="4" stroke="currentColor" stroke-width="2"/><circle cx="17.5" cy="6.5" r="1.3" fill="currentColor"/></svg>
-            Watch the reel on Instagram ↗
+            Watch the reference reel ↗
           </a>
-          <a class="ghost" href="https://www.instagram.com/deon_tech/" target="_blank" rel="noopener">See more from @deon_tech</a>
+          <a class="ghost" href="/references">See every Learnify reel →</a>
         </div>
-        <p class="reel-cap">Hook in the first 2s · finding as big text · <b>"comment link"</b> CTA at the end. Steal the structure, not the words.</p>
+        <p class="reel-cap">Hook in the first 2s · finding as big text · <b>"comment link"</b> CTA. This is a <b>reference</b> — take the structure, then make it your own in your niche.</p>
 
-        <p class="examples-label">More Learnify creator examples</p>
+        <p class="examples-label">Grab-and-use clips — <a href="/references" style="color:var(--save-green)">see all ↗</a></p>
         <div class="examples">
           <figure class="exclip">
             <video src="/ugc/learnify/video/inf1.mp4" poster="/ugc/learnify/video/poster/inf1.jpg" muted loop playsinline preload="none" controls></video>
-            <figcaption>Real people, real scrolls — the UGC look</figcaption>
+            <figcaption>Real people, real scrolls</figcaption>
+            <a class="exdl" href="/ugc/learnify/video/inf1.mp4" download="learnify-clip-1.mp4">
+              <svg viewBox="0 0 24 24" width="12" height="12"><path d="M12 3v12m0 0l-4-4m4 4l4-4M5 21h14" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>
+              Download clip
+            </a>
           </figure>
           <figure class="exclip">
             <video src="/ugc/learnify/video/inf2.mp4" poster="/ugc/learnify/video/poster/inf2.jpg" muted loop playsinline preload="none" controls></video>
-            <figcaption>"5 hours a day, gone" — hook + payoff</figcaption>
+            <figcaption>"5 hours a day, gone"</figcaption>
+            <a class="exdl" href="/ugc/learnify/video/inf2.mp4" download="learnify-clip-2.mp4">
+              <svg viewBox="0 0 24 24" width="12" height="12"><path d="M12 3v12m0 0l-4-4m4 4l4-4M5 21h14" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>
+              Download clip
+            </a>
           </figure>
         </div>
       </div>
@@ -397,38 +473,38 @@
       <div class="steps-col">
         <div class="gstep">
           <div class="num">1</div>
-          <div><h4>Watch the reference reel <span class="chip">30 sec</span></h4>
-          <p>Play it twice. Notice three things: the <b>hook lands in the first 2 seconds</b>, the key point is always <b>burned in as big on-screen text</b>, and it ends with a clear <span class="g">"comment link"</span> call-to-action. That's the whole formula.</p></div>
+          <div><h4>Watch the reel <span class="chip">30 sec</span></h4>
+          <p>Just watch how it flows: <b>fast hook</b>, <b>big text on screen</b>, ends with <span class="g">"comment link"</span>. Don't copy it — <span class="g">make it yours</span>.</p></div>
         </div>
         <div class="gstep">
           <div class="num">2</div>
-          <div><h4>Pick a script <span class="chip">copy</span></h4>
-          <p>Choose your niche below, tap any card, and hit <b>Copy full script</b>. The hook, timestamped lines, shot list and caption are all done — paste them into your notes. <span class="g">[Bracketed]</span> bits are your slots; fill them with your own example or a paper from the research strip.</p></div>
+          <div><h4>Pick a script <span class="chip">your niche</span></h4>
+          <p>Tap a card in your niche and grab the script. Fill the <span class="g">[blanks]</span> with your own example. It's a starting point — add your spin.</p></div>
         </div>
         <div class="gstep">
           <div class="num">3</div>
-          <div><h4>Set up your shot <span class="chip">1 min</span></h4>
-          <p>Phone <b>vertical (9:16)</b>, propped at eye level. Face a window so the light is on you, not behind you. Quiet room, phone on a stack of books or a cheap tripod. No fancy gear needed — the reference reel is shot on a phone.</p></div>
+          <div><h4>Prop up your phone <span class="chip">1 min</span></h4>
+          <p>Phone <b>upright</b>, at eye level. Face a <b>window</b> so the light's on your face. Done.</p></div>
         </div>
         <div class="gstep">
           <div class="num">4</div>
-          <div><h4>Nail the hook first <span class="chip">2 sec</span></h4>
-          <p>Record the <b>hook line straight to camera</b> with energy before anything else. This first sentence decides whether people keep watching. Do 3–4 takes and keep the punchiest one. No slow intro, no "hey guys" — open on the hook.</p></div>
+          <div><h4>Say the hook first <span class="chip">2 sec</span></h4>
+          <p>Film your <b>first line</b> with energy. Redo it a few times till it sounds punchy. No "hey guys" — open on the hook.</p></div>
         </div>
         <div class="gstep">
           <div class="num">5</div>
-          <div><h4>Film the body in short takes <span class="chip">5 min</span></h4>
-          <p>Shoot <b>one script beat per take</b> — glance at the timestamped lines between takes. Fumble a word? Just re-record that beat. Add the demo or personal example where the script says to. Keep your pace fast; dead air kills retention.</p></div>
+          <div><h4>Film the rest <span class="chip">5 min</span></h4>
+          <p><b>One line at a time.</b> Mess up? Just redo that bit. Keep it quick — no long pauses.</p></div>
         </div>
         <div class="gstep">
           <div class="num">6</div>
-          <div><h4>Add captions + the big text <span class="chip">edit</span></h4>
-          <p>In CapCut / Reels editor: <b>auto-caption the whole thing</b> (most watch on mute), then drop the <span class="g">key finding as large text</span> on screen exactly like the reel. Cut the gaps between takes so it's punchy. Optional: a trending low-volume audio underneath.</p></div>
+          <div><h4>Add captions + big text <span class="chip">edit</span></h4>
+          <p>In CapCut or Reels: <b>auto-caption</b> it, then put the <span class="g">main point as big text</span> on screen. Cut the boring gaps.</p></div>
         </div>
         <div class="gstep">
           <div class="num">7</div>
-          <div><h4>Post with the CTA <span class="chip">go live</span></h4>
-          <p>Paste the card's <b>caption + hashtags</b>. End your video and caption with the same move as the reel: <span class="g">"comment 'link' and I'll send it"</span> or "follow for one study a week." Cite the paper in your bio. Post, reply to every comment in the first hour.</p></div>
+          <div><h4>Post it <span class="chip">go live</span></h4>
+          <p>Paste the <b>caption + hashtags</b> from the card. End with <span class="g">"comment 'link' and I'll send it"</span>. Then reply to every comment fast.</p></div>
         </div>
       </div>
     </div>
@@ -468,13 +544,29 @@
   </div>
 </main>
 
+<!-- SHAREABLE PAPER CARD MODAL -->
+<div class="share-modal" id="shareModal" hidden>
+  <div class="share-sheet">
+    <button class="share-x" id="shareX" aria-label="Close">&times;</button>
+    <div class="share-stage" id="shareStage"></div>
+    <div class="share-actions">
+      <button class="btn-chip primary" id="shareDownload">
+        <svg viewBox="0 0 24 24" width="13" height="13"><path d="M12 3v12m0 0l-4-4m4 4l4-4M5 21h14" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        Download image
+      </button>
+      <button class="btn-chip" id="shareCopyLink">Copy paper link</button>
+    </div>
+    <p class="share-hint">Post it to your story or feed. On a phone you can also long-press the card to save it.</p>
+  </div>
+</div>
+
 <div class="toast" id="toast"></div>
 
 <footer>
   <div class="footer-inner">
-    <span class="fbrand"><span class="l-mark-sm">L</span>Learnify</span> — scripts and ideas for creators in every niche. Read them as-is or make them yours. Research-based ideas link back to the original paper.
+    <span class="fbrand"><span class="l-mark-sm">L</span>Learnify</span> — scripts and references for creators in every niche. Use them as a starting point, then make them your own. Research-based ideas link back to the original paper.
     <div class="links">
-      <a href="/">Feed</a><a href="/ideas">Ideas</a><a href="/influencers">Creator kit</a><a href="/privacy">Privacy</a><a href="/support">Support</a>
+      <a href="/">Feed</a><a href="/ideas">Ideas</a><a href="/references">References</a><a href="/influencers">Creator kit</a><a href="/privacy">Privacy</a><a href="/support">Support</a>
     </div>
   </div>
 </footer>
@@ -739,6 +831,8 @@ function researchToIdea(p, nicheKey){
     dur: 35, score, level: "Easy",
     genreLabel: p.genre || p.category || "Research",
     org: p.org || "Research",
+    summary: hookSentences,
+    trend: p.trend || 0,
     url: p.url || "",
     source: `${headline} — ${p.org || "Research"}${p.url ? `  (${p.url})` : ""}`,
     hook: `New research that ${f.verb} 👀`,
@@ -799,6 +893,7 @@ function cardHTML(i, n, ntag){
         <span class="score">${i.score}/100</span>
         <span class="dur">~${i.dur}s</span>
         <span class="fmt">${escapeHtml(i.format)}</span>
+        ${i.research ? `<button class="cover-share" data-share="${escapeHtml(i.id)}" title="Make a shareable image" aria-label="Make a shareable image">📸</button>` : ""}
       </div>
       <div class="cbody">
         ${ntag ? `<p class="ntag">${escapeHtml(ntag)}</p>` : ""}
@@ -830,6 +925,9 @@ function wireCards(grid){
     const open = ()=>openDetail(card.dataset.id);
     card.addEventListener("click", open);
     card.addEventListener("keydown", (e)=>{ if(e.key==="Enter"||e.key===" "){ e.preventDefault(); open(); } });
+  });
+  grid.querySelectorAll("[data-share]").forEach((btn)=>{
+    btn.addEventListener("click", (e)=>{ e.stopPropagation(); openShare(btn.dataset.share); });
   });
 }
 
@@ -934,6 +1032,7 @@ function openDetail(id){
             </button>
             <button class="btn-chip" id="copy-hook">Hook</button>
             <button class="btn-chip" id="copy-caption">Caption</button>
+            ${i.research ? `<button class="btn-chip" id="make-share">📸 Shareable image</button>` : ""}
           </div>
         </div>
         <div class="script">
@@ -990,6 +1089,8 @@ function openDetail(id){
   d.querySelector("#copy-caption-2").addEventListener("click", ()=>copy(i.caption + "\n\n" + i.tags.join(" "), "Caption + hashtags"));
   d.querySelectorAll(".s-row").forEach((r)=>r.addEventListener("click", ()=>copy(r.dataset.line, "Line")));
   d.querySelectorAll(".htag").forEach((el)=>el.addEventListener("click", ()=>copy(el.textContent, el.textContent)));
+  const shareBtn = d.querySelector("#make-share");
+  if(shareBtn) shareBtn.addEventListener("click", ()=>openShare(i.id));
 }
 
 function closeDetail(){
@@ -1000,9 +1101,105 @@ function closeDetail(){
   window.scrollTo({ top: 0, behavior: "smooth" });
 }
 
+/* ===================== SHAREABLE PAPER CARD ===================== */
+// Category accent colours (mirrors the iOS app's category tints).
+const CAT_COLOR = {
+  "AI / ML":"#8C5CF6", "Robotics":"#33C7B0", "Coding & Dev Tools":"#4D9EFF",
+  "Security":"#E64D73", "Hardware & Gadgets":"#F29919", "Science":"#66B3F2",
+  "Fitness":"#45DB6B", "Skincare":"#F5A1C4", "Nutrition":"#9BD64A",
+  "Longevity":"#E8C24A", "Mind & Psychology":"#8C5CF6", "Finance":"#33C7B0",
+};
+let shareCurrent = null;
+
+function shareCardHTML(i){
+  const cat = escapeHtml(i.genreLabel || "Research");
+  const col = CAT_COLOR[i.genreLabel] || "#45DB6B";
+  const heroInner = i.image
+    ? `<img crossorigin="anonymous" src="${escapeHtml(i.image)}" alt="" onerror="this.remove()"><span class="sc-emoji">${i.emoji}</span>`
+    : `<span class="sc-emoji">${i.emoji}</span>`;
+  const trend = (i.trend && i.trend > 0)
+    ? `<span class="sc-trend">▲ +${Math.round(i.trend)} this week</span>` : "";
+  const summary = escapeHtml(i.summary || i.premise || "");
+  return `
+    <div class="share-card" id="shareCard" style="--cat:${col}">
+      <div class="sc-topbar">
+        <div class="sc-brand"><span class="sc-l">L</span><span class="sc-wm">Learn<i>ify</i></span></div>
+        <span class="sc-kicker">Research, daily</span>
+      </div>
+      <div class="sc-hero">
+        ${heroInner}
+        <span class="sc-cat"><span class="dot"></span>${cat}</span>
+        ${trend}
+      </div>
+      <div class="sc-body">
+        <h2 class="sc-title">${escapeHtml(i.title)}</h2>
+        <div class="sc-org">📄 ${escapeHtml(i.org || "Research")}</div>
+        <p class="sc-summary">${summary}</p>
+        <div class="sc-pills">
+          <span class="sc-pill">🔬 Real paper</span>
+          <span class="sc-pill">⚡ ${i.score}/100</span>
+        </div>
+      </div>
+      <div class="sc-cta">📖 Read it on Learnify</div>
+      <div class="sc-foot">Learn from real research, daily — <b>Learnify on the App Store</b></div>
+    </div>`;
+}
+
+function openShare(id){
+  const i = findIdea(id);
+  if(!i) return;
+  shareCurrent = i;
+  $("shareStage").innerHTML = shareCardHTML(i);
+  $("shareModal").hidden = false;
+  document.body.style.overflow = "hidden";
+}
+function closeShare(){
+  $("shareModal").hidden = true;
+  document.body.style.overflow = "";
+  shareCurrent = null;
+}
+
+// Lazy-load html2canvas only when someone actually downloads.
+let _h2c;
+function loadH2C(){
+  if(_h2c) return _h2c;
+  _h2c = new Promise((res, rej)=>{
+    const s = document.createElement("script");
+    s.src = "https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js";
+    s.onload = ()=>res(window.html2canvas);
+    s.onerror = rej;
+    document.body.appendChild(s);
+  });
+  return _h2c;
+}
+
+async function downloadShare(){
+  const card = $("shareCard");
+  if(!card) return;
+  toast("Building image…");
+  let h2c;
+  try { h2c = await loadH2C(); } catch(_){ toast("Couldn't load exporter — long-press the card to save"); return; }
+  try {
+    const canvas = await h2c(card, { scale: 3, useCORS: true, backgroundColor: "#0B0B0D", logging: false });
+    const slug = (shareCurrent?.title || "learnify-paper").toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"").slice(0,50);
+    const a = document.createElement("a");
+    a.href = canvas.toDataURL("image/png");
+    a.download = `learnify-${slug || "paper"}.png`;
+    document.body.appendChild(a); a.click(); a.remove();
+    toast("Image saved ✓");
+  } catch(err){
+    toast("Image has a protected photo — long-press the card to save it");
+  }
+}
+
 /* ===================== INIT ===================== */
 $("back").addEventListener("click", closeDetail);
 $("sort").addEventListener("change", (e)=>{ state.sort = e.target.value; if(!state.open) renderBrowse(); });
+$("shareX").addEventListener("click", closeShare);
+$("shareModal").addEventListener("click", (e)=>{ if(e.target.id === "shareModal") closeShare(); });
+$("shareDownload").addEventListener("click", downloadShare);
+$("shareCopyLink").addEventListener("click", ()=>{ if(shareCurrent?.url) copy(shareCurrent.url, "Paper link"); else toast("No link on this one"); });
+document.addEventListener("keydown", (e)=>{ if(e.key === "Escape" && !$("shareModal").hidden) closeShare(); });
 
 /* Genre chips inside the how-to-film guide — jump to that niche + scroll to the cards */
 function buildGuideGenres(){

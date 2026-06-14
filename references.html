@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Learnify — Reference reels: every Learnify reel in one place</title>
+<meta name="description" content="Every Learnify reel in one place. Watch them as a reference for pace, hooks and on-screen text — then bring your own creativity and your own niche." />
+<meta name="theme-color" content="#0B0B0D" />
+<meta property="og:title" content="Learnify — Reference reels" />
+<meta property="og:description" content="Every Learnify reel in one place. Use them as a reference, then make your own in your niche." />
+<meta property="og:type" content="website" />
+<link rel="icon" href="/assets/learnify/mark.svg" />
+<link rel="apple-touch-icon" href="/assets/learnify/app-icon-1024.png" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@700;800;900&display=swap" rel="stylesheet" />
+<style>
+  :root {
+    --bg:        #0B0B0D;
+    --surface:   #17171A;
+    --elevated:  #212126;
+    --line:      #2A2A30;
+    --txt:       #FFFFFF;
+    --txt-60:    rgba(255,255,255,.6);
+    --txt-50:    rgba(255,255,255,.5);
+    --txt-45:    rgba(255,255,255,.45);
+    --accent:    #F7F7FA;
+    --accent-deep:#9E9EA8;
+    --save-green:#45DB6B;
+    --gold:      #E8C24A;
+    --shadow-md: 0 14px 30px -12px rgba(0,0,0,.6);
+    --shadow-sm: 0 6px 14px -6px rgba(0,0,0,.5);
+    --radius:    18px;
+    --radius-sm: 12px;
+    --max: 1240px;
+  }
+  *, *::before, *::after { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  html, body {
+    margin: 0; padding: 0; background: var(--bg); color: var(--txt);
+    font-family: system-ui, Inter, -apple-system, sans-serif;
+    -webkit-font-smoothing: antialiased; line-height: 1.55;
+  }
+  body {
+    min-height: 100vh;
+    background:
+      radial-gradient(700px 420px at 88% -4%, rgba(69,219,107,.06), transparent 58%),
+      radial-gradient(580px 380px at 8% 30%, rgba(247,247,250,.03), transparent 60%),
+      var(--bg);
+  }
+  a { color: inherit; text-decoration: none; }
+  em { font-style: normal; font-weight: 900; color: var(--save-green); }
+
+  .topbar { position: fixed; inset: 0 0 auto 0; height: 3px;
+    background: linear-gradient(90deg, var(--save-green), var(--accent), var(--gold));
+    z-index: 50; opacity: .85; transform-origin: 0 50%; transform: scaleX(0); }
+
+  header { position: sticky; top: 0; z-index: 30; background: rgba(11,11,13,.88);
+    backdrop-filter: saturate(160%) blur(14px); -webkit-backdrop-filter: saturate(160%) blur(14px);
+    border-bottom: 1px solid var(--line); padding: 14px 22px; }
+  .header-inner { max-width: var(--max); margin: 0 auto; display: flex; align-items: center; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
+  .brand { display: flex; align-items: center; gap: 13px; }
+  .brand-logo { width: 36px; height: 36px; flex: 0 0 auto; border-radius: 10px; display: grid; place-items: center;
+    background: #0B0B0D; box-shadow: var(--shadow-sm), 0 0 0 1px var(--line), 0 0 10px rgba(69,219,107,.18); }
+  .brand-logo .l-mark { font-family: 'Nunito', system-ui, sans-serif; font-weight: 900; font-size: 20px; line-height: 1;
+    color: var(--save-green); filter: drop-shadow(0 0 5px rgba(69,219,107,.5)); user-select: none; }
+  .brand-text h1 { font-family: 'Nunito', system-ui, sans-serif; font-size: 20px; margin: 0; letter-spacing: -.5px; font-weight: 900; line-height: 1; }
+  .brand-text .tag { display: block; font-size: 11px; color: var(--txt-45); margin-top: 3px; font-weight: 500; }
+  .brand-text .tag b { color: var(--save-green); font-weight: 600; }
+  .nav { display: flex; gap: 16px; font-size: 13px; color: var(--txt-60); flex-wrap: wrap; align-items: center; font-weight: 500; }
+  .nav a:hover { color: var(--accent); }
+  .nav a.on { color: var(--accent); font-weight: 700; }
+
+  main { max-width: var(--max); margin: 0 auto; padding: 30px 18px 90px; }
+
+  .hero { text-align: center; padding: 34px 24px 30px;
+    background:
+      radial-gradient(60% 60% at 85% 10%, rgba(69,219,107,.08), transparent 60%),
+      radial-gradient(50% 50% at 15% 80%, rgba(247,247,250,.04), transparent 60%),
+      linear-gradient(180deg, var(--surface) 0%, var(--bg) 100%);
+    border-radius: var(--radius); border: 1.5px solid var(--line); margin-bottom: 22px; position: relative; overflow: hidden; }
+  .eyebrow { font-size: 11px; letter-spacing: .22em; text-transform: uppercase; color: var(--accent-deep); margin: 0 0 12px; font-weight: 600; }
+  .hero h2 { font-family: 'Nunito', system-ui, sans-serif; font-size: clamp(28px, 5vw, 44px); line-height: 1.08;
+    letter-spacing: -1.2px; font-weight: 900; margin: 0 auto 14px; max-width: 760px; }
+  .hero p { color: var(--txt-60); font-size: 16px; max-width: 620px; margin: 0 auto 18px; line-height: 1.6; }
+  .hero-cta { display: inline-flex; align-items: center; gap: 8px; font-size: 14px; font-weight: 800;
+    padding: 12px 18px; border-radius: 999px; background: var(--accent); color: #0D0D0F; box-shadow: var(--shadow-sm); transition: .15s; }
+  .hero-cta:hover { transform: translateY(-1px); box-shadow: var(--shadow-md); }
+
+  .note { display: flex; gap: 11px; align-items: flex-start; max-width: 760px; margin: 0 auto 26px;
+    padding: 14px 18px; border-radius: var(--radius-sm); background: linear-gradient(180deg, rgba(69,219,107,.08), var(--surface));
+    border: 1.5px solid rgba(69,219,107,.28); font-size: 13.5px; line-height: 1.6; color: var(--txt-60); }
+  .note .ne { font-size: 18px; line-height: 1.3; }
+  .note b { color: var(--txt); }
+  .note em { color: var(--save-green); }
+
+  .sec-head { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; flex-wrap: wrap; margin: 24px 0 14px; }
+  .sec-head h3 { font-family: 'Nunito', system-ui, sans-serif; font-size: 20px; font-weight: 900; letter-spacing: -.4px; margin: 0; }
+  .sec-head .sub { font-size: 13px; color: var(--txt-50); }
+
+  .reels { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 18px; align-items: start; }
+  .reel { border-radius: var(--radius); overflow: hidden; background: var(--surface); border: 1.5px solid var(--line);
+    transition: transform .2s, border-color .2s, box-shadow .2s; }
+  .reel:hover { transform: translateY(-3px); border-color: var(--elevated); box-shadow: var(--shadow-md); }
+  .reel.feat { grid-column: span 1; border-color: rgba(69,219,107,.4); box-shadow: 0 0 0 1px rgba(69,219,107,.25), var(--shadow-md); }
+
+  .media { position: relative; background: #000; }
+  .media video { width: 100%; aspect-ratio: 9/16; object-fit: cover; display: block; cursor: pointer; }
+  .ig-wrap { padding: 0; background: #000; min-height: 420px; display: grid; place-items: center; }
+  .ig-wrap .instagram-media { margin: 0 !important; min-width: 0 !important; width: 100% !important; border: 0 !important; box-shadow: none !important; background: #000 !important; }
+  .ig-fallback { aspect-ratio: 9/16; width: 100%; display: grid; place-items: center; text-align: center; padding: 26px; gap: 12px;
+    background: radial-gradient(120% 120% at 50% 0%, rgba(69,219,107,.12), transparent 60%), var(--elevated); }
+  .ig-fallback .e { font-size: 42px; }
+  .ig-fallback p { margin: 0; color: var(--txt-60); font-size: 13px; line-height: 1.5; }
+  .ig-fallback a { color: var(--save-green); font-weight: 700; }
+
+  .rbody { padding: 13px 15px 15px; }
+  .rbadge { font-size: 10px; font-weight: 800; letter-spacing: .06em; text-transform: uppercase; color: #0D0D0F;
+    background: var(--save-green); border-radius: 7px; padding: 2px 8px; display: inline-block; margin-bottom: 8px; }
+  .rbody h4 { margin: 0 0 5px; font-size: 14.5px; font-weight: 800; letter-spacing: -.2px; }
+  .rbody p { margin: 0; font-size: 12.5px; line-height: 1.5; color: var(--txt-60); }
+  .rbody .open { margin-top: 10px; display: inline-flex; gap: 6px; align-items: center; font-size: 12px; font-weight: 700; color: var(--accent); }
+  .rbody .open svg { width: 13px; height: 13px; }
+
+  footer { background: #08080A; color: var(--txt-50); border-top: 1px solid var(--line); margin-top: 44px; padding: 40px 22px 50px; text-align: center; font-size: 12.5px; line-height: 1.7; }
+  .footer-inner { max-width: var(--max); margin: 0 auto; }
+  .fbrand { font-family: 'Nunito', system-ui, sans-serif; font-weight: 900; font-size: 17px; color: var(--txt); }
+  .fbrand .l-mark-sm { display: inline-block; width: 20px; height: 20px; border-radius: 5px; background: #0B0B0D; border: 1px solid var(--line);
+    vertical-align: middle; text-align: center; line-height: 20px; font-size: 13px; color: var(--save-green); font-weight: 900; box-shadow: 0 0 6px rgba(69,219,107,.25); margin-right: 4px; }
+  .links { margin-top: 12px; display: flex; gap: 16px; justify-content: center; flex-wrap: wrap; font-size: 12.5px; }
+  .links a { color: var(--accent-deep); transition: color .15s; }
+  .links a:hover { color: var(--txt); }
+
+  a:focus-visible, button:focus-visible { outline: 2.5px solid var(--save-green); outline-offset: 2px; border-radius: 9px; }
+  @media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation-duration: .001ms !important; transition-duration: .001ms !important; } }
+</style>
+</head>
+<body>
+<div class="topbar"></div>
+
+<header>
+  <div class="header-inner">
+    <a class="brand" href="/">
+      <span class="brand-logo"><span class="l-mark">L</span></span>
+      <div class="brand-text">
+        <h1>Learnify</h1>
+        <span class="tag">reference reels — <b>watch · learn · make your own</b></span>
+      </div>
+    </a>
+    <nav class="nav">
+      <a href="/">Feed</a>
+      <a href="/ideas">Ideas</a>
+      <a href="/influencer">Scripts</a>
+      <a href="/references" class="on">References</a>
+      <a href="/influencers">Creator kit</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section class="hero">
+    <p class="eyebrow">Reference reels · @learnify.app_</p>
+    <h2>Every Learnify reel, in <em>one place</em>.</h2>
+    <p>Watch these as a <strong>reference</strong> — for the pace, the hooks, the on-screen text and the energy. Then bring your own creativity and your own niche. Don't copy; get inspired.</p>
+    <a class="hero-cta" href="https://www.instagram.com/learnify.app_/" target="_blank" rel="noopener">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none"><rect x="3" y="3" width="18" height="18" rx="5" stroke="currentColor" stroke-width="2"/><circle cx="12" cy="12" r="4" stroke="currentColor" stroke-width="2"/><circle cx="17.5" cy="6.5" r="1.3" fill="currentColor"/></svg>
+      Follow @learnify.app_
+    </a>
+  </section>
+
+  <div class="note">
+    <span class="ne">💡</span>
+    <div>These are <b>references, not templates</b>. Use them to understand <em>why</em> a reel works — then make something only you could make. Got a script? Head to <a href="/influencer" style="color:var(--save-green);font-weight:700">Scripts</a> and put your own spin on it.</div>
+  </div>
+
+  <div class="sec-head">
+    <h3>The reels</h3>
+    <div class="sub" id="count">loading…</div>
+  </div>
+  <section class="reels" id="reels" aria-live="polite"></section>
+</main>
+
+<footer>
+  <div class="footer-inner">
+    <span class="fbrand"><span class="l-mark-sm">L</span>Learnify</span> — reference reels for creators in every niche. Use them as inspiration, then make your own. <a href="https://www.instagram.com/learnify.app_/" target="_blank" rel="noopener" style="color:var(--save-green)">@learnify.app_</a>
+    <div class="links">
+      <a href="/">Feed</a><a href="/ideas">Ideas</a><a href="/influencer">Scripts</a><a href="/influencers">Creator kit</a><a href="/privacy">Privacy</a><a href="/support">Support</a>
+    </div>
+  </div>
+</footer>
+
+<script>
+/* ============================================================
+   REFERENCE REELS — every Learnify reel.
+   To add a reel, drop a new entry in REELS:
+     • Instagram reel:  { type:"ig", permalink:"https://www.instagram.com/p/XXXX/", title, note }
+     • Local clip:      { type:"video", src:"/ugc/learnify/video/xxx.mp4", poster:"/ugc/learnify/video/poster/xxx.jpg", title, note }
+   ============================================================ */
+const REELS = [
+  { type:"ig", featured:true,
+    permalink:"https://www.instagram.com/p/DZZcVZTBV9i/",
+    title:"Main reference reel",
+    note:"The doomscroll → learn format. Hook in 2s, finding as big text, \"comment link\" CTA." },
+  { type:"video",
+    src:"/ugc/learnify/video/inf1.mp4", poster:"/ugc/learnify/video/poster/inf1.jpg",
+    title:"Real people, real scrolls",
+    note:"The UGC look — creator holding the app, \"FREE. LINK…\" overlay." },
+  { type:"video",
+    src:"/ugc/learnify/video/inf2.mp4", poster:"/ugc/learnify/video/poster/inf2.jpg",
+    title:"\"5 hours a day, gone\"",
+    note:"Strong hook + payoff — learning to code instead of doomscrolling." },
+];
+
+const esc = (s)=>String(s||"").replace(/[&<>"']/g,(c)=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+
+function reelHTML(r){
+  let media;
+  if(r.type === "ig"){
+    media = `<div class="ig-wrap">
+      <blockquote class="instagram-media" data-instgrm-permalink="${esc(r.permalink)}?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14">
+        <div class="ig-fallback">
+          <div class="e">🎬</div>
+          <p><b style="color:var(--txt)">${esc(r.title)}</b><br><a href="${esc(r.permalink)}" target="_blank" rel="noopener">Watch on Instagram ↗</a></p>
+        </div>
+      </blockquote></div>`;
+  } else {
+    media = `<div class="media"><video src="${esc(r.src)}" poster="${esc(r.poster||"")}" muted loop playsinline preload="none" controls></video></div>`;
+  }
+  const link = r.permalink ? `<a class="open" href="${esc(r.permalink)}" target="_blank" rel="noopener">Watch on Instagram
+      <svg viewBox="0 0 24 24"><path d="M9 6l6 6-6 6" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round"/></svg></a>`
+    : (r.type === "video" && r.src) ? `<a class="open dl" href="${esc(r.src)}" download>
+      <svg viewBox="0 0 24 24"><path d="M12 3v12m0 0l-4-4m4 4l4-4M5 21h14" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      Download clip</a>` : "";
+  return `<article class="reel${r.featured?" feat":""}">
+    ${media}
+    <div class="rbody">
+      ${r.featured?`<span class="rbadge">Main reference</span>`:""}
+      <h4>${esc(r.title)}</h4>
+      <p>${esc(r.note||"")}</p>
+      ${link}
+    </div>
+  </article>`;
+}
+
+const reelsEl = document.getElementById("reels");
+reelsEl.innerHTML = REELS.map(reelHTML).join("");
+document.getElementById("count").textContent = `${REELS.length} reel${REELS.length===1?"":"s"} · more coming`;
+
+// Tap a local clip to play with sound; pause the others.
+document.querySelectorAll(".media video").forEach((v)=>{
+  v.addEventListener("click", ()=>{
+    if(v.paused){
+      document.querySelectorAll(".media video").forEach((o)=>{ if(o!==v) o.pause(); });
+      v.muted = false; v.play().catch(()=>{ v.muted = true; v.play(); });
+    } else { v.pause(); }
+  });
+});
+
+// Instagram embeds.
+(function loadIG(){
+  const s = document.createElement("script");
+  s.async = true; s.src = "https://www.instagram.com/embed.js";
+  s.onload = ()=>{ try { window.instgrm && window.instgrm.Embeds.process(); } catch(_){} };
+  document.body.appendChild(s);
+})();
+
+// topbar scroll progress
+const tb = document.querySelector(".topbar");
+addEventListener("scroll", ()=>{ const h=document.documentElement.scrollHeight-innerHeight; tb.style.transform=`scaleX(${h>0?scrollY/h:0})`; }, { passive:true });
+</script>
+</body>
+</html>

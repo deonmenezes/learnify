@@ -67,6 +67,7 @@ const TAG_TO_APP = {
   "nutrition diet": "Science",
   "psychology mind": "Science",
   "longevity health": "Science",
+  "science discovery": "Science",
   "finance investing": "Startups & Funding",
 };
 
@@ -83,6 +84,7 @@ const TAG_TO_GENRE = {
   "robotics": "Robotics",
   "security cryptography": "Security",
   "software engineering": "Coding & Dev Tools",
+  "science discovery": "Science",
 };
 function toGenre(p, appCategory) {
   if (TAG_TO_GENRE[p.section]) return TAG_TO_GENRE[p.section];
