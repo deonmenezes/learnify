@@ -1,15 +1,56 @@
 {
-  "generated_at": "2026-06-15T12:30:58.728Z",
+  "generated_at": "2026-06-15T17:38:19.039Z",
   "handles": [
-    "nvidia",
-    "GoogleDeepMind",
     "AnthropicAI",
     "OpenAI",
+    "nvidia",
+    "GoogleDeepMind",
+    "elonmusk",
     "demishassabis",
     "claudeai"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2066538446781382800",
+      "title": "Make our Sun sentient to understand the Universe and extend the light of consciousness to the stars",
+      "link": "https://x.com/elonmusk/status/2066538446781382800",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Elon Musk · @elonmusk",
+      "handle": "elonmusk",
+      "org": "xAI/Tesla",
+      "published": "2026-06-15T15:08:54.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "xAI/Tesla",
+        "Commentary"
+      ],
+      "summary": "Make our Sun sentient to understand the Universe and extend the light of consciousness to the stars",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 56,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "high engagement (15.6K likes)"
+      ],
+      "metrics": {
+        "likes": 15590,
+        "retweets": 2186,
+        "replies": 2542,
+        "likes_h": "15.6K"
+      },
+      "engagement": 22504,
+      "hot": true
+    },
     {
       "id": "x_2065597531644743999",
       "title": "The US government, citing national security authorities, has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the…",
@@ -39,15 +80,15 @@
       "sentiment_score": 0,
       "reasons": [
         "report-worthy",
-        "high engagement (72.6K likes)"
+        "high engagement (87.8K likes)"
       ],
       "metrics": {
-        "likes": 72643,
-        "retweets": 22413,
-        "replies": 10335,
-        "likes_h": "72.6K"
+        "likes": 87801,
+        "retweets": 25742,
+        "replies": 12482,
+        "likes_h": "87.8K"
       },
-      "engagement": 127804,
+      "engagement": 151767,
       "hot": true
     },
     {
@@ -82,12 +123,12 @@
         "tech substance (model, agent, benchmark)"
       ],
       "metrics": {
-        "likes": 568,
-        "retweets": 88,
-        "replies": 72,
-        "likes_h": "568"
+        "likes": 575,
+        "retweets": 89,
+        "replies": 75,
+        "likes_h": "575"
       },
-      "engagement": 816,
+      "engagement": 828,
       "hot": false
     },
     {
@@ -123,15 +164,15 @@
         "casual tone (congratulations)",
         "announcement language (debut)",
         "business signal (ipo, partnership, ipo)",
-        "high engagement (21.9K likes)"
+        "high engagement (22K likes)"
       ],
       "metrics": {
-        "likes": 21930,
-        "retweets": 1959,
-        "replies": 596,
-        "likes_h": "21.9K"
+        "likes": 21953,
+        "retweets": 1961,
+        "replies": 600,
+        "likes_h": "22K"
       },
-      "engagement": 26444,
+      "engagement": 26475,
       "hot": true
     },
     {
@@ -167,12 +208,12 @@
         "tech substance (robotics)"
       ],
       "metrics": {
-        "likes": 318,
-        "retweets": 50,
+        "likes": 319,
+        "retweets": 52,
         "replies": 26,
-        "likes_h": "318"
+        "likes_h": "319"
       },
-      "engagement": 444,
+      "engagement": 449,
       "hot": false
     },
     {
@@ -207,12 +248,12 @@
         "business signal (enterprise)"
       ],
       "metrics": {
-        "likes": 231,
-        "retweets": 37,
+        "likes": 232,
+        "retweets": 38,
         "replies": 23,
-        "likes_h": "231"
+        "likes_h": "232"
       },
-      "engagement": 328,
+      "engagement": 331,
       "hot": false
     },
     {
@@ -249,12 +290,12 @@
         "tech substance (models, gemini, robotics)"
       ],
       "metrics": {
-        "likes": 474,
-        "retweets": 69,
-        "replies": 53,
-        "likes_h": "474"
+        "likes": 483,
+        "retweets": 71,
+        "replies": 54,
+        "likes_h": "483"
       },
-      "engagement": 665,
+      "engagement": 679,
       "hot": false
     },
     {
@@ -287,15 +328,15 @@
       "reasons": [
         "report-worthy",
         "announcement language (rolling out, starting today)",
-        "high engagement (21.2K likes)"
+        "high engagement (21.6K likes)"
       ],
       "metrics": {
-        "likes": 21228,
-        "retweets": 1702,
-        "replies": 1238,
-        "likes_h": "21.2K"
+        "likes": 21619,
+        "retweets": 1739,
+        "replies": 1320,
+        "likes_h": "21.6K"
       },
-      "engagement": 25870,
+      "engagement": 26417,
       "hot": true
     },
     {
@@ -449,13 +490,13 @@
         "high engagement (3.3K likes)"
       ],
       "metrics": {
-        "likes": 3270,
-        "retweets": 368,
+        "likes": 3276,
+        "retweets": 371,
         "replies": 114,
         "likes_h": "3.3K"
       },
-      "engagement": 4120,
-      "hot": true
+      "engagement": 4132,
+      "hot": false
     },
     {
       "id": "x_2065057393927467084",
@@ -489,15 +530,15 @@
         "announcement language (launching)",
         "tech substance (claude)",
         "links to a source",
-        "high engagement (6.6K likes)"
+        "high engagement (6.9K likes)"
       ],
       "metrics": {
-        "likes": 6573,
-        "retweets": 684,
-        "replies": 518,
-        "likes_h": "6.6K"
+        "likes": 6855,
+        "retweets": 719,
+        "replies": 558,
+        "likes_h": "6.9K"
       },
-      "engagement": 8459,
+      "engagement": 8851,
       "hot": true
     },
     {
@@ -536,10 +577,10 @@
       "metrics": {
         "likes": 464,
         "retweets": 95,
-        "replies": 88,
+        "replies": 90,
         "likes_h": "464"
       },
-      "engagement": 742,
+      "engagement": 744,
       "hot": false
     },
     {
@@ -740,12 +781,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 338,
-        "retweets": 21,
-        "replies": 26,
-        "likes_h": "338"
+        "likes": 377,
+        "retweets": 24,
+        "replies": 29,
+        "likes_h": "377"
       },
-      "engagement": 406,
+      "engagement": 454,
       "hot": false
     },
     {
@@ -783,12 +824,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 249,
-        "retweets": 15,
-        "replies": 22,
-        "likes_h": "249"
+        "likes": 251,
+        "retweets": 18,
+        "replies": 23,
+        "likes_h": "251"
       },
-      "engagement": 301,
+      "engagement": 310,
       "hot": false
     },
     {
@@ -826,12 +867,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 407,
-        "retweets": 44,
+        "likes": 410,
+        "retweets": 46,
         "replies": 23,
-        "likes_h": "407"
+        "likes_h": "410"
       },
-      "engagement": 518,
+      "engagement": 525,
       "hot": false
     },
     {
@@ -864,15 +905,15 @@
       "reasons": [
         "report-worthy",
         "announcement language (launching)",
-        "high engagement (5.4K likes)"
+        "high engagement (5.5K likes)"
       ],
       "metrics": {
-        "likes": 5425,
-        "retweets": 445,
-        "replies": 420,
-        "likes_h": "5.4K"
+        "likes": 5496,
+        "retweets": 462,
+        "replies": 429,
+        "likes_h": "5.5K"
       },
-      "engagement": 6735,
+      "engagement": 6849,
       "hot": true
     },
     {
@@ -1031,12 +1072,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 2364,
+        "likes": 2365,
         "retweets": 262,
         "replies": 108,
         "likes_h": "2.4K"
       },
-      "engagement": 2996,
+      "engagement": 2997,
       "hot": false
     },
     {
@@ -1287,46 +1328,6 @@
         "likes_h": "2.4K"
       },
       "engagement": 3020,
-      "hot": true
-    },
-    {
-      "id": "x_2064056027947934209",
-      "title": "Transaction foundation models transform raw data into intelligence, trained on billions of financial events — payments, transfers and behavioral signals. Financial institutions, like @Revolut and…",
-      "link": "https://x.com/nvidia/status/2064056027947934209",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-08T18:44:40.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product"
-      ],
-      "summary": "Transaction foundation models transform raw data into intelligence, trained on billions of financial events — payments, transfers and behavioral signals. Financial institutions, like @Revolut and @Mastercard, are already using NVIDIA accelerated computing to train foundation",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 74,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (models)"
-      ],
-      "metrics": {
-        "likes": 220,
-        "retweets": 25,
-        "replies": 29,
-        "likes_h": "220"
-      },
-      "engagement": 299,
       "hot": false
     }
   ]
