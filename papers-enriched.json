@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-15T05:39:57.499Z",
-  "count": 146,
+  "generated_at": "2026-06-15T12:29:02.874Z",
+  "count": 168,
   "papers": {
     "oa_vfyp9y": {
       "headline": "A New Way to Pick the Best Model for Unsupervised Domain Adaptation",
@@ -1023,6 +1023,160 @@
       "visual": "a handful of glittering, shifting confetti pieces being guided into a stable, glowing mosaic",
       "cover": "/paper-covers/arxiv_1gh2ogy.jpg",
       "enriched_at": "2026-06-14T12:30:41.642Z"
+    },
+    "arxiv_1sefkxa": {
+      "headline": "Infrared Light Triggers Structural Shifts in Space Ice",
+      "hook": "Researchers shone tuned infrared lasers on amorphous solid water, the icy coating that covers dust grains in space, and watched its molecular network rearrange in real time. This resonant vibration can change how the ice binds other molecules, affecting the chemistry that builds complex organics in interstellar clouds. Understanding this shift helps explain how simple ices evolve into the precursors of comets and life‑forming compounds.",
+      "visual": "a microscopic dust particle coated with a shimmering layer of amorphous ice, illuminated by a focused infrared beam",
+      "cover": "/paper-covers/arxiv_1sefkxa.jpg",
+      "enriched_at": "2026-06-15T12:24:57.170Z"
+    },
+    "arxiv_1qikmh6": {
+      "headline": "How Light-Triggered Nanoparticles Are Reshaping Chemical Reactions",
+      "hook": "Researchers have shown that tiny metal particles can use light to create energetic electrons that break chemical bonds. Early excitement suggested sunlight could power new chemical reactions, but later studies found many of those claims were too optimistic, leading scientists to re‑examine how the particles really behave.",
+      "visual": "a gold nanoparticle illuminated by a laser beam",
+      "cover": "/paper-covers/arxiv_1qikmh6.jpg",
+      "enriched_at": "2026-06-15T12:25:11.568Z"
+    },
+    "arxiv_ned1r5": {
+      "headline": "How to Properly Initialize and Regularize Factorized Neural Layers",
+      "hook": "Researchers examined neural network layers built by multiplying two or more smaller matrices, a trick used to compress models and speed up attention mechanisms. They tested simple ways to set the initial values of these layers and to keep them stable during training. The findings show that a few easy adjustments let compressed models learn faster while preserving accuracy.",
+      "visual": "three rectangular matrices sliding together to form a larger rectangular layer",
+      "cover": "/paper-covers/arxiv_ned1r5.jpg",
+      "enriched_at": "2026-06-15T12:25:17.253Z"
+    },
+    "arxiv_11r0pqm": {
+      "headline": "Infrared Spectra Reveal Pyroxene Chemistry and Crystal Structure",
+      "hook": "Researchers recorded the infrared light absorbed by 17 different pyroxene minerals at everyday temperatures. By linking each mineral’s chemical makeup to its unique spectral pattern, they created a reference library for spotting these rocks in meteorites and on other worlds. This work helps scientists decode the hidden stories of planetary surfaces without needing to bring samples back to Earth.",
+      "visual": "a laboratory infrared spectrometer aimed at a small, gleaming pyroxene crystal on a black stage",
+      "cover": "/paper-covers/arxiv_11r0pqm.jpg",
+      "enriched_at": "2026-06-15T12:25:24.633Z"
+    },
+    "arxiv_1hhud39": {
+      "headline": "Compressing Perovskite Lattice Raises Barrier Against Phase Segregation",
+      "hook": "Researchers squeezed mixed-halide perovskite crystals using high pressure to see how it influences ion movement under light. They found that the compression raises the energy needed for halide ions to migrate, which stops the material from splitting into separate phases. This simple mechanical trick could make perovskite LEDs and tandem solar cells far more stable and efficient.",
+      "visual": "a perovskite film being pressed between two flat diamond tips",
+      "cover": "/paper-covers/arxiv_1hhud39.jpg",
+      "enriched_at": "2026-06-15T12:25:48.589Z"
+    },
+    "arxiv_2yodd5": {
+      "headline": "Teaching AI to See Colors and Understand What 'Color' Means",
+      "hook": "Researchers built a model that learns not just to label objects as red or green, but also to grasp that red and green share the property of color. By training on pictures paired with simple question‑answer pairs, the system starts to answer higher‑level queries like 'What property do these two things share?' This bridges the gap between perceiving features and reasoning about their relationships.",
+      "visual": "a child pointing at a red apple and a green leaf with a color swatch in a thought bubble",
+      "cover": "/paper-covers/arxiv_2yodd5.jpg",
+      "enriched_at": "2026-06-15T12:26:01.617Z"
+    },
+    "arxiv_1dju1pi": {
+      "headline": "How Android Apps Combine Web Pages and Native Code at Scale",
+      "hook": "The researchers examined a large collection of Android apps to see how they embed web content using WebView and run JavaScript inside the app. They wanted to understand how often developers share Android objects with that JavaScript code and what risks that creates. By mapping these patterns, the study highlights where the blend of web and native code could expose sensitive functions to untrusted web content.",
+      "visual": "a smartphone screen showing a native Android app with an embedded web page displaying JavaScript code",
+      "cover": "/paper-covers/arxiv_1dju1pi.jpg",
+      "enriched_at": "2026-06-15T12:26:08.758Z"
+    },
+    "arxiv_miouaq": {
+      "headline": "Boosting AI With Unlabeled Data Through Smart Noise",
+      "hook": "Researchers took a pile of unlabeled images and randomly twisted, blurred, or recolored them to create noisy versions. They then trained an AI model to give the same answer for both the original and its noisy copy, showing that the AI can learn strong patterns without many labels.",
+      "visual": "a smartphone screen showing a photo that is being gradually blurred and shifted in color",
+      "cover": "/paper-covers/arxiv_miouaq.jpg",
+      "enriched_at": "2026-06-15T12:26:16.093Z"
+    },
+    "arxiv_1tchhc5": {
+      "headline": "How Social Media Buzz Shapes Earnings Surprises And Stock Moves",
+      "hook": "Researchers collected a decade of social media posts about companies just before their earnings announcements. They measured how excited and optimistic the language was and compared it to the actual earnings results and stock price moves. The findings show that upbeat chatter often precedes better-than-expected profits and a positive market reaction.",
+      "visual": "a smartphone screen lit up with cheerful emojis hovering over a rising stock graph",
+      "cover": "/paper-covers/arxiv_1tchhc5.jpg",
+      "enriched_at": "2026-06-15T12:26:17.299Z"
+    },
+    "arxiv_csoso6": {
+      "headline": "Cyclical KL Annealing Prevents Vanishing in Language VAEs",
+      "hook": "Variational autoencoders used for text often stop using their hidden code and just copy the input, making them useless for generating new sentences. By repeatedly raising and lowering the importance of the KL term during training, the authors keep the model from ignoring its code and improve the diversity of generated text. This simple cyclical schedule works across several language tasks without adding model complexity.",
+      "visual": "a roller coaster track looping over a series of typed sentences",
+      "cover": "/paper-covers/arxiv_csoso6.jpg",
+      "enriched_at": "2026-06-15T12:26:30.258Z"
+    },
+    "arxiv_sh3jzf": {
+      "headline": "Compiling Code To Survive Unpredictable Hardware Memory Aliasing",
+      "hook": "Researchers built a compiler that inserts checks and transformations so programs behave correctly even when hardware secretly maps the same logical address to different physical locations. This hidden aliasing can break encrypted computations and cause silent bugs in low‑level systems, making reliability a major concern. The technique lets existing code run unchanged while guaranteeing deterministic behavior against these sneaky memory quirks.",
+      "visual": "a close‑up of a silicon wafer displaying glowing red and blue traces that diverge from a single point into multiple paths",
+      "cover": "/paper-covers/arxiv_sh3jzf.jpg",
+      "enriched_at": "2026-06-15T12:26:32.621Z"
+    },
+    "arxiv_1jrxpwq": {
+      "headline": "When Interest Rates Rise, Loan Balances Can Bend Both Ways",
+      "hook": "Researchers took the standard formula for paying off a loan with fixed payments and examined how the remaining balance changes as the interest rate shifts. They found that the balance does not simply curve downward; instead it can bend upward at low rates before turning downward at higher rates. This shape affects how sensitive loan costs are to rate changes.",
+      "visual": "a curved road sign showing an interest rate gauge and a loan balance bar",
+      "cover": "/paper-covers/arxiv_1jrxpwq.jpg",
+      "enriched_at": "2026-06-15T12:26:57.301Z"
+    },
+    "arxiv_178vyf4": {
+      "headline": "Runtime Guardrails Keep Learning Robots From Going Off‑Track",
+      "hook": "The team created SOTER, a runtime monitor that watches a robot’s actions and can override its commands when it predicts a safety violation. This lets engineers plug in sophisticated learning‑based controllers while still guaranteeing the robot won’t hurt itself or its surroundings.",
+      "visual": "a humanoid robot reaching for a cup while a glowing safety halo surrounds its hand",
+      "cover": "/paper-covers/arxiv_178vyf4.jpg",
+      "enriched_at": "2026-06-15T12:27:06.046Z"
+    },
+    "arxiv_i2li7e": {
+      "headline": "Femtosecond Laser Etching Boosts Crystal Reactivity Inside",
+      "hook": "Researchers used ultra‑short laser pulses to etch tiny channels deep inside hard crystals, making the material chemically reactive where it was previously inert. This boosts reactivity by more than five orders of magnitude, opening the door to building three‑dimensional optical devices directly within the crystal bulk. The trick could let engineers sculpt light‑guiding pathways or sensors without cracking the crystal.",
+      "visual": "a focused femtosecond laser carving a glowing nanoscale tunnel inside a clear crystal",
+      "cover": "/paper-covers/arxiv_i2li7e.jpg",
+      "enriched_at": "2026-06-15T12:27:09.160Z"
+    },
+    "arxiv_1nru56z": {
+      "headline": "CANAL Turns LLVM Code Into a Cache Timing Analyzer",
+      "hook": "Researchers built CANAL, a tool that rewrites a program’s LLVM intermediate code so it can predict how the CPU’s cache will behave during execution. By turning ordinary source into a cache‑timing simulator, the framework lets anyone test optimizations or spot security leaks without writing custom analysis from scratch. It makes cache‑level performance and side‑channel studies much faster and more comparable across projects.",
+      "visual": "a silicon CPU cache array illuminated beside scrolling LLVM intermediate representation text",
+      "cover": "/paper-covers/arxiv_1nru56z.jpg",
+      "enriched_at": "2026-06-15T12:27:10.729Z"
+    },
+    "arxiv_1n38brj": {
+      "headline": "Cavity Filling Adds Synthetic Samples to Balance Minority Classes",
+      "hook": "Researchers examined what a trained neural network had learned in its middle layers and used those patterns to create fake data points for the under‑represented classes. By inserting these synthetic examples into the training set, the model gets a fairer view of each category and improves its performance on rare cases. This simple “cavity‑filling” trick boosts accuracy on imbalanced problems without redesigning the network.",
+      "visual": "a bar chart of class frequencies where short bars are being topped up with bright blocks",
+      "cover": "/paper-covers/arxiv_1n38brj.jpg",
+      "enriched_at": "2026-06-15T12:27:15.266Z"
+    },
+    "arxiv_fxtqi7": {
+      "headline": "RNNs Learn to Tell Stories from Video Frames",
+      "hook": "Researchers trained recurrent neural networks to watch short video clips and generate sentences that describe actions over time, not just static objects. By focusing on how things move and change, the model creates descriptions like \"a person kicks a ball\" instead of simple labels. This advance brings video understanding closer to human storytelling, enabling smarter video search and accessibility features.",
+      "visual": "a skateboarder mid-air performing a kickflip with floating text describing the trick",
+      "cover": "/paper-covers/arxiv_fxtqi7.jpg",
+      "enriched_at": "2026-06-15T12:27:32.033Z"
+    },
+    "arxiv_1nx1j4k": {
+      "headline": "How Software Diversification Undermines Malware Signature Detection",
+      "hook": "Researchers took known malware samples and randomly shuffled their code and data blocks. When these altered binaries were scanned by typical antivirus programs that rely on matching known signatures, many were no longer flagged as malicious. This shows that even small changes can break the assumption that all versions of a malware family look alike, challenging current detection methods.",
+      "visual": "a shield icon cracked by shifting puzzle pieces of binary code",
+      "cover": "/paper-covers/arxiv_1nx1j4k.jpg",
+      "enriched_at": "2026-06-15T12:27:36.748Z"
+    },
+    "arxiv_1yposrd": {
+      "headline": "DNA‑Linked Nickel‑Gold Nanochains Mix Conductivity, Light, Magnetism",
+      "hook": "Researchers built tiny chains where a nickel core is coated with gold and stitched together with DNA strands. The resulting nano‑structures conduct electricity, interact with light, and respond to magnetic fields all at once. That combo could let future biosensors or bio‑computers process signals in ways ordinary materials can't.",
+      "visual": "a string of gold‑shimmering nickel nanoparticles linked by glowing DNA strands",
+      "cover": "/paper-covers/arxiv_1yposrd.jpg",
+      "enriched_at": "2026-06-15T12:27:57.159Z"
+    },
+    "arxiv_ds5im9": {
+      "headline": "Gold Nanoparticle Microcapsules for Improved Drug‑Eluting Stents",
+      "hook": "Researchers built tiny capsules from self‑assembled nanomaterials that hold gold nanoparticles, which can carry drugs directly to artery walls. The design aims to improve drug‑eluting stents by providing controlled release and reducing restenosis and clot formation. Early tests show the capsules stay stable and release medication when triggered, offering a potential upgrade over current stent coatings.",
+      "visual": "a tiny gold‑speckled microcapsule floating inside a blood vessel",
+      "cover": "/paper-covers/arxiv_ds5im9.jpg",
+      "enriched_at": "2026-06-15T12:28:03.944Z"
+    },
+    "arxiv_1wf0gyg": {
+      "headline": "How Supernova Spin Could Have Set Life’s Molecular Handedness",
+      "hook": "Researchers propose that the intense spin of nitrogen-14 atoms in molecules near exploding supernovas can bias the formation of amino acids toward one mirror-image form. If true, this cosmic bias would explain why all known life uses the same handedness of amino acids and how it could spread across the galaxy. The idea links stellar explosions to the very chemistry that makes life possible.",
+      "visual": "a supernova’s glowing shockwave passing over a cloud of glycine molecules with a highlighted nitrogen nucleus",
+      "cover": "/paper-covers/arxiv_1wf0gyg.jpg",
+      "enriched_at": "2026-06-15T12:28:06.715Z"
+    },
+    "arxiv_18lupa3": {
+      "headline": "How Heavy Isotope Ices Absorb VUV Light in Space",
+      "hook": "Researchers made ultra‑cold ices of heavy water, methanol, carbon dioxide and nitrogen, then shone far‑UV light on them to see how each isotope absorbs. The measurements give astronomers a new tool to identify these molecules in interstellar clouds by their UV fingerprints. Seeing how swapping just a few neutrons changes the UV absorption helps us trace the chemistry that builds stars and planets.",
+      "visual": "a tiny icy grain coated with deuterated water crystals illuminated by a purple UV beam in a dark lab chamber",
+      "cover": "/paper-covers/arxiv_18lupa3.jpg",
+      "enriched_at": "2026-06-15T12:28:39.296Z"
     }
   }
 }
