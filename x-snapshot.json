@@ -1,16 +1,183 @@
 {
-  "generated_at": "2026-06-16T21:30:25.375Z",
+  "generated_at": "2026-06-16T23:10:42.158Z",
   "handles": [
+    "AnthropicAI",
+    "OpenAI",
     "nvidia",
     "elonmusk",
-    "AnthropicAI",
     "GoogleDeepMind",
-    "OpenAI",
-    "demishassabis",
-    "claudeai"
+    "demishassabis"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2066969635099144682",
+      "title": "We’re sharing new research on a method for anticipating how models may behave in real-world use before release: simulating deployment with recent, de-identified user requests and studying candidate…",
+      "link": "https://x.com/OpenAI/status/2066969635099144682",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-06-16T19:42:18.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Research"
+      ],
+      "summary": "We’re sharing new research on a method for anticipating how models may behave in real-world use before release: simulating deployment with recent, de-identified user requests and studying candidate model responses. https://openai.com/index/deployment-simulation/",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 100,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "announcement language (release)",
+        "tech substance (model, models, research)",
+        "links to a source",
+        "high engagement (1.4K likes)"
+      ],
+      "metrics": {
+        "likes": 1353,
+        "retweets": 106,
+        "replies": 102,
+        "likes_h": "1.4K"
+      },
+      "engagement": 1667,
+      "hot": false
+    },
+    {
+      "id": "x_2066969542010806561",
+      "title": "These and other measures will allow us to track consequential shifts in the nature of work as they happen—we'll incorporate some of them into the Anthropic Economic Index going forward. Read the full…",
+      "link": "https://x.com/AnthropicAI/status/2066969542010806561",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Anthropic · @AnthropicAI",
+      "handle": "AnthropicAI",
+      "org": "Anthropic",
+      "published": "2026-06-16T19:41:55.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "Anthropic",
+        "Research"
+      ],
+      "summary": "These and other measures will allow us to track consequential shifts in the nature of work as they happen—we'll incorporate some of them into the Anthropic Economic Index going forward. Read the full report: https://www.anthropic.com/research/claude-code-expertise",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 56,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "reply / conversation",
+        "tech substance (claude, research)",
+        "links to a source"
+      ],
+      "metrics": {
+        "likes": 111,
+        "retweets": 10,
+        "replies": 44,
+        "likes_h": "111"
+      },
+      "engagement": 175,
+      "hot": false
+    },
+    {
+      "id": "x_2066969532380721386",
+      "title": "Our latest economic research introduces a framework for tracking Claude Code as it scales. Who is using Claude Code, and what are they using it for? How is the value of tasks changing? And how much…",
+      "link": "https://x.com/AnthropicAI/status/2066969532380721386",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Anthropic · @AnthropicAI",
+      "handle": "AnthropicAI",
+      "org": "Anthropic",
+      "published": "2026-06-16T19:41:53.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "Anthropic",
+        "Research"
+      ],
+      "summary": "Our latest economic research introduces a framework for tracking Claude Code as it scales. Who is using Claude Code, and what are they using it for? How is the value of tasks changing? And how much does domain expertise shape whether a session succeeds? https://www.anthropic.com/research/claude-code-expertise",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 89,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (claude, research)",
+        "links to a source",
+        "high engagement (1.3K likes)"
+      ],
+      "metrics": {
+        "likes": 1338,
+        "retweets": 119,
+        "replies": 289,
+        "likes_h": "1.3K"
+      },
+      "engagement": 1865,
+      "hot": false
+    },
+    {
+      "id": "x_2066934692641956231",
+      "title": "Let’s talk about evals. We’re always looking for better ways to measure and forecast model progress, especially as benchmarks get saturated or gamed. @tejalpatwardhan, who leads our frontier evals…",
+      "link": "https://x.com/OpenAI/status/2066934692641956231",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-06-16T17:23:27.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Product"
+      ],
+      "summary": "Let’s talk about evals. We’re always looking for better ways to measure and forecast model progress, especially as benchmarks get saturated or gamed. @tejalpatwardhan, who leads our frontier evals team, spoke to @andrewmayne about why evals matter and what models need to be",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 88,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "tech substance (model, models, benchmarks)",
+        "high engagement (1.1K likes)"
+      ],
+      "metrics": {
+        "likes": 1119,
+        "retweets": 70,
+        "replies": 101,
+        "likes_h": "1.1K"
+      },
+      "engagement": 1360,
+      "hot": false
+    },
     {
       "id": "x_2066902394655424619",
       "title": "Learn how the NVIDIA platform and ecosystem enable AI model builders to launch frontier models faster, minimize training costs, and start generating revenue early. 🔗 https://nvda.ws/3SIOU6q",
@@ -203,15 +370,15 @@
       "sentiment_score": 0,
       "reasons": [
         "report-worthy",
-        "high engagement (88K likes)"
+        "high engagement (88.1K likes)"
       ],
       "metrics": {
-        "likes": 88017,
-        "retweets": 25770,
-        "replies": 12574,
-        "likes_h": "88K"
+        "likes": 88117,
+        "retweets": 25783,
+        "replies": 12600,
+        "likes_h": "88.1K"
       },
-      "engagement": 152131,
+      "engagement": 152283,
       "hot": true
     },
     {
@@ -454,12 +621,12 @@
         "high engagement (21.7K likes)"
       ],
       "metrics": {
-        "likes": 21667,
+        "likes": 21686,
         "retweets": 1746,
-        "replies": 1343,
+        "replies": 1347,
         "likes_h": "21.7K"
       },
-      "engagement": 26502,
+      "engagement": 26525,
       "hot": true
     },
     {
@@ -619,7 +786,7 @@
         "likes_h": "3.3K"
       },
       "engagement": 4152,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2065057393927467084",
@@ -656,12 +823,12 @@
         "high engagement (6.9K likes)"
       ],
       "metrics": {
-        "likes": 6897,
-        "retweets": 724,
-        "replies": 572,
+        "likes": 6918,
+        "retweets": 726,
+        "replies": 579,
         "likes_h": "6.9K"
       },
-      "engagement": 8917,
+      "engagement": 8949,
       "hot": true
     },
     {
@@ -904,12 +1071,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 386,
+        "likes": 389,
         "retweets": 24,
-        "replies": 30,
-        "likes_h": "386"
+        "replies": 33,
+        "likes_h": "389"
       },
-      "engagement": 464,
+      "engagement": 470,
       "hot": false
     },
     {
@@ -947,12 +1114,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 251,
+        "likes": 252,
         "retweets": 18,
         "replies": 23,
-        "likes_h": "251"
+        "likes_h": "252"
       },
-      "engagement": 310,
+      "engagement": 311,
       "hot": false
     },
     {
@@ -1159,174 +1326,6 @@
       },
       "engagement": 687,
       "hot": false
-    },
-    {
-      "id": "x_2064741061352636762",
-      "title": "DiffusionGemma is our new experimental open model with up to 4x faster output on dedicated GPUs. Instead of predicting word-by-word, it generates entire blocks of text simultaneously. This lets the…",
-      "link": "https://x.com/GoogleDeepMind/status/2064741061352636762",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Google DeepMind · @GoogleDeepMind",
-      "handle": "GoogleDeepMind",
-      "org": "Google",
-      "published": "2026-06-10T16:06:44.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "Google",
-        "Product"
-      ],
-      "summary": "DiffusionGemma is our new experimental open model with up to 4x faster output on dedicated GPUs. Instead of predicting word-by-word, it generates entire blocks of text simultaneously. This lets the model self-correct and format complex markdown in real time.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 78,
-      "sentiment": "positive",
-      "sentiment_score": 1,
-      "reasons": [
-        "report-worthy",
-        "casual tone (this)",
-        "tech substance (model, gpus)",
-        "high engagement (2.4K likes)",
-        "concrete metrics"
-      ],
-      "metrics": {
-        "likes": 2366,
-        "retweets": 262,
-        "replies": 110,
-        "likes_h": "2.4K"
-      },
-      "engagement": 3000,
-      "hot": false
-    },
-    {
-      "id": "x_2064482269998281206",
-      "title": "At #WWDC26, NVIDIA Confidential Computing on @GoogleCloud is enabling Apple to extend their groundbreaking Private Cloud Compute service to third-party data centers for the first time. NVIDIA is…",
-      "link": "https://x.com/nvidia/status/2064482269998281206",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-09T22:58:24.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product",
-        "WWDC26"
-      ],
-      "summary": "At #WWDC26, NVIDIA Confidential Computing on @GoogleCloud is enabling Apple to extend their groundbreaking Private Cloud Compute service to third-party data centers for the first time. NVIDIA is collaborating with Apple and Google to power Apple Intelligence workloads built",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 75,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (data center)"
-      ],
-      "metrics": {
-        "likes": 286,
-        "retweets": 49,
-        "replies": 39,
-        "likes_h": "286"
-      },
-      "engagement": 423,
-      "hot": false
-    },
-    {
-      "id": "x_2064473736737358105",
-      "title": "Voice AI calls just got a privacy upgrade. 🔒 @DeepgramAI now runs fully on-prem with encrypted audio and model weights, powered by @fortanix Confidential AI and NVIDIA Confidential Computing. Read…",
-      "link": "https://x.com/nvidia/status/2064473736737358105",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-09T22:24:29.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product launch",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product launch"
-      ],
-      "summary": "Voice AI calls just got a privacy upgrade. 🔒 @DeepgramAI now runs fully on-prem with encrypted audio and model weights, powered by @fortanix Confidential AI and NVIDIA Confidential Computing. Read the press release: https://nvda.ws/43KdoyN",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 100,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "announcement language (release)",
-        "tech substance (model, weights)",
-        "links to a source"
-      ],
-      "metrics": {
-        "likes": 139,
-        "retweets": 19,
-        "replies": 17,
-        "likes_h": "139"
-      },
-      "engagement": 194,
-      "hot": false
-    },
-    {
-      "id": "x_2064394146916229443",
-      "title": "Introducing Claude Fable 5: a Mythos-class model that we’ve made safe for general use. Its capabilities exceed those of any model we’ve ever made generally available.",
-      "link": "https://x.com/claudeai/status/2064394146916229443",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Claude · @claudeai",
-      "handle": "claudeai",
-      "org": "Anthropic",
-      "published": "2026-06-09T17:08:13.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product launch",
-      "categories": [
-        "X",
-        "Anthropic",
-        "Product launch"
-      ],
-      "summary": "Introducing Claude Fable 5: a Mythos-class model that we’ve made safe for general use. Its capabilities exceed those of any model we’ve ever made generally available.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 100,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "announcement language (introducing, generally available)",
-        "tech substance (model, claude)",
-        "high engagement (104K likes)"
-      ],
-      "metrics": {
-        "likes": 104048,
-        "retweets": 14485,
-        "replies": 4949,
-        "likes_h": "104K"
-      },
-      "engagement": 137967,
-      "hot": true
     }
   ]
 }
