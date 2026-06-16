@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-16T18:23:30.040Z",
-  "count": 175,
+  "generated_at": "2026-06-16T21:28:26.921Z",
+  "count": 176,
   "papers": {
     "oa_vfyp9y": {
       "headline": "A New Way to Pick the Best Model for Unsupervised Domain Adaptation",
@@ -1226,6 +1226,13 @@
       "visual": "a trader standing before a glowing holographic stock chart intertwined with neon blockchain links",
       "cover": "/paper-covers/oa_5nlkzs.jpg",
       "enriched_at": "2026-06-16T18:21:09.719Z"
+    },
+    "oa_1q5bdov": {
+      "headline": "How Better Battery Models Boost EV Safety and Lifespan",
+      "hook": "Researchers surveyed the latest methods for modeling battery behavior inside electric vehicles and grid storage. They show how accurate models let management systems predict temperature spikes, spot faults early, and estimate charge more precisely—extending battery life and preventing fires. The review highlights emerging techniques like machine‑learning‑enhanced models and points out what still needs work before next‑gen EVs can rely on them.",
+      "visual": "a close‑up of an electric vehicle battery pack with transparent casing revealing internal sensors and cooling channels",
+      "cover": "/paper-covers/oa_1q5bdov.jpg",
+      "enriched_at": "2026-06-16T21:28:23.854Z"
     }
   }
 }
