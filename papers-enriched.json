@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-16T13:19:00.403Z",
-  "count": 169,
+  "generated_at": "2026-06-16T18:23:30.040Z",
+  "count": 175,
   "papers": {
     "oa_vfyp9y": {
       "headline": "A New Way to Pick the Best Model for Unsupervised Domain Adaptation",
@@ -1184,6 +1184,48 @@
       "visual": "a bank data center server rack with green LED lights indicating low‑power AI workloads",
       "cover": "/paper-covers/oa_5nir2j.jpg",
       "enriched_at": "2026-06-16T02:10:37.576Z"
+    },
+    "oa_ino73": {
+      "headline": "New Fractional-Order Chaotic Map Boosts Image Encryption Security",
+      "hook": "Researchers designed a two‑dimensional variable fractional‑order hyperchaotic map and used it to scramble digital images. The resulting encryption resists common attacks while staying fast enough for real‑time use. This approach offers a stronger lock for photos shared online or stored on devices.",
+      "visual": "a smartphone screen showing a personal photo half‑visible and half‑covered by a bright, shifting pixel pattern",
+      "cover": "/paper-covers/oa_ino73.jpg",
+      "enriched_at": "2026-06-16T18:20:34.562Z"
+    },
+    "oa_70cnsj": {
+      "headline": "Brain’s Clean‑Up Crew May Play a Role in Depression and Schizophrenia",
+      "hook": "Researchers surveyed studies showing that the brain’s glymphatic system—which flushes out metabolic waste during sleep—can be impaired in people with depression, bipolar disorder, schizophrenia, or PTSD. When this cleaning network slows, toxic proteins may build up and disrupt neural circuits linked to mood and cognition. The findings suggest that boosting glymphatic flow could become a new therapeutic angle for psychiatric illness.",
+      "visual": "a mouse brain illuminated with a fluorescent tracer highlighting the perivascular glymphatic pathways",
+      "cover": "/paper-covers/oa_70cnsj.jpg",
+      "enriched_at": "2026-06-16T18:20:34.646Z"
+    },
+    "oa_1qlpqhm": {
+      "headline": "Machine Learning Boosts Solid‑State Electrolyte Design for Batteries",
+      "hook": "Researchers used machine learning models to screen thousands of candidate materials for solid‑state electrolytes, pinpointing those with high ionic conductivity and strong mechanical properties. By guiding lab experiments toward the most promising compounds, the approach cuts development time from years to months. The result could yield safer, longer‑lasting lithium‑ion batteries for everything from smartphones to electric cars.",
+      "visual": "a translucent solid‑state electrolyte slab sandwiched between lithium metal electrodes inside a battery cell",
+      "cover": "/paper-covers/oa_1qlpqhm.jpg",
+      "enriched_at": "2026-06-16T18:20:36.417Z"
+    },
+    "oa_ub60f2": {
+      "headline": "How Plant Flavonoids Fight Oxidative Stress and Inflammation",
+      "hook": "Researchers reviewed studies on plant-derived flavonoids to see how they neutralize harmful molecules and calm inflammation. Understanding this helps explain why foods like berries, tea, and dark chocolate may protect against heart disease, cancer, and brain disorders. Yet the body often absorbs these compounds poorly, prompting scientists to look for ways to boost their effectiveness.",
+      "visual": "a handful of mixed berries (blueberries, strawberries, raspberries) piled on a rustic ceramic plate",
+      "cover": "/paper-covers/oa_ub60f2.jpg",
+      "enriched_at": "2026-06-16T18:20:52.495Z"
+    },
+    "oa_63ulld": {
+      "headline": "Oral Microbiome Links to Aging and Longevity",
+      "hook": "Researchers reviewed dozens of studies showing that the mix of bacteria in our mouths changes as we get older, and those shifts are tied to inflammation, tooth loss, and even systemic diseases like diabetes and heart trouble. By mapping these microbial patterns, scientists hope to spot early warning signs of aging-related decline and maybe even slow it down. Imagine a simple saliva test that could tell you how fast your body is aging.",
+      "visual": "a close-up of a human tooth coated with colorful bacterial biofilm",
+      "cover": "/paper-covers/oa_63ulld.jpg",
+      "enriched_at": "2026-06-16T18:20:52.656Z"
+    },
+    "oa_5nlkzs": {
+      "headline": "How AI Is Shaping the Future of Stock Price Forecasting",
+      "hook": "Researchers surveyed the latest AI techniques used to forecast stock prices, from early statistical models to deep learning networks that now incorporate blockchain data and quantum computing ideas. They show how these hybrid approaches could improve prediction accuracy and give traders a clearer view of market moves. The review highlights why blending AI with emerging tech might reshape how we invest.",
+      "visual": "a trader standing before a glowing holographic stock chart intertwined with neon blockchain links",
+      "cover": "/paper-covers/oa_5nlkzs.jpg",
+      "enriched_at": "2026-06-16T18:21:09.719Z"
     }
   }
 }

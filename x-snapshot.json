@@ -1,16 +1,100 @@
 {
-  "generated_at": "2026-06-16T13:21:03.651Z",
+  "generated_at": "2026-06-16T18:25:24.497Z",
   "handles": [
-    "AnthropicAI",
-    "OpenAI",
     "nvidia",
     "GoogleDeepMind",
     "elonmusk",
+    "NVIDIAAI",
+    "AnthropicAI",
+    "OpenAI",
     "demishassabis",
     "claudeai"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2066902394655424619",
+      "title": "Learn how the NVIDIA platform and ecosystem enable AI model builders to launch frontier models faster, minimize training costs, and start generating revenue early. 🔗 https://nvda.ws/3SIOU6q",
+      "link": "https://x.com/nvidia/status/2066902394655424619",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-16T15:15:06.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Research"
+      ],
+      "summary": "Learn how the NVIDIA platform and ecosystem enable AI model builders to launch frontier models faster, minimize training costs, and start generating revenue early. 🔗 https://nvda.ws/3SIOU6q",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 75,
+      "sentiment": "positive",
+      "sentiment_score": 1,
+      "reasons": [
+        "report-worthy",
+        "reply / conversation",
+        "tech substance (model, models, training)",
+        "business signal (revenue)",
+        "links to a source"
+      ],
+      "metrics": {
+        "likes": 25,
+        "retweets": 4,
+        "replies": 2,
+        "likes_h": "25"
+      },
+      "engagement": 35,
+      "hot": false
+    },
+    {
+      "id": "x_2066902392570876031",
+      "title": "The NVIDIA Blackwell platform just swept MLPerf Training 6.0, delivering fastest performance and largest scale. Beyond the benchmarks, capabilities like the Reliability, Availability, and…",
+      "link": "https://x.com/nvidia/status/2066902392570876031",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-16T15:15:06.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Research"
+      ],
+      "summary": "The NVIDIA Blackwell platform just swept MLPerf Training 6.0, delivering fastest performance and largest scale. Beyond the benchmarks, capabilities like the Reliability, Availability, and Serviceability Engine and NVIDIA Resiliency Extension deliver fewer interruptions and",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 88,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (benchmarks, training, blackwell)"
+      ],
+      "metrics": {
+        "likes": 160,
+        "retweets": 25,
+        "replies": 17,
+        "likes_h": "160"
+      },
+      "engagement": 227,
+      "hot": false
+    },
     {
       "id": "x_2066610003046273161",
       "title": "⚡Energy is the foundation of the AI 5-Layer Cake. As AI demand accelerates, energy is the key constraint on growth. From power and utilities to surface and subsurface operations — AI, digital twins,…",
@@ -43,12 +127,12 @@
         "tech substance (agents)"
       ],
       "metrics": {
-        "likes": 296,
-        "retweets": 58,
-        "replies": 56,
-        "likes_h": "296"
+        "likes": 327,
+        "retweets": 62,
+        "replies": 58,
+        "likes_h": "327"
       },
-      "engagement": 468,
+      "engagement": 509,
       "hot": false
     },
     {
@@ -80,15 +164,15 @@
       "sentiment_score": 0,
       "reasons": [
         "report-worthy",
-        "high engagement (46.9K likes)"
+        "high engagement (49.4K likes)"
       ],
       "metrics": {
-        "likes": 46892,
-        "retweets": 7525,
-        "replies": 5663,
-        "likes_h": "46.9K"
+        "likes": 49368,
+        "retweets": 8182,
+        "replies": 6186,
+        "likes_h": "49.4K"
       },
-      "engagement": 67605,
+      "engagement": 71918,
       "hot": true
     },
     {
@@ -163,12 +247,12 @@
         "tech substance (model, agent, benchmark)"
       ],
       "metrics": {
-        "likes": 583,
+        "likes": 582,
         "retweets": 92,
-        "replies": 77,
-        "likes_h": "583"
+        "replies": 76,
+        "likes_h": "582"
       },
-      "engagement": 844,
+      "engagement": 842,
       "hot": false
     },
     {
@@ -204,15 +288,15 @@
         "casual tone (congratulations)",
         "announcement language (debut)",
         "business signal (ipo, partnership, ipo)",
-        "high engagement (21.9K likes)"
+        "high engagement (22K likes)"
       ],
       "metrics": {
-        "likes": 21899,
-        "retweets": 1973,
+        "likes": 22004,
+        "retweets": 1971,
         "replies": 603,
-        "likes_h": "21.9K"
+        "likes_h": "22K"
       },
-      "engagement": 26448,
+      "engagement": 26549,
       "hot": true
     },
     {
@@ -249,11 +333,11 @@
       ],
       "metrics": {
         "likes": 318,
-        "retweets": 51,
+        "retweets": 52,
         "replies": 26,
         "likes_h": "318"
       },
-      "engagement": 446,
+      "engagement": 448,
       "hot": false
     },
     {
@@ -330,12 +414,12 @@
         "tech substance (models, gemini, robotics)"
       ],
       "metrics": {
-        "likes": 495,
-        "retweets": 74,
+        "likes": 497,
+        "retweets": 76,
         "replies": 60,
-        "likes_h": "495"
+        "likes_h": "497"
       },
-      "engagement": 703,
+      "engagement": 709,
       "hot": false
     },
     {
@@ -530,12 +614,12 @@
         "high engagement (3.3K likes)"
       ],
       "metrics": {
-        "likes": 3290,
+        "likes": 3289,
         "retweets": 374,
         "replies": 115,
         "likes_h": "3.3K"
       },
-      "engagement": 4153,
+      "engagement": 4152,
       "hot": false
     },
     {
@@ -1112,12 +1196,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 2367,
-        "retweets": 263,
+        "likes": 2366,
+        "retweets": 262,
         "replies": 110,
         "likes_h": "2.4K"
       },
-      "engagement": 3003,
+      "engagement": 3000,
       "hot": false
     },
     {
@@ -1244,89 +1328,6 @@
       },
       "engagement": 137967,
       "hot": true
-    },
-    {
-      "id": "x_2064393419150041405",
-      "title": "Earlier this year we announced that telecom leaders are building AI grids using NVIDIA AI infrastructure to optimize inference on distributed networks But what actually is an AI Grid? In this video,…",
-      "link": "https://x.com/nvidia/status/2064393419150041405",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-09T17:05:20.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product launch",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product launch"
-      ],
-      "summary": "Earlier this year we announced that telecom leaders are building AI grids using NVIDIA AI infrastructure to optimize inference on distributed networks But what actually is an AI Grid? In this video, Amogh Dendukuri takes us back to basics. Watch now to see him break down the",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 83,
-      "sentiment": "negative",
-      "sentiment_score": -0.5,
-      "reasons": [
-        "report-worthy",
-        "casual tone (this)",
-        "announcement language (announced)",
-        "tech substance (inference)"
-      ],
-      "metrics": {
-        "likes": 173,
-        "retweets": 22,
-        "replies": 30,
-        "likes_h": "173"
-      },
-      "engagement": 247,
-      "hot": false
-    },
-    {
-      "id": "x_2064366504745828689",
-      "title": "Say hello, hola, 你好 to Gemini 3.5 Live Translate: our latest audio model built for fast, cross-language communication. 🌐",
-      "link": "https://x.com/GoogleDeepMind/status/2064366504745828689",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Google DeepMind · @GoogleDeepMind",
-      "handle": "GoogleDeepMind",
-      "org": "Google",
-      "published": "2026-06-09T15:18:23.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "Google",
-        "Product"
-      ],
-      "summary": "Say hello, hola, 你好 to Gemini 3.5 Live Translate: our latest audio model built for fast, cross-language communication. 🌐",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 82,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "tech substance (model, gemini)",
-        "high engagement (958 likes)"
-      ],
-      "metrics": {
-        "likes": 958,
-        "retweets": 122,
-        "replies": 69,
-        "likes_h": "958"
-      },
-      "engagement": 1271,
-      "hot": false
     }
   ]
 }
