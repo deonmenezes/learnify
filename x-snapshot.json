@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T18:48:01.537Z",
+  "generated_at": "2026-06-17T21:15:49.576Z",
   "handles": [
     "AnthropicAI",
     "OpenAI",
@@ -10,6 +10,47 @@
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2067346916929937827",
+      "title": "Introducing LifeSciBench, a benchmark for measuring and improving how well AI supports real-world life science research. Developed with 173 scientists from biotechnology and pharmaceutical research,…",
+      "link": "https://x.com/OpenAI/status/2067346916929937827",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-06-17T20:41:29.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Research"
+      ],
+      "summary": "Introducing LifeSciBench, a benchmark for measuring and improving how well AI supports real-world life science research. Developed with 173 scientists from biotechnology and pharmaceutical research, LifeSciBench includes 750 expert-authored tasks across seven biological research",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 100,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "announcement language (introducing)",
+        "tech substance (benchmark, research)"
+      ],
+      "metrics": {
+        "likes": 520,
+        "retweets": 46,
+        "replies": 58,
+        "likes_h": "520"
+      },
+      "engagement": 670,
+      "hot": false
+    },
     {
       "id": "x_2067293745075442171",
       "title": "GPT-5.4 helped drive a medicinal chemistry project from literature review to a validated experimental result. Paired with http://Molecule.one’s Maria AI and specialized lab, the model proposed an…",
@@ -41,15 +82,15 @@
         "report-worthy",
         "tech substance (model, gpt)",
         "links to a source",
-        "high engagement (1.3K likes)"
+        "high engagement (1.7K likes)"
       ],
       "metrics": {
-        "likes": 1286,
-        "retweets": 114,
-        "replies": 100,
-        "likes_h": "1.3K"
+        "likes": 1712,
+        "retweets": 150,
+        "replies": 131,
+        "likes_h": "1.7K"
       },
-      "engagement": 1614,
+      "engagement": 2143,
       "hot": false
     },
     {
@@ -249,13 +290,13 @@
         "high engagement (2.4K likes)"
       ],
       "metrics": {
-        "likes": 2383,
-        "retweets": 223,
-        "replies": 205,
+        "likes": 2423,
+        "retweets": 226,
+        "replies": 206,
         "likes_h": "2.4K"
       },
-      "engagement": 3034,
-      "hot": false
+      "engagement": 3081,
+      "hot": true
     },
     {
       "id": "x_2066969542010806561",
@@ -281,7 +322,7 @@
       "summary": "These and other measures will allow us to track consequential shifts in the nature of work as they happen—we'll incorporate some of them into the Anthropic Economic Index going forward. Read the full report: https://www.anthropic.com/research/claude-code-expertise",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 57,
+      "worthiness_score": 58,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -291,12 +332,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 206,
+        "likes": 215,
         "retweets": 16,
-        "replies": 80,
-        "likes_h": "206"
+        "replies": 83,
+        "likes_h": "215"
       },
-      "engagement": 318,
+      "engagement": 330,
       "hot": false
     },
     {
@@ -330,15 +371,15 @@
         "report-worthy",
         "tech substance (claude, research)",
         "links to a source",
-        "high engagement (3.1K likes)"
+        "high engagement (3.2K likes)"
       ],
       "metrics": {
-        "likes": 3128,
-        "retweets": 337,
-        "replies": 431,
-        "likes_h": "3.1K"
+        "likes": 3220,
+        "retweets": 345,
+        "replies": 445,
+        "likes_h": "3.2K"
       },
-      "engagement": 4233,
+      "engagement": 4355,
       "hot": true
     },
     {
@@ -374,12 +415,12 @@
         "high engagement (1.7K likes)"
       ],
       "metrics": {
-        "likes": 1700,
-        "retweets": 119,
-        "replies": 129,
+        "likes": 1726,
+        "retweets": 120,
+        "replies": 132,
         "likes_h": "1.7K"
       },
-      "engagement": 2067,
+      "engagement": 2098,
       "hot": false
     },
     {
@@ -577,12 +618,12 @@
         "high engagement (88.2K likes)"
       ],
       "metrics": {
-        "likes": 88240,
-        "retweets": 25784,
-        "replies": 12632,
+        "likes": 88241,
+        "retweets": 25781,
+        "replies": 12635,
         "likes_h": "88.2K"
       },
-      "engagement": 152440,
+      "engagement": 152438,
       "hot": true
     },
     {
@@ -825,12 +866,12 @@
         "high engagement (21.7K likes)"
       ],
       "metrics": {
-        "likes": 21709,
+        "likes": 21714,
         "retweets": 1749,
-        "replies": 1350,
+        "replies": 1351,
         "likes_h": "21.7K"
       },
-      "engagement": 26557,
+      "engagement": 26563,
       "hot": true
     },
     {
@@ -990,7 +1031,7 @@
         "likes_h": "3.3K"
       },
       "engagement": 4172,
-      "hot": false
+      "hot": true
     },
     {
       "id": "x_2065057393927467084",
@@ -1027,12 +1068,12 @@
         "high engagement (6.9K likes)"
       ],
       "metrics": {
-        "likes": 6928,
-        "retweets": 728,
-        "replies": 582,
+        "likes": 6931,
+        "retweets": 729,
+        "replies": 583,
         "likes_h": "6.9K"
       },
-      "engagement": 8966,
+      "engagement": 8972,
       "hot": true
     },
     {
@@ -1275,55 +1316,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 394,
-        "retweets": 24,
+        "likes": 397,
+        "retweets": 25,
         "replies": 34,
-        "likes_h": "394"
+        "likes_h": "397"
       },
-      "engagement": 476,
-      "hot": false
-    },
-    {
-      "id": "x_2064783421860413780",
-      "title": "Our Advanced AI Framework sets out how governments should prepare for and prevent catastrophic risks from frontier AI systems. The government should have the authority to block or revoke the release…",
-      "link": "https://x.com/AnthropicAI/status/2064783421860413780",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Anthropic · @AnthropicAI",
-      "handle": "AnthropicAI",
-      "org": "Anthropic",
-      "published": "2026-06-10T18:55:04.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product launch",
-      "categories": [
-        "X",
-        "Anthropic",
-        "Product launch"
-      ],
-      "summary": "Our Advanced AI Framework sets out how governments should prepare for and prevent catastrophic risks from frontier AI systems. The government should have the authority to block or revoke the release of unsafe models, and invest in societal resilience. http://www.anthropic.com/policy-on-the-ai-exponential/aaif",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 75,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "reply / conversation",
-        "announcement language (release)",
-        "tech substance (models)",
-        "links to a source"
-      ],
-      "metrics": {
-        "likes": 254,
-        "retweets": 18,
-        "replies": 23,
-        "likes_h": "254"
-      },
-      "engagement": 313,
+      "engagement": 481,
       "hot": false
     }
   ]
