@@ -1,15 +1,219 @@
 {
-  "generated_at": "2026-06-17T16:18:12.823Z",
+  "generated_at": "2026-06-17T18:48:01.537Z",
   "handles": [
-    "OpenAI",
     "AnthropicAI",
+    "OpenAI",
     "nvidia",
-    "elonmusk",
     "GoogleDeepMind",
+    "elonmusk",
     "demishassabis"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2067293745075442171",
+      "title": "GPT-5.4 helped drive a medicinal chemistry project from literature review to a validated experimental result. Paired with http://Molecule.one’s Maria AI and specialized lab, the model proposed an…",
+      "link": "https://x.com/OpenAI/status/2067293745075442171",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-06-17T17:10:11.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Product"
+      ],
+      "summary": "GPT-5.4 helped drive a medicinal chemistry project from literature review to a validated experimental result. Paired with http://Molecule.one’s Maria AI and specialized lab, the model proposed an unexpected way to improve a widely used reaction in drug discovery.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 93,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (model, gpt)",
+        "links to a source",
+        "high engagement (1.3K likes)"
+      ],
+      "metrics": {
+        "likes": 1286,
+        "retweets": 114,
+        "replies": 100,
+        "likes_h": "1.3K"
+      },
+      "engagement": 1614,
+      "hot": false
+    },
+    {
+      "id": "x_2067276081548202489",
+      "title": "Registration for #NVIDIAGTC Berlin is now open. ✨ October 20–22, join the global AI community for expert-led sessions, hands-on training, and insights on how AI is transforming every industry. Hear…",
+      "link": "https://x.com/nvidia/status/2067276081548202489",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-17T16:00:00.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Research",
+        "NVIDIAGTC"
+      ],
+      "summary": "Registration for #NVIDIAGTC Berlin is now open. ✨ October 20–22, join the global AI community for expert-led sessions, hands-on training, and insights on how AI is transforming every industry. Hear from NVIDIA CEO Jensen Huang, explore what's next across the AI stack, and",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 71,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "tech substance (training)"
+      ],
+      "metrics": {
+        "likes": 68,
+        "retweets": 8,
+        "replies": 12,
+        "likes_h": "68"
+      },
+      "engagement": 96,
+      "hot": false
+    },
+    {
+      "id": "x_2067188693694136664",
+      "title": "We’re working with @SciTechgovuk, @mhclg and @i_dot_ai on a new AI housing application planning prototype. 🏡 By cutting down the time spent on repetitive tasks, it could help planning officers focus…",
+      "link": "https://x.com/GoogleDeepMind/status/2067188693694136664",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Google DeepMind · @GoogleDeepMind",
+      "handle": "GoogleDeepMind",
+      "org": "Google",
+      "published": "2026-06-17T10:12:45.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "Google",
+        "Commentary"
+      ],
+      "summary": "We’re working with @SciTechgovuk, @mhclg and @i_dot_ai on a new AI housing application planning prototype. 🏡 By cutting down the time spent on repetitive tasks, it could help planning officers focus their attention on complex projects and reduce processing times by up to 50%.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 57,
+      "sentiment": "negative",
+      "sentiment_score": -0.5,
+      "reasons": [
+        "report-worthy"
+      ],
+      "metrics": {
+        "likes": 209,
+        "retweets": 32,
+        "replies": 30,
+        "likes_h": "209"
+      },
+      "engagement": 303,
+      "hot": false
+    },
+    {
+      "id": "x_2067044209476223373",
+      "title": "Thanks @satyanadella 👏 Great work with @Azure on one of the largest MLPerf Training submission to-date on NVIDIA Blackwell: 8,192 GPUs on NVIDIA GB200 NVL72 systems, Llama 3.1 405B training target…",
+      "link": "https://x.com/nvidia/status/2067044209476223373",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-17T00:38:38.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Research"
+      ],
+      "summary": "Thanks @satyanadella 👏 Great work with @Azure on one of the largest MLPerf Training submission to-date on NVIDIA Blackwell: 8,192 GPUs on NVIDIA GB200 NVL72 systems, Llama 3.1 405B training target met in only 7.07 minutes. More to come!",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 82,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "casual tone (thanks)",
+        "tech substance (llama, training, gpus)",
+        "concrete metrics"
+      ],
+      "metrics": {
+        "likes": 397,
+        "retweets": 49,
+        "replies": 27,
+        "likes_h": "397"
+      },
+      "engagement": 522,
+      "hot": false
+    },
+    {
+      "id": "x_2067016769584177337",
+      "title": "AI infrastructure runs on more than compute. It runs on light. Today in Sherman, Texas, Jensen Huang joined @CoherentCorp CEO Jim Anderson and local leaders to mark the expansion of U.S.…",
+      "link": "https://x.com/nvidia/status/2067016769584177337",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-16T22:49:35.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Commentary"
+      ],
+      "summary": "AI infrastructure runs on more than compute. It runs on light. Today in Sherman, Texas, Jensen Huang joined @CoherentCorp CEO Jim Anderson and local leaders to mark the expansion of U.S. manufacturing capacity for advanced photonics. The technology is behind the lasers and",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 60,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "high engagement (977 likes)"
+      ],
+      "metrics": {
+        "likes": 977,
+        "retweets": 127,
+        "replies": 51,
+        "likes_h": "977"
+      },
+      "engagement": 1282,
+      "hot": false
+    },
     {
       "id": "x_2066969635099144682",
       "title": "We’re sharing new research on a method for anticipating how models may behave in real-world use before release: simulating deployment with recent, de-identified user requests and studying candidate…",
@@ -42,15 +246,15 @@
         "announcement language (release)",
         "tech substance (model, models, research)",
         "links to a source",
-        "high engagement (1.4K likes)"
+        "high engagement (2.4K likes)"
       ],
       "metrics": {
-        "likes": 1353,
-        "retweets": 106,
-        "replies": 102,
-        "likes_h": "1.4K"
+        "likes": 2383,
+        "retweets": 223,
+        "replies": 205,
+        "likes_h": "2.4K"
       },
-      "engagement": 1667,
+      "engagement": 3034,
       "hot": false
     },
     {
@@ -77,7 +281,7 @@
       "summary": "These and other measures will allow us to track consequential shifts in the nature of work as they happen—we'll incorporate some of them into the Anthropic Economic Index going forward. Read the full report: https://www.anthropic.com/research/claude-code-expertise",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 56,
+      "worthiness_score": 57,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -87,12 +291,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 111,
-        "retweets": 10,
-        "replies": 44,
-        "likes_h": "111"
+        "likes": 206,
+        "retweets": 16,
+        "replies": 80,
+        "likes_h": "206"
       },
-      "engagement": 175,
+      "engagement": 318,
       "hot": false
     },
     {
@@ -126,15 +330,15 @@
         "report-worthy",
         "tech substance (claude, research)",
         "links to a source",
-        "high engagement (1.3K likes)"
+        "high engagement (3.1K likes)"
       ],
       "metrics": {
-        "likes": 1338,
-        "retweets": 119,
-        "replies": 289,
-        "likes_h": "1.3K"
+        "likes": 3128,
+        "retweets": 337,
+        "replies": 431,
+        "likes_h": "3.1K"
       },
-      "engagement": 1865,
+      "engagement": 4233,
       "hot": true
     },
     {
@@ -167,15 +371,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (model, models, benchmarks)",
-        "high engagement (1.1K likes)"
+        "high engagement (1.7K likes)"
       ],
       "metrics": {
-        "likes": 1119,
-        "retweets": 70,
-        "replies": 101,
-        "likes_h": "1.1K"
+        "likes": 1700,
+        "retweets": 119,
+        "replies": 129,
+        "likes_h": "1.7K"
       },
-      "engagement": 1360,
+      "engagement": 2067,
       "hot": false
     },
     {
@@ -202,7 +406,7 @@
       "summary": "Learn how the NVIDIA platform and ecosystem enable AI model builders to launch frontier models faster, minimize training costs, and start generating revenue early. 🔗 https://nvda.ws/3SIOU6q",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 75,
+      "worthiness_score": 78,
       "sentiment": "positive",
       "sentiment_score": 1,
       "reasons": [
@@ -213,12 +417,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 25,
-        "retweets": 4,
-        "replies": 2,
-        "likes_h": "25"
+        "likes": 75,
+        "retweets": 7,
+        "replies": 7,
+        "likes_h": "75"
       },
-      "engagement": 35,
+      "engagement": 96,
       "hot": false
     },
     {
@@ -245,7 +449,7 @@
       "summary": "The NVIDIA Blackwell platform just swept MLPerf Training 6.0, delivering fastest performance and largest scale. Beyond the benchmarks, capabilities like the Reliability, Availability, and Serviceability Engine and NVIDIA Resiliency Extension deliver fewer interruptions and",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 88,
+      "worthiness_score": 90,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -253,12 +457,12 @@
         "tech substance (benchmarks, training, blackwell)"
       ],
       "metrics": {
-        "likes": 160,
-        "retweets": 25,
-        "replies": 17,
-        "likes_h": "160"
+        "likes": 387,
+        "retweets": 54,
+        "replies": 37,
+        "likes_h": "387"
       },
-      "engagement": 227,
+      "engagement": 532,
       "hot": false
     },
     {
@@ -293,12 +497,12 @@
         "tech substance (agents)"
       ],
       "metrics": {
-        "likes": 327,
-        "retweets": 62,
-        "replies": 58,
-        "likes_h": "327"
+        "likes": 357,
+        "retweets": 66,
+        "replies": 59,
+        "likes_h": "357"
       },
-      "engagement": 509,
+      "engagement": 548,
       "hot": false
     },
     {
@@ -330,15 +534,15 @@
       "sentiment_score": 0,
       "reasons": [
         "report-worthy",
-        "high engagement (49.4K likes)"
+        "high engagement (54.5K likes)"
       ],
       "metrics": {
-        "likes": 49368,
-        "retweets": 8182,
-        "replies": 6186,
-        "likes_h": "49.4K"
+        "likes": 54479,
+        "retweets": 9872,
+        "replies": 7749,
+        "likes_h": "54.5K"
       },
-      "engagement": 71918,
+      "engagement": 81972,
       "hot": true
     },
     {
@@ -370,15 +574,15 @@
       "sentiment_score": 0,
       "reasons": [
         "report-worthy",
-        "high engagement (88.1K likes)"
+        "high engagement (88.2K likes)"
       ],
       "metrics": {
-        "likes": 88117,
-        "retweets": 25783,
-        "replies": 12600,
-        "likes_h": "88.1K"
+        "likes": 88240,
+        "retweets": 25784,
+        "replies": 12632,
+        "likes_h": "88.2K"
       },
-      "engagement": 152283,
+      "engagement": 152440,
       "hot": true
     },
     {
@@ -580,12 +784,12 @@
         "tech substance (models, gemini, robotics)"
       ],
       "metrics": {
-        "likes": 497,
-        "retweets": 76,
-        "replies": 60,
-        "likes_h": "497"
+        "likes": 502,
+        "retweets": 83,
+        "replies": 61,
+        "likes_h": "502"
       },
-      "engagement": 709,
+      "engagement": 729,
       "hot": false
     },
     {
@@ -621,12 +825,12 @@
         "high engagement (21.7K likes)"
       ],
       "metrics": {
-        "likes": 21686,
-        "retweets": 1746,
-        "replies": 1347,
+        "likes": 21709,
+        "retweets": 1749,
+        "replies": 1350,
         "likes_h": "21.7K"
       },
-      "engagement": 26525,
+      "engagement": 26557,
       "hot": true
     },
     {
@@ -780,13 +984,13 @@
         "high engagement (3.3K likes)"
       ],
       "metrics": {
-        "likes": 3289,
-        "retweets": 374,
-        "replies": 115,
+        "likes": 3298,
+        "retweets": 379,
+        "replies": 116,
         "likes_h": "3.3K"
       },
-      "engagement": 4152,
-      "hot": true
+      "engagement": 4172,
+      "hot": false
     },
     {
       "id": "x_2065057393927467084",
@@ -823,12 +1027,12 @@
         "high engagement (6.9K likes)"
       ],
       "metrics": {
-        "likes": 6918,
-        "retweets": 726,
-        "replies": 579,
+        "likes": 6928,
+        "retweets": 728,
+        "replies": 582,
         "likes_h": "6.9K"
       },
-      "engagement": 8949,
+      "engagement": 8966,
       "hot": true
     },
     {
@@ -865,12 +1069,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 466,
-        "retweets": 95,
+        "likes": 467,
+        "retweets": 101,
         "replies": 90,
-        "likes_h": "466"
+        "likes_h": "467"
       },
-      "engagement": 746,
+      "engagement": 759,
       "hot": false
     },
     {
@@ -1029,12 +1233,12 @@
         "tech substance (research)"
       ],
       "metrics": {
-        "likes": 156,
-        "retweets": 17,
+        "likes": 159,
+        "retweets": 22,
         "replies": 29,
-        "likes_h": "156"
+        "likes_h": "159"
       },
-      "engagement": 219,
+      "engagement": 232,
       "hot": false
     },
     {
@@ -1071,12 +1275,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 389,
+        "likes": 394,
         "retweets": 24,
-        "replies": 33,
-        "likes_h": "389"
+        "replies": 34,
+        "likes_h": "394"
       },
-      "engagement": 470,
+      "engagement": 476,
       "hot": false
     },
     {
@@ -1114,217 +1318,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 252,
+        "likes": 254,
         "retweets": 18,
         "replies": 23,
-        "likes_h": "252"
+        "likes_h": "254"
       },
-      "engagement": 311,
-      "hot": false
-    },
-    {
-      "id": "x_2064783420425929169",
-      "title": "An Economic Policy Framework: a proposal for how the US government should manage labor market disruption from advanced AI. We’re contributing $200 million to a new fund to sponsor major evaluations…",
-      "link": "https://x.com/AnthropicAI/status/2064783420425929169",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Anthropic · @AnthropicAI",
-      "handle": "AnthropicAI",
-      "org": "Anthropic",
-      "published": "2026-06-10T18:55:03.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Funding & deals",
-      "categories": [
-        "X",
-        "Anthropic",
-        "Funding & deals"
-      ],
-      "summary": "An Economic Policy Framework: a proposal for how the US government should manage labor market disruption from advanced AI. We’re contributing $200 million to a new fund to sponsor major evaluations of some of these ideas. https://www.anthropic.com/policy-on-the-ai-exponential/epf",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 66,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "reply / conversation",
-        "business signal (million)",
-        "links to a source",
-        "concrete metrics"
-      ],
-      "metrics": {
-        "likes": 411,
-        "retweets": 46,
-        "replies": 23,
-        "likes_h": "411"
-      },
-      "engagement": 526,
-      "hot": false
-    },
-    {
-      "id": "x_2064783418844762489",
-      "title": "AI is advancing at a pace our policymaking institutions were never built for—and the gap between the two is becoming the central challenge of the technology. In his latest essay, our CEO Dario Amodei…",
-      "link": "https://x.com/AnthropicAI/status/2064783418844762489",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Anthropic · @AnthropicAI",
-      "handle": "AnthropicAI",
-      "org": "Anthropic",
-      "published": "2026-06-10T18:55:03.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Announcement",
-      "categories": [
-        "X",
-        "Anthropic",
-        "Announcement"
-      ],
-      "summary": "AI is advancing at a pace our policymaking institutions were never built for—and the gap between the two is becoming the central challenge of the technology. In his latest essay, our CEO Dario Amodei lays out how to close it. We're launching three new initiatives to support the",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 86,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "announcement language (launching)",
-        "high engagement (5.5K likes)"
-      ],
-      "metrics": {
-        "likes": 5509,
-        "retweets": 463,
-        "replies": 434,
-        "likes_h": "5.5K"
-      },
-      "engagement": 6869,
-      "hot": true
-    },
-    {
-      "id": "x_2064770676473418144",
-      "title": "What does it take to bring open models into the enterprise? On the NVIDIA AI Podcast, Mistral CTO and co-founder Timothée Lacroix joins to discuss @MistralAI’s open-model philosophy, its Forge…",
-      "link": "https://x.com/nvidia/status/2064770676473418144",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-10T18:04:25.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product"
-      ],
-      "summary": "What does it take to bring open models into the enterprise? On the NVIDIA AI Podcast, Mistral CTO and co-founder Timothée Lacroix joins to discuss @MistralAI’s open-model philosophy, its Forge customization framework, and its collaboration with NVIDIA through the Nemotron",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 97,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "tech substance (model, models, nemotron)",
-        "business signal (enterprise)"
-      ],
-      "metrics": {
-        "likes": 172,
-        "retweets": 24,
-        "replies": 33,
-        "likes_h": "172"
-      },
-      "engagement": 253,
-      "hot": false
-    },
-    {
-      "id": "x_2064748589117497618",
-      "title": "More than 500 researchers across all seven of @Stanford University’s schools now have access to a massive upgrade in computing power. In partnership with NVIDIA and Mark III Systems, Stanford has…",
-      "link": "https://x.com/nvidia/status/2064748589117497618",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-10T16:36:39.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product"
-      ],
-      "summary": "More than 500 researchers across all seven of @Stanford University’s schools now have access to a massive upgrade in computing power. In partnership with NVIDIA and Mark III Systems, Stanford has deployed \"Marlowe\", a DGX SuperPOD equipped with 248 NVIDIA Hopper GPUs. The goal",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 94,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "tech substance (gpus, hopper)",
-        "business signal (partnership)"
-      ],
-      "metrics": {
-        "likes": 308,
-        "retweets": 37,
-        "replies": 38,
-        "likes_h": "308"
-      },
-      "engagement": 420,
-      "hot": false
-    },
-    {
-      "id": "x_2064744109680861450",
-      "title": "From Taiwan to Kentucky to Silicon Valley, our CEO Jensen Huang’s story is one of resilience, reinvention, and a belief that accelerated computing could change the world. Watch Jensen join…",
-      "link": "https://x.com/nvidia/status/2064744109680861450",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-10T16:18:51.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Commentary"
-      ],
-      "summary": "From Taiwan to Kentucky to Silicon Valley, our CEO Jensen Huang’s story is one of resilience, reinvention, and a belief that accelerated computing could change the world. Watch Jensen join @CondoleezzaRice for the first episode of @HooverInst’s Only in America series.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 55,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy"
-      ],
-      "metrics": {
-        "likes": 478,
-        "retweets": 89,
-        "replies": 31,
-        "likes_h": "478"
-      },
-      "engagement": 687,
+      "engagement": 313,
       "hot": false
     }
   ]
