@@ -1,17 +1,96 @@
 {
-  "generated_at": "2026-06-18T13:07:35.024Z",
+  "generated_at": "2026-06-18T16:45:14.882Z",
   "handles": [
+    "AnthropicAI",
+    "OpenAI",
     "nvidia",
     "GoogleDeepMind",
     "elonmusk",
     "NVIDIAAI",
-    "OpenAI",
-    "gdb",
-    "AnthropicAI",
-    "demishassabis"
+    "gdb"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2067625110199247353",
+      "title": "Together with researchers at Boston Children’s Hospital and Harvard, we published a study in NEJM AI showing how o3 Deep Research helped clinicians revisit previously unsolved rare pediatric disease…",
+      "link": "https://x.com/OpenAI/status/2067625110199247353",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-06-18T15:06:55.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Research"
+      ],
+      "summary": "Together with researchers at Boston Children’s Hospital and Harvard, we published a study in NEJM AI showing how o3 Deep Research helped clinicians revisit previously unsolved rare pediatric disease cases, and find answers for families who had waited years.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 78,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (research)",
+        "high engagement (928 likes)"
+      ],
+      "metrics": {
+        "likes": 928,
+        "retweets": 95,
+        "replies": 83,
+        "likes_h": "928"
+      },
+      "engagement": 1201,
+      "hot": false
+    },
+    {
+      "id": "x_2067594863785173257",
+      "title": "Instead of assuming AI will always do what we intend, we ask: what if it doesn't? That’s why we’ve developed our AI Control Roadmap: a framework for building and managing the advanced AI we deploy…",
+      "link": "https://x.com/GoogleDeepMind/status/2067594863785173257",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Google DeepMind · @GoogleDeepMind",
+      "handle": "GoogleDeepMind",
+      "org": "Google",
+      "published": "2026-06-18T13:06:44.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "Google",
+        "Commentary"
+      ],
+      "summary": "Instead of assuming AI will always do what we intend, we ask: what if it doesn't? That’s why we’ve developed our AI Control Roadmap: a framework for building and managing the advanced AI we deploy within Google. 🧵",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 58,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy"
+      ],
+      "metrics": {
+        "likes": 330,
+        "retweets": 40,
+        "replies": 33,
+        "likes_h": "330"
+      },
+      "engagement": 443,
+      "hot": false
+    },
     {
       "id": "x_2067489992042004685",
       "title": "At VivaTech, we're sharing how France is turning AI ambitions into production reality. AI factories are coming online, open models are advancing, and agents are being deployed across industries,…",
@@ -36,7 +115,7 @@
       "summary": "At VivaTech, we're sharing how France is turning AI ambitions into production reality. AI factories are coming online, open models are advancing, and agents are being deployed across industries, including healthcare, telecommunications, manufacturing, energy, and retail. From",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 78,
+      "worthiness_score": 79,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -44,12 +123,12 @@
         "tech substance (models, agents)"
       ],
       "metrics": {
-        "likes": 172,
-        "retweets": 26,
-        "replies": 28,
-        "likes_h": "172"
+        "likes": 205,
+        "retweets": 31,
+        "replies": 31,
+        "likes_h": "205"
       },
-      "engagement": 252,
+      "engagement": 298,
       "hot": false
     },
     {
@@ -82,15 +161,57 @@
       "reasons": [
         "report-worthy",
         "announcement language (introducing)",
-        "tech substance (benchmark, research)"
+        "tech substance (benchmark, research)",
+        "high engagement (2.7K likes)"
       ],
       "metrics": {
-        "likes": 520,
-        "retweets": 46,
-        "replies": 58,
-        "likes_h": "520"
+        "likes": 2749,
+        "retweets": 278,
+        "replies": 198,
+        "likes_h": "2.7K"
       },
-      "engagement": 670,
+      "engagement": 3503,
+      "hot": false
+    },
+    {
+      "id": "x_2067346918746030496",
+      "title": "Benchmarks often test biological knowledge or narrow skills. The tasks in LifeSciBench test whether models can reason from evidence, work with scientific artifacts, handle uncertainty, and make…",
+      "link": "https://x.com/OpenAI/status/2067346918746030496",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-06-17T20:41:29.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Product"
+      ],
+      "summary": "Benchmarks often test biological knowledge or narrow skills. The tasks in LifeSciBench test whether models can reason from evidence, work with scientific artifacts, handle uncertainty, and make useful decisions under real-world constraints. GPT‑Rosalind scores above GPT‑5.5",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 57,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "reply / conversation",
+        "tech substance (models, gpt, benchmarks)"
+      ],
+      "metrics": {
+        "likes": 242,
+        "retweets": 12,
+        "replies": 7,
+        "likes_h": "242"
+      },
+      "engagement": 273,
       "hot": false
     },
     {
@@ -124,15 +245,15 @@
         "report-worthy",
         "tech substance (model, gpt)",
         "links to a source",
-        "high engagement (1.7K likes)"
+        "high engagement (2.9K likes)"
       ],
       "metrics": {
-        "likes": 1712,
-        "retweets": 150,
-        "replies": 131,
-        "likes_h": "1.7K"
+        "likes": 2884,
+        "retweets": 286,
+        "replies": 174,
+        "likes_h": "2.9K"
       },
-      "engagement": 2143,
+      "engagement": 3630,
       "hot": false
     },
     {
@@ -168,12 +289,12 @@
         "tech substance (training)"
       ],
       "metrics": {
-        "likes": 136,
-        "retweets": 24,
-        "replies": 25,
-        "likes_h": "136"
+        "likes": 146,
+        "retweets": 28,
+        "replies": 26,
+        "likes_h": "146"
       },
-      "engagement": 209,
+      "engagement": 228,
       "hot": false
     },
     {
@@ -207,12 +328,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 260,
+        "likes": 263,
         "retweets": 39,
-        "replies": 39,
-        "likes_h": "260"
+        "replies": 40,
+        "likes_h": "263"
       },
-      "engagement": 377,
+      "engagement": 381,
       "hot": false
     },
     {
@@ -249,12 +370,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 472,
-        "retweets": 56,
+        "likes": 478,
+        "retweets": 57,
         "replies": 32,
-        "likes_h": "472"
+        "likes_h": "478"
       },
-      "engagement": 616,
+      "engagement": 624,
       "hot": false
     },
     {
@@ -329,12 +450,12 @@
         "high engagement (1.1K likes)"
       ],
       "metrics": {
-        "likes": 1098,
-        "retweets": 145,
-        "replies": 55,
+        "likes": 1111,
+        "retweets": 146,
+        "replies": 57,
         "likes_h": "1.1K"
       },
-      "engagement": 1443,
+      "engagement": 1460,
       "hot": false
     },
     {
@@ -369,15 +490,15 @@
         "announcement language (release)",
         "tech substance (model, models, research)",
         "links to a source",
-        "high engagement (2.4K likes)"
+        "high engagement (2.5K likes)"
       ],
       "metrics": {
-        "likes": 2423,
-        "retweets": 226,
-        "replies": 206,
-        "likes_h": "2.4K"
+        "likes": 2520,
+        "retweets": 238,
+        "replies": 220,
+        "likes_h": "2.5K"
       },
-      "engagement": 3081,
+      "engagement": 3216,
       "hot": false
     },
     {
@@ -414,12 +535,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 215,
-        "retweets": 16,
-        "replies": 83,
-        "likes_h": "215"
+        "likes": 240,
+        "retweets": 21,
+        "replies": 99,
+        "likes_h": "240"
       },
-      "engagement": 330,
+      "engagement": 381,
       "hot": false
     },
     {
@@ -453,15 +574,15 @@
         "report-worthy",
         "tech substance (claude, research)",
         "links to a source",
-        "high engagement (3.2K likes)"
+        "high engagement (3.4K likes)"
       ],
       "metrics": {
-        "likes": 3220,
-        "retweets": 345,
-        "replies": 445,
-        "likes_h": "3.2K"
+        "likes": 3417,
+        "retweets": 365,
+        "replies": 478,
+        "likes_h": "3.4K"
       },
-      "engagement": 4355,
+      "engagement": 4625,
       "hot": true
     },
     {
@@ -494,15 +615,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (model, models, benchmarks)",
-        "high engagement (1.7K likes)"
+        "high engagement (1.8K likes)"
       ],
       "metrics": {
-        "likes": 1726,
-        "retweets": 120,
-        "replies": 132,
-        "likes_h": "1.7K"
+        "likes": 1800,
+        "retweets": 130,
+        "replies": 137,
+        "likes_h": "1.8K"
       },
-      "engagement": 2098,
+      "engagement": 2197,
       "hot": false
     },
     {
@@ -657,15 +778,15 @@
       "sentiment_score": 0,
       "reasons": [
         "report-worthy",
-        "high engagement (55.8K likes)"
+        "high engagement (56.1K likes)"
       ],
       "metrics": {
-        "likes": 55828,
-        "retweets": 10621,
-        "replies": 8655,
-        "likes_h": "55.8K"
+        "likes": 56093,
+        "retweets": 10791,
+        "replies": 8874,
+        "likes_h": "56.1K"
       },
-      "engagement": 85725,
+      "engagement": 86549,
       "hot": true
     },
     {
@@ -697,15 +818,15 @@
       "sentiment_score": 0,
       "reasons": [
         "report-worthy",
-        "high engagement (88.2K likes)"
+        "high engagement (88.3K likes)"
       ],
       "metrics": {
-        "likes": 88241,
-        "retweets": 25781,
-        "replies": 12635,
-        "likes_h": "88.2K"
+        "likes": 88292,
+        "retweets": 25777,
+        "replies": 12645,
+        "likes_h": "88.3K"
       },
-      "engagement": 152438,
+      "engagement": 152491,
       "hot": true
     },
     {
@@ -907,12 +1028,12 @@
         "tech substance (models, gemini, robotics)"
       ],
       "metrics": {
-        "likes": 509,
+        "likes": 511,
         "retweets": 89,
         "replies": 65,
-        "likes_h": "509"
+        "likes_h": "511"
       },
-      "engagement": 752,
+      "engagement": 754,
       "hot": false
     },
     {
@@ -1147,15 +1268,15 @@
         "announcement language (launching)",
         "tech substance (claude)",
         "links to a source",
-        "high engagement (6.9K likes)"
+        "high engagement (7K likes)"
       ],
       "metrics": {
-        "likes": 6931,
-        "retweets": 729,
-        "replies": 583,
-        "likes_h": "6.9K"
+        "likes": 6957,
+        "retweets": 733,
+        "replies": 584,
+        "likes_h": "7K"
       },
-      "engagement": 8972,
+      "engagement": 9007,
       "hot": true
     },
     {
@@ -1194,134 +1315,10 @@
       "metrics": {
         "likes": 468,
         "retweets": 101,
-        "replies": 90,
+        "replies": 91,
         "likes_h": "468"
       },
-      "engagement": 760,
-      "hot": false
-    },
-    {
-      "id": "x_2064904409008504922",
-      "title": "Honored. 🏆 NVIDIA has been recognized with the Industry AI Acceleration Award by @OpenAI, celebrating our work accelerating OpenAI adoption across industries. We're proud to partner with OpenAI in…",
-      "link": "https://x.com/nvidia/status/2064904409008504922",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-11T02:55:49.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Commentary"
-      ],
-      "summary": "Honored. 🏆 NVIDIA has been recognized with the Industry AI Acceleration Award by @OpenAI, celebrating our work accelerating OpenAI adoption across industries. We're proud to partner with OpenAI in helping every industry unlock the full potential of AI. This recognition belongs",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 69,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "casual tone (this)",
-        "business signal (partner with)"
-      ],
-      "metrics": {
-        "likes": 662,
-        "retweets": 72,
-        "replies": 58,
-        "likes_h": "662"
-      },
-      "engagement": 864,
-      "hot": false
-    },
-    {
-      "id": "x_2064873362799600042",
-      "title": "Awesome to see this innovation in text diffusion. DiffusionGemma is lightning fast, 4x faster than other Gemma 4 models! Congrats to @bodonoghue85 and the team who worked so hard on this - excited to…",
-      "link": "https://x.com/demishassabis/status/2064873362799600042",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Demis Hassabis · @demishassabis",
-      "handle": "demishassabis",
-      "org": "Google",
-      "published": "2026-06-11T00:52:27.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "Google",
-        "Product"
-      ],
-      "summary": "Awesome to see this innovation in text diffusion. DiffusionGemma is lightning fast, 4x faster than other Gemma 4 models! Congrats to @bodonoghue85 and the team who worked so hard on this - excited to see what people build with it!",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 55,
-      "sentiment": "positive",
-      "sentiment_score": 1,
-      "reasons": [
-        "report-worthy",
-        "casual tone (congrats, this)",
-        "tech substance (models)",
-        "high engagement (1.6K likes)",
-        "concrete metrics"
-      ],
-      "metrics": {
-        "likes": 1568,
-        "retweets": 112,
-        "replies": 73,
-        "likes_h": "1.6K"
-      },
-      "engagement": 1865,
-      "hot": false
-    },
-    {
-      "id": "x_2064829962482241778",
-      "title": "NVIDIA Vera CPUs are ready to transform every industry, including financial services. In partnership with Redpanda and HPE, NYSE is scaling capacity while further optimizing latency to power a…",
-      "link": "https://x.com/nvidia/status/2064829962482241778",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-10T22:00:00.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Commentary"
-      ],
-      "summary": "NVIDIA Vera CPUs are ready to transform every industry, including financial services. In partnership with Redpanda and HPE, NYSE is scaling capacity while further optimizing latency to power a high-performance, resilient and AI-ready market infrastructure, accelerated by NVIDIA",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 81,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "business signal (partnership)"
-      ],
-      "metrics": {
-        "likes": 583,
-        "retweets": 86,
-        "replies": 35,
-        "likes_h": "583"
-      },
-      "engagement": 790,
+      "engagement": 761,
       "hot": false
     }
   ]
