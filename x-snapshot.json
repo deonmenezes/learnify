@@ -1,9 +1,11 @@
 {
-  "generated_at": "2026-06-17T23:04:06.340Z",
+  "generated_at": "2026-06-18T00:28:59.751Z",
   "handles": [
     "nvidia",
     "GoogleDeepMind",
     "elonmusk",
+    "gdb",
+    "NVIDIAAI",
     "OpenAI",
     "AnthropicAI",
     "demishassabis"
@@ -126,12 +128,12 @@
         "tech substance (training)"
       ],
       "metrics": {
-        "likes": 91,
-        "retweets": 15,
-        "replies": 15,
-        "likes_h": "91"
+        "likes": 94,
+        "retweets": 16,
+        "replies": 17,
+        "likes_h": "94"
       },
-      "engagement": 136,
+      "engagement": 143,
       "hot": false
     },
     {
@@ -165,12 +167,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 230,
-        "retweets": 35,
+        "likes": 236,
+        "retweets": 36,
         "replies": 32,
-        "likes_h": "230"
+        "likes_h": "236"
       },
-      "engagement": 332,
+      "engagement": 340,
       "hot": false
     },
     {
@@ -207,13 +209,53 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 425,
+        "likes": 429,
         "retweets": 55,
-        "replies": 28,
-        "likes_h": "425"
+        "replies": 29,
+        "likes_h": "429"
       },
-      "engagement": 563,
+      "engagement": 568,
       "hot": false
+    },
+    {
+      "id": "x_2067043685611790653",
+      "title": "software engineering is so different now. hard to remember what it was like even 6 months ago.",
+      "link": "https://x.com/gdb/status/2067043685611790653",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Greg Brockman · @gdb",
+      "handle": "gdb",
+      "org": "OpenAI",
+      "published": "2026-06-17T00:36:33.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Commentary"
+      ],
+      "summary": "software engineering is so different now. hard to remember what it was like even 6 months ago.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 56,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "high engagement (6.5K likes)"
+      ],
+      "metrics": {
+        "likes": 6455,
+        "retweets": 364,
+        "replies": 373,
+        "likes_h": "6.5K"
+      },
+      "engagement": 7556,
+      "hot": true
     },
     {
       "id": "x_2067016769584177337",
@@ -247,12 +289,12 @@
         "high engagement (1K likes)"
       ],
       "metrics": {
-        "likes": 1032,
-        "retweets": 140,
+        "likes": 1041,
+        "retweets": 141,
         "replies": 54,
         "likes_h": "1K"
       },
-      "engagement": 1366,
+      "engagement": 1377,
       "hot": false
     },
     {
@@ -296,7 +338,7 @@
         "likes_h": "2.4K"
       },
       "engagement": 3081,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2066969542010806561",
@@ -458,12 +500,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 79,
+        "likes": 80,
         "retweets": 7,
         "replies": 7,
-        "likes_h": "79"
+        "likes_h": "80"
       },
-      "engagement": 100,
+      "engagement": 101,
       "hot": false
     },
     {
@@ -490,7 +532,7 @@
       "summary": "The NVIDIA Blackwell platform just swept MLPerf Training 6.0, delivering fastest performance and largest scale. Beyond the benchmarks, capabilities like the Reliability, Availability, and Serviceability Engine and NVIDIA Resiliency Extension deliver fewer interruptions and",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 90,
+      "worthiness_score": 91,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -498,12 +540,12 @@
         "tech substance (benchmarks, training, blackwell)"
       ],
       "metrics": {
-        "likes": 393,
-        "retweets": 55,
+        "likes": 397,
+        "retweets": 56,
         "replies": 38,
-        "likes_h": "393"
+        "likes_h": "397"
       },
-      "engagement": 541,
+      "engagement": 547,
       "hot": false
     },
     {
@@ -538,12 +580,12 @@
         "tech substance (agents)"
       ],
       "metrics": {
-        "likes": 357,
+        "likes": 358,
         "retweets": 66,
-        "replies": 60,
-        "likes_h": "357"
+        "replies": 62,
+        "likes_h": "358"
       },
-      "engagement": 549,
+      "engagement": 552,
       "hot": false
     },
     {
@@ -575,15 +617,15 @@
       "sentiment_score": 0,
       "reasons": [
         "report-worthy",
-        "high engagement (54.8K likes)"
+        "high engagement (54.9K likes)"
       ],
       "metrics": {
-        "likes": 54825,
-        "retweets": 10111,
-        "replies": 8003,
-        "likes_h": "54.8K"
+        "likes": 54940,
+        "retweets": 10185,
+        "replies": 8103,
+        "likes_h": "54.9K"
       },
-      "engagement": 83050,
+      "engagement": 83413,
       "hot": true
     },
     {
@@ -825,12 +867,12 @@
         "tech substance (models, gemini, robotics)"
       ],
       "metrics": {
-        "likes": 502,
+        "likes": 504,
         "retweets": 83,
         "replies": 62,
-        "likes_h": "502"
+        "likes_h": "504"
       },
-      "engagement": 730,
+      "engagement": 732,
       "hot": false
     },
     {
@@ -1025,13 +1067,13 @@
         "high engagement (3.3K likes)"
       ],
       "metrics": {
-        "likes": 3298,
+        "likes": 3300,
         "retweets": 379,
         "replies": 116,
         "likes_h": "3.3K"
       },
-      "engagement": 4172,
-      "hot": true
+      "engagement": 4174,
+      "hot": false
     },
     {
       "id": "x_2065057393927467084",
@@ -1110,12 +1152,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 468,
+        "likes": 469,
         "retweets": 101,
         "replies": 90,
-        "likes_h": "468"
+        "likes_h": "469"
       },
-      "engagement": 760,
+      "engagement": 761,
       "hot": false
     },
     {
@@ -1280,48 +1322,6 @@
         "likes_h": "160"
       },
       "engagement": 233,
-      "hot": false
-    },
-    {
-      "id": "x_2064783424251101553",
-      "title": "And tomorrow, we’ll launch a $150 million national fellowship program designed to help people early in their careers extend the benefits of AI to communities across America.",
-      "link": "https://x.com/AnthropicAI/status/2064783424251101553",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Anthropic · @AnthropicAI",
-      "handle": "AnthropicAI",
-      "org": "Anthropic",
-      "published": "2026-06-10T18:55:04.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Funding & deals",
-      "categories": [
-        "X",
-        "Anthropic",
-        "Funding & deals"
-      ],
-      "summary": "And tomorrow, we’ll launch a $150 million national fellowship program designed to help people early in their careers extend the benefits of AI to communities across America.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 56,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "reply / conversation",
-        "business signal (million)",
-        "concrete metrics"
-      ],
-      "metrics": {
-        "likes": 397,
-        "retweets": 25,
-        "replies": 34,
-        "likes_h": "397"
-      },
-      "engagement": 481,
       "hot": false
     }
   ]
