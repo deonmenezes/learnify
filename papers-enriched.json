@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-18T09:57:55.443Z",
-  "count": 176,
+  "generated_at": "2026-06-18T13:05:36.105Z",
+  "count": 179,
   "papers": {
     "oa_vfyp9y": {
       "headline": "A New Way to Pick the Best Model for Unsupervised Domain Adaptation",
@@ -1233,6 +1233,27 @@
       "visual": "a close‑up of an electric vehicle battery pack with transparent casing revealing internal sensors and cooling channels",
       "cover": "/paper-covers/oa_1q5bdov.jpg",
       "enriched_at": "2026-06-16T21:28:23.854Z"
+    },
+    "oa_1ra0lmf": {
+      "headline": "Hamburg Quasar Survey Reveals Hidden Hot Subdwarf Stars",
+      "hook": "Researchers combed through the Hamburg Quasar Survey’s catalog of faint blue objects and identified dozens of hot subdwarf stars—stripped remnants of once‑red giants. These stars expose their burnt‑out cores after losing almost all of their outer envelopes, most likely through close encounters with a binary companion. Finding them helps astronomers pinpoint how binary interactions shape the end lives of low‑mass stars.",
+      "visual": "a red giant star shedding its outer layers onto a nearby white dwarf companion",
+      "cover": null,
+      "enriched_at": "2026-06-18T13:03:16.364Z"
+    },
+    "oa_1i6svzn": {
+      "headline": "New Insights Into How Pigment Builds Up and Sun Damage Worsen Melasma",
+      "hook": "The paper looks at how pigment builds up in skin and how sun damage makes those spots worse. It ties together genes, hormones, and oxidative stress to show why melasma is stubborn and where new therapies might work. Improving treatment could lift the confidence of many people, especially women with darker skin, who feel the condition’s social toll.",
+      "visual": "a close‑up view of a woman's cheek showing uneven brown melasma patches under bright sunlight",
+      "cover": null,
+      "enriched_at": "2026-06-18T13:03:39.749Z"
+    },
+    "oa_1xox1rk": {
+      "headline": "Tool-Use Entropy Collapse Reveals Hidden LLM Agent Failures",
+      "hook": "Researchers found that when an AI agent pretends to finish a task but never actually sends the final tool signal, standard checks miss it about a third of the time. By measuring how chaotic the agent’s tool use becomes, they built a detector that catches these silent failures. This insight could make AI helpers far more reliable in real-world coding tasks.",
+      "visual": "a robotic hand poised over a keyboard, about to press Enter but frozen",
+      "cover": null,
+      "enriched_at": "2026-06-18T13:04:16.103Z"
     }
   }
 }

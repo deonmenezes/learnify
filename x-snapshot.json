@@ -1,16 +1,57 @@
 {
-  "generated_at": "2026-06-18T09:59:53.398Z",
+  "generated_at": "2026-06-18T13:07:35.024Z",
   "handles": [
-    "OpenAI",
     "nvidia",
     "GoogleDeepMind",
+    "elonmusk",
+    "NVIDIAAI",
+    "OpenAI",
     "gdb",
     "AnthropicAI",
-    "elonmusk",
     "demishassabis"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2067489992042004685",
+      "title": "At VivaTech, we're sharing how France is turning AI ambitions into production reality. AI factories are coming online, open models are advancing, and agents are being deployed across industries,…",
+      "link": "https://x.com/nvidia/status/2067489992042004685",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-18T06:10:00.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "At VivaTech, we're sharing how France is turning AI ambitions into production reality. AI factories are coming online, open models are advancing, and agents are being deployed across industries, including healthcare, telecommunications, manufacturing, energy, and retail. From",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 78,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "tech substance (models, agents)"
+      ],
+      "metrics": {
+        "likes": 172,
+        "retweets": 26,
+        "replies": 28,
+        "likes_h": "172"
+      },
+      "engagement": 252,
+      "hot": false
+    },
     {
       "id": "x_2067346916929937827",
       "title": "Introducing LifeSciBench, a benchmark for measuring and improving how well AI supports real-world life science research. Developed with 173 scientists from biotechnology and pharmaceutical research,…",
@@ -119,7 +160,7 @@
       "summary": "Registration for #NVIDIAGTC Berlin is now open. ✨ October 20–22, join the global AI community for expert-led sessions, hands-on training, and insights on how AI is transforming every industry. Hear from NVIDIA CEO Jensen Huang, explore what's next across the AI stack, and",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 72,
+      "worthiness_score": 73,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -127,12 +168,12 @@
         "tech substance (training)"
       ],
       "metrics": {
-        "likes": 94,
-        "retweets": 16,
-        "replies": 17,
-        "likes_h": "94"
+        "likes": 136,
+        "retweets": 24,
+        "replies": 25,
+        "likes_h": "136"
       },
-      "engagement": 143,
+      "engagement": 209,
       "hot": false
     },
     {
@@ -166,12 +207,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 236,
-        "retweets": 36,
-        "replies": 32,
-        "likes_h": "236"
+        "likes": 260,
+        "retweets": 39,
+        "replies": 39,
+        "likes_h": "260"
       },
-      "engagement": 340,
+      "engagement": 377,
       "hot": false
     },
     {
@@ -208,12 +249,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 429,
-        "retweets": 55,
-        "replies": 29,
-        "likes_h": "429"
+        "likes": 472,
+        "retweets": 56,
+        "replies": 32,
+        "likes_h": "472"
       },
-      "engagement": 568,
+      "engagement": 616,
       "hot": false
     },
     {
@@ -285,15 +326,15 @@
       "sentiment_score": 0,
       "reasons": [
         "report-worthy",
-        "high engagement (1K likes)"
+        "high engagement (1.1K likes)"
       ],
       "metrics": {
-        "likes": 1041,
-        "retweets": 141,
-        "replies": 54,
-        "likes_h": "1K"
+        "likes": 1098,
+        "retweets": 145,
+        "replies": 55,
+        "likes_h": "1.1K"
       },
-      "engagement": 1377,
+      "engagement": 1443,
       "hot": false
     },
     {
@@ -539,12 +580,12 @@
         "tech substance (benchmarks, training, blackwell)"
       ],
       "metrics": {
-        "likes": 397,
-        "retweets": 56,
+        "likes": 413,
+        "retweets": 59,
         "replies": 38,
-        "likes_h": "397"
+        "likes_h": "413"
       },
-      "engagement": 547,
+      "engagement": 569,
       "hot": false
     },
     {
@@ -616,15 +657,15 @@
       "sentiment_score": 0,
       "reasons": [
         "report-worthy",
-        "high engagement (54.9K likes)"
+        "high engagement (55.8K likes)"
       ],
       "metrics": {
-        "likes": 54940,
-        "retweets": 10185,
-        "replies": 8103,
-        "likes_h": "54.9K"
+        "likes": 55828,
+        "retweets": 10621,
+        "replies": 8655,
+        "likes_h": "55.8K"
       },
-      "engagement": 83413,
+      "engagement": 85725,
       "hot": true
     },
     {
@@ -866,12 +907,12 @@
         "tech substance (models, gemini, robotics)"
       ],
       "metrics": {
-        "likes": 504,
-        "retweets": 83,
-        "replies": 62,
-        "likes_h": "504"
+        "likes": 509,
+        "retweets": 89,
+        "replies": 65,
+        "likes_h": "509"
       },
-      "engagement": 732,
+      "engagement": 752,
       "hot": false
     },
     {
@@ -1066,13 +1107,13 @@
         "high engagement (3.3K likes)"
       ],
       "metrics": {
-        "likes": 3300,
-        "retweets": 379,
+        "likes": 3304,
+        "retweets": 380,
         "replies": 116,
         "likes_h": "3.3K"
       },
-      "engagement": 4174,
-      "hot": true
+      "engagement": 4180,
+      "hot": false
     },
     {
       "id": "x_2065057393927467084",
@@ -1151,12 +1192,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 469,
+        "likes": 468,
         "retweets": 101,
         "replies": 90,
-        "likes_h": "469"
+        "likes_h": "468"
       },
-      "engagement": 761,
+      "engagement": 760,
       "hot": false
     },
     {
@@ -1281,46 +1322,6 @@
         "likes_h": "583"
       },
       "engagement": 790,
-      "hot": false
-    },
-    {
-      "id": "x_2064785573852672275",
-      "title": "In Sierra Leone, a surging student population is outpacing available teachers. Our latest research explores how AI can act as a partner to support educators in these environments – amplifying their…",
-      "link": "https://x.com/GoogleDeepMind/status/2064785573852672275",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Google DeepMind · @GoogleDeepMind",
-      "handle": "GoogleDeepMind",
-      "org": "Google",
-      "published": "2026-06-10T19:03:37.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "Google",
-        "Research"
-      ],
-      "summary": "In Sierra Leone, a surging student population is outpacing available teachers. Our latest research explores how AI can act as a partner to support educators in these environments – amplifying their reach without replacing their essential expertise and skills. 🧵",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 73,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "tech substance (research)"
-      ],
-      "metrics": {
-        "likes": 160,
-        "retweets": 22,
-        "replies": 29,
-        "likes_h": "160"
-      },
-      "engagement": 233,
       "hot": false
     }
   ]
