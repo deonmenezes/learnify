@@ -1,15 +1,56 @@
 {
-  "generated_at": "2026-06-19T14:19:30.257Z",
+  "generated_at": "2026-06-19T17:03:52.411Z",
   "handles": [
-    "OpenAI",
-    "GoogleDeepMind",
     "nvidia",
+    "GoogleDeepMind",
+    "elonmusk",
+    "NVIDIAAI",
+    "OpenAI",
     "gdb",
-    "AnthropicAI",
-    "elonmusk"
+    "AnthropicAI"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2068000859321970871",
+      "title": "Jensen Huang’s simplest explanation of an AI agent: a worker in a workshop. The model thinks. The harness gives it form. Tools and skills let it act. And the runtime gives the agent a place to get…",
+      "link": "https://x.com/nvidia/status/2068000859321970871",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-19T16:00:01.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "Jensen Huang’s simplest explanation of an AI agent: a worker in a workshop. The model thinks. The harness gives it form. Tools and skills let it act. And the runtime gives the agent a place to get work done.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 78,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (model, agent)"
+      ],
+      "metrics": {
+        "likes": 154,
+        "retweets": 33,
+        "replies": 22,
+        "likes_h": "154"
+      },
+      "engagement": 242,
+      "hot": false
+    },
     {
       "id": "x_2067625110199247353",
       "title": "Together with researchers at Boston Children’s Hospital and Harvard, we published a study in NEJM AI showing how o3 Deep Research helped clinicians revisit previously unsolved rare pediatric disease…",
@@ -75,19 +116,19 @@
       "summary": "Instead of assuming AI will always do what we intend, we ask: what if it doesn't? That’s why we’ve developed our AI Control Roadmap: a framework for building and managing the advanced AI we deploy within Google. 🧵",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 58,
+      "worthiness_score": 59,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
         "report-worthy"
       ],
       "metrics": {
-        "likes": 330,
-        "retweets": 40,
-        "replies": 33,
-        "likes_h": "330"
+        "likes": 526,
+        "retweets": 67,
+        "replies": 63,
+        "likes_h": "526"
       },
-      "engagement": 443,
+      "engagement": 723,
       "hot": false
     },
     {
@@ -114,7 +155,7 @@
       "summary": "At VivaTech, we're sharing how France is turning AI ambitions into production reality. AI factories are coming online, open models are advancing, and agents are being deployed across industries, including healthcare, telecommunications, manufacturing, energy, and retail. From",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 79,
+      "worthiness_score": 80,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -122,12 +163,12 @@
         "tech substance (models, agents)"
       ],
       "metrics": {
-        "likes": 205,
-        "retweets": 31,
-        "replies": 31,
-        "likes_h": "205"
+        "likes": 284,
+        "retweets": 47,
+        "replies": 45,
+        "likes_h": "284"
       },
-      "engagement": 298,
+      "engagement": 423,
       "hot": false
     },
     {
@@ -280,7 +321,7 @@
       "summary": "Registration for #NVIDIAGTC Berlin is now open. ✨ October 20–22, join the global AI community for expert-led sessions, hands-on training, and insights on how AI is transforming every industry. Hear from NVIDIA CEO Jensen Huang, explore what's next across the AI stack, and",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 73,
+      "worthiness_score": 74,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -288,12 +329,12 @@
         "tech substance (training)"
       ],
       "metrics": {
-        "likes": 146,
-        "retweets": 28,
-        "replies": 26,
-        "likes_h": "146"
+        "likes": 172,
+        "retweets": 31,
+        "replies": 29,
+        "likes_h": "172"
       },
-      "engagement": 228,
+      "engagement": 263,
       "hot": false
     },
     {
@@ -320,19 +361,19 @@
       "summary": "We’re working with @SciTechgovuk, @mhclg and @i_dot_ai on a new AI housing application planning prototype. 🏡 By cutting down the time spent on repetitive tasks, it could help planning officers focus their attention on complex projects and reduce processing times by up to 50%.",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 57,
+      "worthiness_score": 58,
       "sentiment": "negative",
       "sentiment_score": -0.5,
       "reasons": [
         "report-worthy"
       ],
       "metrics": {
-        "likes": 263,
-        "retweets": 39,
+        "likes": 273,
+        "retweets": 44,
         "replies": 40,
-        "likes_h": "263"
+        "likes_h": "273"
       },
-      "engagement": 381,
+      "engagement": 401,
       "hot": false
     },
     {
@@ -369,12 +410,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 478,
-        "retweets": 57,
-        "replies": 32,
-        "likes_h": "478"
+        "likes": 493,
+        "retweets": 58,
+        "replies": 34,
+        "likes_h": "493"
       },
-      "engagement": 624,
+      "engagement": 643,
       "hot": false
     },
     {
@@ -449,12 +490,12 @@
         "high engagement (1.1K likes)"
       ],
       "metrics": {
-        "likes": 1111,
-        "retweets": 146,
-        "replies": 57,
+        "likes": 1138,
+        "retweets": 150,
+        "replies": 60,
         "likes_h": "1.1K"
       },
-      "engagement": 1460,
+      "engagement": 1498,
       "hot": false
     },
     {
@@ -660,12 +701,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 80,
+        "likes": 82,
         "retweets": 7,
         "replies": 7,
-        "likes_h": "80"
+        "likes_h": "82"
       },
-      "engagement": 101,
+      "engagement": 103,
       "hot": false
     },
     {
@@ -777,15 +818,15 @@
       "sentiment_score": 0,
       "reasons": [
         "report-worthy",
-        "high engagement (56.1K likes)"
+        "high engagement (57.7K likes)"
       ],
       "metrics": {
-        "likes": 56093,
-        "retweets": 10791,
-        "replies": 8874,
-        "likes_h": "56.1K"
+        "likes": 57662,
+        "retweets": 11700,
+        "replies": 9792,
+        "likes_h": "57.7K"
       },
-      "engagement": 86549,
+      "engagement": 90854,
       "hot": true
     },
     {
@@ -1027,12 +1068,12 @@
         "tech substance (models, gemini, robotics)"
       ],
       "metrics": {
-        "likes": 511,
-        "retweets": 89,
-        "replies": 65,
-        "likes_h": "511"
+        "likes": 514,
+        "retweets": 92,
+        "replies": 68,
+        "likes_h": "514"
       },
-      "engagement": 754,
+      "engagement": 766,
       "hot": false
     },
     {
@@ -1227,13 +1268,13 @@
         "high engagement (3.3K likes)"
       ],
       "metrics": {
-        "likes": 3304,
-        "retweets": 380,
-        "replies": 116,
+        "likes": 3308,
+        "retweets": 381,
+        "replies": 115,
         "likes_h": "3.3K"
       },
-      "engagement": 4180,
-      "hot": true
+      "engagement": 4185,
+      "hot": false
     },
     {
       "id": "x_2065057393927467084",
@@ -1277,48 +1318,6 @@
       },
       "engagement": 9007,
       "hot": true
-    },
-    {
-      "id": "x_2065031279213441309",
-      "title": "When millions of AI agents interact with each other, new collective behaviors can emerge. 🌐 Together with @schmidtsciences, @coop_ai, @ARIA_research and supported by @GoogleOrg, we’re launching a…",
-      "link": "https://x.com/GoogleDeepMind/status/2065031279213441309",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Google DeepMind · @GoogleDeepMind",
-      "handle": "GoogleDeepMind",
-      "org": "Google",
-      "published": "2026-06-11T11:19:58.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "Google",
-        "Research"
-      ],
-      "summary": "When millions of AI agents interact with each other, new collective behaviors can emerge. 🌐 Together with @schmidtsciences, @coop_ai, @ARIA_research and supported by @GoogleOrg, we’re launching a $10M research fund to help understand how AI systems behave as a group. →",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 100,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "announcement language (launching)",
-        "tech substance (agents, research)",
-        "concrete metrics"
-      ],
-      "metrics": {
-        "likes": 468,
-        "retweets": 101,
-        "replies": 91,
-        "likes_h": "468"
-      },
-      "engagement": 761,
-      "hot": false
     }
   ]
 }
