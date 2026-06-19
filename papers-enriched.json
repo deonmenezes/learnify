@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-19T17:01:58.291Z",
-  "count": 182,
+  "generated_at": "2026-06-19T19:07:56.920Z",
+  "count": 185,
   "papers": {
     "oa_vfyp9y": {
       "headline": "A New Way to Pick the Best Model for Unsupervised Domain Adaptation",
@@ -1275,6 +1275,27 @@
       "visual": "a memristor chip glued to the inside of a smartwatch strap",
       "cover": "/paper-covers/oa_6hwnnd.jpg",
       "enriched_at": "2026-06-19T00:13:16.783Z"
+    },
+    "oa_1ycvxso": {
+      "headline": "How Climate Change Varies With Elevation in Mountains",
+      "hook": "Researchers synthesized studies showing that temperature rise in mountains isn't uniform - it gets stronger the higher you go. This pattern reshapes snowmelt, river flows, and the habitats of plants and animals that live on slopes. Understanding it helps predict future water shortages and avalanche risks for communities downstream.",
+      "visual": "a mountain slope showing a clear line where snow disappears at lower elevations",
+      "cover": "/paper-covers/oa_1ycvxso.jpg",
+      "enriched_at": "2026-06-19T19:07:12.298Z"
+    },
+    "oa_1vj4to9": {
+      "headline": "New Proteome-Wide Model Predicts Disease Impact of Missense Mutations",
+      "hook": "Researchers built a deep learning tool called popEVE that scans every protein in the human body to guess how a single‑letter change might cause disease. Unlike older predictors that work only on known disease genes, this model is calibrated across the whole proteome, so its scores can be trusted for any gene. The result is a more reliable way to prioritize which missense variants deserve a closer look in patient genomes.",
+      "visual": "a human silhouette filled with a grid of protein symbols, each symbol changing color to indicate predicted disease impact",
+      "cover": "/paper-covers/oa_1vj4to9.jpg",
+      "enriched_at": "2026-06-19T19:07:12.742Z"
+    },
+    "oa_zroqj": {
+      "headline": "Targeting Senescent Cells to Slow Brain Aging",
+      "hook": "Researchers tried drugs that remove aging, non‑dividing cells from mouse brains to see if memory improves and inflammation drops. Clearing these \"zombie\" cells lowered harmful signals and helped older mice navigate mazes more easily. The results hint that similar treatments could one day help keep human brains sharp as we get older.",
+      "visual": "a mouse brain slice with highlighted senescent cells glowing red amid healthy neurons",
+      "cover": "/paper-covers/oa_zroqj.jpg",
+      "enriched_at": "2026-06-19T19:07:50.107Z"
     }
   }
 }
