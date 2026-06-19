@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-18T22:15:35.289Z",
-  "count": 179,
+  "generated_at": "2026-06-19T00:13:25.220Z",
+  "count": 182,
   "papers": {
     "oa_vfyp9y": {
       "headline": "A New Way to Pick the Best Model for Unsupervised Domain Adaptation",
@@ -1254,6 +1254,27 @@
       "visual": "a robotic hand poised over a keyboard, about to press Enter but frozen",
       "cover": null,
       "enriched_at": "2026-06-18T13:04:16.103Z"
+    },
+    "oa_1stloq": {
+      "headline": "Explainable AI Shields Human‑AI Factories from Cyber Threats",
+      "hook": "Researchers reviewed dozens of studies on AI‑driven intrusion detection that also explain their decisions, aiming to protect the tightly linked robots, IoT sensors and AR/VR gear of Industry 5.0 factories. They found that explainable models not only spot attacks faster but also let human operators trust and act on alerts, reducing downtime. This work shows how making AI transparent can turn security from a black‑box guess into a clear, collaborative defense.",
+      "visual": "a human technician pointing at a holographic security alert while a collaborative robot arm assembles a component in a smart factory",
+      "cover": "/paper-covers/oa_1stloq.jpg",
+      "enriched_at": "2026-06-19T00:12:44.128Z"
+    },
+    "oa_uv5xso": {
+      "headline": "Ihow Algorithm Improves Solar And Wind Forecasts With Attention",
+      "hook": "Researchers combined a new optimization method called iHow with multi‑scale attention networks to tune deep learning models for solar and wind power prediction. The approach reduces the need for manual hyperparameter tweaking and handles the huge number of weather‑related inputs that usually slow down forecasts. As a result, the forecasts are more accurate and robust, helping grid operators rely more on renewable energy.",
+      "visual": "a wind turbine silhouette against a sunrise with solar panels glinting in the foreground",
+      "cover": "/paper-covers/oa_uv5xso.jpg",
+      "enriched_at": "2026-06-19T00:12:56.540Z"
+    },
+    "oa_6hwnnd": {
+      "headline": "How Memristors Bridge Memory And Computation For Brain‑Like AI",
+      "hook": "The review explains how memristors—tiny resistive switches—can both store information and perform calculations at the same time. By merging memory and computation, these devices could power AI that runs directly on edge gadgets like phones, watches, and sensors. That means smarter, longer‑lasting gadgets that learn from you without constantly draining the battery or needing the cloud.",
+      "visual": "a memristor chip glued to the inside of a smartwatch strap",
+      "cover": "/paper-covers/oa_6hwnnd.jpg",
+      "enriched_at": "2026-06-19T00:13:16.783Z"
     }
   }
 }
