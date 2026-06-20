@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-20T17:57:50.717Z",
+  "generated_at": "2026-06-20T19:43:00.262Z",
   "model": "nvidia/nemotron-3-super-120b-a12b",
-  "count": 4186,
+  "count": 4155,
   "items": {
     "85219": {
       "ai_summary": "Amazon’s cybersecurity research reportedly helped trigger a White House export‑control directive that forced Anthropic to cut off access to its Fable 5 and Mythos 5 models. The Wall Street Journal says the move was influenced by Amazon’s paper and discussions between CEO Andy Jassy and administration officials.",
@@ -65,15 +65,6 @@
       "media_kind": "stock",
       "media_credit": "Photo: See-ming Lee (SML) / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/48973657@N00/8527234502"
-    },
-    "1l4uwuc": {
-      "ai_summary": "The article details how the author used Tailscale to debug a WebRTC connection problem on an iPad. It explains the steps taken to isolate and resolve the networking issue through Tailscale’s secure mesh.",
-      "title": "The iPad was on Tailscale: a WebRTC debugging story",
-      "t": 1781117677619,
-      "media_url": "https://live.staticflickr.com/2649/4140191397_a0e3b5d99f.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140191397"
     },
     "1xb06hs": {
       "ai_summary": "PgDog announced it has secured funding to support its development. The tool is slated for release to work with databases in the near future.",
@@ -345,33 +336,6 @@
       "media_credit_url": "https://www.flickr.com/photos/24662369@N07/36845690330",
       "image": "https://www.sciencedaily.com/images/1920/nasa-high-performance-spaceflight-computing-processor.webp"
     },
-    "1586ylj": {
-      "ai_summary": "Samsung’s budget tablet has been steeply discounted to $210. The device offers versatile performance suitable for a range of tasks.",
-      "title": "This standout budget Samsung tablet is now seeing a steep discount, dropping it to just $210",
-      "t": 1781117681872,
-      "media_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Samsung_Galaxy_Tab_A11_Gray.png",
-      "media_kind": "stock",
-      "media_credit": "Photo: Armin hpj / CC0 1.0 via wikimedia",
-      "media_credit_url": "https://commons.wikimedia.org/w/index.php?curid=179509598"
-    },
-    "1fqoars": {
-      "ai_summary": "Apache Burr is a new open-source framework from the Apache Software Foundation designed to help developers build reliable AI agents and applications. It offers tools for orchestration, testing, and deployment to enhance robustness in AI-driven systems.",
-      "title": "Apache Burr: Build reliable AI agents and applications",
-      "t": 1781117690631,
-      "media_url": "https://live.staticflickr.com/2649/4140191397_a0e3b5d99f.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140191397"
-    },
-    "iy7z3a": {
-      "ai_summary": "Apple is overhauling Screen Time and parental controls in iOS 27 with a redesigned interface, new website limits, and enhanced communication and scheduling tools. The update is part of Apple’s broader OS 27 child‑safety initiative.",
-      "title": "Apple is giving Screen Time and parental controls a long overdue upgrade in iOS 27",
-      "t": 1781117682816,
-      "media_url": "https://live.staticflickr.com/5554/14794148557_24851340c1_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: MattsMacintosh / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/48126477@N05/14794148557"
-    },
     "1geeizw": {
       "ai_summary": "Niteshift, an AI coding agent startup launched by former Datadog engineers, raised a $7 million seed round from a group of prominent angel investors. The company bets that enterprises will favor maintaining control over their AI tools instead of being locked into proprietary model makers.",
       "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
@@ -380,42 +344,6 @@
       "media_kind": "stock",
       "media_credit": "Photo: ITU Pictures / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/42121221@N07/30495671441"
-    },
-    "l592vx": {
-      "ai_summary": "Gemini in Chrome has expanded its availability to Latin America, the Middle East, and Africa. The rollout continues following its earlier launches in other regions.",
-      "title": "Gemini in Chrome expands further to Latin America and the Middle East",
-      "t": 1781117703307,
-      "media_url": "https://live.staticflickr.com/228/470416487_46942f8894.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Bohman / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/79729522@N00/470416487"
-    },
-    "1p45jwt": {
-      "ai_summary": "The Honor Magic V6 features impressive engineering and a standout mechanical design. However, its software experience needs considerable polish to match the hardware quality.",
-      "title": "Honor Magic V6 review: A mechanical marvel",
-      "t": 1781117697697,
-      "media_url": "https://live.staticflickr.com/8124/10230654675_5a08fc4778_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Tanel Teemusk / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/13542896@N00/10230654675"
-    },
-    "4zr7fz": {
-      "ai_summary": "Saw: Genesis puts players in the role of the murderous mastermind, emphasizing its darkly fun gameplay. The title promises a cringe‑inducing experience for those who dare to take on that role.",
-      "title": "Saw: Genesis looks the most fun when you're the murderous mastermind",
-      "t": 1781117696772,
-      "media_url": "https://live.staticflickr.com/3802/18556751984_7f0b8b27e2_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: AntMan3001 / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/92461652@N07/18556751984"
-    },
-    "1wkstdx": {
-      "ai_summary": "Secretlab has released the Atlas, its first dedicated home‑office chair, launching the brand’s gaming‑office crossover series. The piece also spotlights twelve additional hybrid gaming‑office chairs that impressed the reviewer.",
-      "title": "Secretlab just launched its first true home office chair — here are 12 more hybrid gaming and office chairs that really impressed me",
-      "t": 1781117698261,
-      "media_url": "https://live.staticflickr.com/3195/2795336383_3716963cc0.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: _Tophee_ / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/64667396@N00/2795336383"
     },
     "1ej1h4o": {
       "ai_summary": "Apple announced that HomePod will receive two new improvements with the upcoming iOS 27 update. Additional HomePod features are expected to be revealed later this fall.",
@@ -426,15 +354,6 @@
       "media_credit": "Photo: Rockspindeln / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/53030568@N07/7228265920"
     },
-    "kl78t7": {
-      "ai_summary": "An ancient lineage of cyanobacteria is shedding light on an early evolutionary stage of photosynthesis. This insight helps biologists understand how the process converts light into life‑sustaining chemical energy.",
-      "title": "An Early Step on the Long, Strange Road to Photosynthesis",
-      "t": 1781117706117,
-      "media_url": "https://live.staticflickr.com/8225/8584561590_56dc081059_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: dotun55 / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/72767520@N08/8584561590"
-    },
     "11pspn3": {
       "ai_summary": "SpaceX’s IPO is propelled by three hard‑tech moonshots that underpin its market excitement. Analysts view the majority of the offering’s value as a call option on the company’s forthcoming space‑based data center ambitions.",
       "title": "The three hard-tech moonshots fueling SpaceX’s unbelievable IPO",
@@ -444,42 +363,6 @@
       "media_credit": "Photo: ITU Pictures / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/42121221@N07/30284645320"
     },
-    "17r51b8": {
-      "ai_summary": "An ExpressVPN survey shows that 70% of World Cup football fans are willing to compromise their digital privacy when using public Wi‑Fi. The firm warns that this behavior leaves them vulnerable ahead of the 2026 tournament and advises taking protective measures.",
-      "title": "7 in 10 World Cup football fans are ready to put their digital  privacy at risk, warns ExpressVPN",
-      "t": 1781117717846,
-      "media_url": "https://live.staticflickr.com/65535/48771412522_5caf0217de_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: originaldaniel / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/184613180@N08/48771412522"
-    },
-    "15n1dud": {
-      "ai_summary": "Eric Ries, author of *The Lean Startup* and new book *Incorruptible*, is holding an AMA to reflect on the 15 years since his seminal work and its influence across industries. He says he has helped numerous people in startups, large companies, NGOs, and governments.",
-      "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
-      "t": 1781117741459,
-      "media_url": "https://live.staticflickr.com/2663/4140950816_e131180c13.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950816"
-    },
-    "13ewnwo": {
-      "ai_summary": "AI is shrinking the window for cyberattacks to mere minutes, demanding faster defenses. Consequently, security operations centers are transitioning to agentic models that enable real‑time detection and automated response.",
-      "title": "Security at machine speed: why the SOC must be rebuilt for the AI era",
-      "t": 1781117715381,
-      "media_url": "https://live.staticflickr.com/5015/5510836224_f107d7bd1b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: شبكة برق | B.R.Q / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/59972116@N05/5510836224"
-    },
-    "1rkjk1t": {
-      "ai_summary": "Microsoft Office 2019 for Mac will switch to read‑only mode next month, blocking any edits to documents. Consequently, the suite will be effectively useless for creating or modifying files.",
-      "title": "Microsoft Office 2019 for Mac will become read-only next month",
-      "t": 1781117724798,
-      "media_url": "https://live.staticflickr.com/74/209765872_f9a6b58d2b_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: renatotarga / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/24939177@N00/209765872"
-    },
     "1fk1qgo": {
       "ai_summary": "Warner Music Group has acquired AI attribution startup Sureel AI to improve tracking of its artists' works in AI-generated content and model training. The acquisition will enable WMG to monitor and manage usage of its catalog across emerging AI platforms.",
       "title": "Warner Music acquires AI attribution startup Sureel AI",
@@ -488,296 +371,6 @@
       "media_kind": "stock",
       "media_credit": "Photo: Wendelin Jacober / CC0 1.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/91619724@N04/51918050245"
-    },
-    "1i338cf": {
-      "ai_summary": "The nearly 3‑acre Arden Villa estate in California, famous for the Dynasty reflecting‑pool fight between Krystle Carrington and Alexis Colby, is listed for $45 million. The property includes the iconic pool and other landmarks from the show.",
-      "title": "Photos: California estate, site of ‘Dynasty’ pond brawl, seeks $45 million",
-      "t": 1781117727740,
-      "media_url": "https://live.staticflickr.com/6163/6217541843_3aa6ecf412_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: JodiWomack / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/22406955@N07/6217541843"
-    },
-    "jnaqp1": {
-      "ai_summary": "The trailer for \"The Social Reckoning\" shows Jeremy Strong playing a defiant Mark Zuckerberg. It teases a looming \"Zuckcession\" as suggested by the trailer's tagline.",
-      "title": "The Social Reckoning trailer features Jeremy Strong as a defiant Mark Zuckerberg",
-      "t": 1781117732416,
-      "media_url": "https://live.staticflickr.com/4110/5175010862_a96d6713f5_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: glen edelson / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/25217744@N06/5175010862"
-    },
-    "fhuy2": {
-      "ai_summary": "Anthropic released Claude Fable 5, calling it its most powerful widely available AI model and highlighting its biology capabilities. Yet the model refuses to answer basic high‑school biology questions, instead passing them to its former flagship.",
-      "title": "Fable won’t answer basic biology questions",
-      "t": 1781117606909,
-      "media_url": "https://live.staticflickr.com/7594/28799579322_f9e3ce8511_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/28799579322"
-    },
-    "so4bq5": {
-      "ai_summary": "Apple’s iPhone 18 Pro is slated for release this fall. Three upcoming features are highlighted as potential reasons to consider upgrading.",
-      "title": "iPhone 18 Pro: Three new features might make you want to upgrade",
-      "t": 1781117608702,
-      "media_url": "https://live.staticflickr.com/961/42227441352_c82a6b126f_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: sjpowermac / CC0 1.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/41890311@N06/42227441352"
-    },
-    "18h4s36": {
-      "ai_summary": "Instagram has introduced algorithm personalization options for its main feed, letting users tweak the content they see. The update does not allow users to increase the visibility of posts from accounts they follow.",
-      "title": "You can personalize your Instagram algorithm now — unless you want to see more posts from accounts you follow",
-      "t": 1781117613165,
-      "media_url": "https://live.staticflickr.com/65535/51917306948_1ac4943880_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Alexey Kljatov / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/53601471@N08/51917306948"
-    },
-    "1vlzxty": {
-      "ai_summary": "OpenClaw’s AI agent was deceived by a phishing attack, leading to the compromise of user data. Varonis advises implementing tighter input validation and continuous monitoring to make AI agents more resistant to such exploits.",
-      "title": "OpenClaw AI agent tricked into phishing attacks, with user data compromised",
-      "t": 1781117613814,
-      "media_url": "https://live.staticflickr.com/7129/7712545428_8615dcb6d8_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Alexandre Dulaunoy / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/31797858@N00/7712545428"
-    },
-    "c9nh14": {
-      "ai_summary": "The article reviews the top USB‑C cables for 2026, highlighting models suited for smartphones, tablets, and laptops that deliver fast charging and reliable data transfer. It guides readers through the crowded market to pick the best cords for their devices.",
-      "title": "The Best USB-C Cables (2026): for Smartphones, Tablets, and Laptops",
-      "t": 1781117614797,
-      "media_url": "https://live.staticflickr.com/3191/4556107215_a86483587a_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Larry Johnson / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/76225887@N00/4556107215"
-    },
-    "1gf0x8x": {
-      "ai_summary": "IEEE’s EPICS program has introduced the Excellent EPICS in IEEE Contributor Awards to recognize outstanding participants. The awards honor top student team leaders and faculty advisors for their contributions to community‑focused engineering projects.",
-      "title": "EPICS in IEEE’s Awards Honor Outstanding Students and Faculty",
-      "t": 1781117616769,
-      "media_url": "https://live.staticflickr.com/7315/12817661364_3d4f699b7c_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NASA Goddard Photo and Video / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/24662369@N07/12817661364"
-    },
-    "18r7hms": {
-      "ai_summary": "iOS 27 adds a Dual Camera feature to FaceTime for iPhone 17 and newer models, improving video call quality. The update also brings new capabilities to Messages, Apple Notes, Wallet, and several other apps.",
-      "title": "iOS 27 gives FaceTime huge upgrade with this powerful new feature",
-      "t": 1781117616981,
-      "media_url": "https://live.staticflickr.com/3942/15558667478_93ca015cf4_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: dave.see / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/9639178@N08/15558667478"
-    },
-    "12adz6w": {
-      "ai_summary": "Ubisoft is reportedly shutting down studios and laying off staff in Barcelona and San Francisco to cut costs while safeguarding key franchises like Rainbow Six: Siege. The layoffs are part of a broader effort to streamline operations following previous workforce reductions.",
-      "title": "Ubisoft reportedly shuts down more studios and lays off staff in Barcelona and San Francisco",
-      "t": 1781117620408,
-      "media_url": "https://live.staticflickr.com/7329/13004944973_c0193f950c.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: JeepersMedia / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/39160147@N03/13004944973"
-    },
-    "7mxhla": {
-      "ai_summary": "Pennsylvania legislators are drafting legislation that would impose safety regulations on smart glasses and prohibit their use for covert recording. The bill seeks to make unauthorized private recording with such devices a criminal offense.",
-      "title": "Pennsylvanian lawmakers want new smart glasses safety rules — and for once a government is making a sensible technology decision",
-      "t": 1781117622411,
-      "media_url": "https://live.staticflickr.com/8674/15251834703_f95d77a7b0_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NYC Media Lab / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/67540051@N03/15251834703"
-    },
-    "bu84cr": {
-      "ai_summary": "SpaceX’s upcoming Nasdaq IPO is expected to turn more than 4,000 current and former employees into millionaires, according to a Hill.com analysis. About 400 of those individuals could see stakes valued at $100 million or higher, with the wealth extending beyond engineers to roles such as cafeteria workers.",
-      "title": "SpaceX’s IPO is expected to mint 4,000 new millionaires, from engineers to cafeteria workers",
-      "t": 1781117623677,
-      "media_url": "https://live.staticflickr.com/8088/8572929325_c8a70aeb39_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/8572929325"
-    },
-    "j9cd4b": {
-      "ai_summary": "The 1989 paper “The Dynamo and the Computer: The Modern Productivity Paradox” argues that, like the delayed productivity boost from electrification, computer advances have yet to show clear gains in measured output. It was posted on Hacker News, earning 14 points and generating two comments.",
-      "title": "The Dynamo and the Computer: The Modern Productivity Paradox (1989) [pdf]",
-      "t": 1781117626348,
-      "media_url": "https://live.staticflickr.com/3402/4646054291_13d1773717_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: cincodenada06 / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/14506798@N00/4646054291"
-    },
-    "gzhuyk": {
-      "ai_summary": "The article argues that a forecast of $4.3 trillion in annual SpaceX revenue by 2040 is highly implausible. It notes that such a figure would dwarf the entire global aerospace industry and relies on unrealistic growth assumptions.",
-      "title": "Why SpaceX 2040 Revenue FCST $4.3T in highly unlikely",
-      "t": 1781117630149,
-      "media_url": "https://live.staticflickr.com/2723/4140951044_cebe112a5b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140951044"
-    },
-    "1t0dhfo": {
-      "ai_summary": "Microsoft vice chair and president Brad Smith published a 3,100‑word blog post addressing the growing trend of students booing AI‑focused graduation speakers. He urged a broader conversation about AI’s place in education rather than dismissing the backlash.",
-      "title": "Microsoft, like, totally gets why students are booing AI-pilled graduation speakers",
-      "t": 1781117630396,
-      "media_url": "https://live.staticflickr.com/65535/53534956841_9e540eb71e_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Josh Rokman - AI Images / PDM 1.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/200044612@N04/53534956841"
-    },
-    "8hbc0x": {
-      "ai_summary": "BNP Paribas estimates a $3.6 trillion US tech IPO pipeline, fueled by filings from SpaceX, OpenAI, and Anthropic, will pull European startups toward public markets. Ygal el Harrar, BNP Paribas’ global head of equity capital markets for technology, says the resulting liquidity wave will generate appetite for European tech deals as well.",
-      "title": "BNP Paribas says the $3.6 trillion US tech IPO pipeline will pull European startups towards public markets",
-      "t": 1781117632305,
-      "media_url": "https://live.staticflickr.com/3661/3484657288_e908985f13_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Jo@net / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/15411972@N00/3484657288"
-    },
-    "1y3ornu": {
-      "ai_summary": "Boeing unveiled an upgraded MQ-28 Ghost Bat featuring an internal weapons bay, a 25% larger wing, and an additional 2,000 pounds of payload capacity at the ILA Berlin air show. The enhancements are intended to give Boeing a competitive edge over Helsing in the bid for German drone contracts.",
-      "title": "Boeing upgrades the Ghost Bat with internal weapons and longer range as it competes with Helsing for German drone orders",
-      "t": 1781117633646,
-      "media_url": "https://live.staticflickr.com/6147/6097254042_0558e94d74.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Defence Images / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/48399297@N04/6097254042"
-    },
-    "1mhq8wg": {
-      "ai_summary": "JPL engineers continue to operate the 13‑year‑old Curiosity rover, conducting scientific observations and maintaining its systems on Mars. Their ongoing efforts ensure the rover remains productive well beyond its original mission timeline.",
-      "title": "How JPL keeps the 13-year-old Curiosity rover doing science",
-      "t": 1781117636671,
-      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=66880331&width=1200&height=600&coordinates=0%2C312%2C0%2C313",
-      "media_url": "https://live.staticflickr.com/2681/4140950940_186aec55ba.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950940"
-    },
-    "1jry0sd": {
-      "ai_summary": "iOS 27 adds a Tap to Share feature that lets merchants exchange data with customers via an NFC tap on their iPhone, extending the existing Tap to Pay capability. The feature is not being rolled out in the European Union.",
-      "title": "iOS 27 Introduces New 'Tap to Share' Feature, But Not Available in EU",
-      "t": 1781117639737,
-      "media_url": "https://live.staticflickr.com/65535/49864893032_91b599b8e6_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Kevin M. Gill / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/53460575@N03/49864893032"
-    },
-    "189zofv": {
-      "ai_summary": "Sources revealed new details about NASA's Artemis III mission after extensive discussions with Blue Origin leadership. The informant said they were on the phone with Blue Origin executives continuously through that night, the next day, and the weekend.",
-      "title": "We managed to glean some interesting details about the Artemis III mission",
-      "t": 1781117641096,
-      "media_url": "https://live.staticflickr.com/596/33223124796_6bb7231795_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: kevin dooley / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/12836528@N00/33223124796"
-    },
-    "1p0vcj": {
-      "ai_summary": "Users report that Claude Desktop can launch a virtual machine that lacks a stop mechanism, leaving it running indefinitely. The issue has been raised on GitHub and garnered 73 points and 46 comments on Hacker News.",
-      "title": "Claude Desktop spins up a VM without no way of stopping it",
-      "t": 1781117648794,
-      "image": "https://opengraph.githubassets.com/9b195cc57b00bc4886b925762bb63acd62de7370dc1679fea09fa5ebb0a3e5f3/anthropics/claude-code/issues/29045",
-      "media_url": "https://live.staticflickr.com/3402/4646054291_13d1773717_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: cincodenada06 / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/14506798@N00/4646054291"
-    },
-    "1le9p72": {
-      "ai_summary": "A German court ruled that AI is unnecessary for internet searching, rejecting Google's AI Overview feature in a case against the company. The decision raises concerns that similar rulings could undermine the broader AI‑search industry.",
-      "title": "Nobody needs AI to search the Internet, court says in ruling against Google",
-      "t": 1781117651725,
-      "media_url": "https://live.staticflickr.com/228/470416487_46942f8894.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Bohman / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/79729522@N00/470416487"
-    },
-    "16gq9m4": {
-      "ai_summary": "OB‑GYNs have published an independent vaccine schedule, distancing themselves from Robert F. Kennedy Jr.'s influence. Thirteen additional medical organizations have already backed the new schedule.",
-      "title": "OB-GYNs release their own vaccine schedule, rejecting RFK Jr.'s meddling",
-      "t": 1781117656206,
-      "media_url": "https://live.staticflickr.com/1689/26409872170_f1f39414c6_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: usarmywach / PDM 1.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/133649090@N04/26409872170"
-    },
-    "1qnlzaz": {
-      "ai_summary": "Valve discontinued its retail gift card program to combat fraud from scammers. The decision also eliminates a significant channel for legitimate customers who purchase the cards with physical cash.",
-      "title": "Valve kills its retail gift card program due to scammers",
-      "t": 1781117665931,
-      "media_url": "https://live.staticflickr.com/4139/5442733913_a2b374fdff.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Sean MacEntee / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/18090920@N07/5442733913"
-    },
-    "k81um3": {
-      "ai_summary": "An inexpensive Iranian drone reportedly caused the loss of a $25 million US Army helicopter in what may have been a fortunate hit. In response, US forces conducted another strike against Iran following the drone's unexpected success.",
-      "title": "Cheap Iranian drone downed $25 million US Army helicopter—maybe by chance",
-      "t": 1781117666046,
-      "media_url": "https://live.staticflickr.com/3832/11585458753_e10f949cd4_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NoveltyCREW / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/110500334@N07/11585458753"
-    },
-    "o55q7w": {
-      "ai_summary": "Babel-USB is a GitHub project that produces a USB drive containing every file up to a specified size. It has received 10 points and 3 comments on Hacker News.",
-      "title": "Babel-USB: USB drive with every file",
-      "t": 1781117667363,
-      "image": "https://opengraph.githubassets.com/e2cc60b221113586f6392243ec866be02f8703c781912c48d02f49440faa993d/p2r3/babel-usb",
-      "media_url": "https://live.staticflickr.com/2723/4140951044_cebe112a5b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140951044"
-    },
-    "ashmlm": {
-      "ai_summary": "The 2026 Honda Prelude hybrid coupe is priced at $42,000 and offers striking styling, sharp handling, and an EPA-rated 44 mpg. Reviewers say it exceeds expectations as a head‑turning sporty coupe.",
-      "title": "The 2026 Honda Prelude review: Didn't expect such a head-turner",
-      "t": 1781117668979,
-      "media_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Honda_WR-V_TRAILSPORT_HRC_Concept_at_Osaka_Auto_Messe_2026.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Aos.1905 / BY-SA 4.0 via wikimedia",
-      "media_credit_url": "https://commons.wikimedia.org/w/index.php?curid=184071245"
-    },
-    "16se6m6": {
-      "ai_summary": "HelixDB is an OLTP graph database that runs on object storage and includes native vector search and full‑text search capabilities. The project, launched just over a year ago, was started in college by the author and a friend.",
-      "title": "Show HN: HelixDB – A graph database built on object storage",
-      "t": 1781117670422,
-      "image": "https://opengraph.githubassets.com/eb55cdbc9186b9b47c034e43863d9dca834edecdc86cd93662746eed93ff730a/HelixDB/helix-db",
-      "media_url": "https://live.staticflickr.com/2669/4140191319_7dc49ddca2.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140191319"
-    },
-    "1wsy6v2": {
-      "ai_summary": "Extend UI is an open‑source MIT‑licensed UI kit offering 14 ready‑made components and examples for building PDF, DOCX, and XLSX viewers, with features like bounding‑box citations, file upload, and e‑signature support. The library is fully customizable and includes a demo video showcasing its capabilities.",
-      "title": "Show HN: Extend UI – open-source UI kit for modern document apps",
-      "t": 1781117681752,
-      "image": "https://extend.ai/ui/og?title=Open%20source%20UI%20kit%20for%20modern%20document%20apps&description=File%20viewers%20for%20PDF%2C%20DOCX%2C%20XLSX%2C%20and%20CSV%2C%20with%20bounding%20box%20citations%2C%20file%20upload%2C%20e-signing%2C%20and%20more.",
-      "media_url": "https://live.staticflickr.com/2669/4140191319_7dc49ddca2.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140191319"
-    },
-    "1bv3usc": {
-      "ai_summary": "The article examines the design and implementation of a high‑performance EP kernel. It was shared on Hacker News, earning 9 points and generating one comment.",
-      "title": "Anatomy of a high-performance EP kernel",
-      "t": 1781117683247,
-      "image": "https://fergusfinn.com/saral-og.jpg",
-      "media_url": "https://live.staticflickr.com/2762/4140950690_e8e7fa21f4.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950690"
-    },
-    "7r2455": {
-      "ai_summary": "macOS 27 Golden Gate contains multiple hints pointing to a forthcoming “MacBook Ultra” model, including references to an OLED display, touch‑screen support, and a Dynamic Island. The rumored laptop would sit above the MacBook Pro as Apple’s next high‑end offering.",
-      "title": "macOS 27 Hints at 'MacBook Ultra' in Three Ways",
-      "t": 1781117692506
-    },
-    "1qjih3k": {
-      "ai_summary": "California's labor productivity jumped to the nation's third‑largest increase last year. Meanwhile, overall U.S. productivity rose just 1.8% over the same period.",
-      "title": "How California’s economy survives: Its workers are No. 3 for productivity",
-      "t": 1781117739034,
-      "media_url": "https://live.staticflickr.com/84/234526475_b2ad624b39_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: dbking / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/65193799@N00/234526475"
     },
     "1sxbp36": {
       "ai_summary": "The top 1% of US companies by AI adoption spend about $7,500 per employee each month on AI tools and compute, while the median firm spends only $11.38. This 680‑fold disparity, highlighted by the Ramp AI Index, shows how unevenly AI investment is distributed across American business.",
@@ -860,62 +453,6 @@
       "media_credit": "Photo: blakespot / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/35448539@N00/6053891782"
     },
-    "3qevm4": {
-      "title": "Wrongful Arrest Exposes Failures in One of the Oldest Police Face-Recognition Tools in the US",
-      "t": 1781117752993,
-      "media_url": "https://live.staticflickr.com/8152/7637631770_7c77665e3c_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: shankar s. / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/77742560@N06/7637631770"
-    },
-    "1hm0ein": {
-      "title": "AT&T now offers $3 day passes for 'unlimited' iPad cellular data",
-      "t": 1781117753008,
-      "media_url": "https://live.staticflickr.com/3762/13844986564_c050da15f4_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Peter Mooney / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/25874444@N00/13844986564"
-    },
-    "12m9e7m": {
-      "title": "AT&T launches new $3 ‘Unlimited Day Pass’ plan for iPad cellular",
-      "t": 1781117753021,
-      "media_url": "https://live.staticflickr.com/588/21852753942_e6f1866e97_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: infomatique / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/80824546@N00/21852753942"
-    },
-    "19qr9pn": {
-      "title": "AirPods Pro 3 have hit a record-low price of $179 ahead of Prime Day — I doubt these 'near-perfect set of noise-cancelling earbuds' will get any cheaper",
-      "t": 1781117753047,
-      "media_url": "https://live.staticflickr.com/65535/49058501246_a0e6517237_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: modestoweller / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/185486560@N03/49058501246"
-    },
-    "dr8h5a": {
-      "title": "Apple Seemingly Discontinuing Vision Pro Travel Case Around the World",
-      "t": 1781117753076,
-      "media_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Apple_Vision_Pro_on_display_in_Toronto%2C_Canada_-_Aug_2024.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: LR.127 / BY 4.0 via wikimedia",
-      "media_credit_url": "https://commons.wikimedia.org/w/index.php?curid=156119087"
-    },
-    "1r7epx9": {
-      "title": "KPMG secretly and repeatedly accessed a whistleblower’s computer, then shared the files with its CEO",
-      "t": 1781117753103,
-      "media_url": "https://live.staticflickr.com/8168/7419828720_17f086e5bd_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Eva Rinaldi Celebrity Photographer / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/58820009@N05/7419828720"
-    },
-    "ne5fce": {
-      "title": "China Opens World’s First Wind-Powered Underwater Data Center",
-      "t": 1781117753118,
-      "media_url": "https://live.staticflickr.com/3095/2727049805_b2ab7a766f_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: IK's World Trip / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/28238346@N00/2727049805"
-    },
     "fn6942": {
       "ai_summary": "Palmetto Superfoods has opened a new location in Los Gatos, expanding its presence beyond its San Francisco base. The brand focuses on products made from Brazilian açaí berries.",
       "title": "Palmetto Superfoods opens new location in Los Gatos",
@@ -933,22 +470,6 @@
       "media_kind": "stock",
       "media_credit": "Photo: PatrickRich / CC0 1.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/91689877@N03/54410796874"
-    },
-    "11flp12": {
-      "title": "70mai dashcams: Compact, connected, and built for all drivers",
-      "t": 1781117753443,
-      "media_url": "https://live.staticflickr.com/8209/8268103888_40689eaf83_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NRCgov / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/69383258@N08/8268103888"
-    },
-    "1fle18p": {
-      "title": "It’s not just Apple – WhatsApp has to allow competing AIs too",
-      "t": 1781117753449,
-      "media_url": "https://live.staticflickr.com/5562/14923161637_e5836f4af5.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: ImagePros / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/40645329@N06/14923161637"
     },
     "3hxfpj": {
       "ai_summary": "Nashville Zoo is opposing a proposed 69,000‑square‑foot AI data center that would overlook its animal habitats, having gathered more than 375,000 petition signatures. The zoo warns the facility could threaten animal welfare and conservation efforts.",
@@ -17685,20 +17206,22 @@
       "media_credit_url": "https://www.flickr.com/photos/125690902@N02/15813907428"
     },
     "oa_1959ff": {
+      "ai_summary": "The thesis introduces a soft tissue Kalman filter designed to reduce dynamic soft tissue artifacts in inertial measurement unit data. The full abstract will be made available after the embargo period ends.",
       "title": "Reducing IMU dynamic soft tissue artifacts with a soft tissue Kalman filter",
-      "t": 1781466712869,
-      "media_url": "https://live.staticflickr.com/749/21588710166_695895a14b_b.jpg",
+      "t": 1781984563928,
+      "media_url": "https://live.staticflickr.com/7688/27847610175_7e19376242_b.jpg",
       "media_kind": "stock",
-      "media_credit": "Photo: USDAgov / PDM 1.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/41284017@N08/21588710166"
+      "media_credit": "Photo: Me in ME / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/12357841@N02/27847610175"
     },
     "oa_195jat": {
+      "ai_summary": "The thesis presents a joint transit‑radial‑velocity framework for inferring the evolutionary history of close‑in, small‑planet populations. The full abstract will be made available after the embargo expires.",
       "title": "A joint transit-radial-velocity framework for evolutionary inference of close-in, small planet populations",
-      "t": 1781466713024,
-      "media_url": "https://live.staticflickr.com/3786/10744060333_414971a0b1_b.jpg",
+      "t": 1781984564636,
+      "media_url": "https://live.staticflickr.com/5488/10743855644_20cf3cb5e8_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: U.S. Army Combat Capabilities Development Command / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/34402227@N03/10744060333"
+      "media_credit_url": "https://www.flickr.com/photos/34402227@N03/10743855644"
     },
     "oa_1cypejj": {
       "title": "Unsupervised Deep-learning Methods for Low-dose Computed Tomography Reconstruction",
@@ -17709,12 +17232,13 @@
       "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/32795342200"
     },
     "oa_sm4l3c": {
+      "ai_summary": "The study investigates how narrative and email writing tasks influence L2 accuracy among B1 Spanish EFL learners. It aims to reveal differences in accuracy performance between the two task types.",
       "title": "Unveiling the task effect on L2 accuracy: Narrative vs. email writing by B1 Spanish EFL learners",
-      "t": 1781466713294,
-      "media_url": "https://live.staticflickr.com/1469/26756474216_00ec860c4f_b.jpg",
+      "t": 1781984574923,
+      "media_url": "https://live.staticflickr.com/1483/26685209382_fa33dedc19_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: USDAgov / PDM 1.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/41284017@N08/26756474216"
+      "media_credit_url": "https://www.flickr.com/photos/41284017@N08/26685209382"
     },
     "bsky_1xx2vdd": {
       "ai_summary": "The author, who has researched the societal impacts of language technology since late 2016, warns that automatic transcription in emergency services is a nightmare scenario. They report that this technology is now being implemented in Seattle, their own city.",
@@ -33351,8 +32875,9 @@
       "media_credit_url": "https://www.flickr.com/photos/37387065@N05/5716463659"
     },
     "oa_6e9feu": {
+      "ai_summary": "Researchers compared ANFIS, MLP, and PCA‑ANFIS models to predict the spatial distribution of cutaneous leishmaniasis in Sabzevar, Iran, using local infection data. The analysis aimed to determine which method provides the most accurate predictions for disease mapping.",
       "title": "مقایسهی روشهای ANFIS، MLP و PCA-ANFIS در مدلسازی و پیشبینی فضایی لیشمانیوز جلدی در شهرستان سبزوار، ایران",
-      "t": 1781865932726,
+      "t": 1781984564253,
       "media_url": "https://live.staticflickr.com/6025/6020351957_857fd6fc22_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: NWABR / BY 2.0 via flickr",
@@ -37086,12 +36611,224 @@
       "media_credit_url": "https://www.flickr.com/photos/39160147@N03/12956313933"
     },
     "t3r4gi": {
+      "ai_summary": "Microsoft Threat Intelligence identified a self‑propagating USB worm that monitors the Windows clipboard for cryptocurrency wallet addresses and seed phrases, sending the stolen data through a portable Tor client to evade detection. The malware spreads via USB drives and has been observed in active campaigns.",
       "title": "Microsoft finds USB worm that steals cryptocurrency through clipboard hijacking and Tor",
-      "t": 1781978266787,
+      "t": 1781984561163,
       "media_url": "https://live.staticflickr.com/8509/8410385932_5b75ae9652_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/8410385932"
+    },
+    "5aswzg": {
+      "ai_summary": "Researchers examined ancient tooth enamel and uncovered genetic evidence of interbreeding among distinct human relatives dating back hundreds of thousands of years. This hidden family entanglement has left a lasting imprint that can still be detected in modern human DNA.",
+      "title": "Ancient enamel just exposed a hidden human family entanglement that may still echo in your DNA",
+      "t": 1781984516087,
+      "media_url": "https://live.staticflickr.com/65535/50040298487_488518cbc1_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: BioDivLibrary / PDM 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/61021753@N02/50040298487"
+    },
+    "1cqe7ob": {
+      "ai_summary": "Brink is a feature-rich iOS podcast app highlighted in 9to5Mac's Indie App Spotlight series. The app offers a polished experience for users seeking advanced podcast listening capabilities.",
+      "title": "Indie App Spotlight: ‘Brink’ brings a feature-rich experience to iPhone podcast listening",
+      "t": 1781984516631,
+      "media_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/AJR_Weak_Spotify_Performance_2016-2017.png",
+      "media_kind": "stock",
+      "media_credit": "Photo: Koopastar / BY 4.0 via wikimedia",
+      "media_credit_url": "https://commons.wikimedia.org/w/index.php?curid=141365147"
+    },
+    "1d3013l": {
+      "ai_summary": "Microsoft's chief security officer said humans are struggling to keep pace with AI progress, warning that the window to understand the technology is narrowing before it becomes too late. Researchers echoed the concern, noting that AI capabilities are outpacing human comprehension and raising issues of oversight, transparency, and control.",
+      "title": "Microsoft CSO acknowledges that humans are struggling to keep up with AI advancement, reckons we've got a 'narrowing window to understand AI' before it's, well, too late",
+      "t": 1781984519142,
+      "media_url": "https://live.staticflickr.com/4132/4989727256_dbfc2bcce1_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: superstrikertwo / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/14876067@N00/4989727256"
+    },
+    "1blpr93": {
+      "ai_summary": "The author showcases a Windows XP‑themed portfolio that includes functional Game Boy and iPod emulators. Originally shared on Hacker News a year ago to mixed feedback, the creator anticipates a similar reception while asserting the project delivers a nostalgic experience.",
+      "title": "Show HN: My Windows XP portfolio with working Game Boy and iPod",
+      "t": 1781984519638,
+      "media_url": "https://live.staticflickr.com/2630/4140950240_d53df4111b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950240"
+    },
+    "1wn9el": {
+      "ai_summary": "Radio observations of the newest interstellar comet detected no technosignatures, indicating an absence of alien technology. The leading SETI research team concluded the object is entirely natural.",
+      "title": "Radio scans find no alien tech from the latest interstellar comet",
+      "t": 1781984521617,
+      "media_url": "https://live.staticflickr.com/2944/15320952281_d9111cf110_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: NASA Goddard Space Flight Center / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/35278629@N08/15320952281"
+    },
+    "1rjomr9": {
+      "ai_summary": "NASA is testing the Ernest prototype rover, which can drive faster and lift its wheels to climb obstacles. The agency released footage demonstrating these capabilities during the trials.",
+      "title": "NASA is testing a rover that can drive faster and lift its wheels to climb obstacles",
+      "t": 1781984523248,
+      "media_url": "https://live.staticflickr.com/705/22361398450_2da704debe_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: NASA Goddard Photo and Video / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/24662369@N07/22361398450"
+    },
+    "30zbvv": {
+      "ai_summary": "Researchers at Kyushu University and collaborators showed that continuous parameters in quantum gravity arise from operators within the theory itself, not as freely adjustable external dials. This finding supports Einstein’s century‑old claim that the fundamental laws of physics are not subject to arbitrary tuning.",
+      "title": "Quantum gravity research links continuous parameters to local operators within the theory itself",
+      "t": 1781984524421,
+      "media_url": "https://live.staticflickr.com/3291/2313927146_d29bc45495_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: woodleywonderworks / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/73645804@N00/2313927146"
+    },
+    "wv8rgt": {
+      "ai_summary": "The Atlantic launched a searchable database of the music collections used to train AI models, based on four datasets uncovered by reporter Alex Reisner. Two of the datasets contain 12 million and 9 million tracks respectively, while the other two, though smaller, still comprise substantial training material.",
+      "title": "The Atlantic created a searchable database of the music used to train AI",
+      "t": 1781984531950,
+      "media_url": "https://live.staticflickr.com/4818/45072225104_58f4b71a59_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Andrew Scheer / CC0 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/150938310@N02/45072225104"
+    },
+    "1u75oxr": {
+      "ai_summary": "Critics argue the upcoming Star Fox 64 remake plays it too safe, likely as an overcorrection following the disappointing reception of Star Fox Zero. Ahead of the remake's launch, coverage revisits the Wii U's Star Fox Zero to highlight what went wrong.",
+      "title": "The upcoming Star Fox 64 remake is too conservative, but wouldn’t you overcorrect after a disaster like Star Fox Zero?",
+      "t": 1781984533457,
+      "media_url": "https://live.staticflickr.com/47/148381238_b5d78fbf19_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Hachimaki / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/35341360@N00/148381238"
+    },
+    "r21lxq": {
+      "ai_summary": "Founders Fund has backed Shinkei’s Poseidon, a refrigerator‑sized robot designed to kill fish swiftly and humanely. The investment reflects the venture firm’s unusual focus on improving animal welfare in aquaculture.",
+      "title": "Founders Fund’s outlier bet on humanely killed fish",
+      "t": 1781984534030,
+      "media_url": "https://live.staticflickr.com/140/336498925_fa39c7b405_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: smaedli / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/75264768@N00/336498925"
+    },
+    "1cupiry": {
+      "ai_summary": "A new open‑source utility lets users add realistic scan artifacts to PDFs either through a command‑line interface or directly in the browser using WebAssembly. The tool offers configurable noise, skew, and contrast effects to mimic scanned documents.",
+      "title": "Show HN: Make PDFs look scanned (CLI or in the browser via WASM)",
+      "t": 1781984537509,
+      "image": "https://opengraph.githubassets.com/c1d742a274cd5390405595f5065aeebf252218e383551b6e48d0246d4a0274ae/overflowy/make-look-scanned",
+      "media_url": "https://live.staticflickr.com/3402/4646054291_13d1773717_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: cincodenada06 / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/14506798@N00/4646054291"
+    },
+    "1yzhmit": {
+      "ai_summary": "In the Weights is a new AI‑centric vanity search tool that lets users check their personal \"In the Weights\" score. It invites individuals to see how they rank based on AI‑driven metrics.",
+      "title": "In the Weights is your new AI-centric vanity search",
+      "t": 1781984540180,
+      "media_url": "https://live.staticflickr.com/5672/29949919183_74ebb78def_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: ITU Pictures / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/42121221@N07/29949919183"
+    },
+    "frvd83": {
+      "ai_summary": "Researchers created nanotube membranes that allow unusually fast lithium-ion transport, demonstrating ultrafast ion movement. The technology promises advances in clean energy generation, lithium recovery, and molecular separation.",
+      "title": "New nanotube membranes reveal unusually fast lithium-ion transport",
+      "t": 1781984542555,
+      "media_url": "https://live.staticflickr.com/7146/6715813905_5cef3c3aa9_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: umseas / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/26835854@N07/6715813905"
+    },
+    "186sjuf": {
+      "ai_summary": "An agency is accused of stealing a bestselling author's book and using artificial intelligence to repackage and release it as its own work. The alleged theft involves copying the original text and leveraging AI tools to produce a version marketed under the agency's name.",
+      "title": "Agency stole bestselling author's book, used AI to relaunch as their own",
+      "t": 1781984544842,
+      "image": "https://waxy.org/wp-content/uploads/2026/06/image-4.png",
+      "media_url": "https://live.staticflickr.com/2630/4140950240_d53df4111b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950240"
+    },
+    "tozuj5": {
+      "ai_summary": "Researchers are developing light-activated nanotech that simultaneously kills bacteria and promotes wound healing in chronic lesions. The approach aims to treat slow-healing wounds in diabetics and burn victims that often resist antibiotics.",
+      "title": "'You kill the bacteria and heal the wound at the same time': Emerging nanotech could be the future of wound healing",
+      "t": 1781984544910,
+      "media_url": "https://live.staticflickr.com/4653/40043245141_795e52099a_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: shaunmcguire503 / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/138356316@N04/40043245141"
+    },
+    "14b2iuo": {
+      "ai_summary": "The user reports an influx of spam pull requests and bot‑driven activity on GitHub, inflating stars and cluttering their repositories. They are asking the community for alternative code‑hosting platforms to migrate their projects.",
+      "title": "Ask HN: Due to spam on GitHub, what platforms can I move my projects?",
+      "t": 1781984547913,
+      "media_url": "https://live.staticflickr.com/3402/4646054291_13d1773717_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: cincodenada06 / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/14506798@N00/4646054291"
+    },
+    "wxvm53": {
+      "ai_summary": "Micro Center is selling a bundle on Amazon that pairs AMD’s Ryzen 7 9800X3D with 32 GB of DDR5 RAM and an MSI B850 Wi‑Fi 7 motherboard at a discounted price. The combo delivers high‑end CPU performance, fast memory, and a modern motherboard without breaking the bank.",
+      "title": "Get AMD's flagship Ryzen 7 9800X3D with 32GB of DDR5 memory and an MSI B850 Wi-Fi 7 motherboard at a discount — Micro Center bundles are now available on Amazon",
+      "t": 1781984550149,
+      "media_url": "https://live.staticflickr.com/3205/2898599364_cd1dba081b_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: gruntzooki / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/37996580417@N01/2898599364"
+    },
+    "1hecod5": {
+      "ai_summary": "Hot weather can impair sleep by delaying sleep onset, increasing nighttime awakenings, and reducing next‑day restfulness. The article outlines eight strategies to improve sleep during warm nights.",
+      "title": "Eight ways to sleep well in hot weather",
+      "t": 1781984551725,
+      "media_url": "https://live.staticflickr.com/7436/11518763494_09ba78de69_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: BLM Oregon & Washington / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/50169152@N06/11518763494"
+    },
+    "1olc0ne": {
+      "ai_summary": "Mammals retain a dormant capacity to regrow body parts rather than having lost it entirely. This latent ability suggests regeneration could be reactivated under the right conditions.",
+      "title": "The ability to regrow body parts is dormant in mammals, not lost",
+      "t": 1781984551932,
+      "image": "https://www.sciencedaily.com/images/1920/human-regeneration.webp",
+      "media_url": "https://live.staticflickr.com/2669/4140191319_7dc49ddca2.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140191319"
+    },
+    "1eokuna": {
+      "ai_summary": "Bun has an open pull request that proposes adding shared‑memory threads to its JavaScriptCore engine. The feature would allow Bun’s runtime to execute JavaScript code across multiple threads using shared memory.",
+      "title": "Bun has an open PR adding shared-memory threads to JavaScriptCore",
+      "t": 1781984553048,
+      "media_url": "https://live.staticflickr.com/3402/4646054291_13d1773717_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: cincodenada06 / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/14506798@N00/4646054291"
+    },
+    "1eugmyy": {
+      "ai_summary": "Researchers post‑trained a language model to conduct penetration testing instead of refusing such requests, while the publicly available models from Anthropic and OpenAI are guard‑railed to block offensive tasks and their cyber‑focused versions are restricted to enterprise customers. This gap leaves small and medium businesses exposed to cyber threats,…",
+      "title": "Show HN: We post-trained a model that pen tests instead of refusing",
+      "t": 1781984556208,
+      "image": "https://www.argusred.com/og.png",
+      "media_url": "https://live.staticflickr.com/3402/4646054291_13d1773717_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: cincodenada06 / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/14506798@N00/4646054291"
+    },
+    "bsky_jnhes7": {
+      "ai_summary": "The ebook \"The AI Con\" is currently on sale for $1.99 on Bookshop.org. The promotion is being shared by Alex Hanna on Bluesky.",
+      "title": "Check it out! The AI Con is onsale for just $1.99 for the ebook on bookshop.org: bookshop.org/p/books/the-... w/ @alexhanna.bsky.social",
+      "t": 1781984560807,
+      "media_url": "https://live.staticflickr.com/352/32065521861_801b4561e3_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Giuseppe Milo (www.pixael.com) / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/87690240@N03/32065521861"
+    },
+    "hte9sk": {
+      "ai_summary": "South Korea's defense industry is experiencing rapid growth, fueled by rising exports and strong government backing. This expansion reflects increasing global demand for advanced weaponry and the country's advancing technological capabilities.",
+      "title": "The rise of South Korea’s weapons business",
+      "t": 1781984575896,
+      "media_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Roman_brooch%2C_developed_T_shaped_%28FindID_1015993%29.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: The Portable Antiquities Scheme, Lucy Shipley, 2021-01-09 12:28:43 / BY 2.0 via wikimedia",
+      "media_credit_url": "https://commons.wikimedia.org/w/index.php?curid=98883453"
     }
   }
 }
