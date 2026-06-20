@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-19T23:38:22.803Z",
-  "count": 185,
+  "generated_at": "2026-06-20T04:03:22.046Z",
+  "count": 186,
   "papers": {
     "oa_vfyp9y": {
       "headline": "A New Way to Pick the Best Model for Unsupervised Domain Adaptation",
@@ -1296,6 +1296,13 @@
       "visual": "a mouse brain slice with highlighted senescent cells glowing red amid healthy neurons",
       "cover": "/paper-covers/oa_zroqj.jpg",
       "enriched_at": "2026-06-19T19:07:50.107Z"
+    },
+    "oa_1ny4pqw": {
+      "headline": "PET-MAD: Lightweight Universal Potential for Materials Modeling",
+      "hook": "Researchers trained PET-MAD on massive quantum‑mechanical datasets to create a lightweight interatomic potential that works across the entire periodic table. It delivers near‑first‑principles accuracy at a fraction of the computational cost, enabling simulations of millions of atoms in complex materials like alloys and catalysts. This breakthrough lets scientists explore material properties faster and more broadly than before.",
+      "visual": "a metallic nanoparticle composed of varied metal atoms",
+      "cover": "/paper-covers/oa_1ny4pqw.jpg",
+      "enriched_at": "2026-06-20T04:03:19.609Z"
     }
   }
 }
