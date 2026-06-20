@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-20T14:57:41.200Z",
+  "generated_at": "2026-06-20T16:25:04.883Z",
   "model": "nvidia/nemotron-3-super-120b-a12b",
-  "count": 4197,
+  "count": 4225,
   "items": {
     "85219": {
       "ai_summary": "Amazon’s cybersecurity research reportedly helped trigger a White House export‑control directive that forced Anthropic to cut off access to its Fable 5 and Mythos 5 models. The Wall Street Journal says the move was influenced by Amazon’s paper and discussions between CEO Andy Jassy and administration officials.",
@@ -17038,12 +17038,13 @@
       "media_credit_url": "https://www.flickr.com/photos/64704683@N04/6012439650"
     },
     "arxiv_6tnq76": {
+      "ai_summary": "The paper proposes a primal‑dual framework for constructing attention layers in transformers, providing a principled alternative to heuristic design. This approach aims to improve self‑attention mechanisms used in natural language processing and computer vision sequence modeling tasks.",
       "title": "A Primal-Dual Framework for Transformers and Neural Networks",
-      "t": 1781448282907,
-      "media_url": "https://live.staticflickr.com/6137/6012439650_99bee9908d_b.jpg",
+      "t": 1781972624421,
+      "media_url": "https://live.staticflickr.com/7217/7336892606_4310213cf9_b.jpg",
       "media_kind": "stock",
-      "media_credit": "Photo: NWABR / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/64704683@N04/6012439650"
+      "media_credit": "Photo: U.S. Army Combat Capabilities Development Command / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/34402227@N03/7336892606"
     },
     "arxiv_1yazkj2": {
       "ai_summary": "The paper presents the first gradient‑based method for optimizing prompts in text‑to‑image diffusion models, treating prompt engineering as a discrete optimization problem over the language space. It highlights the difficulty posed by the vast language domain and proposes techniques to efficiently search for effective prompts.",
@@ -17350,112 +17351,126 @@
       "media_credit_url": "https://www.flickr.com/photos/65001151@N03/39589896675"
     },
     "arxiv_187gpgr": {
+      "ai_summary": "HardTaint presents a production‑run dynamic taint analysis that leverages selective hardware tracing to track data flows. By limiting tracing to relevant instructions, it seeks to dramatically reduce the runtime overhead traditionally associated with dynamic taint analysis.",
       "title": "HardTaint: Production-Run Dynamic Taint Analysis via Selective Hardware Tracing",
-      "t": 1781454444218,
-      "media_url": "https://live.staticflickr.com/2809/10388748355_f3d38ed371_b.jpg",
+      "t": 1781972631446,
+      "media_url": "https://live.staticflickr.com/6025/6020351957_857fd6fc22_b.jpg",
       "media_kind": "stock",
-      "media_credit": "Photo: Paul Albertella / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/73915715@N00/10388748355"
+      "media_credit": "Photo: NWABR / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/64704683@N04/6020351957"
     },
     "arxiv_wf506i": {
+      "ai_summary": "The study shows that unavoidable phosphorus or gallium passivation of silicon surfaces before III‑V/Si epitaxy markedly alters the silicon substrate’s surface energy. Using density functional theory, the researchers quantified these energy changes for P‑ and Ga‑terminated Si surfaces and linked them to modified wetting properties relevant to heteroepitaxial…",
       "title": "Inevitable Si surface passivation prior to III-V/Si epitaxy: A strong impact on wetting properties",
-      "t": 1781454444333,
+      "t": 1781972634343,
       "media_url": "https://live.staticflickr.com/3934/15363523929_fbbfec1349_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: NASA Goddard Photo and Video / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/24662369@N07/15363523929"
     },
     "arxiv_iy13nn": {
+      "ai_summary": "Selective hydrogenation of tetra‑penta‑deca‑hexagonal graphene enhances its Seebeck coefficient, improving thermoelectric performance. DFT and Boltzmann transport calculations show that this modification induces anisotropic thermoelectric behavior in the material.",
       "title": "Selective Hydrogenation Promotes Anisotropic Thermoelectric Properties of TPDH-Graphene",
-      "t": 1781454444374,
-      "media_url": "https://live.staticflickr.com/65535/52619500668_83383ac41c_b.jpg",
+      "t": 1781972625124,
+      "media_url": "https://live.staticflickr.com/700/33043478941_308e2e853a_b.jpg",
       "media_kind": "stock",
-      "media_credit": "Photo: James Webb Space Telescope / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/50785054@N03/52619500668"
+      "media_credit": "Photo: NASA Goddard Photo and Video / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/24662369@N07/33043478941"
     },
     "arxiv_1p67sb2": {
+      "ai_summary": "Researchers present a full‑magnetic implementation of the classical Toffoli gate using three interacting spins, a key component for reversible computing that can bypass Landauer‑limit energy loss. They analyze several spin‑configuration setups to achieve the gate, showing its promise for energy‑efficient classical computation.",
       "title": "Full-magnetic implementation of a classical Toffoli gate",
-      "t": 1781454444519,
+      "t": 1781972651453,
       "media_url": "https://live.staticflickr.com/65535/50024587686_d0f9c70622_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/50024587686"
     },
     "arxiv_1nagers": {
+      "ai_summary": "Compiler testing under relaxed memory models checks whether any behavior permitted by the target architecture’s memory model could arise from a compiled program that is not possible in the source program under its own memory model. Such mismatches indicate bugs, particularly concurrency bugs that manifest only with two or more threads.",
       "title": "Compiler Testing With Relaxed Memory Models",
-      "t": 1781454444536,
-      "media_url": "https://live.staticflickr.com/6144/6012541096_8c140f2286_b.jpg",
+      "t": 1781972636824,
+      "media_url": "https://live.staticflickr.com/2809/10388748355_f3d38ed371_b.jpg",
       "media_kind": "stock",
-      "media_credit": "Photo: NWABR / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/64704683@N04/6012541096"
+      "media_credit": "Photo: Paul Albertella / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/73915715@N00/10388748355"
     },
     "arxiv_1puy6bz": {
+      "ai_summary": "The paper proposes logic‑enhanced foundation models to improve concept grounding beyond the 2D‑image focus of prior approaches like VisProg and ViperGPT. It argues that current methods fail to fully exploit language’s ability to reason about abstract concepts.",
       "title": "What's Left? Concept Grounding with Logic-Enhanced Foundation Models",
-      "t": 1781454444576,
+      "t": 1781972630385,
       "media_url": "https://live.staticflickr.com/65535/51876099461_0a69779eff_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: dullhunk / BY-SA 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/14829735@N00/51876099461"
     },
     "arxiv_1rf9q8e": {
+      "ai_summary": "The paper introduces scene‑driven exploration and GUI modeling to enhance the coverage and granularity of transition graphs for Android apps, tackling the difficulty of designing, testing, and maintaining complex UIs under tight development schedules. Experiments on apps such as ATG, WTG, and STG reveal that existing extracted graphs suffer from low…",
       "title": "Scene-Driven Exploration and GUI Modeling for Android Apps",
-      "t": 1781454444679,
-      "media_url": "https://live.staticflickr.com/6137/6012439650_99bee9908d_b.jpg",
+      "t": 1781972637325,
+      "media_url": "https://live.staticflickr.com/7217/7336892606_4310213cf9_b.jpg",
       "media_kind": "stock",
-      "media_credit": "Photo: NWABR / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/64704683@N04/6012439650"
+      "media_credit": "Photo: U.S. Army Combat Capabilities Development Command / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/34402227@N03/7336892606"
     },
     "arxiv_1ujia7b": {
+      "ai_summary": "The paper introduces an automated verification technique that checks whether masked arithmetic programs are functionally equivalent to their original unmasked cryptographic algorithms. It fills a notable gap in formal verification of masking countermeasures used to thwart power side‑channel attacks.",
       "title": "Automated Verification of Correctness for Masked Arithmetic Programs",
-      "t": 1781454444787,
+      "t": 1781972641638,
       "media_url": "https://live.staticflickr.com/3344/3312065998_ea35580c37.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: schoschie / BY-SA 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/87569910@N00/3312065998"
     },
     "arxiv_1qqq5je": {
+      "ai_summary": "Researchers released a large car‑following dataset derived from Lyft’s Level‑5 open data, capturing how drivers follow autonomous versus human‑driven vehicles. The dataset enables detailed analysis of mixed‑traffic behavior to improve safety and efficiency.",
       "title": "Large Car-following Data Based on Lyft level-5 Open Dataset: Following Autonomous Vehicles vs. Human-driven Vehicles",
-      "t": 1781454444820,
+      "t": 1781972637026,
       "media_url": "https://live.staticflickr.com/8736/17402277412_e53f94af35_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: NASA Goddard Photo and Video / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/24662369@N07/17402277412"
     },
     "arxiv_16k44pz": {
+      "ai_summary": "Self‑healing cyber‑physical systems autonomously recover from perceived failures, delivering resilience against intrinsic degradation, errors, and malicious attacks. Implicit redundancy within these systems can be leveraged for structural adaptation that further enhances cyber‑resilience.",
       "title": "Enhancing Cyber-Resilience in Self-Healing Cyber-Physical Systems with Implicit Guarantees",
-      "t": 1781454444956,
-      "media_url": "https://live.staticflickr.com/7244/7222789564_989fcbb790_b.jpg",
+      "t": 1781972680380,
+      "media_url": "https://live.staticflickr.com/3863/14804224326_f5ceae50a6_b.jpg",
       "media_kind": "stock",
-      "media_credit": "Photo: U.S. Army Combat Capabilities Development Command / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/34402227@N03/7222789564"
+      "media_credit": "Photo: U.S. Geological Survey / CC0 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/27784370@N05/14804224326"
     },
     "arxiv_gpdtxl": {
+      "ai_summary": "Researchers evaluated several open‑source memory allocators ported to CHERI on CheriBSD running Arm’s Morello platform, uncovering security vulnerabilities in all but one allocator under a set of introduced attacks. They also measured each allocator’s performance to assess the trade‑offs between safety and speed.",
       "title": "Picking a CHERI Allocator: Security and Performance Considerations",
-      "t": 1781454444967,
+      "t": 1781972645998,
+      "media_url": "https://live.staticflickr.com/2809/10388748355_f3d38ed371_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Paul Albertella / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/73915715@N00/10388748355"
+    },
+    "arxiv_1xq1hyg": {
+      "ai_summary": "Researchers have introduced LLM‑based frameworks to help power engineers handle the growing coding workload brought on by sector digitalization. These tools focus on automating routine programming tasks in power systems while laying the groundwork for more novel applications.",
+      "title": "LLM-based Frameworks for Power Engineering from Routine to Novel Tasks",
+      "t": 1781972640765,
+      "media_url": "https://live.staticflickr.com/648/21449440305_3d48048cf3_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: itsc2015 / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/136150275@N07/21449440305"
+    },
+    "arxiv_at0zj8": {
+      "ai_summary": "Ehrenfest molecular dynamics simulations reveal that electronic excitations significantly modify the nuclear stopping power of protons in water ice, indicating that electronic and nuclear stopping are not independent. This finding challenges the traditional two‑component model of ion stopping in matter.",
+      "title": "Electronic-mediated nuclear stopping power in proton irradiated water ice",
+      "t": 1781972653318,
       "media_url": "https://live.staticflickr.com/6144/6012541096_8c140f2286_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: NWABR / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/64704683@N04/6012541096"
     },
-    "arxiv_1xq1hyg": {
-      "title": "LLM-based Frameworks for Power Engineering from Routine to Novel Tasks",
-      "t": 1781454444975,
-      "media_url": "https://live.staticflickr.com/5828/21261562338_886abac6b1_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: itsc2015 / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/136150275@N07/21261562338"
-    },
-    "arxiv_at0zj8": {
-      "title": "Electronic-mediated nuclear stopping power in proton irradiated water ice",
-      "t": 1781454445111,
-      "media_url": "https://live.staticflickr.com/6025/6020351957_857fd6fc22_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NWABR / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/64704683@N04/6020351957"
-    },
     "arxiv_cvnvux": {
+      "ai_summary": "Augmented reality provides feedback and control for dynamics and robotics, enhancing human‑machine and human‑robot interaction in structural monitoring and dynamics testing both in labs and the field. In vibratory experiments, electrodynamic exciters are driven by manual operator input to generate vibrations for measurement.",
       "title": "Feedback and Control of Dynamics and Robotics using Augmented Reality",
-      "t": 1781454445292,
+      "t": 1781972669477,
       "media_url": "https://live.staticflickr.com/3389/3433059070_6e431d84dd_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
@@ -17622,16 +17637,18 @@
       "t": 1781460012919
     },
     "arxiv_1mrj63p": {
+      "ai_summary": "SPSysML is a SysML‑based domain‑specific language that evaluates the integrity and reusability of both simulated and physical components in early cyber‑physical system design. By addressing vague and uncertain design information, it aims to improve design quality and lower development costs.",
       "title": "A SysML-based language for evaluating the integrity of simulation and physical embodiments of Cyber-Physical systems",
-      "t": 1781460083356,
+      "t": 1781972660249,
       "media_url": "https://live.staticflickr.com/5483/14592386702_f46453e246_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: michaelseangallagher / BY-SA 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/13518023@N03/14592386702"
     },
     "arxiv_1lifogy": {
+      "ai_summary": "Analyzing S&P 500 firms from 2014 to 2020 grouped by greenhouse‑gas emissions, researchers used a peer‑exposure ratio to measure factor exposure heterogeneity. They found that, on average, green stocks show less factor‑exposure heterogeneity than brown stocks across most traditional equity factors.",
       "title": "Factor Exposure Heterogeneity in Green and Brown Stocks",
-      "t": 1781460083489,
+      "t": 1781972665200,
       "media_url": "https://live.staticflickr.com/3344/3312065998_ea35580c37.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: schoschie / BY-SA 2.0 via flickr",
@@ -17670,8 +17687,9 @@
       "media_credit_url": "https://www.flickr.com/photos/64704683@N04/6012541096"
     },
     "arxiv_tn4xbj": {
+      "ai_summary": "Advances in driver assistance technologies are paving the way for fully autonomous vehicles, promising to automate the entire driving task. Researchers are assessing public acceptance to gauge how quickly these changes will transform the automotive market.",
       "title": "Evaluating the acceptance of autonomous vehicles in the future",
-      "t": 1781460083821,
+      "t": 1781972673007,
       "media_url": "https://live.staticflickr.com/4079/4818399040_194190764a_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: Rob Enslin / BY 2.0 via flickr",
@@ -29585,8 +29603,9 @@
       "media_credit_url": "https://www.flickr.com/photos/64018555@N03/6835571199"
     },
     "vbs94k": {
+      "ai_summary": "Experiments indicate that a quantum state resistant to decay—potentially defying thermodynamic limits—may be within reach. Harnessing such a perpetual state could pave the way for entirely new types of matter.",
       "title": "A quantum state that lasts forever may finally be within our grasp",
-      "t": 1781776672767,
+      "t": 1781972618044,
       "media_url": "https://live.staticflickr.com/976/28434461768_963df81245_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: OLCF / BY 2.0 via flickr",
@@ -37074,21 +37093,279 @@
       "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950240"
     },
     "b9h41e": {
+      "ai_summary": "A Lithuanian startup has released an open-source network designed to detect Shahed-type drones. The platform aggregates sensor inputs to deliver real-time alerts for improved air‑defense awareness.",
       "title": "Lithuanian startup launches open-source network to detect Shahed-type drones",
-      "t": 1781967454125,
-      "image": "https://www.lrt.lt/img/2026/05/25/2398157-937080-1287x836.jpg",
+      "t": 1781972619690,
       "media_url": "https://live.staticflickr.com/2649/4140191397_a0e3b5d99f.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140191397"
     },
     "aqkl9v": {
+      "ai_summary": "A one‑off training session for male employees and their managers led fathers to spend about two extra hours per week on childcare and housework. This increase gave mothers greater access to work, according to a University of Tokyo study.",
       "title": "Training class increases time fathers spend with children and on housework, improving mothers' access to work",
-      "t": 1781967458308,
+      "t": 1781972613934,
       "media_url": "https://live.staticflickr.com/4085/5057612430_3624ac98d0_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: US Army Africa / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/36281822@N08/5057612430"
+    },
+    "sfkzlm": {
+      "ai_summary": "The Motorola Edge 70 Fusion delivers exceptional battery longevity, allowing extended use between charges. Its performance minimizes the need to keep a charger handy.",
+      "title": "I reviewed the Motorola Edge 70 Fusion, and it's the battery life superstar you've always wanted",
+      "t": 1781972545705,
+      "media_url": "https://live.staticflickr.com/4562/26980457869_d99017f86d_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Thad Zajdowicz / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/40632439@N00/26980457869"
+    },
+    "19z19x0": {
+      "ai_summary": "A new screening method can identify aptamer alternatives to antibodies in days rather than months. These short DNA or RNA molecules bind targets with high precision, offering greater stability, synthetic production, and easy chemical modification compared to antibodies.",
+      "title": "Faster aptamer screening finds synthetic alternatives to antibodies in days instead of months",
+      "t": 1781972546485,
+      "media_url": "https://live.staticflickr.com/6052/5912370383_d6beb40bdb_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: oakridgelabnews / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/37940997@N05/5912370383"
+    },
+    "uw8rmr": {
+      "ai_summary": "Nothing is launching its smartphones in the United States, making them available at Best Buy stores. Samsung will not be part of this launch, leaving Nothing as the new phone offering on those shelves.",
+      "title": "Nothing's US launch is finally bringing exciting phones back to Best Buy shelves",
+      "t": 1781972547265,
+      "media_url": "https://live.staticflickr.com/7246/7423566928_b818100623_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/7423566928"
+    },
+    "am7tul": {
+      "ai_summary": "Claude Guillemot, a co‑founder of Ubisoft, died in a plane crash on June 19. The accident occurred on an airstrip near the western coast of France.",
+      "title": "Claude Guillemot, one of Ubisoft's co-founders, has died in a plane crash",
+      "t": 1781972549626,
+      "media_url": "https://live.staticflickr.com/8739/16753968686_9859983d9d_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: kevin dooley / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/12836528@N00/16753968686"
+    },
+    "b56zba": {
+      "ai_summary": "To personalize a Kindle's screensaver, first disable lockscreen ads and enable the book‑covers option in Settings → Device Options. Additional tweaks include choosing a custom image, adjusting the slideshow interval, and selecting which collections appear.",
+      "title": "How to personalize the screensaver on your Kindle",
+      "t": 1781972550339,
+      "media_url": "https://live.staticflickr.com/68/170197465_f5a03eca43_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Long Zheng / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/27158819@N00/170197465"
+    },
+    "q8zdz": {
+      "ai_summary": "The reviewer evaluated four 2026‑released 4K Blu‑ray discs, noting a standout Dolby Atmos showcase and two rich DTS music titles, one of which is Spinal Tap. The testing was undertaken to celebrate Blu‑ray’s 20th anniversary, using a dedicated work‑day to catch up on previously missed releases.",
+      "title": "I tested 4 more 4K Blu-rays released in 2026 that are worth adding your collection — including a great Dolby Atmos showcase, and two sumptuous DTS music movies (well, one of them's Spinal Tap, but it absolutely counts)",
+      "t": 1781972552581,
+      "media_url": "https://live.staticflickr.com/1833/30165021788_9349c8c016_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: AntMan3001 / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/92461652@N07/30165021788"
+    },
+    "1fwgabm": {
+      "ai_summary": "Japanese authorities discovered that Sogen Kato, believed to be Tokyo’s oldest resident at 111, had actually died in 1978 and his body had been kept hidden by relatives to fraudulently collect pension payments. The case prompted a nationwide review of Japan’s elderly registry and led to arrests of family members for fraud.",
+      "title": "Sogen Kato",
+      "t": 1781972555307,
+      "media_url": "https://live.staticflickr.com/2762/4140950690_e8e7fa21f4.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950690"
+    },
+    "nt77zo": {
+      "ai_summary": "The Asus ROG GM700 gaming PC with an AMD Ryzen 7 8700F, Radeon RX 9060 XT GPU and 32GB DDR5 RAM is now $1,199 after a $300 discount, marketed as 1440p‑ready. It delivers strong performance and a sleek gamer‑focused design at a competitive price.",
+      "title": "Save $300 on this 1440p-ready gaming PC with 32GB DDR5 RAM — grab the Asus ROG GM700 with AMD's Ryzen 7 8700F and RX 9060 XT for just $1,199",
+      "t": 1781972556320,
+      "media_url": "https://live.staticflickr.com/7452/9033477498_ea03ee117c_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: davispuh / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/55551626@N02/9033477498"
+    },
+    "1lb8zuh": {
+      "ai_summary": "On May 8 2026, satellites detected an unexpected submarine volcanic eruption in the Bismarck Sea near Papua New Guinea’s Admiralty Islands, generating pumice rafts that began drifting toward the islands. Over the following weeks, steam and ash plumes streamed over the sea and discolored water marked the eruption’s surface expression.",
+      "title": "Pumice rafts encroach on Admiralty Islands",
+      "t": 1781972561884,
+      "media_url": "https://live.staticflickr.com/1650/26438579320_0bef15c3f7_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: NASA Goddard Photo and Video / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/24662369@N07/26438579320"
+    },
+    "56yfyr": {
+      "ai_summary": "Apple is permanently closing three of its U.S. retail stores later today, as announced in April. The affected locations are in Connecticut, Maryland, and California.",
+      "title": "Apple is permanently closing three stores today, here’s the list",
+      "t": 1781972562745,
+      "media_url": "https://live.staticflickr.com/4521/38176969972_7155ae87ea_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Ken Lund / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/75683070@N00/38176969972"
+    },
+    "1mwi2hv": {
+      "ai_summary": "Hainbach, a German experimental composer and YouTuber famed for creating music with laboratory equipment, discusses *Breath of the Wild* and Swiss Army knives in his latest interview. He likens his “hard mode” production techniques to the “Dark Souls of synthesis.”",
+      "title": "Musician and YouTuber Hainbach on ‘Breath of the Wild’ and Swiss Army Knives",
+      "t": 1781972565570,
+      "media_url": "https://live.staticflickr.com/6017/5974734793_c7a6d03a05.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Digitas Photos / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/39039527@N05/5974734793"
+    },
+    "jqzb97": {
+      "ai_summary": "The reverse‑engineering effort for the classic DOS game F-15 Strike Eagle II is looking for volunteers familiar with DOS to serve as test pilots. Participants will run the rebuilt game on original DOS systems to help validate its accuracy and functionality.",
+      "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
+      "t": 1781972565908,
+      "media_url": "https://live.staticflickr.com/2649/4140191397_a0e3b5d99f.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140191397"
+    },
+    "t2csdq": {
+      "ai_summary": "Google and UC San Diego repurposed 2,000 retired Pixel smartphones into a computing cluster to test low‑cost data‑center alternatives. The project aims to cut expenses and electronic waste by giving old devices a second life as servers.",
+      "title": "A great new lease of life for your old smartphone? Google teams up with university researchers to create low-cost data centers out of 2,000 old Pixel phones",
+      "t": 1781972572888,
+      "media_url": "https://live.staticflickr.com/1431/5182252161_6eeef1ee34_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: blakespot / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/35448539@N00/5182252161"
+    },
+    "13svsws": {
+      "ai_summary": "Apple's new child safety features fall short because they shift responsibility to app developers, leaving gaps where harm actually occurs, according to SafeToNet CEO Richard Pursey. While the measures represent genuine progress, experts warn they pose a significant risk to children.",
+      "title": "Apple’s new Child Safety features ‘don't get to where the harm is happening,’ online safety expert says — pushing responsibility to iPhone app developers poses a ‘huge risk’ to kids despite ‘genuine progress’",
+      "t": 1781972575497,
+      "media_url": "https://live.staticflickr.com/696/20704646369_af2e691632_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Brett Jordan / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/55497864@N00/20704646369"
+    },
+    "hb01kg": {
+      "ai_summary": "Apple unveiled five new apps last week, with four announced at WWDC 2026 alongside upcoming fall software updates, one released in beta for developers, and one launched independently by subsidiary Claris. Among the announcements, Siri AI was highlighted as a ground‑up rebuild of Apple's assistant.",
+      "title": "Apple Unveiled These Five New Apps Last Week",
+      "t": 1781972581749,
+      "media_url": "https://live.staticflickr.com/8071/8365755896_14a2f78de8_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: James Webb Space Telescope / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/50785054@N03/8365755896"
+    },
+    "ntzcfq": {
+      "ai_summary": "The author tested Galaxy AI across a full work week and identified a single tool as genuinely indispensable. They observed that none of their preferred features were particularly flashy.",
+      "title": "I used Galaxy AI to manage my entire work week and found one genuinely indispensable tool",
+      "t": 1781972587183,
+      "media_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/%E7%AC%AC%E4%B8%80%E6%89%8B%EF%BC%81Samsung_Galaxy_S25%E7%B3%BB%E5%88%97%E6%8B%BF%E5%88%B0%E4%BA%86%EF%BC%9A5%E4%B8%AA%E5%8D%87%E7%BA%A7%EF%BC%81S_Pen%E4%B8%8D%E6%94%AF%E6%8C%81%E8%93%9D%E7%89%99%E4%BA%86%EF%BC%9F_%282160p_50fps_VP9-96kbit_AAC%29-00.04.06.861.png",
+      "media_kind": "stock",
+      "media_credit": "Photo: 可恩Ke En / BY 3.0 via wikimedia",
+      "media_credit_url": "https://commons.wikimedia.org/w/index.php?curid=158392469"
+    },
+    "qslblj": {
+      "ai_summary": "China announced a new Space Computing Industry Innovation Center that will unite rocket and satellite makers, chip firms, and AI labs to develop orbiting, grid‑free AI data centers. The initiative, unveiled a week before Elon Musk’s upcoming AI1 reveal, is positioned as a direct challenge to SpaceX’s space‑based infrastructure ambitions.",
+      "title": "China unifies tech sector to build grid-free orbiting satellite AI data centers, challenging Elon Musk's SpaceX — Beijing's forced chip and satellite alliance announced a week before Musk’s AI1 reveal",
+      "t": 1781972588514,
+      "media_url": "https://live.staticflickr.com/5512/11387262366_0e6dd08fb7_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Cory M. Grenier / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/26087974@N05/11387262366"
+    },
+    "2jjafo": {
+      "ai_summary": "Vacation With An Artist offers short‑term mini‑apprenticeships where travelers work alongside professional artists in their studios. Participants gain hands‑on experience learning techniques and creating artwork during their stay.",
+      "title": "Vacation With An Artist – Mini-Apprenticeships with Artists in Their Studios",
+      "t": 1781972593325,
+      "image": "https://vawaa.com/dist/889bf20e011d29e91aa5e7f0b8104bdf-1024.jpeg",
+      "media_url": "https://live.staticflickr.com/3402/4646054291_13d1773717_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: cincodenada06 / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/14506798@N00/4646054291"
+    },
+    "upku8k": {
+      "ai_summary": "iOS 27 introduces a range of new features that, while not as flashy as the updated Siri AI and Apple Intelligence, provide meaningful improvements for users. These additions cover various areas of the operating system worth noting.",
+      "title": "Every new iOS 27 feature that’s worth knowing about",
+      "t": 1781972593714,
+      "media_url": "https://live.staticflickr.com/4116/4771469219_86b87e68e2_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: StickerGiant / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/24192350@N03/4771469219"
+    },
+    "1vu2l1m": {
+      "ai_summary": "Antarctica’s ice loss provides a 30‑ to 50‑year warning for future sea‑level rise, according to recent models. The Nature study, led by Dr. Felicity McCormack of Monash University’s Securing Antarctica’s Environmental Future team, identifies the next three to five decades as a critical window to anticipate and plan for Antarctic contributions to rising seas.",
+      "title": "Antarctica is offering 30 to 50 years' worth of warning on sea level rise, models suggest",
+      "t": 1781972595544,
+      "media_url": "https://live.staticflickr.com/7450/27368408293_903752198f_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: NASA Goddard Space Flight Center / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/35278629@N08/27368408293"
+    },
+    "s33klq": {
+      "ai_summary": "Web browsers are on PDAs. This is the subject of the headline.",
+      "title": "Web Browsers on PDAS",
+      "t": 1781972599088,
+      "image": "https://vale.rocks/assets/og/post.webp",
+      "media_url": "https://live.staticflickr.com/2571/4140191985_68bbbe9e22.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140191985"
+    },
+    "1ugqjif": {
+      "ai_summary": "The provided headline and excerpt contain no details about Cargo‑Geiger. Therefore, a summary cannot be generated from the given input.",
+      "title": "Cargo-Geiger",
+      "t": 1781972599297,
+      "image": "https://opengraph.githubassets.com/69b9c481541ffbde3f17f76a544c3767fb3f263890fd891c911c526a1ca1b546/geiger-rs/cargo-geiger",
+      "media_url": "https://live.staticflickr.com/2571/4140191985_68bbbe9e22.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140191985"
+    },
+    "99be2e": {
+      "ai_summary": "The headline highlights the concept of the European Social Stack. No further details are provided in the excerpt.",
+      "title": "The European Social Stack",
+      "t": 1781972606339,
+      "image": "https://european.social/media/site/bcc5b1f264-1781271583/og.png",
+      "media_url": "https://live.staticflickr.com/2723/4140951044_cebe112a5b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140951044"
+    },
+    "54yfkl": {
+      "ai_summary": "John Jumper, a DeepMind researcher who co‑led the AlphaFold project, will leave Google DeepMind to join AI safety company Anthropic. His departure highlights the ongoing shift of top AI talent toward firms focused on safe and responsible AI development.",
+      "title": "US Scientist John Jumper to Leave Google DeepMind for Anthropic",
+      "t": 1781972608352,
+      "media_url": "https://live.staticflickr.com/2681/4140950940_186aec55ba.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950940"
+    },
+    "9vh6eh": {
+      "ai_summary": "The UK government is considering a ban on household VPN use to prevent users from bypassing age‑restriction controls. Officials are exploring an “age‑gate” mechanism that would require verification before accessing certain online content.",
+      "title": "VPN ban update for UK households as government looks at 'age-gate'",
+      "t": 1781972611233,
+      "media_url": "https://live.staticflickr.com/2663/4140950816_e131180c13.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950816"
+    },
+    "eu1ijv": {
+      "ai_summary": "Big Tech is borrowing like never before. This represents an unprecedented increase in debt among the largest technology companies.",
+      "title": "Big Tech is borrowing like never before",
+      "t": 1781972614551,
+      "image": "https://startupfortune.com/wp-content/uploads/2026/06/sf-14162-1781959723388.jpg",
+      "media_url": "https://live.staticflickr.com/2669/4140191319_7dc49ddca2.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140191319"
+    },
+    "1w0afwa": {
+      "ai_summary": "The new Windows 11 Media Player consumes roughly 3.5 times more RAM than the previous version. Microsoft also now charges for access to several popular video codecs within the player.",
+      "title": "Windows 11 New Media Player Uses 3.5x More RAM, Charges for Popular Video Codecs",
+      "t": 1781972615315,
+      "media_url": "https://live.staticflickr.com/2649/4140191397_a0e3b5d99f.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140191397"
+    },
+    "18uhn5r": {
+      "ai_summary": "Ubisoft co-founder Claude Guillemot died in a plane crash, according to reports. He was one of the five brothers who established the French video game publisher Ubisoft in 1986.",
+      "title": "Ubisoft co-founder Claude Guillemot has died in a plane crash",
+      "t": 1781972625369,
+      "media_url": "https://live.staticflickr.com/2681/4140950940_186aec55ba.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950940"
     }
   }
 }
