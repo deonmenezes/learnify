@@ -1,13 +1,12 @@
 {
-  "generated_at": "2026-06-20T10:39:55.808Z",
+  "generated_at": "2026-06-20T12:31:58.750Z",
   "handles": [
+    "AnthropicAI",
+    "OpenAI",
     "nvidia",
     "GoogleDeepMind",
     "elonmusk",
-    "NVIDIAAI",
-    "OpenAI",
-    "gdb",
-    "AnthropicAI"
+    "gdb"
   ],
   "count": 32,
   "articles": [
@@ -41,15 +40,142 @@
       "reasons": [
         "report-worthy",
         "tech substance (model, agent)",
-        "high engagement (1.3K likes)"
+        "high engagement (1.4K likes)"
       ],
       "metrics": {
-        "likes": 1295,
-        "retweets": 172,
-        "replies": 104,
-        "likes_h": "1.3K"
+        "likes": 1369,
+        "retweets": 176,
+        "replies": 114,
+        "likes_h": "1.4K"
       },
-      "engagement": 1743,
+      "engagement": 1835,
+      "hot": false
+    },
+    {
+      "id": "x_2067722688165232654",
+      "title": "As AI takes on longer, higher-stakes tasks, we want models to carry beneficial and safe behavior into new domains beyond their training—and maintain it under pressure. That’s the idea behind our new…",
+      "link": "https://x.com/OpenAI/status/2067722688165232654",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-06-18T21:34:39.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Research"
+      ],
+      "summary": "As AI takes on longer, higher-stakes tasks, we want models to carry beneficial and safe behavior into new domains beyond their training—and maintain it under pressure. That’s the idea behind our new research on training models to be broadly and persistently beneficial.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 84,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (models, research, training)",
+        "high engagement (2.6K likes)"
+      ],
+      "metrics": {
+        "likes": 2615,
+        "retweets": 239,
+        "replies": 187,
+        "likes_h": "2.6K"
+      },
+      "engagement": 3280,
+      "hot": false
+    },
+    {
+      "id": "x_2067672740539306261",
+      "title": "GPT-5.5 Instant is now on par with our frontier Thinking models for health-related questions. Every week, more than 230 million people turn to ChatGPT with health and wellness questions, and GPT-5.5…",
+      "link": "https://x.com/OpenAI/status/2067672740539306261",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-06-18T18:16:11.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Funding & deals",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Funding & deals"
+      ],
+      "summary": "GPT-5.5 Instant is now on par with our frontier Thinking models for health-related questions. Every week, more than 230 million people turn to ChatGPT with health and wellness questions, and GPT-5.5 Instant is better at recognizing when urgent care may be needed, asking for",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 100,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "tech substance (models, gpt)",
+        "business signal (million)",
+        "high engagement (4.1K likes)",
+        "concrete metrics"
+      ],
+      "metrics": {
+        "likes": 4059,
+        "retweets": 286,
+        "replies": 235,
+        "likes_h": "4.1K"
+      },
+      "engagement": 4866,
+      "hot": true
+    },
+    {
+      "id": "x_2067651699486200091",
+      "title": "New Frontier Red Team blog: Phase 2 of Project Fetch, where we test how well Claude can program a robodog. Opus 4.7, on its own, was ~20x faster than last year's best human team aided by Opus 4.1.…",
+      "link": "https://x.com/AnthropicAI/status/2067651699486200091",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Anthropic · @AnthropicAI",
+      "handle": "AnthropicAI",
+      "org": "Anthropic",
+      "published": "2026-06-18T16:52:34.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "Anthropic",
+        "Research"
+      ],
+      "summary": "New Frontier Red Team blog: Phase 2 of Project Fetch, where we test how well Claude can program a robodog. Opus 4.7, on its own, was ~20x faster than last year's best human team aided by Opus 4.1. (The robodog, alas, still failed to fetch a beach ball.) https://www.anthropic.com/research/project-fetch-phase-two",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 100,
+      "sentiment": "positive",
+      "sentiment_score": 0.3333333333333333,
+      "reasons": [
+        "report-worthy",
+        "tech substance (claude, opus, research)",
+        "links to a source",
+        "high engagement (2.1K likes)",
+        "concrete metrics"
+      ],
+      "metrics": {
+        "likes": 2074,
+        "retweets": 167,
+        "replies": 281,
+        "likes_h": "2.1K"
+      },
+      "engagement": 2689,
       "hot": false
     },
     {
@@ -82,15 +208,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (research)",
-        "high engagement (928 likes)"
+        "high engagement (2.8K likes)"
       ],
       "metrics": {
-        "likes": 928,
-        "retweets": 95,
-        "replies": 83,
-        "likes_h": "928"
+        "likes": 2755,
+        "retweets": 316,
+        "replies": 205,
+        "likes_h": "2.8K"
       },
-      "engagement": 1201,
+      "engagement": 3592,
       "hot": false
     },
     {
@@ -124,12 +250,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 557,
-        "retweets": 74,
-        "replies": 73,
-        "likes_h": "557"
+        "likes": 560,
+        "retweets": 75,
+        "replies": 74,
+        "likes_h": "560"
       },
-      "engagement": 778,
+      "engagement": 784,
       "hot": false
     },
     {
@@ -164,12 +290,12 @@
         "tech substance (models, agents)"
       ],
       "metrics": {
-        "likes": 304,
+        "likes": 303,
         "retweets": 53,
         "replies": 48,
-        "likes_h": "304"
+        "likes_h": "303"
       },
-      "engagement": 458,
+      "engagement": 457,
       "hot": false
     },
     {
@@ -203,15 +329,15 @@
         "report-worthy",
         "announcement language (introducing)",
         "tech substance (benchmark, research)",
-        "high engagement (2.7K likes)"
+        "high engagement (3.1K likes)"
       ],
       "metrics": {
-        "likes": 2749,
-        "retweets": 278,
-        "replies": 198,
-        "likes_h": "2.7K"
+        "likes": 3062,
+        "retweets": 318,
+        "replies": 211,
+        "likes_h": "3.1K"
       },
-      "engagement": 3503,
+      "engagement": 3909,
       "hot": false
     },
     {
@@ -247,12 +373,12 @@
         "tech substance (models, gpt, benchmarks)"
       ],
       "metrics": {
-        "likes": 242,
-        "retweets": 12,
+        "likes": 289,
+        "retweets": 16,
         "replies": 7,
-        "likes_h": "242"
+        "likes_h": "289"
       },
-      "engagement": 273,
+      "engagement": 328,
       "hot": false
     },
     {
@@ -491,12 +617,12 @@
         "high engagement (1.1K likes)"
       ],
       "metrics": {
-        "likes": 1146,
+        "likes": 1149,
         "retweets": 153,
         "replies": 60,
         "likes_h": "1.1K"
       },
-      "engagement": 1512,
+      "engagement": 1515,
       "hot": false
     },
     {
@@ -576,12 +702,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 240,
-        "retweets": 21,
-        "replies": 99,
-        "likes_h": "240"
+        "likes": 263,
+        "retweets": 24,
+        "replies": 103,
+        "likes_h": "263"
       },
-      "engagement": 381,
+      "engagement": 414,
       "hot": false
     },
     {
@@ -615,15 +741,15 @@
         "report-worthy",
         "tech substance (claude, research)",
         "links to a source",
-        "high engagement (3.4K likes)"
+        "high engagement (3.5K likes)"
       ],
       "metrics": {
-        "likes": 3417,
-        "retweets": 365,
-        "replies": 478,
-        "likes_h": "3.4K"
+        "likes": 3466,
+        "retweets": 372,
+        "replies": 485,
+        "likes_h": "3.5K"
       },
-      "engagement": 4625,
+      "engagement": 4695,
       "hot": true
     },
     {
@@ -703,11 +829,11 @@
       ],
       "metrics": {
         "likes": 86,
-        "retweets": 8,
+        "retweets": 9,
         "replies": 7,
         "likes_h": "86"
       },
-      "engagement": 109,
+      "engagement": 111,
       "hot": false
     },
     {
@@ -819,15 +945,15 @@
       "sentiment_score": 0,
       "reasons": [
         "report-worthy",
-        "high engagement (58.8K likes)"
+        "high engagement (58.9K likes)"
       ],
       "metrics": {
-        "likes": 58811,
-        "retweets": 12321,
-        "replies": 10430,
-        "likes_h": "58.8K"
+        "likes": 58933,
+        "retweets": 12380,
+        "replies": 10496,
+        "likes_h": "58.9K"
       },
-      "engagement": 93883,
+      "engagement": 94189,
       "hot": true
     },
     {
@@ -862,12 +988,12 @@
         "high engagement (88.3K likes)"
       ],
       "metrics": {
-        "likes": 88292,
-        "retweets": 25777,
-        "replies": 12645,
+        "likes": 88327,
+        "retweets": 25779,
+        "replies": 12635,
         "likes_h": "88.3K"
       },
-      "engagement": 152491,
+      "engagement": 152520,
       "hot": true
     },
     {
@@ -1196,129 +1322,6 @@
       },
       "engagement": 223,
       "hot": false
-    },
-    {
-      "id": "x_2065112614414229934",
-      "title": "Our CEO Jensen Huang on the opportunity ahead: use AI deeply, challenge the status quo, and stay focused on the human purpose behind the work. Every job has tasks. People give those tasks purpose,…",
-      "link": "https://x.com/nvidia/status/2065112614414229934",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-11T16:43:09.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Commentary"
-      ],
-      "summary": "Our CEO Jensen Huang on the opportunity ahead: use AI deeply, challenge the status quo, and stay focused on the human purpose behind the work. Every job has tasks. People give those tasks purpose, and AI can help turn that purpose into greater impact.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 60,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "high engagement (748 likes)"
-      ],
-      "metrics": {
-        "likes": 748,
-        "retweets": 117,
-        "replies": 74,
-        "likes_h": "748"
-      },
-      "engagement": 1056,
-      "hot": false
-    },
-    {
-      "id": "x_2065093482088169719",
-      "title": "We’re teaming up @Palmeiras, the first football club to meaningfully build upon TacticAI: our AI system that can help simulate field scenarios and predict open play dynamics up to 8 seconds in…",
-      "link": "https://x.com/GoogleDeepMind/status/2065093482088169719",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Google DeepMind · @GoogleDeepMind",
-      "handle": "GoogleDeepMind",
-      "org": "Google",
-      "published": "2026-06-11T15:27:08.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "Google",
-        "Commentary"
-      ],
-      "summary": "We’re teaming up @Palmeiras, the first football club to meaningfully build upon TacticAI: our AI system that can help simulate field scenarios and predict open play dynamics up to 8 seconds in advance. ⚽",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 60,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "high engagement (3.3K likes)"
-      ],
-      "metrics": {
-        "likes": 3311,
-        "retweets": 379,
-        "replies": 115,
-        "likes_h": "3.3K"
-      },
-      "engagement": 4184,
-      "hot": false
-    },
-    {
-      "id": "x_2065057393927467084",
-      "title": "We’re launching Claude Corps, a national fellowship program matching people early in their careers with US nonprofits. We'll teach 1,000 people to use Claude, and pay them to use AI to advance their…",
-      "link": "https://x.com/AnthropicAI/status/2065057393927467084",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Anthropic · @AnthropicAI",
-      "handle": "AnthropicAI",
-      "org": "Anthropic",
-      "published": "2026-06-11T13:03:44.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product launch",
-      "categories": [
-        "X",
-        "Anthropic",
-        "Product launch"
-      ],
-      "summary": "We’re launching Claude Corps, a national fellowship program matching people early in their careers with US nonprofits. We'll teach 1,000 people to use Claude, and pay them to use AI to advance their hosts’ missions. https://www.anthropic.com/claude-corps",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 100,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "announcement language (launching)",
-        "tech substance (claude)",
-        "links to a source",
-        "high engagement (7K likes)"
-      ],
-      "metrics": {
-        "likes": 6957,
-        "retweets": 733,
-        "replies": 584,
-        "likes_h": "7K"
-      },
-      "engagement": 9007,
-      "hot": true
     }
   ]
 }
