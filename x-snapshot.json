@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-20T12:31:58.750Z",
+  "generated_at": "2026-06-20T14:59:41.395Z",
   "handles": [
-    "AnthropicAI",
-    "OpenAI",
     "nvidia",
+    "OpenAI",
+    "AnthropicAI",
     "GoogleDeepMind",
-    "elonmusk",
-    "gdb"
+    "gdb",
+    "elonmusk"
   ],
   "count": 32,
   "articles": [
@@ -338,7 +338,7 @@
         "likes_h": "3.1K"
       },
       "engagement": 3909,
-      "hot": false
+      "hot": true
     },
     {
       "id": "x_2067346918746030496",
