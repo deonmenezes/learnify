@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-21T09:10:18.100Z",
+  "generated_at": "2026-06-21T12:01:55.426Z",
   "model": "nvidia/nemotron-3-super-120b-a12b",
-  "count": 3991,
+  "count": 3952,
   "items": {
     "85219": {
       "ai_summary": "Amazon’s cybersecurity research reportedly helped trigger a White House export‑control directive that forced Anthropic to cut off access to its Fable 5 and Mythos 5 models. The Wall Street Journal says the move was influenced by Amazon’s paper and discussions between CEO Andy Jassy and administration officials.",
@@ -630,15 +630,6 @@
       "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/48546728682",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/130.width-1300.jpg"
     },
-    "12gb192": {
-      "ai_summary": "A security researcher upset with Microsoft has disclosed a previously unknown Windows zero‑day vulnerability. The exploit was released as a retaliatory move against the company.",
-      "title": "Angry bug hunter with Microsoft beef drops new Windows 0-day",
-      "t": 1781171565205,
-      "media_url": "https://live.staticflickr.com/7129/7712545428_8615dcb6d8_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Alexandre Dulaunoy / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/31797858@N00/7712545428"
-    },
     "q9mnxu": {
       "ai_summary": "Researchers have introduced a new framework for auditing machine unlearning algorithms, offering both theoretical guarantees and practical evaluation tools. The framework allows verification that models effectively forget targeted data while maintaining overall performance.",
       "title": "New framework for auditing machine unlearning",
@@ -647,114 +638,6 @@
       "media_kind": "stock",
       "media_credit": "Photo: Nic's events / BY-SA 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/68457656@N00/2238482627"
-    },
-    "m4g9zj": {
-      "ai_summary": "Researchers translated an entire viral genome into a quantum‑compatible format and uploaded it to a quantum computer, marking the first time a full viral genome has been processed on such hardware. This milestone demonstrates a potential pathway for quantum‑enabled advances in biology, including faster analysis of virus evolution and drug discovery.",
-      "title": "In a first, scientists translated an entire viral genome so a quantum computer could read and analyze it",
-      "t": 1781171587586,
-      "media_url": "https://live.staticflickr.com/976/28434461768_963df81245_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: OLCF / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/151938121@N02/28434461768"
-    },
-    "ubwskf": {
-      "ai_summary": "A morphable crawling robot operated on the Moon for 100 minutes in 2024, navigating the surface to capture images. Its historic photo revealed an upside‑down spacecraft resting on the lunar terrain.",
-      "title": "This 'crawling' robot rolled around the moon and took a historic photo",
-      "t": 1781171589027,
-      "media_url": "https://live.staticflickr.com/82/246280889_8032445508.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Space Explorer / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/97578441@N00/246280889"
-    },
-    "1kh3moj": {
-      "ai_summary": "Camera‑trap footage from Poland’s Białowieża Primeval Forest recorded wolves hunting a European bison, the continent’s largest land animal. The rare observation challenges the assumption that bison are largely free from predation.",
-      "title": "Wolves seen hunting European bison in rare camera-trap recording",
-      "t": 1781171597332,
-      "media_url": "https://live.staticflickr.com/5297/5535567401_7785b91625_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: MikeBlogs / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/31477768@N00/5535567401"
-    },
-    "swq4az": {
-      "ai_summary": "General Motors is developing grid‑scale sodium‑ion battery systems, moving beyond traditional lithium‑ion for large‑scale storage. The automaker has teamed up with Peak Energy to pursue this “saltier” approach to energy storage.",
-      "title": "GM gets datacenter fever, decides to build grid-scale sodium-ion batteries",
-      "t": 1781171586379,
-      "media_url": "https://live.staticflickr.com/2396/2273900794_3ba8af3420_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: jbcurio / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/69131582@N00/2273900794"
-    },
-    "4y0181": {
-      "ai_summary": "Data center expansion could encounter power constraints by 2030, potentially outstripping the capacity of existing electricity grids. Grid operators may struggle to supply sufficient electricity for the construction and operation of new facilities.",
-      "title": "Datacenter growth may run into a power wall by 2030",
-      "t": 1781171592347,
-      "media_url": "https://live.staticflickr.com/2104/2273901052_1c8b8b9a7c_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: jbcurio / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/69131582@N00/2273901052"
-    },
-    "1map5iz": {
-      "ai_summary": "The 2026 Milky Way Photographer of the Year contest highlighted standout images such as 'Geminid Symphony' and 'Galactic Gandalf', offering breathtaking views of our home galaxy. Photographers from around the world submitted stunning night‑sky shots for the competition.",
-      "title": "'Geminid Symphony' and 'Galactic Gandalf': See the breathtaking views of our home galaxy from the 2026 Milky Way Photographer of the Year contest",
-      "t": 1781171603515,
-      "media_url": "https://live.staticflickr.com/2185/2437421113_0cb0598e5c_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: brewbooks / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/93452909@N00/2437421113"
-    },
-    "10phvdc": {
-      "ai_summary": "China-linked JDY botnet has expanded to more than 1,500 SOHO and IoT devices, operating as a centrally controlled high‑performance scanner for cyber reconnaissance. Researchers warn this growth signals a resurgence and expansion of the China‑nexus state‑sponsored threat network.",
-      "title": "China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance",
-      "t": 1781171603077,
-      "media_url": "https://live.staticflickr.com/8319/8031519749_d985807167_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Commander, U.S. 7th Fleet / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/36614130@N06/8031519749"
-    },
-    "1u0jfd2": {
-      "ai_summary": "Intel's forthcoming Z970 and Z990 chipsets for Nova Lake are said to draw up to 14 W at peak load thanks to added PCIe 5.0 lanes. The Z990 PCH is reportedly 22% smaller than the Z890 counterpart, measuring roughly 11.15 × 6.5 mm die in a 25 × 24 mm package.",
-      "title": "Intel's upcoming Z970 and Z990 flagship chipsets will reportedly consume up to 14W at peak load, courtesy of more PCIe 5.0 support — Nova Lake motherboards may feature a 22% smaller PCH than Z890",
-      "t": 1781171593136,
-      "media_url": "https://live.staticflickr.com/7376/15905502583_20b198594a_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: htomari / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/34923408@N07/15905502583"
-    },
-    "18csn6k": {
-      "ai_summary": "Researchers using a crewed submersible have uncovered millions of fossil whale bones at a depth of about seven kilometres, describing the site as a deep‑ocean necropolis. The collection includes specimens up to five million years old and several whale species previously unknown to science.",
-      "title": "Millions of fossil whale bones found in deep-ocean ‘necropolis’",
-      "t": 1781171603532,
-      "media_url": "https://live.staticflickr.com/7289/15921677654_8b7c09e437_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: mypubliclands / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/91981596@N06/15921677654"
-    },
-    "1npbnf0": {
-      "ai_summary": "Astronomers have identified hundreds of previously unknown small moons in the outer solar system, many with irregular, chaotic orbits. These discoveries suggest a more violent past for the region and provide clues to how Saturn's rings may have formed.",
-      "title": "Hundreds of new moons are revealing our solar system's violent history",
-      "t": 1781171604944,
-      "media_url": "https://live.staticflickr.com/7225/7221802548_f6d9989458_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NASA Goddard Photo and Video / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/24662369@N07/7221802548"
-    },
-    "1ar6sw7": {
-      "ai_summary": "AMD claims its 256‑core EPYC Venice CPU delivers 3.3× the rack‑level performance of Nvidia’s Vera processor, based on the company’s first estimated benchmarks. The results position Venice as a direct competitor to Nvidia’s AI‑oriented Vera in data‑center deployments.",
-      "title": "AMD fires back at Nvidia, claiming 256-core Zen 6 'Venice' CPU beats Vera by 3.3x in rack-level performance — company shares first estimated EPYC Venice benchmarks",
-      "t": 1781171605583,
-      "media_url": "https://live.staticflickr.com/2704/5839443622_d2313c4a86_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: psd / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/45581782@N00/5839443622"
-    },
-    "1ghftgl": {
-      "ai_summary": "Google has ordered Intel to package more than three million of its TPUs for delivery in 2028 after months of testing Intel's advanced packaging technology. SK hynix is currently evaluating Intel's EMIB packaging for integrating high‑bandwidth memory.",
-      "title": "Google reportedly books Intel for packaging more than 3 million TPUs in 2028 — SK hynix is testing Intel's EMIB packaging for HBM integration",
-      "t": 1781171613631,
-      "media_url": "https://live.staticflickr.com/1651/25518656304_08e4413c76_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: City of Vancouver Archives / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/42385626@N06/25518656304"
     },
     "127mqlt": {
       "ai_summary": "Opendoor’s withdrawal from India is prompting renewed debate about the role of AI in outsourcing decisions. At the same time, India has overtaken other nations to become the world’s largest market for Global Capability Centers.",
@@ -810,315 +693,6 @@
       "media_credit": "Photo: Fæ / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/50398299@N08/16660359691"
     },
-    "hme0vc": {
-      "ai_summary": "Satispay, Italy’s second unicorn since 2022, is reportedly seeking up to €120 million in fresh funding. The round would finance its expansion from mobile payments into stock and ETF trading, as well as savings, investment and pension services.",
-      "title": "Italian fintech unicorn Satispay reportedly plans €120M raise to push into stock trading",
-      "t": 1781171485652,
-      "media_url": "https://live.staticflickr.com/65535/33910432828_2a65f5d8bf_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Astro_Alex / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/72482589@N07/33910432828"
-    },
-    "qdc7f2": {
-      "ai_summary": "Residents near xAI's data centers in Mississippi and Tennessee are opposing the gas turbines that power its supercomputers, expressing fury that coincides with backlash against the forthcoming SpaceX IPO. Elon Musk could reap hundreds of billions from the IPO while local groups fight to shut down the turbine operations.",
-      "title": "People Living Near xAI’s Dirty Data Centers Are Furious About the SpaceX IPO",
-      "t": 1781171491675,
-      "media_url": "https://live.staticflickr.com/65535/52068413709_e00bb503a6_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Don Komarechka / CC0 1.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/35693660@N03/52068413709"
-    },
-    "1xy97tq": {
-      "ai_summary": "Nottingham University says student records were accessed after the ShinyHunters group claimed a cyberattack, alleging they stole about 40 GB of data. A breach database shows that approximately 455,000 email addresses were exposed in the incident.",
-      "title": "Nottingham Uni says student records raided after ShinyHunters claims cyberattack",
-      "t": 1781171491684,
-      "media_url": "https://live.staticflickr.com/7081/7180780352_8ab655f194_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Security & Defence Agenda / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/49865954@N04/7180780352"
-    },
-    "d8va3y": {
-      "ai_summary": "Country star Brad Paisley has added his voice to the opposition against a planned AI data center just 50 yards from the Nashville Zoo, as a petition against the project surpasses 330,000 signatures. Meanwhile, Nashville officials are weighing a sweeping ban on hyperscale data centers while the zoo’s land use attorney has filed a zoning appeal to overturn…",
-      "title": "Brad Paisley joins fight as zoo's dispute with AI data center escalates, petition tops 330,000 signatures — Nashville weighs sweeping hyperscale ban",
-      "t": 1781171493474,
-      "media_url": "https://live.staticflickr.com/1651/25518656304_08e4413c76_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: City of Vancouver Archives / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/42385626@N06/25518656304"
-    },
-    "2aa6e4": {
-      "ai_summary": "OpenAI has partnered with Visa to embed Visa payment capabilities directly into its ecosystem. This integration will allow AI agents to conduct purchases and bookings on behalf of users, enabling future agentic transactions.",
-      "title": "OpenAI signs major Visa deal — so AI agents will soon be able to make payments and purchases for you",
-      "t": 1781171493684,
-      "media_url": "https://live.staticflickr.com/1431/5182252161_6eeef1ee34_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: blakespot / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/35448539@N00/5182252161"
-    },
-    "cyizsa": {
-      "ai_summary": "Anthropic has reversed a hidden policy that researchers said sabotaged their work. The company announced it will revise the policy following the backlash.",
-      "title": "Anthropic backtracks on policy that 'sabotaged' researchers' work",
-      "t": 1781171498684,
-      "media_url": "https://live.staticflickr.com/2642/4117811909_fca09941f4_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: susan402 / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/61681131@N00/4117811909"
-    },
-    "1e4jok2": {
-      "ai_summary": "A telehealth network selling compounded GLP-1s has been accused of scamming customers even after agreeing to a $5 million settlement with the US government. Numerous buyers say they were ripped off when purchasing the weight‑loss drugs online.",
-      "title": "I Was Scammed Buying GLP-1s Online. I’m Not Alone",
-      "t": 1781171504226,
-      "media_url": "https://live.staticflickr.com/4128/5098185777_a6594db173_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: cogdogblog / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/37996646802@N01/5098185777"
-    },
-    "8jh4ph": {
-      "ai_summary": "The UK Competition and Markets Authority is investigating Ryanair for imposing mandatory seating fees that require parents to pay extra to sit with their children. The probe examines whether these charges breach the airline's obligations regarding child safety and disability-related accommodations.",
-      "title": "Ryanair is under investigation over charging parents to sit with their kids",
-      "t": 1781171509270,
-      "media_url": "https://live.staticflickr.com/7360/27397555305_57146627a3_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: News Oresund / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/88883738@N02/27397555305"
-    },
-    "inxng2": {
-      "ai_summary": "The UK is responding to the rise of industrial-scale crypto fraud by strengthening its enforcement measures. Authorities are adapting strategies to keep pace with the organized nature of these crimes.",
-      "title": "How the UK is tackling industrialized crypto fraud",
-      "t": 1781171513388,
-      "media_url": "https://live.staticflickr.com/4132/4989727256_dbfc2bcce1_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: superstrikertwo / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/14876067@N00/4989727256"
-    },
-    "16zhm8x": {
-      "ai_summary": "China's state-run Workers' Daily urged the government to erect a protective \"dam\" for labour rights as artificial intelligence spreads across the economy. The All-China Federation of Trade Unions‑run newspaper said agencies must safeguard workers amid AI's growing impact.",
-      "title": "China’s state-run Workers’ Daily calls for a ‘dam’ to protect labour rights as AI spreads",
-      "t": 1781171513978,
-      "media_url": "https://live.staticflickr.com/65535/53188527511_18df6af0b7_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: European Parliament / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/36612355@N08/53188527511"
-    },
-    "40az67": {
-      "ai_summary": "Web browsers have been introduced on video game consoles, letting users access the internet directly from their gaming systems. This addition expands console functionality beyond gaming to include web browsing and online services.",
-      "title": "Web Browsers on Video Game Consoles",
-      "t": 1781171519273,
-      "image": "https://vale.rocks/assets/og/post.webp",
-      "media_url": "https://live.staticflickr.com/2663/4140950816_e131180c13.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950816"
-    },
-    "i8gp94": {
-      "ai_summary": "NASA Administrator Jared Isaacman defended the all‑male makeup of the Artemis III crew announced Wednesday. He said the crew was chosen based on qualifications and mission requirements, not gender.",
-      "title": "NASA head defends Artemis 3 crew of all men",
-      "t": 1781171521146,
-      "media_url": "https://live.staticflickr.com/5575/14410127840_64a24a1a61_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NASA Goddard Photo and Video / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/24662369@N07/14410127840"
-    },
-    "qflfn8": {
-      "ai_summary": "The UK Treasury is still deciding whether to proceed with the £1.7 billion ERP program it previously agreed to fund. The planned migration from Oracle to Workday has been delayed, pushing the switch to December.",
-      "title": "UK Treasury still deciding whether to show up to £1.7B ERP program it agreed to fund",
-      "t": 1781171523076,
-      "media_url": "https://live.staticflickr.com/65535/51698519845_7aa5f7d952_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: paologmb / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/14012466@N07/51698519845"
-    },
-    "159vx25": {
-      "ai_summary": "Weakening AI transparency rules shifts compliance risk onto enterprise technology teams, who must manage accountability despite looser standards. Enterprises cannot escape responsibility and will absorb any fallout from AI shortcomings.",
-      "title": "If AI transparency rules weaken, enterprise tech teams will inherit the risk",
-      "t": 1781171524266,
-      "media_url": "https://live.staticflickr.com/1428/5151155523_a99597bfd1_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: El Coleccionista de Instantes / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/31195974@N05/5151155523"
-    },
-    "1vk8m3u": {
-      "ai_summary": "Meta has severed Manus from its internal systems, erecting a data firewall and blocking staff access since early June. The Chinese‑founded agentic AI service, acquired for $2 billion in December 2025, can no longer be used by Meta employees for internal work.",
-      "title": "Meta has cut Manus off from its internal systems and told staff to sunset the AI platform",
-      "t": 1781171526180,
-      "media_url": "https://live.staticflickr.com/5628/30284645320_6c22cf0fa5_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: ITU Pictures / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/42121221@N07/30284645320"
-    },
-    "yhqwcr": {
-      "ai_summary": "YouTube is testing direct messaging within its mobile app, and the United States has been added to the experiment. The feature allows users to send private messages directly through the platform.",
-      "title": "YouTube expands direct messaging to the US",
-      "t": 1781171529966,
-      "media_url": "https://live.staticflickr.com/1741/42729411001_7833b8382f.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: PRECIOSA ORNELA / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/67488680@N04/42729411001"
-    },
-    "1dg54j4": {
-      "ai_summary": "CoreWeave’s borrowing costs have fallen from 10% to 7% as the AI data‑center debt market reprices risk. An Applied Digital subsidiary raised $1.59 billion in high‑yield bonds yielding 7% to fund a fourth 150‑megawatt building at its Polaris Forge 1 campus in North Dakota, which will provide computing capacity for CoreWeave under a 15‑year contract.",
-      "title": "CoreWeave’s borrowing costs just fell from 10% to 7%. The AI data centre debt market is repricing risk in real time.",
-      "t": 1781171530249,
-      "media_url": "https://live.staticflickr.com/5628/30284645320_6c22cf0fa5_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: ITU Pictures / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/42121221@N07/30284645320"
-    },
-    "hiwe2j": {
-      "ai_summary": "Although the upcoming monsoon is forecast to deliver below‑average rainfall across South Asia, experts warn that intense downpours could still occur, posing serious hazards to communities. Such extreme rain events raise the dual threat of flooding and drought, jeopardizing water security and livelihoods in the region.",
-      "title": "Weaker monsoon, bigger risks: Intense downpours could still hit South Asia hard",
-      "t": 1781171530721,
-      "media_url": "https://live.staticflickr.com/8162/7539646896_1db7043d80_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: HJ Media Studios / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/54719539@N04/7539646896"
-    },
-    "o4u8f6": {
-      "ai_summary": "Former Avast CEO Ondrej Vlcek’s AI, which identified every OpenSSL zero‑day this year, now powers AISLE’s Snapshot vulnerability scanner. Snapshot can be deployed in private clouds, on‑premises data centres or fully air‑gapped environments, keeping source code and security data entirely under the customer’s control.",
-      "title": "Avast’s former CEO built an AI that found every OpenSSL zero-day this year. Now it runs inside air-gapped networks.",
-      "t": 1781171532029,
-      "media_url": "https://live.staticflickr.com/3693/18991294629_482dd64e75.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: whgrad / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/22337920@N00/18991294629"
-    },
-    "ubr8kf": {
-      "ai_summary": "Deezer introduced an AI music detector that scans playlists on other streaming services to identify AI‑generated tracks, extending its pioneering role as the first major platform to label such music. Despite offering the technology to rivals, adoption was sparse, leading competitors like Qobuz to build their own detection systems.",
-      "title": "Deezer launches an AI music detector for other streaming services",
-      "t": 1781171534986,
-      "media_url": "https://live.staticflickr.com/5084/5343845955_cd638bbe55_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Dominic's pics / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/64097751@N00/5343845955"
-    },
-    "1ga7vrc": {
-      "ai_summary": "Researchers have created a noninvasive surface‑topography test that can tell authentic Van Gogh works from forgeries without touching the paintings. The method, described in the journal Surface Topography: Metrology and Properties, offers museums, collectors and auction houses a new tool to combat art fraud.",
-      "title": "New art test could help museums spot fake Van Goghs without touching paintings",
-      "t": 1781171536252,
-      "media_url": "https://live.staticflickr.com/4083/4996666276_a1827e81f2_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Syntopia / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/12131226@N03/4996666276"
-    },
-    "ln7q0u": {
-      "ai_summary": "Oracle posted fiscal fourth‑quarter revenue of $19.2 billion, up 21% year‑on‑year, and adjusted earnings of $2.11 per share, surpassing analyst estimates of $19.1 billion and $1.97. Its data‑center capital expenditure reached $55.7 billion—$5.7 billion above its own guidance—and the company said it aims to raise an additional $40 billion.",
-      "title": "Oracle spent $55.7 billion on data centres in a single year, beat its own guidance by $5.7 billion, and wants to raise another $40 billion",
-      "t": 1781171536763,
-      "media_url": "https://live.staticflickr.com/65535/51918050245_2ac4e700b0_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Wendelin Jacober / CC0 1.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/91619724@N04/51918050245"
-    },
-    "2lce94": {
-      "ai_summary": "Prince William's Homewards programme aims to use big data and AI to predict and prevent homelessness before it occurs in the UK. Salesforce is contributing its AI expertise to help power the initiative's efforts.",
-      "title": "Prince William's Homewards programme wants to use big data and AI to stop homelessness before it happens",
-      "t": 1781171539002,
-      "media_url": "https://live.staticflickr.com/479/32197976310_62f5bc4b7a.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: norbet1 / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/11185080@N03/32197976310"
-    },
-    "kiee5v": {
-      "ai_summary": "Android 17 QPR1 Beta 4 introduces a streamlined way to record reaction videos directly on the device. The beta update is now available for download.",
-      "title": "Android 17's newest beta lets you record reaction videos the easy way",
-      "t": 1781171539924,
-      "media_url": "https://live.staticflickr.com/8699/28045330543_47bde31cfe_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: YGKphoto / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/81337023@N04/28045330543"
-    },
-    "1g2or7r": {
-      "ai_summary": "The article explains how to access the FIFA World Cup 2026 broadcasts on SiriusXM, BBC Radio 5 Live, and TalkSport from any location worldwide. It details the available listening options for each of those services.",
-      "title": "How to listen to FIFA World Cup 2026 from anywhere in the world",
-      "t": 1781171543053,
-      "media_url": "https://live.staticflickr.com/5591/14624267856_1f29389e32.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: dpstyles™ / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/77725780@N00/14624267856"
-    },
-    "p3jyg3": {
-      "ai_summary": "Pokémon Go players’ real‑world scans contributed to Niantic’s mapping and localization AI, improving the accuracy of its augmented‑reality platform. The U.S. military later leveraged similar navigation technology to enhance autonomous drone guidance systems.",
-      "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
-      "t": 1781171547390,
-      "media_url": "https://live.staticflickr.com/2723/4140951044_cebe112a5b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140951044"
-    },
-    "hwsnhh": {
-      "ai_summary": "OpenAI reported that China‑linked fake accounts used ChatGPT to sway U.S. public opinion against data centers. The company’s report details the influence campaign and its tactics.",
-      "title": "OpenAI says fake accounts from China tried to turn Americans against data centers",
-      "t": 1781171549704,
-      "media_url": "https://live.staticflickr.com/5241/5343849351_0cda34e07f_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Dominic's pics / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/64097751@N00/5343849351"
-    },
-    "1yh2nsv": {
-      "ai_summary": "Macaroni is a messenger implemented as a single HTML file. It provides messaging functionality entirely within a self‑contained web page.",
-      "title": "Macaroni – a single HTML file messenger",
-      "t": 1781171553606,
-      "image": "https://opengraph.githubassets.com/5da43612aac1e792256883aee7d6a5cbe10bec8d83a01920d3df8b8b6a7dfbe8/vanyapr/makaroshki",
-      "media_url": "https://live.staticflickr.com/2762/4140950690_e8e7fa21f4.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950690"
-    },
-    "13lmlew": {
-      "ai_summary": "Elon Musk said falling asleep in a Tesla and waking at your destination is the “acid test” for true self‑driving, a vision he reiterated on Tesla’s Q1 2025 earnings call with a goal of many US cities by year‑end. In Austin, Tesla’s robotaxis have crashed at a rate four times higher than human‑driven vehicles.",
-      "title": "Musk says the ‘acid test’ for Tesla’s self-driving is sleeping through your commute. His Austin robotaxis crash four times more than humans.",
-      "t": 1781171557817,
-      "media_url": "https://live.staticflickr.com/7519/15542854308_6557f4c695_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/15542854308"
-    },
-    "1nrxhn7": {
-      "ai_summary": "All employee passwords were kept in a single Excel file. The CEO said this approach was intended to resolve email issues.",
-      "title": "Every employee’s password was stored in a single Excel file",
-      "t": 1781171563259,
-      "media_url": "https://live.staticflickr.com/7252/7551487120_13aa25e129_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Dimitry B / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/61533954@N00/7551487120"
-    },
-    "1dkvbtp": {
-      "ai_summary": "The 2026 FIFA World Cup, featuring an expanded 48‑team field, will be held across the United States, Mexico and Canada. Fans can watch the tournament live for free through a range of online streams and TV channels, with full fixture schedules available.",
-      "title": "How to watch World Cup 2026: FREE Streams, TV Channels & Fixtures",
-      "t": 1781171563548,
-      "media_url": "https://live.staticflickr.com/3528/3214236743_a9832f3823_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: YEMAC_UNDP / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/27814820@N05/3214236743"
-    },
-    "100wv85": {
-      "ai_summary": "A study found that most people believe they have a good sense of humor. It also identified particular traits common among those who rate themselves as the most humorous.",
-      "title": "Think you have a good sense of humour? So do most people…",
-      "t": 1781171572988,
-      "media_url": "https://live.staticflickr.com/2494/4215539338_9c1a8bf6b3_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Mike Cattell / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/27406286@N05/4215539338"
-    },
-    "1c1xmsl": {
-      "ai_summary": "The article claims that macOS 27 Golden Gate will remove what it calls \"dumb icons\" from menu items. It presents the change as a simplification of the macOS interface.",
-      "title": "Sweet Jeebus, macOS 27 Golden Gate Removes the Dumb Icons from Menu Items",
-      "t": 1781171573759,
-      "image": "https://daringfireball.net/graphics/df-wide-card.png",
-      "media_url": "https://live.staticflickr.com/2630/4140950240_d53df4111b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950240"
-    },
-    "ncjb8y": {
-      "ai_summary": "New Scientist recommends Steve Brusatte's The Story of Birds as a brilliant and excellent account of bird evolution that can be startling at times. Reviewer Michael Marshall praises the book for its insightful look at how birds evolved.",
-      "title": "New Scientist recommends a brilliant take on the evolution of birds",
-      "t": 1781171577863,
-      "media_url": "https://live.staticflickr.com/2853/11581752686_e96c2e1f1f_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Robert Cutts / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/21678559@N06/11581752686"
-    },
     "1keodim": {
       "ai_summary": "GitHub announced that npm version 12 will disable install scripts by default, a breaking change designed to thwart supply‑chain attacks. The move blocks malicious code from being executed during npm lifecycle events such as \"install\".",
       "title": "GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks",
@@ -1127,46 +701,6 @@
       "media_kind": "stock",
       "media_credit": "Photo: followtheseinstructions / BY-SA 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/58481558@N05/5428495287"
-    },
-    "169h2xk": {
-      "title": "Vacuum-Form Signage",
-      "t": 1781171618264,
-      "media_url": "https://live.staticflickr.com/2649/4140191397_a0e3b5d99f.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140191397"
-    },
-    "d2ryru": {
-      "title": "Starlink charges $10 monthly hardware fee in move away from one-time purchases",
-      "t": 1781171618392,
-      "media_url": "https://live.staticflickr.com/65535/49526374907_64098a7fe7_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Federalreserve / PDM 1.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/92618257@N08/49526374907"
-    },
-    "47io2t": {
-      "title": "Cohere open-sources a coding agent that runs on a single H100",
-      "t": 1781171618415,
-      "media_url": "https://live.staticflickr.com/7185/6938655710_67741636fc_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: MDGovpics / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/64018555@N03/6938655710"
-    },
-    "eukzhy": {
-      "title": "Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed",
-      "t": 1781171618453,
-      "media_url": "https://live.staticflickr.com/4016/4422241701_2ac5ae9e87_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: vancouverfilmschool / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/38174668@N05/4422241701"
-    },
-    "x787ld": {
-      "title": "Apple’s new Siri AI is more than just a smarter assistant — it's a new enterprise app layer",
-      "t": 1781171618523,
-      "media_url": "https://live.staticflickr.com/5559/13989700799_5efcdfd299_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Janitors / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/65265630@N03/13989700799"
     },
     "aqj1xs": {
       "ai_summary": "The author says they desperately want a personal AI assistant like Siri. They question whether becoming dependent on a friendly robot voice would undermine their ability to function independently.",
@@ -1186,22 +720,6 @@
       "media_credit": "Photo: ITU Pictures / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/42121221@N07/30495671441"
     },
-    "1czgsw": {
-      "title": "Claude Fable 5 brings Mythos to the masses — Anthropic's new frontier model is 'state-of-the-art on nearly all tested benchmarks'",
-      "t": 1781171618805,
-      "media_url": "https://live.staticflickr.com/1801/43267970922_94ebb5b7e6.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: deepakiqlect / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/158301585@N08/43267970922"
-    },
-    "1imh826": {
-      "title": "Three key vital signs make up the \"urban pulse\" of a city",
-      "t": 1781171618899,
-      "media_url": "https://live.staticflickr.com/65535/52046051869_ab309da8aa_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NOAA NSSL / CC0 1.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/47838549@N08/52046051869"
-    },
     "1azy626": {
       "ai_summary": "General Motors is developing a new sodium‑ion battery chemistry intended for AI data centers and grid‑scale storage. The company plans to use the batteries in its own factories and data‑center facilities.",
       "title": "GM joins race to build batteries for AI data centers and the grid",
@@ -1211,30 +729,6 @@
       "media_credit": "Photo: Fibonacci Blue / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/44550450@N04/6249144529"
     },
-    "urub1f": {
-      "title": "Anthropic says these topics are too dangerous to let its Fable 5 model talk about",
-      "t": 1781171619204,
-      "media_url": "https://live.staticflickr.com/5042/5343838319_2447dd086c_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Dominic's pics / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/64097751@N00/5343838319"
-    },
-    "gq6u4e": {
-      "title": "Paramount accuses Netflix of \"scorched-earth campaign\" against WBD merger",
-      "t": 1781171619214,
-      "media_url": "https://live.staticflickr.com/4031/4417540068_dc597e325e_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: cambodia4kidsorg / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/58428285@N00/4417540068"
-    },
-    "101e487": {
-      "title": "Commonwealth Fusion makes the physics case for its 400 MW reactor",
-      "t": 1781171619227,
-      "media_url": "https://live.staticflickr.com/65535/51717676372_46d4350987_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/51717676372"
-    },
     "1u5j8bb": {
       "ai_summary": "Tech companies could switch to lower-cost AI models if they deliver comparable performance to current systems. Such a shift would dramatically alter the cost structure and economics of AI development.",
       "title": "Can tech companies learn to love cheaper AI models?",
@@ -1243,30 +737,6 @@
       "media_kind": "stock",
       "media_credit": "Photo: nordique / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/28435100@N00/53710024255"
-    },
-    "4d3lyl": {
-      "title": "Google announces Gemini 3.5 Live Translate for instant voice-to-voice translation",
-      "t": 1781171619392,
-      "media_url": "https://live.staticflickr.com/4574/25047577618_06a9861301_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/25047577618"
-    },
-    "156sg8n": {
-      "title": "3 new Ebola vaccines are being fast-tracked amid the current outbreak — when could they be ready?",
-      "t": 1781171619450,
-      "media_url": "https://live.staticflickr.com/7550/15287097873_861856bdf7.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: markhillary / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/56087830@N00/15287097873"
-    },
-    "1a2c856": {
-      "title": "NASA assigns crew for Artemis III, sets aggressive timeline for flying it",
-      "t": 1781171619562,
-      "media_url": "https://live.staticflickr.com/106/272805477_ecfaabf00f.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: pingnews.com / PDM 1.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/39735679@N00/272805477"
     },
     "14e1p7k": {
       "ai_summary": "The article compares the advantages and disadvantages of working at small startups, mid‑size companies, and Fortune 100 firms for tech professionals. It is sourced from IEEE Spectrum’s careers newsletter and created in partnership with the career‑development company Parsity.",
@@ -35451,6 +34921,190 @@
       "media_kind": "stock",
       "media_credit": "Photo: Dan Zen / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/16077535@N00/5486441230"
+    },
+    "n8w2jo": {
+      "ai_summary": "The Bank of Korea warned that performance bonuses at Samsung Electronics and SK hynix could exacerbate inflation, projecting full-year price gains well above its 2% target. It identified these chip‑sector bonuses as a specific risk to the country's inflationary stability.",
+      "title": "Samsung and SK hynix bonuses for chip workers flagged as a national inflation risk — Bank of Korea projects full-year inflation significantly above its 2% target",
+      "t": 1782043219962,
+      "media_url": "https://live.staticflickr.com/8628/16443261171_3c6ff59c9b_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Internet Education Foundation / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/127073656@N03/16443261171"
+    },
+    "1jk10j1": {
+      "ai_summary": "The Creality Falcon T1 is a modular galvo laser engraver with swappable diode, fiber, UV, and MOPA laser modules capable of engraving wood, crystal, metal, and various other materials, priced from $2,249. Its expandable ecosystem includes accessories such as a conveyor belt and rotary attachment to enhance workflow and material versatility.",
+      "title": "Creality Falcon T1 Review: Modular laser engraving",
+      "t": 1782043221431,
+      "media_url": "https://live.staticflickr.com/5589/15259023322_e6ae8654cc_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: NASA Goddard Space Flight Center / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/35278629@N08/15259023322"
+    },
+    "k8drtg": {
+      "ai_summary": "The author abandoned their favorite podcast player in favor of YouTube Music on Android. They say YouTube Music now has their full attention.",
+      "title": "Why I left my favorite podcast player for YouTube Music on Android",
+      "t": 1782043223928,
+      "media_url": "https://live.staticflickr.com/4011/4455902071_48350cd00a_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: jaehune / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/68898527@N00/4455902071"
+    },
+    "1hsh0mx": {
+      "ai_summary": "Dr. James Ries uses a Razer Naga V2 MMO gaming mouse during telehealth visits, leveraging its 12‑button thumb grid to streamline his medical workflow and automate scripting. He says the device places frequently used medical responses at his fingertips, improving efficiency.",
+      "title": "Telehealth doctor treats patients using Razer Naga gaming mouse — 12-button MMO thumb grid simplifies medical workflow, automates medical scripting",
+      "t": 1782043227832
+    },
+    "1pwugl5": {
+      "ai_summary": "OpenAI and Anthropic are targeting IPOs with valuations near $1 trillion while remaining unprofitable and spending billions annually on computing resources. This raises concerns about their stability as long‑term holdings in retirement portfolios.",
+      "title": "AI giants may soon enter your retirement portfolio. Should you worry?",
+      "t": 1782043228518,
+      "media_url": "https://live.staticflickr.com/1484/23984755124_27ec0d1761_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Tim Evanson / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/23165290@N00/23984755124"
+    },
+    "1skekzo": {
+      "ai_summary": "The defining divide in enterprise software over the next five years will be between companies that rent intelligence and those that own it, as AI becomes increasingly distributed. InstaLILY CEO Amit Shah argues that future enterprise success depends on owning intelligence rather than relying on rented models from hyperscalers.",
+      "title": "‘The defining divide in enterprise software over the next five years will be between companies that rent intelligence versus companies that own it’: Enterprise AI is becoming increasingly distributed",
+      "t": 1782043255340,
+      "media_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Different_nomenclature_used_in_the_studies_to_define_cells_with_pro-angiogenic_properties.png",
+      "media_kind": "stock",
+      "media_credit": "Photo: Vinci, M.C.; Carulli, E.; Rurali, E.; Rinaldi, R.; Damiano, G.; Raucci, A.; Pompilio, G.; Genovese, S. / BY 4.0 via wikimedia",
+      "media_credit_url": "https://commons.wikimedia.org/w/index.php?curid=174315248"
+    },
+    "5y1a5d": {
+      "ai_summary": "The Wooting 60HE v2 is a Hall Effect keyboard lauded for its exceptional performance and build quality. Reviewers describe it as a fantastic keyboard overall, not just for its switch technology.",
+      "title": "Wooting 60HE v2: Peak Keyboard Perfection",
+      "t": 1782043257796,
+      "media_url": "https://live.staticflickr.com/7386/9367777707_17077103df_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: ehud42 / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/39634010@N02/9367777707"
+    },
+    "40gltg": {
+      "ai_summary": "After months of testing, the author identified the top NAS devices for home use. These network-attached storage solutions provide accessible shared space on a home network.",
+      "title": "The Best NAS Devices for Your Home After Months of Testing",
+      "t": 1782043265756,
+      "media_url": "https://live.staticflickr.com/3468/3741624888_eb8f3ff6cc_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Waifer X / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/47327870@N00/3741624888"
+    },
+    "u6d868": {
+      "ai_summary": "Stainless-steel skillets may not have nonstick coatings, but they excel at searing and require little fuss. Their rugged construction makes them a long‑lasting workhorse for any kitchen.",
+      "title": "If You’re Searching for a New Skillet, Consider Stainless Steel",
+      "t": 1782043268943,
+      "media_url": "https://live.staticflickr.com/2291/2445052694_cd0c52debe_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Burned Pixels / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/24998883@N05/2445052694"
+    },
+    "1x29w8k": {
+      "ai_summary": "A Microsoft AI researcher built a neural network using the goat units from Age of Empires II as an absurdist stunt to challenge notions of AI consciousness. The goofy experiment underscores how readily people anthropomorphize chatbots such as ChatGPT, Claude, and Gemini.",
+      "title": "Age of Empires II’s goats used as AI building blocks to build a neural network — goaty experiment mocks the idea of chatbot consciousness, Microsoft AI researcher’s project makes an absurdist point about AI consciousness",
+      "t": 1782043272406,
+      "media_url": "https://live.staticflickr.com/2284/2263161375_820c5a83c2_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: deltaMike / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/86078640@N00/2263161375"
+    },
+    "c6i0m7": {
+      "ai_summary": "The article outlines 28 practical tips for enhancing ChatGPT prompts through effective prompt engineering. Applying these techniques can yield more interesting and useful responses from the chatbot.",
+      "title": "28 Tips to Take Your ChatGPT Prompts to the Next Level",
+      "t": 1782043272699,
+      "media_url": "https://live.staticflickr.com/7231/7007301865_5acf26f387_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: ferdy001 / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/26524277@N04/7007301865"
+    },
+    "127m0a": {
+      "ai_summary": "An acoustic mapping app repurposes thousands of old Android phones into a crowd‑sourced microphone network that detects Shahed drones by picking up their low‑RCS signatures. The system can locate and track the drones’ direction well before they reach their intended targets.",
+      "title": "Acoustic mapping app uses thousands of networked old Android phones to hunt Shahed drones — crowd-sourced microphone network spots small, low-RCS military targets",
+      "t": 1782043274312,
+      "media_url": "https://live.staticflickr.com/7447/13946653030_afcafcb748_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: pasukaru76 / CC0 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/38451115@N04/13946653030"
+    },
+    "1qexx1t": {
+      "ai_summary": "The Ecovacs Deebot X12 OmniCyclone is an inventive robot cleaner that excels at mopping but falls short in sweeping performance compared to rivals. While it introduces several useful innovations, its suction power does not rank among the best in the market.",
+      "title": "The Ecovacs Deebot X12 OmniCyclone is an impressively inventive robot cleaner that mops very well, but struggles to sweep up the competition",
+      "t": 1782043278007,
+      "media_url": "https://live.staticflickr.com/5764/20591412974_85b561a50c_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Janitors / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/65265630@N03/20591412974"
+    },
+    "1d2gp43": {
+      "ai_summary": "The user stopped exceeding their Google Photos storage quota by adjusting a backup/upload setting in the app. They say they wish they had discovered the option sooner.",
+      "title": "I stopped hitting cloud storage limits for good by changing this Google Photos option",
+      "t": 1782043278520,
+      "media_url": "https://live.staticflickr.com/8298/7807838718_4d7056c704.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Jimmy McIntyre - Editor HDR One Magazine / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/73064996@N08/7807838718"
+    },
+    "1gkzyry": {
+      "ai_summary": "Widow's Bay offers a boldly original take on comedic horror, blending classic tropes with fresh twists. The series is eminently binge‑able, honoring tradition while surprising viewers with inventive storytelling.",
+      "title": "Review: Widow's Bay is a boldly original take on comedic horror",
+      "t": 1782043278662,
+      "media_url": "https://live.staticflickr.com/7063/7080428229_f53ae34fe1_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Eva Rinaldi Celebrity Photographer / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/58820009@N05/7080428229"
+    },
+    "l6stbw": {
+      "ai_summary": "Hackers breached Brazil’s national civil defense alert system overnight, sending fake “Extreme Alert” notifications containing the word “misantropi4” to millions of mobile phones across at least seven states. The Civil Defense Alert platform was taken offline at 1:30 am on Saturday after the Ministry of Integration detected the intrusion.",
+      "title": "Hackers hijacked Brazil’s emergency alert system and sent ‘misanthropy’ to millions of phones",
+      "t": 1782043284080,
+      "media_url": "https://live.staticflickr.com/8604/16042227002_1d00e0771d_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: perspec_photo88 / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/111692634@N04/16042227002"
+    },
+    "uj8980": {
+      "ai_summary": "The James Webb Space Telescope captured a detailed view of OMC-2 in Orion's Sword, revealing glowing gas, sculpted jets, and newborn stars. This image highlights the region's active star formation within the cosmic cloud.",
+      "title": "James Webb telescope finds a cosmic cloud of creation buried in the Sword of Orion — Space photo of the week",
+      "t": 1782043287912,
+      "media_url": "https://live.staticflickr.com/7314/13472562604_99ffde8cbf_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: James Webb Space Telescope / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/50785054@N03/13472562604"
+    },
+    "155yiub": {
+      "ai_summary": "Apple plans to raise iPhone prices soon, making used handsets a more attractive way to save money. Buying a pre‑owned iPhone remains a reliable option because the devices continue to deliver long‑lasting performance.",
+      "title": "Buying a Used iPhone Makes More Sense Than Ever",
+      "t": 1782043288526,
+      "media_url": "https://live.staticflickr.com/3420/3359385248_a6af49b9aa_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: mugley / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/91256982@N00/3359385248"
+    },
+    "89tybi": {
+      "ai_summary": "Signal president Meredith Whittaker warned that AI chatbots are not friends, conscious beings, or sentient interlocutors, urging users not to treat them as trusted companions. She also described Microsoft’s Copilot agents as a potential backdoor in the same Bloomberg interview.",
+      "title": "Signal’s Meredith Whittaker says AI chatbots ‘are not your friends’ and calls Copilot agents a backdoor",
+      "t": 1782043297874,
+      "media_url": "https://live.staticflickr.com/8198/8170094693_ff69c76ba6_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: NASA Goddard Photo and Video / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/24662369@N07/8170094693"
+    },
+    "bbk0os": {
+      "ai_summary": "Waymo, which provides over 500,000 paid rides weekly in ten U.S. cities and recently raised $16 billion while expanding to Tokyo and London, remains barred from New York City. The block stems from political opposition driven by the local taxi lobby and city politicians, not technical limitations.",
+      "title": "New York City has defeated Waymo, and the taxi lobby is the reason",
+      "t": 1782043311926,
+      "media_url": "https://live.staticflickr.com/2606/4090395947_c0b850ccfa.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: JOnasIsMyMiddleName:) / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/41605671@N08/4090395947"
+    },
+    "1cbthd4": {
+      "title": "Sony’s Xperia 1 VIII is still a phone for the fans",
+      "t": 1782043313052,
+      "media_url": "https://live.staticflickr.com/5589/14520742760_3292a67f01_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Råzvan B / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/91265124@N03/14520742760"
     }
   }
 }
