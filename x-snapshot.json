@@ -1,15 +1,59 @@
 {
-  "generated_at": "2026-06-22T14:49:26.902Z",
+  "generated_at": "2026-06-22T18:54:36.175Z",
   "handles": [
     "nvidia",
+    "GoogleDeepMind",
     "OpenAI",
     "AnthropicAI",
-    "GoogleDeepMind",
     "gdb",
     "elonmusk"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2069066675895337405",
+      "title": "Google DeepMind 🤝 @A24 We’re launching a research partnership with A24 to ensure the tools of the future are shaped by the creators who use them. Find out more → https://goo.gle/3QwvgKq",
+      "link": "https://x.com/GoogleDeepMind/status/2069066675895337405",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Google DeepMind · @GoogleDeepMind",
+      "handle": "GoogleDeepMind",
+      "org": "Google",
+      "published": "2026-06-22T14:35:11.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "Google",
+        "Research"
+      ],
+      "summary": "Google DeepMind 🤝 @A24 We’re launching a research partnership with A24 to ensure the tools of the future are shaped by the creators who use them. Find out more → https://goo.gle/3QwvgKq",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 100,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "announcement language (launching)",
+        "tech substance (research)",
+        "business signal (partnership)",
+        "links to a source",
+        "high engagement (833 likes)"
+      ],
+      "metrics": {
+        "likes": 833,
+        "retweets": 87,
+        "replies": 46,
+        "likes_h": "833"
+      },
+      "engagement": 1053,
+      "hot": false
+    },
     {
       "id": "x_2068000859321970871",
       "title": "Jensen Huang’s simplest explanation of an AI agent: a worker in a workshop. The model thinks. The harness gives it form. Tools and skills let it act. And the runtime gives the agent a place to get…",
@@ -40,15 +84,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (model, agent)",
-        "high engagement (1.7K likes)"
+        "high engagement (1.8K likes)"
       ],
       "metrics": {
-        "likes": 1702,
-        "retweets": 222,
-        "replies": 150,
-        "likes_h": "1.7K"
+        "likes": 1802,
+        "retweets": 237,
+        "replies": 170,
+        "likes_h": "1.8K"
       },
-      "engagement": 2296,
+      "engagement": 2446,
       "hot": false
     },
     {
@@ -243,19 +287,19 @@
       "summary": "Instead of assuming AI will always do what we intend, we ask: what if it doesn't? That’s why we’ve developed our AI Control Roadmap: a framework for building and managing the advanced AI we deploy within Google. 🧵",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 59,
+      "worthiness_score": 60,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
         "report-worthy"
       ],
       "metrics": {
-        "likes": 573,
-        "retweets": 79,
-        "replies": 82,
-        "likes_h": "573"
+        "likes": 591,
+        "retweets": 84,
+        "replies": 86,
+        "likes_h": "591"
       },
-      "engagement": 813,
+      "engagement": 845,
       "hot": false
     },
     {
@@ -290,12 +334,12 @@
         "tech substance (models, agents)"
       ],
       "metrics": {
-        "likes": 314,
-        "retweets": 53,
-        "replies": 49,
-        "likes_h": "314"
+        "likes": 324,
+        "retweets": 57,
+        "replies": 56,
+        "likes_h": "324"
       },
-      "engagement": 469,
+      "engagement": 494,
       "hot": false
     },
     {
@@ -338,7 +382,7 @@
         "likes_h": "3.1K"
       },
       "engagement": 3922,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2067346918746030496",
@@ -456,12 +500,12 @@
         "tech substance (training)"
       ],
       "metrics": {
-        "likes": 181,
-        "retweets": 33,
-        "replies": 30,
-        "likes_h": "181"
+        "likes": 187,
+        "retweets": 34,
+        "replies": 34,
+        "likes_h": "187"
       },
-      "engagement": 277,
+      "engagement": 289,
       "hot": false
     },
     {
@@ -495,12 +539,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 280,
+        "likes": 281,
         "retweets": 46,
         "replies": 41,
-        "likes_h": "280"
+        "likes_h": "281"
       },
-      "engagement": 413,
+      "engagement": 414,
       "hot": false
     },
     {
@@ -537,12 +581,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 501,
-        "retweets": 61,
-        "replies": 34,
-        "likes_h": "501"
+        "likes": 505,
+        "retweets": 63,
+        "replies": 36,
+        "likes_h": "505"
       },
-      "engagement": 657,
+      "engagement": 667,
       "hot": false
     },
     {
@@ -617,12 +661,12 @@
         "high engagement (1.2K likes)"
       ],
       "metrics": {
-        "likes": 1156,
-        "retweets": 153,
-        "replies": 62,
+        "likes": 1159,
+        "retweets": 152,
+        "replies": 64,
         "likes_h": "1.2K"
       },
-      "engagement": 1524,
+      "engagement": 1527,
       "hot": false
     },
     {
@@ -1279,45 +1323,6 @@
         "likes": 170,
         "retweets": 19,
         "replies": 15,
-        "likes_h": "170"
-      },
-      "engagement": 223,
-      "hot": false
-    },
-    {
-      "id": "x_2065147052560908331",
-      "title": "Curious what went down at GTC Taipei? ✈️✨ Follow along with Skye from NVIDIA’s digital marketing team as she takes you behind the scenes of the event. From Build-A-Claw and Startup Day to the launch…",
-      "link": "https://x.com/nvidia/status/2065147052560908331",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-11T19:00:00.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Commentary"
-      ],
-      "summary": "Curious what went down at GTC Taipei? ✈️✨ Follow along with Skye from NVIDIA’s digital marketing team as she takes you behind the scenes of the event. From Build-A-Claw and Startup Day to the launch of NVIDIA RTX Spark, get a glimpse into the innovation, excitement, and moments",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 56,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy"
-      ],
-      "metrics": {
-        "likes": 170,
-        "retweets": 17,
-        "replies": 19,
         "likes_h": "170"
       },
       "engagement": 223,
