@@ -1,15 +1,98 @@
 {
-  "generated_at": "2026-06-22T21:36:53.800Z",
+  "generated_at": "2026-06-22T23:26:40.877Z",
   "handles": [
-    "AnthropicAI",
-    "OpenAI",
-    "GoogleDeepMind",
     "nvidia",
+    "GoogleDeepMind",
     "gdb",
+    "NVIDIAAI",
+    "OpenAI",
+    "AnthropicAI",
     "elonmusk"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2069147938098483586",
+      "title": "Water usage has been a hot topic in the AI data center world, but the numbers may surprise you. According to the Manhattan Institute, data centers use 0.2 percent of daily water usage in the U.S. and…",
+      "link": "https://x.com/nvidia/status/2069147938098483586",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-22T19:58:06.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "Water usage has been a hot topic in the AI data center world, but the numbers may surprise you. According to the Manhattan Institute, data centers use 0.2 percent of daily water usage in the U.S. and that number has dramatically decreased in the past few years due to a new",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 77,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (data center)",
+        "high engagement (10.3K likes)"
+      ],
+      "metrics": {
+        "likes": 10303,
+        "retweets": 1482,
+        "replies": 559,
+        "likes_h": "10.3K"
+      },
+      "engagement": 13826,
+      "hot": true
+    },
+    {
+      "id": "x_2069112120206332130",
+      "title": "We're accelerating patching, in addition to vuln finding, with new tools and models in OpenAI Daybreak. Our models are now discovering and generating patches for critical vulns in major browsers,…",
+      "link": "https://x.com/gdb/status/2069112120206332130",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Greg Brockman · @gdb",
+      "handle": "gdb",
+      "org": "OpenAI",
+      "published": "2026-06-22T17:35:46.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Product"
+      ],
+      "summary": "We're accelerating patching, in addition to vuln finding, with new tools and models in OpenAI Daybreak. Our models are now discovering and generating patches for critical vulns in major browsers, network infrastructure, and operating systems (such as FreeBSD and the Linux",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 70,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (models)",
+        "high engagement (905 likes)"
+      ],
+      "metrics": {
+        "likes": 905,
+        "retweets": 43,
+        "replies": 61,
+        "likes_h": "905"
+      },
+      "engagement": 1052,
+      "hot": false
+    },
     {
       "id": "x_2069104290065776881",
       "title": "We’re also launching the OpenAI Daybreak Cyber Partner Program with leading security software and services providers. Participating partners can use GPT‑5.5 with Trusted Access for Cyber in the…",
@@ -170,15 +253,15 @@
         "tech substance (research)",
         "business signal (partnership)",
         "links to a source",
-        "high engagement (833 likes)"
+        "high engagement (1.1K likes)"
       ],
       "metrics": {
-        "likes": 833,
-        "retweets": 87,
-        "replies": 46,
-        "likes_h": "833"
+        "likes": 1091,
+        "retweets": 109,
+        "replies": 57,
+        "likes_h": "1.1K"
       },
-      "engagement": 1053,
+      "engagement": 1366,
       "hot": false
     },
     {
@@ -214,12 +297,12 @@
         "high engagement (1.8K likes)"
       ],
       "metrics": {
-        "likes": 1802,
-        "retweets": 237,
-        "replies": 170,
+        "likes": 1821,
+        "retweets": 238,
+        "replies": 173,
         "likes_h": "1.8K"
       },
-      "engagement": 2446,
+      "engagement": 2470,
       "hot": false
     },
     {
@@ -421,12 +504,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 591,
+        "likes": 593,
         "retweets": 84,
         "replies": 86,
-        "likes_h": "591"
+        "likes_h": "593"
       },
-      "engagement": 845,
+      "engagement": 847,
       "hot": false
     },
     {
@@ -461,12 +544,12 @@
         "tech substance (models, agents)"
       ],
       "metrics": {
-        "likes": 324,
+        "likes": 330,
         "retweets": 57,
-        "replies": 56,
-        "likes_h": "324"
+        "replies": 58,
+        "likes_h": "330"
       },
-      "engagement": 494,
+      "engagement": 502,
       "hot": false
     },
     {
@@ -627,12 +710,12 @@
         "tech substance (training)"
       ],
       "metrics": {
-        "likes": 187,
+        "likes": 188,
         "retweets": 34,
-        "replies": 34,
-        "likes_h": "187"
+        "replies": 35,
+        "likes_h": "188"
       },
-      "engagement": 289,
+      "engagement": 291,
       "hot": false
     },
     {
@@ -708,12 +791,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 505,
+        "likes": 506,
         "retweets": 63,
         "replies": 36,
-        "likes_h": "505"
+        "likes_h": "506"
       },
-      "engagement": 667,
+      "engagement": 668,
       "hot": false
     },
     {
@@ -788,8 +871,8 @@
         "high engagement (1.2K likes)"
       ],
       "metrics": {
-        "likes": 1159,
-        "retweets": 152,
+        "likes": 1161,
+        "retweets": 151,
         "replies": 64,
         "likes_h": "1.2K"
       },
@@ -1250,87 +1333,6 @@
       },
       "engagement": 26549,
       "hot": true
-    },
-    {
-      "id": "x_2065494342043685095",
-      "title": "Looking back at these clips from GTC Taipei and reminiscing on what an incredible week it was. There’s nothing quite like the buzz of the tech community coming together in person. From the packed…",
-      "link": "https://x.com/nvidia/status/2065494342043685095",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-12T18:00:00.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product"
-      ],
-      "summary": "Looking back at these clips from GTC Taipei and reminiscing on what an incredible week it was. There’s nothing quite like the buzz of the tech community coming together in person. From the packed keynote hall and cutting-edge robotics to the fun local activations (and yes, those",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 63,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "casual tone (incredible)",
-        "tech substance (robotics)"
-      ],
-      "metrics": {
-        "likes": 318,
-        "retweets": 52,
-        "replies": 26,
-        "likes_h": "318"
-      },
-      "engagement": 448,
-      "hot": false
-    },
-    {
-      "id": "x_2065464144908713999",
-      "title": "What if compliance wasn't the reason your AI initiative never made it past the pilot stage? 🔒 NVIDIA AI Enterprise's government-ready software gives teams around the world a secure, production-ready…",
-      "link": "https://x.com/nvidia/status/2065464144908713999",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-12T16:00:01.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Commentary"
-      ],
-      "summary": "What if compliance wasn't the reason your AI initiative never made it past the pilot stage? 🔒 NVIDIA AI Enterprise's government-ready software gives teams around the world a secure, production-ready foundation — so they can focus on deploying AI, not managing vulnerabilities.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 78,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "business signal (enterprise)"
-      ],
-      "metrics": {
-        "likes": 230,
-        "retweets": 37,
-        "replies": 23,
-        "likes_h": "230"
-      },
-      "engagement": 327,
-      "hot": false
     }
   ]
 }
