@@ -1,15 +1,142 @@
 {
-  "generated_at": "2026-06-22T18:54:36.175Z",
+  "generated_at": "2026-06-22T21:36:53.800Z",
   "handles": [
-    "nvidia",
-    "GoogleDeepMind",
-    "OpenAI",
     "AnthropicAI",
+    "OpenAI",
+    "GoogleDeepMind",
+    "nvidia",
     "gdb",
     "elonmusk"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2069104290065776881",
+      "title": "We’re also launching the OpenAI Daybreak Cyber Partner Program with leading security software and services providers. Participating partners can use GPT‑5.5 with Trusted Access for Cyber in the…",
+      "link": "https://x.com/OpenAI/status/2069104290065776881",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-06-22T17:04:39.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product launch",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Product launch"
+      ],
+      "summary": "We’re also launching the OpenAI Daybreak Cyber Partner Program with leading security software and services providers. Participating partners can use GPT‑5.5 with Trusted Access for Cyber in the security products and services they provide to customers. This allows their",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 66,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "reply / conversation",
+        "casual tone (this)",
+        "announcement language (launching)",
+        "tech substance (gpt)",
+        "business signal (customers)"
+      ],
+      "metrics": {
+        "likes": 214,
+        "retweets": 11,
+        "replies": 6,
+        "likes_h": "214"
+      },
+      "engagement": 242,
+      "hot": false
+    },
+    {
+      "id": "x_2069104286479618296",
+      "title": "GPT-5.5-Cyber is our most capable cyber model yet, designed for advanced, authorized defensive work: tracing vulnerable code, validating issues, developing patches, and preparing evidence for human…",
+      "link": "https://x.com/OpenAI/status/2069104286479618296",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-06-22T17:04:38.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Product"
+      ],
+      "summary": "GPT-5.5-Cyber is our most capable cyber model yet, designed for advanced, authorized defensive work: tracing vulnerable code, validating issues, developing patches, and preparing evidence for human review.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 55,
+      "sentiment": "negative",
+      "sentiment_score": -0.5,
+      "reasons": [
+        "report-worthy",
+        "reply / conversation",
+        "tech substance (model, gpt)",
+        "high engagement (978 likes)"
+      ],
+      "metrics": {
+        "likes": 978,
+        "retweets": 77,
+        "replies": 34,
+        "likes_h": "978"
+      },
+      "engagement": 1166,
+      "hot": false
+    },
+    {
+      "id": "x_2069104283824640023",
+      "title": "We’re expanding OpenAI Daybreak to help democratize patching vulnerable software at machine speed: - Codex Security plugin: find, validate, and fix vulnerabilities right inside Codex - The full…",
+      "link": "https://x.com/OpenAI/status/2069104283824640023",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-06-22T17:04:38.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Product"
+      ],
+      "summary": "We’re expanding OpenAI Daybreak to help democratize patching vulnerable software at machine speed: - Codex Security plugin: find, validate, and fix vulnerabilities right inside Codex - The full version of GPT-5.5-Cyber model: a great model for trusted defenders - Cyber Partner",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 84,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "tech substance (model, gpt, version)",
+        "high engagement (2.7K likes)"
+      ],
+      "metrics": {
+        "likes": 2657,
+        "retweets": 273,
+        "replies": 180,
+        "likes_h": "2.7K"
+      },
+      "engagement": 3383,
+      "hot": false
+    },
     {
       "id": "x_2069066675895337405",
       "title": "Google DeepMind 🤝 @A24 We’re launching a research partnership with A24 to ensure the tools of the future are shaped by the creators who use them. Find out more → https://goo.gle/3QwvgKq",
@@ -125,15 +252,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (models, research, training)",
-        "high engagement (2.7K likes)"
+        "high engagement (2.8K likes)"
       ],
       "metrics": {
-        "likes": 2746,
-        "retweets": 260,
-        "replies": 214,
-        "likes_h": "2.7K"
+        "likes": 2771,
+        "retweets": 266,
+        "replies": 228,
+        "likes_h": "2.8K"
       },
-      "engagement": 3480,
+      "engagement": 3531,
       "hot": false
     },
     {
@@ -171,12 +298,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 4154,
-        "retweets": 297,
-        "replies": 244,
+        "likes": 4178,
+        "retweets": 299,
+        "replies": 253,
         "likes_h": "4.2K"
       },
-      "engagement": 4992,
+      "engagement": 5029,
       "hot": true
     },
     {
@@ -210,16 +337,16 @@
         "report-worthy",
         "tech substance (claude, opus, research)",
         "links to a source",
-        "high engagement (2.1K likes)",
+        "high engagement (2.2K likes)",
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 2144,
-        "retweets": 178,
-        "replies": 308,
-        "likes_h": "2.1K"
+        "likes": 2166,
+        "retweets": 181,
+        "replies": 326,
+        "likes_h": "2.2K"
       },
-      "engagement": 2808,
+      "engagement": 2854,
       "hot": false
     },
     {
@@ -252,15 +379,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (research)",
-        "high engagement (2.9K likes)"
+        "high engagement (3K likes)"
       ],
       "metrics": {
-        "likes": 2919,
-        "retweets": 327,
-        "replies": 233,
-        "likes_h": "2.9K"
+        "likes": 3014,
+        "retweets": 332,
+        "replies": 256,
+        "likes_h": "3K"
       },
-      "engagement": 3806,
+      "engagement": 3934,
       "hot": false
     },
     {
@@ -746,12 +873,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 271,
-        "retweets": 25,
-        "replies": 103,
-        "likes_h": "271"
+        "likes": 279,
+        "retweets": 26,
+        "replies": 105,
+        "likes_h": "279"
       },
-      "engagement": 424,
+      "engagement": 436,
       "hot": false
     },
     {
@@ -788,12 +915,12 @@
         "high engagement (3.5K likes)"
       ],
       "metrics": {
-        "likes": 3478,
-        "retweets": 373,
+        "likes": 3482,
+        "retweets": 374,
         "replies": 491,
         "likes_h": "3.5K"
       },
-      "engagement": 4715,
+      "engagement": 4721,
       "hot": true
     },
     {
@@ -1032,12 +1159,12 @@
         "high engagement (88.3K likes)"
       ],
       "metrics": {
-        "likes": 88255,
-        "retweets": 25757,
+        "likes": 88268,
+        "retweets": 25747,
         "replies": 12627,
         "likes_h": "88.3K"
       },
-      "engagement": 152396,
+      "engagement": 152389,
       "hot": true
     },
     {
@@ -1203,129 +1330,6 @@
         "likes_h": "230"
       },
       "engagement": 327,
-      "hot": false
-    },
-    {
-      "id": "x_2065388989146628563",
-      "title": "Our Robotics Accelerator has launched with 15 startups helping shape the future of physical AI in Europe. 🤖 This three-month program will connect them with access to our AI stack, Gemini Robotics…",
-      "link": "https://x.com/GoogleDeepMind/status/2065388989146628563",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Google DeepMind · @GoogleDeepMind",
-      "handle": "GoogleDeepMind",
-      "org": "Google",
-      "published": "2026-06-12T11:01:22.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product launch",
-      "categories": [
-        "X",
-        "Google",
-        "Product launch"
-      ],
-      "summary": "Our Robotics Accelerator has launched with 15 startups helping shape the future of physical AI in Europe. 🤖 This three-month program will connect them with access to our AI stack, Gemini Robotics models and hands-on support from our teams. Meet the companies →",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 96,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "casual tone (this)",
-        "announcement language (launched)",
-        "tech substance (models, gemini, robotics)"
-      ],
-      "metrics": {
-        "likes": 520,
-        "retweets": 92,
-        "replies": 69,
-        "likes_h": "520"
-      },
-      "engagement": 773,
-      "hot": false
-    },
-    {
-      "id": "x_2065225362544726371",
-      "title": "We heard you wanted to use Codex rate limit resets on your own time. Starting today, we’re rolling out the ability to save rate limit resets to use later. We’re starting Go, Plus, Pro, and Business…",
-      "link": "https://x.com/OpenAI/status/2065225362544726371",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-06-12T00:11:11.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Announcement",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Announcement"
-      ],
-      "summary": "We heard you wanted to use Codex rate limit resets on your own time. Starting today, we’re rolling out the ability to save rate limit resets to use later. We’re starting Go, Plus, Pro, and Business users with one free reset:",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 98,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "announcement language (rolling out, starting today)",
-        "high engagement (21.7K likes)"
-      ],
-      "metrics": {
-        "likes": 21714,
-        "retweets": 1749,
-        "replies": 1351,
-        "likes_h": "21.7K"
-      },
-      "engagement": 26563,
-      "hot": true
-    },
-    {
-      "id": "x_2065177250799009837",
-      "title": "NVIDIA ranks No. 1 as top adoption-friendly workplace in the U.S. by the @DTFA. We support employees in the different ways they choose to grow their families, though adoption, fertility, IVF,…",
-      "link": "https://x.com/nvidia/status/2065177250799009837",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-11T21:00:00.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Commentary",
-        "NVIDIALife"
-      ],
-      "summary": "NVIDIA ranks No. 1 as top adoption-friendly workplace in the U.S. by the @DTFA. We support employees in the different ways they choose to grow their families, though adoption, fertility, IVF, surrogacy, and more. #NVIDIALife",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 56,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy"
-      ],
-      "metrics": {
-        "likes": 170,
-        "retweets": 19,
-        "replies": 15,
-        "likes_h": "170"
-      },
-      "engagement": 223,
       "hot": false
     }
   ]
