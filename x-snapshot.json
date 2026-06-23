@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-06-23T06:13:17.798Z",
+  "generated_at": "2026-06-23T10:13:31.792Z",
   "handles": [
-    "nvidia",
-    "gdb",
-    "OpenAI",
-    "GoogleDeepMind",
     "AnthropicAI",
+    "OpenAI",
+    "nvidia",
+    "GoogleDeepMind",
+    "gdb",
+    "NVIDIAAI",
     "elonmusk"
   ],
   "count": 32,
@@ -40,15 +41,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (data center)",
-        "high engagement (10.3K likes)"
+        "high engagement (22.8K likes)"
       ],
       "metrics": {
-        "likes": 10303,
-        "retweets": 1482,
-        "replies": 559,
-        "likes_h": "10.3K"
+        "likes": 22763,
+        "retweets": 3445,
+        "replies": 1085,
+        "likes_h": "22.8K"
       },
-      "engagement": 13826,
+      "engagement": 30738,
       "hot": true
     },
     {
@@ -81,15 +82,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (models)",
-        "high engagement (905 likes)"
+        "high engagement (1.2K likes)"
       ],
       "metrics": {
-        "likes": 905,
-        "retweets": 43,
-        "replies": 61,
-        "likes_h": "905"
+        "likes": 1194,
+        "retweets": 64,
+        "replies": 83,
+        "likes_h": "1.2K"
       },
-      "engagement": 1052,
+      "engagement": 1405,
       "hot": false
     },
     {
@@ -128,12 +129,53 @@
         "business signal (customers)"
       ],
       "metrics": {
-        "likes": 260,
-        "retweets": 13,
+        "likes": 308,
+        "retweets": 14,
         "replies": 7,
-        "likes_h": "260"
+        "likes_h": "308"
       },
-      "engagement": 293,
+      "engagement": 343,
+      "hot": false
+    },
+    {
+      "id": "x_2069104288417390688",
+      "title": "Patch the Planet is our effort to help open source maintainers move from security findings to merged fixes. We’re working with Trail of Bits, HackerOne, Calif, researchers, and maintainers to bring…",
+      "link": "https://x.com/OpenAI/status/2069104288417390688",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-06-22T17:04:39.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Product"
+      ],
+      "summary": "Patch the Planet is our effort to help open source maintainers move from security findings to merged fixes. We’re working with Trail of Bits, HackerOne, Calif, researchers, and maintainers to bring Codex Security and advanced models into the remediation process, with human",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 55,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "reply / conversation",
+        "tech substance (models, open source)"
+      ],
+      "metrics": {
+        "likes": 687,
+        "retweets": 46,
+        "replies": 31,
+        "likes_h": "687"
+      },
+      "engagement": 810,
       "hot": false
     },
     {
@@ -167,15 +209,15 @@
         "report-worthy",
         "reply / conversation",
         "tech substance (model, gpt)",
-        "high engagement (1.2K likes)"
+        "high engagement (1.6K likes)"
       ],
       "metrics": {
-        "likes": 1232,
-        "retweets": 105,
-        "replies": 41,
-        "likes_h": "1.2K"
+        "likes": 1646,
+        "retweets": 143,
+        "replies": 47,
+        "likes_h": "1.6K"
       },
-      "engagement": 1483,
+      "engagement": 1979,
       "hot": false
     },
     {
@@ -208,15 +250,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (model, gpt, version)",
-        "high engagement (3.2K likes)"
+        "high engagement (3.8K likes)"
       ],
       "metrics": {
-        "likes": 3239,
-        "retweets": 359,
-        "replies": 202,
-        "likes_h": "3.2K"
+        "likes": 3800,
+        "retweets": 431,
+        "replies": 251,
+        "likes_h": "3.8K"
       },
-      "engagement": 4159,
+      "engagement": 4913,
       "hot": true
     },
     {
@@ -252,15 +294,15 @@
         "tech substance (research)",
         "business signal (partnership)",
         "links to a source",
-        "high engagement (1.1K likes)"
+        "high engagement (1.3K likes)"
       ],
       "metrics": {
-        "likes": 1091,
-        "retweets": 109,
-        "replies": 57,
-        "likes_h": "1.1K"
+        "likes": 1282,
+        "retweets": 131,
+        "replies": 68,
+        "likes_h": "1.3K"
       },
-      "engagement": 1366,
+      "engagement": 1612,
       "hot": false
     },
     {
@@ -293,15 +335,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (model, agent)",
-        "high engagement (1.8K likes)"
+        "high engagement (1.9K likes)"
       ],
       "metrics": {
-        "likes": 1821,
-        "retweets": 238,
-        "replies": 173,
-        "likes_h": "1.8K"
+        "likes": 1854,
+        "retweets": 239,
+        "replies": 175,
+        "likes_h": "1.9K"
       },
-      "engagement": 2470,
+      "engagement": 2507,
       "hot": false
     },
     {
@@ -337,12 +379,12 @@
         "high engagement (2.8K likes)"
       ],
       "metrics": {
-        "likes": 2776,
-        "retweets": 266,
-        "replies": 229,
+        "likes": 2783,
+        "retweets": 268,
+        "replies": 230,
         "likes_h": "2.8K"
       },
-      "engagement": 3537,
+      "engagement": 3549,
       "hot": false
     },
     {
@@ -380,12 +422,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 4179,
-        "retweets": 300,
-        "replies": 253,
+        "likes": 4190,
+        "retweets": 302,
+        "replies": 254,
         "likes_h": "4.2K"
       },
-      "engagement": 5032,
+      "engagement": 5048,
       "hot": true
     },
     {
@@ -423,12 +465,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 2174,
-        "retweets": 182,
-        "replies": 328,
+        "likes": 2185,
+        "retweets": 184,
+        "replies": 332,
         "likes_h": "2.2K"
       },
-      "engagement": 2866,
+      "engagement": 2885,
       "hot": false
     },
     {
@@ -503,12 +545,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 593,
+        "likes": 599,
         "retweets": 84,
         "replies": 86,
-        "likes_h": "593"
+        "likes_h": "599"
       },
-      "engagement": 847,
+      "engagement": 853,
       "hot": false
     },
     {
@@ -543,12 +585,12 @@
         "tech substance (models, agents)"
       ],
       "metrics": {
-        "likes": 330,
+        "likes": 336,
         "retweets": 57,
-        "replies": 58,
-        "likes_h": "330"
+        "replies": 59,
+        "likes_h": "336"
       },
-      "engagement": 502,
+      "engagement": 509,
       "hot": false
     },
     {
@@ -709,12 +751,12 @@
         "tech substance (training)"
       ],
       "metrics": {
-        "likes": 188,
+        "likes": 190,
         "retweets": 34,
         "replies": 35,
-        "likes_h": "188"
+        "likes_h": "190"
       },
-      "engagement": 291,
+      "engagement": 293,
       "hot": false
     },
     {
@@ -790,12 +832,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 506,
+        "likes": 508,
         "retweets": 63,
         "replies": 36,
-        "likes_h": "506"
+        "likes_h": "508"
       },
-      "engagement": 668,
+      "engagement": 670,
       "hot": false
     },
     {
@@ -870,12 +912,12 @@
         "high engagement (1.2K likes)"
       ],
       "metrics": {
-        "likes": 1161,
-        "retweets": 151,
-        "replies": 64,
+        "likes": 1163,
+        "retweets": 152,
+        "replies": 65,
         "likes_h": "1.2K"
       },
-      "engagement": 1527,
+      "engagement": 1532,
       "hot": false
     },
     {
@@ -955,12 +997,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 281,
+        "likes": 288,
         "retweets": 26,
         "replies": 105,
-        "likes_h": "281"
+        "likes_h": "288"
       },
-      "engagement": 438,
+      "engagement": 445,
       "hot": false
     },
     {
@@ -997,13 +1039,13 @@
         "high engagement (3.5K likes)"
       ],
       "metrics": {
-        "likes": 3483,
-        "retweets": 374,
+        "likes": 3490,
+        "retweets": 375,
         "replies": 492,
         "likes_h": "3.5K"
       },
-      "engagement": 4723,
-      "hot": true
+      "engagement": 4732,
+      "hot": false
     },
     {
       "id": "x_2066934692641956231",
@@ -1241,12 +1283,12 @@
         "high engagement (88.3K likes)"
       ],
       "metrics": {
-        "likes": 88272,
-        "retweets": 25746,
-        "replies": 12628,
+        "likes": 88285,
+        "retweets": 25750,
+        "replies": 12629,
         "likes_h": "88.3K"
       },
-      "engagement": 152392,
+      "engagement": 152414,
       "hot": true
     },
     {
@@ -1288,50 +1330,6 @@
       },
       "engagement": 842,
       "hot": false
-    },
-    {
-      "id": "x_2065519514603647403",
-      "title": "Huge congratulations to the @SpaceX team on a historic IPO debut. Fueling the next frontier of space and AI. 🌌 NVIDIA's partnership with SpaceX spans nearly a decade, from hand-delivering the…",
-      "link": "https://x.com/nvidia/status/2065519514603647403",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-12T19:40:02.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Funding & deals",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Funding & deals",
-        "NVIDIADGX"
-      ],
-      "summary": "Huge congratulations to the @SpaceX team on a historic IPO debut. Fueling the next frontier of space and AI. 🌌 NVIDIA's partnership with SpaceX spans nearly a decade, from hand-delivering the world's first #NVIDIADGX-1 supercomputer in 2016 to the custom DGX Spark handoff at",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 100,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "casual tone (congratulations)",
-        "announcement language (debut)",
-        "business signal (ipo, partnership, ipo)",
-        "high engagement (22K likes)"
-      ],
-      "metrics": {
-        "likes": 22004,
-        "retweets": 1971,
-        "replies": 603,
-        "likes_h": "22K"
-      },
-      "engagement": 26549,
-      "hot": true
     }
   ]
 }
