@@ -1,16 +1,55 @@
 {
-  "generated_at": "2026-06-23T16:12:43.061Z",
+  "generated_at": "2026-06-23T18:23:39.055Z",
   "handles": [
-    "AnthropicAI",
     "OpenAI",
     "nvidia",
-    "GoogleDeepMind",
     "elonmusk",
     "gdb",
-    "NVIDIAAI"
+    "GoogleDeepMind",
+    "AnthropicAI"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2069483224158646739",
+      "title": "OpenAI DevDay 2026 applications are now open! Our biggest developer event gets even bigger. 📍 San Francisco 📅 September 29 Apply by July 10: https://devday.openai.com/",
+      "link": "https://x.com/OpenAI/status/2069483224158646739",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-06-23T18:10:24.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Commentary"
+      ],
+      "summary": "OpenAI DevDay 2026 applications are now open! Our biggest developer event gets even bigger. 📍 San Francisco 📅 September 29 Apply by July 10: https://devday.openai.com/",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 63,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "links to a source"
+      ],
+      "metrics": {
+        "likes": 216,
+        "retweets": 28,
+        "replies": 41,
+        "likes_h": "216"
+      },
+      "engagement": 313,
+      "hot": false
+    },
     {
       "id": "x_2069450408737517660",
       "title": "Specialized AI agents help enterprises turn AI into systems built for their own workflows. NVIDIA Agent Toolkit brings together open Nemotron models, tools, skills and secure runtime support to help…",
@@ -239,7 +278,7 @@
       "summary": "We’re also launching the OpenAI Daybreak Cyber Partner Program with leading security software and services providers. Participating partners can use GPT‑5.5 with Trusted Access for Cyber in the security products and services they provide to customers. This allows their",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 67,
+      "worthiness_score": 68,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -251,12 +290,12 @@
         "business signal (customers)"
       ],
       "metrics": {
-        "likes": 338,
+        "likes": 344,
         "retweets": 14,
-        "replies": 7,
-        "likes_h": "338"
+        "replies": 8,
+        "likes_h": "344"
       },
-      "engagement": 373,
+      "engagement": 380,
       "hot": false
     },
     {
@@ -292,12 +331,12 @@
         "tech substance (models, open source)"
       ],
       "metrics": {
-        "likes": 771,
+        "likes": 795,
         "retweets": 52,
         "replies": 35,
-        "likes_h": "771"
+        "likes_h": "795"
       },
-      "engagement": 910,
+      "engagement": 934,
       "hot": false
     },
     {
@@ -331,15 +370,15 @@
         "report-worthy",
         "reply / conversation",
         "tech substance (model, gpt)",
-        "high engagement (2K likes)"
+        "high engagement (2.1K likes)"
       ],
       "metrics": {
-        "likes": 2023,
-        "retweets": 172,
+        "likes": 2117,
+        "retweets": 180,
         "replies": 54,
-        "likes_h": "2K"
+        "likes_h": "2.1K"
       },
-      "engagement": 2421,
+      "engagement": 2531,
       "hot": false
     },
     {
@@ -375,12 +414,12 @@
         "high engagement (4.1K likes)"
       ],
       "metrics": {
-        "likes": 4054,
-        "retweets": 463,
-        "replies": 275,
+        "likes": 4092,
+        "retweets": 470,
+        "replies": 283,
         "likes_h": "4.1K"
       },
-      "engagement": 5255,
+      "engagement": 5315,
       "hot": true
     },
     {
@@ -634,7 +673,7 @@
         "likes_h": "3K"
       },
       "engagement": 3962,
-      "hot": false
+      "hot": true
     },
     {
       "id": "x_2067594863785173257",
@@ -755,7 +794,7 @@
         "likes_h": "3.1K"
       },
       "engagement": 3922,
-      "hot": false
+      "hot": true
     },
     {
       "id": "x_2067346918746030496",
@@ -1167,7 +1206,7 @@
         "likes_h": "3.5K"
       },
       "engagement": 4736,
-      "hot": false
+      "hot": true
     },
     {
       "id": "x_2066934692641956231",
@@ -1291,46 +1330,6 @@
         "likes_h": "413"
       },
       "engagement": 569,
-      "hot": false
-    },
-    {
-      "id": "x_2066610003046273161",
-      "title": "⚡Energy is the foundation of the AI 5-Layer Cake. As AI demand accelerates, energy is the key constraint on growth. From power and utilities to surface and subsurface operations — AI, digital twins,…",
-      "link": "https://x.com/nvidia/status/2066610003046273161",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-15T19:53:15.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product"
-      ],
-      "summary": "⚡Energy is the foundation of the AI 5-Layer Cake. As AI demand accelerates, energy is the key constraint on growth. From power and utilities to surface and subsurface operations — AI, digital twins, and intelligent agents are transforming how energy is produced and managed,",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 75,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (agents)"
-      ],
-      "metrics": {
-        "likes": 358,
-        "retweets": 66,
-        "replies": 62,
-        "likes_h": "358"
-      },
-      "engagement": 552,
       "hot": false
     }
   ]
