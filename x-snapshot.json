@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-06-23T18:23:39.055Z",
+  "generated_at": "2026-06-23T20:36:30.356Z",
   "handles": [
-    "OpenAI",
     "nvidia",
+    "GoogleDeepMind",
     "elonmusk",
     "gdb",
-    "GoogleDeepMind",
+    "NVIDIAAI",
+    "OpenAI",
     "AnthropicAI"
   ],
   "count": 32,
@@ -51,6 +52,47 @@
       "hot": false
     },
     {
+      "id": "x_2069480608749817922",
+      "title": "The latest supercomputing rankings are in - NVIDIA is powering 81% of the TOP500 and 89% of all new systems, in addition to: ⚡2x the AI training throughput of all other platforms combined ⚡3x the AI…",
+      "link": "https://x.com/nvidia/status/2069480608749817922",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-23T18:00:00.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Research"
+      ],
+      "summary": "The latest supercomputing rankings are in - NVIDIA is powering 81% of the TOP500 and 89% of all new systems, in addition to: ⚡2x the AI training throughput of all other platforms combined ⚡3x the AI inference throughput ⚡The top 8 most energy-efficient systems on the Green500",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 86,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (inference, training)",
+        "concrete metrics"
+      ],
+      "metrics": {
+        "likes": 113,
+        "retweets": 24,
+        "replies": 14,
+        "likes_h": "113"
+      },
+      "engagement": 175,
+      "hot": false
+    },
+    {
       "id": "x_2069450408737517660",
       "title": "Specialized AI agents help enterprises turn AI into systems built for their own workflows. NVIDIA Agent Toolkit brings together open Nemotron models, tools, skills and secure runtime support to help…",
       "link": "https://x.com/nvidia/status/2069450408737517660",
@@ -74,7 +116,7 @@
       "summary": "Specialized AI agents help enterprises turn AI into systems built for their own workflows. NVIDIA Agent Toolkit brings together open Nemotron models, tools, skills and secure runtime support to help teams build agents tuned for domain-specific work. Learn more:",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 84,
+      "worthiness_score": 90,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -82,12 +124,12 @@
         "tech substance (models, nemotron, agent)"
       ],
       "metrics": {
-        "likes": 32,
-        "retweets": 4,
-        "replies": 5,
-        "likes_h": "32"
+        "likes": 266,
+        "retweets": 41,
+        "replies": 32,
+        "likes_h": "266"
       },
-      "engagement": 45,
+      "engagement": 380,
       "hot": false
     },
     {
@@ -120,15 +162,15 @@
       "reasons": [
         "report-worthy",
         "business signal (funding)",
-        "high engagement (10.4K likes)"
+        "high engagement (39.8K likes)"
       ],
       "metrics": {
-        "likes": 10418,
-        "retweets": 1907,
-        "replies": 1017,
-        "likes_h": "10.4K"
+        "likes": 39807,
+        "retweets": 7862,
+        "replies": 2741,
+        "likes_h": "39.8K"
       },
-      "engagement": 15249,
+      "engagement": 58272,
       "hot": true
     },
     {
@@ -156,7 +198,7 @@
       "summary": "📣 NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations At #DTWIgnite, together with our partners, we are showcasing the data, models, simulation and secure runtime stack enabling telcos to build more secure agentic workflows across autonomous networks and operations. 📖",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 75,
+      "worthiness_score": 77,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -164,12 +206,12 @@
         "tech substance (models, agents)"
       ],
       "metrics": {
-        "likes": 47,
-        "retweets": 4,
-        "replies": 12,
-        "likes_h": "47"
+        "likes": 102,
+        "retweets": 13,
+        "replies": 17,
+        "likes_h": "102"
       },
-      "engagement": 67,
+      "engagement": 145,
       "hot": false
     },
     {
@@ -202,15 +244,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (data center)",
-        "high engagement (26.5K likes)"
+        "high engagement (27.9K likes)"
       ],
       "metrics": {
-        "likes": 26512,
-        "retweets": 4005,
-        "replies": 1266,
-        "likes_h": "26.5K"
+        "likes": 27894,
+        "retweets": 4212,
+        "replies": 1326,
+        "likes_h": "27.9K"
       },
-      "engagement": 35788,
+      "engagement": 37644,
       "hot": true
     },
     {
@@ -243,15 +285,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (models)",
-        "high engagement (1.3K likes)"
+        "high engagement (1.4K likes)"
       ],
       "metrics": {
-        "likes": 1339,
-        "retweets": 71,
-        "replies": 96,
-        "likes_h": "1.3K"
+        "likes": 1376,
+        "retweets": 73,
+        "replies": 99,
+        "likes_h": "1.4K"
       },
-      "engagement": 1577,
+      "engagement": 1621,
       "hot": false
     },
     {
@@ -455,15 +497,15 @@
         "tech substance (research)",
         "business signal (partnership)",
         "links to a source",
-        "high engagement (1.3K likes)"
+        "high engagement (1.4K likes)"
       ],
       "metrics": {
-        "likes": 1331,
-        "retweets": 142,
-        "replies": 73,
-        "likes_h": "1.3K"
+        "likes": 1357,
+        "retweets": 146,
+        "replies": 76,
+        "likes_h": "1.4K"
       },
-      "engagement": 1688,
+      "engagement": 1725,
       "hot": false
     },
     {
@@ -499,12 +541,12 @@
         "high engagement (1.9K likes)"
       ],
       "metrics": {
-        "likes": 1872,
-        "retweets": 245,
-        "replies": 177,
+        "likes": 1881,
+        "retweets": 246,
+        "replies": 178,
         "likes_h": "1.9K"
       },
-      "engagement": 2539,
+      "engagement": 2551,
       "hot": false
     },
     {
@@ -673,7 +715,7 @@
         "likes_h": "3K"
       },
       "engagement": 3962,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2067594863785173257",
@@ -706,12 +748,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 600,
-        "retweets": 85,
+        "likes": 601,
+        "retweets": 86,
         "replies": 87,
-        "likes_h": "600"
+        "likes_h": "601"
       },
-      "engagement": 857,
+      "engagement": 860,
       "hot": false
     },
     {
@@ -794,7 +836,7 @@
         "likes_h": "3.1K"
       },
       "engagement": 3922,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2067346918746030496",
@@ -1290,46 +1332,6 @@
         "likes_h": "87"
       },
       "engagement": 112,
-      "hot": false
-    },
-    {
-      "id": "x_2066902392570876031",
-      "title": "The NVIDIA Blackwell platform just swept MLPerf Training 6.0, delivering fastest performance and largest scale. Beyond the benchmarks, capabilities like the Reliability, Availability, and…",
-      "link": "https://x.com/nvidia/status/2066902392570876031",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-16T15:15:06.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Research"
-      ],
-      "summary": "The NVIDIA Blackwell platform just swept MLPerf Training 6.0, delivering fastest performance and largest scale. Beyond the benchmarks, capabilities like the Reliability, Availability, and Serviceability Engine and NVIDIA Resiliency Extension deliver fewer interruptions and",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 91,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (benchmarks, training, blackwell)"
-      ],
-      "metrics": {
-        "likes": 413,
-        "retweets": 59,
-        "replies": 38,
-        "likes_h": "413"
-      },
-      "engagement": 569,
       "hot": false
     }
   ]
