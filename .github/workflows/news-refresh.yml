@@ -45,13 +45,16 @@ jobs:
       - name: Refresh X / social snapshot
         run: node scripts/snapshot-x.mjs || echo "snapshot skipped/failed — keeping previous"
 
+      - name: Refresh Reddit snapshot
+        run: node scripts/snapshot-reddit.mjs || echo "reddit snapshot skipped/failed — keeping previous"
+
       - name: Commit + push if data changed
         run: |
           git config user.name "techscroll-bot"
           git config user.email "bot@users.noreply.github.com"
-          if [ -n "$(git status --porcelain enriched.json x-snapshot.json papers-enriched.json paper-covers)" ]; then
-            git add enriched.json x-snapshot.json papers-enriched.json paper-covers
-            git commit -m "chore(data): hourly cloud refresh — AI summaries + X [skip ci]"
+          if [ -n "$(git status --porcelain enriched.json x-snapshot.json reddit-snapshot.json papers-enriched.json paper-covers)" ]; then
+            git add enriched.json x-snapshot.json reddit-snapshot.json papers-enriched.json paper-covers
+            git commit -m "chore(data): hourly cloud refresh — AI summaries + X + Reddit [skip ci]"
             git push
             echo "pushed — Vercel will redeploy with fresh data"
           else

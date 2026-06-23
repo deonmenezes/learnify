@@ -15,6 +15,42 @@
 //    a cleaner-licensed primary when ready.
 
 import { collectNewReleases } from "../lib/openrouter.js";
+import { sbSelect } from "../lib/supabase.js";
+
+// Derive a level from xp when a row hasn't stored one (keeps the board honest if
+// an older client wrote a profile without a level). Mirrors the app's 500xp/level.
+const levelFromXp = (xp) => Math.max(1, Math.floor((xp || 0) / 500) + 1);
+
+// The real-users leaderboard ("top scrollers & learners") — ranks ts_profiles
+// through the RLS-bypassing public view (migration 0004). Returns ONLY non-PII
+// public fields. Empty array (never fake users) when no one has read yet.
+async function usersLeaderboard(res) {
+  res.setHeader("Cache-Control", "public, s-maxage=60, stale-while-revalidate=300");
+  const rows = await sbSelect("ts_leaderboard", {
+    select: "user_id,display_name,avatar_url,xp,streak,longest_streak,level,total_read,last_activity,rank",
+    order: "rank.asc",
+    limit: "100",
+  });
+  const users = rows.map((r) => ({
+    rank: r.rank,
+    user_id: r.user_id,
+    display_name: r.display_name || null,
+    avatar_url: r.avatar_url || null,
+    xp: r.xp || 0,
+    streak: r.streak || 0,
+    longest_streak: r.longest_streak || 0,
+    level: r.level || levelFromXp(r.xp),
+    total_read: r.total_read || 0,
+    last_activity: r.last_activity || null,
+  }));
+  return res.status(200).json({
+    source: "users",
+    generated_at: new Date().toISOString(),
+    count: users.length,
+    lenses: ["XP", "Streak", "Reads"],
+    users,
+  });
+}
 
 const MIRROR = "https://raw.githubusercontent.com/oolong-tea-2026/arena-ai-leaderboards/main/data";
 const WULONG = "https://api.wulong.dev/arena-ai-leaderboards/v1/leaderboard";
@@ -61,8 +97,15 @@ export default async function handler(req, res) {
   res.setHeader("Access-Control-Allow-Origin", "*");
   res.setHeader("Access-Control-Allow-Methods", "GET, OPTIONS");
   res.setHeader("Access-Control-Allow-Headers", "Content-Type");
-  res.setHeader("Cache-Control", "public, s-maxage=21600, stale-while-revalidate=43200"); // 6h (new releases refresh faster)
   if (req.method === "OPTIONS") { res.status(204).end(); return; }
+
+  // Real-users leaderboard for the app's center tab. `?type=users`.
+  if ((req.query.type || "").toLowerCase() === "users") {
+    try { return await usersLeaderboard(res); }
+    catch (e) { return res.status(200).json({ source: "users", generated_at: new Date().toISOString(), count: 0, lenses: ["XP", "Streak", "Reads"], users: [] }); }
+  }
+
+  res.setHeader("Cache-Control", "public, s-maxage=21600, stale-while-revalidate=43200"); // 6h (new releases refresh faster)
 
   try {
     // Newest releases (incl. models too fresh for arena votes) — best-effort.
