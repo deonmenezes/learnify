@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T20:36:30.356Z",
+  "generated_at": "2026-06-23T22:19:41.480Z",
   "handles": [
     "nvidia",
     "GoogleDeepMind",
@@ -11,6 +11,46 @@
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2069525909724418344",
+      "title": "For the past two years, an NVIDIA AI infrastructure contribution to the NAIRR pilot has helped power over 700 U.S. research projects. With DGX reference architecture providing dedicated resources,…",
+      "link": "https://x.com/nvidia/status/2069525909724418344",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-23T21:00:01.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Research"
+      ],
+      "summary": "For the past two years, an NVIDIA AI infrastructure contribution to the NAIRR pilot has helped power over 700 U.S. research projects. With DGX reference architecture providing dedicated resources, researchers have uncovered groundbreaking technologies that will reshape and",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 71,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (research)"
+      ],
+      "metrics": {
+        "likes": 65,
+        "retweets": 14,
+        "replies": 10,
+        "likes_h": "65"
+      },
+      "engagement": 103,
+      "hot": false
+    },
     {
       "id": "x_2069483224158646739",
       "title": "OpenAI DevDay 2026 applications are now open! Our biggest developer event gets even bigger. 📍 San Francisco 📅 September 29 Apply by July 10: https://devday.openai.com/",
@@ -84,12 +124,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 113,
-        "retweets": 24,
+        "likes": 153,
+        "retweets": 30,
         "replies": 14,
-        "likes_h": "113"
+        "likes_h": "153"
       },
-      "engagement": 175,
+      "engagement": 227,
       "hot": false
     },
     {
@@ -124,12 +164,12 @@
         "tech substance (models, nemotron, agent)"
       ],
       "metrics": {
-        "likes": 266,
-        "retweets": 41,
-        "replies": 32,
-        "likes_h": "266"
+        "likes": 307,
+        "retweets": 48,
+        "replies": 34,
+        "likes_h": "307"
       },
-      "engagement": 380,
+      "engagement": 437,
       "hot": false
     },
     {
@@ -162,15 +202,15 @@
       "reasons": [
         "report-worthy",
         "business signal (funding)",
-        "high engagement (39.8K likes)"
+        "high engagement (46.7K likes)"
       ],
       "metrics": {
-        "likes": 39807,
-        "retweets": 7862,
-        "replies": 2741,
-        "likes_h": "39.8K"
+        "likes": 46711,
+        "retweets": 9473,
+        "replies": 3088,
+        "likes_h": "46.7K"
       },
-      "engagement": 58272,
+      "engagement": 68745,
       "hot": true
     },
     {
@@ -206,12 +246,12 @@
         "tech substance (models, agents)"
       ],
       "metrics": {
-        "likes": 102,
+        "likes": 120,
         "retweets": 13,
         "replies": 17,
-        "likes_h": "102"
+        "likes_h": "120"
       },
-      "engagement": 145,
+      "engagement": 163,
       "hot": false
     },
     {
@@ -244,15 +284,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (data center)",
-        "high engagement (27.9K likes)"
+        "high engagement (28.1K likes)"
       ],
       "metrics": {
-        "likes": 27894,
-        "retweets": 4212,
-        "replies": 1326,
-        "likes_h": "27.9K"
+        "likes": 28097,
+        "retweets": 4235,
+        "replies": 1341,
+        "likes_h": "28.1K"
       },
-      "engagement": 37644,
+      "engagement": 37908,
       "hot": true
     },
     {
@@ -288,12 +328,12 @@
         "high engagement (1.4K likes)"
       ],
       "metrics": {
-        "likes": 1376,
+        "likes": 1390,
         "retweets": 73,
-        "replies": 99,
+        "replies": 100,
         "likes_h": "1.4K"
       },
-      "engagement": 1621,
+      "engagement": 1636,
       "hot": false
     },
     {
@@ -500,12 +540,12 @@
         "high engagement (1.4K likes)"
       ],
       "metrics": {
-        "likes": 1357,
-        "retweets": 146,
-        "replies": 76,
+        "likes": 1362,
+        "retweets": 147,
+        "replies": 77,
         "likes_h": "1.4K"
       },
-      "engagement": 1725,
+      "engagement": 1733,
       "hot": false
     },
     {
@@ -541,12 +581,12 @@
         "high engagement (1.9K likes)"
       ],
       "metrics": {
-        "likes": 1881,
+        "likes": 1883,
         "retweets": 246,
         "replies": 178,
         "likes_h": "1.9K"
       },
-      "engagement": 2551,
+      "engagement": 2553,
       "hot": false
     },
     {
@@ -1289,49 +1329,6 @@
         "likes_h": "1.8K"
       },
       "engagement": 2197,
-      "hot": false
-    },
-    {
-      "id": "x_2066902394655424619",
-      "title": "Learn how the NVIDIA platform and ecosystem enable AI model builders to launch frontier models faster, minimize training costs, and start generating revenue early. 🔗 https://nvda.ws/3SIOU6q",
-      "link": "https://x.com/nvidia/status/2066902394655424619",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-16T15:15:06.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Research"
-      ],
-      "summary": "Learn how the NVIDIA platform and ecosystem enable AI model builders to launch frontier models faster, minimize training costs, and start generating revenue early. 🔗 https://nvda.ws/3SIOU6q",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 78,
-      "sentiment": "positive",
-      "sentiment_score": 1,
-      "reasons": [
-        "report-worthy",
-        "reply / conversation",
-        "tech substance (model, models, training)",
-        "business signal (revenue)",
-        "links to a source"
-      ],
-      "metrics": {
-        "likes": 87,
-        "retweets": 9,
-        "replies": 7,
-        "likes_h": "87"
-      },
-      "engagement": 112,
       "hot": false
     }
   ]
