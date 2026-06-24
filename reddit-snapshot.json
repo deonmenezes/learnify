@@ -1,22 +1,25 @@
 {
-  "generated_at": "2026-06-24T07:48:42.855Z",
+  "generated_at": "2026-06-24T10:58:01.236Z",
   "subs": [
     "MachineLearning",
-    "science",
-    "cybersecurity",
+    "artificial",
+    "nutrition",
+    "investing",
     "longevity",
     "SkincareAddiction",
     "singularity",
     "hardware",
-    "nutrition",
+    "cybersecurity",
+    "science",
     "gadgets"
   ],
   "count": 36,
   "by_category": {
-    "Science": 8,
+    "Science": 5,
     "Skincare": 4,
-    "AI / ML": 9,
-    "Hardware & Gadgets": 7,
+    "AI / ML": 11,
+    "Hardware & Gadgets": 6,
+    "Startups & Funding": 2,
     "Fitness": 4,
     "Security": 4
   },
@@ -250,6 +253,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/hardware this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uc7qae",
+      "title": "I don't trust where the economy is going. So I'm trying something new.",
+      "link": "https://www.reddit.com/r/investing/comments/1uc7qae/i_dont_trust_where_the_economy_is_going_so_im/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/investing · community knowledge",
+      "content_type": "post",
+      "author": "u/Stepup2themike · r/investing",
+      "handle": "investing",
+      "org": "r/investing",
+      "platform": "reddit",
+      "published": "2026-06-22T02:01:36.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/investing"
+      ],
+      "summary": "I have lowered my 10% of salary 401k monthly investment at my salaried, secure job by about half. I&#39;ve taken out a personal loan for 25k that has a payment that roughly equals that same amount. I then purchased a distressed property outright- 15K land / property purchase with 10k left to start a major…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/investing this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1050,6 +1093,86 @@
       }
     },
     {
+      "id": "reddit_1u9ifn2",
+      "title": "Bernie Sanders wants to give every American $1000 a year from AI profits and the reasoning actually makes sense",
+      "link": "https://www.reddit.com/r/artificial/comments/1u9ifn2/bernie_sanders_wants_to_give_every_american_1000/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/artificial · community knowledge",
+      "content_type": "post",
+      "author": "u/Neil_at_HackerEarth · r/artificial",
+      "handle": "artificial",
+      "org": "r/artificial",
+      "platform": "reddit",
+      "published": "2026-06-18T21:05:42.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/artificial"
+      ],
+      "summary": "Saw this on Gizmodo today and it&#39;s been stuck in my head The argument is simple. AI learned from everyone&#39;s writing, art, code, conversations and companies are now worth trillions because of that. so why is none of it coming back to the people whose work built it The bill would create a $7 trillion fund, give…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/artificial this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1u9fwfx",
+      "title": "Started maintaining a small library at work and now I genuinely understand why maintainers go quiet",
+      "link": "https://www.reddit.com/r/artificial/comments/1u9fwfx/started_maintaining_a_small_library_at_work_and/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/artificial · community knowledge",
+      "content_type": "post",
+      "author": "u/Kitchen-Owl4274 · r/artificial",
+      "handle": "artificial",
+      "org": "r/artificial",
+      "platform": "reddit",
+      "published": "2026-06-18T19:28:58.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/artificial"
+      ],
+      "summary": "Built a little internal utility about a year ago, open sourced it because why not, figured maybe 10 people would find it useful. It slowly picked up a few hundred stars and then the issues started coming in. Not a flood or anything but enough and what surprised me was how much of it wasn&#39;t really bugs it was…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/artificial this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1u9egxv",
       "title": "This robotic self-driving toilet comes to you",
       "link": "https://www.reddit.com/r/gadgets/comments/1u9egxv/this_robotic_selfdriving_toilet_comes_to_you/",
@@ -1120,6 +1243,86 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/science this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1u96i6p",
+      "title": "Why haven't IRA limits kept up with inflation? original $1500 limit in 1974= $10,132.45 today",
+      "link": "https://www.reddit.com/r/investing/comments/1u96i6p/why_havent_ira_limits_kept_up_with_inflation/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/investing · community knowledge",
+      "content_type": "post",
+      "author": "u/Forecydian · r/investing",
+      "handle": "investing",
+      "org": "r/investing",
+      "platform": "reddit",
+      "published": "2026-06-18T13:36:46.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/investing"
+      ],
+      "summary": "The IRA was created in 1974 with an annual limit of $1500, which adjusted for inflation is equivalent to $10,132.45 today, however the current IRA limit is $7500. That was for all ages too. Even the catch up contribution limit boost today is at $8600. still below the original dollar value. Shouldn&#39;t we have at…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/investing this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1u8zigf",
+      "title": "Anthropic CEO Dario Amodei goes completely candid on why he left OpenAI: \"When you feel that you can't trust someone when you see disturbing patterns of behavior, dishonesty, that makes it very hard to continue.\"",
+      "link": "https://www.reddit.com/r/artificial/comments/1u8zigf/anthropic_ceo_dario_amodei_goes_completely_candid/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/artificial · community knowledge",
+      "content_type": "post",
+      "author": "u/Low-Honeydew6483 · r/artificial",
+      "handle": "artificial",
+      "org": "r/artificial",
+      "platform": "reddit",
+      "published": "2026-06-18T07:22:11.000Z",
+      "image": "https://external-preview.redd.it/N2xwY3VwYnpzejdoMYb8u_Jecdgw9OdRrS7NxiOXNPickRWJzIVQr5FXb33O.png?width=640&crop=smart&auto=webp&s=821f53d30ec890b641bd8ad37cf39fed59739f4f",
+      "thumbnail": "https://external-preview.redd.it/N2xwY3VwYnpzejdoMYb8u_Jecdgw9OdRrS7NxiOXNPickRWJzIVQr5FXb33O.png?width=640&crop=smart&auto=webp&s=821f53d30ec890b641bd8ad37cf39fed59739f4f",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/artificial"
+      ],
+      "summary": "In a recent candid interview Anthropic CEO Dario Amodei did not hold back regarding his departure from OpenAI. He cited a fundamental breakdown of trust and &quot;disturbing patterns of behavior&quot; and &quot;dishonesty&quot; as the primary reasons it became impossible to stay. Considering the massive wave of…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/artificial this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1238,203 +1441,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/singularity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1u8rfeq",
-      "title": "Roughly 90-120 minutes of strength training per week linked with a 13% reduced risk of premature death, in study involving three decades’ worth of data from nearly 150,000 adults",
-      "link": "https://www.reddit.com/r/science/comments/1u8rfeq/roughly_90120_minutes_of_strength_training_per/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/science · community knowledge",
-      "content_type": "post",
-      "author": "u/marketrent · r/science",
-      "handle": "science",
-      "org": "r/science",
-      "platform": "reddit",
-      "published": "2026-06-18T00:25:19.000Z",
-      "image": "https://external-preview.redd.it/k3t1aKoUeiaHLNqD08RJh3w8_8rAzfJq9NqoUV5nd0A.jpeg?width=640&crop=smart&auto=webp&s=2e367cfdfd0dc969202a9f8cd94133867aaab8c2",
-      "thumbnail": "https://external-preview.redd.it/k3t1aKoUeiaHLNqD08RJh3w8_8rAzfJq9NqoUV5nd0A.jpeg?width=640&crop=smart&auto=webp&s=2e367cfdfd0dc969202a9f8cd94133867aaab8c2",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/science"
-      ],
-      "summary": "Roughly 90-120 minutes of strength training per week linked with a 13% reduced risk of premature death, in study involving three decades’ worth of data from nearly 150,000 adults",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/science this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1u8n71p",
-      "title": "Skeletal Muscle Is the Organ of Longevity. The role of cellular senesence in muscle function decline",
-      "link": "https://www.reddit.com/r/longevity/comments/1u8n71p/skeletal_muscle_is_the_organ_of_longevity_the/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/longevity · community knowledge",
-      "content_type": "post",
-      "author": "u/dan_in_ca · r/longevity",
-      "handle": "longevity",
-      "org": "r/longevity",
-      "platform": "reddit",
-      "published": "2026-06-17T21:27:39.000Z",
-      "image": "https://external-preview.redd.it/iTaAzadOZXpIwTjkQuvSw5XyksE51vv5GGSrUC_OxoU.png?width=640&crop=smart&auto=webp&s=c905c6c7326294d2e31c56f5ee423f9f38b521f0",
-      "thumbnail": "https://external-preview.redd.it/iTaAzadOZXpIwTjkQuvSw5XyksE51vv5GGSrUC_OxoU.png?width=640&crop=smart&auto=webp&s=c905c6c7326294d2e31c56f5ee423f9f38b521f0",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Longevity",
-      "categories": [
-        "Reddit",
-        "Science",
-        "Longevity",
-        "r/longevity"
-      ],
-      "summary": "Skeletal Muscle Is the Organ of Longevity. The role of cellular senesence in muscle function decline",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/longevity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1u86mgj",
-      "title": "Scientists Find Intriguing Link Between Ozempic and Violent Behavior. The same mechanisms that dampen people's cravings for food might also affect our tendency for violent behavior",
-      "link": "https://www.reddit.com/r/science/comments/1u86mgj/scientists_find_intriguing_link_between_ozempic/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/science · community knowledge",
-      "content_type": "post",
-      "author": "u/Wagamaga · r/science",
-      "handle": "science",
-      "org": "r/science",
-      "platform": "reddit",
-      "published": "2026-06-17T10:40:01.000Z",
-      "image": "https://external-preview.redd.it/PwjdfNTFnsNwPCCLqR8PYgwMflsW9zupfKlmR_A7CIk.jpeg?width=640&crop=smart&auto=webp&s=e4a90a2ed527072e58a32ecca0297e50e5a4b5ce",
-      "thumbnail": "https://external-preview.redd.it/PwjdfNTFnsNwPCCLqR8PYgwMflsW9zupfKlmR_A7CIk.jpeg?width=640&crop=smart&auto=webp&s=e4a90a2ed527072e58a32ecca0297e50e5a4b5ce",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/science"
-      ],
-      "summary": "Scientists Find Intriguing Link Between Ozempic and Violent Behavior. The same mechanisms that dampen people's cravings for food might also affect our tendency for violent behavior",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/science this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1u86boh",
-      "title": "'The retail SSD market has almost disappeared,' says Silicon Motion exec — PC OEMs are buying third-party drives as direct NAND supply dries up",
-      "link": "https://www.reddit.com/r/hardware/comments/1u86boh/the_retail_ssd_market_has_almost_disappeared_says/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/hardware · community knowledge",
-      "content_type": "post",
-      "author": "u/sr_local · r/hardware",
-      "handle": "hardware",
-      "org": "r/hardware",
-      "platform": "reddit",
-      "published": "2026-06-17T10:23:21.000Z",
-      "image": "https://external-preview.redd.it/NESa9Z6tkb8AO4cONaMybpn_MmHNth9yFxbd3Zg8G_4.jpeg?width=640&crop=smart&auto=webp&s=31e7120dd1fb59eed235a983cef9177f3368403f",
-      "thumbnail": "https://external-preview.redd.it/NESa9Z6tkb8AO4cONaMybpn_MmHNth9yFxbd3Zg8G_4.jpeg?width=640&crop=smart&auto=webp&s=31e7120dd1fb59eed235a983cef9177f3368403f",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/hardware"
-      ],
-      "summary": "'The retail SSD market has almost disappeared,' says Silicon Motion exec — PC OEMs are buying third-party drives as direct NAND supply dries up",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/hardware this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1u84mio",
-      "title": "Next-Latent Prediction Transformers [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1u84mio/nextlatent_prediction_transformers_r/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/MachineLearning · community knowledge",
-      "content_type": "post",
-      "author": "u/jayden_teoh_ · r/MachineLearning",
-      "handle": "MachineLearning",
-      "org": "r/MachineLearning",
-      "platform": "reddit",
-      "published": "2026-06-17T08:44:28.000Z",
-      "image": "https://preview.redd.it/efm7zazr2t7h1.png?width=140&height=90&auto=webp&s=c1b7070ca3de62bdc276d7a185c72f6737e6f92e",
-      "thumbnail": "https://preview.redd.it/efm7zazr2t7h1.png?width=140&height=90&auto=webp&s=c1b7070ca3de62bdc276d7a185c72f6737e6f92e",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/MachineLearning"
-      ],
-      "summary": "Microsoft Research Preprint Next-token prediction is myopic. What if transformers learn to predict their own next latent state? Microsoft Research present Next-Latent Prediction (NextLat) : a self-supervised learning method that teaches transformers to form compact world models for reasoning and planning. It also…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/MachineLearning this week"
       ],
       "metrics": {
         "likes": 0,
