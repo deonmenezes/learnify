@@ -1,29 +1,30 @@
 {
-  "generated_at": "2026-06-24T15:47:14.478Z",
+  "generated_at": "2026-06-24T18:03:05.430Z",
   "subs": [
     "MachineLearning",
-    "bodyweightfitness",
-    "robotics",
+    "artificial",
+    "running",
+    "investing",
     "programming",
     "longevity",
     "SkincareAddiction",
     "singularity",
+    "bodyweightfitness",
     "hardware",
-    "investing",
+    "robotics",
     "nutrition",
     "cybersecurity",
     "science",
-    "gadgets",
-    "artificial"
+    "gadgets"
   ],
   "count": 36,
   "by_category": {
     "Coding & Dev Tools": 3,
+    "Fitness": 8,
     "Science": 4,
     "Skincare": 4,
     "AI / ML": 8,
-    "Fitness": 7,
-    "Hardware & Gadgets": 5,
+    "Hardware & Gadgets": 4,
     "Robotics": 2,
     "Startups & Funding": 1,
     "Security": 2
@@ -61,6 +62,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/programming this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1udr1ow",
+      "title": "[DISC] When do you know when you're truly ready to try for Boston or Sub-3hr Marathon?",
+      "link": "https://www.reddit.com/r/running/comments/1udr1ow/disc_when_do_you_know_when_youre_truly_ready_to/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/running · community knowledge",
+      "content_type": "post",
+      "author": "u/cyclingkingsley · r/running",
+      "handle": "running",
+      "org": "r/running",
+      "platform": "reddit",
+      "published": "2026-06-23T19:32:09.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/running"
+      ],
+      "summary": "I&#39;m at week 5 of my marathon block using Hanson&#39;s 18 week Advanced training plan and just recently completed my first official 5K race. Clocked my fastest 5K at 18:45. With the 5K result which exceeded my expectation, I feel like qualifying for Boston or trying for sub-3hr is no longer a dream and it&#39;s…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/running this week"
       ],
       "metrics": {
         "likes": 0,
@@ -739,6 +779,45 @@
       }
     },
     {
+      "id": "reddit_1ubh6nr",
+      "title": "Achievements for Sunday, June 21, 2026",
+      "link": "https://www.reddit.com/r/running/comments/1ubh6nr/achievements_for_sunday_june_21_2026/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/running · community knowledge",
+      "content_type": "post",
+      "author": "u/AutoModerator · r/running",
+      "handle": "running",
+      "org": "r/running",
+      "platform": "reddit",
+      "published": "2026-06-21T05:02:16.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/running"
+      ],
+      "summary": "Hey runners, it&#39;s another day and it is time to post your accomplishments you&#39;d like to share - big or small. Note: No need to preface YOUR accomplishments with something like, &quot;this may not be an accomplishment to most of you...&quot;. Be proud of your achievement. &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/running this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1ubets2",
       "title": "NSA says Mythos broke into almost all of their classified systems in hours, per The Economist",
       "link": "https://www.reddit.com/r/singularity/comments/1ubets2/nsa_says_mythos_broke_into_almost_all_of_their/",
@@ -1175,6 +1254,46 @@
       }
     },
     {
+      "id": "reddit_1uapc81",
+      "title": "Jim Cramer Agrees That Accenture Is “Being Outcompeted By OpenAI and Anthropic”",
+      "link": "https://www.reddit.com/r/artificial/comments/1uapc81/jim_cramer_agrees_that_accenture_is_being/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/artificial · community knowledge",
+      "content_type": "post",
+      "author": "u/ThereWas · r/artificial",
+      "handle": "artificial",
+      "org": "r/artificial",
+      "platform": "reddit",
+      "published": "2026-06-20T06:33:02.000Z",
+      "image": "https://external-preview.redd.it/8kZV8OJ9pdl9-Od7Wido9Bby5c7TxqIZRNeFw9GKT_s.jpeg?width=640&crop=smart&auto=webp&s=e45cc26ade7d12170bbdd99b539044a64546a6da",
+      "thumbnail": "https://external-preview.redd.it/8kZV8OJ9pdl9-Od7Wido9Bby5c7TxqIZRNeFw9GKT_s.jpeg?width=640&crop=smart&auto=webp&s=e45cc26ade7d12170bbdd99b539044a64546a6da",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/artificial"
+      ],
+      "summary": "Jim Cramer Agrees That Accenture Is “Being Outcompeted By OpenAI and Anthropic”",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/artificial this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1uan5xs",
       "title": "Nothing cancels this year’s CMF phone due to RAM prices",
       "link": "https://www.reddit.com/r/gadgets/comments/1uan5xs/nothing_cancels_this_years_cmf_phone_due_to_ram/",
@@ -1323,125 +1442,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/cybersecurity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1u9t335",
-      "title": "Google has discontinued the Nest Home Mini and Nest Audio",
-      "link": "https://www.reddit.com/r/gadgets/comments/1u9t335/google_has_discontinued_the_nest_home_mini_and/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/gadgets · community knowledge",
-      "content_type": "post",
-      "author": "u/dapperlemon · r/gadgets",
-      "handle": "gadgets",
-      "org": "r/gadgets",
-      "platform": "reddit",
-      "published": "2026-06-19T05:21:24.000Z",
-      "image": "https://external-preview.redd.it/g10DyEZNZz6AZ6j0JYJJgx1U3ghbOBYEr9ycdvExTsk.jpeg?width=640&crop=smart&auto=webp&s=224a411ebfbe0119d99b25193900217bcc8cfc28",
-      "thumbnail": "https://external-preview.redd.it/g10DyEZNZz6AZ6j0JYJJgx1U3ghbOBYEr9ycdvExTsk.jpeg?width=640&crop=smart&auto=webp&s=224a411ebfbe0119d99b25193900217bcc8cfc28",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/gadgets"
-      ],
-      "summary": "Google has discontinued the Nest Home Mini and Nest Audio",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/gadgets this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1u9qu4n",
-      "title": "What is your go-to protein snack?",
-      "link": "https://www.reddit.com/r/nutrition/comments/1u9qu4n/what_is_your_goto_protein_snack/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/nutrition · community knowledge",
-      "content_type": "post",
-      "author": "u/Orual309 · r/nutrition",
-      "handle": "nutrition",
-      "org": "r/nutrition",
-      "platform": "reddit",
-      "published": "2026-06-19T03:25:01.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Nutrition",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "Nutrition",
-        "r/nutrition"
-      ],
-      "summary": "Maybe it&#39;s between meals, or maybe it&#39;s a midnight snack, but your stomach is growling and it&#39;s not mealtime. What are you snacking on? &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/nutrition this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1u9ifn2",
-      "title": "Bernie Sanders wants to give every American $1000 a year from AI profits and the reasoning actually makes sense",
-      "link": "https://www.reddit.com/r/artificial/comments/1u9ifn2/bernie_sanders_wants_to_give_every_american_1000/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/artificial · community knowledge",
-      "content_type": "post",
-      "author": "u/Neil_at_HackerEarth · r/artificial",
-      "handle": "artificial",
-      "org": "r/artificial",
-      "platform": "reddit",
-      "published": "2026-06-18T21:05:42.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/artificial"
-      ],
-      "summary": "Saw this on Gizmodo today and it&#39;s been stuck in my head The argument is simple. AI learned from everyone&#39;s writing, art, code, conversations and companies are now worth trillions because of that. so why is none of it coming back to the people whose work built it The bill would create a $7 trillion fund, give…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/artificial this week"
       ],
       "metrics": {
         "likes": 0,

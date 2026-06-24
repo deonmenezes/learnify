@@ -1,15 +1,99 @@
 {
-  "generated_at": "2026-06-24T15:45:00.262Z",
+  "generated_at": "2026-06-24T18:00:52.060Z",
   "handles": [
-    "OpenAI",
     "nvidia",
+    "GoogleDeepMind",
     "elonmusk",
     "gdb",
-    "GoogleDeepMind",
+    "NVIDIAAI",
+    "OpenAI",
     "AnthropicAI"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2069809298612621629",
+      "title": "Introducing Jalapeño — designed from scratch for LLM inference over nine months, accelerated by our models. Perf per watt looking incredible.",
+      "link": "https://x.com/gdb/status/2069809298612621629",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Greg Brockman · @gdb",
+      "handle": "gdb",
+      "org": "OpenAI",
+      "published": "2026-06-24T15:46:06.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product launch",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Product launch"
+      ],
+      "summary": "Introducing Jalapeño — designed from scratch for LLM inference over nine months, accelerated by our models. Perf per watt looking incredible.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 85,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "casual tone (incredible)",
+        "announcement language (introducing)",
+        "tech substance (models, inference)",
+        "high engagement (1.3K likes)"
+      ],
+      "metrics": {
+        "likes": 1345,
+        "retweets": 57,
+        "replies": 89,
+        "likes_h": "1.3K"
+      },
+      "engagement": 1548,
+      "hot": false
+    },
+    {
+      "id": "x_2069785314663497966",
+      "title": "What happens when millions of AI agents start negotiating, transacting, and delegating to one another? @weballergy joined our podcast with @fryrsquared to explore the rise of agentic economies – and…",
+      "link": "https://x.com/GoogleDeepMind/status/2069785314663497966",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Google DeepMind · @GoogleDeepMind",
+      "handle": "GoogleDeepMind",
+      "org": "Google",
+      "published": "2026-06-24T14:10:48.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "Google",
+        "Product"
+      ],
+      "summary": "What happens when millions of AI agents start negotiating, transacting, and delegating to one another? @weballergy joined our podcast with @fryrsquared to explore the rise of agentic economies – and how we can diversify agent decision-making to avoid AI groupthink. Timecodes:",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 80,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (agent, agents)"
+      ],
+      "metrics": {
+        "likes": 336,
+        "retweets": 44,
+        "replies": 41,
+        "likes_h": "336"
+      },
+      "engagement": 465,
+      "hot": false
+    },
     {
       "id": "x_2069770172802773292",
       "title": "We’ve designed and built our first AI chip: Jalapeño. Designed from the ground up by OpenAI and brought to production with @Broadcom, Jalapeño is purpose-built for the LLM workloads powering ChatGPT,…",
@@ -83,12 +167,12 @@
         "tech substance (research)"
       ],
       "metrics": {
-        "likes": 205,
-        "retweets": 33,
-        "replies": 24,
-        "likes_h": "205"
+        "likes": 252,
+        "retweets": 41,
+        "replies": 30,
+        "likes_h": "252"
       },
-      "engagement": 295,
+      "engagement": 364,
       "hot": false
     },
     {
@@ -165,12 +249,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 260,
-        "retweets": 47,
-        "replies": 23,
-        "likes_h": "260"
+        "likes": 310,
+        "retweets": 51,
+        "replies": 28,
+        "likes_h": "310"
       },
-      "engagement": 377,
+      "engagement": 440,
       "hot": false
     },
     {
@@ -205,12 +289,12 @@
         "tech substance (models, nemotron, agent)"
       ],
       "metrics": {
-        "likes": 429,
-        "retweets": 65,
-        "replies": 44,
-        "likes_h": "429"
+        "likes": 513,
+        "retweets": 75,
+        "replies": 49,
+        "likes_h": "513"
       },
-      "engagement": 603,
+      "engagement": 712,
       "hot": false
     },
     {
@@ -243,15 +327,15 @@
       "reasons": [
         "report-worthy",
         "business signal (funding)",
-        "high engagement (73.3K likes)"
+        "high engagement (90.2K likes)"
       ],
       "metrics": {
-        "likes": 73303,
-        "retweets": 15659,
-        "replies": 4544,
-        "likes_h": "73.3K"
+        "likes": 90215,
+        "retweets": 19771,
+        "replies": 5441,
+        "likes_h": "90.2K"
       },
-      "engagement": 109165,
+      "engagement": 135198,
       "hot": true
     },
     {
@@ -287,12 +371,12 @@
         "tech substance (models, agents)"
       ],
       "metrics": {
-        "likes": 167,
-        "retweets": 20,
-        "replies": 24,
-        "likes_h": "167"
+        "likes": 187,
+        "retweets": 23,
+        "replies": 27,
+        "likes_h": "187"
       },
-      "engagement": 231,
+      "engagement": 260,
       "hot": false
     },
     {
@@ -325,15 +409,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (data center)",
-        "high engagement (29.2K likes)"
+        "high engagement (29.7K likes)"
       ],
       "metrics": {
-        "likes": 29175,
-        "retweets": 4380,
-        "replies": 1380,
-        "likes_h": "29.2K"
+        "likes": 29698,
+        "retweets": 4471,
+        "replies": 1414,
+        "likes_h": "29.7K"
       },
-      "engagement": 39315,
+      "engagement": 40054,
       "hot": true
     },
     {
@@ -582,12 +666,12 @@
         "high engagement (1.4K likes)"
       ],
       "metrics": {
-        "likes": 1397,
-        "retweets": 152,
-        "replies": 81,
+        "likes": 1413,
+        "retweets": 153,
+        "replies": 82,
         "likes_h": "1.4K"
       },
-      "engagement": 1782,
+      "engagement": 1801,
       "hot": false
     },
     {
@@ -623,12 +707,12 @@
         "high engagement (1.9K likes)"
       ],
       "metrics": {
-        "likes": 1888,
-        "retweets": 249,
-        "replies": 178,
+        "likes": 1894,
+        "retweets": 250,
+        "replies": 179,
         "likes_h": "1.9K"
       },
-      "engagement": 2564,
+      "engagement": 2573,
       "hot": false
     },
     {
@@ -797,7 +881,7 @@
         "likes_h": "3K"
       },
       "engagement": 3962,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2067594863785173257",
@@ -830,12 +914,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 603,
+        "likes": 606,
         "retweets": 86,
         "replies": 87,
-        "likes_h": "603"
+        "likes_h": "606"
       },
-      "engagement": 862,
+      "engagement": 865,
       "hot": false
     },
     {
@@ -918,7 +1002,7 @@
         "likes_h": "3.1K"
       },
       "engagement": 3922,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2067346918746030496",
@@ -1247,90 +1331,6 @@
       },
       "engagement": 3216,
       "hot": false
-    },
-    {
-      "id": "x_2066969542010806561",
-      "title": "These and other measures will allow us to track consequential shifts in the nature of work as they happen—we'll incorporate some of them into the Anthropic Economic Index going forward. Read the full…",
-      "link": "https://x.com/AnthropicAI/status/2066969542010806561",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Anthropic · @AnthropicAI",
-      "handle": "AnthropicAI",
-      "org": "Anthropic",
-      "published": "2026-06-16T19:41:55.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "Anthropic",
-        "Research"
-      ],
-      "summary": "These and other measures will allow us to track consequential shifts in the nature of work as they happen—we'll incorporate some of them into the Anthropic Economic Index going forward. Read the full report: https://www.anthropic.com/research/claude-code-expertise",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 58,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "reply / conversation",
-        "tech substance (claude, research)",
-        "links to a source"
-      ],
-      "metrics": {
-        "likes": 293,
-        "retweets": 26,
-        "replies": 105,
-        "likes_h": "293"
-      },
-      "engagement": 450,
-      "hot": false
-    },
-    {
-      "id": "x_2066969532380721386",
-      "title": "Our latest economic research introduces a framework for tracking Claude Code as it scales. Who is using Claude Code, and what are they using it for? How is the value of tasks changing? And how much…",
-      "link": "https://x.com/AnthropicAI/status/2066969532380721386",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Anthropic · @AnthropicAI",
-      "handle": "AnthropicAI",
-      "org": "Anthropic",
-      "published": "2026-06-16T19:41:53.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "Anthropic",
-        "Research"
-      ],
-      "summary": "Our latest economic research introduces a framework for tracking Claude Code as it scales. Who is using Claude Code, and what are they using it for? How is the value of tasks changing? And how much does domain expertise shape whether a session succeeds? https://www.anthropic.com/research/claude-code-expertise",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 89,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (claude, research)",
-        "links to a source",
-        "high engagement (3.5K likes)"
-      ],
-      "metrics": {
-        "likes": 3501,
-        "retweets": 377,
-        "replies": 492,
-        "likes_h": "3.5K"
-      },
-      "engagement": 4747,
-      "hot": true
     }
   ]
 }
