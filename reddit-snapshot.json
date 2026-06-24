@@ -1,21 +1,24 @@
 {
-  "generated_at": "2026-06-24T03:58:25.877Z",
+  "generated_at": "2026-06-24T07:48:42.855Z",
   "subs": [
     "MachineLearning",
+    "science",
+    "cybersecurity",
     "longevity",
-    "hardware",
     "SkincareAddiction",
     "singularity",
+    "hardware",
     "nutrition",
     "gadgets"
   ],
-  "count": 29,
+  "count": 36,
   "by_category": {
-    "Science": 4,
+    "Science": 8,
     "Skincare": 4,
     "AI / ML": 9,
-    "Hardware & Gadgets": 8,
-    "Fitness": 4
+    "Hardware & Gadgets": 7,
+    "Fitness": 4,
+    "Security": 4
   },
   "articles": [
     {
@@ -613,6 +616,45 @@
       }
     },
     {
+      "id": "reddit_1ub1t1p",
+      "title": "Anyone else tired of \"Cyber Influencers\" on LinkedIN?",
+      "link": "https://www.reddit.com/r/cybersecurity/comments/1ub1t1p/anyone_else_tired_of_cyber_influencers_on_linkedin/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/cybersecurity · community knowledge",
+      "content_type": "post",
+      "author": "u/neoslashnet · r/cybersecurity",
+      "handle": "cybersecurity",
+      "org": "r/cybersecurity",
+      "platform": "reddit",
+      "published": "2026-06-20T17:08:00.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/cybersecurity"
+      ],
+      "summary": "I have put up with them for years now but I just gotta say it&#39;s getting worse. I see so many damn people who worked in the industry for about 3 years and then try to sell their books and content and other BS. It&#39;s so fucking annoying. &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/cybersecurity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1uazlnd",
       "title": "Hi Reddit, I posted my Build Your Own LLM workshop to Youtube teaching ML, LLM and math intuition [P]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1uazlnd/hi_reddit_i_posted_my_build_your_own_llm_workshop/",
@@ -685,6 +727,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uatwr9",
+      "title": "Two-year, placebo-controlled, double-blinded clinical trial results show supplements with omega-3s (like fish oil) have no effect on memory or cognitive function in older adults at risk for Alzheimer’s disease, despite showing evidence that the nutrients directly reach the brain",
+      "link": "https://www.reddit.com/r/science/comments/1uatwr9/twoyear_placebocontrolled_doubleblinded_clinical/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/science · community knowledge",
+      "content_type": "post",
+      "author": "u/sr_local · r/science",
+      "handle": "science",
+      "org": "r/science",
+      "platform": "reddit",
+      "published": "2026-06-20T11:09:22.000Z",
+      "image": "https://external-preview.redd.it/QkRsrl-1q73xiHarTJhOvia6Xb3Ft6xYR38CLz-t3fY.jpeg?width=640&crop=smart&auto=webp&s=6ca3c48cb71f4b5701fec1ee72fcf4ec3f474be2",
+      "thumbnail": "https://external-preview.redd.it/QkRsrl-1q73xiHarTJhOvia6Xb3Ft6xYR38CLz-t3fY.jpeg?width=640&crop=smart&auto=webp&s=6ca3c48cb71f4b5701fec1ee72fcf4ec3f474be2",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/science"
+      ],
+      "summary": "Two-year, placebo-controlled, double-blinded clinical trial results show supplements with omega-3s (like fish oil) have no effect on memory or cognitive function in older adults at risk for Alzheimer’s disease, despite showing evidence that the nutrients directly reach the brain",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/science this week"
       ],
       "metrics": {
         "likes": 0,
@@ -851,6 +932,45 @@
       }
     },
     {
+      "id": "reddit_1u9tqbl",
+      "title": "The first unpatchable iPhone exploit in six years targets chips still running Apple's latest iOS",
+      "link": "https://www.reddit.com/r/cybersecurity/comments/1u9tqbl/the_first_unpatchable_iphone_exploit_in_six_years/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/cybersecurity · community knowledge",
+      "content_type": "post",
+      "author": "u/rkhunter_ · r/cybersecurity",
+      "handle": "cybersecurity",
+      "org": "r/cybersecurity",
+      "platform": "reddit",
+      "published": "2026-06-19T05:56:40.000Z",
+      "image": "https://external-preview.redd.it/TQ38LatmC_7B-PZfj407yyTSFgwE5ocPMZYR_dXNfVo.jpeg?width=640&crop=smart&auto=webp&s=691c2a67a1bea89e0486faeec779206265fa06fb",
+      "thumbnail": "https://external-preview.redd.it/TQ38LatmC_7B-PZfj407yyTSFgwE5ocPMZYR_dXNfVo.jpeg?width=640&crop=smart&auto=webp&s=691c2a67a1bea89e0486faeec779206265fa06fb",
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/cybersecurity"
+      ],
+      "summary": "The first unpatchable iPhone exploit in six years targets chips still running Apple's latest iOS",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/cybersecurity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1u9t335",
       "title": "Google has discontinued the Nest Home Mini and Nest Audio",
       "link": "https://www.reddit.com/r/gadgets/comments/1u9t335/google_has_discontinued_the_nest_home_mini_and/",
@@ -969,6 +1089,123 @@
       }
     },
     {
+      "id": "reddit_1u99k64",
+      "title": "The World's Richest Population are Costing the Earth Trillions. Study finds the top 10% of global consumers is disproportionately responsible for transgressing planetary boundaries, causing damages for which broader society bears the costs.",
+      "link": "https://www.reddit.com/r/science/comments/1u99k64/the_worlds_richest_population_are_costing_the/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/science · community knowledge",
+      "content_type": "post",
+      "author": "u/FreeHugs23 · r/science",
+      "handle": "science",
+      "org": "r/science",
+      "platform": "reddit",
+      "published": "2026-06-18T15:34:29.000Z",
+      "image": "https://external-preview.redd.it/28AgVDtpwguSVHOrQJDR5FCF3Om8T8MZ7jUGzNwmThs.jpeg?width=640&crop=smart&auto=webp&s=79c479953ced37057b8a79df23bf031f1e9aaaa1",
+      "thumbnail": "https://external-preview.redd.it/28AgVDtpwguSVHOrQJDR5FCF3Om8T8MZ7jUGzNwmThs.jpeg?width=640&crop=smart&auto=webp&s=79c479953ced37057b8a79df23bf031f1e9aaaa1",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/science"
+      ],
+      "summary": "The World's Richest Population are Costing the Earth Trillions. Study finds the top 10% of global consumers is disproportionately responsible for transgressing planetary boundaries, causing damages for which broader society bears the costs.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/science this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1u8z7sm",
+      "title": "AMD silently removes memory encryption from consumer Ryzen CPUs, leaving users unaware that they may be vulnerable — security feature vanishes after newer AGESA firmware, AMD engineers go radio silent when pressed about the change",
+      "link": "https://www.reddit.com/r/cybersecurity/comments/1u8z7sm/amd_silently_removes_memory_encryption_from/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/cybersecurity · community knowledge",
+      "content_type": "post",
+      "author": "u/Dash-Courageous · r/cybersecurity",
+      "handle": "cybersecurity",
+      "org": "r/cybersecurity",
+      "platform": "reddit",
+      "published": "2026-06-18T07:04:35.000Z",
+      "image": "https://external-preview.redd.it/oQ6vpooS5QGeiugJ7BSa-X6_CkmzEbWk5fSVRYaew5M.jpeg?width=640&crop=smart&auto=webp&s=3798038297404dc5dedef6fdf5a8a57dd278da2f",
+      "thumbnail": "https://external-preview.redd.it/oQ6vpooS5QGeiugJ7BSa-X6_CkmzEbWk5fSVRYaew5M.jpeg?width=640&crop=smart&auto=webp&s=3798038297404dc5dedef6fdf5a8a57dd278da2f",
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/cybersecurity"
+      ],
+      "summary": "AMD silently removes memory encryption from consumer Ryzen CPUs, leaving users unaware that they may be vulnerable — security feature vanishes after newer AGESA firmware, AMD engineers go radio silent when pressed about the change",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/cybersecurity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1u8yz1r",
+      "title": "Massive database with 24 billion credentials found exposed online",
+      "link": "https://www.reddit.com/r/cybersecurity/comments/1u8yz1r/massive_database_with_24_billion_credentials/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/cybersecurity · community knowledge",
+      "content_type": "post",
+      "author": "u/chota-kaka · r/cybersecurity",
+      "handle": "cybersecurity",
+      "org": "r/cybersecurity",
+      "platform": "reddit",
+      "published": "2026-06-18T06:50:27.000Z",
+      "image": "https://external-preview.redd.it/f7cXbf5VF5jmpekM8y7Eb1MUUZS9MO77pwhk35-kDoI.jpeg?width=640&crop=smart&auto=webp&s=e4b41f50ee5ae49e6a75fc5cf0fa253531008f98",
+      "thumbnail": "https://external-preview.redd.it/f7cXbf5VF5jmpekM8y7Eb1MUUZS9MO77pwhk35-kDoI.jpeg?width=640&crop=smart&auto=webp&s=e4b41f50ee5ae49e6a75fc5cf0fa253531008f98",
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/cybersecurity"
+      ],
+      "summary": "It’s beyond reasonable expectation that companies that we entrust our sensitive information will be charged with said security. &#x200B; In the case of a total breach, there should be recourse for those who had their data exposed. Why isn’t there a larger push for this? Historically the answer has always been kind of…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/cybersecurity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1u8tbob",
       "title": "Midjourney, The Image Generation Company, Just Built the Sequel to the MRI",
       "link": "https://www.reddit.com/r/singularity/comments/1u8tbob/midjourney_the_image_generation_company_just/",
@@ -1009,6 +1246,45 @@
       }
     },
     {
+      "id": "reddit_1u8rfeq",
+      "title": "Roughly 90-120 minutes of strength training per week linked with a 13% reduced risk of premature death, in study involving three decades’ worth of data from nearly 150,000 adults",
+      "link": "https://www.reddit.com/r/science/comments/1u8rfeq/roughly_90120_minutes_of_strength_training_per/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/science · community knowledge",
+      "content_type": "post",
+      "author": "u/marketrent · r/science",
+      "handle": "science",
+      "org": "r/science",
+      "platform": "reddit",
+      "published": "2026-06-18T00:25:19.000Z",
+      "image": "https://external-preview.redd.it/k3t1aKoUeiaHLNqD08RJh3w8_8rAzfJq9NqoUV5nd0A.jpeg?width=640&crop=smart&auto=webp&s=2e367cfdfd0dc969202a9f8cd94133867aaab8c2",
+      "thumbnail": "https://external-preview.redd.it/k3t1aKoUeiaHLNqD08RJh3w8_8rAzfJq9NqoUV5nd0A.jpeg?width=640&crop=smart&auto=webp&s=2e367cfdfd0dc969202a9f8cd94133867aaab8c2",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/science"
+      ],
+      "summary": "Roughly 90-120 minutes of strength training per week linked with a 13% reduced risk of premature death, in study involving three decades’ worth of data from nearly 150,000 adults",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/science this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1u8n71p",
       "title": "Skeletal Muscle Is the Organ of Longevity. The role of cellular senesence in muscle function decline",
       "link": "https://www.reddit.com/r/longevity/comments/1u8n71p/skeletal_muscle_is_the_organ_of_longevity_the/",
@@ -1041,6 +1317,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/longevity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1u86mgj",
+      "title": "Scientists Find Intriguing Link Between Ozempic and Violent Behavior. The same mechanisms that dampen people's cravings for food might also affect our tendency for violent behavior",
+      "link": "https://www.reddit.com/r/science/comments/1u86mgj/scientists_find_intriguing_link_between_ozempic/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/science · community knowledge",
+      "content_type": "post",
+      "author": "u/Wagamaga · r/science",
+      "handle": "science",
+      "org": "r/science",
+      "platform": "reddit",
+      "published": "2026-06-17T10:40:01.000Z",
+      "image": "https://external-preview.redd.it/PwjdfNTFnsNwPCCLqR8PYgwMflsW9zupfKlmR_A7CIk.jpeg?width=640&crop=smart&auto=webp&s=e4a90a2ed527072e58a32ecca0297e50e5a4b5ce",
+      "thumbnail": "https://external-preview.redd.it/PwjdfNTFnsNwPCCLqR8PYgwMflsW9zupfKlmR_A7CIk.jpeg?width=640&crop=smart&auto=webp&s=e4a90a2ed527072e58a32ecca0297e50e5a4b5ce",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/science"
+      ],
+      "summary": "Scientists Find Intriguing Link Between Ozempic and Violent Behavior. The same mechanisms that dampen people's cravings for food might also affect our tendency for violent behavior",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/science this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1120,45 +1435,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1u83aot",
-      "title": "Kodak's adorable Charmera camera gets new Y2K-inspired designs",
-      "link": "https://www.reddit.com/r/gadgets/comments/1u83aot/kodaks_adorable_charmera_camera_gets_new/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/gadgets · community knowledge",
-      "content_type": "post",
-      "author": "u/dapperlemon · r/gadgets",
-      "handle": "gadgets",
-      "org": "r/gadgets",
-      "platform": "reddit",
-      "published": "2026-06-17T07:24:28.000Z",
-      "image": "https://external-preview.redd.it/sQKwu43hVi5HdrbaN8OW6kEwdXpUXp9HVRoCRzFqExY.jpeg?width=640&crop=smart&auto=webp&s=aafcb07ac3c084ccb3364e1b05db3c80cc0462af",
-      "thumbnail": "https://external-preview.redd.it/sQKwu43hVi5HdrbaN8OW6kEwdXpUXp9HVRoCRzFqExY.jpeg?width=640&crop=smart&auto=webp&s=aafcb07ac3c084ccb3364e1b05db3c80cc0462af",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/gadgets"
-      ],
-      "summary": "Kodak's adorable Charmera camera gets new Y2K-inspired designs",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/gadgets this week"
       ],
       "metrics": {
         "likes": 0,

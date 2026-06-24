@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-24T03:56:14.346Z",
+  "generated_at": "2026-06-24T07:46:28.943Z",
   "handles": [
-    "AnthropicAI",
-    "OpenAI",
     "nvidia",
+    "GoogleDeepMind",
     "elonmusk",
     "gdb",
-    "GoogleDeepMind"
+    "OpenAI",
+    "AnthropicAI"
   ],
   "count": 32,
   "articles": [
@@ -34,7 +34,7 @@
       "summary": "For the past two years, an NVIDIA AI infrastructure contribution to the NAIRR pilot has helped power over 700 U.S. research projects. With DGX reference architecture providing dedicated resources, researchers have uncovered groundbreaking technologies that will reshape and",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 71,
+      "worthiness_score": 74,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -42,12 +42,12 @@
         "tech substance (research)"
       ],
       "metrics": {
-        "likes": 65,
-        "retweets": 14,
-        "replies": 10,
-        "likes_h": "65"
+        "likes": 178,
+        "retweets": 28,
+        "replies": 22,
+        "likes_h": "178"
       },
-      "engagement": 103,
+      "engagement": 256,
       "hot": false
     },
     {
@@ -115,7 +115,7 @@
       "summary": "The latest supercomputing rankings are in - NVIDIA is powering 81% of the TOP500 and 89% of all new systems, in addition to: ⚡2x the AI training throughput of all other platforms combined ⚡3x the AI inference throughput ⚡The top 8 most energy-efficient systems on the Green500",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 86,
+      "worthiness_score": 87,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -124,12 +124,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 153,
-        "retweets": 30,
-        "replies": 14,
-        "likes_h": "153"
+        "likes": 248,
+        "retweets": 44,
+        "replies": 22,
+        "likes_h": "248"
       },
-      "engagement": 227,
+      "engagement": 358,
       "hot": false
     },
     {
@@ -156,7 +156,7 @@
       "summary": "Specialized AI agents help enterprises turn AI into systems built for their own workflows. NVIDIA Agent Toolkit brings together open Nemotron models, tools, skills and secure runtime support to help teams build agents tuned for domain-specific work. Learn more:",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 90,
+      "worthiness_score": 91,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -164,12 +164,12 @@
         "tech substance (models, nemotron, agent)"
       ],
       "metrics": {
-        "likes": 307,
-        "retweets": 48,
-        "replies": 34,
-        "likes_h": "307"
+        "likes": 406,
+        "retweets": 62,
+        "replies": 44,
+        "likes_h": "406"
       },
-      "engagement": 437,
+      "engagement": 574,
       "hot": false
     },
     {
@@ -202,15 +202,15 @@
       "reasons": [
         "report-worthy",
         "business signal (funding)",
-        "high engagement (46.7K likes)"
+        "high engagement (68.6K likes)"
       ],
       "metrics": {
-        "likes": 46711,
-        "retweets": 9473,
-        "replies": 3088,
-        "likes_h": "46.7K"
+        "likes": 68602,
+        "retweets": 14477,
+        "replies": 4288,
+        "likes_h": "68.6K"
       },
-      "engagement": 68745,
+      "engagement": 101844,
       "hot": true
     },
     {
@@ -238,7 +238,7 @@
       "summary": "📣 NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations At #DTWIgnite, together with our partners, we are showcasing the data, models, simulation and secure runtime stack enabling telcos to build more secure agentic workflows across autonomous networks and operations. 📖",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 77,
+      "worthiness_score": 78,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -246,12 +246,12 @@
         "tech substance (models, agents)"
       ],
       "metrics": {
-        "likes": 120,
-        "retweets": 13,
-        "replies": 17,
-        "likes_h": "120"
+        "likes": 158,
+        "retweets": 19,
+        "replies": 23,
+        "likes_h": "158"
       },
-      "engagement": 163,
+      "engagement": 219,
       "hot": false
     },
     {
@@ -284,15 +284,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (data center)",
-        "high engagement (28.1K likes)"
+        "high engagement (29K likes)"
       ],
       "metrics": {
-        "likes": 28097,
-        "retweets": 4235,
-        "replies": 1341,
-        "likes_h": "28.1K"
+        "likes": 28986,
+        "retweets": 4362,
+        "replies": 1373,
+        "likes_h": "29K"
       },
-      "engagement": 37908,
+      "engagement": 39083,
       "hot": true
     },
     {
@@ -328,12 +328,12 @@
         "high engagement (1.4K likes)"
       ],
       "metrics": {
-        "likes": 1390,
-        "retweets": 73,
-        "replies": 100,
+        "likes": 1421,
+        "retweets": 74,
+        "replies": 101,
         "likes_h": "1.4K"
       },
-      "engagement": 1636,
+      "engagement": 1670,
       "hot": false
     },
     {
@@ -540,12 +540,12 @@
         "high engagement (1.4K likes)"
       ],
       "metrics": {
-        "likes": 1362,
-        "retweets": 147,
-        "replies": 77,
+        "likes": 1389,
+        "retweets": 150,
+        "replies": 80,
         "likes_h": "1.4K"
       },
-      "engagement": 1733,
+      "engagement": 1769,
       "hot": false
     },
     {
@@ -581,12 +581,12 @@
         "high engagement (1.9K likes)"
       ],
       "metrics": {
-        "likes": 1883,
-        "retweets": 246,
+        "likes": 1885,
+        "retweets": 247,
         "replies": 178,
         "likes_h": "1.9K"
       },
-      "engagement": 2553,
+      "engagement": 2557,
       "hot": false
     },
     {
@@ -755,7 +755,7 @@
         "likes_h": "3K"
       },
       "engagement": 3962,
-      "hot": false
+      "hot": true
     },
     {
       "id": "x_2067594863785173257",
@@ -788,10 +788,10 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 601,
-        "retweets": 86,
+        "likes": 603,
+        "retweets": 85,
         "replies": 87,
-        "likes_h": "601"
+        "likes_h": "603"
       },
       "engagement": 860,
       "hot": false
@@ -1033,12 +1033,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 281,
+        "likes": 283,
         "retweets": 46,
         "replies": 41,
-        "likes_h": "281"
+        "likes_h": "283"
       },
-      "engagement": 414,
+      "engagement": 416,
       "hot": false
     },
     {
