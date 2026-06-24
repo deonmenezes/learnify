@@ -1,28 +1,31 @@
 {
-  "generated_at": "2026-06-24T13:28:45.113Z",
+  "generated_at": "2026-06-24T15:47:14.478Z",
   "subs": [
     "MachineLearning",
+    "bodyweightfitness",
+    "robotics",
     "programming",
-    "cybersecurity",
     "longevity",
     "SkincareAddiction",
     "singularity",
     "hardware",
     "investing",
     "nutrition",
+    "cybersecurity",
     "science",
     "gadgets",
     "artificial"
   ],
   "count": 36,
   "by_category": {
-    "Coding & Dev Tools": 4,
-    "Science": 5,
+    "Coding & Dev Tools": 3,
+    "Science": 4,
     "Skincare": 4,
-    "AI / ML": 9,
-    "Hardware & Gadgets": 6,
-    "Startups & Funding": 2,
-    "Fitness": 4,
+    "AI / ML": 8,
+    "Fitness": 7,
+    "Hardware & Gadgets": 5,
+    "Robotics": 2,
+    "Startups & Funding": 1,
     "Security": 2
   },
   "articles": [
@@ -263,6 +266,45 @@
       }
     },
     {
+      "id": "reddit_1ucs1gt",
+      "title": "Just did my first strict pull up at 260lbs, 25 years old!",
+      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1ucs1gt/just_did_my_first_strict_pull_up_at_260lbs_25/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/bodyweightfitness · community knowledge",
+      "content_type": "post",
+      "author": "u/EsotericAstronaut · r/bodyweightfitness",
+      "handle": "bodyweightfitness",
+      "org": "r/bodyweightfitness",
+      "platform": "reddit",
+      "published": "2026-06-22T18:04:18.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/bodyweightfitness"
+      ],
+      "summary": "For context, I used to weigh 395lbs, so it was a journey to say the least. It took me around 4 years to lose 135 lbs. I lost the weight by sprinting 1 mile a day, weight lifted 4 times a week, and made an effort of counting my calories and eating more protein. I was able to get the bar to my chest and it was such a…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/bodyweightfitness this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1ucrq5y",
       "title": "[IGN] Steam Machine Price Was Originally Meant to Be About $750",
       "link": "https://www.reddit.com/r/hardware/comments/1ucrq5y/ign_steam_machine_price_was_originally_meant_to/",
@@ -302,6 +344,45 @@
       }
     },
     {
+      "id": "reddit_1ucl3or",
+      "title": "Building a Humanoid Robot From Scratch",
+      "link": "https://www.reddit.com/r/robotics/comments/1ucl3or/building_a_humanoid_robot_from_scratch/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/robotics · community knowledge",
+      "content_type": "post",
+      "author": "u/RoboDIYer · r/robotics",
+      "handle": "robotics",
+      "org": "r/robotics",
+      "platform": "reddit",
+      "published": "2026-06-22T13:49:02.000Z",
+      "image": "https://preview.redd.it/evjz4n3q9u8h1.jpg?width=140&height=105&auto=webp&s=bdbff8e78d58a5b80437a5c73b11d5ad3be6c315",
+      "thumbnail": "https://preview.redd.it/evjz4n3q9u8h1.jpg?width=140&height=105&auto=webp&s=bdbff8e78d58a5b80437a5c73b11d5ad3be6c315",
+      "section": "Robotics",
+      "category": "Robotics",
+      "genre": "Robotics",
+      "categories": [
+        "Reddit",
+        "Robotics",
+        "r/robotics"
+      ],
+      "summary": "I designed and built this 16-DOF humanoid robot using low-cost servos and fully 3D-printed parts. I’m currently working on the bipedal walking system and developing the locomotion algorithms based on the robot’s forward and inverse kinematics. I’ll be sharing more updates soon! Here’s a short video showing the…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/robotics this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1ucj3ag",
       "title": "SK Hynix overtakes Samsung as Korea’s most valuable company",
       "link": "https://www.reddit.com/r/hardware/comments/1ucj3ag/sk_hynix_overtakes_samsung_as_koreas_most/",
@@ -333,6 +414,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/hardware this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1ucam3p",
+      "title": "Is there an exercise routine to help with better sex?",
+      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1ucam3p/is_there_an_exercise_routine_to_help_with_better/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/bodyweightfitness · community knowledge",
+      "content_type": "post",
+      "author": "u/Icy-Astronomer-9015 · r/bodyweightfitness",
+      "handle": "bodyweightfitness",
+      "org": "r/bodyweightfitness",
+      "platform": "reddit",
+      "published": "2026-06-22T04:24:03.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/bodyweightfitness"
+      ],
+      "summary": "Please be serious. I&#39;m asking for this in earnest. My husband and I are highschool sweethearts who have been together for 20 years. We are too unfit to have intercourse to completion. If he&#39;s on top, then he winds up with leg or ass cramps and loses his erection. If I&#39;m on top, my knees start dislocating…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/bodyweightfitness this week"
       ],
       "metrics": {
         "likes": 0,
@@ -580,6 +700,45 @@
       }
     },
     {
+      "id": "reddit_1ubkv4u",
+      "title": "Demo of quadruped robot navigating low barrier with wall support",
+      "link": "https://www.reddit.com/r/robotics/comments/1ubkv4u/demo_of_quadruped_robot_navigating_low_barrier/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/robotics · community knowledge",
+      "content_type": "post",
+      "author": "u/Nunki08 · r/robotics",
+      "handle": "robotics",
+      "org": "r/robotics",
+      "platform": "reddit",
+      "published": "2026-06-21T08:39:12.000Z",
+      "image": "https://external-preview.redd.it/d2U1MW5xcjhsbDhoMU0nKFvGDy5btRBujkWIqlj-Rd6h4GYCXwi8IyQJGVoL.png?width=640&crop=smart&auto=webp&s=f0ffbfeed8436043b64ab96dd89a9aa5a5771d49",
+      "thumbnail": "https://external-preview.redd.it/d2U1MW5xcjhsbDhoMU0nKFvGDy5btRBujkWIqlj-Rd6h4GYCXwi8IyQJGVoL.png?width=640&crop=smart&auto=webp&s=f0ffbfeed8436043b64ab96dd89a9aa5a5771d49",
+      "section": "Robotics",
+      "category": "Robotics",
+      "genre": "Robotics",
+      "categories": [
+        "Reddit",
+        "Robotics",
+        "r/robotics"
+      ],
+      "summary": "From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2067833855017353691 &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/robotics this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1ubets2",
       "title": "NSA says Mythos broke into almost all of their classified systems in hours, per The Economist",
       "link": "https://www.reddit.com/r/singularity/comments/1ubets2/nsa_says_mythos_broke_into_almost_all_of_their/",
@@ -731,6 +890,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/nutrition this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1ub6205",
+      "title": "Why \"chicken wing\" muscle up is so unpopular in more western countries?",
+      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1ub6205/why_chicken_wing_muscle_up_is_so_unpopular_in/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/bodyweightfitness · community knowledge",
+      "content_type": "post",
+      "author": "u/WayIndependent6497 · r/bodyweightfitness",
+      "handle": "bodyweightfitness",
+      "org": "r/bodyweightfitness",
+      "platform": "reddit",
+      "published": "2026-06-20T20:02:25.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/bodyweightfitness"
+      ],
+      "summary": "In Russia, Ukraine and Belarus everyone&#39;s next step after 10 pull ups was &quot;chicken wing&quot; and then came standard two arm muscle up i remember back then some people really made online courses just to get to chicken wing or whatever you guys call it. I rarely see anyone in Europe doing it and only post i…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/bodyweightfitness this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1244,203 +1442,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/artificial this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1u9fwfx",
-      "title": "Started maintaining a small library at work and now I genuinely understand why maintainers go quiet",
-      "link": "https://www.reddit.com/r/artificial/comments/1u9fwfx/started_maintaining_a_small_library_at_work_and/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/artificial · community knowledge",
-      "content_type": "post",
-      "author": "u/Kitchen-Owl4274 · r/artificial",
-      "handle": "artificial",
-      "org": "r/artificial",
-      "platform": "reddit",
-      "published": "2026-06-18T19:28:58.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/artificial"
-      ],
-      "summary": "Built a little internal utility about a year ago, open sourced it because why not, figured maybe 10 people would find it useful. It slowly picked up a few hundred stars and then the issues started coming in. Not a flood or anything but enough and what surprised me was how much of it wasn&#39;t really bugs it was…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/artificial this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1u9egxv",
-      "title": "This robotic self-driving toilet comes to you",
-      "link": "https://www.reddit.com/r/gadgets/comments/1u9egxv/this_robotic_selfdriving_toilet_comes_to_you/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/gadgets · community knowledge",
-      "content_type": "post",
-      "author": "u/dapperlemon · r/gadgets",
-      "handle": "gadgets",
-      "org": "r/gadgets",
-      "platform": "reddit",
-      "published": "2026-06-18T18:35:38.000Z",
-      "image": "https://external-preview.redd.it/XQRIjeH8oN36Ly2BZxHfm5YSN94MfES7uXlq8ReClC8.jpeg?width=640&crop=smart&auto=webp&s=0405e8c7d58d837ae560bdd4d00b2d0a5613fa98",
-      "thumbnail": "https://external-preview.redd.it/XQRIjeH8oN36Ly2BZxHfm5YSN94MfES7uXlq8ReClC8.jpeg?width=640&crop=smart&auto=webp&s=0405e8c7d58d837ae560bdd4d00b2d0a5613fa98",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/gadgets"
-      ],
-      "summary": "This robotic self-driving toilet comes to you",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/gadgets this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1u99k64",
-      "title": "The World's Richest Population are Costing the Earth Trillions. Study finds the top 10% of global consumers is disproportionately responsible for transgressing planetary boundaries, causing damages for which broader society bears the costs.",
-      "link": "https://www.reddit.com/r/science/comments/1u99k64/the_worlds_richest_population_are_costing_the/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/science · community knowledge",
-      "content_type": "post",
-      "author": "u/FreeHugs23 · r/science",
-      "handle": "science",
-      "org": "r/science",
-      "platform": "reddit",
-      "published": "2026-06-18T15:34:29.000Z",
-      "image": "https://external-preview.redd.it/28AgVDtpwguSVHOrQJDR5FCF3Om8T8MZ7jUGzNwmThs.jpeg?width=640&crop=smart&auto=webp&s=79c479953ced37057b8a79df23bf031f1e9aaaa1",
-      "thumbnail": "https://external-preview.redd.it/28AgVDtpwguSVHOrQJDR5FCF3Om8T8MZ7jUGzNwmThs.jpeg?width=640&crop=smart&auto=webp&s=79c479953ced37057b8a79df23bf031f1e9aaaa1",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/science"
-      ],
-      "summary": "The World's Richest Population are Costing the Earth Trillions. Study finds the top 10% of global consumers is disproportionately responsible for transgressing planetary boundaries, causing damages for which broader society bears the costs.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/science this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1u97we9",
-      "title": "Announcing TypeScript 7.0 RC",
-      "link": "https://www.reddit.com/r/programming/comments/1u97we9/announcing_typescript_70_rc/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/programming · community knowledge",
-      "content_type": "post",
-      "author": "u/DanielRosenwasser · r/programming",
-      "handle": "programming",
-      "org": "r/programming",
-      "platform": "reddit",
-      "published": "2026-06-18T14:31:38.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Coding & Dev Tools",
-      "category": "Coding & Dev Tools",
-      "genre": "Coding & Dev Tools",
-      "categories": [
-        "Reddit",
-        "Coding & Dev Tools",
-        "r/programming"
-      ],
-      "summary": "Announcing TypeScript 7.0 RC",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/programming this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1u96i6p",
-      "title": "Why haven't IRA limits kept up with inflation? original $1500 limit in 1974= $10,132.45 today",
-      "link": "https://www.reddit.com/r/investing/comments/1u96i6p/why_havent_ira_limits_kept_up_with_inflation/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/investing · community knowledge",
-      "content_type": "post",
-      "author": "u/Forecydian · r/investing",
-      "handle": "investing",
-      "org": "r/investing",
-      "platform": "reddit",
-      "published": "2026-06-18T13:36:46.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/investing"
-      ],
-      "summary": "The IRA was created in 1974 with an annual limit of $1500, which adjusted for inflation is equivalent to $10,132.45 today, however the current IRA limit is $7500. That was for all ages too. Even the catch up contribution limit boost today is at $8600. still below the original dollar value. Shouldn&#39;t we have at…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/investing this week"
       ],
       "metrics": {
         "likes": 0,
