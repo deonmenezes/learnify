@@ -1,15 +1,16 @@
 {
-  "generated_at": "2026-06-24T20:04:50.405Z",
+  "generated_at": "2026-06-24T21:45:19.500Z",
   "subs": [
     "MachineLearning",
+    "Fitness",
+    "robotics",
     "programming",
-    "SkincareAddiction",
     "running",
     "longevity",
+    "SkincareAddiction",
     "singularity",
     "bodyweightfitness",
     "hardware",
-    "robotics",
     "investing",
     "nutrition",
     "cybersecurity",
@@ -19,17 +20,56 @@
   ],
   "count": 36,
   "by_category": {
+    "Fitness": 9,
     "Coding & Dev Tools": 3,
-    "Fitness": 8,
     "Science": 4,
     "Skincare": 4,
     "AI / ML": 8,
     "Hardware & Gadgets": 4,
     "Robotics": 2,
     "Startups & Funding": 1,
-    "Security": 2
+    "Security": 1
   },
   "articles": [
+    {
+      "id": "reddit_1ue87yp",
+      "title": "Rant Wednesday - June 24, 2026",
+      "link": "https://www.reddit.com/r/Fitness/comments/1ue87yp/rant_wednesday_june_24_2026/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/Fitness · community knowledge",
+      "content_type": "post",
+      "author": "u/AutoModerator · r/Fitness",
+      "handle": "Fitness",
+      "org": "r/Fitness",
+      "platform": "reddit",
+      "published": "2026-06-24T09:00:24.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/Fitness"
+      ],
+      "summary": "Welcome to Rant Wednesday: It’s your time to let your gym/fitness/nutrition related frustrations out! There is no guiding question to help stir up some rage-feels, feel free to fire at will, ranting about anything and everything that’s been pissing you off or getting on your nerves. Just don&#39;t forget that other…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/Fitness this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1udwfsp",
       "title": "New HTTP QUERY Method",
@@ -1403,45 +1443,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/hardware this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1u9tqbl",
-      "title": "The first unpatchable iPhone exploit in six years targets chips still running Apple's latest iOS",
-      "link": "https://www.reddit.com/r/cybersecurity/comments/1u9tqbl/the_first_unpatchable_iphone_exploit_in_six_years/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/cybersecurity · community knowledge",
-      "content_type": "post",
-      "author": "u/rkhunter_ · r/cybersecurity",
-      "handle": "cybersecurity",
-      "org": "r/cybersecurity",
-      "platform": "reddit",
-      "published": "2026-06-19T05:56:40.000Z",
-      "image": "https://external-preview.redd.it/TQ38LatmC_7B-PZfj407yyTSFgwE5ocPMZYR_dXNfVo.jpeg?width=640&crop=smart&auto=webp&s=691c2a67a1bea89e0486faeec779206265fa06fb",
-      "thumbnail": "https://external-preview.redd.it/TQ38LatmC_7B-PZfj407yyTSFgwE5ocPMZYR_dXNfVo.jpeg?width=640&crop=smart&auto=webp&s=691c2a67a1bea89e0486faeec779206265fa06fb",
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/cybersecurity"
-      ],
-      "summary": "The first unpatchable iPhone exploit in six years targets chips still running Apple's latest iOS",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/cybersecurity this week"
       ],
       "metrics": {
         "likes": 0,
