@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-06-24T21:45:19.500Z",
+  "generated_at": "2026-06-24T23:12:09.761Z",
   "subs": [
     "MachineLearning",
+    "LocalLLaMA",
+    "bodyweightfitness",
+    "startups",
     "Fitness",
-    "robotics",
     "programming",
     "running",
     "longevity",
     "SkincareAddiction",
     "singularity",
-    "bodyweightfitness",
     "hardware",
+    "robotics",
     "investing",
     "nutrition",
     "cybersecurity",
-    "science",
-    "artificial",
-    "gadgets"
+    "science"
   ],
   "count": 36,
   "by_category": {
     "Fitness": 9,
-    "Coding & Dev Tools": 3,
+    "Coding & Dev Tools": 2,
     "Science": 4,
     "Skincare": 4,
-    "AI / ML": 8,
-    "Hardware & Gadgets": 4,
+    "AI / ML": 9,
+    "Hardware & Gadgets": 2,
     "Robotics": 2,
-    "Startups & Funding": 1,
+    "Startups & Funding": 3,
     "Security": 1
   },
   "articles": [
@@ -338,6 +338,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/SkincareAddiction this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1ucwyes",
+      "title": "DeepSeek raises $7.4B USD at $60B valuation. Remarkably, Liang Wenfeng invests $3B in DeepSeek himself.",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1ucwyes/deepseek_raises_74b_usd_at_60b_valuation/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/LocalLLaMA · community knowledge",
+      "content_type": "post",
+      "author": "u/FullOf_Bad_Ideas · r/LocalLLaMA",
+      "handle": "LocalLLaMA",
+      "org": "r/LocalLLaMA",
+      "platform": "reddit",
+      "published": "2026-06-22T21:03:52.000Z",
+      "image": "https://external-preview.redd.it/VpGJI494QGRnBDvqRiEKbe7Cc_3GIxEPT93e9P2L43s.jpeg?width=640&crop=smart&auto=webp&s=5cf273eb1b63ca47116038dd2d216199da27ffee",
+      "thumbnail": "https://external-preview.redd.it/VpGJI494QGRnBDvqRiEKbe7Cc_3GIxEPT93e9P2L43s.jpeg?width=640&crop=smart&auto=webp&s=5cf273eb1b63ca47116038dd2d216199da27ffee",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/LocalLLaMA"
+      ],
+      "summary": "DeepSeek raises $7.4B USD at $60B valuation. Remarkably, Liang Wenfeng invests $3B in DeepSeek himself.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/LocalLLaMA this week"
       ],
       "metrics": {
         "likes": 0,
@@ -819,6 +859,46 @@
       }
     },
     {
+      "id": "reddit_1ubij92",
+      "title": "Pissed off by startup culture. I will not promote",
+      "link": "https://www.reddit.com/r/startups/comments/1ubij92/pissed_off_by_startup_culture_i_will_not_promote/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/startups · community knowledge",
+      "content_type": "post",
+      "author": "u/Other-Middle-3189 · r/startups",
+      "handle": "startups",
+      "org": "r/startups",
+      "platform": "reddit",
+      "published": "2026-06-21T06:19:22.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/startups"
+      ],
+      "summary": "Been working in a tech startup for 9 months. Today we had our annual meeting and salary increments were announced, with people been given their increment letters with announcements &#x200B; What surprised me was seeing people who joined just 1–2 months ago receive increments, while I was completely overlooked.…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/startups this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1ubh6nr",
       "title": "Achievements for Sunday, June 21, 2026",
       "link": "https://www.reddit.com/r/running/comments/1ubh6nr/achievements_for_sunday_june_21_2026/",
@@ -850,6 +930,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/running this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1ubftdf",
+      "title": "Does any other founder feel lonely? I will not promote",
+      "link": "https://www.reddit.com/r/startups/comments/1ubftdf/does_any_other_founder_feel_lonely_i_will_not/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/startups · community knowledge",
+      "content_type": "post",
+      "author": "u/Catbun2020 · r/startups",
+      "handle": "startups",
+      "org": "r/startups",
+      "platform": "reddit",
+      "published": "2026-06-21T03:47:41.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/startups"
+      ],
+      "summary": "I’m working at 10:50 on a Saturday evening. I LOVE the work I’m doing. I’m trying to remain a good friend while doing this— but this is the most important part of my life right now. My business partner and I are on the verge of launch (like 1 month) but no one gets it, just how isolating it is. My business partner is…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/startups this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1175,6 +1295,46 @@
       }
     },
     {
+      "id": "reddit_1uaxktf",
+      "title": "z.AI as the number 2 gives praise to the number 1 open source model",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1uaxktf/zai_as_the_number_2_gives_praise_to_the_number_1/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/LocalLLaMA · community knowledge",
+      "content_type": "post",
+      "author": "u/Charuru · r/LocalLLaMA",
+      "handle": "LocalLLaMA",
+      "org": "r/LocalLLaMA",
+      "platform": "reddit",
+      "published": "2026-06-20T14:10:04.000Z",
+      "image": "https://preview.redd.it/yy0tfjmm3g8h1.png?width=640&crop=smart&auto=webp&s=83f9551b883b586603ce35df538e54a3cc96f6a0",
+      "thumbnail": "https://preview.redd.it/yy0tfjmm3g8h1.png?width=640&crop=smart&auto=webp&s=83f9551b883b586603ce35df538e54a3cc96f6a0",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/LocalLLaMA"
+      ],
+      "summary": "z.AI as the number 2 gives praise to the number 1 open source model",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/LocalLLaMA this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1uatwr9",
       "title": "Two-year, placebo-controlled, double-blinded clinical trial results show supplements with omega-3s (like fish oil) have no effect on memory or cognitive function in older adults at risk for Alzheimer’s disease, despite showing evidence that the nutrients directly reach the brain",
       "link": "https://www.reddit.com/r/science/comments/1uatwr9/twoyear_placebocontrolled_doubleblinded_clinical/",
@@ -1286,163 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uapc81",
-      "title": "Jim Cramer Agrees That Accenture Is “Being Outcompeted By OpenAI and Anthropic”",
-      "link": "https://www.reddit.com/r/artificial/comments/1uapc81/jim_cramer_agrees_that_accenture_is_being/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/artificial · community knowledge",
-      "content_type": "post",
-      "author": "u/ThereWas · r/artificial",
-      "handle": "artificial",
-      "org": "r/artificial",
-      "platform": "reddit",
-      "published": "2026-06-20T06:33:02.000Z",
-      "image": "https://external-preview.redd.it/8kZV8OJ9pdl9-Od7Wido9Bby5c7TxqIZRNeFw9GKT_s.jpeg?width=640&crop=smart&auto=webp&s=e45cc26ade7d12170bbdd99b539044a64546a6da",
-      "thumbnail": "https://external-preview.redd.it/8kZV8OJ9pdl9-Od7Wido9Bby5c7TxqIZRNeFw9GKT_s.jpeg?width=640&crop=smart&auto=webp&s=e45cc26ade7d12170bbdd99b539044a64546a6da",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/artificial"
-      ],
-      "summary": "Jim Cramer Agrees That Accenture Is “Being Outcompeted By OpenAI and Anthropic”",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/artificial this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uan5xs",
-      "title": "Nothing cancels this year’s CMF phone due to RAM prices",
-      "link": "https://www.reddit.com/r/gadgets/comments/1uan5xs/nothing_cancels_this_years_cmf_phone_due_to_ram/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/gadgets · community knowledge",
-      "content_type": "post",
-      "author": "u/dapperlemon · r/gadgets",
-      "handle": "gadgets",
-      "org": "r/gadgets",
-      "platform": "reddit",
-      "published": "2026-06-20T04:32:55.000Z",
-      "image": "https://external-preview.redd.it/GhENZ8aZkMsYy1aqiuF6BYP6h9jXhzLG-vlFYxhbj0A.jpeg?width=640&crop=smart&auto=webp&s=0e6b8861af8951d0476483fdbeeba430f4b96d41",
-      "thumbnail": "https://external-preview.redd.it/GhENZ8aZkMsYy1aqiuF6BYP6h9jXhzLG-vlFYxhbj0A.jpeg?width=640&crop=smart&auto=webp&s=0e6b8861af8951d0476483fdbeeba430f4b96d41",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/gadgets"
-      ],
-      "summary": "Nothing cancels this year’s CMF phone due to RAM prices",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/gadgets this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ua2lxq",
-      "title": "Old Software Was Fast Because It Had No Choice",
-      "link": "https://www.reddit.com/r/programming/comments/1ua2lxq/old_software_was_fast_because_it_had_no_choice/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/programming · community knowledge",
-      "content_type": "post",
-      "author": "u/BlondieCoder · r/programming",
-      "handle": "programming",
-      "org": "r/programming",
-      "platform": "reddit",
-      "published": "2026-06-19T13:52:26.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Coding & Dev Tools",
-      "category": "Coding & Dev Tools",
-      "genre": "Coding & Dev Tools",
-      "categories": [
-        "Reddit",
-        "Coding & Dev Tools",
-        "r/programming"
-      ],
-      "summary": "Old Software Was Fast Because It Had No Choice",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/programming this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1u9zhbx",
-      "title": "Valve’s Steam Controller stock shortage will last until next year after fans massively exceeded expectations",
-      "link": "https://www.reddit.com/r/hardware/comments/1u9zhbx/valves_steam_controller_stock_shortage_will_last/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/hardware · community knowledge",
-      "content_type": "post",
-      "author": "u/HatingGeoffry · r/hardware",
-      "handle": "hardware",
-      "org": "r/hardware",
-      "platform": "reddit",
-      "published": "2026-06-19T11:30:20.000Z",
-      "image": "https://external-preview.redd.it/E-sft8_zzZ1KSWOzxJ_iwaW3raAN1P2PFUbtw-pRPEE.jpeg?width=640&crop=smart&auto=webp&s=c735096182df4bb3f3a0e52075069247d4c6d05b",
-      "thumbnail": "https://external-preview.redd.it/E-sft8_zzZ1KSWOzxJ_iwaW3raAN1P2PFUbtw-pRPEE.jpeg?width=640&crop=smart&auto=webp&s=c735096182df4bb3f3a0e52075069247d4c6d05b",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/hardware"
-      ],
-      "summary": "Valve’s Steam Controller stock shortage will last until next year after fans massively exceeded expectations",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/hardware this week"
       ],
       "metrics": {
         "likes": 0,
