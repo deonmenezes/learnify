@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T18:00:52.060Z",
+  "generated_at": "2026-06-24T20:02:35.095Z",
   "handles": [
     "nvidia",
     "GoogleDeepMind",
@@ -11,6 +11,47 @@
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2069873195499352248",
+      "title": "NVIDIA's full-stack AI is enabling autonomous operations for the world's leading brands and platforms. Key capabilities driving this shift: 📈 Causal marketing analytics at enterprise scale 🤖…",
+      "link": "https://x.com/nvidia/status/2069873195499352248",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-24T20:00:00.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Commentary"
+      ],
+      "summary": "NVIDIA's full-stack AI is enabling autonomous operations for the world's leading brands and platforms. Key capabilities driving this shift: 📈 Causal marketing analytics at enterprise scale 🤖 Secure, trustworthy agentic workflows ⚡Real-time, hyper-efficient auction bidding 🎬",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 56,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "casual tone (this)",
+        "business signal (enterprise)"
+      ],
+      "metrics": {
+        "likes": 4,
+        "retweets": 1,
+        "replies": 1,
+        "likes_h": "4"
+      },
+      "engagement": 7,
+      "hot": false
+    },
     {
       "id": "x_2069809298612621629",
       "title": "Introducing Jalapeño — designed from scratch for LLM inference over nine months, accelerated by our models. Perf per watt looking incredible.",
@@ -43,15 +84,15 @@
         "casual tone (incredible)",
         "announcement language (introducing)",
         "tech substance (models, inference)",
-        "high engagement (1.3K likes)"
+        "high engagement (1.7K likes)"
       ],
       "metrics": {
-        "likes": 1345,
-        "retweets": 57,
-        "replies": 89,
-        "likes_h": "1.3K"
+        "likes": 1694,
+        "retweets": 75,
+        "replies": 109,
+        "likes_h": "1.7K"
       },
-      "engagement": 1548,
+      "engagement": 1953,
       "hot": false
     },
     {
@@ -86,12 +127,12 @@
         "tech substance (agent, agents)"
       ],
       "metrics": {
-        "likes": 336,
-        "retweets": 44,
-        "replies": 41,
-        "likes_h": "336"
+        "likes": 379,
+        "retweets": 49,
+        "replies": 49,
+        "likes_h": "379"
       },
-      "engagement": 465,
+      "engagement": 526,
       "hot": false
     },
     {
@@ -159,7 +200,7 @@
       "summary": "For the past two years, an NVIDIA AI infrastructure contribution to the NAIRR pilot has helped power over 700 U.S. research projects. With DGX reference architecture providing dedicated resources, researchers have uncovered groundbreaking technologies that will reshape and",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 74,
+      "worthiness_score": 75,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -167,12 +208,12 @@
         "tech substance (research)"
       ],
       "metrics": {
-        "likes": 252,
-        "retweets": 41,
+        "likes": 263,
+        "retweets": 42,
         "replies": 30,
-        "likes_h": "252"
+        "likes_h": "263"
       },
-      "engagement": 364,
+      "engagement": 377,
       "hot": false
     },
     {
@@ -249,12 +290,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 310,
+        "likes": 317,
         "retweets": 51,
         "replies": 28,
-        "likes_h": "310"
+        "likes_h": "317"
       },
-      "engagement": 440,
+      "engagement": 447,
       "hot": false
     },
     {
@@ -289,12 +330,12 @@
         "tech substance (models, nemotron, agent)"
       ],
       "metrics": {
-        "likes": 513,
-        "retweets": 75,
-        "replies": 49,
-        "likes_h": "513"
+        "likes": 527,
+        "retweets": 76,
+        "replies": 50,
+        "likes_h": "527"
       },
-      "engagement": 712,
+      "engagement": 729,
       "hot": false
     },
     {
@@ -327,15 +368,15 @@
       "reasons": [
         "report-worthy",
         "business signal (funding)",
-        "high engagement (90.2K likes)"
+        "high engagement (93.9K likes)"
       ],
       "metrics": {
-        "likes": 90215,
-        "retweets": 19771,
-        "replies": 5441,
-        "likes_h": "90.2K"
+        "likes": 93907,
+        "retweets": 20710,
+        "replies": 5679,
+        "likes_h": "93.9K"
       },
-      "engagement": 135198,
+      "engagement": 141006,
       "hot": true
     },
     {
@@ -371,12 +412,12 @@
         "tech substance (models, agents)"
       ],
       "metrics": {
-        "likes": 187,
+        "likes": 189,
         "retweets": 23,
         "replies": 27,
-        "likes_h": "187"
+        "likes_h": "189"
       },
-      "engagement": 260,
+      "engagement": 262,
       "hot": false
     },
     {
@@ -409,15 +450,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (data center)",
-        "high engagement (29.7K likes)"
+        "high engagement (29.8K likes)"
       ],
       "metrics": {
-        "likes": 29698,
-        "retweets": 4471,
-        "replies": 1414,
-        "likes_h": "29.7K"
+        "likes": 29774,
+        "retweets": 4484,
+        "replies": 1418,
+        "likes_h": "29.8K"
       },
-      "engagement": 40054,
+      "engagement": 40160,
       "hot": true
     },
     {
@@ -666,12 +707,12 @@
         "high engagement (1.4K likes)"
       ],
       "metrics": {
-        "likes": 1413,
+        "likes": 1415,
         "retweets": 153,
-        "replies": 82,
+        "replies": 83,
         "likes_h": "1.4K"
       },
-      "engagement": 1801,
+      "engagement": 1804,
       "hot": false
     },
     {
@@ -881,7 +922,7 @@
         "likes_h": "3K"
       },
       "engagement": 3962,
-      "hot": false
+      "hot": true
     },
     {
       "id": "x_2067594863785173257",
@@ -1287,49 +1328,6 @@
         "likes_h": "1.2K"
       },
       "engagement": 1532,
-      "hot": false
-    },
-    {
-      "id": "x_2066969635099144682",
-      "title": "We’re sharing new research on a method for anticipating how models may behave in real-world use before release: simulating deployment with recent, de-identified user requests and studying candidate…",
-      "link": "https://x.com/OpenAI/status/2066969635099144682",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-06-16T19:42:18.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Research"
-      ],
-      "summary": "We’re sharing new research on a method for anticipating how models may behave in real-world use before release: simulating deployment with recent, de-identified user requests and studying candidate model responses. https://openai.com/index/deployment-simulation/",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 100,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "announcement language (release)",
-        "tech substance (model, models, research)",
-        "links to a source",
-        "high engagement (2.5K likes)"
-      ],
-      "metrics": {
-        "likes": 2520,
-        "retweets": 238,
-        "replies": 220,
-        "likes_h": "2.5K"
-      },
-      "engagement": 3216,
       "hot": false
     }
   ]
