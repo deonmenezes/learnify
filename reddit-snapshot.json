@@ -1,29 +1,70 @@
 {
-  "generated_at": "2026-06-24T10:58:01.236Z",
+  "generated_at": "2026-06-24T13:28:45.113Z",
   "subs": [
     "MachineLearning",
-    "artificial",
-    "nutrition",
-    "investing",
+    "programming",
+    "cybersecurity",
     "longevity",
     "SkincareAddiction",
     "singularity",
     "hardware",
-    "cybersecurity",
+    "investing",
+    "nutrition",
     "science",
-    "gadgets"
+    "gadgets",
+    "artificial"
   ],
   "count": 36,
   "by_category": {
+    "Coding & Dev Tools": 4,
     "Science": 5,
     "Skincare": 4,
-    "AI / ML": 11,
+    "AI / ML": 9,
     "Hardware & Gadgets": 6,
     "Startups & Funding": 2,
     "Fitness": 4,
-    "Security": 4
+    "Security": 2
   },
   "articles": [
+    {
+      "id": "reddit_1udwfsp",
+      "title": "New HTTP QUERY Method",
+      "link": "https://www.reddit.com/r/programming/comments/1udwfsp/new_http_query_method/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/programming · community knowledge",
+      "content_type": "post",
+      "author": "u/Perfect-Scale902 · r/programming",
+      "handle": "programming",
+      "org": "r/programming",
+      "platform": "reddit",
+      "published": "2026-06-23T23:02:07.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Coding & Dev Tools",
+      "category": "Coding & Dev Tools",
+      "genre": "Coding & Dev Tools",
+      "categories": [
+        "Reddit",
+        "Coding & Dev Tools",
+        "r/programming"
+      ],
+      "summary": "What do you think about the new HTTP Query method? &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/programming this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1udfx6m",
       "title": "Younger generations are aging biologically faster than their older counterparts. This faster biological aging is also linked to early-onset cancers. Immune system aging is linked to earlier lung cancer; fat tissue aging is linked to earlier colorectal cancer.",
@@ -57,6 +98,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/longevity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1ud8p4p",
+      "title": "In memory of the man who put red squiggles under words",
+      "link": "https://www.reddit.com/r/programming/comments/1ud8p4p/in_memory_of_the_man_who_put_red_squiggles_under/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/programming · community knowledge",
+      "content_type": "post",
+      "author": "u/mareek · r/programming",
+      "handle": "programming",
+      "org": "r/programming",
+      "platform": "reddit",
+      "published": "2026-06-23T05:54:20.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Coding & Dev Tools",
+      "category": "Coding & Dev Tools",
+      "genre": "Coding & Dev Tools",
+      "categories": [
+        "Reddit",
+        "Coding & Dev Tools",
+        "r/programming"
+      ],
+      "summary": "In memory of the man who put red squiggles under words",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/programming this week"
       ],
       "metrics": {
         "likes": 0,
@@ -936,6 +1016,45 @@
       }
     },
     {
+      "id": "reddit_1ua2lxq",
+      "title": "Old Software Was Fast Because It Had No Choice",
+      "link": "https://www.reddit.com/r/programming/comments/1ua2lxq/old_software_was_fast_because_it_had_no_choice/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/programming · community knowledge",
+      "content_type": "post",
+      "author": "u/BlondieCoder · r/programming",
+      "handle": "programming",
+      "org": "r/programming",
+      "platform": "reddit",
+      "published": "2026-06-19T13:52:26.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Coding & Dev Tools",
+      "category": "Coding & Dev Tools",
+      "genre": "Coding & Dev Tools",
+      "categories": [
+        "Reddit",
+        "Coding & Dev Tools",
+        "r/programming"
+      ],
+      "summary": "Old Software Was Fast Because It Had No Choice",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/programming this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1u9zhbx",
       "title": "Valve’s Steam Controller stock shortage will last until next year after fans massively exceeded expectations",
       "link": "https://www.reddit.com/r/hardware/comments/1u9zhbx/valves_steam_controller_stock_shortage_will_last/",
@@ -1251,6 +1370,45 @@
       }
     },
     {
+      "id": "reddit_1u97we9",
+      "title": "Announcing TypeScript 7.0 RC",
+      "link": "https://www.reddit.com/r/programming/comments/1u97we9/announcing_typescript_70_rc/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/programming · community knowledge",
+      "content_type": "post",
+      "author": "u/DanielRosenwasser · r/programming",
+      "handle": "programming",
+      "org": "r/programming",
+      "platform": "reddit",
+      "published": "2026-06-18T14:31:38.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Coding & Dev Tools",
+      "category": "Coding & Dev Tools",
+      "genre": "Coding & Dev Tools",
+      "categories": [
+        "Reddit",
+        "Coding & Dev Tools",
+        "r/programming"
+      ],
+      "summary": "Announcing TypeScript 7.0 RC",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/programming this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1u96i6p",
       "title": "Why haven't IRA limits kept up with inflation? original $1500 limit in 1974= $10,132.45 today",
       "link": "https://www.reddit.com/r/investing/comments/1u96i6p/why_havent_ira_limits_kept_up_with_inflation/",
@@ -1283,164 +1441,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/investing this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1u8zigf",
-      "title": "Anthropic CEO Dario Amodei goes completely candid on why he left OpenAI: \"When you feel that you can't trust someone when you see disturbing patterns of behavior, dishonesty, that makes it very hard to continue.\"",
-      "link": "https://www.reddit.com/r/artificial/comments/1u8zigf/anthropic_ceo_dario_amodei_goes_completely_candid/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/artificial · community knowledge",
-      "content_type": "post",
-      "author": "u/Low-Honeydew6483 · r/artificial",
-      "handle": "artificial",
-      "org": "r/artificial",
-      "platform": "reddit",
-      "published": "2026-06-18T07:22:11.000Z",
-      "image": "https://external-preview.redd.it/N2xwY3VwYnpzejdoMYb8u_Jecdgw9OdRrS7NxiOXNPickRWJzIVQr5FXb33O.png?width=640&crop=smart&auto=webp&s=821f53d30ec890b641bd8ad37cf39fed59739f4f",
-      "thumbnail": "https://external-preview.redd.it/N2xwY3VwYnpzejdoMYb8u_Jecdgw9OdRrS7NxiOXNPickRWJzIVQr5FXb33O.png?width=640&crop=smart&auto=webp&s=821f53d30ec890b641bd8ad37cf39fed59739f4f",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/artificial"
-      ],
-      "summary": "In a recent candid interview Anthropic CEO Dario Amodei did not hold back regarding his departure from OpenAI. He cited a fundamental breakdown of trust and &quot;disturbing patterns of behavior&quot; and &quot;dishonesty&quot; as the primary reasons it became impossible to stay. Considering the massive wave of…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/artificial this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1u8z7sm",
-      "title": "AMD silently removes memory encryption from consumer Ryzen CPUs, leaving users unaware that they may be vulnerable — security feature vanishes after newer AGESA firmware, AMD engineers go radio silent when pressed about the change",
-      "link": "https://www.reddit.com/r/cybersecurity/comments/1u8z7sm/amd_silently_removes_memory_encryption_from/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/cybersecurity · community knowledge",
-      "content_type": "post",
-      "author": "u/Dash-Courageous · r/cybersecurity",
-      "handle": "cybersecurity",
-      "org": "r/cybersecurity",
-      "platform": "reddit",
-      "published": "2026-06-18T07:04:35.000Z",
-      "image": "https://external-preview.redd.it/oQ6vpooS5QGeiugJ7BSa-X6_CkmzEbWk5fSVRYaew5M.jpeg?width=640&crop=smart&auto=webp&s=3798038297404dc5dedef6fdf5a8a57dd278da2f",
-      "thumbnail": "https://external-preview.redd.it/oQ6vpooS5QGeiugJ7BSa-X6_CkmzEbWk5fSVRYaew5M.jpeg?width=640&crop=smart&auto=webp&s=3798038297404dc5dedef6fdf5a8a57dd278da2f",
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/cybersecurity"
-      ],
-      "summary": "AMD silently removes memory encryption from consumer Ryzen CPUs, leaving users unaware that they may be vulnerable — security feature vanishes after newer AGESA firmware, AMD engineers go radio silent when pressed about the change",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/cybersecurity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1u8yz1r",
-      "title": "Massive database with 24 billion credentials found exposed online",
-      "link": "https://www.reddit.com/r/cybersecurity/comments/1u8yz1r/massive_database_with_24_billion_credentials/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/cybersecurity · community knowledge",
-      "content_type": "post",
-      "author": "u/chota-kaka · r/cybersecurity",
-      "handle": "cybersecurity",
-      "org": "r/cybersecurity",
-      "platform": "reddit",
-      "published": "2026-06-18T06:50:27.000Z",
-      "image": "https://external-preview.redd.it/f7cXbf5VF5jmpekM8y7Eb1MUUZS9MO77pwhk35-kDoI.jpeg?width=640&crop=smart&auto=webp&s=e4b41f50ee5ae49e6a75fc5cf0fa253531008f98",
-      "thumbnail": "https://external-preview.redd.it/f7cXbf5VF5jmpekM8y7Eb1MUUZS9MO77pwhk35-kDoI.jpeg?width=640&crop=smart&auto=webp&s=e4b41f50ee5ae49e6a75fc5cf0fa253531008f98",
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/cybersecurity"
-      ],
-      "summary": "It’s beyond reasonable expectation that companies that we entrust our sensitive information will be charged with said security. &#x200B; In the case of a total breach, there should be recourse for those who had their data exposed. Why isn’t there a larger push for this? Historically the answer has always been kind of…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/cybersecurity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1u8tbob",
-      "title": "Midjourney, The Image Generation Company, Just Built the Sequel to the MRI",
-      "link": "https://www.reddit.com/r/singularity/comments/1u8tbob/midjourney_the_image_generation_company_just/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/singularity · community knowledge",
-      "content_type": "post",
-      "author": "u/ResultBackground2450 · r/singularity",
-      "handle": "singularity",
-      "org": "r/singularity",
-      "platform": "reddit",
-      "published": "2026-06-18T01:53:59.000Z",
-      "image": "https://external-preview.redd.it/aXkzZXF4dmQ2eTdoMUj1bxwQ1vFene0JEi4jmHzUB0yJKSP5SV9a9ALZw2Df.png?width=640&crop=smart&auto=webp&s=1571c0ae495a7123d256dfba60106b75e04023e5",
-      "thumbnail": "https://external-preview.redd.it/aXkzZXF4dmQ2eTdoMUj1bxwQ1vFene0JEi4jmHzUB0yJKSP5SV9a9ALZw2Df.png?width=640&crop=smart&auto=webp&s=1571c0ae495a7123d256dfba60106b75e04023e5",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/singularity"
-      ],
-      "summary": "Midjourney, The Image Generation Company, Just Built the Sequel to the MRI",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/singularity this week"
       ],
       "metrics": {
         "likes": 0,
