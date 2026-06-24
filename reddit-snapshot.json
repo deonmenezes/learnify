@@ -1,20 +1,63 @@
 {
-  "generated_at": "2026-06-23T23:40:53.317Z",
+  "generated_at": "2026-06-24T03:58:25.877Z",
   "subs": [
     "MachineLearning",
-    "singularity",
+    "longevity",
+    "hardware",
     "SkincareAddiction",
+    "singularity",
     "nutrition",
     "gadgets"
   ],
-  "count": 20,
+  "count": 29,
   "by_category": {
+    "Science": 4,
     "Skincare": 4,
-    "AI / ML": 8,
-    "Fitness": 4,
-    "Hardware & Gadgets": 4
+    "AI / ML": 9,
+    "Hardware & Gadgets": 8,
+    "Fitness": 4
   },
   "articles": [
+    {
+      "id": "reddit_1udfx6m",
+      "title": "Younger generations are aging biologically faster than their older counterparts. This faster biological aging is also linked to early-onset cancers. Immune system aging is linked to earlier lung cancer; fat tissue aging is linked to earlier colorectal cancer.",
+      "link": "https://www.reddit.com/r/longevity/comments/1udfx6m/younger_generations_are_aging_biologically_faster/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/longevity · community knowledge",
+      "content_type": "post",
+      "author": "u/user_-- · r/longevity",
+      "handle": "longevity",
+      "org": "r/longevity",
+      "platform": "reddit",
+      "published": "2026-06-23T12:35:00.000Z",
+      "image": "https://external-preview.redd.it/q1_NxuKvXkBJUVNgzaMTUoLCd8z0CiMohQ5b4jjwbLM.jpeg?width=640&crop=smart&auto=webp&s=c540d0d5782676821f156b8e16c14ee7ee8feaa5",
+      "thumbnail": "https://external-preview.redd.it/q1_NxuKvXkBJUVNgzaMTUoLCd8z0CiMohQ5b4jjwbLM.jpeg?width=640&crop=smart&auto=webp&s=c540d0d5782676821f156b8e16c14ee7ee8feaa5",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Longevity",
+      "categories": [
+        "Reddit",
+        "Science",
+        "Longevity",
+        "r/longevity"
+      ],
+      "summary": "Younger generations are aging biologically faster than their older counterparts. This faster biological aging is also linked to early-onset cancers. Immune system aging is linked to earlier lung cancer; fat tissue aging is linked to earlier colorectal cancer.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/longevity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1ud0wq8",
       "title": "[acne] butt acne for years + Accutane not helping?",
@@ -134,6 +177,84 @@
       }
     },
     {
+      "id": "reddit_1ucrq5y",
+      "title": "[IGN] Steam Machine Price Was Originally Meant to Be About $750",
+      "link": "https://www.reddit.com/r/hardware/comments/1ucrq5y/ign_steam_machine_price_was_originally_meant_to/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/hardware · community knowledge",
+      "content_type": "post",
+      "author": "u/DotabLAH · r/hardware",
+      "handle": "hardware",
+      "org": "r/hardware",
+      "platform": "reddit",
+      "published": "2026-06-22T17:53:01.000Z",
+      "image": "https://external-preview.redd.it/9SV38d8fxWgfqGntKeWSnap_a4S9j4pUNnoarDB69zk.jpeg?width=640&crop=smart&auto=webp&s=776e63b4d9ff9debc20c38772e2ffb45bf39ad7f",
+      "thumbnail": "https://external-preview.redd.it/9SV38d8fxWgfqGntKeWSnap_a4S9j4pUNnoarDB69zk.jpeg?width=640&crop=smart&auto=webp&s=776e63b4d9ff9debc20c38772e2ffb45bf39ad7f",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/hardware"
+      ],
+      "summary": "[IGN] Steam Machine Price Was Originally Meant to Be About $750",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/hardware this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1ucj3ag",
+      "title": "SK Hynix overtakes Samsung as Korea’s most valuable company",
+      "link": "https://www.reddit.com/r/hardware/comments/1ucj3ag/sk_hynix_overtakes_samsung_as_koreas_most/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/hardware · community knowledge",
+      "content_type": "post",
+      "author": "u/self-fix2 · r/hardware",
+      "handle": "hardware",
+      "org": "r/hardware",
+      "platform": "reddit",
+      "published": "2026-06-22T12:22:49.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/hardware"
+      ],
+      "summary": "SK Hynix overtakes Samsung as Korea’s most valuable company",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/hardware this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1uc7omk",
       "title": "How are you supposed to get enough soluble fiber?",
       "link": "https://www.reddit.com/r/nutrition/comments/1uc7omk/how_are_you_supposed_to_get_enough_soluble_fiber/",
@@ -166,6 +287,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/nutrition this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uc3quv",
+      "title": "Silicon Valley's longevity biohackers are engaged in a dangerous experiment",
+      "link": "https://www.reddit.com/r/longevity/comments/1uc3quv/silicon_valleys_longevity_biohackers_are_engaged/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/longevity · community knowledge",
+      "content_type": "post",
+      "author": "u/scientificamerican · r/longevity",
+      "handle": "longevity",
+      "org": "r/longevity",
+      "platform": "reddit",
+      "published": "2026-06-21T22:54:12.000Z",
+      "image": "https://external-preview.redd.it/iFzYm3B3Gq2RE_VTjprhU_6w-tDvMJRk7aOMe6rZq5o.jpeg?width=640&crop=smart&auto=webp&s=0afd80cf7ec90d498f99e58145c5fdfba5855de1",
+      "thumbnail": "https://external-preview.redd.it/iFzYm3B3Gq2RE_VTjprhU_6w-tDvMJRk7aOMe6rZq5o.jpeg?width=640&crop=smart&auto=webp&s=0afd80cf7ec90d498f99e58145c5fdfba5855de1",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Longevity",
+      "categories": [
+        "Reddit",
+        "Science",
+        "Longevity",
+        "r/longevity"
+      ],
+      "summary": "Influencers and ultra-rich people looking to extend their lifespan are trading tips and tricks on how to eke out extra years. &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/longevity this week"
       ],
       "metrics": {
         "likes": 0,
@@ -372,6 +533,46 @@
       }
     },
     {
+      "id": "reddit_1ub9eo6",
+      "title": "Aging is not uniform across the body. A new Nature Medicine study maps it at the level of individual cell types from a blood test across 60,000 people.",
+      "link": "https://www.reddit.com/r/longevity/comments/1ub9eo6/aging_is_not_uniform_across_the_body_a_new_nature/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/longevity · community knowledge",
+      "content_type": "post",
+      "author": "u/dan_in_ca · r/longevity",
+      "handle": "longevity",
+      "org": "r/longevity",
+      "platform": "reddit",
+      "published": "2026-06-20T22:29:06.000Z",
+      "image": "https://external-preview.redd.it/-tVIXWMrw6wTzN_DOvVUMV3YLxeFVL3b5iO5fpyCXN8.jpeg?width=640&crop=smart&auto=webp&s=43ea3d99abc480ed3da188265f6d4c0ae04edf02",
+      "thumbnail": "https://external-preview.redd.it/-tVIXWMrw6wTzN_DOvVUMV3YLxeFVL3b5iO5fpyCXN8.jpeg?width=640&crop=smart&auto=webp&s=43ea3d99abc480ed3da188265f6d4c0ae04edf02",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Longevity",
+      "categories": [
+        "Reddit",
+        "Science",
+        "Longevity",
+        "r/longevity"
+      ],
+      "summary": "An analysis of a new biological age model from the Wyss-Coray Lab at Stanford. Bioage models typically give a composite number. This model maps aging at the level of individual cell types, 40+ simultaneously from a single blood draw. It&#39;s validated across two proteomics platforms and with blood bank data from 60k…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/longevity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1ub9cgm",
       "title": "Any naturally occuring food that is naturally sweet and fat ?",
       "link": "https://www.reddit.com/r/nutrition/comments/1ub9cgm/any_naturally_occuring_food_that_is_naturally/",
@@ -492,6 +693,46 @@
       }
     },
     {
+      "id": "reddit_1uatlzx",
+      "title": "DVD-JEPA: an open-source, fully-reproducible JEPA world model [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uatlzx/dvdjepa_an_opensource_fullyreproducible_jepa/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/MachineLearning · community knowledge",
+      "content_type": "post",
+      "author": "u/NielsRogge · r/MachineLearning",
+      "handle": "MachineLearning",
+      "org": "r/MachineLearning",
+      "platform": "reddit",
+      "published": "2026-06-20T10:52:35.000Z",
+      "image": "https://external-preview.redd.it/7Yk-dVZdsxRAQqEO5ORd7NEfPMoyhS_r0yWYVqTgq68.png?width=140&height=73&auto=webp&s=a0dddb8d7ddd01622ed54c9914776b0469a188ad",
+      "thumbnail": "https://external-preview.redd.it/7Yk-dVZdsxRAQqEO5ORd7NEfPMoyhS_r0yWYVqTgq68.png?width=140&height=73&auto=webp&s=a0dddb8d7ddd01622ed54c9914776b0469a188ad",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/MachineLearning"
+      ],
+      "summary": "A paper currently trending on paperswithcode.co in the &quot;Anomaly Detection&quot; category is DVD-JEPA . https://i.redd.it/r6fd8n3d4f8h1.gif Here is the short summary: Most attempts to learn a world model from video try to predict the next frame pixel-by-pixel, and drown in detail that is fundamentally…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1uark0u",
       "title": "Time Series Modeling Needs a Dynamical Systems Perspective [R]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1uark0u/time_series_modeling_needs_a_dynamical_systems/",
@@ -563,6 +804,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/gadgets this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1u9zhbx",
+      "title": "Valve’s Steam Controller stock shortage will last until next year after fans massively exceeded expectations",
+      "link": "https://www.reddit.com/r/hardware/comments/1u9zhbx/valves_steam_controller_stock_shortage_will_last/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/hardware · community knowledge",
+      "content_type": "post",
+      "author": "u/HatingGeoffry · r/hardware",
+      "handle": "hardware",
+      "org": "r/hardware",
+      "platform": "reddit",
+      "published": "2026-06-19T11:30:20.000Z",
+      "image": "https://external-preview.redd.it/E-sft8_zzZ1KSWOzxJ_iwaW3raAN1P2PFUbtw-pRPEE.jpeg?width=640&crop=smart&auto=webp&s=c735096182df4bb3f3a0e52075069247d4c6d05b",
+      "thumbnail": "https://external-preview.redd.it/E-sft8_zzZ1KSWOzxJ_iwaW3raAN1P2PFUbtw-pRPEE.jpeg?width=640&crop=smart&auto=webp&s=c735096182df4bb3f3a0e52075069247d4c6d05b",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/hardware"
+      ],
+      "summary": "Valve’s Steam Controller stock shortage will last until next year after fans massively exceeded expectations",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/hardware this week"
       ],
       "metrics": {
         "likes": 0,
@@ -721,6 +1001,85 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/singularity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1u8n71p",
+      "title": "Skeletal Muscle Is the Organ of Longevity. The role of cellular senesence in muscle function decline",
+      "link": "https://www.reddit.com/r/longevity/comments/1u8n71p/skeletal_muscle_is_the_organ_of_longevity_the/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/longevity · community knowledge",
+      "content_type": "post",
+      "author": "u/dan_in_ca · r/longevity",
+      "handle": "longevity",
+      "org": "r/longevity",
+      "platform": "reddit",
+      "published": "2026-06-17T21:27:39.000Z",
+      "image": "https://external-preview.redd.it/iTaAzadOZXpIwTjkQuvSw5XyksE51vv5GGSrUC_OxoU.png?width=640&crop=smart&auto=webp&s=c905c6c7326294d2e31c56f5ee423f9f38b521f0",
+      "thumbnail": "https://external-preview.redd.it/iTaAzadOZXpIwTjkQuvSw5XyksE51vv5GGSrUC_OxoU.png?width=640&crop=smart&auto=webp&s=c905c6c7326294d2e31c56f5ee423f9f38b521f0",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Longevity",
+      "categories": [
+        "Reddit",
+        "Science",
+        "Longevity",
+        "r/longevity"
+      ],
+      "summary": "Skeletal Muscle Is the Organ of Longevity. The role of cellular senesence in muscle function decline",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/longevity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1u86boh",
+      "title": "'The retail SSD market has almost disappeared,' says Silicon Motion exec — PC OEMs are buying third-party drives as direct NAND supply dries up",
+      "link": "https://www.reddit.com/r/hardware/comments/1u86boh/the_retail_ssd_market_has_almost_disappeared_says/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/hardware · community knowledge",
+      "content_type": "post",
+      "author": "u/sr_local · r/hardware",
+      "handle": "hardware",
+      "org": "r/hardware",
+      "platform": "reddit",
+      "published": "2026-06-17T10:23:21.000Z",
+      "image": "https://external-preview.redd.it/NESa9Z6tkb8AO4cONaMybpn_MmHNth9yFxbd3Zg8G_4.jpeg?width=640&crop=smart&auto=webp&s=31e7120dd1fb59eed235a983cef9177f3368403f",
+      "thumbnail": "https://external-preview.redd.it/NESa9Z6tkb8AO4cONaMybpn_MmHNth9yFxbd3Zg8G_4.jpeg?width=640&crop=smart&auto=webp&s=31e7120dd1fb59eed235a983cef9177f3368403f",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/hardware"
+      ],
+      "summary": "'The retail SSD market has almost disappeared,' says Silicon Motion exec — PC OEMs are buying third-party drives as direct NAND supply dries up",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/hardware this week"
       ],
       "metrics": {
         "likes": 0,

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-23T23:38:40.987Z",
+  "generated_at": "2026-06-24T03:56:14.346Z",
   "handles": [
-    "nvidia",
+    "AnthropicAI",
     "OpenAI",
+    "nvidia",
     "elonmusk",
     "gdb",
-    "GoogleDeepMind",
-    "AnthropicAI"
+    "GoogleDeepMind"
   ],
   "count": 32,
   "articles": [
@@ -74,20 +74,21 @@
       "summary": "OpenAI DevDay 2026 applications are now open! Our biggest developer event gets even bigger. 📍 San Francisco 📅 September 29 Apply by July 10: https://devday.openai.com/",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 63,
+      "worthiness_score": 66,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
         "report-worthy",
-        "links to a source"
+        "links to a source",
+        "high engagement (1.3K likes)"
       ],
       "metrics": {
-        "likes": 216,
-        "retweets": 28,
-        "replies": 41,
-        "likes_h": "216"
+        "likes": 1334,
+        "retweets": 129,
+        "replies": 113,
+        "likes_h": "1.3K"
       },
-      "engagement": 313,
+      "engagement": 1705,
       "hot": false
     },
     {
@@ -371,12 +372,12 @@
         "business signal (customers)"
       ],
       "metrics": {
-        "likes": 344,
-        "retweets": 14,
+        "likes": 353,
+        "retweets": 15,
         "replies": 8,
-        "likes_h": "344"
+        "likes_h": "353"
       },
-      "engagement": 380,
+      "engagement": 391,
       "hot": false
     },
     {
@@ -412,12 +413,12 @@
         "tech substance (models, open source)"
       ],
       "metrics": {
-        "likes": 795,
-        "retweets": 52,
+        "likes": 829,
+        "retweets": 54,
         "replies": 35,
-        "likes_h": "795"
+        "likes_h": "829"
       },
-      "engagement": 934,
+      "engagement": 972,
       "hot": false
     },
     {
@@ -451,15 +452,15 @@
         "report-worthy",
         "reply / conversation",
         "tech substance (model, gpt)",
-        "high engagement (2.1K likes)"
+        "high engagement (2.3K likes)"
       ],
       "metrics": {
-        "likes": 2117,
-        "retweets": 180,
-        "replies": 54,
-        "likes_h": "2.1K"
+        "likes": 2287,
+        "retweets": 187,
+        "replies": 56,
+        "likes_h": "2.3K"
       },
-      "engagement": 2531,
+      "engagement": 2717,
       "hot": false
     },
     {
@@ -492,15 +493,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (model, gpt, version)",
-        "high engagement (4.1K likes)"
+        "high engagement (4.2K likes)"
       ],
       "metrics": {
-        "likes": 4092,
-        "retweets": 470,
-        "replies": 283,
-        "likes_h": "4.1K"
+        "likes": 4190,
+        "retweets": 480,
+        "replies": 293,
+        "likes_h": "4.2K"
       },
-      "engagement": 5315,
+      "engagement": 5443,
       "hot": true
     },
     {
@@ -621,12 +622,12 @@
         "high engagement (2.8K likes)"
       ],
       "metrics": {
-        "likes": 2792,
+        "likes": 2796,
         "retweets": 268,
         "replies": 230,
         "likes_h": "2.8K"
       },
-      "engagement": 3558,
+      "engagement": 3562,
       "hot": false
     },
     {
@@ -707,12 +708,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 2197,
-        "retweets": 187,
-        "replies": 338,
+        "likes": 2214,
+        "retweets": 188,
+        "replies": 339,
         "likes_h": "2.2K"
       },
-      "engagement": 2909,
+      "engagement": 2929,
       "hot": false
     },
     {
@@ -754,7 +755,7 @@
         "likes_h": "3K"
       },
       "engagement": 3962,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2067594863785173257",
@@ -875,7 +876,7 @@
         "likes_h": "3.1K"
       },
       "engagement": 3922,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2067346918746030496",
@@ -1239,12 +1240,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 290,
+        "likes": 292,
         "retweets": 26,
         "replies": 105,
-        "likes_h": "290"
+        "likes_h": "292"
       },
-      "engagement": 447,
+      "engagement": 449,
       "hot": false
     },
     {
@@ -1281,12 +1282,12 @@
         "high engagement (3.5K likes)"
       ],
       "metrics": {
-        "likes": 3494,
+        "likes": 3497,
         "retweets": 375,
         "replies": 492,
         "likes_h": "3.5K"
       },
-      "engagement": 4736,
+      "engagement": 4739,
       "hot": true
     },
     {
