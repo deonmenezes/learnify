@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-06-25T17:35:05.798Z",
+  "generated_at": "2026-06-25T20:09:19.244Z",
   "subs": [
     "MachineLearning",
-    "LocalLLaMA",
-    "running",
+    "Fitness",
+    "robotics",
     "investing",
     "longevity",
     "nutrition",
     "hardware",
     "artificial",
-    "Fitness",
+    "LocalLLaMA",
     "programming",
+    "running",
     "SkincareAddiction",
     "singularity",
     "bodyweightfitness",
-    "robotics",
     "startups"
   ],
   "count": 36,
   "by_category": {
     "Startups & Funding": 5,
-    "Science": 4,
+    "Robotics": 4,
+    "Science": 3,
     "Fitness": 9,
     "Hardware & Gadgets": 3,
     "AI / ML": 7,
     "Coding & Dev Tools": 2,
-    "Skincare": 4,
-    "Robotics": 2
+    "Skincare": 3
   },
   "articles": [
     {
@@ -102,6 +102,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/investing this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uerhc1",
+      "title": "Robotics for data centers",
+      "link": "https://www.reddit.com/r/robotics/comments/1uerhc1/robotics_for_data_centers/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/robotics · community knowledge",
+      "content_type": "post",
+      "author": "u/kuaythrone · r/robotics",
+      "handle": "robotics",
+      "org": "r/robotics",
+      "platform": "reddit",
+      "published": "2026-06-24T22:03:34.000Z",
+      "image": "https://external-preview.redd.it/Znl3cGcwdjN6YTloMQAYOZKWh1cknT1sX1FZjZLQVSTnFlFRRbqZdUe_75DE.png?width=640&crop=smart&auto=webp&s=72f967dea3850a84bc10094593dfe137a3472620",
+      "thumbnail": "https://external-preview.redd.it/Znl3cGcwdjN6YTloMQAYOZKWh1cknT1sX1FZjZLQVSTnFlFRRbqZdUe_75DE.png?width=640&crop=smart&auto=webp&s=72f967dea3850a84bc10094593dfe137a3472620",
+      "section": "Robotics",
+      "category": "Robotics",
+      "genre": "Robotics",
+      "categories": [
+        "Reddit",
+        "Robotics",
+        "r/robotics"
+      ],
+      "summary": "The scarce thing in a data center is not manpower, but instinct that only comes from years on the floor. Most robotics companies are focused on robots as a productivity amplifiers: 24/7 uptime, five days of work done in two. Few are focused on the potential of robots to change how people work altogether. We wanted to…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/robotics this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1176,6 +1215,45 @@
       }
     },
     {
+      "id": "reddit_1ubo4eb",
+      "title": "My $250 mobile robot uses 4 smartphones as a budget LiDAR alternative. Works surprisingly well, but I hit a depth scaling snag.",
+      "link": "https://www.reddit.com/r/robotics/comments/1ubo4eb/my_250_mobile_robot_uses_4_smartphones_as_a/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/robotics · community knowledge",
+      "content_type": "post",
+      "author": "u/ganacbicnio · r/robotics",
+      "handle": "robotics",
+      "org": "r/robotics",
+      "platform": "reddit",
+      "published": "2026-06-21T11:51:57.000Z",
+      "image": "https://external-preview.redd.it/dXZ3aXBqeGtpbThoMVWFwhBF_ylEkXwr2RaqBpzN9Hsv74Y3hvbgm4Z9hHLf.png?width=640&crop=smart&auto=webp&s=7799d3c9c1387dab808f858a6c75e3c66e08ccb3",
+      "thumbnail": "https://external-preview.redd.it/dXZ3aXBqeGtpbThoMVWFwhBF_ylEkXwr2RaqBpzN9Hsv74Y3hvbgm4Z9hHLf.png?width=640&crop=smart&auto=webp&s=7799d3c9c1387dab808f858a6c75e3c66e08ccb3",
+      "section": "Robotics",
+      "category": "Robotics",
+      "genre": "Robotics",
+      "categories": [
+        "Reddit",
+        "Robotics",
+        "r/robotics"
+      ],
+      "summary": "Hey r/robotics , Wanted to share my latest budget mobile robot build. The goal was to keep it under $250, so instead of buying an expensive LiDAR setup or dedicated depth cameras, I rigged up 4 cheap smartphones to stream video data. I’m running the streams through Depth Anything v3 (DA3) to estimate the depth maps,…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/robotics this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1ubkv4u",
       "title": "Demo of quadruped robot navigating low barrier with wall support",
       "link": "https://www.reddit.com/r/robotics/comments/1ubkv4u/demo_of_quadruped_robot_navigating_low_barrier/",
@@ -1366,85 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/singularity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ube2ub",
-      "title": "[Anti Aging] I’m 27 and feel like my face has aged far beyond my years",
-      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1ube2ub/anti_aging_im_27_and_feel_like_my_face_has_aged/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/SkincareAddiction · community knowledge",
-      "content_type": "post",
-      "author": "u/Ok_Sugar_4951 · r/SkincareAddiction",
-      "handle": "SkincareAddiction",
-      "org": "r/SkincareAddiction",
-      "platform": "reddit",
-      "published": "2026-06-21T02:16:47.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Skincare",
-      "category": "Skincare",
-      "genre": "Skincare",
-      "categories": [
-        "Reddit",
-        "Skincare",
-        "r/SkincareAddiction"
-      ],
-      "summary": "I feel like my skin has aged so much over the past few years. I&#39;ve had two children, major weight fluctuations, and my fair share of stress. I&#39;ve been consistent with moisturizer, collagen, and wear sunscreen daily, and have been on and off tretinoin for a long time. My biggest concerns are: Skin…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/SkincareAddiction this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ub9eo6",
-      "title": "Aging is not uniform across the body. A new Nature Medicine study maps it at the level of individual cell types from a blood test across 60,000 people.",
-      "link": "https://www.reddit.com/r/longevity/comments/1ub9eo6/aging_is_not_uniform_across_the_body_a_new_nature/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/longevity · community knowledge",
-      "content_type": "post",
-      "author": "u/dan_in_ca · r/longevity",
-      "handle": "longevity",
-      "org": "r/longevity",
-      "platform": "reddit",
-      "published": "2026-06-20T22:29:06.000Z",
-      "image": "https://external-preview.redd.it/-tVIXWMrw6wTzN_DOvVUMV3YLxeFVL3b5iO5fpyCXN8.jpeg?width=640&crop=smart&auto=webp&s=43ea3d99abc480ed3da188265f6d4c0ae04edf02",
-      "thumbnail": "https://external-preview.redd.it/-tVIXWMrw6wTzN_DOvVUMV3YLxeFVL3b5iO5fpyCXN8.jpeg?width=640&crop=smart&auto=webp&s=43ea3d99abc480ed3da188265f6d4c0ae04edf02",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Longevity",
-      "categories": [
-        "Reddit",
-        "Science",
-        "Longevity",
-        "r/longevity"
-      ],
-      "summary": "An analysis of a new biological age model from the Wyss-Coray Lab at Stanford. Bioage models typically give a composite number. This model maps aging at the level of individual cell types, 40+ simultaneously from a single blood draw. It&#39;s validated across two proteomics platforms and with blood bank data from 60k…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/longevity this week"
       ],
       "metrics": {
         "likes": 0,
