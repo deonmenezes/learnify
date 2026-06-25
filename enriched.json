@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-25T15:24:51.730Z",
+  "generated_at": "2026-06-25T17:30:52.745Z",
   "model": "nvidia/nemotron-3-super-120b-a12b",
-  "count": 4263,
+  "count": 4328,
   "items": {
     "13v0dgn": {
       "ai_summary": "Top AI models initially scored over 90% on a classic color‑naming attention test, but their accuracy dropped sharply as the task grew longer and more complex. In some cases, performance fell to near‑zero, revealing a key limitation in sustained attention.",
@@ -308,33 +308,6 @@
       "media_credit_url": "https://www.flickr.com/photos/37472264@N04/50060710938",
       "image": "https://www.sciencedaily.com/images/1920/quijote-simulations.webp"
     },
-    "1v51z0v": {
-      "ai_summary": "SpaceX special purpose vehicle (SPV) investors will not see their actual holdings until the post‑IPO lock‑up period ends. Once SpaceX goes public, lower‑tier SPV investors may encounter hidden fees, delayed payouts, and potential fraud.",
-      "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
-      "t": 1781209612045,
-      "media_url": "https://live.staticflickr.com/1/625533_9379b86613.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: cohærence * / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/61034561@N00/625533"
-    },
-    "1lhe5hv": {
-      "ai_summary": "SpaceX has priced its shares at $135 each, declaring the offering the largest IPO in history. The company’s IPO is now officially underway following the pricing announcement.",
-      "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
-      "t": 1781222750786,
-      "media_url": "https://live.staticflickr.com/1/625533_9379b86613.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: cohærence * / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/61034561@N00/625533"
-    },
-    "dxvace": {
-      "ai_summary": "Oracle warned of a security flaw that a cybercrime gang is exploiting to breach over 100 companies. Google said it notified more than 100 organizations that had potentially vulnerable servers.",
-      "title": "Oracle warns of security bug that hackers abused to breach 100+ companies",
-      "t": 1781222750780,
-      "media_url": "https://live.staticflickr.com/2069/2073400408_b42c8b1cdf_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: LoopZilla / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/24987280@N00/2073400408"
-    },
     "6v4hm3": {
       "ai_summary": "Equal AI raised $30 million to develop an AI-powered call assistant that screens unwanted calls for Indian users. The company reports the assistant now has over a million monthly active users.",
       "title": "Equal AI raises $30M to screen calls so Indians don’t have to",
@@ -343,24 +316,6 @@
       "media_kind": "stock",
       "media_credit": "Photo: Sean MacEntee / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/18090920@N07/5324223435"
-    },
-    "1kspaw8": {
-      "ai_summary": "Prometheus, backed by Jeff Bezos, raised $12 billion in a new funding round that values the startup at $41 billion. The company aims to develop an artificial general engineer to automate heavy engineering and drug design in the physical world.",
-      "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
-      "t": 1781241359801,
-      "media_url": "https://live.staticflickr.com/7422/12369089904_166e8573d5_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/12369089904"
-    },
-    "fq8fpj": {
-      "ai_summary": "Theker secured $85 million in funding to develop a factory robot that avoids specialization, instead being designed for easy reconfiguration. Its approach contrasts with fixed‑form humanoid robots such as those from Boston Dynamics.",
-      "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
-      "t": 1781241376207,
-      "media_url": "https://live.staticflickr.com/1801/43267970922_94ebb5b7e6.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: deepakiqlect / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/158301585@N08/43267970922"
     },
     "1x06i1j": {
       "ai_summary": "Avataar’s distilled video AI delivers a cheaper, faster, and culturally aware solution designed for India’s scale. The model is priced at $0.005 for each second of video generation.",
@@ -1714,11 +1669,6 @@
       "media_kind": "stock",
       "media_credit": "Photo: deepakiqlect / BY-SA 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/158301585@N08/43267970922"
-    },
-    "h2a9d": {
-      "ai_summary": "Private analytics are enabled through zero‑trust aggregation, ensuring data remains confidential while still yielding actionable insights. This approach strengthens security, safeguards privacy, and helps prevent abuse by limiting data exposure and enforcing strict access controls.",
-      "title": "Private analytics via zero-trust aggregation",
-      "t": 1781460012919
     },
     "arxiv_1mrj63p": {
       "ai_summary": "SPSysML is a SysML‑based domain‑specific language that evaluates the integrity and reusability of both simulated and physical components in early cyber‑physical system design. By addressing vague and uncertain design information, it aims to improve design quality and lower development costs.",
@@ -32876,7 +32826,8 @@
       "media_url": "https://live.staticflickr.com/2949/15490190381_f2e4c99251_b.jpg",
       "media_kind": "stock",
       "media_credit": "Photo: BOMBMAN / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/99622129@N00/15490190381"
+      "media_credit_url": "https://www.flickr.com/photos/99622129@N00/15490190381",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2055/06/SuperKamiokandeObservatoryInKamiokaJapan-crKamioka-Observatory_ICRR_UniversityOfTokyo-Social.jpg"
     },
     "2dllid": {
       "title": "China's Einstein Probe detected a mysterious cosmic explosion — and scientists have no idea what caused it",
@@ -36656,6 +36607,572 @@
       "media_kind": "stock",
       "media_credit": "Photo: Jeffrey Beall / BY-SA 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/31437555@N00/6013914231"
+    },
+    "novrgy": {
+      "title": "Besimple AI (YC P25) Is Hiring",
+      "t": 1782408638879,
+      "image": "https://bookface-images.s3.amazonaws.com/logos/3a2b88c2def0636ed6e5742652d1ae0ab9e0f271.png?1747153565",
+      "media_url": "https://live.staticflickr.com/2762/4140950690_e8e7fa21f4.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950690"
+    },
+    "1s47ysu": {
+      "title": "Deno 2.9",
+      "t": 1782408638879,
+      "image": "https://deno.com/blog/v2.9/og.webp",
+      "media_url": "https://live.staticflickr.com/2723/4140951044_cebe112a5b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140951044"
+    },
+    "6f6drj": {
+      "title": "European Commission lines up Amazon and Microsoft for cloud gatekeeper status",
+      "t": 1782408638879,
+      "image": "https://image.theregister.com/241510.jpg?imageId=241510&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "media_url": "https://live.staticflickr.com/1061/686562697_5d86ba6d67.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Wesley Clouden / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/40622964@N00/686562697"
+    },
+    "17nm817": {
+      "title": "Windows 10 quietly gets one more year of support and updates",
+      "t": 1782408638879,
+      "image": "https://cdn.neowin.com/news/images/uploaded/2025/06/1750766875_windows_10_story.webp",
+      "media_url": "https://live.staticflickr.com/2681/4140950940_186aec55ba.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950940"
+    },
+    "99w00x": {
+      "title": "A Herculaneum scroll has been read for the first time",
+      "t": 1782408638879,
+      "image": "https://scrollprize.org/img/firstscroll/og.webp"
+    },
+    "9b8pu9": {
+      "title": "Political bias in AI: Where the AI models stand",
+      "t": 1782408638879,
+      "image": "https://trakkr.ai/og-bias.png"
+    },
+    "pnm6xn": {
+      "title": "China's answer to Claude's Fable 5 comes top of the HTML web design contest as the CEO tells Elon Musk GLM will reach Mythos-class before Q1 2027",
+      "t": 1782408641851,
+      "media_url": "https://live.staticflickr.com/8400/8669956137_dcb917a1b8_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Richard Masoner / Cyclelicious / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/99247795@N00/8669956137"
+    },
+    "awp1tb": {
+      "title": "You’ve got 11 hours to save 67% on this 4TB SanDisk Creator SSD, now just $350 down from $1050",
+      "t": 1782408642199,
+      "media_url": "https://live.staticflickr.com/6088/6067734857_d2719ecac4_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: InSapphoWeTrust / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/56619626@N05/6067734857"
+    },
+    "7xo66f": {
+      "title": "Researchers test a smart lion collar in Tanzania",
+      "t": 1782408642372,
+      "media_url": "https://live.staticflickr.com/727/20571268532_e4c93060c4.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: mypubliclands / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/91981596@N06/20571268532"
+    },
+    "3xb4yf": {
+      "title": "Chinese cybersecurity company 360 unveils “China's version of Mythos”, and Yitianzhen, to automate cyber defense",
+      "t": 1782408642571,
+      "media_url": "https://live.staticflickr.com/65535/52678548847_a7e50ffcdb_m.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: nordique / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/28435100@N00/52678548847"
+    },
+    "1uynr8g": {
+      "title": "AI reads 3D tooth microwear to reconstruct diets of early human ancestors",
+      "t": 1782408642708,
+      "media_url": "https://live.staticflickr.com/505/19948271482_a3e13c60a2_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: kevin dooley / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/12836528@N00/19948271482"
+    },
+    "ingpy2": {
+      "title": "Valve clarifies that all Steam Machines have a single 16GB RAM stick — here's what this means, and why I think it's another reason gamers may hold off buying the PC",
+      "t": 1782408643202,
+      "media_url": "https://live.staticflickr.com/4133/4842443532_761d6ecc6c.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Pranksky / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/44340630@N08/4842443532"
+    },
+    "hiugqw": {
+      "title": "Russia allegedly used a forensics platform to hack an activist's phone, despite having its access cut off",
+      "t": 1782408643309,
+      "media_url": "https://live.staticflickr.com/7305/12641973694_99f33f379f_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: MDGovpics / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/64018555@N03/12641973694"
+    },
+    "1lu5rwv": {
+      "title": "Epic boss Tim Sweeney blasts Steam for putting AI tags on games — says move is ‘irresponsible of Valve’",
+      "t": 1782408643571,
+      "media_url": "https://live.staticflickr.com/4190/33721186053_e0d41fb5a2_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: ITU Pictures / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/42121221@N07/33721186053"
+    },
+    "1mmsvey": {
+      "title": "Unconventional AI releases its first model, built on an oscillator architecture its founder says could cut power use by a factor of a thousand",
+      "t": 1782408643575,
+      "media_url": "https://live.staticflickr.com/2284/2263161375_820c5a83c2_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: deltaMike / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/86078640@N00/2263161375"
+    },
+    "1bae4h8": {
+      "title": "2027 Macs to Get AI-Focused M7 Chips as Apple Skips High-End M6",
+      "t": 1782408643828,
+      "media_url": "https://live.staticflickr.com/7006/6539304713_949d8c9606_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: h080 / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/7718908@N04/6539304713"
+    },
+    "2utotj": {
+      "title": "How to watch Curacao vs Ivory Coast: Free Streams & TV Channels online from anywhere for FIFA World Cup 2026",
+      "t": 1782408644099,
+      "media_url": "https://live.staticflickr.com/7412/16355405090_5d2e36d587_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: thedailyenglishshow / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/61904084@N00/16355405090"
+    },
+    "lzahgz": {
+      "title": "How to watch Ecuador vs Germany: Free Streams, TV Details and Kick-Off time for FIFA World Cup 2026 as La Tri aim to avoid early exit",
+      "t": 1782408644100,
+      "media_url": "https://live.staticflickr.com/3528/3214236743_a9832f3823_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: YEMAC_UNDP / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/27814820@N05/3214236743"
+    },
+    "2lp46l": {
+      "title": "Some of the last surviving Neanderthals were remarkably diverse ‪—‬ suggesting inbreeding didn't doom them",
+      "t": 1782408644115,
+      "media_url": "https://live.staticflickr.com/7010/6718559761_6b1aa30065.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/6718559761"
+    },
+    "1kzxnig": {
+      "title": "Apple will skip M6 Pro and M6 Max chips, new report says",
+      "t": 1782408645260,
+      "media_url": "https://live.staticflickr.com/396/18777651558_b33c02e1b6_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: JLaw45 / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/27665395@N05/18777651558"
+    },
+    "10osng1": {
+      "title": "I managed to escape cloud storage monthly fees using this smart Android trick",
+      "t": 1782408645427,
+      "media_url": "https://live.staticflickr.com/2886/9294667883_0f627cfd12.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: xmodulo / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/91795203@N02/9294667883"
+    },
+    "1xid0o1": {
+      "title": "OpenAI's updated GPT-5.5 Instant is better at shopping, complex constraints, and understanding user intent  — and it's already in the API",
+      "t": 1782408645743,
+      "media_url": "https://live.staticflickr.com/7201/7084740991_f1d384bafb_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: MDGovpics / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/64018555@N03/7084740991"
+    },
+    "w0vy49": {
+      "title": "How to create the perfect wing shot in handball",
+      "t": 1782408645877,
+      "media_url": "https://live.staticflickr.com/3767/9685915701_231406dab6_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: NASA Goddard Photo and Video / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/24662369@N07/9685915701"
+    },
+    "qo5hko": {
+      "title": "New electrocatalyst helps turn polluted water into fertilizer and polymers",
+      "t": 1782408645912,
+      "media_url": "https://live.staticflickr.com/1306/4679199010_29e9b08a14.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: BiblioArchives / LibraryArchives / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/28853433@N02/4679199010"
+    },
+    "nkz88w": {
+      "title": "I test coffee makers for a living, and these are the top 3 cheap espresso machines I recommend — particularly on Prime Day",
+      "t": 1782408646203,
+      "media_url": "https://live.staticflickr.com/423/31445526552_5524eb624f_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: (Imagine) 2.0 / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/99732909@N02/31445526552"
+    },
+    "1q3xwgt": {
+      "title": "The Samsung Galaxy A27 lands with several key upgrades over the A26 — but one core feature has surprisingly gotten worse",
+      "t": 1782408646288,
+      "media_url": "https://live.staticflickr.com/4097/4764336585_ca035aca3f_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: liewcf / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/34353636@N00/4764336585"
+    },
+    "ohyo5o": {
+      "title": "Scalpers circle AMD's Ryzen 7 5800X3D 10th Anniversary Edition, asking for $600 or more — re-released CPU sees inconsistent inventory on release day",
+      "t": 1782408646434,
+      "media_url": "https://live.staticflickr.com/3661/3608745322_d24e0ec0ec_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: pasukaru76 / CC0 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/38451115@N04/3608745322"
+    },
+    "180c96a": {
+      "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
+      "t": 1782408646506,
+      "media_url": "https://live.staticflickr.com/5672/29949919183_74ebb78def_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: ITU Pictures / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/42121221@N07/29949919183"
+    },
+    "11htznw": {
+      "title": "Google Finance exits beta with a dedicated Android app, portfolio tracking, and AI-powered scheduled briefings",
+      "t": 1782408646675,
+      "media_url": "https://live.staticflickr.com/5193/14162768956_0fc78982e2_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: PressureNet / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/123885760@N08/14162768956"
+    },
+    "17xz3f1": {
+      "title": "Xbox console prices are about to rise for the second time in a year, just before GTA VI launches — so you really don't want to miss this Xbox Series X deal at Walmart while it lasts",
+      "t": 1782408646722,
+      "media_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Xbox_One_Elite_Controller_%28Model_1698%29_-_underside.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: mliu92 / BY-SA 2.0 via wikimedia",
+      "media_credit_url": "https://commons.wikimedia.org/w/index.php?curid=96293229"
+    },
+    "k3ph57": {
+      "title": "The universe should look the same in all directions at large scales, but DESI data suggest otherwise",
+      "t": 1782408646883,
+      "media_url": "https://live.staticflickr.com/5264/5610783465_876753a78c_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Patrick Hoesly / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/60057912@N00/5610783465"
+    },
+    "1jw4ein": {
+      "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
+      "t": 1782408647060,
+      "media_url": "https://live.staticflickr.com/2284/2263161375_820c5a83c2_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: deltaMike / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/86078640@N00/2263161375"
+    },
+    "j0zl92": {
+      "title": "Sail raises $80M to make AI agents cheaper to run",
+      "t": 1782408647238,
+      "media_url": "https://live.staticflickr.com/65535/51918050245_2ac4e700b0_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Wendelin Jacober / CC0 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/91619724@N04/51918050245"
+    },
+    "6gsm1f": {
+      "title": "Xbox prices spike another $100 or more",
+      "t": 1782408647241,
+      "media_url": "https://live.staticflickr.com/7280/7860127058_ece06c8d3a_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: archer10 (Dennis) / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/22490717@N02/7860127058"
+    },
+    "1tkota7": {
+      "title": "Gov. Gavin Newsom releases first-in-the-nation tool to track AI-related job losses",
+      "t": 1782408647451,
+      "media_url": "https://live.staticflickr.com/4112/4837967972_8e59ac888e_m.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Speaker Nancy Pelosi / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/11461909@N06/4837967972"
+    },
+    "goplb2": {
+      "title": "Don't waste your money on over-priced noise cancelling headphones — I've tested more than 15 models, and these are the only 4 I'd buy right now",
+      "t": 1782408647535,
+      "media_url": "https://live.staticflickr.com/423/31636201122_3bdf8b2be4_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: TAKA@P.P.R.S / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/26414679@N05/31636201122"
+    },
+    "180my5o": {
+      "title": "New X-VPN's soccer servers are designed to do one thing — get you to a World Cup stream faster",
+      "t": 1782408647601,
+      "media_url": "https://live.staticflickr.com/65535/49568734517_3cab701e52_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: topten5 / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/185174148@N07/49568734517"
+    },
+    "1ivey5b": {
+      "title": "Hacked Klue says criminals are deleting stolen customer data, but now other hackers are making threats",
+      "t": 1782408647612,
+      "media_url": "https://live.staticflickr.com/8161/7190315846_1a651daaf7_m.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: paul.orear / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/9984289@N02/7190315846"
+    },
+    "qgdx4b": {
+      "title": "Experts explain where nature conservation can make the greatest difference in saving endangered species",
+      "t": 1782408647785,
+      "media_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/K%C3%BCsnacht_ZH_Historische_Verbauung_Tobel_6.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Silvestre de la Pierre d'Alexandre / BY 4.0 via wikimedia",
+      "media_credit_url": "https://commons.wikimedia.org/w/index.php?curid=192691724"
+    },
+    "1i69uao": {
+      "title": "Commute stress can fuel workplace conflict, but research suggests a simple fix",
+      "t": 1782408648063,
+      "media_url": "https://live.staticflickr.com/5590/14976599356_5f2289fc1a_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Gene Hunt / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/90384027@N00/14976599356"
+    },
+    "nmob82": {
+      "title": "It’s (almost) official: Samsung is adding a Pro model to the Galaxy S27 Lineup",
+      "t": 1782408648195,
+      "media_url": "https://live.staticflickr.com/7218/7293498344_c42c82844d_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Stereopoly Blog / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/79248796@N07/7293498344"
+    },
+    "1l92cj5": {
+      "title": "Save up to 45% on SteelSeries headsets, keyboards, and mice — Arctic Nova Pro headset, Apex Pro keyboards, Aerox 5 mouse, and more, are on deep discounts right now",
+      "t": 1782408648250,
+      "media_url": "https://live.staticflickr.com/6029/6016835558_869be6ceb0_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Hexidecimal / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/7655955@N07/6016835558"
+    },
+    "1guvo2f": {
+      "title": "This is so much phone for the money. [Video]",
+      "t": 1782408648617,
+      "media_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Galaxy_S26_Ultra_-_3.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Kyu3a / BY-SA 4.0 via wikimedia",
+      "media_credit_url": "https://commons.wikimedia.org/w/index.php?curid=185622647"
+    },
+    "r89jno": {
+      "title": "Pokémon Legends Z-A is is easily the best Pokémon game in years — and right now it’s $25 off for Prime Day",
+      "t": 1782408648780,
+      "media_url": "https://live.staticflickr.com/633/32380570474_4a5d32517e_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: matsuyuki / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/12173213@N00/32380570474"
+    },
+    "1m1q06q": {
+      "title": "Samsung's latest budget phone has mild upgrades and a $50 price hike",
+      "t": 1782408648801,
+      "media_url": "https://live.staticflickr.com/5142/5601654995_3e6e756776_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Phil Roeder / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/88876166@N00/5601654995"
+    },
+    "131pd0c": {
+      "title": "AMD Ryzen 7 5800X3D re-review: Maxing out DDR4’s gaming potential",
+      "t": 1782408648971,
+      "media_url": "https://live.staticflickr.com/3296/3100832389_e8de138113_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Uwe Hermann / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/73628542@N00/3100832389"
+    },
+    "14gu2gk": {
+      "title": "Here are all of the Apple price hikes",
+      "t": 1782408649049,
+      "media_url": "https://live.staticflickr.com/1027/1343193489_bc18a2d31e_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: petercooperuk / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/54603144@N00/1343193489"
+    },
+    "1vwtk65": {
+      "title": "Notion shutting down its AI-powered email client, including Mac and iOS apps",
+      "t": 1782408649240,
+      "media_url": "https://live.staticflickr.com/3366/3437849551_f6f4fbf27d_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: danxoneil / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/36521980095@N01/3437849551"
+    },
+    "19a272l": {
+      "title": "B&H's RAM bundles blowout offers 32GB of DDR5 memory for around $250 — save on multiple bundles, including Ryzen 7 9850X3D, DDR5, and a motherboard",
+      "t": 1782408649271,
+      "media_url": "https://live.staticflickr.com/2649/4133766854_6bdfe1ec52_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Asim Bijarani / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/8624431@N08/4133766854"
+    },
+    "1g57spo": {
+      "title": "Halo Campaign Evolved's three new missions were inspired by Troy Denning's Halo books, but Halo Studios would recommend playing them after finishing the original story — 'It is meant to be played that way'",
+      "t": 1782408649418,
+      "media_url": "https://live.staticflickr.com/1395/1439058285_05720a24f4_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Ian D / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/85714479@N00/1439058285"
+    },
+    "h3o2c5": {
+      "title": "Got to get you into my life: these essential vinyl albums and gifts will help you come together on Global Beatles Day — all you need is love (and maybe a great beginner turntable too)",
+      "t": 1782408649609,
+      "media_url": "https://live.staticflickr.com/8305/7986637880_8b78327e7e_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: hernanpba / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/67430875@N03/7986637880"
+    },
+    "1wtbtid": {
+      "title": "Riot Vanguard finally drops its controversial always-on requirement for anti-cheat — new on-demand mode requires a strict Windows 11 security stack",
+      "t": 1782408650060,
+      "media_url": "https://live.staticflickr.com/2288/1775554598_632242b7aa_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: tomer.gabel / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/8432555@N03/1775554598"
+    },
+    "13jj23s": {
+      "title": "If this heatwave has taught me anything, it's the value of keeping your drinks cool — which is why I'm snapping up this Yeti Prime Day deal in preparation for next summer",
+      "t": 1782408650856,
+      "media_url": "https://live.staticflickr.com/5444/7222396872_eb489b72a8_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: NashvilleCorps / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/47953739@N08/7222396872"
+    },
+    "1i4wxa7": {
+      "title": "I’ve spent Prime Day hunting for glorious retro gaming gadgets — whether you want to play nostalgic Nintendo games on your Switch 2 or are after a classic console, these are my personal highlights",
+      "t": 1782408650914,
+      "media_url": "https://live.staticflickr.com/4133/4842443532_761d6ecc6c.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Pranksky / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/44340630@N08/4842443532"
+    },
+    "1l4c7p4": {
+      "title": "Coval raises $28M to stress-test AI voice agents",
+      "t": 1782408651021,
+      "media_url": "https://live.staticflickr.com/5628/30284645320_6c22cf0fa5_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: ITU Pictures / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/42121221@N07/30284645320"
+    },
+    "101mpgs": {
+      "title": "5 devices you should buy instead of the Fitbit Air",
+      "t": 1782408651344,
+      "media_url": "https://live.staticflickr.com/7450/27469963031_0fbe06e263_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: danxoneil / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/36521980095@N01/27469963031"
+    },
+    "1ia3lu7": {
+      "title": "Students' climate model of deadly July 4 Texas flooding suggests sea surface temperatures actually reduced rainfall",
+      "t": 1782408651356,
+      "media_url": "https://live.staticflickr.com/6183/6141419530_66ef8218df.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: SFU - Communications & Marketing / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45160304@N02/6141419530"
+    },
+    "368az4": {
+      "title": "Taktile raises $110M to automate banking’s riskiest calls",
+      "t": 1782408651447,
+      "media_url": "https://live.staticflickr.com/5672/29949919183_74ebb78def_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: ITU Pictures / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/42121221@N07/29949919183"
+    },
+    "1qmuut0": {
+      "title": "Netris raises $15M Series A from a16z to automate the networking that slows down GPU clouds",
+      "t": 1782408651558,
+      "media_url": "https://live.staticflickr.com/5567/14696937320_c76e4b8646_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: theglobalpanorama / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/121483302@N02/14696937320"
+    },
+    "1tvwnib": {
+      "title": "Beat Apple's price increases on new MacBooks with these stellar deals that can save you up to $500 — big sale on current-gen Pro, Air, and Neo models, avoid new price hikes with extra discounts on top",
+      "t": 1782408651682,
+      "media_url": "https://live.staticflickr.com/7368/16406603065_76be99817c.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Mike Licht, NotionsCapital.com / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/9106303@N05/16406603065"
+    },
+    "hrr77v": {
+      "title": "Extreme heat and health: Policy guide reveals what communities need to know",
+      "t": 1782408651721,
+      "media_url": "https://live.staticflickr.com/4119/4750506867_a977032a46_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/4750506867"
+    },
+    "lv0cbe": {
+      "title": "Google Finance gets a dedicated app for Android",
+      "t": 1782408651752,
+      "media_url": "https://live.staticflickr.com/4073/4867853641_a38337931e_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Johan Larsson / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/38305415@N00/4867853641"
+    },
+    "qpif5x": {
+      "title": "Artificial 'leaf' powers wireless biomedical device",
+      "t": 1782408651876,
+      "media_url": "https://live.staticflickr.com/65535/53084106217_2c6951471d_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/53084106217"
+    },
+    "11spsko": {
+      "title": "Parker Conrad knows which employees are worth their AI spend and says Rippling can help you, too",
+      "t": 1782408651887,
+      "media_url": "https://live.staticflickr.com/2901/14488447746_248ed91273_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: National Assembly For Wales / Cynulliad Cymru / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/39069511@N03/14488447746"
+    },
+    "27ljl0": {
+      "title": "New study calls for rethink of domestic abuse responses in children's services",
+      "t": 1782408651994,
+      "media_url": "https://live.staticflickr.com/7151/27151801741_973c297e02_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Backbone Campaign / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/33000102@N03/27151801741"
+    },
+    "cu4g2n": {
+      "title": "Supergirl ending explained: does Krypto die, are there any end credits scenes, and more on the Milly Alcock-starring DC Universe movie's finale",
+      "t": 1782408652127,
+      "media_url": "https://live.staticflickr.com/7332/27197201933_03a22aa783_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Queensland State Archives / PDM 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/60455048@N02/27197201933"
+    },
+    "1i7y81f": {
+      "title": "Google Finance is now available as a standalone Android app",
+      "t": 1782408652145,
+      "media_url": "https://live.staticflickr.com/7535/16287414406_9ecf5c824e_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: kevin dooley / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/12836528@N00/16287414406"
+    },
+    "wdtk5": {
+      "title": "Micron shares soar after AI-fueled forecast shatters projections",
+      "t": 1782408652295,
+      "media_url": "https://live.staticflickr.com/8393/8607213314_af3cd0d690_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Sean MacEntee / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/18090920@N07/8607213314"
+    },
+    "mogovc": {
+      "title": "BYOK is my new go-to distraction-free writing tool",
+      "t": 1782408652554,
+      "media_url": "https://live.staticflickr.com/5472/11374274414_dca9bafb04_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Serge Seva / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45310548@N06/11374274414"
+    },
+    "183u0w": {
+      "title": "Qualcomm jumps on $15 billion data center sales projection",
+      "t": 1782408652682,
+      "media_url": "https://live.staticflickr.com/2216/2060325146_c197e2b055_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: kevin dooley / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/12836528@N00/2060325146"
+    },
+    "bxmzvk": {
+      "title": "Apple hikes Mac, iPad prices on memory shortage; shares fall",
+      "t": 1782408652740,
+      "media_url": "https://live.staticflickr.com/3265/2630709925_8bafa305e7_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Office Now / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/28150035@N02/2630709925"
     }
   }
 }

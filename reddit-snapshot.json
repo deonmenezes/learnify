@@ -1,36 +1,74 @@
 {
-  "generated_at": "2026-06-25T15:28:59.853Z",
+  "generated_at": "2026-06-25T17:35:05.798Z",
   "subs": [
     "MachineLearning",
-    "artificial",
-    "nutrition",
+    "LocalLLaMA",
+    "running",
     "investing",
     "longevity",
+    "nutrition",
     "hardware",
+    "artificial",
     "Fitness",
     "programming",
-    "running",
     "SkincareAddiction",
     "singularity",
-    "LocalLLaMA",
     "bodyweightfitness",
     "robotics",
-    "startups",
-    "cybersecurity"
+    "startups"
   ],
   "count": 36,
   "by_category": {
-    "Startups & Funding": 4,
+    "Startups & Funding": 5,
     "Science": 4,
-    "Fitness": 10,
+    "Fitness": 9,
     "Hardware & Gadgets": 3,
-    "AI / ML": 6,
+    "AI / ML": 7,
     "Coding & Dev Tools": 2,
     "Skincare": 4,
-    "Robotics": 2,
-    "Security": 1
+    "Robotics": 2
   },
   "articles": [
+    {
+      "id": "reddit_1uf4s6x",
+      "title": "Gold is down ~24% from its recent high.",
+      "link": "https://www.reddit.com/r/investing/comments/1uf4s6x/gold_is_down_24_from_its_recent_high/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/investing · community knowledge",
+      "content_type": "post",
+      "author": "u/Dhruvi-60 · r/investing",
+      "handle": "investing",
+      "org": "r/investing",
+      "platform": "reddit",
+      "published": "2026-06-25T09:03:14.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/investing"
+      ],
+      "summary": "I&#39;m considering buying gold for the long term. Do you think this is a good accumulation opportunity, or could prices fall further? If you were buying today, would you invest a lump sum, buy gradually over the next few months, or wait for more downside? Curious to hear different views on gold&#39;s outlook over the…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/investing this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1uev5u0",
       "title": "Micron quadruples revenue, +14% after hours.",
@@ -270,6 +308,46 @@
       }
     },
     {
+      "id": "reddit_1ue51uk",
+      "title": "Unlimited-OCR is now on ModelScope! A 3.3B multilingual OCR model for one-shot parsing across single images, multi-page documents, and PDFs. License: MIT",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1ue51uk/unlimitedocr_is_now_on_modelscope_a_33b/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/LocalLLaMA · community knowledge",
+      "content_type": "post",
+      "author": "u/Sporeboss · r/LocalLLaMA",
+      "handle": "LocalLLaMA",
+      "org": "r/LocalLLaMA",
+      "platform": "reddit",
+      "published": "2026-06-24T05:53:49.000Z",
+      "image": "https://external-preview.redd.it/eDVseHc2dGY2NjloMRjuwBG_We25XN8jEw_afS8_MTEG560MD4vWFWe_JI83.png?width=640&crop=smart&auto=webp&s=8c22af80bc2cbb91118b0a503ade21a10ab911fc",
+      "thumbnail": "https://external-preview.redd.it/eDVseHc2dGY2NjloMRjuwBG_We25XN8jEw_afS8_MTEG560MD4vWFWe_JI83.png?width=640&crop=smart&auto=webp&s=8c22af80bc2cbb91118b0a503ade21a10ab911fc",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/LocalLLaMA"
+      ],
+      "summary": "Full-document parsing instead of cropped-region OCR 32K output length for long OCR sequences Base and gundam image modes for different document layouts Transformers inference + SGLang serving with OpenAI-compatible streaming requests Built to push DeepSeek-OCR-style document parsing further. source:…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/LocalLLaMA this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1udzf0d",
       "title": "Cheap Chinese AI models are quickly gaining customers across the US market: ‘This changes things’",
       "link": "https://www.reddit.com/r/artificial/comments/1udzf0d/cheap_chinese_ai_models_are_quickly_gaining/",
@@ -459,6 +537,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/programming this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1ud7pw1",
+      "title": "Run Nutrition Tuesday",
+      "link": "https://www.reddit.com/r/running/comments/1ud7pw1/run_nutrition_tuesday/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/running · community knowledge",
+      "content_type": "post",
+      "author": "u/AutoModerator · r/running",
+      "handle": "running",
+      "org": "r/running",
+      "platform": "reddit",
+      "published": "2026-06-23T05:01:13.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/running"
+      ],
+      "summary": "Rules of the Road 1) Anyone is welcome to participate and share your ideas, plans, diet, and nutrition plans. 2) Promote good discussion. Simply downvoting because you disagree with someone&#39;s ideas is BAD. Instead, let them know why you disagree with them. 3) Provide sources if possible. However, anecdotes and…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/running this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1328,124 +1445,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/longevity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ub9cgm",
-      "title": "Any naturally occuring food that is naturally sweet and fat ?",
-      "link": "https://www.reddit.com/r/nutrition/comments/1ub9cgm/any_naturally_occuring_food_that_is_naturally/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/nutrition · community knowledge",
-      "content_type": "post",
-      "author": "u/rosae_rosae_rosa · r/nutrition",
-      "handle": "nutrition",
-      "org": "r/nutrition",
-      "platform": "reddit",
-      "published": "2026-06-20T22:26:16.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Nutrition",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "Nutrition",
-        "r/nutrition"
-      ],
-      "summary": "I heard a guy on tiktok say that the reason fat and sugary foods feel like drug is that food are either sweet (fruits) or fat (avocado, nuts, meat) but not both. The only thing fat and sweet is breast milk and we have an instinct to eat as much of it as possible. &#x200B; And out of curiosity, I wonder if indeed…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/nutrition this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ub6205",
-      "title": "Why \"chicken wing\" muscle up is so unpopular in more western countries?",
-      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1ub6205/why_chicken_wing_muscle_up_is_so_unpopular_in/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/bodyweightfitness · community knowledge",
-      "content_type": "post",
-      "author": "u/WayIndependent6497 · r/bodyweightfitness",
-      "handle": "bodyweightfitness",
-      "org": "r/bodyweightfitness",
-      "platform": "reddit",
-      "published": "2026-06-20T20:02:25.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/bodyweightfitness"
-      ],
-      "summary": "In Russia, Ukraine and Belarus everyone&#39;s next step after 10 pull ups was &quot;chicken wing&quot; and then came standard two arm muscle up i remember back then some people really made online courses just to get to chicken wing or whatever you guys call it. I rarely see anyone in Europe doing it and only post i…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/bodyweightfitness this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ub1t1p",
-      "title": "Anyone else tired of \"Cyber Influencers\" on LinkedIN?",
-      "link": "https://www.reddit.com/r/cybersecurity/comments/1ub1t1p/anyone_else_tired_of_cyber_influencers_on_linkedin/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/cybersecurity · community knowledge",
-      "content_type": "post",
-      "author": "u/neoslashnet · r/cybersecurity",
-      "handle": "cybersecurity",
-      "org": "r/cybersecurity",
-      "platform": "reddit",
-      "published": "2026-06-20T17:08:00.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/cybersecurity"
-      ],
-      "summary": "I have put up with them for years now but I just gotta say it&#39;s getting worse. I see so many damn people who worked in the industry for about 3 years and then try to sell their books and content and other BS. It&#39;s so fucking annoying. &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/cybersecurity this week"
       ],
       "metrics": {
         "likes": 0,
