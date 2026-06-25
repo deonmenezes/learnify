@@ -1,37 +1,76 @@
 {
-  "generated_at": "2026-06-25T22:08:43.820Z",
+  "generated_at": "2026-06-25T23:57:28.398Z",
   "subs": [
     "MachineLearning",
-    "science",
-    "cybersecurity",
+    "longevity",
+    "gadgets",
     "investing",
     "robotics",
-    "longevity",
+    "cybersecurity",
     "nutrition",
     "hardware",
     "artificial",
+    "science",
     "Fitness",
     "LocalLLaMA",
     "programming",
     "running",
     "SkincareAddiction",
     "singularity",
-    "bodyweightfitness",
-    "startups"
+    "bodyweightfitness"
   ],
   "count": 36,
   "by_category": {
-    "Startups & Funding": 4,
+    "Hardware & Gadgets": 5,
+    "Startups & Funding": 3,
     "Robotics": 4,
     "Science": 4,
     "Security": 1,
-    "Fitness": 9,
-    "Hardware & Gadgets": 3,
+    "Fitness": 8,
     "AI / ML": 6,
     "Coding & Dev Tools": 2,
     "Skincare": 3
   },
   "articles": [
+    {
+      "id": "reddit_1uffnet",
+      "title": "Microsoft Announces Significant Price Rises for Xbox Series X and S, 2TB Model Discontinued",
+      "link": "https://www.reddit.com/r/gadgets/comments/1uffnet/microsoft_announces_significant_price_rises_for/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/gadgets · community knowledge",
+      "content_type": "post",
+      "author": "u/ReaddittiddeR · r/gadgets",
+      "handle": "gadgets",
+      "org": "r/gadgets",
+      "platform": "reddit",
+      "published": "2026-06-25T16:54:17.000Z",
+      "image": "https://external-preview.redd.it/0egJuGe88bSX2u54NYtNAUgkU7kcpPiCN89ME2pF6qo.jpeg?width=640&crop=smart&auto=webp&s=13c2bb9472bc70cc0ab5f948ab4e424bfded37fe",
+      "thumbnail": "https://external-preview.redd.it/0egJuGe88bSX2u54NYtNAUgkU7kcpPiCN89ME2pF6qo.jpeg?width=640&crop=smart&auto=webp&s=13c2bb9472bc70cc0ab5f948ab4e424bfded37fe",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/gadgets"
+      ],
+      "summary": "Microsoft Announces Significant Price Rises for Xbox Series X and S, 2TB Model Discontinued",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/gadgets this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1uf4s6x",
       "title": "Gold is down ~24% from its recent high.",
@@ -420,6 +459,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Fitness this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1ue51wf",
+      "title": "Meta’s New AI Smart Glasses Drop Ray-Ban Branding and Add Kylie Jenner",
+      "link": "https://www.reddit.com/r/gadgets/comments/1ue51wf/metas_new_ai_smart_glasses_drop_rayban_branding/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/gadgets · community knowledge",
+      "content_type": "post",
+      "author": "u/dapperlemon · r/gadgets",
+      "handle": "gadgets",
+      "org": "r/gadgets",
+      "platform": "reddit",
+      "published": "2026-06-24T05:53:54.000Z",
+      "image": "https://external-preview.redd.it/hBukBCVTEXgvV-wd-kY89x0t0BF23xvs9dTcl0ZWZgg.jpeg?width=640&crop=smart&auto=webp&s=516219510f1aba15937639c2c904883e9a69ca84",
+      "thumbnail": "https://external-preview.redd.it/hBukBCVTEXgvV-wd-kY89x0t0BF23xvs9dTcl0ZWZgg.jpeg?width=640&crop=smart&auto=webp&s=516219510f1aba15937639c2c904883e9a69ca84",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/gadgets"
+      ],
+      "summary": "Meta’s New AI Smart Glasses Drop Ray-Ban Branding and Add Kylie Jenner",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/gadgets this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1366,85 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/robotics this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ubij92",
-      "title": "Pissed off by startup culture. I will not promote",
-      "link": "https://www.reddit.com/r/startups/comments/1ubij92/pissed_off_by_startup_culture_i_will_not_promote/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/startups · community knowledge",
-      "content_type": "post",
-      "author": "u/Other-Middle-3189 · r/startups",
-      "handle": "startups",
-      "org": "r/startups",
-      "platform": "reddit",
-      "published": "2026-06-21T06:19:22.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/startups"
-      ],
-      "summary": "Been working in a tech startup for 9 months. Today we had our annual meeting and salary increments were announced, with people been given their increment letters with announcements &#x200B; What surprised me was seeing people who joined just 1–2 months ago receive increments, while I was completely overlooked.…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/startups this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ubh6nr",
-      "title": "Achievements for Sunday, June 21, 2026",
-      "link": "https://www.reddit.com/r/running/comments/1ubh6nr/achievements_for_sunday_june_21_2026/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/running · community knowledge",
-      "content_type": "post",
-      "author": "u/AutoModerator · r/running",
-      "handle": "running",
-      "org": "r/running",
-      "platform": "reddit",
-      "published": "2026-06-21T05:02:16.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/running"
-      ],
-      "summary": "Hey runners, it&#39;s another day and it is time to post your accomplishments you&#39;d like to share - big or small. Note: No need to preface YOUR accomplishments with something like, &quot;this may not be an accomplishment to most of you...&quot;. Be proud of your achievement. &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/running this week"
       ],
       "metrics": {
         "likes": 0,
