@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-25T01:32:17.007Z",
+  "generated_at": "2026-06-25T06:11:19.363Z",
   "model": "nvidia/nemotron-3-super-120b-a12b",
-  "count": 4150,
+  "count": 4163,
   "items": {
     "13v0dgn": {
       "ai_summary": "Top AI models initially scored over 90% on a classic color‑naming attention test, but their accuracy dropped sharply as the task grew longer and more complex. In some cases, performance fell to near‑zero, revealing a key limitation in sustained attention.",
@@ -1418,15 +1418,6 @@
       "media_credit": "Photo: Hotel de la Paix Genève / BY-SA 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/52198906@N06/5726472716"
     },
-    "oa_1had1bc": {
-      "ai_summary": "The European Society for Brain Stimulation and the International Federation have endorsed an updated set of guidelines for low‑intensity transcranial electric stimulation covering safety, ethical, legal, regulatory and application considerations for the period 2017‑2025. The guidelines were published in the journal Clinical Neurophysiology.",
-      "title": "Low intensity transcranial electric stimulation: Safety, ethical, legal regulatory and application guidelines (2017–2025: An update) – endorsed by the European Society for Brain Stimulation (ESBS) and by the International Federation for…",
-      "t": 1781501937083,
-      "media_url": "https://live.staticflickr.com/46/138248299_fb82ffec92_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Takuya Oikawa / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/34597916@N00/138248299"
-    },
     "oa_xijreo": {
       "ai_summary": "Liver X receptors (LXRs) are ligand‑dependent nuclear receptors activated by specific oxysterols and cholesterol derivatives, influencing pathways tied to aging hallmarks like inflammation, lipid metabolism, and cellular senescence. Modulating LXR activity is being investigated as a therapeutic approach to counteract age‑related diseases and extend…",
       "title": "Liver X receptors and the hallmarks of aging: From molecular mechanisms to therapeutic opportunities",
@@ -1445,42 +1436,6 @@
       "media_credit": "Photo: Hotel de la Paix Genève / BY-SA 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/52198906@N06/5725919511"
     },
-    "oa_1nxda73": {
-      "ai_summary": "A review examines how artificial intelligence can predict climate‑driven infectious disease outbreaks to strengthen global health resilience. It highlights AI’s potential across diverse datasets, contrasting it with traditional forecasting models.",
-      "title": "A review of artificial intelligence for predicting climate driven infectious disease outbreaks to enhance global health resilience",
-      "t": 1781501936045,
-      "media_url": "https://live.staticflickr.com/8466/8435181650_2bfb42ca7e_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: IAEA Imagebank / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/35068899@N03/8435181650"
-    },
-    "oa_1w7sm0o": {
-      "ai_summary": "AI-driven integration of multi-omics data—including genomics, transcriptomics, proteomics, metabolomics, and radiomics—enhances diagnostic and prognostic accuracy in precision oncology when paired with rigorous preprocessing and external validation. This strategy tackles cancer's molecular heterogeneity by moving beyond single-omics approaches to support…",
-      "title": "AI-driven multi-omics integration in precision oncology: bridging the data deluge to clinical decisions",
-      "t": 1781501940218,
-      "media_url": "https://live.staticflickr.com/3065/3053652603_2b641b9150.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Samuel Mann / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/21218849@N03/3053652603"
-    },
-    "oa_1mfwmmt": {
-      "ai_summary": "The survey examines Knowledge Distillation and Dataset Distillation as complementary techniques for compressing large language models while maintaining performance. It outlines current trends, identifies key challenges, and suggests future research directions for both approaches.",
-      "title": "Knowledge distillation and dataset distillation of large language models: emerging trends, challenges, and future directions",
-      "t": 1781501942227,
-      "media_url": "https://live.staticflickr.com/157/438134701_1a85d6197e_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: firepile / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/17643132@N00/438134701"
-    },
-    "oa_m2go4": {
-      "ai_summary": "AI has shifted from a niche tool to a constant companion, with smart assistants managing schedules, predictive algorithms anticipating needs, and chatbots offering therapeutic support. This pervasive integration can both offload mental tasks and potentially overwhelm users, altering how people cope with stress.",
-      "title": "Cognitive offloading or cognitive overload? How AI alters the mental architecture of coping",
-      "t": 1781501946331,
-      "media_url": "https://live.staticflickr.com/2928/14316034638_392c6a0668_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: yumikrum / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/94725359@N06/14316034638"
-    },
     "arxiv_xk890m": {
       "ai_summary": "Blockly2Hooks lets users create smart contracts on the XRP Ledger using the visual programming tool Google Blockly. It aims to lower the barrier to entry for distributed ledger technologies as inter‑ledger payments, NFTs, and smart contracts become more prevalent in everyday life.",
       "title": "Blockly2Hooks: Smart Contracts for Everyone with the XRP Ledger and Google Blockly",
@@ -1489,24 +1444,6 @@
       "media_kind": "stock",
       "media_credit": "Photo: michaelseangallagher / BY-SA 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/13518023@N03/14592386702"
-    },
-    "oa_nof7hj": {
-      "ai_summary": "Large language models can generate coherent survey responses, undermining the assumption that such answers come from humans. Demonstrations with an autonomous LLM show this threatens the validity of online survey research.",
-      "title": "The potential existential threat of large language models to online survey research",
-      "t": 1781501947221,
-      "media_url": "https://live.staticflickr.com/2114/3542265346_87cf60fdb8_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Constantine Agustin / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/11249521@N00/3542265346"
-    },
-    "oa_1auc2uf": {
-      "ai_summary": "The study investigates how public participation shapes the performance of urban green infrastructure and low‑impact development projects. It uses a four‑dimensional framework—breadth, depth, identity, and potential—derived from a literature review to determine when and how participation influences outcomes.",
-      "title": "Unveiling Participation Dynamics: A Comparative Study of Green Infrastructure Practices",
-      "t": 1781501959119,
-      "media_url": "https://live.staticflickr.com/65535/54139147343_d081ff1f91_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: UNCTAD / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/53390373@N06/54139147343"
     },
     "oa_pgnvmq": {
       "ai_summary": "The skin microbiome's equilibrium with host cells is crucial for health, and its disruption—dysbiosis—can trigger inflammatory and infectious diseases, accelerate aging, and influence skin cancer progression. This imbalance is driven by exogenous factors and can be modulated by bioactive compounds that affect microbial composition and activity.",
@@ -2233,43 +2170,6 @@
       "media_credit": "Photo: investmentzen / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/144551102@N07/28790005453"
     },
-    "bvb3t4": {
-      "ai_summary": "Emacs now ships with additional built‑in packages, expanding its out‑of‑the‑box functionality. Users can access these features immediately without installing external extensions.",
-      "title": "Even more batteries included with Emacs",
-      "t": 1781501925552,
-      "media_url": "https://live.staticflickr.com/2681/4140950940_186aec55ba.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950940"
-    },
-    "1xeefnh": {
-      "ai_summary": "Researchers found a mushroom species that produces hallucinogenic effects despite containing no known psychedelic compounds such as psilocybin. The discovery suggests that unidentified substances or mechanisms may be responsible for its psychoactive properties.",
-      "title": "The hallucinogenic mushroom that contains no known psychedelic",
-      "t": 1781501927614,
-      "image": "https://res.cloudinary.com/drkckcqqr/image/upload/w_1019,h_640,c_fill,f_auto,q_auto/w_1019,h_640,c_fill,f_auto,q_auto/w_1019,h_640,c_fill,f_auto,q_auto/w_1019,h_640,c_fill,f_auto,q_auto/v1781449650/psycouk-news/h2uvptbfvdnjkf46txv2.png",
-      "media_url": "https://live.staticflickr.com/2762/4140950690_e8e7fa21f4.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950690"
-    },
-    "1mehtei": {
-      "ai_summary": "Citizen scientists on iNaturalist contributed data that revealed how parental guarding behavior evolved in harvestmen spiders. The study, published in the Zoological Journal of the Linnean Society, shows that devoted dads are central to this evolutionary development.",
-      "title": "Devoted dads and citizen science: The evolution of parental care in harvestmen spiders is uncovered",
-      "t": 1781501928276,
-      "media_url": "https://live.staticflickr.com/7086/7262526782_f70754d1df_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: thezenderagenda.com / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/92402750@N00/7262526782"
-    },
-    "vnodwv": {
-      "ai_summary": "Researchers in Japan developed a method to interpret AI models used in materials discovery. The method extracts key features from models trained on atomic structural data and optical absorption spectra and groups materials based on those features.",
-      "title": "Interpretable AI in materials discovery: Uncovering how models make predictions",
-      "t": 1781501928646,
-      "media_url": "https://live.staticflickr.com/5463/9195856288_e66c700d8e_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Idaho National Laboratory / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/30369883@N03/9195856288"
-    },
     "hh6ghh": {
       "ai_summary": "Orbio secured a $21 million Series A funding round led by Dawn Capital to automate hiring and onboarding for frontline workers. The investment will accelerate product development and expand the platform’s reach to more employers.",
       "title": "Orbio raises $21 million to automate hiring and onboarding for frontline workers",
@@ -2278,55 +2178,6 @@
       "media_kind": "stock",
       "media_credit": "Photo: Tim Dorr / BY-SA 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/60723528@N00/4092581313"
-    },
-    "1pgvy48": {
-      "ai_summary": "Windows 11 users are voicing frustration as Microsoft tightens the requirement for a Microsoft account to access core OS features and bundled apps. Many argue the shift erodes the option to use local accounts and raises privacy concerns.",
-      "title": "Windows 11 users are tired of MS account requirements creeping into everything",
-      "t": 1781501930031,
-      "image": "https://cdn.mos.cms.futurecdn.net/j6KmfXaKwgMziobFTx9itD-1687-80.jpg",
-      "media_url": "https://live.staticflickr.com/2649/4140191397_a0e3b5d99f.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140191397"
-    },
-    "19na80e": {
-      "ai_summary": "The article advises writers to imagine they are speaking to just one person when crafting their content. It argues that this focus sharpens relevance and makes the message more engaging.",
-      "title": "Write for One Person",
-      "t": 1781501932706,
-      "image": "https://wizardzines.com/images/main-og-image.png",
-      "media_url": "https://live.staticflickr.com/2663/4140950816_e131180c13.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950816"
-    },
-    "1gf4w1s": {
-      "ai_summary": "The UK Space Agency and Vast aim to send amputee astronaut John McFall to orbit by 2027, which would make him the first person with a physical disability to live and work in space. The mission will examine how his prosthesis and body respond to the physiological challenges of microgravity.",
-      "title": "The extraordinary physiological challenges facing amputee John McFall in space",
-      "t": 1781501933509,
-      "media_url": "https://live.staticflickr.com/8143/7603200154_37affabc2a_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NASA Goddard Space Flight Center / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/35278629@N08/7603200154"
-    },
-    "vsog7o": {
-      "ai_summary": "The piece explores why paper folds so well. It seeks to explain the phenomenon.",
-      "title": "Why does paper fold so well?",
-      "t": 1781501935909,
-      "image": "https://ichef.bbci.co.uk/images/ic/1200x675/p0nrcq42.jpg",
-      "media_url": "https://live.staticflickr.com/2681/4140950940_186aec55ba.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950940"
-    },
-    "1oy5ll9": {
-      "ai_summary": "The eight fallacies of distributed computing, first outlined in the mid‑1990s, have been cited for 21 years as of 2025. They still serve as a reminder of the mistaken assumptions that can undermine network‑based system design.",
-      "title": "21 years and counting of 'eight fallacies of distributed computing' (2025)",
-      "t": 1781501941634,
-      "image": "https://blog.apnic.net/wp-content/uploads/2025/10/2025-10-featured-fallacies.png",
-      "media_url": "https://live.staticflickr.com/2762/4140950690_e8e7fa21f4.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950690"
     },
     "1ntrk1z": {
       "ai_summary": "Enabling Chrome for Android's reader mode eliminated page distractions, which disrupted the user's habit of skimming articles. The simplified layout made content easier to read and helped maintain focus.",
@@ -35794,6 +35645,243 @@
       "media_kind": "stock",
       "media_credit": "Photo: UNCTAD / BY-SA 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/53390373@N06/54139326945"
+    },
+    "g3897n": {
+      "title": "Cloudflare launched self-managed OAuth for all",
+      "t": 1782367872404,
+      "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/6fEPzehWZ8mfroJDIf30mC/636b651767a7cc41dd8b4e7093490a11/OG_Share_2024-2025-2026__40_.png",
+      "media_url": "https://live.staticflickr.com/3402/4646054291_13d1773717_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: cincodenada06 / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/14506798@N00/4646054291"
+    },
+    "6tgmji": {
+      "title": "Bible as RAG Database",
+      "t": 1782367872405,
+      "image": "https://www.crosscanon.com/og-image.png",
+      "media_url": "https://live.staticflickr.com/2723/4140951044_cebe112a5b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140951044"
+    },
+    "m8g5vo": {
+      "title": "Exploring the internal representations of Pangram 3.3.2",
+      "t": 1782367872405,
+      "image": "https://www.pangram.com/pangram-space/opengraph-image?f9e55a400f31ebe3",
+      "media_url": "https://live.staticflickr.com/1061/686562697_5d86ba6d67.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Wesley Clouden / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/40622964@N00/686562697"
+    },
+    "mplbet": {
+      "title": "Ending respiratory infections",
+      "t": 1782367872405,
+      "image": "https://substackcdn.com/image/fetch/$s_!mkj9!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38f963c3-030c-4eeb-9433-3bc3fd644ade_5824x3052.png",
+      "media_url": "https://live.staticflickr.com/2681/4140950940_186aec55ba.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950940"
+    },
+    "8127ht": {
+      "title": "Mixing Visual and Textual Code",
+      "t": 1782367872405,
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "media_url": "https://live.staticflickr.com/1061/686562697_5d86ba6d67.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Wesley Clouden / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/40622964@N00/686562697"
+    },
+    "128378d": {
+      "title": "Cisco Catalyst SD-WAN Zero-Day CVE-2026-20245 Exploited to Gain Root Access",
+      "t": 1782367873198,
+      "media_url": "https://live.staticflickr.com/7129/7712545428_8615dcb6d8_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Alexandre Dulaunoy / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/31797858@N00/7712545428"
+    },
+    "1rfwz48": {
+      "title": "OpenAI's free GPT-5.5 model makes ChatGPT better at understanding context",
+      "t": 1782367873209,
+      "media_url": "https://live.staticflickr.com/4267/34927813405_6562b9efb7_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: FOSSASIA / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45240298@N08/34927813405"
+    },
+    "1pa924z": {
+      "title": "Google's Play Store billing shake-up is finally happening next week",
+      "t": 1782367873254,
+      "media_url": "https://live.staticflickr.com/5029/14031043893_32c86e5473_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: theglobalpanorama / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/121483302@N02/14031043893"
+    },
+    "1b6cqho": {
+      "title": "Shorter front-leg strides can be an early warning sign of dementia in senior dogs",
+      "t": 1782367873745,
+      "media_url": "https://live.staticflickr.com/7097/7262655420_46d3866217_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: thezenderagenda.com / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/92402750@N00/7262655420"
+    },
+    "nncf1x": {
+      "title": "The Unbearable Cheapness of Open Weight Models",
+      "t": 1782367874276,
+      "media_url": "https://live.staticflickr.com/1061/686562697_5d86ba6d67.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Wesley Clouden / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/40622964@N00/686562697"
+    },
+    "1fdpswo": {
+      "title": "Precious drops: Spray helps crop farmers facing declining rainfall",
+      "t": 1782367874669,
+      "media_url": "https://live.staticflickr.com/3785/9567700397_15ec681a32_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: StateofIsrael / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/86083886@N02/9567700397"
+    },
+    "1rr3snv": {
+      "title": "10 Best Protein Powders, According to 3 Years of Testing (2026)",
+      "t": 1782367874684,
+      "media_url": "https://live.staticflickr.com/3395/3472574294_127637177b_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: bptakoma / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/8010145@N08/3472574294"
+    },
+    "1bhxn3q": {
+      "title": "Designer proteins unlock near-infrared and SWIR glow for deeper tissue imaging",
+      "t": 1782367874744,
+      "media_url": "https://live.staticflickr.com/8116/8700664431_04c3e1d31c_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: flavin-droid / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/95408611@N03/8700664431"
+    },
+    "1006tse": {
+      "title": "Medical students are using popular research tool to pump out misleading studies",
+      "t": 1782367875122,
+      "media_url": "https://live.staticflickr.com/2649/4140191397_a0e3b5d99f.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140191397"
+    },
+    "3q8zgv": {
+      "title": "Zombie unicorns are haunting Silicon Valley",
+      "t": 1782367875177,
+      "media_url": "https://live.staticflickr.com/2723/4140951044_cebe112a5b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140951044"
+    },
+    "1f4qpr": {
+      "title": "Micron locks in historically high memory prices for five years",
+      "t": 1782367875606,
+      "media_url": "https://live.staticflickr.com/65535/52775182434_d7f1a6e829_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: James Webb Space Telescope / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/50785054@N03/52775182434"
+    },
+    "1btrd4e": {
+      "title": "The Nothing Headphone (a) ‘nail it in nearly every way’ — they’re now down 36% and it’s not even Prime Day yet",
+      "t": 1782367875890,
+      "media_url": "https://live.staticflickr.com/8607/16104588783_495c65e4d4_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Janitors / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/65265630@N03/16104588783"
+    },
+    "rtgmju": {
+      "title": "‘Networking becomes the make-or-break factor’: Orbital data centers reintroduce a challenge we’ve now fixed on land",
+      "t": 1782367875899,
+      "media_url": "https://live.staticflickr.com/5052/5560791180_40958df18a_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Fountain_Head / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/37626043@N00/5560791180"
+    },
+    "tgih34": {
+      "title": "Ancient stories inform modern understanding of volcanic eruptions",
+      "t": 1782367876207,
+      "media_url": "https://live.staticflickr.com/7036/6882863741_1b4fe47c48_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: NASA Goddard Space Flight Center / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/35278629@N08/6882863741"
+    },
+    "e36tg0": {
+      "title": "Don't wait for Prime Day — the Apple Watch 11 just dropped to an Aussie all-time low price of AU$447",
+      "t": 1782367876401,
+      "media_url": "https://live.staticflickr.com/3828/10287874054_1362d826a4.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Janitors / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/65265630@N03/10287874054"
+    },
+    "1j375vf": {
+      "title": "These are the Nintendo Switch 2 games I've spent my hundreds of hours with the console playing so far",
+      "t": 1782367876834,
+      "media_url": "https://live.staticflickr.com/185/466845684_39c3c04696_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: daveynin / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/44124370018@N01/466845684"
+    },
+    "rswj3p": {
+      "title": "This Prime Day deal has convinced me to resubscribe to Apple TV — save over 50% for a limited time",
+      "t": 1782367877428,
+      "media_url": "https://live.staticflickr.com/5471/31478881345_6a09113b5a_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: (Imagine) 2.0 / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/99732909@N02/31478881345"
+    },
+    "plbp8v": {
+      "title": "What I'm Finding About LLM Code Style and Token Costs",
+      "t": 1782367877769,
+      "media_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/SWYOR-DF6A2E_Post_Medieval_Cutlery_%28FindID_1001352%29.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: West Yorkshire Archaeology Advisory Service, Ian Whitehead, 2020-04-21 15:30:57 / BY 2.0 via wikimedia",
+      "media_credit_url": "https://commons.wikimedia.org/w/index.php?curid=95826436"
+    },
+    "1ctl1oe": {
+      "title": "Companies are not looking before they're leaping into the AI playpen",
+      "t": 1782367877952,
+      "media_url": "https://live.staticflickr.com/410/20163004870_4f709f6873_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: osde8info / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/8764442@N07/20163004870"
+    },
+    "1z039q": {
+      "title": "The hits keep on coming for Cisco vulnerabilities",
+      "t": 1782367878127,
+      "media_url": "https://live.staticflickr.com/8164/7105770525_84b49ab11a_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Eva Rinaldi Celebrity Photographer / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/58820009@N05/7105770525"
+    },
+    "svlcj4": {
+      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+      "t": 1782367878540,
+      "media_url": "https://live.staticflickr.com/2663/4140950816_e131180c13.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950816"
+    },
+    "x_2069888296684073414": {
+      "title": "The next era of AI will be defined by energy — how we scale it and where we get it from. Eco Wave Power, an NVIDIA Inception member, has found a solution in the sea 🌊. Using NVIDIA Omniverse digital…",
+      "t": 1782367878624,
+      "media_url": "https://live.staticflickr.com/65535/50377649877_a5e5ed5e6f_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Digital Rail Artist / CC0 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/187894742@N05/50377649877"
+    },
+    "x_2069842996082708907": {
+      "title": "Real grocery stores are hard on AI: changing shelves, spotty Wi-Fi and shoppers on the move. On the NVIDIA AI Podcast, @instacart 's David McIntosh shares how Caper Carts use NVIDIA Jetson and edge…",
+      "t": 1782367879014,
+      "media_url": "https://live.staticflickr.com/8643/16414814617_d952da596e_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Fæ / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/50398299@N08/16414814617"
+    },
+    "acxpow": {
+      "title": "Qualcomm claims it's not too late for Dragonfly to land in datacenters",
+      "t": 1782367879360,
+      "media_url": "https://live.staticflickr.com/4447/37736684446_350a548c43_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: geckzilla / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/54209675@N00/37736684446"
     }
   }
 }

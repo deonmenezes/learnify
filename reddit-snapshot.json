@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T01:36:25.892Z",
+  "generated_at": "2026-06-25T06:15:26.302Z",
   "subs": [
     "MachineLearning",
     "longevity",
@@ -20,17 +20,96 @@
   ],
   "count": 36,
   "by_category": {
+    "Science": 5,
+    "Hardware & Gadgets": 3,
     "Fitness": 9,
     "Coding & Dev Tools": 2,
-    "Science": 4,
     "Skincare": 4,
-    "AI / ML": 9,
-    "Hardware & Gadgets": 2,
+    "AI / ML": 7,
     "Robotics": 2,
     "Startups & Funding": 3,
     "Security": 1
   },
   "articles": [
+    {
+      "id": "reddit_1ueopli",
+      "title": "A damage accumulation model identifies distinct aging regimes across species",
+      "link": "https://www.reddit.com/r/longevity/comments/1ueopli/a_damage_accumulation_model_identifies_distinct/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/longevity · community knowledge",
+      "content_type": "post",
+      "author": "u/lunchboxultimate01 · r/longevity",
+      "handle": "longevity",
+      "org": "r/longevity",
+      "platform": "reddit",
+      "published": "2026-06-24T20:18:26.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Science",
+      "category": "Science",
+      "genre": "Longevity",
+      "categories": [
+        "Reddit",
+        "Science",
+        "Longevity",
+        "r/longevity"
+      ],
+      "summary": "https://www.nature.com/articles/s43587-026-01138-7 Abstract: Different species age in similar ways but their lifespans differ by orders of magnitude. It is not clear how these similarities and differences arise from the accumulation of damage that underlies aging. Does long lifespan arise from reduced damage…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/longevity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uec3b8",
+      "title": "Valve Steam Machine sells out in Japan despite $1,175 starting price",
+      "link": "https://www.reddit.com/r/hardware/comments/1uec3b8/valve_steam_machine_sells_out_in_japan_despite/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/hardware · community knowledge",
+      "content_type": "post",
+      "author": "u/TurbulentTopic39 · r/hardware",
+      "handle": "hardware",
+      "org": "r/hardware",
+      "platform": "reddit",
+      "published": "2026-06-24T12:26:19.000Z",
+      "image": "https://external-preview.redd.it/tALCwOBXr0jgfuUz4ROLJYXcvBaFLnafh8f1RwwJUI8.jpeg?width=640&crop=smart&auto=webp&s=71ef24de8320fe74c2af16c44865384170f157f8",
+      "thumbnail": "https://external-preview.redd.it/tALCwOBXr0jgfuUz4ROLJYXcvBaFLnafh8f1RwwJUI8.jpeg?width=640&crop=smart&auto=webp&s=71ef24de8320fe74c2af16c44865384170f157f8",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/hardware"
+      ],
+      "summary": "Valve Steam Machine sells out in Japan despite $1,175 starting price",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/hardware this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1ue87yp",
       "title": "Rant Wednesday - June 24, 2026",
@@ -1366,86 +1445,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/science this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uatlzx",
-      "title": "DVD-JEPA: an open-source, fully-reproducible JEPA world model [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1uatlzx/dvdjepa_an_opensource_fullyreproducible_jepa/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/MachineLearning · community knowledge",
-      "content_type": "post",
-      "author": "u/NielsRogge · r/MachineLearning",
-      "handle": "MachineLearning",
-      "org": "r/MachineLearning",
-      "platform": "reddit",
-      "published": "2026-06-20T10:52:35.000Z",
-      "image": "https://external-preview.redd.it/7Yk-dVZdsxRAQqEO5ORd7NEfPMoyhS_r0yWYVqTgq68.png?width=140&height=73&auto=webp&s=a0dddb8d7ddd01622ed54c9914776b0469a188ad",
-      "thumbnail": "https://external-preview.redd.it/7Yk-dVZdsxRAQqEO5ORd7NEfPMoyhS_r0yWYVqTgq68.png?width=140&height=73&auto=webp&s=a0dddb8d7ddd01622ed54c9914776b0469a188ad",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/MachineLearning"
-      ],
-      "summary": "A paper currently trending on paperswithcode.co in the &quot;Anomaly Detection&quot; category is DVD-JEPA . https://i.redd.it/r6fd8n3d4f8h1.gif Here is the short summary: Most attempts to learn a world model from video try to predict the next frame pixel-by-pixel, and drown in detail that is fundamentally…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/MachineLearning this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uark0u",
-      "title": "Time Series Modeling Needs a Dynamical Systems Perspective [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1uark0u/time_series_modeling_needs_a_dynamical_systems/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/MachineLearning · community knowledge",
-      "content_type": "post",
-      "author": "u/DangerousFunny1371 · r/MachineLearning",
-      "handle": "MachineLearning",
-      "org": "r/MachineLearning",
-      "platform": "reddit",
-      "published": "2026-06-20T08:47:24.000Z",
-      "image": "https://preview.redd.it/m15f9n8rge8h1.jpeg?width=640&crop=smart&auto=webp&s=7f567ea844df4addfbcb705f1988e5b1fe3ac677",
-      "thumbnail": "https://preview.redd.it/m15f9n8rge8h1.jpeg?width=640&crop=smart&auto=webp&s=7f567ea844df4addfbcb705f1988e5b1fe3ac677",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/MachineLearning"
-      ],
-      "summary": "In our #ICML2026 position paper we argue a dynamical systems perspective is needed to drive time series (TS) modeling forward: https://arxiv.org/abs/2602.16864 Essentially all time series in nature and engineering come from some underlying dynamical system (DS), mostly chaotic for complex systems, and acknowledging…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/MachineLearning this week"
       ],
       "metrics": {
         "likes": 0,
