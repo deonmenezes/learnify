@@ -1,36 +1,76 @@
 {
-  "generated_at": "2026-06-25T06:15:26.302Z",
+  "generated_at": "2026-06-25T09:57:02.260Z",
   "subs": [
     "MachineLearning",
+    "artificial",
+    "running",
+    "investing",
     "longevity",
     "hardware",
     "Fitness",
     "programming",
-    "running",
     "SkincareAddiction",
     "singularity",
     "LocalLLaMA",
     "bodyweightfitness",
     "robotics",
-    "investing",
     "nutrition",
     "startups",
-    "cybersecurity",
-    "science"
+    "cybersecurity"
   ],
   "count": 36,
   "by_category": {
-    "Science": 5,
+    "Startups & Funding": 4,
+    "Science": 4,
     "Hardware & Gadgets": 3,
+    "AI / ML": 7,
     "Fitness": 9,
     "Coding & Dev Tools": 2,
     "Skincare": 4,
-    "AI / ML": 7,
     "Robotics": 2,
-    "Startups & Funding": 3,
     "Security": 1
   },
   "articles": [
+    {
+      "id": "reddit_1uev5u0",
+      "title": "Micron quadruples revenue, +14% after hours.",
+      "link": "https://www.reddit.com/r/investing/comments/1uev5u0/micron_quadruples_revenue_14_after_hours/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/investing · community knowledge",
+      "content_type": "post",
+      "author": "u/mulletstation · r/investing",
+      "handle": "investing",
+      "org": "r/investing",
+      "platform": "reddit",
+      "published": "2026-06-25T00:39:39.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/investing"
+      ],
+      "summary": "Revenue: $41.46 billion versus $35.84 billion estimated EPS: $25.11, adjusted, versus $20.78 estimated Gross Margin: Adjusted gross margins hit a record-breaking 84.9%, topping tech leaders like Nvidia and Meta. Data Center Strength: Driven by skyrocketing AI memory demand, data-center sales soared 415% year-over-year…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/investing this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1ueopli",
       "title": "A damage accumulation model identifies distinct aging regimes across species",
@@ -111,6 +151,46 @@
       }
     },
     {
+      "id": "reddit_1ueaya4",
+      "title": "We chased a hallucinated quote through 30k training records, 4,600 transcripts, and our own system prompt. Turned out to be two separate bugs",
+      "link": "https://www.reddit.com/r/artificial/comments/1ueaya4/we_chased_a_hallucinated_quote_through_30k/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/artificial · community knowledge",
+      "content_type": "post",
+      "author": "u/Sardzoski · r/artificial",
+      "handle": "artificial",
+      "org": "r/artificial",
+      "platform": "reddit",
+      "published": "2026-06-24T11:32:18.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/artificial"
+      ],
+      "summary": "Some of our customers noticed Inter-1 (our omni-modal social-signal model) would occasionally &quot;hear&quot; a quote that didn&#39;t exist. Feed it a video with zero audio and ask what was said, and it would sometimes report: &quot;Yeah, Friday at five.&quot; Verbatim. Same line, every time. We assumed it had to be…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/artificial this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1ue87yp",
       "title": "Rant Wednesday - June 24, 2026",
       "link": "https://www.reddit.com/r/Fitness/comments/1ue87yp/rant_wednesday_june_24_2026/",
@@ -142,6 +222,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Fitness this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1udzf0d",
+      "title": "Cheap Chinese AI models are quickly gaining customers across the US market: ‘This changes things’",
+      "link": "https://www.reddit.com/r/artificial/comments/1udzf0d/cheap_chinese_ai_models_are_quickly_gaining/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/artificial · community knowledge",
+      "content_type": "post",
+      "author": "u/BathroomMaximum1721 · r/artificial",
+      "handle": "artificial",
+      "org": "r/artificial",
+      "platform": "reddit",
+      "published": "2026-06-24T01:13:30.000Z",
+      "image": "https://external-preview.redd.it/KAzFZ084cWL8vaD9ybttvGCdBnPogFYS3iwPVdgQjMg.jpeg?width=640&crop=smart&auto=webp&s=dac91ee915ee7b49b0597d1500b72d354fa42d2b",
+      "thumbnail": "https://external-preview.redd.it/KAzFZ084cWL8vaD9ybttvGCdBnPogFYS3iwPVdgQjMg.jpeg?width=640&crop=smart&auto=webp&s=dac91ee915ee7b49b0597d1500b72d354fa42d2b",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/artificial"
+      ],
+      "summary": "Cheap Chinese AI models are quickly gaining customers across the US market: ‘This changes things’",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/artificial this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1326,125 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uazlhg",
-      "title": "Would you let an ML PhD student graduate without a top-tier paper? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1uazlhg/would_you_let_an_ml_phd_student_graduate_without/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/MachineLearning · community knowledge",
-      "content_type": "post",
-      "author": "u/Hope999991 · r/MachineLearning",
-      "handle": "MachineLearning",
-      "org": "r/MachineLearning",
-      "platform": "reddit",
-      "published": "2026-06-20T15:36:16.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/MachineLearning"
-      ],
-      "summary": "Suppose you’re a PhD advisor in machine learning. Your student has been in the program for 4 years, has done solid work, and has a coherent thesis direction but they haven’t published in an A*ML venue or top journal. No NeurIPS/ICML/ICLR/CVPR/etc., and no equivalent top venue in their subfield either but 3 First…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/MachineLearning this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uaxktf",
-      "title": "z.AI as the number 2 gives praise to the number 1 open source model",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1uaxktf/zai_as_the_number_2_gives_praise_to_the_number_1/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/LocalLLaMA · community knowledge",
-      "content_type": "post",
-      "author": "u/Charuru · r/LocalLLaMA",
-      "handle": "LocalLLaMA",
-      "org": "r/LocalLLaMA",
-      "platform": "reddit",
-      "published": "2026-06-20T14:10:04.000Z",
-      "image": "https://preview.redd.it/yy0tfjmm3g8h1.png?width=640&crop=smart&auto=webp&s=83f9551b883b586603ce35df538e54a3cc96f6a0",
-      "thumbnail": "https://preview.redd.it/yy0tfjmm3g8h1.png?width=640&crop=smart&auto=webp&s=83f9551b883b586603ce35df538e54a3cc96f6a0",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/LocalLLaMA"
-      ],
-      "summary": "z.AI as the number 2 gives praise to the number 1 open source model",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/LocalLLaMA this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uatwr9",
-      "title": "Two-year, placebo-controlled, double-blinded clinical trial results show supplements with omega-3s (like fish oil) have no effect on memory or cognitive function in older adults at risk for Alzheimer’s disease, despite showing evidence that the nutrients directly reach the brain",
-      "link": "https://www.reddit.com/r/science/comments/1uatwr9/twoyear_placebocontrolled_doubleblinded_clinical/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/science · community knowledge",
-      "content_type": "post",
-      "author": "u/sr_local · r/science",
-      "handle": "science",
-      "org": "r/science",
-      "platform": "reddit",
-      "published": "2026-06-20T11:09:22.000Z",
-      "image": "https://external-preview.redd.it/QkRsrl-1q73xiHarTJhOvia6Xb3Ft6xYR38CLz-t3fY.jpeg?width=640&crop=smart&auto=webp&s=6ca3c48cb71f4b5701fec1ee72fcf4ec3f474be2",
-      "thumbnail": "https://external-preview.redd.it/QkRsrl-1q73xiHarTJhOvia6Xb3Ft6xYR38CLz-t3fY.jpeg?width=640&crop=smart&auto=webp&s=6ca3c48cb71f4b5701fec1ee72fcf4ec3f474be2",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/science"
-      ],
-      "summary": "Two-year, placebo-controlled, double-blinded clinical trial results show supplements with omega-3s (like fish oil) have no effect on memory or cognitive function in older adults at risk for Alzheimer’s disease, despite showing evidence that the nutrients directly reach the brain",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/science this week"
       ],
       "metrics": {
         "likes": 0,
