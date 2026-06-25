@@ -1,12 +1,13 @@
 {
-  "generated_at": "2026-06-25T12:28:21.091Z",
+  "generated_at": "2026-06-25T15:28:59.853Z",
   "subs": [
     "MachineLearning",
-    "Fitness",
-    "hardware",
+    "artificial",
+    "nutrition",
     "investing",
     "longevity",
-    "artificial",
+    "hardware",
+    "Fitness",
     "programming",
     "running",
     "SkincareAddiction",
@@ -14,7 +15,6 @@
     "LocalLLaMA",
     "bodyweightfitness",
     "robotics",
-    "nutrition",
     "startups",
     "cybersecurity"
   ],
@@ -22,9 +22,9 @@
   "by_category": {
     "Startups & Funding": 4,
     "Science": 4,
+    "Fitness": 10,
     "Hardware & Gadgets": 3,
-    "AI / ML": 7,
-    "Fitness": 9,
+    "AI / ML": 6,
     "Coding & Dev Tools": 2,
     "Skincare": 4,
     "Robotics": 2,
@@ -104,6 +104,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/longevity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uegkx1",
+      "title": "What is something society has wrongly convinced everyone is bad for their health?",
+      "link": "https://www.reddit.com/r/nutrition/comments/1uegkx1/what_is_something_society_has_wrongly_convinced/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/nutrition · community knowledge",
+      "content_type": "post",
+      "author": "u/Andries200 · r/nutrition",
+      "handle": "nutrition",
+      "org": "r/nutrition",
+      "platform": "reddit",
+      "published": "2026-06-24T15:23:52.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Nutrition",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "Nutrition",
+        "r/nutrition"
+      ],
+      "summary": "I&#39;m looking for things like specific foods, sleep habits, or lifestyles that people constantly judge, even though they aren&#39;t actually harmful at all. &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/nutrition this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1406,46 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/cybersecurity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uazlnd",
-      "title": "Hi Reddit, I posted my Build Your Own LLM workshop to Youtube teaching ML, LLM and math intuition [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1uazlnd/hi_reddit_i_posted_my_build_your_own_llm_workshop/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/MachineLearning · community knowledge",
-      "content_type": "post",
-      "author": "u/JustinAngel · r/MachineLearning",
-      "handle": "MachineLearning",
-      "org": "r/MachineLearning",
-      "platform": "reddit",
-      "published": "2026-06-20T15:36:27.000Z",
-      "image": "https://external-preview.redd.it/uyYAMRdaY-avR7vgrYnpYErzefthmf_lM5vYqR3t3jg.jpeg?width=320&crop=smart&auto=webp&s=f0cc363e42e1fb0d3fa6b30957932458a9634c3a",
-      "thumbnail": "https://external-preview.redd.it/uyYAMRdaY-avR7vgrYnpYErzefthmf_lM5vYqR3t3jg.jpeg?width=320&crop=smart&auto=webp&s=f0cc363e42e1fb0d3fa6b30957932458a9634c3a",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/MachineLearning"
-      ],
-      "summary": "Hi internet friends, I recorded a workshop about building your own LLM without any math / ML prerequisites. It covers everything from machine learning fundamentals, deep neural networks, transformer architecture, and pre/post-training. The only prerequisite is being comfortable with learning through code &amp; excel…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/MachineLearning this week"
       ],
       "metrics": {
         "likes": 0,
