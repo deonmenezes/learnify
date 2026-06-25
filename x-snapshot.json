@@ -1,9 +1,10 @@
 {
-  "generated_at": "2026-06-24T23:09:57.537Z",
+  "generated_at": "2026-06-25T01:34:11.787Z",
   "handles": [
     "nvidia",
-    "gdb",
     "GoogleDeepMind",
+    "gdb",
+    "NVIDIAAI",
     "OpenAI",
     "elonmusk",
     "AnthropicAI"
@@ -34,7 +35,7 @@
       "summary": "NVIDIA's full-stack AI is enabling autonomous operations for the world's leading brands and platforms. Key capabilities driving this shift: 📈 Causal marketing analytics at enterprise scale 🤖 Secure, trustworthy agentic workflows ⚡Real-time, hyper-efficient auction bidding 🎬",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 64,
+      "worthiness_score": 65,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -43,12 +44,51 @@
         "business signal (enterprise)"
       ],
       "metrics": {
-        "likes": 84,
-        "retweets": 14,
-        "replies": 14,
-        "likes_h": "84"
+        "likes": 139,
+        "retweets": 20,
+        "replies": 18,
+        "likes_h": "139"
       },
-      "engagement": 126,
+      "engagement": 197,
+      "hot": false
+    },
+    {
+      "id": "x_2069842996082708907",
+      "title": "Real grocery stores are hard on AI: changing shelves, spotty Wi-Fi and shoppers on the move. On the NVIDIA AI Podcast, @instacart 's David McIntosh shares how Caper Carts use NVIDIA Jetson and edge…",
+      "link": "https://x.com/nvidia/status/2069842996082708907",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-24T18:00:00.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Commentary"
+      ],
+      "summary": "Real grocery stores are hard on AI: changing shelves, spotty Wi-Fi and shoppers on the move. On the NVIDIA AI Podcast, @instacart 's David McIntosh shares how Caper Carts use NVIDIA Jetson and edge AI to recognize items in store.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 55,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy"
+      ],
+      "metrics": {
+        "likes": 111,
+        "retweets": 11,
+        "replies": 14,
+        "likes_h": "111"
+      },
+      "engagement": 147,
       "hot": false
     },
     {
@@ -83,15 +123,15 @@
         "casual tone (incredible)",
         "announcement language (introducing)",
         "tech substance (models, inference)",
-        "high engagement (1.8K likes)"
+        "high engagement (2.1K likes)"
       ],
       "metrics": {
-        "likes": 1839,
-        "retweets": 84,
-        "replies": 122,
-        "likes_h": "1.8K"
+        "likes": 2090,
+        "retweets": 94,
+        "replies": 134,
+        "likes_h": "2.1K"
       },
-      "engagement": 2129,
+      "engagement": 2412,
       "hot": false
     },
     {
@@ -126,12 +166,12 @@
         "tech substance (agent, agents)"
       ],
       "metrics": {
-        "likes": 418,
-        "retweets": 58,
-        "replies": 54,
-        "likes_h": "418"
+        "likes": 478,
+        "retweets": 62,
+        "replies": 62,
+        "likes_h": "478"
       },
-      "engagement": 588,
+      "engagement": 664,
       "hot": false
     },
     {
@@ -207,12 +247,12 @@
         "tech substance (research)"
       ],
       "metrics": {
-        "likes": 266,
-        "retweets": 43,
-        "replies": 30,
-        "likes_h": "266"
+        "likes": 292,
+        "retweets": 44,
+        "replies": 31,
+        "likes_h": "292"
       },
-      "engagement": 382,
+      "engagement": 411,
       "hot": false
     },
     {
@@ -289,12 +329,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 319,
+        "likes": 329,
         "retweets": 51,
-        "replies": 28,
-        "likes_h": "319"
+        "replies": 29,
+        "likes_h": "329"
       },
-      "engagement": 449,
+      "engagement": 460,
       "hot": false
     },
     {
@@ -329,12 +369,12 @@
         "tech substance (models, nemotron, agent)"
       ],
       "metrics": {
-        "likes": 529,
-        "retweets": 76,
+        "likes": 536,
+        "retweets": 77,
         "replies": 51,
-        "likes_h": "529"
+        "likes_h": "536"
       },
-      "engagement": 732,
+      "engagement": 741,
       "hot": false
     },
     {
@@ -403,7 +443,7 @@
       "summary": "📣 NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations At #DTWIgnite, together with our partners, we are showcasing the data, models, simulation and secure runtime stack enabling telcos to build more secure agentic workflows across autonomous networks and operations. 📖",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 78,
+      "worthiness_score": 79,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -411,12 +451,12 @@
         "tech substance (models, agents)"
       ],
       "metrics": {
-        "likes": 191,
-        "retweets": 23,
+        "likes": 194,
+        "retweets": 24,
         "replies": 27,
-        "likes_h": "191"
+        "likes_h": "194"
       },
-      "engagement": 264,
+      "engagement": 269,
       "hot": false
     },
     {
@@ -706,12 +746,12 @@
         "high engagement (1.4K likes)"
       ],
       "metrics": {
-        "likes": 1417,
+        "likes": 1418,
         "retweets": 153,
         "replies": 83,
         "likes_h": "1.4K"
       },
-      "engagement": 1806,
+      "engagement": 1807,
       "hot": false
     },
     {
@@ -954,12 +994,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 606,
+        "likes": 607,
         "retweets": 87,
         "replies": 87,
-        "likes_h": "606"
+        "likes_h": "607"
       },
-      "engagement": 867,
+      "engagement": 868,
       "hot": false
     },
     {
@@ -1042,7 +1082,7 @@
         "likes_h": "3.1K"
       },
       "engagement": 3922,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2067346918746030496",
@@ -1125,7 +1165,7 @@
         "likes_h": "2.9K"
       },
       "engagement": 3630,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2067276081548202489",
@@ -1200,11 +1240,11 @@
       ],
       "metrics": {
         "likes": 284,
-        "retweets": 47,
+        "retweets": 48,
         "replies": 41,
         "likes_h": "284"
       },
-      "engagement": 419,
+      "engagement": 421,
       "hot": false
     },
     {
@@ -1288,46 +1328,6 @@
       },
       "engagement": 7556,
       "hot": true
-    },
-    {
-      "id": "x_2067016769584177337",
-      "title": "AI infrastructure runs on more than compute. It runs on light. Today in Sherman, Texas, Jensen Huang joined @CoherentCorp CEO Jim Anderson and local leaders to mark the expansion of U.S.…",
-      "link": "https://x.com/nvidia/status/2067016769584177337",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-16T22:49:35.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Commentary"
-      ],
-      "summary": "AI infrastructure runs on more than compute. It runs on light. Today in Sherman, Texas, Jensen Huang joined @CoherentCorp CEO Jim Anderson and local leaders to mark the expansion of U.S. manufacturing capacity for advanced photonics. The technology is behind the lasers and",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 60,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "high engagement (1.2K likes)"
-      ],
-      "metrics": {
-        "likes": 1163,
-        "retweets": 152,
-        "replies": 65,
-        "likes_h": "1.2K"
-      },
-      "engagement": 1532,
-      "hot": false
     }
   ]
 }
