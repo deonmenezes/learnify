@@ -1,15 +1,138 @@
 {
-  "generated_at": "2026-06-25T20:07:06.757Z",
+  "generated_at": "2026-06-25T22:06:28.134Z",
   "handles": [
     "nvidia",
+    "GoogleDeepMind",
     "OpenAI",
     "gdb",
-    "GoogleDeepMind",
     "elonmusk",
     "AnthropicAI"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2070205383138849223",
+      "title": "Revolut built a transaction foundation model – accelerated by the NVIDIA full-stack platform on Nebius – to improve fraud detection, product recommendations, and other use cases in financial…",
+      "link": "https://x.com/nvidia/status/2070205383138849223",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-25T18:00:00.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Research"
+      ],
+      "summary": "Revolut built a transaction foundation model – accelerated by the NVIDIA full-stack platform on Nebius – to improve fraud detection, product recommendations, and other use cases in financial services. The results: 📈 2.3x better credit risk accuracy ⚡ Up to 5x higher training",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 91,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (model, training, platform)",
+        "concrete metrics"
+      ],
+      "metrics": {
+        "likes": 121,
+        "retweets": 19,
+        "replies": 11,
+        "likes_h": "121"
+      },
+      "engagement": 170,
+      "hot": false
+    },
+    {
+      "id": "x_2070186658289308065",
+      "title": "Walk the #BIO2026 show floor with Kimberly Powell, NVIDIA VP of Healthcare, as she shares what’s exciting about the latest BioNeMo toolkit announcement. BioNeMo is helping bring AI-driven biology and…",
+      "link": "https://x.com/nvidia/status/2070186658289308065",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-25T16:45:36.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Commentary",
+        "BIO2026"
+      ],
+      "summary": "Walk the #BIO2026 show floor with Kimberly Powell, NVIDIA VP of Healthcare, as she shares what’s exciting about the latest BioNeMo toolkit announcement. BioNeMo is helping bring AI-driven biology and drug discovery closer to the next experiment, with tools for researchers and",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 55,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy"
+      ],
+      "metrics": {
+        "likes": 100,
+        "retweets": 12,
+        "replies": 15,
+        "likes_h": "100"
+      },
+      "engagement": 139,
+      "hot": false
+    },
+    {
+      "id": "x_2070180509523546481",
+      "title": "Gemini 3.5 Flash now supports native computer use. This built-in tool lets developers build custom agents that can see and take action across browser, mobile, and desktop interfaces. Find out more →…",
+      "link": "https://x.com/GoogleDeepMind/status/2070180509523546481",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Google DeepMind · @GoogleDeepMind",
+      "handle": "GoogleDeepMind",
+      "org": "Google",
+      "published": "2026-06-25T16:21:10.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "Google",
+        "Product"
+      ],
+      "summary": "Gemini 3.5 Flash now supports native computer use. This built-in tool lets developers build custom agents that can see and take action across browser, mobile, and desktop interfaces. Find out more → https://goo.gle/4f4sNQA",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 78,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "casual tone (this)",
+        "tech substance (gemini, agents)",
+        "links to a source"
+      ],
+      "metrics": {
+        "likes": 386,
+        "retweets": 39,
+        "replies": 23,
+        "likes_h": "386"
+      },
+      "engagement": 487,
+      "hot": false
+    },
     {
       "id": "x_2069888296684073414",
       "title": "The next era of AI will be defined by energy — how we scale it and where we get it from. Eco Wave Power, an NVIDIA Inception member, has found a solution in the sea 🌊. Using NVIDIA Omniverse digital…",
@@ -34,19 +157,19 @@
       "summary": "The next era of AI will be defined by energy — how we scale it and where we get it from. Eco Wave Power, an NVIDIA Inception member, has found a solution in the sea 🌊. Using NVIDIA Omniverse digital twins and accelerated computing, Eco Wave Power simulates wave conditions and",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 55,
+      "worthiness_score": 56,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
         "report-worthy"
       ],
       "metrics": {
-        "likes": 570,
-        "retweets": 68,
-        "replies": 55,
-        "likes_h": "570"
+        "likes": 606,
+        "retweets": 73,
+        "replies": 58,
+        "likes_h": "606"
       },
-      "engagement": 761,
+      "engagement": 810,
       "hot": false
     },
     {
@@ -82,12 +205,12 @@
         "business signal (enterprise)"
       ],
       "metrics": {
-        "likes": 350,
-        "retweets": 48,
-        "replies": 32,
-        "likes_h": "350"
+        "likes": 381,
+        "retweets": 50,
+        "replies": 34,
+        "likes_h": "381"
       },
-      "engagement": 478,
+      "engagement": 515,
       "hot": false
     },
     {
@@ -155,19 +278,19 @@
       "summary": "Real grocery stores are hard on AI: changing shelves, spotty Wi-Fi and shoppers on the move. On the NVIDIA AI Podcast, @instacart 's David McIntosh shares how Caper Carts use NVIDIA Jetson and edge AI to recognize items in store.",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 56,
+      "worthiness_score": 57,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
         "report-worthy"
       ],
       "metrics": {
-        "likes": 181,
-        "retweets": 19,
+        "likes": 196,
+        "retweets": 22,
         "replies": 19,
-        "likes_h": "181"
+        "likes_h": "196"
       },
-      "engagement": 238,
+      "engagement": 259,
       "hot": false
     },
     {
@@ -242,15 +365,16 @@
       "sentiment_score": 0,
       "reasons": [
         "report-worthy",
-        "tech substance (agent, agents)"
+        "tech substance (agent, agents)",
+        "high engagement (739 likes)"
       ],
       "metrics": {
-        "likes": 687,
-        "retweets": 88,
-        "replies": 84,
-        "likes_h": "687"
+        "likes": 739,
+        "retweets": 96,
+        "replies": 89,
+        "likes_h": "739"
       },
-      "engagement": 947,
+      "engagement": 1020,
       "hot": false
     },
     {
@@ -326,12 +450,12 @@
         "tech substance (research)"
       ],
       "metrics": {
-        "likes": 322,
-        "retweets": 47,
-        "replies": 32,
-        "likes_h": "322"
+        "likes": 327,
+        "retweets": 48,
+        "replies": 34,
+        "likes_h": "327"
       },
-      "engagement": 448,
+      "engagement": 457,
       "hot": false
     },
     {
@@ -825,12 +949,12 @@
         "high engagement (1.4K likes)"
       ],
       "metrics": {
-        "likes": 1428,
-        "retweets": 158,
-        "replies": 84,
+        "likes": 1435,
+        "retweets": 159,
+        "replies": 85,
         "likes_h": "1.4K"
       },
-      "engagement": 1828,
+      "engagement": 1838,
       "hot": false
     },
     {
@@ -1073,12 +1197,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 607,
+        "likes": 608,
         "retweets": 87,
         "replies": 87,
-        "likes_h": "607"
+        "likes_h": "608"
       },
-      "engagement": 868,
+      "engagement": 869,
       "hot": false
     },
     {
@@ -1202,128 +1326,6 @@
         "likes_h": "297"
       },
       "engagement": 336,
-      "hot": false
-    },
-    {
-      "id": "x_2067293745075442171",
-      "title": "GPT-5.4 helped drive a medicinal chemistry project from literature review to a validated experimental result. Paired with http://Molecule.one’s Maria AI and specialized lab, the model proposed an…",
-      "link": "https://x.com/OpenAI/status/2067293745075442171",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-06-17T17:10:11.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Product"
-      ],
-      "summary": "GPT-5.4 helped drive a medicinal chemistry project from literature review to a validated experimental result. Paired with http://Molecule.one’s Maria AI and specialized lab, the model proposed an unexpected way to improve a widely used reaction in drug discovery.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 93,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (model, gpt)",
-        "links to a source",
-        "high engagement (2.9K likes)"
-      ],
-      "metrics": {
-        "likes": 2884,
-        "retweets": 286,
-        "replies": 174,
-        "likes_h": "2.9K"
-      },
-      "engagement": 3630,
-      "hot": false
-    },
-    {
-      "id": "x_2067276081548202489",
-      "title": "Registration for #NVIDIAGTC Berlin is now open. ✨ October 20–22, join the global AI community for expert-led sessions, hands-on training, and insights on how AI is transforming every industry. Hear…",
-      "link": "https://x.com/nvidia/status/2067276081548202489",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-17T16:00:00.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Research",
-        "NVIDIAGTC"
-      ],
-      "summary": "Registration for #NVIDIAGTC Berlin is now open. ✨ October 20–22, join the global AI community for expert-led sessions, hands-on training, and insights on how AI is transforming every industry. Hear from NVIDIA CEO Jensen Huang, explore what's next across the AI stack, and",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 74,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "tech substance (training)"
-      ],
-      "metrics": {
-        "likes": 190,
-        "retweets": 34,
-        "replies": 35,
-        "likes_h": "190"
-      },
-      "engagement": 293,
-      "hot": false
-    },
-    {
-      "id": "x_2067188693694136664",
-      "title": "We’re working with @SciTechgovuk, @mhclg and @i_dot_ai on a new AI housing application planning prototype. 🏡 By cutting down the time spent on repetitive tasks, it could help planning officers focus…",
-      "link": "https://x.com/GoogleDeepMind/status/2067188693694136664",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Google DeepMind · @GoogleDeepMind",
-      "handle": "GoogleDeepMind",
-      "org": "Google",
-      "published": "2026-06-17T10:12:45.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "Google",
-        "Commentary"
-      ],
-      "summary": "We’re working with @SciTechgovuk, @mhclg and @i_dot_ai on a new AI housing application planning prototype. 🏡 By cutting down the time spent on repetitive tasks, it could help planning officers focus their attention on complex projects and reduce processing times by up to 50%.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 58,
-      "sentiment": "negative",
-      "sentiment_score": -0.5,
-      "reasons": [
-        "report-worthy"
-      ],
-      "metrics": {
-        "likes": 284,
-        "retweets": 48,
-        "replies": 41,
-        "likes_h": "284"
-      },
-      "engagement": 421,
       "hot": false
     }
   ]

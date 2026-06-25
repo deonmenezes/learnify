@@ -1,14 +1,16 @@
 {
-  "generated_at": "2026-06-25T20:09:19.244Z",
+  "generated_at": "2026-06-25T22:08:43.820Z",
   "subs": [
     "MachineLearning",
-    "Fitness",
-    "robotics",
+    "science",
+    "cybersecurity",
     "investing",
+    "robotics",
     "longevity",
     "nutrition",
     "hardware",
     "artificial",
+    "Fitness",
     "LocalLLaMA",
     "programming",
     "running",
@@ -19,12 +21,13 @@
   ],
   "count": 36,
   "by_category": {
-    "Startups & Funding": 5,
+    "Startups & Funding": 4,
     "Robotics": 4,
-    "Science": 3,
+    "Science": 4,
+    "Security": 1,
     "Fitness": 9,
     "Hardware & Gadgets": 3,
-    "AI / ML": 7,
+    "AI / ML": 6,
     "Coding & Dev Tools": 2,
     "Skincare": 3
   },
@@ -189,6 +192,45 @@
       }
     },
     {
+      "id": "reddit_1uehcps",
+      "title": "Well someone went nuclear..",
+      "link": "https://www.reddit.com/r/cybersecurity/comments/1uehcps/well_someone_went_nuclear/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/cybersecurity · community knowledge",
+      "content_type": "post",
+      "author": "u/mando_6 · r/cybersecurity",
+      "handle": "cybersecurity",
+      "org": "r/cybersecurity",
+      "platform": "reddit",
+      "published": "2026-06-24T15:52:16.000Z",
+      "image": "https://external-preview.redd.it/GVc4RBhrrDZLOMi4WMBw5Ro2pbCXLy_yoYsuC9q28r4.jpeg?width=640&crop=smart&auto=webp&s=1c36e35b1dace313c25db0e04396d2bced851129",
+      "thumbnail": "https://external-preview.redd.it/GVc4RBhrrDZLOMi4WMBw5Ro2pbCXLy_yoYsuC9q28r4.jpeg?width=640&crop=smart&auto=webp&s=1c36e35b1dace313c25db0e04396d2bced851129",
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/cybersecurity"
+      ],
+      "summary": "I&#39;m curious about the details of this. I&#39;m sure we will all find out eventually. TLDR; former Huntress employee is disclosing Huntress had an insider threat that leaked information to a known cyber criminal &quot;Devman&quot;. That employee is still employed with Huntress and was caught by the FBI. The former…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/cybersecurity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1uegkx1",
       "title": "What is something society has wrongly convinced everyone is bad for their health?",
       "link": "https://www.reddit.com/r/nutrition/comments/1uegkx1/what_is_something_society_has_wrongly_convinced/",
@@ -300,6 +342,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/artificial this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1ue9zq7",
+      "title": "Following the Dobbs decision, US states with abortion bans have experienced increased maternal morbidity and mortality. Abortion bans have broad downstream consequences on medical care beyond abortion itself, with implications for patient safety, equity, and physician ethics.",
+      "link": "https://www.reddit.com/r/science/comments/1ue9zq7/following_the_dobbs_decision_us_states_with/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/science · community knowledge",
+      "content_type": "post",
+      "author": "u/mvea · r/science",
+      "handle": "science",
+      "org": "r/science",
+      "platform": "reddit",
+      "published": "2026-06-24T10:42:18.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/science"
+      ],
+      "summary": "Following the Dobbs decision, US states with abortion bans have experienced increased maternal morbidity and mortality. Abortion bans have broad downstream consequences on medical care beyond abortion itself, with implications for patient safety, equity, and physician ethics.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/science this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1364,86 +1445,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/running this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ubftdf",
-      "title": "Does any other founder feel lonely? I will not promote",
-      "link": "https://www.reddit.com/r/startups/comments/1ubftdf/does_any_other_founder_feel_lonely_i_will_not/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/startups · community knowledge",
-      "content_type": "post",
-      "author": "u/Catbun2020 · r/startups",
-      "handle": "startups",
-      "org": "r/startups",
-      "platform": "reddit",
-      "published": "2026-06-21T03:47:41.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/startups"
-      ],
-      "summary": "I’m working at 10:50 on a Saturday evening. I LOVE the work I’m doing. I’m trying to remain a good friend while doing this— but this is the most important part of my life right now. My business partner and I are on the verge of launch (like 1 month) but no one gets it, just how isolating it is. My business partner is…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/startups this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ubets2",
-      "title": "NSA says Mythos broke into almost all of their classified systems in hours, per The Economist",
-      "link": "https://www.reddit.com/r/singularity/comments/1ubets2/nsa_says_mythos_broke_into_almost_all_of_their/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/singularity · community knowledge",
-      "content_type": "post",
-      "author": "u/socoolandawesome · r/singularity",
-      "handle": "singularity",
-      "org": "r/singularity",
-      "platform": "reddit",
-      "published": "2026-06-21T02:55:40.000Z",
-      "image": "https://preview.redd.it/o4nb07y8wj8h1.jpeg?width=640&crop=smart&auto=webp&s=dcf5045eb79f0c9663a25adc9c89da8f77d71913",
-      "thumbnail": "https://preview.redd.it/o4nb07y8wj8h1.jpeg?width=640&crop=smart&auto=webp&s=dcf5045eb79f0c9663a25adc9c89da8f77d71913",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/singularity"
-      ],
-      "summary": "Link to tweet: https://x.com/apples\\_jimmy/status/2068519245626187853?s=20 Link to article: https://www.economist.com/briefing/2026/06/14/donald-trumps-blocking-of-anthropic-is-capricious-and-chaotic &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/singularity this week"
       ],
       "metrics": {
         "likes": 0,
