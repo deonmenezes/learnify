@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-06-25T23:57:28.398Z",
+  "generated_at": "2026-06-26T04:05:49.076Z",
   "subs": [
     "MachineLearning",
-    "longevity",
+    "programming",
+    "cybersecurity",
     "gadgets",
     "investing",
     "robotics",
-    "cybersecurity",
+    "longevity",
     "nutrition",
     "hardware",
     "artificial",
     "science",
     "Fitness",
     "LocalLLaMA",
-    "programming",
     "running",
     "SkincareAddiction",
     "singularity",
@@ -23,12 +23,12 @@
   "by_category": {
     "Hardware & Gadgets": 5,
     "Startups & Funding": 3,
-    "Robotics": 4,
+    "Robotics": 2,
     "Science": 4,
-    "Security": 1,
+    "Security": 2,
     "Fitness": 8,
     "AI / ML": 6,
-    "Coding & Dev Tools": 2,
+    "Coding & Dev Tools": 3,
     "Skincare": 3
   },
   "articles": [
@@ -1057,6 +1057,45 @@
       }
     },
     {
+      "id": "reddit_1uck3ll",
+      "title": "How 4 bytes of padding make array clearing 49% faster",
+      "link": "https://www.reddit.com/r/programming/comments/1uck3ll/how_4_bytes_of_padding_make_array_clearing_49/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/programming · community knowledge",
+      "content_type": "post",
+      "author": "u/watman12 · r/programming",
+      "handle": "programming",
+      "org": "r/programming",
+      "platform": "reddit",
+      "published": "2026-06-22T13:07:14.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Coding & Dev Tools",
+      "category": "Coding & Dev Tools",
+      "genre": "Coding & Dev Tools",
+      "categories": [
+        "Reddit",
+        "Coding & Dev Tools",
+        "r/programming"
+      ],
+      "summary": "I wrote about interesting amd64-specific quirk. If a large array is 4-byte misaligned, making it 8-byte aligned can make the array clearing ~49% faster (at least on my Intel machine). In the post I also touch on Intel&#39;s REP STOSQ implementation, ERMS and also on other optimizations related to array clearing. &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/programming this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1ucj3ag",
       "title": "SK Hynix overtakes Samsung as Korea’s most valuable company",
       "link": "https://www.reddit.com/r/hardware/comments/1ucj3ag/sk_hynix_overtakes_samsung_as_koreas_most/",
@@ -1255,6 +1294,45 @@
       }
     },
     {
+      "id": "reddit_1uc1n8b",
+      "title": "These workers thought they were getting an extra day off. Turns out it was just a ‘cruel’ test",
+      "link": "https://www.reddit.com/r/cybersecurity/comments/1uc1n8b/these_workers_thought_they_were_getting_an_extra/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/cybersecurity · community knowledge",
+      "content_type": "post",
+      "author": "u/yawaramin · r/cybersecurity",
+      "handle": "cybersecurity",
+      "org": "r/cybersecurity",
+      "platform": "reddit",
+      "published": "2026-06-21T21:22:25.000Z",
+      "image": "https://external-preview.redd.it/TkJl65X1qyih_hacqR_bwQJtSk-tXIHlrTL8tUUo8zk.jpeg?width=640&crop=smart&auto=webp&s=9fc6b047eb722f35612bd21ddb9ffc2608978b4b",
+      "thumbnail": "https://external-preview.redd.it/TkJl65X1qyih_hacqR_bwQJtSk-tXIHlrTL8tUUo8zk.jpeg?width=640&crop=smart&auto=webp&s=9fc6b047eb722f35612bd21ddb9ffc2608978b4b",
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/cybersecurity"
+      ],
+      "summary": "Email phishing campaign sent by cybersecurity team dangled a cruel promise of an extra day off after months of mandatory overtime, only to tell people that they failed a phishing test. &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/cybersecurity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1ubwtut",
       "title": "Anthropic’s Internal Mythos Successor Emerges",
       "link": "https://www.reddit.com/r/singularity/comments/1ubwtut/anthropics_internal_mythos_successor_emerges/",
@@ -1366,84 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/nutrition this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ubo4eb",
-      "title": "My $250 mobile robot uses 4 smartphones as a budget LiDAR alternative. Works surprisingly well, but I hit a depth scaling snag.",
-      "link": "https://www.reddit.com/r/robotics/comments/1ubo4eb/my_250_mobile_robot_uses_4_smartphones_as_a/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/robotics · community knowledge",
-      "content_type": "post",
-      "author": "u/ganacbicnio · r/robotics",
-      "handle": "robotics",
-      "org": "r/robotics",
-      "platform": "reddit",
-      "published": "2026-06-21T11:51:57.000Z",
-      "image": "https://external-preview.redd.it/dXZ3aXBqeGtpbThoMVWFwhBF_ylEkXwr2RaqBpzN9Hsv74Y3hvbgm4Z9hHLf.png?width=640&crop=smart&auto=webp&s=7799d3c9c1387dab808f858a6c75e3c66e08ccb3",
-      "thumbnail": "https://external-preview.redd.it/dXZ3aXBqeGtpbThoMVWFwhBF_ylEkXwr2RaqBpzN9Hsv74Y3hvbgm4Z9hHLf.png?width=640&crop=smart&auto=webp&s=7799d3c9c1387dab808f858a6c75e3c66e08ccb3",
-      "section": "Robotics",
-      "category": "Robotics",
-      "genre": "Robotics",
-      "categories": [
-        "Reddit",
-        "Robotics",
-        "r/robotics"
-      ],
-      "summary": "Hey r/robotics , Wanted to share my latest budget mobile robot build. The goal was to keep it under $250, so instead of buying an expensive LiDAR setup or dedicated depth cameras, I rigged up 4 cheap smartphones to stream video data. I’m running the streams through Depth Anything v3 (DA3) to estimate the depth maps,…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/robotics this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ubkv4u",
-      "title": "Demo of quadruped robot navigating low barrier with wall support",
-      "link": "https://www.reddit.com/r/robotics/comments/1ubkv4u/demo_of_quadruped_robot_navigating_low_barrier/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/robotics · community knowledge",
-      "content_type": "post",
-      "author": "u/Nunki08 · r/robotics",
-      "handle": "robotics",
-      "org": "r/robotics",
-      "platform": "reddit",
-      "published": "2026-06-21T08:39:12.000Z",
-      "image": "https://external-preview.redd.it/d2U1MW5xcjhsbDhoMU0nKFvGDy5btRBujkWIqlj-Rd6h4GYCXwi8IyQJGVoL.png?width=640&crop=smart&auto=webp&s=f0ffbfeed8436043b64ab96dd89a9aa5a5771d49",
-      "thumbnail": "https://external-preview.redd.it/d2U1MW5xcjhsbDhoMU0nKFvGDy5btRBujkWIqlj-Rd6h4GYCXwi8IyQJGVoL.png?width=640&crop=smart&auto=webp&s=f0ffbfeed8436043b64ab96dd89a9aa5a5771d49",
-      "section": "Robotics",
-      "category": "Robotics",
-      "genre": "Robotics",
-      "categories": [
-        "Reddit",
-        "Robotics",
-        "r/robotics"
-      ],
-      "summary": "From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2067833855017353691 &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/robotics this week"
       ],
       "metrics": {
         "likes": 0,
