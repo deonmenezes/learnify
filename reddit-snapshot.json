@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-06-26T20:22:48.081Z",
+  "generated_at": "2026-06-26T21:52:26.305Z",
   "subs": [
     "MachineLearning",
-    "programming",
-    "cybersecurity",
+    "longevity",
+    "hardware",
     "investing",
     "gadgets",
     "artificial",
     "running",
+    "programming",
+    "cybersecurity",
     "robotics",
-    "longevity",
     "netsec",
     "nutrition",
-    "hardware",
     "science",
     "Fitness",
     "LocalLLaMA",
@@ -23,17 +23,96 @@
   ],
   "count": 36,
   "by_category": {
-    "Startups & Funding": 4,
+    "Science": 4,
     "Hardware & Gadgets": 5,
+    "Startups & Funding": 4,
     "AI / ML": 6,
     "Fitness": 6,
-    "Coding & Dev Tools": 4,
+    "Coding & Dev Tools": 3,
     "Security": 4,
     "Robotics": 2,
-    "Science": 3,
     "Skincare": 2
   },
   "articles": [
+    {
+      "id": "reddit_1ugbjb0",
+      "title": "Researchers screened 6,442 existing drugs for hidden effects on aging and longevity. 370 made the list, including an OTC nasal spray, and a new metric predicts which slow aging vs. speed it up (Nature Aging)",
+      "link": "https://www.reddit.com/r/longevity/comments/1ugbjb0/researchers_screened_6442_existing_drugs_for/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/longevity · community knowledge",
+      "content_type": "post",
+      "author": "u/Hot-Nothing-4424 · r/longevity",
+      "handle": "longevity",
+      "org": "r/longevity",
+      "platform": "reddit",
+      "published": "2026-06-26T16:24:20.000Z",
+      "image": "https://external-preview.redd.it/vxYt09kauytxU580cJtsVYUDKkLP6JSG4Pt3NIk4cLg.jpeg?width=640&crop=smart&auto=webp&s=cd0b4e8dce5fbb43d0db80ab595e5bff2fc09caf",
+      "thumbnail": "https://external-preview.redd.it/vxYt09kauytxU580cJtsVYUDKkLP6JSG4Pt3NIk4cLg.jpeg?width=640&crop=smart&auto=webp&s=cd0b4e8dce5fbb43d0db80ab595e5bff2fc09caf",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Longevity",
+      "categories": [
+        "Reddit",
+        "Science",
+        "Longevity",
+        "r/longevity"
+      ],
+      "summary": "Researchers screened 6,442 existing drugs for hidden effects on aging and longevity. 370 made the list, including an OTC nasal spray, and a new metric predicts which slow aging vs. speed it up (Nature Aging)",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/longevity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1ufkcox",
+      "title": "French retailer mocks €1039 Steam Machine with “Stim Machine” RX 9060 XT PC for €999",
+      "link": "https://www.reddit.com/r/hardware/comments/1ufkcox/french_retailer_mocks_1039_steam_machine_with/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/hardware · community knowledge",
+      "content_type": "post",
+      "author": "u/JohnBarry_Dost · r/hardware",
+      "handle": "hardware",
+      "org": "r/hardware",
+      "platform": "reddit",
+      "published": "2026-06-25T19:42:48.000Z",
+      "image": "https://external-preview.redd.it/70K_7nHeUyQOHuI9Licuv-yUPp5XtQUoBc2tmWm4iBQ.jpeg?width=640&crop=smart&auto=webp&s=ab8424bf90c0c8106109eadfa78f1c532726fe4d",
+      "thumbnail": "https://external-preview.redd.it/70K_7nHeUyQOHuI9Licuv-yUPp5XtQUoBc2tmWm4iBQ.jpeg?width=640&crop=smart&auto=webp&s=ab8424bf90c0c8106109eadfa78f1c532726fe4d",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/hardware"
+      ],
+      "summary": "French retailer mocks €1039 Steam Machine with “Stim Machine” RX 9060 XT PC for €999",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/hardware this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1ufgpu7",
       "title": "If you're not buying MSFT/MSFU at these prices what are you even doing?",
@@ -1366,84 +1445,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/robotics this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uck3ll",
-      "title": "How 4 bytes of padding make array clearing 49% faster",
-      "link": "https://www.reddit.com/r/programming/comments/1uck3ll/how_4_bytes_of_padding_make_array_clearing_49/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/programming · community knowledge",
-      "content_type": "post",
-      "author": "u/watman12 · r/programming",
-      "handle": "programming",
-      "org": "r/programming",
-      "platform": "reddit",
-      "published": "2026-06-22T13:07:14.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Coding & Dev Tools",
-      "category": "Coding & Dev Tools",
-      "genre": "Coding & Dev Tools",
-      "categories": [
-        "Reddit",
-        "Coding & Dev Tools",
-        "r/programming"
-      ],
-      "summary": "I wrote about interesting amd64-specific quirk. If a large array is 4-byte misaligned, making it 8-byte aligned can make the array clearing ~49% faster (at least on my Intel machine). In the post I also touch on Intel&#39;s REP STOSQ implementation, ERMS and also on other optimizations related to array clearing. &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/programming this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ucj3ag",
-      "title": "SK Hynix overtakes Samsung as Korea’s most valuable company",
-      "link": "https://www.reddit.com/r/hardware/comments/1ucj3ag/sk_hynix_overtakes_samsung_as_koreas_most/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/hardware · community knowledge",
-      "content_type": "post",
-      "author": "u/self-fix2 · r/hardware",
-      "handle": "hardware",
-      "org": "r/hardware",
-      "platform": "reddit",
-      "published": "2026-06-22T12:22:49.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/hardware"
-      ],
-      "summary": "SK Hynix overtakes Samsung as Korea’s most valuable company",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/hardware this week"
       ],
       "metrics": {
         "likes": 0,

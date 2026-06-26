@@ -1,15 +1,96 @@
 {
-  "generated_at": "2026-06-26T20:20:35.288Z",
+  "generated_at": "2026-06-26T21:50:12.827Z",
   "handles": [
     "nvidia",
     "GoogleDeepMind",
-    "OpenAI",
     "gdb",
+    "OpenAI",
     "elonmusk",
     "AnthropicAI"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2070597978826449174",
+      "title": "AI is most impactful when it's tailored to the way teams already work. Discover how Zaha Hadid Architects uses local compute, fine-tuned AI models, and NVIDIA technologies to build custom AI tools…",
+      "link": "https://x.com/nvidia/status/2070597978826449174",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-26T20:00:02.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "AI is most impactful when it's tailored to the way teams already work. Discover how Zaha Hadid Architects uses local compute, fine-tuned AI models, and NVIDIA technologies to build custom AI tools that accelerate design while keeping proprietary data secure.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 77,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (models, fine-tune)"
+      ],
+      "metrics": {
+        "likes": 92,
+        "retweets": 12,
+        "replies": 17,
+        "likes_h": "92"
+      },
+      "engagement": 133,
+      "hot": false
+    },
+    {
+      "id": "x_2070555985840906333",
+      "title": "GPT-5.6 Sol preview — it's a good model:",
+      "link": "https://x.com/gdb/status/2070555985840906333",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Greg Brockman · @gdb",
+      "handle": "gdb",
+      "org": "OpenAI",
+      "published": "2026-06-26T17:13:10.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Product"
+      ],
+      "summary": "GPT-5.6 Sol preview — it's a good model:",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 73,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (model, gpt)",
+        "high engagement (5K likes)"
+      ],
+      "metrics": {
+        "likes": 4951,
+        "retweets": 264,
+        "replies": 397,
+        "likes_h": "5K"
+      },
+      "engagement": 5876,
+      "hot": true
+    },
     {
       "id": "x_2070235584535117938",
       "title": "Every day, millions of videos compete for advertising dollars. Ensuring brands appear alongside the right content requires AI that can understand context at scale. PYLER is helping advertisers…",
@@ -41,12 +122,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 146,
-        "retweets": 17,
-        "replies": 20,
-        "likes_h": "146"
+        "likes": 186,
+        "retweets": 20,
+        "replies": 26,
+        "likes_h": "186"
       },
-      "engagement": 200,
+      "engagement": 252,
       "hot": false
     },
     {
@@ -82,12 +163,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 190,
-        "retweets": 26,
-        "replies": 19,
-        "likes_h": "190"
+        "likes": 235,
+        "retweets": 35,
+        "replies": 24,
+        "likes_h": "235"
       },
-      "engagement": 261,
+      "engagement": 329,
       "hot": false
     },
     {
@@ -115,19 +196,19 @@
       "summary": "Walk the #BIO2026 show floor with Kimberly Powell, NVIDIA VP of Healthcare, as she shares what’s exciting about the latest BioNeMo toolkit announcement. BioNeMo is helping bring AI-driven biology and drug discovery closer to the next experiment, with tools for researchers and",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 56,
+      "worthiness_score": 57,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
         "report-worthy"
       ],
       "metrics": {
-        "likes": 167,
-        "retweets": 23,
-        "replies": 16,
-        "likes_h": "167"
+        "likes": 215,
+        "retweets": 29,
+        "replies": 19,
+        "likes_h": "215"
       },
-      "engagement": 229,
+      "engagement": 292,
       "hot": false
     },
     {
@@ -161,15 +242,16 @@
         "report-worthy",
         "casual tone (this)",
         "tech substance (gemini, agents)",
-        "links to a source"
+        "links to a source",
+        "high engagement (898 likes)"
       ],
       "metrics": {
-        "likes": 691,
-        "retweets": 77,
-        "replies": 42,
-        "likes_h": "691"
+        "likes": 898,
+        "retweets": 103,
+        "replies": 56,
+        "likes_h": "898"
       },
-      "engagement": 887,
+      "engagement": 1160,
       "hot": false
     },
     {
@@ -203,12 +285,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 620,
+        "likes": 632,
         "retweets": 74,
-        "replies": 58,
-        "likes_h": "620"
+        "replies": 59,
+        "likes_h": "632"
       },
-      "engagement": 826,
+      "engagement": 839,
       "hot": false
     },
     {
@@ -235,7 +317,7 @@
       "summary": "NVIDIA's full-stack AI is enabling autonomous operations for the world's leading brands and platforms. Key capabilities driving this shift: 📈 Causal marketing analytics at enterprise scale 🤖 Secure, trustworthy agentic workflows ⚡Real-time, hyper-efficient auction bidding 🎬",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 67,
+      "worthiness_score": 68,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -244,12 +326,12 @@
         "business signal (enterprise)"
       ],
       "metrics": {
-        "likes": 391,
+        "likes": 407,
         "retweets": 54,
-        "replies": 35,
-        "likes_h": "391"
+        "replies": 38,
+        "likes_h": "407"
       },
-      "engagement": 534,
+      "engagement": 553,
       "hot": false
     },
     {
@@ -405,15 +487,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (agent, agents)",
-        "high engagement (763 likes)"
+        "high engagement (769 likes)"
       ],
       "metrics": {
-        "likes": 763,
-        "retweets": 97,
-        "replies": 92,
-        "likes_h": "763"
+        "likes": 769,
+        "retweets": 99,
+        "replies": 95,
+        "likes_h": "769"
       },
-      "engagement": 1049,
+      "engagement": 1062,
       "hot": false
     },
     {
@@ -988,12 +1070,12 @@
         "high engagement (1.4K likes)"
       ],
       "metrics": {
-        "likes": 1434,
-        "retweets": 159,
-        "replies": 85,
+        "likes": 1438,
+        "retweets": 161,
+        "replies": 87,
         "likes_h": "1.4K"
       },
-      "engagement": 1837,
+      "engagement": 1847,
       "hot": false
     },
     {
@@ -1236,95 +1318,13 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 609,
-        "retweets": 87,
+        "likes": 607,
+        "retweets": 86,
         "replies": 87,
-        "likes_h": "609"
+        "likes_h": "607"
       },
-      "engagement": 870,
+      "engagement": 866,
       "hot": false
-    },
-    {
-      "id": "x_2067489992042004685",
-      "title": "At VivaTech, we're sharing how France is turning AI ambitions into production reality. AI factories are coming online, open models are advancing, and agents are being deployed across industries,…",
-      "link": "https://x.com/nvidia/status/2067489992042004685",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-18T06:10:00.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product"
-      ],
-      "summary": "At VivaTech, we're sharing how France is turning AI ambitions into production reality. AI factories are coming online, open models are advancing, and agents are being deployed across industries, including healthcare, telecommunications, manufacturing, energy, and retail. From",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 80,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "tech substance (models, agents)"
-      ],
-      "metrics": {
-        "likes": 338,
-        "retweets": 57,
-        "replies": 59,
-        "likes_h": "338"
-      },
-      "engagement": 511,
-      "hot": false
-    },
-    {
-      "id": "x_2067346916929937827",
-      "title": "Introducing LifeSciBench, a benchmark for measuring and improving how well AI supports real-world life science research. Developed with 173 scientists from biotechnology and pharmaceutical research,…",
-      "link": "https://x.com/OpenAI/status/2067346916929937827",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-06-17T20:41:29.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Research"
-      ],
-      "summary": "Introducing LifeSciBench, a benchmark for measuring and improving how well AI supports real-world life science research. Developed with 173 scientists from biotechnology and pharmaceutical research, LifeSciBench includes 750 expert-authored tasks across seven biological research",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 100,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "announcement language (introducing)",
-        "tech substance (benchmark, research)",
-        "high engagement (3.1K likes)"
-      ],
-      "metrics": {
-        "likes": 3070,
-        "retweets": 318,
-        "replies": 216,
-        "likes_h": "3.1K"
-      },
-      "engagement": 3922,
-      "hot": true
     }
   ]
 }
