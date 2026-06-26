@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-06-26T21:52:26.305Z",
+  "generated_at": "2026-06-26T23:14:44.045Z",
   "subs": [
     "MachineLearning",
+    "programming",
+    "cybersecurity",
     "longevity",
     "hardware",
     "investing",
     "gadgets",
     "artificial",
     "running",
-    "programming",
-    "cybersecurity",
     "robotics",
     "netsec",
     "nutrition",
@@ -24,13 +24,13 @@
   "count": 36,
   "by_category": {
     "Science": 4,
+    "AI / ML": 7,
     "Hardware & Gadgets": 5,
     "Startups & Funding": 4,
-    "AI / ML": 6,
     "Fitness": 6,
     "Coding & Dev Tools": 3,
     "Security": 4,
-    "Robotics": 2,
+    "Robotics": 1,
     "Skincare": 2
   },
   "articles": [
@@ -67,6 +67,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/longevity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uga687",
+      "title": "A debugger for RL reward functions that detects reward hacking during training [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uga687/a_debugger_for_rl_reward_functions_that_detects/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/MachineLearning · community knowledge",
+      "content_type": "post",
+      "author": "u/BaniyanChor · r/MachineLearning",
+      "handle": "MachineLearning",
+      "org": "r/MachineLearning",
+      "platform": "reddit",
+      "published": "2026-06-26T15:34:28.000Z",
+      "image": "https://preview.redd.it/r5m95bf5cn9h1.gif?width=640&crop=smart&s=f9e1900b5e007ea3a72c74d4089c56fdeed22f49",
+      "thumbnail": "https://preview.redd.it/r5m95bf5cn9h1.gif?width=640&crop=smart&s=f9e1900b5e007ea3a72c74d4089c56fdeed22f49",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/MachineLearning"
+      ],
+      "summary": "While experimenting with GRPO training, I kept running this shit that when reward increases, it becomes difficult to tell whether the policy is genuinely improving or simply exploiting the reward function. So I built a small library called rewardspy that wraps an existing reward function and continuously monitors…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/MachineLearning this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1406,45 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/hardware this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ucl3or",
-      "title": "Building a Humanoid Robot From Scratch",
-      "link": "https://www.reddit.com/r/robotics/comments/1ucl3or/building_a_humanoid_robot_from_scratch/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/robotics · community knowledge",
-      "content_type": "post",
-      "author": "u/RoboDIYer · r/robotics",
-      "handle": "robotics",
-      "org": "r/robotics",
-      "platform": "reddit",
-      "published": "2026-06-22T13:49:02.000Z",
-      "image": "https://preview.redd.it/evjz4n3q9u8h1.jpg?width=140&height=105&auto=webp&s=bdbff8e78d58a5b80437a5c73b11d5ad3be6c315",
-      "thumbnail": "https://preview.redd.it/evjz4n3q9u8h1.jpg?width=140&height=105&auto=webp&s=bdbff8e78d58a5b80437a5c73b11d5ad3be6c315",
-      "section": "Robotics",
-      "category": "Robotics",
-      "genre": "Robotics",
-      "categories": [
-        "Reddit",
-        "Robotics",
-        "r/robotics"
-      ],
-      "summary": "I designed and built this 16-DOF humanoid robot using low-cost servos and fully 3D-printed parts. I’m currently working on the bipedal walking system and developing the locomotion algorithms based on the robot’s forward and inverse kinematics. I’ll be sharing more updates soon! Here’s a short video showing the…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/robotics this week"
       ],
       "metrics": {
         "likes": 0,
