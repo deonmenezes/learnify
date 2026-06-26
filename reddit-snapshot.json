@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-06-26T16:24:47.247Z",
+  "generated_at": "2026-06-26T18:15:00.794Z",
   "subs": [
     "MachineLearning",
+    "artificial",
+    "nutrition",
+    "investing",
+    "gadgets",
+    "running",
     "programming",
     "cybersecurity",
-    "gadgets",
-    "investing",
-    "running",
     "robotics",
     "longevity",
     "netsec",
-    "nutrition",
     "hardware",
-    "artificial",
     "science",
     "Fitness",
     "LocalLLaMA",
@@ -23,17 +23,57 @@
   ],
   "count": 36,
   "by_category": {
-    "Hardware & Gadgets": 5,
     "Startups & Funding": 4,
-    "Fitness": 7,
+    "Hardware & Gadgets": 5,
+    "AI / ML": 6,
+    "Fitness": 6,
     "Coding & Dev Tools": 4,
     "Security": 4,
     "Robotics": 2,
     "Science": 3,
-    "AI / ML": 5,
     "Skincare": 2
   },
   "articles": [
+    {
+      "id": "reddit_1ufgpu7",
+      "title": "If you're not buying MSFT/MSFU at these prices what are you even doing?",
+      "link": "https://www.reddit.com/r/investing/comments/1ufgpu7/if_youre_not_buying_msftmsfu_at_these_prices_what/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/investing · community knowledge",
+      "content_type": "post",
+      "author": "u/buyingstuff555 · r/investing",
+      "handle": "investing",
+      "org": "r/investing",
+      "platform": "reddit",
+      "published": "2026-06-25T17:32:01.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/investing"
+      ],
+      "summary": "MSFT is something like ~$10 (2-3%) from it&#39;s November 2021 price. The company is printing money, with something like 18% revenue growth for 8 consecutive quarters. It&#39;s literally cheaper now than the April 2025 tariff crash. Biggest bargain on the market right now, IMO. &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/investing this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1uffnet",
       "title": "Microsoft Announces Significant Price Rises for Xbox Series X and S, 2TB Model Discontinued",
@@ -66,6 +106,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/gadgets this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uf5pzu",
+      "title": "Claude Fable 5 may return today after 13-day government-forced suspension",
+      "link": "https://www.reddit.com/r/artificial/comments/1uf5pzu/claude_fable_5_may_return_today_after_13day/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/artificial · community knowledge",
+      "content_type": "post",
+      "author": "u/Direct-Attention8597 · r/artificial",
+      "handle": "artificial",
+      "org": "r/artificial",
+      "platform": "reddit",
+      "published": "2026-06-25T09:58:37.000Z",
+      "image": "https://preview.redd.it/galqj0mcje9h1.jpeg?width=640&crop=smart&auto=webp&s=1f6f791291a1eb8a668f610c3d4d1bd6aa94f51a",
+      "thumbnail": "https://preview.redd.it/galqj0mcje9h1.jpeg?width=640&crop=smart&auto=webp&s=1f6f791291a1eb8a668f610c3d4d1bd6aa94f51a",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/artificial"
+      ],
+      "summary": "Here’s the full timeline: -June 9: Anthropic releases Claude Fable 5, their most powerful public model ever (Mythos-class with safeguards) -June 12: US government issues an export control directive at 5:21 PM, ordering Anthropic to cut off access to ALL foreign nationals. Model goes offline worldwide within 90 minutes…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/artificial this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1364,85 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/hardware this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ucam3p",
-      "title": "Is there an exercise routine to help with better sex?",
-      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1ucam3p/is_there_an_exercise_routine_to_help_with_better/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/bodyweightfitness · community knowledge",
-      "content_type": "post",
-      "author": "u/Icy-Astronomer-9015 · r/bodyweightfitness",
-      "handle": "bodyweightfitness",
-      "org": "r/bodyweightfitness",
-      "platform": "reddit",
-      "published": "2026-06-22T04:24:03.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/bodyweightfitness"
-      ],
-      "summary": "Please be serious. I&#39;m asking for this in earnest. My husband and I are highschool sweethearts who have been together for 20 years. We are too unfit to have intercourse to completion. If he&#39;s on top, then he winds up with leg or ass cramps and loses his erection. If I&#39;m on top, my knees start dislocating…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/bodyweightfitness this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uc7qae",
-      "title": "I don't trust where the economy is going. So I'm trying something new.",
-      "link": "https://www.reddit.com/r/investing/comments/1uc7qae/i_dont_trust_where_the_economy_is_going_so_im/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/investing · community knowledge",
-      "content_type": "post",
-      "author": "u/Stepup2themike · r/investing",
-      "handle": "investing",
-      "org": "r/investing",
-      "platform": "reddit",
-      "published": "2026-06-22T02:01:36.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/investing"
-      ],
-      "summary": "I have lowered my 10% of salary 401k monthly investment at my salaried, secure job by about half. I&#39;ve taken out a personal loan for 25k that has a payment that roughly equals that same amount. I then purchased a distressed property outright- 15K land / property purchase with 10k left to start a major…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/investing this week"
       ],
       "metrics": {
         "likes": 0,
