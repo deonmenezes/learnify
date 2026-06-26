@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T04:03:33.128Z",
+  "generated_at": "2026-06-26T08:09:52.945Z",
   "handles": [
     "nvidia",
     "GoogleDeepMind",
@@ -10,6 +10,45 @@
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2070235584535117938",
+      "title": "Every day, millions of videos compete for advertising dollars. Ensuring brands appear alongside the right content requires AI that can understand context at scale. PYLER is helping advertisers…",
+      "link": "https://x.com/nvidia/status/2070235584535117938",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-25T20:00:01.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Commentary"
+      ],
+      "summary": "Every day, millions of videos compete for advertising dollars. Ensuring brands appear alongside the right content requires AI that can understand context at scale. PYLER is helping advertisers improve brand safety and campaign performance with NVIDIA-accelerated AI that analyzes",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 56,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy"
+      ],
+      "metrics": {
+        "likes": 146,
+        "retweets": 17,
+        "replies": 20,
+        "likes_h": "146"
+      },
+      "engagement": 200,
+      "hot": false
+    },
     {
       "id": "x_2070205383138849223",
       "title": "Revolut built a transaction foundation model – accelerated by the NVIDIA full-stack platform on Nebius – to improve fraud detection, product recommendations, and other use cases in financial…",
@@ -34,7 +73,7 @@
       "summary": "Revolut built a transaction foundation model – accelerated by the NVIDIA full-stack platform on Nebius – to improve fraud detection, product recommendations, and other use cases in financial services. The results: 📈 2.3x better credit risk accuracy ⚡ Up to 5x higher training",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 91,
+      "worthiness_score": 92,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -43,12 +82,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 121,
-        "retweets": 19,
-        "replies": 11,
-        "likes_h": "121"
+        "likes": 190,
+        "retweets": 26,
+        "replies": 19,
+        "likes_h": "190"
       },
-      "engagement": 170,
+      "engagement": 261,
       "hot": false
     },
     {
@@ -76,19 +115,19 @@
       "summary": "Walk the #BIO2026 show floor with Kimberly Powell, NVIDIA VP of Healthcare, as she shares what’s exciting about the latest BioNeMo toolkit announcement. BioNeMo is helping bring AI-driven biology and drug discovery closer to the next experiment, with tools for researchers and",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 55,
+      "worthiness_score": 56,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
         "report-worthy"
       ],
       "metrics": {
-        "likes": 100,
-        "retweets": 12,
-        "replies": 15,
-        "likes_h": "100"
+        "likes": 167,
+        "retweets": 23,
+        "replies": 16,
+        "likes_h": "167"
       },
-      "engagement": 139,
+      "engagement": 229,
       "hot": false
     },
     {
@@ -115,7 +154,7 @@
       "summary": "Gemini 3.5 Flash now supports native computer use. This built-in tool lets developers build custom agents that can see and take action across browser, mobile, and desktop interfaces. Find out more → https://goo.gle/4f4sNQA",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 78,
+      "worthiness_score": 80,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -125,12 +164,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 386,
-        "retweets": 39,
-        "replies": 23,
-        "likes_h": "386"
+        "likes": 691,
+        "retweets": 77,
+        "replies": 42,
+        "likes_h": "691"
       },
-      "engagement": 487,
+      "engagement": 887,
       "hot": false
     },
     {
@@ -164,12 +203,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 606,
-        "retweets": 73,
+        "likes": 620,
+        "retweets": 74,
         "replies": 58,
-        "likes_h": "606"
+        "likes_h": "620"
       },
-      "engagement": 810,
+      "engagement": 826,
       "hot": false
     },
     {
@@ -205,12 +244,12 @@
         "business signal (enterprise)"
       ],
       "metrics": {
-        "likes": 381,
-        "retweets": 50,
-        "replies": 34,
-        "likes_h": "381"
+        "likes": 391,
+        "retweets": 54,
+        "replies": 35,
+        "likes_h": "391"
       },
-      "engagement": 515,
+      "engagement": 534,
       "hot": false
     },
     {
@@ -285,12 +324,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 196,
-        "retweets": 22,
+        "likes": 204,
+        "retweets": 23,
         "replies": 19,
-        "likes_h": "196"
+        "likes_h": "204"
       },
-      "engagement": 259,
+      "engagement": 269,
       "hot": false
     },
     {
@@ -366,15 +405,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (agent, agents)",
-        "high engagement (739 likes)"
+        "high engagement (763 likes)"
       ],
       "metrics": {
-        "likes": 739,
-        "retweets": 96,
-        "replies": 89,
-        "likes_h": "739"
+        "likes": 763,
+        "retweets": 97,
+        "replies": 92,
+        "likes_h": "763"
       },
-      "engagement": 1020,
+      "engagement": 1049,
       "hot": false
     },
     {
@@ -949,12 +988,12 @@
         "high engagement (1.4K likes)"
       ],
       "metrics": {
-        "likes": 1435,
+        "likes": 1434,
         "retweets": 159,
         "replies": 85,
         "likes_h": "1.4K"
       },
-      "engagement": 1838,
+      "engagement": 1837,
       "hot": false
     },
     {
@@ -1197,12 +1236,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 608,
+        "likes": 609,
         "retweets": 87,
         "replies": 87,
-        "likes_h": "608"
+        "likes_h": "609"
       },
-      "engagement": 869,
+      "engagement": 870,
       "hot": false
     },
     {
@@ -1286,47 +1325,6 @@
       },
       "engagement": 3922,
       "hot": true
-    },
-    {
-      "id": "x_2067346918746030496",
-      "title": "Benchmarks often test biological knowledge or narrow skills. The tasks in LifeSciBench test whether models can reason from evidence, work with scientific artifacts, handle uncertainty, and make…",
-      "link": "https://x.com/OpenAI/status/2067346918746030496",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-06-17T20:41:29.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Product"
-      ],
-      "summary": "Benchmarks often test biological knowledge or narrow skills. The tasks in LifeSciBench test whether models can reason from evidence, work with scientific artifacts, handle uncertainty, and make useful decisions under real-world constraints. GPT‑Rosalind scores above GPT‑5.5",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 57,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "reply / conversation",
-        "tech substance (models, gpt, benchmarks)"
-      ],
-      "metrics": {
-        "likes": 297,
-        "retweets": 16,
-        "replies": 7,
-        "likes_h": "297"
-      },
-      "engagement": 336,
-      "hot": false
     }
   ]
 }

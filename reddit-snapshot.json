@@ -1,20 +1,21 @@
 {
-  "generated_at": "2026-06-26T04:05:49.076Z",
+  "generated_at": "2026-06-26T08:12:07.845Z",
   "subs": [
     "MachineLearning",
-    "programming",
-    "cybersecurity",
+    "LocalLLaMA",
+    "running",
+    "startups",
     "gadgets",
     "investing",
     "robotics",
     "longevity",
+    "cybersecurity",
     "nutrition",
     "hardware",
     "artificial",
     "science",
     "Fitness",
-    "LocalLLaMA",
-    "running",
+    "programming",
     "SkincareAddiction",
     "singularity",
     "bodyweightfitness"
@@ -22,14 +23,14 @@
   "count": 36,
   "by_category": {
     "Hardware & Gadgets": 5,
-    "Startups & Funding": 3,
+    "Startups & Funding": 4,
+    "Fitness": 8,
     "Robotics": 2,
     "Science": 4,
     "Security": 2,
-    "Fitness": 8,
     "AI / ML": 6,
     "Coding & Dev Tools": 3,
-    "Skincare": 3
+    "Skincare": 2
   },
   "articles": [
     {
@@ -104,6 +105,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/investing this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uf0kzc",
+      "title": "Achievements for Thursday, June 25, 2026",
+      "link": "https://www.reddit.com/r/running/comments/1uf0kzc/achievements_for_thursday_june_25_2026/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/running · community knowledge",
+      "content_type": "post",
+      "author": "u/AutoModerator · r/running",
+      "handle": "running",
+      "org": "r/running",
+      "platform": "reddit",
+      "published": "2026-06-25T05:02:05.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/running"
+      ],
+      "summary": "Hey runners, it&#39;s another day and it is time to post your accomplishments you&#39;d like to share - big or small. Note: No need to preface YOUR accomplishments with something like, &quot;this may not be an accomplishment to most of you...&quot;. Be proud of your achievement. &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/running this week"
       ],
       "metrics": {
         "likes": 0,
@@ -656,6 +696,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/running this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1udgg2s",
+      "title": "How we approach buying out our VC’s stake in the startup? I will not promote",
+      "link": "https://www.reddit.com/r/startups/comments/1udgg2s/how_we_approach_buying_out_our_vcs_stake_in_the/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/startups · community knowledge",
+      "content_type": "post",
+      "author": "u/Boring_Cartoonist952 · r/startups",
+      "handle": "startups",
+      "org": "r/startups",
+      "platform": "reddit",
+      "published": "2026-06-23T12:58:10.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/startups"
+      ],
+      "summary": "We’ve started a company and it’s been a few years now and we are about to reach a good ARR (3-5 million USD). However, we are in a bit of saturated market now and it will be tough to grow further. Maybe we could double our ARR but that’s about it. The market has got so much tougher and so many more players have…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/startups this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1365,85 +1445,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/singularity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ubuvt5",
-      "title": "[Sun Care] I need your WORST mineral sunscreen recs",
-      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1ubuvt5/sun_care_i_need_your_worst_mineral_sunscreen_recs/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/SkincareAddiction · community knowledge",
-      "content_type": "post",
-      "author": "u/Beliy_Lebed · r/SkincareAddiction",
-      "handle": "SkincareAddiction",
-      "org": "r/SkincareAddiction",
-      "platform": "reddit",
-      "published": "2026-06-21T16:49:14.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Skincare",
-      "category": "Skincare",
-      "genre": "Skincare",
-      "categories": [
-        "Reddit",
-        "Skincare",
-        "r/SkincareAddiction"
-      ],
-      "summary": "Vanicream no longer makes my beloved HG sunscreen, and although their SPF 30 moisturizer carries her ghost, it&#39;s not the same. I like a mineral sunscreen that feels like slugging and looks like 18th century stage makeup. I want a white cast. I want a heavy, goopy formula. Diaper cream, on addition to not…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/SkincareAddiction this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ubqv83",
-      "title": "did the oxidation research on cooking oils and now i dont know what to believe",
-      "link": "https://www.reddit.com/r/nutrition/comments/1ubqv83/did_the_oxidation_research_on_cooking_oils_and/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/nutrition · community knowledge",
-      "content_type": "post",
-      "author": "u/Lazy-Television-1559 · r/nutrition",
-      "handle": "nutrition",
-      "org": "r/nutrition",
-      "platform": "reddit",
-      "published": "2026-06-21T14:02:41.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Nutrition",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "Nutrition",
-        "r/nutrition"
-      ],
-      "summary": "went down a rabbit hole on smoke points and polyunsaturated fat oxidation last night and honestly it messed me up a little. oils like canola and sunflower which get marketed as the heart healthy swap produce aldehydes and toxic compounds when you heat them above their smoke point and the smoke point is lower than most…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/nutrition this week"
       ],
       "metrics": {
         "likes": 0,
