@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-06-26T08:12:07.845Z",
+  "generated_at": "2026-06-26T11:28:37.318Z",
   "subs": [
     "MachineLearning",
-    "LocalLLaMA",
-    "running",
-    "startups",
+    "science",
+    "netsec",
     "gadgets",
     "investing",
+    "running",
     "robotics",
     "longevity",
     "cybersecurity",
     "nutrition",
     "hardware",
     "artificial",
-    "science",
     "Fitness",
+    "LocalLLaMA",
     "programming",
+    "startups",
     "SkincareAddiction",
     "singularity",
     "bodyweightfitness"
@@ -27,8 +28,8 @@
     "Fitness": 8,
     "Robotics": 2,
     "Science": 4,
-    "Security": 2,
-    "AI / ML": 6,
+    "Security": 3,
+    "AI / ML": 5,
     "Coding & Dev Tools": 3,
     "Skincare": 2
   },
@@ -263,6 +264,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/longevity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1ueiif9",
+      "title": "Exploiting vulnerabilities in Johnson & Johnson web apps",
+      "link": "https://www.reddit.com/r/netsec/comments/1ueiif9/exploiting_vulnerabilities_in_johnson_johnson_web/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/netsec · community knowledge",
+      "content_type": "post",
+      "author": "u/EatonZ · r/netsec",
+      "handle": "netsec",
+      "org": "r/netsec",
+      "platform": "reddit",
+      "published": "2026-06-24T16:34:14.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/netsec"
+      ],
+      "summary": "Exploiting vulnerabilities in Johnson & Johnson web apps",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/netsec this week"
       ],
       "metrics": {
         "likes": 0,
@@ -776,6 +816,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/longevity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1udd811",
+      "title": "Cloudflare patches Copy-Fail across every server in two days",
+      "link": "https://www.reddit.com/r/netsec/comments/1udd811/cloudflare_patches_copyfail_across_every_server/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/netsec · community knowledge",
+      "content_type": "post",
+      "author": "u/xmull1gan · r/netsec",
+      "handle": "netsec",
+      "org": "r/netsec",
+      "platform": "reddit",
+      "published": "2026-06-23T10:18:55.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/netsec"
+      ],
+      "summary": "Kind of crazy to look at the graph in this blog. CVE drops on 04/29, they develop a patch on 4/30, and deploy it across all of their servers on 05/01. Obviously they have the engineers to write BPF-LSM patches, but I think it points to a future where they can (almost) keep up with vulnerability disclosures. &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/netsec this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1366,85 +1445,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/longevity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uc1n8b",
-      "title": "These workers thought they were getting an extra day off. Turns out it was just a ‘cruel’ test",
-      "link": "https://www.reddit.com/r/cybersecurity/comments/1uc1n8b/these_workers_thought_they_were_getting_an_extra/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/cybersecurity · community knowledge",
-      "content_type": "post",
-      "author": "u/yawaramin · r/cybersecurity",
-      "handle": "cybersecurity",
-      "org": "r/cybersecurity",
-      "platform": "reddit",
-      "published": "2026-06-21T21:22:25.000Z",
-      "image": "https://external-preview.redd.it/TkJl65X1qyih_hacqR_bwQJtSk-tXIHlrTL8tUUo8zk.jpeg?width=640&crop=smart&auto=webp&s=9fc6b047eb722f35612bd21ddb9ffc2608978b4b",
-      "thumbnail": "https://external-preview.redd.it/TkJl65X1qyih_hacqR_bwQJtSk-tXIHlrTL8tUUo8zk.jpeg?width=640&crop=smart&auto=webp&s=9fc6b047eb722f35612bd21ddb9ffc2608978b4b",
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/cybersecurity"
-      ],
-      "summary": "Email phishing campaign sent by cybersecurity team dangled a cruel promise of an extra day off after months of mandatory overtime, only to tell people that they failed a phishing test. &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/cybersecurity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ubwtut",
-      "title": "Anthropic’s Internal Mythos Successor Emerges",
-      "link": "https://www.reddit.com/r/singularity/comments/1ubwtut/anthropics_internal_mythos_successor_emerges/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/singularity · community knowledge",
-      "content_type": "post",
-      "author": "u/ResultBackground2450 · r/singularity",
-      "handle": "singularity",
-      "org": "r/singularity",
-      "platform": "reddit",
-      "published": "2026-06-21T18:06:13.000Z",
-      "image": "https://preview.redd.it/qrjnoo6zdo8h1.png?width=640&crop=smart&auto=webp&s=efb002d73aa86ebf290005aba69015d75f245fc4",
-      "thumbnail": "https://preview.redd.it/qrjnoo6zdo8h1.png?width=640&crop=smart&auto=webp&s=efb002d73aa86ebf290005aba69015d75f245fc4",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/singularity"
-      ],
-      "summary": "Source: https://x.com/AndrewCurran_/status/2068748019030483365 &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/singularity this week"
       ],
       "metrics": {
         "likes": 0,
