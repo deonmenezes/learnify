@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-26T13:30:31.896Z",
+  "generated_at": "2026-06-26T16:20:31.685Z",
   "model": "nvidia/nemotron-3-super-120b-a12b",
-  "count": 4342,
+  "count": 4411,
   "items": {
     "13v0dgn": {
       "ai_summary": "Top AI models initially scored over 90% on a classic color‑naming attention test, but their accuracy dropped sharply as the task grew longer and more complex. In some cases, performance fell to near‑zero, revealing a key limitation in sustained attention.",
@@ -409,15 +409,6 @@
       "media_kind": "stock",
       "media_credit": "Photo: cohærence * / BY-SA 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/61034561@N00/625533"
-    },
-    "1njcuas": {
-      "ai_summary": "The government has shut down Anthropic’s most powerful AI model after its safety warnings highlighted a potential narrow jailbreak. Anthropic pushed back, saying such a limited flaw shouldn’t justify recalling a commercial model deployed to hundreds of millions of users.",
-      "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
-      "t": 1781327099705,
-      "media_url": "https://live.staticflickr.com/5628/30284645320_6c22cf0fa5_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: ITU Pictures / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/42121221@N07/30284645320"
     },
     "bsky_12b2je6": {
       "ai_summary": "The author upgraded their OpenAI‑WebRTC playground to use OpenAI’s improved gpt‑realtime‑2 voice model after waiting for it to appear in ChatGPT. The updated tool now lets users paste a document and have a voice‑based conversation about its contents.",
@@ -1309,15 +1300,6 @@
       "media_kind": "stock",
       "media_credit": "Photo: U.S. Army Europe / PDM 1.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/37585279@N03/7637737280"
-    },
-    "oa_wqbrrb": {
-      "ai_summary": "The study examined how alternating heavy and light-intensity Wushu high-intensity interval training influences anaerobic physical fitness. It builds on prior findings that this training improves cardiovascular endurance, explosive strength, agility, coordination, and mental focus under physical stress.",
-      "title": "Effect of Wushu High-Intensity Interval Training on Anaerobic Physical Fitness Training",
-      "t": 1781501988847,
-      "media_url": "https://live.staticflickr.com/2019/5725919511_ffe5857501_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Hotel de la Paix Genève / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/52198906@N06/5725919511"
     },
     "arxiv_13jqmwf": {
       "ai_summary": "Symile introduces a simple model‑agnostic method for learning representations across an unlimited number of modalities without relying on paired data, contrasting with contrastive approaches like CLIP that depend on naturally paired examples and are typically limited to two modalities. This aims to meet the demand in fields such as robotics, healthcare, and…",
@@ -37065,6 +37047,576 @@
       "media_kind": "stock",
       "media_credit": "Photo: nan palmero / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/97402086@N00/5336842036"
+    },
+    "1k1lzfi": {
+      "title": "The Exhaustion of Talking to a Tool",
+      "t": 1782490818654,
+      "image": "https://ohadravid.github.io/2026-06-tool-talking/carpentry_tools.webp",
+      "media_url": "https://live.staticflickr.com/3402/4646054291_13d1773717_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: cincodenada06 / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/14506798@N00/4646054291"
+    },
+    "iqh50p": {
+      "title": "Why software engineers are grieving",
+      "t": 1782490818654,
+      "image": "https://i0.wp.com/dev.jimgrey.net/wp-content/uploads/2026/06/road-ends.jpg?fit=1200%2C800&#038;ssl=1",
+      "media_url": "https://live.staticflickr.com/2571/4140191985_68bbbe9e22.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140191985"
+    },
+    "3so9c": {
+      "title": "The AI industry is pouring millions into US elections",
+      "t": 1782490818654,
+      "image": "https://substackcdn.com/image/fetch/$s_!V5By!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F203603786%2F532ad3ad-1daa-4b46-b701-b43716fc209e%2Ftranscoded-1782451409.png",
+      "media_url": "https://live.staticflickr.com/2723/4140951044_cebe112a5b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140951044"
+    },
+    "uvy25h": {
+      "title": "Jolla Phone, Over 13 500 units sold",
+      "t": 1782490818654,
+      "image": "https://commerce.jolla.com/cdn/shop/files/jolla_phone_hero_double.png?v=1772105235",
+      "media_url": "https://live.staticflickr.com/2723/4140951044_cebe112a5b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140951044"
+    },
+    "1dtx9xg": {
+      "title": "Incident CVE-2026-LGTM",
+      "t": 1782490818654,
+      "image": "https://nesbitt.io/images/boxes.png"
+    },
+    "1vyqzm4": {
+      "title": "The MacRumors Show: iPhone 18 Pro Has a Pricing Problem",
+      "t": 1782490818655,
+      "image": "https://images.macrumors.com/t/rd0CGwGvix0xTszcrS546DgfMK0=/2500x/article-new/2026/06/TMRS-199-Rising-Costs-Thumb.jpg",
+      "media_url": "https://live.staticflickr.com/3086/2795391606_5c53c8cb88_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: roland / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/35034347371@N01/2795391606"
+    },
+    "4zwlya": {
+      "title": "China's top-secret 'dragon' space plane just released another unidentified object over Earth",
+      "t": 1782490819398,
+      "media_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/ESA%27s_fleet_of_Solar_System_explorers_ESA19227810.png",
+      "media_kind": "stock",
+      "media_credit": "Photo: European Space Agency / BY-SA 3.0 via wikimedia",
+      "media_credit_url": "https://commons.wikimedia.org/w/index.php?curid=141898587"
+    },
+    "1setfh7": {
+      "title": "I'm trying to use Google Play to discover new apps — one hidden feature made it far easier",
+      "t": 1782490819575,
+      "media_url": "https://live.staticflickr.com/4011/4458244728_5293cd987d.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: avhell / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/39707801@N00/4458244728"
+    },
+    "1u41rwo": {
+      "title": "Micron Suggests Apple Helped Cause Memory Price Crisis",
+      "t": 1782490819843,
+      "media_url": "https://live.staticflickr.com/489/20175016400_3208569e5a_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: VesperDEM / PDM 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/71981454@N00/20175016400"
+    },
+    "4ff495": {
+      "title": "Onsemi buying cash-strapped Synaptics in $7 billion all-stock deal — smart power meets edge AI hardware",
+      "t": 1782490819860,
+      "media_url": "https://live.staticflickr.com/8664/30466627572_6ab18c4125_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: ITU Pictures / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/42121221@N07/30466627572"
+    },
+    "r2yn76": {
+      "title": "How to watch Norway vs France: Free Streams, TV Channels and Kick-Off time as Erling Haaland faces Kylian Mbappe at FIFA World Cup 2026",
+      "t": 1782490820289,
+      "media_url": "https://live.staticflickr.com/3528/3214236743_a9832f3823_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: YEMAC_UNDP / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/27814820@N05/3214236743"
+    },
+    "1mlzazf": {
+      "title": "New report reveals the Nintendo Switch 2 is the second fastest-selling video game hardware in US history, as Xbox and PS5 unit sales struggle",
+      "t": 1782490820307,
+      "media_url": "https://live.staticflickr.com/4412/35941498204_a72e69f747_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Bennyboymothman / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/33398884@N03/35941498204"
+    },
+    "1yuojtb": {
+      "title": "How to watch Senegal vs Iraq: Free Streams & TV Channels online from anywhere at FIFA World Cup 2026",
+      "t": 1782490820499,
+      "media_url": "https://live.staticflickr.com/4082/4774098318_994da9d5e1_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: DFID - UK Department for International Development / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/14214150@N02/4774098318"
+    },
+    "1fsiez6": {
+      "title": "AI companies don't want to be legally responsible for their chatbots. US courts should make them.",
+      "t": 1782490820680,
+      "media_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Blaise_Ag%C3%BCera_y_Arcas.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: PhOtOnQuAnTiQuE from Earth France / BY-SA 2.0 via wikimedia",
+      "media_credit_url": "https://commons.wikimedia.org/w/index.php?curid=142878434"
+    },
+    "1dml17h": {
+      "title": "FCC considers axing $2 billion school and library internet connectivity scheme — Chairman blames tablets for moving kids away from \"turning pages in books, penciling out answers to math problems\"",
+      "t": 1782490821038,
+      "media_url": "https://live.staticflickr.com/1926/31638570178_bc714958fd_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Janitors / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/65265630@N03/31638570178"
+    },
+    "1l4dtu5": {
+      "title": "Greece says preparing 'historic' ISS space mission",
+      "t": 1782490821438,
+      "media_url": "https://live.staticflickr.com/2558/4014786525_e90fd7652f_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: pasukaru76 / CC0 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/38451115@N04/4014786525"
+    },
+    "15gqm57": {
+      "title": "Scientists infected a 'vagina on a chip' with gonorrhea — then cured it with a new antibiotic found by AI",
+      "t": 1782490821807,
+      "media_url": "https://live.staticflickr.com/7550/15287097873_861856bdf7.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: markhillary / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/56087830@N00/15287097873"
+    },
+    "k6wxd4": {
+      "title": "The Ryzen 7 5800X3D is tough to find, but these Prime Day CPUs with DDR5 are cheaper — offset the cost of a DDR5 upgrade with a CPU discount",
+      "t": 1782490821967,
+      "media_url": "https://live.staticflickr.com/6029/6016835558_869be6ceb0_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Hexidecimal / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/7655955@N07/6016835558"
+    },
+    "1dnks98": {
+      "title": "California's unidentified coastal species get a DNA library of their own",
+      "t": 1782490821992,
+      "media_url": "https://live.staticflickr.com/5224/5591857820_637f5fd3b8.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: athomenetwork / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/56069798@N04/5591857820"
+    },
+    "croofe": {
+      "title": "8 of the best portable Bluetooth speakers we've tested: top portable, punchy, outdoorsy, and affordable picks from JBL, Bose, and more",
+      "t": 1782490822150,
+      "media_url": "https://live.staticflickr.com/3160/2651976257_4e5e3a2692_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: icherche / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/25058239@N05/2651976257"
+    },
+    "gqvpbt": {
+      "title": "Global rice paddy greenhouse gas emissions have doubled during the past six decades, study shows",
+      "t": 1782490822221,
+      "media_url": "https://live.staticflickr.com/8335/8094652826_cd883deb08_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: giulia.forsythe / CC0 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/59217476@N00/8094652826"
+    },
+    "wywumc": {
+      "title": "The US Is About to Deport an Immigrant to the Center of the Ebola Crisis",
+      "t": 1782490822599,
+      "media_url": "https://live.staticflickr.com/4138/4870708782_4e4f0083bc_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: (vincent desjardins) / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/44613506@N07/4870708782"
+    },
+    "1v10xgo": {
+      "title": "Floods kill two in Taiwan as twin storms approach Japan",
+      "t": 1782490822664,
+      "media_url": "https://live.staticflickr.com/3397/3611603955_808936b292_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: historic.brussels / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/22325431@N05/3611603955"
+    },
+    "a632ta": {
+      "title": "Xprize founder says ‘humans behave better when they’re being watched’",
+      "t": 1782490822677,
+      "media_url": "https://live.staticflickr.com/2052/2404940312_e759c4030d_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: rpongsaj / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/15131913@N00/2404940312"
+    },
+    "782bfr": {
+      "title": "Samsung will start charging for SmartThings API access",
+      "t": 1782490823083,
+      "media_url": "https://live.staticflickr.com/7341/10549912204_475b5fa8b5_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Jocey K / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/48627921@N05/10549912204"
+    },
+    "vq9ocw": {
+      "title": "Apple's OLED 'MacBook Ultra' Will Stick With M5 Pro and M5 Max Chips",
+      "t": 1782490823104,
+      "media_url": "https://live.staticflickr.com/6057/6340771930_b23f6878fd_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Nouhailler / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/7737054@N07/6340771930"
+    },
+    "1wyi92d": {
+      "title": "It’s now the Arduino Uno Q’s turn to get a price hike",
+      "t": 1782490823382,
+      "media_url": "https://live.staticflickr.com/21/26195960_4d89964cae_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: AndWat / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/61685594@N00/26195960"
+    },
+    "xb76gm": {
+      "title": "European heatwave's unlikely accomplice: An ocean 'cold blob'",
+      "t": 1782490823694,
+      "media_url": "https://live.staticflickr.com/7124/7539648656_679aa733fe_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: HJ Media Studios / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/54719539@N04/7539648656"
+    },
+    "1bic2eh": {
+      "title": "These iOS 27 features make so much sense for Apple’s ‘HomePad’",
+      "t": 1782490824063,
+      "media_url": "https://live.staticflickr.com/1824/43103105452_132b52f954_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: DeltaNewsHub / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/142938205@N05/43103105452"
+    },
+    "qw0rfa": {
+      "title": "Amazon Q flaw let booby-trapped Git repos execute code, swipe cloud creds",
+      "t": 1782490824370,
+      "media_url": "https://live.staticflickr.com/8317/28743215840_154c890d2e_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Christoph Scholz / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/140988606@N08/28743215840"
+    },
+    "jbtyow": {
+      "title": "Apple skips its high-end M6 chips for an AI-first M7",
+      "t": 1782490824439,
+      "media_url": "https://live.staticflickr.com/396/18777651558_b33c02e1b6_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: JLaw45 / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/27665395@N05/18777651558"
+    },
+    "30bw1d": {
+      "title": "These are the games I'd play before GTA 6 arrives later this year",
+      "t": 1782490824514,
+      "media_url": "https://live.staticflickr.com/8248/8618683402_c3c4441c9e.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Hikaru Kazushime / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/38305502@N05/8618683402"
+    },
+    "rkdqrj": {
+      "title": "Former executive sues Meta over attempts to ‘silence’ her memoir, ‘Careless People’",
+      "t": 1782490824736,
+      "media_url": "https://live.staticflickr.com/3050/2598508626_074849107f_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: D.C.Atty / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/22939124@N08/2598508626"
+    },
+    "1xxq3a2": {
+      "title": "Apple’s touchscreen MacBook to use M5 Pro and M5 Max chips, not M6: report",
+      "t": 1782490824845,
+      "media_url": "https://live.staticflickr.com/2037/1886281344_c82ccaebeb_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: AMagill / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/85473033@N00/1886281344"
+    },
+    "tk9l2f": {
+      "title": "Aseon Labs raises ten million dollars to build parking-space-sized pods that charge and clean robotaxis",
+      "t": 1782490825073,
+      "media_url": "https://live.staticflickr.com/6007/5982607204_0ab3a49387_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Sean MacEntee / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/18090920@N07/5982607204"
+    },
+    "11h9gui": {
+      "title": "After 80 Years, Mathematicians Give Famed ‘Erdős Method’ an Upgrade",
+      "t": 1782490825163,
+      "media_url": "https://live.staticflickr.com/43/107315662_dbaf2a609e_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: delgaudm / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/51176304@N00/107315662"
+    },
+    "c12zgr": {
+      "title": "US moves to drop brake pedal mandate for autonomous vehicles",
+      "t": 1782490825447,
+      "media_url": "https://live.staticflickr.com/7144/6432930479_b7b3774024.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: -Delphine - / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/13884016@N08/6432930479"
+    },
+    "1tlo32o": {
+      "title": "'Everyone is still on physical what is this the 20th century?' — GTA 6 might not be getting a proper disc, but fans were already debating their value over a decade ago for GTA 5",
+      "t": 1782490825557,
+      "media_url": "https://live.staticflickr.com/8149/7432646932_68c44ef21e_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/7432646932"
+    },
+    "wvey68": {
+      "title": "onsemi to buy Synaptics in $7bn bet on ‘physical AI’",
+      "t": 1782490825636,
+      "media_url": "https://live.staticflickr.com/4190/33721186053_e0d41fb5a2_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: ITU Pictures / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/42121221@N07/33721186053"
+    },
+    "12riggx": {
+      "title": "Whitebait rapidly switch life cycles when earthquakes cut off route to sea",
+      "t": 1782490825689,
+      "media_url": "https://live.staticflickr.com/2333/1856663523_cffa76bfbc_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: kevin dooley / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/12836528@N00/1856663523"
+    },
+    "szc2o4": {
+      "title": "Moderate harmful algal bloom predicted for western Lake Erie. Could impact coastal recreation by mid-July",
+      "t": 1782490825920,
+      "media_url": "https://live.staticflickr.com/4827/46110338822_42098d3f6f_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: IAEA Imagebank / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/35068899@N03/46110338822"
+    },
+    "9bdjr": {
+      "title": "Europe heat wave shattering temperature records",
+      "t": 1782490825939,
+      "media_url": "https://live.staticflickr.com/8098/8529040106_e7150db929_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Karen Roe / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/28752865@N08/8529040106"
+    },
+    "q5p1sp": {
+      "title": "OpenAI's ChatGPT-5.6 gets the same banhammer treatment as Anthropic’s Mythos from the federal government — source says that Washington cautioned OpenAI against releasing the model without receiving approval",
+      "t": 1782490826013,
+      "media_url": "https://live.staticflickr.com/65535/53165976307_549a63b8a4_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: markhillary / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/56087830@N00/53165976307"
+    },
+    "4z8lc9": {
+      "title": "AEO vs SEO: What's the difference & do you need both?",
+      "t": 1782490826387,
+      "media_url": "https://live.staticflickr.com/3278/2930505157_35dea0c006.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: ˙Cаvin 〄 / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/48876614@N00/2930505157"
+    },
+    "1rpuzdt": {
+      "title": "This buried Google Maps location option fixed my most frustrating power issue",
+      "t": 1782490826443,
+      "media_url": "https://live.staticflickr.com/3373/3641598004_0969992da3_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: gnuckx / CC0 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/34409164@N06/3641598004"
+    },
+    "webxfd": {
+      "title": "Amazon Eero Max 7 Wi-Fi 7 mesh router 4-pack price slashed by 50 percent — flagship Wi-Fi 7 at a major discount for Prime Day",
+      "t": 1782490826652,
+      "media_url": "https://live.staticflickr.com/65535/48771207246_1c1145df51_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: originaldaniel / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/184613180@N08/48771207246"
+    },
+    "1q72354": {
+      "title": "New iPhone Ultra report has latest pricing and release timing updates",
+      "t": 1782490826796,
+      "media_url": "https://live.staticflickr.com/3343/3551727219_786b95e4cf.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: urbanlatinfemale / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/74783362@N00/3551727219"
+    },
+    "394qp9": {
+      "title": "Framework's Laptop 13 Pro DIY Edition now costs less than before, but a CPU price hike might be coming — Cheaper PCIe 5.0 drives from Adata upgrade customers from 500GB to 1TB for free",
+      "t": 1782490826804,
+      "media_url": "https://live.staticflickr.com/6098/6357732879_f051de2ff3_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: mikecogh / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/89165847@N00/6357732879"
+    },
+    "1cltp5d": {
+      "title": "VW may close four factories to adapt to the future, report says",
+      "t": 1782490826981,
+      "media_url": "https://live.staticflickr.com/3360/3455026124_d66cafb9fc_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: swimparallel / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/31677782@N03/3455026124"
+    },
+    "1o56qj9": {
+      "title": "'Actually, no I can't hear you Clem Fandango’: these excellent ANC headphones are hugely discounted and yes, you get the voice of Matt Berry",
+      "t": 1782490827060,
+      "media_url": "https://live.staticflickr.com/1086/977795419_c6c864d50e_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: bazzadarambler / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/10390868@N07/977795419"
+    },
+    "6gaho8": {
+      "title": "I have a 100 per cent chance of getting cancer due to a rare gene",
+      "t": 1782490827253,
+      "media_url": "https://live.staticflickr.com/3369/3344857830_4705300d3e_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: U.S. Geological Survey / CC0 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/27784370@N05/3344857830"
+    },
+    "fm27s8": {
+      "title": "Elusive thorium–thorium bonding directly observed using Hirshfeld atom refinement",
+      "t": 1782490827604,
+      "media_url": "https://live.staticflickr.com/3854/14787949500_df613ea1b8.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Libertas Academica / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/75358728@N05/14787949500"
+    },
+    "2tz24n": {
+      "title": "Europe Is Fed Up and Wants Its Own AI",
+      "t": 1782490827612,
+      "media_url": "https://live.staticflickr.com/166/429443942_a9ad1d4774_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: fozi999 / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/20287570@N00/429443942"
+    },
+    "36w0jo": {
+      "title": "'Changing jobs no longer means financial ruin': AI giants and government join forces to train US workforce to not go obsolete in the age of AI",
+      "t": 1782490828313,
+      "media_url": "https://live.staticflickr.com/6169/6199374956_7c3fa24632_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Danny Choo / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/88444437@N00/6199374956"
+    },
+    "1d65c7q": {
+      "title": "'The original code is in this game' — Halo Campaign Evolved executive producer says some level layouts have been redesigned to avoid 'repetiveness' but 'you are playing the DNA of the original game'",
+      "t": 1782490828784,
+      "media_url": "https://live.staticflickr.com/2871/10995501643_0026fedf26_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Walters Art Museum Illuminated Manuscripts / CC0 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/39699193@N03/10995501643"
+    },
+    "q9hsg8": {
+      "title": "Sometimes, health tracking accuracy is overrated",
+      "t": 1782490828999,
+      "media_url": "https://live.staticflickr.com/7086/7354936978_cc83e6e5c5_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: orijinal / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/48600098077@N01/7354936978"
+    },
+    "122nfrp": {
+      "title": "Early Homo sapiens may have lived in rainforests, new clues suggest — and it could overturn our understanding of human evolution",
+      "t": 1782490829191,
+      "media_url": "https://live.staticflickr.com/8700/16784625260_1186e52ced_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: anokarina / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/30760976@N04/16784625260"
+    },
+    "1gymdjr": {
+      "title": "Should you buy the Ninja AutoBarista Pro or the Ninja Luxe Café Pro this Prime Day? As a barista, here's what I'd pick",
+      "t": 1782490829277,
+      "media_url": "https://live.staticflickr.com/7302/15919382463_254dc04fd0.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: VIVOBAREFOOT / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/54922093@N06/15919382463"
+    },
+    "7kuk0n": {
+      "title": "Volkswagen reportedly plans to cut 100,000 jobs",
+      "t": 1782490829567,
+      "media_url": "https://live.staticflickr.com/3623/3561445749_15558076bf_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: triberesearch / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/16860458@N02/3561445749"
+    },
+    "imsn95": {
+      "title": "Genomics study reveals how endangered island oaks exhibit contrasting evolutionary paths",
+      "t": 1782490829701,
+      "media_url": "https://live.staticflickr.com/4298/36027886886_f4a02e79a0_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Gary Lee Todd, Ph.D. / CC0 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/101561334@N08/36027886886"
+    },
+    "1pi7wh7": {
+      "title": "Socotra Archipelago: The Yemeni islands covered with astonishing cucumber, bottle and dragon's blood trees",
+      "t": 1782490829981,
+      "media_url": "https://live.staticflickr.com/3237/2712985992_d43d525e54_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: woodleywonderworks / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/73645804@N00/2712985992"
+    },
+    "1waxsub": {
+      "title": "Oracle promises to open up MySQL governance, but the community wants guarantees",
+      "t": 1782490830106,
+      "media_url": "https://live.staticflickr.com/5596/15194392506_d706d8612d_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: CCAC North Library / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/29817792@N08/15194392506"
+    },
+    "1gtsoj6": {
+      "title": "Feedbacks upon feedbacks: Rock weathering and the climate",
+      "t": 1782490830258,
+      "media_url": "https://live.staticflickr.com/3238/2622352874_9759ebeba4_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Yuliya Libkina / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/11423417@N03/2622352874"
+    },
+    "1u2crwv": {
+      "title": "The GoPro Mission 1 may be top of the range, but my Prime Day pick is the heavily discounted Hero 13 Black",
+      "t": 1782490830531,
+      "media_url": "https://live.staticflickr.com/1840/42230626720_fb29a25853_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Artem Beliaikin / CC0 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/157635012@N07/42230626720"
+    },
+    "17rez3f": {
+      "title": "Marine heat waves pose significant threat to seagrass restoration efforts",
+      "t": 1782490830723,
+      "media_url": "https://live.staticflickr.com/5230/5596887383_7c8510838c_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: USAFRICOM / PDM 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/44606090@N06/5596887383"
+    },
+    "1uznwoe": {
+      "title": "The PSVR 2 has been a silent PS5 accessory success, and it’s currently $100-off",
+      "t": 1782490830764,
+      "media_url": "https://live.staticflickr.com/1474/26499607721_800dff8070_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: ▓▒░ TORLEY ░▒▓ / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/70285332@N00/26499607721"
+    },
+    "1alks0x": {
+      "title": "Ancient ocean circulation reversed Atlantic and Pacific oxygen patterns 15 million years ago",
+      "t": 1782490830998,
+      "media_url": "https://live.staticflickr.com/65535/50071216471_06ca16711e_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: europeanspaceagency / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/37472264@N04/50071216471"
+    },
+    "6n2z4b": {
+      "title": "Less than one in ten of cybersecurity pros trust AI testing tools to find vulnerabilities, with over three-quarters say their AI vulnerability scanning tools missed critical flaws",
+      "t": 1782490831144,
+      "media_url": "https://live.staticflickr.com/2013/2200567731_42e94fc4df.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: gurdonark / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/46183897@N00/2200567731"
+    },
+    "lwhu0k": {
+      "title": "California built a tool to catch AI killing jobs",
+      "t": 1782490831264,
+      "media_url": "https://live.staticflickr.com/5806/30466646812_ef581bf8de_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: ITU Pictures / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/42121221@N07/30466646812"
+    },
+    "1vsleun": {
+      "title": "I tested this new cheap speaker and rated it 4.5 stars, and it's already on sale — here's why it's an absolute must-buy for the summer",
+      "t": 1782490831404,
+      "media_url": "https://live.staticflickr.com/8715/16827930747_561ee5a8a1_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Tolbxela / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/25147647@N04/16827930747"
+    },
+    "147l9x1": {
+      "title": "Hollywood Thrives on ‘Rabid’ Fans. For Publicists, They’re a Nightmare",
+      "t": 1782490831680,
+      "media_url": "https://live.staticflickr.com/740/23464344662_3e186679c7_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: RedCarpetReport / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/47170787@N05/23464344662"
     }
   }
 }
