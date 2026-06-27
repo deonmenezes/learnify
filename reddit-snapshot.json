@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-06-27T14:18:11.033Z",
+  "generated_at": "2026-06-27T15:53:38.656Z",
   "subs": [
     "MachineLearning",
-    "LocalLLaMA",
-    "bodyweightfitness",
-    "startups",
+    "science",
+    "netsec",
     "longevity",
+    "bodyweightfitness",
     "programming",
     "gadgets",
+    "LocalLLaMA",
+    "startups",
     "hardware",
     "investing",
     "artificial",
     "running",
     "cybersecurity",
     "robotics",
-    "netsec",
     "nutrition",
-    "science",
     "Fitness"
   ],
   "count": 36,
   "by_category": {
-    "Science": 4,
-    "AI / ML": 6,
+    "Science": 3,
+    "AI / ML": 8,
     "Fitness": 6,
     "Coding & Dev Tools": 3,
     "Hardware & Gadgets": 6,
     "Startups & Funding": 6,
-    "Security": 4,
+    "Security": 3,
     "Robotics": 1
   },
   "articles": [
@@ -861,6 +861,46 @@
       }
     },
     {
+      "id": "reddit_1ueiam6",
+      "title": "Find the best open-source OCR models in one place at Papers with Code [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1ueiam6/find_the_best_opensource_ocr_models_in_one_place/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/MachineLearning · community knowledge",
+      "content_type": "post",
+      "author": "u/NielsRogge · r/MachineLearning",
+      "handle": "MachineLearning",
+      "org": "r/MachineLearning",
+      "platform": "reddit",
+      "published": "2026-06-24T16:26:21.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/MachineLearning"
+      ],
+      "summary": "Hi, I&#39;ve created an overview of the most important OCR benchmarks, along with the top open models, and links to their paper and code: https://paperswithcode.co/tasks/ocr . This week, new OCR models were released by Baidu and Mistral. Baidu released Unlimited OCR , a 3B-parameter model that introduces a key…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1uehcps",
       "title": "Well someone went nuclear..",
       "link": "https://www.reddit.com/r/cybersecurity/comments/1uehcps/well_someone_went_nuclear/",
@@ -1215,6 +1255,46 @@
       }
     },
     {
+      "id": "reddit_1ue0hlp",
+      "title": "DeepSWE: new benchmark looking at how well today's frontier models can actually write code [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1ue0hlp/deepswe_new_benchmark_looking_at_how_well_todays/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/MachineLearning · community knowledge",
+      "content_type": "post",
+      "author": "u/we_are_mammals · r/MachineLearning",
+      "handle": "MachineLearning",
+      "org": "r/MachineLearning",
+      "platform": "reddit",
+      "published": "2026-06-24T02:03:34.000Z",
+      "image": "https://preview.redd.it/lacvagyr159h1.png?width=140&height=89&auto=webp&s=14f97a97511fbfe2fd767e4dc986ce0b4da5c73e",
+      "thumbnail": "https://preview.redd.it/lacvagyr159h1.png?width=140&height=89&auto=webp&s=14f97a97511fbfe2fd767e4dc986ce0b4da5c73e",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/MachineLearning"
+      ],
+      "summary": "DeepSWE delivers four advances over existing public benchmarks: Contamination free: Tasks are written from scratch, not adapted from existing commits or PRs, so no model has seen the solution during pretraining. High diversity: Tasks span a broad pool of 91 repositories across 5 languages. Real-world complexity:…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1udzf0d",
       "title": "Cheap Chinese AI models are quickly gaining customers across the US market: ‘This changes things’",
       "link": "https://www.reddit.com/r/artificial/comments/1udzf0d/cheap_chinese_ai_models_are_quickly_gaining/",
@@ -1365,85 +1445,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/startups this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1udfx6m",
-      "title": "Younger generations are aging biologically faster than their older counterparts. This faster biological aging is also linked to early-onset cancers. Immune system aging is linked to earlier lung cancer; fat tissue aging is linked to earlier colorectal cancer.",
-      "link": "https://www.reddit.com/r/longevity/comments/1udfx6m/younger_generations_are_aging_biologically_faster/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/longevity · community knowledge",
-      "content_type": "post",
-      "author": "u/user_-- · r/longevity",
-      "handle": "longevity",
-      "org": "r/longevity",
-      "platform": "reddit",
-      "published": "2026-06-23T12:35:00.000Z",
-      "image": "https://external-preview.redd.it/q1_NxuKvXkBJUVNgzaMTUoLCd8z0CiMohQ5b4jjwbLM.jpeg?width=640&crop=smart&auto=webp&s=c540d0d5782676821f156b8e16c14ee7ee8feaa5",
-      "thumbnail": "https://external-preview.redd.it/q1_NxuKvXkBJUVNgzaMTUoLCd8z0CiMohQ5b4jjwbLM.jpeg?width=640&crop=smart&auto=webp&s=c540d0d5782676821f156b8e16c14ee7ee8feaa5",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Longevity",
-      "categories": [
-        "Reddit",
-        "Science",
-        "Longevity",
-        "r/longevity"
-      ],
-      "summary": "Younger generations are aging biologically faster than their older counterparts. This faster biological aging is also linked to early-onset cancers. Immune system aging is linked to earlier lung cancer; fat tissue aging is linked to earlier colorectal cancer.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/longevity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1udd811",
-      "title": "Cloudflare patches Copy-Fail across every server in two days",
-      "link": "https://www.reddit.com/r/netsec/comments/1udd811/cloudflare_patches_copyfail_across_every_server/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/netsec · community knowledge",
-      "content_type": "post",
-      "author": "u/xmull1gan · r/netsec",
-      "handle": "netsec",
-      "org": "r/netsec",
-      "platform": "reddit",
-      "published": "2026-06-23T10:18:55.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/netsec"
-      ],
-      "summary": "Kind of crazy to look at the graph in this blog. CVE drops on 04/29, they develop a patch on 4/30, and deploy it across all of their servers on 05/01. Obviously they have the engineers to write BPF-LSM patches, but I think it points to a future where they can (almost) keep up with vulnerability disclosures. &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/netsec this week"
       ],
       "metrics": {
         "likes": 0,

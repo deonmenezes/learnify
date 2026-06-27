@@ -1,15 +1,56 @@
 {
-  "generated_at": "2026-06-27T14:15:59.505Z",
+  "generated_at": "2026-06-27T15:51:24.113Z",
   "handles": [
+    "AnthropicAI",
     "nvidia",
     "GoogleDeepMind",
     "gdb",
     "OpenAI",
-    "elonmusk",
-    "AnthropicAI"
+    "elonmusk"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2070665903440871779",
+      "title": "Since June 12, we’ve been working closely with the US government to restore access to Claude Mythos 5 and Fable 5. Today, the government notified us that Mythos 5, our strongest cybersecurity model,…",
+      "link": "https://x.com/AnthropicAI/status/2070665903440871779",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Anthropic · @AnthropicAI",
+      "handle": "AnthropicAI",
+      "org": "Anthropic",
+      "published": "2026-06-27T00:29:57.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "Anthropic",
+        "Product"
+      ],
+      "summary": "Since June 12, we’ve been working closely with the US government to restore access to Claude Mythos 5 and Fable 5. Today, the government notified us that Mythos 5, our strongest cybersecurity model, can be redeployed to a set of US organizations that operate and defend critical",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 79,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (model, claude)",
+        "high engagement (25.1K likes)"
+      ],
+      "metrics": {
+        "likes": 25099,
+        "retweets": 2688,
+        "replies": 1988,
+        "likes_h": "25.1K"
+      },
+      "engagement": 32463,
+      "hot": true
+    },
     {
       "id": "x_2070597978826449174",
       "title": "AI is most impactful when it's tailored to the way teams already work. Discover how Zaha Hadid Architects uses local compute, fine-tuned AI models, and NVIDIA technologies to build custom AI tools…",
@@ -42,12 +83,12 @@
         "tech substance (models, fine-tune)"
       ],
       "metrics": {
-        "likes": 327,
-        "retweets": 44,
-        "replies": 32,
-        "likes_h": "327"
+        "likes": 354,
+        "retweets": 45,
+        "replies": 34,
+        "likes_h": "354"
       },
-      "engagement": 447,
+      "engagement": 478,
       "hot": false
     },
     {
@@ -80,16 +121,58 @@
       "reasons": [
         "report-worthy",
         "tech substance (model, gpt)",
-        "high engagement (6.8K likes)"
+        "high engagement (6.9K likes)"
       ],
       "metrics": {
-        "likes": 6778,
-        "retweets": 368,
-        "replies": 516,
-        "likes_h": "6.8K"
+        "likes": 6855,
+        "retweets": 374,
+        "replies": 524,
+        "likes_h": "6.9K"
       },
-      "engagement": 8030,
+      "engagement": 8127,
       "hot": true
+    },
+    {
+      "id": "x_2070528961235575278",
+      "title": "To keep pace with AI progress, we're advancing how we study Claude's economic impact. Hourly sampling and survey data show us how the cadences of life shape usage, what people produce with Claude,…",
+      "link": "https://x.com/AnthropicAI/status/2070528961235575278",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Anthropic · @AnthropicAI",
+      "handle": "AnthropicAI",
+      "org": "Anthropic",
+      "published": "2026-06-26T15:25:47.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "Anthropic",
+        "Research"
+      ],
+      "summary": "To keep pace with AI progress, we're advancing how we study Claude's economic impact. Hourly sampling and survey data show us how the cadences of life shape usage, what people produce with Claude, and how perceptions of AI's impact may be changing. https://www.anthropic.com/research/economic-index-june-2026-report",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 89,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (claude, research)",
+        "links to a source",
+        "high engagement (2.4K likes)"
+      ],
+      "metrics": {
+        "likes": 2440,
+        "retweets": 294,
+        "replies": 361,
+        "likes_h": "2.4K"
+      },
+      "engagement": 3389,
+      "hot": false
     },
     {
       "id": "x_2070235584535117938",
@@ -122,12 +205,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 200,
+        "likes": 202,
         "retweets": 21,
-        "replies": 27,
-        "likes_h": "200"
+        "replies": 28,
+        "likes_h": "202"
       },
-      "engagement": 269,
+      "engagement": 272,
       "hot": false
     },
     {
@@ -163,12 +246,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 277,
-        "retweets": 38,
+        "likes": 281,
+        "retweets": 40,
         "replies": 24,
-        "likes_h": "277"
+        "likes_h": "281"
       },
-      "engagement": 377,
+      "engagement": 385,
       "hot": false
     },
     {
@@ -203,12 +286,53 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 242,
-        "retweets": 34,
-        "replies": 20,
-        "likes_h": "242"
+        "likes": 245,
+        "retweets": 35,
+        "replies": 22,
+        "likes_h": "245"
       },
-      "engagement": 330,
+      "engagement": 337,
+      "hot": false
+    },
+    {
+      "id": "x_2070183531612172697",
+      "title": "We're joining @raiseus_ai as a founding partner. RAISE US is a nonprofit coalition working to strengthen the American workforce through employer-led action, AI-enabled training, and policy innovation…",
+      "link": "https://x.com/AnthropicAI/status/2070183531612172697",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Anthropic · @AnthropicAI",
+      "handle": "AnthropicAI",
+      "org": "Anthropic",
+      "published": "2026-06-25T16:33:10.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "Anthropic",
+        "Research"
+      ],
+      "summary": "We're joining @raiseus_ai as a founding partner. RAISE US is a nonprofit coalition working to strengthen the American workforce through employer-led action, AI-enabled training, and policy innovation to support the transition to transformative AI.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 74,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (training)",
+        "high engagement (3.2K likes)"
+      ],
+      "metrics": {
+        "likes": 3181,
+        "retweets": 213,
+        "replies": 247,
+        "likes_h": "3.2K"
+      },
+      "engagement": 3854,
       "hot": false
     },
     {
@@ -243,15 +367,15 @@
         "casual tone (this)",
         "tech substance (gemini, agents)",
         "links to a source",
-        "high engagement (962 likes)"
+        "high engagement (973 likes)"
       ],
       "metrics": {
-        "likes": 962,
-        "retweets": 109,
-        "replies": 65,
-        "likes_h": "962"
+        "likes": 973,
+        "retweets": 110,
+        "replies": 66,
+        "likes_h": "973"
       },
-      "engagement": 1245,
+      "engagement": 1259,
       "hot": false
     },
     {
@@ -285,12 +409,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 634,
+        "likes": 633,
         "retweets": 74,
         "replies": 60,
-        "likes_h": "634"
+        "likes_h": "633"
       },
-      "engagement": 842,
+      "engagement": 841,
       "hot": false
     },
     {
@@ -1070,12 +1194,12 @@
         "high engagement (1.4K likes)"
       ],
       "metrics": {
-        "likes": 1445,
+        "likes": 1446,
         "retweets": 163,
         "replies": 89,
         "likes_h": "1.4K"
       },
-      "engagement": 1860,
+      "engagement": 1861,
       "hot": false
     },
     {
@@ -1202,129 +1326,6 @@
       },
       "engagement": 5055,
       "hot": true
-    },
-    {
-      "id": "x_2067651699486200091",
-      "title": "New Frontier Red Team blog: Phase 2 of Project Fetch, where we test how well Claude can program a robodog. Opus 4.7, on its own, was ~20x faster than last year's best human team aided by Opus 4.1.…",
-      "link": "https://x.com/AnthropicAI/status/2067651699486200091",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Anthropic · @AnthropicAI",
-      "handle": "AnthropicAI",
-      "org": "Anthropic",
-      "published": "2026-06-18T16:52:34.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "Anthropic",
-        "Research"
-      ],
-      "summary": "New Frontier Red Team blog: Phase 2 of Project Fetch, where we test how well Claude can program a robodog. Opus 4.7, on its own, was ~20x faster than last year's best human team aided by Opus 4.1. (The robodog, alas, still failed to fetch a beach ball.) https://www.anthropic.com/research/project-fetch-phase-two",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 100,
-      "sentiment": "positive",
-      "sentiment_score": 0.3333333333333333,
-      "reasons": [
-        "report-worthy",
-        "tech substance (claude, opus, research)",
-        "links to a source",
-        "high engagement (2.2K likes)",
-        "concrete metrics"
-      ],
-      "metrics": {
-        "likes": 2247,
-        "retweets": 189,
-        "replies": 350,
-        "likes_h": "2.2K"
-      },
-      "engagement": 2975,
-      "hot": false
-    },
-    {
-      "id": "x_2067625110199247353",
-      "title": "Together with researchers at Boston Children’s Hospital and Harvard, we published a study in NEJM AI showing how o3 Deep Research helped clinicians revisit previously unsolved rare pediatric disease…",
-      "link": "https://x.com/OpenAI/status/2067625110199247353",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-06-18T15:06:55.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Research"
-      ],
-      "summary": "Together with researchers at Boston Children’s Hospital and Harvard, we published a study in NEJM AI showing how o3 Deep Research helped clinicians revisit previously unsolved rare pediatric disease cases, and find answers for families who had waited years.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 78,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (research)",
-        "high engagement (3K likes)"
-      ],
-      "metrics": {
-        "likes": 3028,
-        "retweets": 336,
-        "replies": 262,
-        "likes_h": "3K"
-      },
-      "engagement": 3962,
-      "hot": true
-    },
-    {
-      "id": "x_2067594863785173257",
-      "title": "Instead of assuming AI will always do what we intend, we ask: what if it doesn't? That’s why we’ve developed our AI Control Roadmap: a framework for building and managing the advanced AI we deploy…",
-      "link": "https://x.com/GoogleDeepMind/status/2067594863785173257",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Google DeepMind · @GoogleDeepMind",
-      "handle": "GoogleDeepMind",
-      "org": "Google",
-      "published": "2026-06-18T13:06:44.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "Google",
-        "Commentary"
-      ],
-      "summary": "Instead of assuming AI will always do what we intend, we ask: what if it doesn't? That’s why we’ve developed our AI Control Roadmap: a framework for building and managing the advanced AI we deploy within Google. 🧵",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 60,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy"
-      ],
-      "metrics": {
-        "likes": 609,
-        "retweets": 86,
-        "replies": 88,
-        "likes_h": "609"
-      },
-      "engagement": 869,
-      "hot": false
     }
   ]
 }
