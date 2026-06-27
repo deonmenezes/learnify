@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-06-27T01:33:01.108Z",
+  "generated_at": "2026-06-27T05:36:46.458Z",
   "subs": [
     "MachineLearning",
-    "artificial",
-    "nutrition",
-    "investing",
-    "longevity",
-    "hardware",
-    "gadgets",
-    "running",
     "programming",
     "cybersecurity",
+    "longevity",
+    "hardware",
+    "investing",
+    "gadgets",
+    "artificial",
+    "running",
     "robotics",
     "netsec",
+    "nutrition",
     "science",
     "Fitness",
     "LocalLLaMA",
@@ -25,10 +25,10 @@
   "by_category": {
     "Science": 4,
     "AI / ML": 7,
-    "Hardware & Gadgets": 5,
+    "Coding & Dev Tools": 4,
+    "Hardware & Gadgets": 4,
     "Startups & Funding": 4,
     "Fitness": 6,
-    "Coding & Dev Tools": 3,
     "Security": 4,
     "Robotics": 1,
     "Skincare": 2
@@ -107,6 +107,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1ufzafr",
+      "title": "Fintech Engineering Handbook",
+      "link": "https://www.reddit.com/r/programming/comments/1ufzafr/fintech_engineering_handbook/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/programming · community knowledge",
+      "content_type": "post",
+      "author": "u/Krever · r/programming",
+      "handle": "programming",
+      "org": "r/programming",
+      "platform": "reddit",
+      "published": "2026-06-26T06:55:05.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Coding & Dev Tools",
+      "category": "Coding & Dev Tools",
+      "genre": "Coding & Dev Tools",
+      "categories": [
+        "Reddit",
+        "Coding & Dev Tools",
+        "r/programming"
+      ],
+      "summary": "I just published Fintech Engineering Handbook distilled from 6 years of tears, sweat and swears. It’s a free ~25-page resource with various hints and patterns around handling money in software systems. Tell me what you think! &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/programming this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1407,45 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/bodyweightfitness this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ucrq5y",
-      "title": "[IGN] Steam Machine Price Was Originally Meant to Be About $750",
-      "link": "https://www.reddit.com/r/hardware/comments/1ucrq5y/ign_steam_machine_price_was_originally_meant_to/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/hardware · community knowledge",
-      "content_type": "post",
-      "author": "u/DotabLAH · r/hardware",
-      "handle": "hardware",
-      "org": "r/hardware",
-      "platform": "reddit",
-      "published": "2026-06-22T17:53:01.000Z",
-      "image": "https://external-preview.redd.it/9SV38d8fxWgfqGntKeWSnap_a4S9j4pUNnoarDB69zk.jpeg?width=640&crop=smart&auto=webp&s=776e63b4d9ff9debc20c38772e2ffb45bf39ad7f",
-      "thumbnail": "https://external-preview.redd.it/9SV38d8fxWgfqGntKeWSnap_a4S9j4pUNnoarDB69zk.jpeg?width=640&crop=smart&auto=webp&s=776e63b4d9ff9debc20c38772e2ffb45bf39ad7f",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/hardware"
-      ],
-      "summary": "[IGN] Steam Machine Price Was Originally Meant to Be About $750",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/hardware this week"
       ],
       "metrics": {
         "likes": 0,
