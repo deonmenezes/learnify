@@ -1,15 +1,14 @@
 {
-  "generated_at": "2026-06-27T17:18:32.799Z",
+  "generated_at": "2026-06-27T18:49:25.844Z",
   "subs": [
     "MachineLearning",
-    "Futurology",
-    "gadgets",
     "longevity",
+    "hardware",
     "bodyweightfitness",
     "programming",
+    "gadgets",
     "LocalLLaMA",
     "startups",
-    "hardware",
     "investing",
     "artificial",
     "running",
@@ -18,13 +17,14 @@
     "netsec",
     "nutrition",
     "science",
-    "Fitness"
+    "Fitness",
+    "Futurology"
   ],
   "count": 36,
   "by_category": {
-    "Science": 4,
+    "Science": 5,
     "AI / ML": 8,
-    "Fitness": 6,
+    "Fitness": 5,
     "Coding & Dev Tools": 3,
     "Hardware & Gadgets": 6,
     "Startups & Funding": 5,
@@ -32,6 +32,46 @@
     "Robotics": 1
   },
   "articles": [
+    {
+      "id": "reddit_1ugdq5w",
+      "title": "Scientists found that aging muscle stops sending a molecular signal that suppresses tumor growth, and exercise can switch it back on",
+      "link": "https://www.reddit.com/r/longevity/comments/1ugdq5w/scientists_found_that_aging_muscle_stops_sending/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/longevity · community knowledge",
+      "content_type": "post",
+      "author": "u/soulpost · r/longevity",
+      "handle": "longevity",
+      "org": "r/longevity",
+      "platform": "reddit",
+      "published": "2026-06-26T17:45:11.000Z",
+      "image": "https://external-preview.redd.it/Z4k0RxYS-9R-woTtZVLTwFIODYf8Uj3-uTe_aBKvkYk.jpeg?width=640&crop=smart&auto=webp&s=2542d63107f427ab781977814bf0133424a85015",
+      "thumbnail": "https://external-preview.redd.it/Z4k0RxYS-9R-woTtZVLTwFIODYf8Uj3-uTe_aBKvkYk.jpeg?width=640&crop=smart&auto=webp&s=2542d63107f427ab781977814bf0133424a85015",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Longevity",
+      "categories": [
+        "Reddit",
+        "Science",
+        "Longevity",
+        "r/longevity"
+      ],
+      "summary": "As people age, their muscles don&#39;t just get weaker, they may also stop doing something that&#39;s been quietly protecting them from cancer. A study published in Nature Communications by researchers at Duke-NUS Medical School found that healthy muscle releases tiny molecular packages into the bloodstream carrying a…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/longevity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1ugbjb0",
       "title": "Researchers screened 6,442 existing drugs for hidden effects on aging and longevity. 370 made the list, including an OTC nasal spray, and a new metric predicts which slow aging vs. speed it up (Nature Aging)",
@@ -1406,45 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/programming this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1udr1ow",
-      "title": "[DISC] When do you know when you're truly ready to try for Boston or Sub-3hr Marathon?",
-      "link": "https://www.reddit.com/r/running/comments/1udr1ow/disc_when_do_you_know_when_youre_truly_ready_to/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/running · community knowledge",
-      "content_type": "post",
-      "author": "u/cyclingkingsley · r/running",
-      "handle": "running",
-      "org": "r/running",
-      "platform": "reddit",
-      "published": "2026-06-23T19:32:09.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/running"
-      ],
-      "summary": "I&#39;m at week 5 of my marathon block using Hanson&#39;s 18 week Advanced training plan and just recently completed my first official 5K race. Clocked my fastest 5K at 18:45. With the 5K result which exceeded my expectation, I feel like qualifying for Boston or trying for sub-3hr is no longer a dream and it&#39;s…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/running this week"
       ],
       "metrics": {
         "likes": 0,
