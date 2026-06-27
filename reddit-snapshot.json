@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T12:18:10.932Z",
+  "generated_at": "2026-06-27T14:18:11.033Z",
   "subs": [
     "MachineLearning",
     "LocalLLaMA",
@@ -24,9 +24,9 @@
     "Science": 4,
     "AI / ML": 6,
     "Fitness": 6,
-    "Coding & Dev Tools": 4,
+    "Coding & Dev Tools": 3,
     "Hardware & Gadgets": 6,
-    "Startups & Funding": 5,
+    "Startups & Funding": 6,
     "Security": 4,
     "Robotics": 1
   },
@@ -261,6 +261,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/LocalLLaMA this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uflctq",
+      "title": "Leaving a stable £100k job to build a nuclear startup, how did you handle the fear? I will not promote",
+      "link": "https://www.reddit.com/r/startups/comments/1uflctq/leaving_a_stable_100k_job_to_build_a_nuclear/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/startups · community knowledge",
+      "content_type": "post",
+      "author": "u/Mrrduck · r/startups",
+      "handle": "startups",
+      "org": "r/startups",
+      "platform": "reddit",
+      "published": "2026-06-25T20:20:18.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/startups"
+      ],
+      "summary": "Last year I started working on a hard-tech startup idea in nuclear engineering. About a month ago, it reached a stage where it felt presentable. At first, I wasn’t taking it too seriously, it started more as something fun to explore. But after sending a few emails around, a VC became interested. I initially mentioned…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/startups this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1404,45 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/netsec this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ud8p4p",
-      "title": "In memory of the man who put red squiggles under words",
-      "link": "https://www.reddit.com/r/programming/comments/1ud8p4p/in_memory_of_the_man_who_put_red_squiggles_under/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/programming · community knowledge",
-      "content_type": "post",
-      "author": "u/mareek · r/programming",
-      "handle": "programming",
-      "org": "r/programming",
-      "platform": "reddit",
-      "published": "2026-06-23T05:54:20.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Coding & Dev Tools",
-      "category": "Coding & Dev Tools",
-      "genre": "Coding & Dev Tools",
-      "categories": [
-        "Reddit",
-        "Coding & Dev Tools",
-        "r/programming"
-      ],
-      "summary": "In memory of the man who put red squiggles under words",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/programming this week"
       ],
       "metrics": {
         "likes": 0,
