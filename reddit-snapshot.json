@@ -1,13 +1,12 @@
 {
-  "generated_at": "2026-06-27T08:44:21.084Z",
+  "generated_at": "2026-06-27T11:03:29.009Z",
   "subs": [
     "MachineLearning",
-    "Fitness",
-    "hardware",
     "longevity",
-    "programming",
-    "investing",
     "gadgets",
+    "programming",
+    "hardware",
+    "investing",
     "artificial",
     "running",
     "cybersecurity",
@@ -15,20 +14,20 @@
     "netsec",
     "nutrition",
     "science",
+    "Fitness",
     "LocalLLaMA",
     "startups",
     "SkincareAddiction",
-    "singularity",
-    "bodyweightfitness"
+    "singularity"
   ],
   "count": 36,
   "by_category": {
     "Science": 4,
-    "AI / ML": 7,
+    "AI / ML": 6,
     "Coding & Dev Tools": 4,
-    "Hardware & Gadgets": 4,
+    "Hardware & Gadgets": 6,
     "Startups & Funding": 4,
-    "Fitness": 6,
+    "Fitness": 5,
     "Security": 4,
     "Robotics": 1,
     "Skincare": 2
@@ -154,6 +153,45 @@
       }
     },
     {
+      "id": "reddit_1ufxlv1",
+      "title": "Casio's new Pokémon G-Shock comes in a Poké Ball, but good luck getting your hands on one",
+      "link": "https://www.reddit.com/r/gadgets/comments/1ufxlv1/casios_new_pokémon_gshock_comes_in_a_poké_ball/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/gadgets · community knowledge",
+      "content_type": "post",
+      "author": "u/dapperlemon · r/gadgets",
+      "handle": "gadgets",
+      "org": "r/gadgets",
+      "platform": "reddit",
+      "published": "2026-06-26T05:21:41.000Z",
+      "image": "https://external-preview.redd.it/sZTKOa2TcRzHs_vI7LSwMYVN09nRVMiTmrqiMfKFNSA.jpeg?width=640&crop=smart&auto=webp&s=c2df563331fbe64eb834e3e83e340ba66b0a49c2",
+      "thumbnail": "https://external-preview.redd.it/sZTKOa2TcRzHs_vI7LSwMYVN09nRVMiTmrqiMfKFNSA.jpeg?width=640&crop=smart&auto=webp&s=c2df563331fbe64eb834e3e83e340ba66b0a49c2",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/gadgets"
+      ],
+      "summary": "Casio's new Pokémon G-Shock comes in a Poké Ball, but good luck getting your hands on one",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/gadgets this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1ufkcox",
       "title": "French retailer mocks €1039 Steam Machine with “Stim Machine” RX 9060 XT PC for €999",
       "link": "https://www.reddit.com/r/hardware/comments/1ufkcox/french_retailer_mocks_1039_steam_machine_with/",
@@ -257,6 +295,45 @@
         "r/gadgets"
       ],
       "summary": "Microsoft Announces Significant Price Rises for Xbox Series X and S, 2TB Model Discontinued",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/gadgets this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1ufaygu",
+      "title": "Apple raises prices on MacBook and iPad due to memory crunch, hints at more to come",
+      "link": "https://www.reddit.com/r/gadgets/comments/1ufaygu/apple_raises_prices_on_macbook_and_ipad_due_to/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/gadgets · community knowledge",
+      "content_type": "post",
+      "author": "u/hatramroany · r/gadgets",
+      "handle": "gadgets",
+      "org": "r/gadgets",
+      "platform": "reddit",
+      "published": "2026-06-25T14:03:14.000Z",
+      "image": "https://external-preview.redd.it/Uc6n4PFjtBuZLK0E-pfIlP1t2SF1J4OjliFuMopd6hI.jpeg?width=640&crop=smart&auto=webp&s=0bc404c9380d575d0568e6121a992430069c42a1",
+      "thumbnail": "https://external-preview.redd.it/Uc6n4PFjtBuZLK0E-pfIlP1t2SF1J4OjliFuMopd6hI.jpeg?width=640&crop=smart&auto=webp&s=0bc404c9380d575d0568e6121a992430069c42a1",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/gadgets"
+      ],
+      "summary": "Apple raises prices on MacBook and iPad due to memory crunch, hints at more to come",
       "is_social": true,
       "report_worthy": true,
       "worthiness_score": 62,
@@ -1367,85 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/SkincareAddiction this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ucwyes",
-      "title": "DeepSeek raises $7.4B USD at $60B valuation. Remarkably, Liang Wenfeng invests $3B in DeepSeek himself.",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1ucwyes/deepseek_raises_74b_usd_at_60b_valuation/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/LocalLLaMA · community knowledge",
-      "content_type": "post",
-      "author": "u/FullOf_Bad_Ideas · r/LocalLLaMA",
-      "handle": "LocalLLaMA",
-      "org": "r/LocalLLaMA",
-      "platform": "reddit",
-      "published": "2026-06-22T21:03:52.000Z",
-      "image": "https://external-preview.redd.it/VpGJI494QGRnBDvqRiEKbe7Cc_3GIxEPT93e9P2L43s.jpeg?width=640&crop=smart&auto=webp&s=5cf273eb1b63ca47116038dd2d216199da27ffee",
-      "thumbnail": "https://external-preview.redd.it/VpGJI494QGRnBDvqRiEKbe7Cc_3GIxEPT93e9P2L43s.jpeg?width=640&crop=smart&auto=webp&s=5cf273eb1b63ca47116038dd2d216199da27ffee",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/LocalLLaMA"
-      ],
-      "summary": "DeepSeek raises $7.4B USD at $60B valuation. Remarkably, Liang Wenfeng invests $3B in DeepSeek himself.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/LocalLLaMA this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ucs1gt",
-      "title": "Just did my first strict pull up at 260lbs, 25 years old!",
-      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1ucs1gt/just_did_my_first_strict_pull_up_at_260lbs_25/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/bodyweightfitness · community knowledge",
-      "content_type": "post",
-      "author": "u/EsotericAstronaut · r/bodyweightfitness",
-      "handle": "bodyweightfitness",
-      "org": "r/bodyweightfitness",
-      "platform": "reddit",
-      "published": "2026-06-22T18:04:18.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/bodyweightfitness"
-      ],
-      "summary": "For context, I used to weigh 395lbs, so it was a journey to say the least. It took me around 4 years to lose 135 lbs. I lost the weight by sprinting 1 mile a day, weight lifted 4 times a week, and made an effort of counting my calories and eating more protein. I was able to get the bar to my chest and it was such a…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/bodyweightfitness this week"
       ],
       "metrics": {
         "likes": 0,
