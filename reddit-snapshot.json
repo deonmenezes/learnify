@@ -1,10 +1,13 @@
 {
-  "generated_at": "2026-06-27T11:03:29.009Z",
+  "generated_at": "2026-06-27T12:18:10.932Z",
   "subs": [
     "MachineLearning",
+    "LocalLLaMA",
+    "bodyweightfitness",
+    "startups",
     "longevity",
-    "gadgets",
     "programming",
+    "gadgets",
     "hardware",
     "investing",
     "artificial",
@@ -14,23 +17,18 @@
     "netsec",
     "nutrition",
     "science",
-    "Fitness",
-    "LocalLLaMA",
-    "startups",
-    "SkincareAddiction",
-    "singularity"
+    "Fitness"
   ],
   "count": 36,
   "by_category": {
     "Science": 4,
     "AI / ML": 6,
+    "Fitness": 6,
     "Coding & Dev Tools": 4,
     "Hardware & Gadgets": 6,
-    "Startups & Funding": 4,
-    "Fitness": 5,
+    "Startups & Funding": 5,
     "Security": 4,
-    "Robotics": 1,
-    "Skincare": 2
+    "Robotics": 1
   },
   "articles": [
     {
@@ -114,6 +112,45 @@
       }
     },
     {
+      "id": "reddit_1ug0t6w",
+      "title": "So how did you all get into 15+ pull ups",
+      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1ug0t6w/so_how_did_you_all_get_into_15_pull_ups/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/bodyweightfitness · community knowledge",
+      "content_type": "post",
+      "author": "u/heavenlygod44 · r/bodyweightfitness",
+      "handle": "bodyweightfitness",
+      "org": "r/bodyweightfitness",
+      "platform": "reddit",
+      "published": "2026-06-26T08:22:26.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/bodyweightfitness"
+      ],
+      "summary": "I&#39;m 17M, 74kg and kinda skinny fat. I can do some push ups and squats, but compared to those, my pulling strength is really weak. I can do some Australian pull ups, but I don&#39;t really feel much pump or see much progression from them. I always wonder how people reach 10–15+ pull ups because even getting my…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/bodyweightfitness this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1ufzafr",
       "title": "Fintech Engineering Handbook",
       "link": "https://www.reddit.com/r/programming/comments/1ufzafr/fintech_engineering_handbook/",
@@ -184,6 +221,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/gadgets this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1ufo0un",
+      "title": "US Govt to individually approve who gets GPT 5.6.",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/LocalLLaMA · community knowledge",
+      "content_type": "post",
+      "author": "u/AtlanticHM · r/LocalLLaMA",
+      "handle": "LocalLLaMA",
+      "org": "r/LocalLLaMA",
+      "platform": "reddit",
+      "published": "2026-06-25T22:02:41.000Z",
+      "image": "https://preview.redd.it/hrrxhs7j4i9h1.jpeg?width=640&crop=smart&auto=webp&s=e3c1bb42290776f1b52f645989bae8b2ff8c5788",
+      "thumbnail": "https://preview.redd.it/hrrxhs7j4i9h1.jpeg?width=640&crop=smart&auto=webp&s=e3c1bb42290776f1b52f645989bae8b2ff8c5788",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/LocalLLaMA"
+      ],
+      "summary": "US Govt to individually approve who gets GPT 5.6.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/LocalLLaMA this week"
       ],
       "metrics": {
         "likes": 0,
@@ -302,6 +379,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/gadgets this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1ufb5vb",
+      "title": "What founders do after building a company? I will not promote",
+      "link": "https://www.reddit.com/r/startups/comments/1ufb5vb/what_founders_do_after_building_a_company_i_will/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/startups · community knowledge",
+      "content_type": "post",
+      "author": "u/ShivanshLonare · r/startups",
+      "handle": "startups",
+      "org": "r/startups",
+      "platform": "reddit",
+      "published": "2026-06-25T14:10:59.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/startups"
+      ],
+      "summary": "What founders do after selling or building a company? Do they start a new company? Or they retire? What you will do after building or selling your company? As a founder I&#39;ll probably start a new company with even bigger goal than previous. What you will do? &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/startups this week"
       ],
       "metrics": {
         "likes": 0,
@@ -775,6 +892,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/nutrition this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uef3cm",
+      "title": "What was the biggest mistake you made when starting bodyweight training?",
+      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1uef3cm/what_was_the_biggest_mistake_you_made_when/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/bodyweightfitness · community knowledge",
+      "content_type": "post",
+      "author": "u/Vital_Life_Balance · r/bodyweightfitness",
+      "handle": "bodyweightfitness",
+      "org": "r/bodyweightfitness",
+      "platform": "reddit",
+      "published": "2026-06-24T14:28:42.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/bodyweightfitness"
+      ],
+      "summary": "I&#39;m relatively new to bodyweight training and have been reading a lot of advice online. One thing I&#39;ve noticed is that there seems to be a lot of information available, and sometimes it&#39;s difficult to know what advice is actually important for beginners. Looking back, what&#39;s the biggest mistake you…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/bodyweightfitness this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1287,163 +1443,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/programming this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ud7pw1",
-      "title": "Run Nutrition Tuesday",
-      "link": "https://www.reddit.com/r/running/comments/1ud7pw1/run_nutrition_tuesday/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/running · community knowledge",
-      "content_type": "post",
-      "author": "u/AutoModerator · r/running",
-      "handle": "running",
-      "org": "r/running",
-      "platform": "reddit",
-      "published": "2026-06-23T05:01:13.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/running"
-      ],
-      "summary": "Rules of the Road 1) Anyone is welcome to participate and share your ideas, plans, diet, and nutrition plans. 2) Promote good discussion. Simply downvoting because you disagree with someone&#39;s ideas is BAD. Instead, let them know why you disagree with them. 3) Provide sources if possible. However, anecdotes and…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/running this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ud0wq8",
-      "title": "[acne] butt acne for years + Accutane not helping?",
-      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1ud0wq8/acne_butt_acne_for_years_accutane_not_helping/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/SkincareAddiction · community knowledge",
-      "content_type": "post",
-      "author": "u/Opposite_Safe_2745 · r/SkincareAddiction",
-      "handle": "SkincareAddiction",
-      "org": "r/SkincareAddiction",
-      "platform": "reddit",
-      "published": "2026-06-22T23:41:05.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Skincare",
-      "category": "Skincare",
-      "genre": "Skincare",
-      "categories": [
-        "Reddit",
-        "Skincare",
-        "r/SkincareAddiction"
-      ],
-      "summary": "I’ve had butt acne for years now and it’s been really frustrating. The bumps/scars have been there for a long time, but over the last couple of days I suddenly got these bigger, more inflamed and painful pimples and I haven’t changed anything in my routine that I can think of. I’m currently on Accutane 30mg and have…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/SkincareAddiction this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ucy9oj",
-      "title": "President Trump orders a national effort to build a quantum computer capable of performing important scientific calculations",
-      "link": "https://www.reddit.com/r/singularity/comments/1ucy9oj/president_trump_orders_a_national_effort_to_build/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/singularity · community knowledge",
-      "content_type": "post",
-      "author": "u/Distinct-Question-16 · r/singularity",
-      "handle": "singularity",
-      "org": "r/singularity",
-      "platform": "reddit",
-      "published": "2026-06-22T21:54:01.000Z",
-      "image": "https://external-preview.redd.it/aGJ0cmE5cDhvdzhoMfXbZp4nu3Rekdx1TDVYEC2fzMy7l8Vs3gQXcrpGQv36.png?width=320&crop=smart&auto=webp&s=e0e8162e9ddb7a4d1006f7717318fc5543e7b253",
-      "thumbnail": "https://external-preview.redd.it/aGJ0cmE5cDhvdzhoMfXbZp4nu3Rekdx1TDVYEC2fzMy7l8Vs3gQXcrpGQv36.png?width=320&crop=smart&auto=webp&s=e0e8162e9ddb7a4d1006f7717318fc5543e7b253",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/singularity"
-      ],
-      "summary": "&#x200B; ORDER 1: Launches a national effort to produce a quantum computer capable of performing important scientific calculations. It also aims to develop quantum-enabled sensors and networks within the next 5 years. ORDER 2: Directs federal agencies to transition their computer systems to quantum cryptography…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/singularity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ucy32w",
-      "title": "[PSA] eucerin shrinkflated their hydration night cream and thought we wouldn’t notice🤨",
-      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1ucy32w/psa_eucerin_shrinkflated_their_hydration_night/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/SkincareAddiction · community knowledge",
-      "content_type": "post",
-      "author": "u/gemsalts · r/SkincareAddiction",
-      "handle": "SkincareAddiction",
-      "org": "r/SkincareAddiction",
-      "platform": "reddit",
-      "published": "2026-06-22T21:46:58.000Z",
-      "image": "https://preview.redd.it/t4kkbckzmw8h1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=f60d860604cc429bd471d1eae3c1c297c00e018c",
-      "thumbnail": "https://preview.redd.it/t4kkbckzmw8h1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=f60d860604cc429bd471d1eae3c1c297c00e018c",
-      "section": "Skincare",
-      "category": "Skincare",
-      "genre": "Skincare",
-      "categories": [
-        "Reddit",
-        "Skincare",
-        "r/SkincareAddiction"
-      ],
-      "summary": "it seems like eucerin has redesigned/possibly reformulated their immersive hydration night cream; however in the process, they changed it from 2.5oz to 1.7oz of product, without changing the price (see pics). i bought the original one a few months ago and loved it; i especially loved the internal pump design which was…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/SkincareAddiction this week"
       ],
       "metrics": {
         "likes": 0,
