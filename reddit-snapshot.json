@@ -1,38 +1,76 @@
 {
-  "generated_at": "2026-06-28T18:11:26.049Z",
+  "generated_at": "2026-06-28T19:59:04.526Z",
   "subs": [
     "MachineLearning",
-    "longevity",
-    "hardware",
+    "artificial",
+    "running",
+    "investing",
     "science",
     "netsec",
+    "longevity",
     "bodyweightfitness",
     "programming",
     "gadgets",
     "LocalLLaMA",
     "startups",
-    "investing",
-    "artificial",
-    "running",
+    "hardware",
     "cybersecurity",
     "robotics",
     "nutrition",
     "Fitness",
-    "singularity",
-    "Futurology"
+    "singularity"
   ],
   "count": 36,
   "by_category": {
-    "Science": 6,
+    "Fitness": 6,
+    "Science": 5,
     "AI / ML": 8,
     "Security": 4,
-    "Fitness": 5,
     "Coding & Dev Tools": 2,
     "Hardware & Gadgets": 5,
     "Startups & Funding": 5,
     "Robotics": 1
   },
   "articles": [
+    {
+      "id": "reddit_1uhx7ud",
+      "title": "Race report - Grandma's Double Marathon",
+      "link": "https://www.reddit.com/r/running/comments/1uhx7ud/race_report_grandmas_double_marathon/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/running · community knowledge",
+      "content_type": "post",
+      "author": "u/PiBrickShop · r/running",
+      "handle": "running",
+      "org": "r/running",
+      "platform": "reddit",
+      "published": "2026-06-28T13:23:36.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/running"
+      ],
+      "summary": "Race info *Grandma&#39;s Marathon, Duluth, MN *Saturday, June 20, 2026 *26.2 miles x2 *11:19:42 (including the break between marathons) *Cool, humid, mix of clouds and sun NOTE: The first marathon is unofficial and unadvertized. The second marathon is the actual Grandmas Marathon - a top 10 largest marathon in the US.…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/running this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1uhl7ch",
       "title": "The mysterious \"cold blob\" in the North Atlantic is caused by a weakening AMOC ocean current, a new study confirms. Deep-water data proves this cooling isn't an atmospheric fluke, signaling a shift toward a major climate tipping point.",
@@ -144,6 +182,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/netsec this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1ugwccs",
+      "title": "So now scraping data without permission is bad for AI training all of sudden?",
+      "link": "https://www.reddit.com/r/artificial/comments/1ugwccs/so_now_scraping_data_without_permission_is_bad/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/artificial · community knowledge",
+      "content_type": "post",
+      "author": "u/base64-encode · r/artificial",
+      "handle": "artificial",
+      "org": "r/artificial",
+      "platform": "reddit",
+      "published": "2026-06-27T07:37:00.000Z",
+      "image": "https://preview.redd.it/36593how3s9h1.jpeg?width=640&crop=smart&auto=webp&s=feac65e2e17993de730f490dcc9f1fc02cad8434",
+      "thumbnail": "https://preview.redd.it/36593how3s9h1.jpeg?width=640&crop=smart&auto=webp&s=feac65e2e17993de730f490dcc9f1fc02cad8434",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/artificial"
+      ],
+      "summary": "So now scraping data without permission is bad for AI training all of sudden?",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/artificial this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1368,85 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/singularity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ue6sio",
-      "title": "Data center noise irks Virginia neighbors: ‘You just want to curse’, Neighbors have put mattresses and plexiglass up in their windows to block the noise from this data center in Virginia. It's a high pitched whine from the natural gas turbines that power it. The noise never stops 24/7. - NewsNation",
-      "link": "https://www.reddit.com/r/singularity/comments/1ue6sio/data_center_noise_irks_virginia_neighbors_you/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/singularity · community knowledge",
-      "content_type": "post",
-      "author": "u/Nikvest · r/singularity",
-      "handle": "singularity",
-      "org": "r/singularity",
-      "platform": "reddit",
-      "published": "2026-06-24T07:34:18.000Z",
-      "image": "https://external-preview.redd.it/ZjZsMjJ0dmtuNjloMQ6EdnhV2ou701vCBjuWUR25bh-vzTvkqkThnwvC1T1e.png?width=640&crop=smart&auto=webp&s=7d89dee26e82a5d81818927c22305d0fc3519600",
-      "thumbnail": "https://external-preview.redd.it/ZjZsMjJ0dmtuNjloMQ6EdnhV2ou701vCBjuWUR25bh-vzTvkqkThnwvC1T1e.png?width=640&crop=smart&auto=webp&s=7d89dee26e82a5d81818927c22305d0fc3519600",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/singularity"
-      ],
-      "summary": "This sub wonders why people hate data centers so much, how do you defend this? &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/singularity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ue53yv",
-      "title": "Robots will replace 700K delivery workers, warns head of e-commerce giant",
-      "link": "https://www.reddit.com/r/Futurology/comments/1ue53yv/robots_will_replace_700k_delivery_workers_warns/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/Futurology · community knowledge",
-      "content_type": "post",
-      "author": "u/EchoOfOppenheimer · r/Futurology",
-      "handle": "Futurology",
-      "org": "r/Futurology",
-      "platform": "reddit",
-      "published": "2026-06-24T05:57:04.000Z",
-      "image": "https://external-preview.redd.it/knJX_jbKLdEqDB5he1Rf3W-195kSCe45ny5EhSoFXAk.jpeg?width=640&crop=smart&auto=webp&s=becd125b5a14a74e03d149e1f12066f657e8e5a5",
-      "thumbnail": "https://external-preview.redd.it/knJX_jbKLdEqDB5he1Rf3W-195kSCe45ny5EhSoFXAk.jpeg?width=640&crop=smart&auto=webp&s=becd125b5a14a74e03d149e1f12066f657e8e5a5",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/Futurology"
-      ],
-      "summary": "Robots will replace 700K delivery workers, warns head of e-commerce giant",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/Futurology this week"
       ],
       "metrics": {
         "likes": 0,
