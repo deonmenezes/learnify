@@ -1,30 +1,29 @@
 {
-  "generated_at": "2026-06-28T19:59:04.526Z",
+  "generated_at": "2026-06-28T21:09:48.898Z",
   "subs": [
     "MachineLearning",
-    "artificial",
+    "programming",
+    "cybersecurity",
     "running",
-    "investing",
     "science",
     "netsec",
+    "artificial",
     "longevity",
     "bodyweightfitness",
-    "programming",
     "gadgets",
     "LocalLLaMA",
     "startups",
     "hardware",
-    "cybersecurity",
+    "investing",
     "robotics",
     "nutrition",
-    "Fitness",
-    "singularity"
+    "Fitness"
   ],
   "count": 36,
   "by_category": {
     "Fitness": 6,
-    "Science": 5,
     "AI / ML": 8,
+    "Science": 5,
     "Security": 4,
     "Coding & Dev Tools": 2,
     "Hardware & Gadgets": 5,
@@ -64,6 +63,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/running this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uhw7fu",
+      "title": "I shrank a transformer until every number fitted on the screen and made the weights editable [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uhw7fu/i_shrank_a_transformer_until_every_number_fitted/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/MachineLearning · community knowledge",
+      "content_type": "post",
+      "author": "u/DanielMoGo · r/MachineLearning",
+      "handle": "MachineLearning",
+      "org": "r/MachineLearning",
+      "platform": "reddit",
+      "published": "2026-06-28T12:35:42.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/MachineLearning"
+      ],
+      "summary": "I&#39;ve been teaching myself how LLMs actually work, not at the API level, but down to the matrix multiplications. To force myself to really understand the forward pass, I first built a complete transformer by hand in a spreadsheet from embeddings through to the loss. Then I turned the forward pass into a web page so…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/MachineLearning this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1406,46 +1445,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Fitness this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ue6yoh",
-      "title": "Japanese animator using Seedance to render anime from simple 3D models",
-      "link": "https://www.reddit.com/r/singularity/comments/1ue6yoh/japanese_animator_using_seedance_to_render_anime/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/singularity · community knowledge",
-      "content_type": "post",
-      "author": "u/PointmanW · r/singularity",
-      "handle": "singularity",
-      "org": "r/singularity",
-      "platform": "reddit",
-      "published": "2026-06-24T07:44:50.000Z",
-      "image": "https://external-preview.redd.it/MGd2N2JyaGtxNjloMf8KTGVSsZkCgVLnPVhmH3KMCGgyH_No49UIn2ot8Fua.png?width=640&crop=smart&auto=webp&s=d1cbf13ce5a154c98e49f5619b5d2f5cec4ac3b6",
-      "thumbnail": "https://external-preview.redd.it/MGd2N2JyaGtxNjloMf8KTGVSsZkCgVLnPVhmH3KMCGgyH_No49UIn2ot8Fua.png?width=640&crop=smart&auto=webp&s=d1cbf13ce5a154c98e49f5619b5d2f5cec4ac3b6",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/singularity"
-      ],
-      "summary": "Japanese animator using Seedance to render anime from simple 3D models",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/singularity this week"
       ],
       "metrics": {
         "likes": 0,
