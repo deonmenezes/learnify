@@ -1,38 +1,77 @@
 {
-  "generated_at": "2026-06-28T13:58:12.638Z",
+  "generated_at": "2026-06-28T15:24:41.233Z",
   "subs": [
     "MachineLearning",
-    "bodyweightfitness",
-    "startups",
+    "science",
+    "netsec",
     "longevity",
+    "bodyweightfitness",
     "programming",
     "gadgets",
     "LocalLLaMA",
+    "startups",
     "hardware",
     "investing",
     "artificial",
     "running",
     "cybersecurity",
     "robotics",
-    "netsec",
     "nutrition",
-    "science",
     "Fitness",
     "singularity",
     "Futurology"
   ],
   "count": 36,
   "by_category": {
-    "AI / ML": 9,
-    "Science": 5,
+    "Science": 6,
+    "AI / ML": 8,
+    "Security": 4,
     "Fitness": 5,
     "Coding & Dev Tools": 2,
-    "Hardware & Gadgets": 6,
+    "Hardware & Gadgets": 5,
     "Startups & Funding": 5,
-    "Security": 3,
     "Robotics": 1
   },
   "articles": [
+    {
+      "id": "reddit_1uhl7ch",
+      "title": "The mysterious \"cold blob\" in the North Atlantic is caused by a weakening AMOC ocean current, a new study confirms. Deep-water data proves this cooling isn't an atmospheric fluke, signaling a shift toward a major climate tipping point.",
+      "link": "https://www.reddit.com/r/science/comments/1uhl7ch/the_mysterious_cold_blob_in_the_north_atlantic_is/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/science · community knowledge",
+      "content_type": "post",
+      "author": "u/DrPharmakon · r/science",
+      "handle": "science",
+      "org": "r/science",
+      "platform": "reddit",
+      "published": "2026-06-28T02:32:27.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/science"
+      ],
+      "summary": "The mysterious \"cold blob\" in the North Atlantic is caused by a weakening AMOC ocean current, a new study confirms. Deep-water data proves this cooling isn't an atmospheric fluke, signaling a shift toward a major climate tipping point.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/science this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1uhatw8",
       "title": "MathFormer: Testing whether symbolic math is pattern matching or reasoning [D]",
@@ -66,6 +105,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uh7zpx",
+      "title": "A peek into Reddit's anti-spam internals",
+      "link": "https://www.reddit.com/r/netsec/comments/1uh7zpx/a_peek_into_reddits_antispam_internals/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/netsec · community knowledge",
+      "content_type": "post",
+      "author": "u/rebane2001 · r/netsec",
+      "handle": "netsec",
+      "org": "r/netsec",
+      "platform": "reddit",
+      "published": "2026-06-27T17:03:25.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/netsec"
+      ],
+      "summary": "A peek into Reddit's anti-spam internals",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/netsec this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1369,85 +1447,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Futurology this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ue51wf",
-      "title": "Meta’s New AI Smart Glasses Drop Ray-Ban Branding and Add Kylie Jenner",
-      "link": "https://www.reddit.com/r/gadgets/comments/1ue51wf/metas_new_ai_smart_glasses_drop_rayban_branding/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/gadgets · community knowledge",
-      "content_type": "post",
-      "author": "u/dapperlemon · r/gadgets",
-      "handle": "gadgets",
-      "org": "r/gadgets",
-      "platform": "reddit",
-      "published": "2026-06-24T05:53:54.000Z",
-      "image": "https://external-preview.redd.it/hBukBCVTEXgvV-wd-kY89x0t0BF23xvs9dTcl0ZWZgg.jpeg?width=640&crop=smart&auto=webp&s=516219510f1aba15937639c2c904883e9a69ca84",
-      "thumbnail": "https://external-preview.redd.it/hBukBCVTEXgvV-wd-kY89x0t0BF23xvs9dTcl0ZWZgg.jpeg?width=640&crop=smart&auto=webp&s=516219510f1aba15937639c2c904883e9a69ca84",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/gadgets"
-      ],
-      "summary": "Meta’s New AI Smart Glasses Drop Ray-Ban Branding and Add Kylie Jenner",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/gadgets this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ue51uk",
-      "title": "Unlimited-OCR is now on ModelScope! A 3.3B multilingual OCR model for one-shot parsing across single images, multi-page documents, and PDFs. License: MIT",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1ue51uk/unlimitedocr_is_now_on_modelscope_a_33b/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/LocalLLaMA · community knowledge",
-      "content_type": "post",
-      "author": "u/Sporeboss · r/LocalLLaMA",
-      "handle": "LocalLLaMA",
-      "org": "r/LocalLLaMA",
-      "platform": "reddit",
-      "published": "2026-06-24T05:53:49.000Z",
-      "image": "https://external-preview.redd.it/eDVseHc2dGY2NjloMRjuwBG_We25XN8jEw_afS8_MTEG560MD4vWFWe_JI83.png?width=640&crop=smart&auto=webp&s=8c22af80bc2cbb91118b0a503ade21a10ab911fc",
-      "thumbnail": "https://external-preview.redd.it/eDVseHc2dGY2NjloMRjuwBG_We25XN8jEw_afS8_MTEG560MD4vWFWe_JI83.png?width=640&crop=smart&auto=webp&s=8c22af80bc2cbb91118b0a503ade21a10ab911fc",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/LocalLLaMA"
-      ],
-      "summary": "Full-document parsing instead of cropped-region OCR 32K output length for long OCR sequences Base and gundam image modes for different document layouts Transformers inference + SGLang serving with OpenAI-compatible streaming requests Built to push DeepSeek-OCR-style document parsing further. source:…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/LocalLLaMA this week"
       ],
       "metrics": {
         "likes": 0,
