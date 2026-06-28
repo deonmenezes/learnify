@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-06-28T01:38:35.677Z",
+  "generated_at": "2026-06-28T06:26:26.948Z",
   "subs": [
     "MachineLearning",
-    "Futurology",
-    "netsec",
     "longevity",
+    "hardware",
     "bodyweightfitness",
     "programming",
     "gadgets",
     "LocalLLaMA",
     "startups",
-    "hardware",
     "investing",
     "artificial",
     "running",
     "cybersecurity",
     "robotics",
+    "netsec",
     "nutrition",
     "science",
     "Fitness",
-    "singularity"
+    "singularity",
+    "Futurology"
   ],
   "count": 36,
   "by_category": {
-    "Science": 5,
     "AI / ML": 9,
+    "Science": 5,
     "Fitness": 5,
     "Coding & Dev Tools": 2,
     "Hardware & Gadgets": 6,
@@ -33,6 +33,46 @@
     "Robotics": 1
   },
   "articles": [
+    {
+      "id": "reddit_1uhatw8",
+      "title": "MathFormer: Testing whether symbolic math is pattern matching or reasoning [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uhatw8/mathformer_testing_whether_symbolic_math_is/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/MachineLearning · community knowledge",
+      "content_type": "post",
+      "author": "u/AlphaCode1 · r/MachineLearning",
+      "handle": "MachineLearning",
+      "org": "r/MachineLearning",
+      "platform": "reddit",
+      "published": "2026-06-27T18:57:56.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/MachineLearning"
+      ],
+      "summary": "Repo link and results - https://github.com/Abhinand20/MathFormer Task: Given a factorized expression like (7-3*z)*(-5*z-9), predict the expanded form -&gt; 15*z\\*2-8\\*z-63 Key takeaway: A tiny (4M param) seq2seq model trained with no math knowledge reaches ~98.6% accuracy on symbolic math tasks, suggesting it learns…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1ugdq5w",
       "title": "Scientists found that aging muscle stops sending a molecular signal that suppresses tumor growth, and exercise can switch it back on",
@@ -1408,46 +1448,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/LocalLLaMA this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ue0hlp",
-      "title": "DeepSWE: new benchmark looking at how well today's frontier models can actually write code [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1ue0hlp/deepswe_new_benchmark_looking_at_how_well_todays/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/MachineLearning · community knowledge",
-      "content_type": "post",
-      "author": "u/we_are_mammals · r/MachineLearning",
-      "handle": "MachineLearning",
-      "org": "r/MachineLearning",
-      "platform": "reddit",
-      "published": "2026-06-24T02:03:34.000Z",
-      "image": "https://preview.redd.it/lacvagyr159h1.png?width=140&height=89&auto=webp&s=14f97a97511fbfe2fd767e4dc986ce0b4da5c73e",
-      "thumbnail": "https://preview.redd.it/lacvagyr159h1.png?width=140&height=89&auto=webp&s=14f97a97511fbfe2fd767e4dc986ce0b4da5c73e",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/MachineLearning"
-      ],
-      "summary": "DeepSWE delivers four advances over existing public benchmarks: Contamination free: Tasks are written from scratch, not adapted from existing commits or PRs, so no model has seen the solution during pretraining. High diversity: Tasks span a broad pool of 91 repositories across 5 languages. Real-world complexity:…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/MachineLearning this week"
       ],
       "metrics": {
         "likes": 0,
