@@ -1,36 +1,76 @@
 {
-  "generated_at": "2026-06-29T00:16:30.942Z",
+  "generated_at": "2026-06-29T05:17:04.599Z",
   "subs": [
     "MachineLearning",
-    "Futurology",
-    "gadgets",
+    "LocalLLaMA",
     "running",
+    "investing",
+    "Futurology",
     "science",
     "netsec",
     "artificial",
     "longevity",
     "bodyweightfitness",
     "programming",
-    "LocalLLaMA",
+    "gadgets",
     "startups",
     "hardware",
-    "investing",
     "cybersecurity",
     "robotics",
     "nutrition"
   ],
   "count": 36,
   "by_category": {
+    "AI / ML": 9,
     "Science": 6,
-    "Fitness": 5,
-    "AI / ML": 8,
+    "Fitness": 4,
     "Security": 4,
     "Coding & Dev Tools": 2,
-    "Hardware & Gadgets": 5,
-    "Startups & Funding": 5,
+    "Hardware & Gadgets": 4,
+    "Startups & Funding": 6,
     "Robotics": 1
   },
   "articles": [
+    {
+      "id": "reddit_1ui241x",
+      "title": "The number 1 public enemy of open-source.",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1ui241x/the_number_1_public_enemy_of_opensource/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/LocalLLaMA · community knowledge",
+      "content_type": "post",
+      "author": "u/Complete-Sea6655 · r/LocalLLaMA",
+      "handle": "LocalLLaMA",
+      "org": "r/LocalLLaMA",
+      "platform": "reddit",
+      "published": "2026-06-28T16:44:47.000Z",
+      "image": "https://external-preview.redd.it/cnp5ZWZ0ZGd5MWFoMRDTe4Q1MMfh41wCu0sV8yUEjL2kaQBpE58TnIU2R6DS.png?width=640&crop=smart&auto=webp&s=5528cf45daa2e9046360fdebff2fda176621b665",
+      "thumbnail": "https://external-preview.redd.it/cnp5ZWZ0ZGd5MWFoMRDTe4Q1MMfh41wCu0sV8yUEjL2kaQBpE58TnIU2R6DS.png?width=640&crop=smart&auto=webp&s=5528cf45daa2e9046360fdebff2fda176621b665",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/LocalLLaMA"
+      ],
+      "summary": "Dario&#39;s args: &quot;Opensource you can see the source, here you cannot see inside the model&quot; - yes you can that&#39;s literally the open weights part btw. - I cannot see the weights inside Claude, but I can GLM 5.2 - Models like Nemotron3 Ultra go further, all the data, training scripts, and model is…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/LocalLLaMA this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1ui1wef",
       "title": "Should there be a legal “talk to a human” button before AI customer service becomes the default?",
@@ -142,6 +182,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uht2m0",
+      "title": "We're probably going to need that soon.",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1uht2m0/were_probably_going_to_need_that_soon/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/LocalLLaMA · community knowledge",
+      "content_type": "post",
+      "author": "u/Nunki08 · r/LocalLLaMA",
+      "handle": "LocalLLaMA",
+      "org": "r/LocalLLaMA",
+      "platform": "reddit",
+      "published": "2026-06-28T09:46:12.000Z",
+      "image": "https://preview.redd.it/a2scxop2vz9h1.jpg?width=140&height=105&auto=webp&s=5682e984606a883c6082b5fb9a61155b3328edab",
+      "thumbnail": "https://preview.redd.it/a2scxop2vz9h1.jpg?width=140&height=105&auto=webp&s=5682e984606a883c6082b5fb9a61155b3328edab",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/LocalLLaMA"
+      ],
+      "summary": "From: Vladik on 𝕏: https://x.com/Kostoglodov/status/2071144065857679631 Shaw (spirit/acc) on 𝕏: https://x.com/shawmakesmagic/status/2070918006033817867 &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/LocalLLaMA this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1137,6 +1217,46 @@
       }
     },
     {
+      "id": "reddit_1uepztm",
+      "title": "How do you explain to people investing does not equal greed",
+      "link": "https://www.reddit.com/r/investing/comments/1uepztm/how_do_you_explain_to_people_investing_does_not/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/investing · community knowledge",
+      "content_type": "post",
+      "author": "u/CporCv · r/investing",
+      "handle": "investing",
+      "org": "r/investing",
+      "platform": "reddit",
+      "published": "2026-06-24T21:06:49.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/investing"
+      ],
+      "summary": "Greed is the root of all evil &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/investing this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1ueopli",
       "title": "A damage accumulation model identifies distinct aging regimes across species",
       "link": "https://www.reddit.com/r/longevity/comments/1ueopli/a_damage_accumulation_model_identifies_distinct/",
@@ -1327,124 +1447,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/nutrition this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uef3cm",
-      "title": "What was the biggest mistake you made when starting bodyweight training?",
-      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1uef3cm/what_was_the_biggest_mistake_you_made_when/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/bodyweightfitness · community knowledge",
-      "content_type": "post",
-      "author": "u/Vital_Life_Balance · r/bodyweightfitness",
-      "handle": "bodyweightfitness",
-      "org": "r/bodyweightfitness",
-      "platform": "reddit",
-      "published": "2026-06-24T14:28:42.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/bodyweightfitness"
-      ],
-      "summary": "I&#39;m relatively new to bodyweight training and have been reading a lot of advice online. One thing I&#39;ve noticed is that there seems to be a lot of information available, and sometimes it&#39;s difficult to know what advice is actually important for beginners. Looking back, what&#39;s the biggest mistake you…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/bodyweightfitness this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uec3b8",
-      "title": "Valve Steam Machine sells out in Japan despite $1,175 starting price",
-      "link": "https://www.reddit.com/r/hardware/comments/1uec3b8/valve_steam_machine_sells_out_in_japan_despite/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/hardware · community knowledge",
-      "content_type": "post",
-      "author": "u/TurbulentTopic39 · r/hardware",
-      "handle": "hardware",
-      "org": "r/hardware",
-      "platform": "reddit",
-      "published": "2026-06-24T12:26:19.000Z",
-      "image": "https://external-preview.redd.it/tALCwOBXr0jgfuUz4ROLJYXcvBaFLnafh8f1RwwJUI8.jpeg?width=640&crop=smart&auto=webp&s=71ef24de8320fe74c2af16c44865384170f157f8",
-      "thumbnail": "https://external-preview.redd.it/tALCwOBXr0jgfuUz4ROLJYXcvBaFLnafh8f1RwwJUI8.jpeg?width=640&crop=smart&auto=webp&s=71ef24de8320fe74c2af16c44865384170f157f8",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/hardware"
-      ],
-      "summary": "Valve Steam Machine sells out in Japan despite $1,175 starting price",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/hardware this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ueaya4",
-      "title": "We chased a hallucinated quote through 30k training records, 4,600 transcripts, and our own system prompt. Turned out to be two separate bugs",
-      "link": "https://www.reddit.com/r/artificial/comments/1ueaya4/we_chased_a_hallucinated_quote_through_30k/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/artificial · community knowledge",
-      "content_type": "post",
-      "author": "u/Sardzoski · r/artificial",
-      "handle": "artificial",
-      "org": "r/artificial",
-      "platform": "reddit",
-      "published": "2026-06-24T11:32:18.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/artificial"
-      ],
-      "summary": "Some of our customers noticed Inter-1 (our omni-modal social-signal model) would occasionally &quot;hear&quot; a quote that didn&#39;t exist. Feed it a video with zero audio and ask what was said, and it would sometimes report: &quot;Yeah, Friday at five.&quot; Verbatim. Same line, every time. We assumed it had to be…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/artificial this week"
       ],
       "metrics": {
         "likes": 0,
