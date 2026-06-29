@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-06-29T10:13:19.540Z",
+  "generated_at": "2026-06-29T14:38:50.522Z",
   "subs": [
     "MachineLearning",
-    "Fitness",
-    "robotics",
+    "programming",
+    "SkincareAddiction",
     "LocalLLaMA",
     "Futurology",
     "running",
     "science",
+    "robotics",
     "netsec",
     "artificial",
     "longevity",
     "bodyweightfitness",
-    "programming",
     "gadgets",
     "startups",
     "hardware",
@@ -21,11 +21,12 @@
   ],
   "count": 36,
   "by_category": {
-    "AI / ML": 9,
+    "AI / ML": 8,
     "Science": 6,
     "Fitness": 3,
     "Robotics": 3,
     "Security": 3,
+    "Skincare": 1,
     "Coding & Dev Tools": 2,
     "Hardware & Gadgets": 4,
     "Startups & Funding": 6
@@ -418,6 +419,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/netsec this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uh3ccs",
+      "title": "[misc] Cat scratched my face 3 weeks before my Bachelorette & 5 weeks before my wedding. Advice for healing?",
+      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1uh3ccs/misc_cat_scratched_my_face_3_weeks_before_my/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/SkincareAddiction · community knowledge",
+      "content_type": "post",
+      "author": "u/SunshineEnthusiast · r/SkincareAddiction",
+      "handle": "SkincareAddiction",
+      "org": "r/SkincareAddiction",
+      "platform": "reddit",
+      "published": "2026-06-27T13:52:14.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Skincare",
+      "category": "Skincare",
+      "genre": "Skincare",
+      "categories": [
+        "Reddit",
+        "Skincare",
+        "r/SkincareAddiction"
+      ],
+      "summary": "Cat had the zoomies this morning and jumped on my face while I was sleeping. I’ve been working so hard on my skin and this just feels like a gut punch… please excuse the puffy and red face, I had a good cry before these photos I washed it with gentle cleanser and applied aquaphor. Is there anything else I can do to…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/SkincareAddiction this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1406,46 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/netsec this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ueiam6",
-      "title": "Find the best open-source OCR models in one place at Papers with Code [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1ueiam6/find_the_best_opensource_ocr_models_in_one_place/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/MachineLearning · community knowledge",
-      "content_type": "post",
-      "author": "u/NielsRogge · r/MachineLearning",
-      "handle": "MachineLearning",
-      "org": "r/MachineLearning",
-      "platform": "reddit",
-      "published": "2026-06-24T16:26:21.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/MachineLearning"
-      ],
-      "summary": "Hi, I&#39;ve created an overview of the most important OCR benchmarks, along with the top open models, and links to their paper and code: https://paperswithcode.co/tasks/ocr . This week, new OCR models were released by Baidu and Mistral. Baidu released Unlimited OCR , a 3B-parameter model that introduces a key…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/MachineLearning this week"
       ],
       "metrics": {
         "likes": 0,
