@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-06-29T21:57:20.469Z",
+  "generated_at": "2026-06-29T23:05:44.016Z",
   "subs": [
     "MachineLearning",
-    "Fitness",
-    "robotics",
+    "programming",
+    "cybersecurity",
     "Futurology",
     "LocalLLaMA",
     "running",
     "gadgets",
     "science",
+    "robotics",
     "longevity",
     "netsec",
     "SkincareAddiction",
     "artificial",
     "bodyweightfitness",
-    "programming",
     "startups",
     "hardware",
     "investing"
@@ -26,10 +26,10 @@
     "Fitness": 3,
     "Hardware & Gadgets": 5,
     "Robotics": 3,
-    "Security": 1,
+    "Security": 3,
     "Skincare": 1,
-    "Coding & Dev Tools": 2,
-    "Startups & Funding": 5
+    "Coding & Dev Tools": 1,
+    "Startups & Funding": 4
   },
   "articles": [
     {
@@ -823,6 +823,45 @@
       }
     },
     {
+      "id": "reddit_1ug556r",
+      "title": "Ex-Huntress analyst claims company insider fed info to a ransomware crim. Social media drama ensues",
+      "link": "https://www.reddit.com/r/cybersecurity/comments/1ug556r/exhuntress_analyst_claims_company_insider_fed/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/cybersecurity · community knowledge",
+      "content_type": "post",
+      "author": "u/intelw1zard · r/cybersecurity",
+      "handle": "cybersecurity",
+      "org": "r/cybersecurity",
+      "platform": "reddit",
+      "published": "2026-06-26T12:15:10.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/cybersecurity"
+      ],
+      "summary": "Ex-Huntress analyst claims company insider fed info to a ransomware crim. Social media drama ensues",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/cybersecurity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1ug0t6w",
       "title": "So how did you all get into 15+ pull ups",
       "link": "https://www.reddit.com/r/bodyweightfitness/comments/1ug0t6w/so_how_did_you_all_get_into_15_pull_ups/",
@@ -932,6 +971,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/gadgets this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1ufrzi2",
+      "title": "Bad cybersecurity by Secret Service agents put US officials at risk, inspector general says",
+      "link": "https://www.reddit.com/r/cybersecurity/comments/1ufrzi2/bad_cybersecurity_by_secret_service_agents_put_us/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/cybersecurity · community knowledge",
+      "content_type": "post",
+      "author": "u/Fcking_Chuck · r/cybersecurity",
+      "handle": "cybersecurity",
+      "org": "r/cybersecurity",
+      "platform": "reddit",
+      "published": "2026-06-26T00:52:49.000Z",
+      "image": "https://external-preview.redd.it/O05gCpjkKqmGx7oQ7vH6rVn-7B1wiFHvJI5r0bVZOh0.jpeg?width=640&crop=smart&auto=webp&s=7c9cc5ad07a44e9910dce3b79ebcf3d4ea833f42",
+      "thumbnail": "https://external-preview.redd.it/O05gCpjkKqmGx7oQ7vH6rVn-7B1wiFHvJI5r0bVZOh0.jpeg?width=640&crop=smart&auto=webp&s=7c9cc5ad07a44e9910dce3b79ebcf3d4ea833f42",
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/cybersecurity"
+      ],
+      "summary": "Bad cybersecurity by Secret Service agents put US officials at risk, inspector general says",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/cybersecurity this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1367,85 +1445,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/running this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uevttg",
-      "title": "How to Write an Effective Software Design Document",
-      "link": "https://www.reddit.com/r/programming/comments/1uevttg/how_to_write_an_effective_software_design_document/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/programming · community knowledge",
-      "content_type": "post",
-      "author": "u/mtlynch · r/programming",
-      "handle": "programming",
-      "org": "r/programming",
-      "platform": "reddit",
-      "published": "2026-06-25T01:09:56.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Coding & Dev Tools",
-      "category": "Coding & Dev Tools",
-      "genre": "Coding & Dev Tools",
-      "categories": [
-        "Reddit",
-        "Coding & Dev Tools",
-        "r/programming"
-      ],
-      "summary": "How to Write an Effective Software Design Document",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/programming this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uev5u0",
-      "title": "Micron quadruples revenue, +14% after hours.",
-      "link": "https://www.reddit.com/r/investing/comments/1uev5u0/micron_quadruples_revenue_14_after_hours/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/investing · community knowledge",
-      "content_type": "post",
-      "author": "u/mulletstation · r/investing",
-      "handle": "investing",
-      "org": "r/investing",
-      "platform": "reddit",
-      "published": "2026-06-25T00:39:39.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/investing"
-      ],
-      "summary": "Revenue: $41.46 billion versus $35.84 billion estimated EPS: $25.11, adjusted, versus $20.78 estimated Gross Margin: Adjusted gross margins hit a record-breaking 84.9%, topping tech leaders like Nvidia and Meta. Data Center Strength: Driven by skyrocketing AI memory demand, data-center sales soared 415% year-over-year…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/investing this week"
       ],
       "metrics": {
         "likes": 0,
