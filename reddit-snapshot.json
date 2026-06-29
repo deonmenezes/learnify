@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-06-29T05:17:04.599Z",
+  "generated_at": "2026-06-29T10:13:19.540Z",
   "subs": [
     "MachineLearning",
+    "Fitness",
+    "robotics",
     "LocalLLaMA",
-    "running",
-    "investing",
     "Futurology",
+    "running",
     "science",
     "netsec",
     "artificial",
@@ -15,20 +16,19 @@
     "gadgets",
     "startups",
     "hardware",
-    "cybersecurity",
-    "robotics",
-    "nutrition"
+    "investing",
+    "cybersecurity"
   ],
   "count": 36,
   "by_category": {
     "AI / ML": 9,
     "Science": 6,
-    "Fitness": 4,
-    "Security": 4,
+    "Fitness": 3,
+    "Robotics": 3,
+    "Security": 3,
     "Coding & Dev Tools": 2,
     "Hardware & Gadgets": 4,
-    "Startups & Funding": 6,
-    "Robotics": 1
+    "Startups & Funding": 6
   },
   "articles": [
     {
@@ -300,6 +300,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/science this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uhi9z5",
+      "title": "Help understanding this mechanism",
+      "link": "https://www.reddit.com/r/robotics/comments/1uhi9z5/help_understanding_this_mechanism/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/robotics · community knowledge",
+      "content_type": "post",
+      "author": "u/halxcyion · r/robotics",
+      "handle": "robotics",
+      "org": "r/robotics",
+      "platform": "reddit",
+      "published": "2026-06-28T00:13:19.000Z",
+      "image": "https://external-preview.redd.it/MzhhMWZlZ2IxeDloMXF66815Y4BM6h01MGuhHx-BMhAHyUkK325bvl_WO8LB.png?width=640&crop=smart&auto=webp&s=4948e28571de7eb37a8549a7746095ac92749971",
+      "thumbnail": "https://external-preview.redd.it/MzhhMWZlZ2IxeDloMXF66815Y4BM6h01MGuhHx-BMhAHyUkK325bvl_WO8LB.png?width=640&crop=smart&auto=webp&s=4948e28571de7eb37a8549a7746095ac92749971",
+      "section": "Robotics",
+      "category": "Robotics",
+      "genre": "Robotics",
+      "categories": [
+        "Reddit",
+        "Robotics",
+        "r/robotics"
+      ],
+      "summary": "Hello all, I am trying to recreate this mechanism as a personal project - and I am really having trouble wrapping my head around how it works. The knees and below make perfect sense, but the hips are throwing me off. What is the purpose of the 2 perpendicular motors at the top? The ones facing horizontally? And how…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/robotics this week"
       ],
       "metrics": {
         "likes": 0,
@@ -862,6 +901,45 @@
       }
     },
     {
+      "id": "reddit_1ufc17m",
+      "title": "I built a KUKA-Inspired Robotic Arm",
+      "link": "https://www.reddit.com/r/robotics/comments/1ufc17m/i_built_a_kukainspired_robotic_arm/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/robotics · community knowledge",
+      "content_type": "post",
+      "author": "u/RoboDIYer · r/robotics",
+      "handle": "robotics",
+      "org": "r/robotics",
+      "platform": "reddit",
+      "published": "2026-06-25T14:43:23.000Z",
+      "image": "https://preview.redd.it/0mx02ui5yf9h1.jpg?width=140&height=105&auto=webp&s=bec74f99126809d8f5546fba04436ee9feca4c49",
+      "thumbnail": "https://preview.redd.it/0mx02ui5yf9h1.jpg?width=140&height=105&auto=webp&s=bec74f99126809d8f5546fba04436ee9feca4c49",
+      "section": "Robotics",
+      "category": "Robotics",
+      "genre": "Robotics",
+      "categories": [
+        "Reddit",
+        "Robotics",
+        "r/robotics"
+      ],
+      "summary": "I designed this 5DOF robotic arm inspired by the KUKA KR4 Agilus. The goal was to keep all the servos hidden inside the structure, giving the arm a cleaner and more professional look. It also features a TPU-printed gripper actuated by a servo. I’m currently working on the kinematics and a custom PCB for the…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/robotics this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1ufb5vb",
       "title": "What founders do after building a company? I will not promote",
       "link": "https://www.reddit.com/r/startups/comments/1ufb5vb/what_founders_do_after_building_a_company_i_will/",
@@ -1368,85 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uehcps",
-      "title": "Well someone went nuclear..",
-      "link": "https://www.reddit.com/r/cybersecurity/comments/1uehcps/well_someone_went_nuclear/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/cybersecurity · community knowledge",
-      "content_type": "post",
-      "author": "u/mando_6 · r/cybersecurity",
-      "handle": "cybersecurity",
-      "org": "r/cybersecurity",
-      "platform": "reddit",
-      "published": "2026-06-24T15:52:16.000Z",
-      "image": "https://external-preview.redd.it/GVc4RBhrrDZLOMi4WMBw5Ro2pbCXLy_yoYsuC9q28r4.jpeg?width=640&crop=smart&auto=webp&s=1c36e35b1dace313c25db0e04396d2bced851129",
-      "thumbnail": "https://external-preview.redd.it/GVc4RBhrrDZLOMi4WMBw5Ro2pbCXLy_yoYsuC9q28r4.jpeg?width=640&crop=smart&auto=webp&s=1c36e35b1dace313c25db0e04396d2bced851129",
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/cybersecurity"
-      ],
-      "summary": "I&#39;m curious about the details of this. I&#39;m sure we will all find out eventually. TLDR; former Huntress employee is disclosing Huntress had an insider threat that leaked information to a known cyber criminal &quot;Devman&quot;. That employee is still employed with Huntress and was caught by the FBI. The former…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/cybersecurity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uegkx1",
-      "title": "What is something society has wrongly convinced everyone is bad for their health?",
-      "link": "https://www.reddit.com/r/nutrition/comments/1uegkx1/what_is_something_society_has_wrongly_convinced/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/nutrition · community knowledge",
-      "content_type": "post",
-      "author": "u/Andries200 · r/nutrition",
-      "handle": "nutrition",
-      "org": "r/nutrition",
-      "platform": "reddit",
-      "published": "2026-06-24T15:23:52.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Nutrition",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "Nutrition",
-        "r/nutrition"
-      ],
-      "summary": "I&#39;m looking for things like specific foods, sleep habits, or lifestyles that people constantly judge, even though they aren&#39;t actually harmful at all. &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/nutrition this week"
       ],
       "metrics": {
         "likes": 0,
