@@ -1,13 +1,14 @@
 {
-  "generated_at": "2026-06-28T22:39:28.660Z",
+  "generated_at": "2026-06-29T00:16:30.942Z",
   "subs": [
     "MachineLearning",
-    "longevity",
+    "Futurology",
     "gadgets",
     "running",
     "science",
     "netsec",
     "artificial",
+    "longevity",
     "bodyweightfitness",
     "programming",
     "LocalLLaMA",
@@ -16,14 +17,13 @@
     "investing",
     "cybersecurity",
     "robotics",
-    "nutrition",
-    "Fitness"
+    "nutrition"
   ],
   "count": 36,
   "by_category": {
-    "Fitness": 6,
+    "Science": 6,
+    "Fitness": 5,
     "AI / ML": 8,
-    "Science": 5,
     "Security": 4,
     "Coding & Dev Tools": 2,
     "Hardware & Gadgets": 5,
@@ -31,6 +31,45 @@
     "Robotics": 1
   },
   "articles": [
+    {
+      "id": "reddit_1ui1wef",
+      "title": "Should there be a legal “talk to a human” button before AI customer service becomes the default?",
+      "link": "https://www.reddit.com/r/Futurology/comments/1ui1wef/should_there_be_a_legal_talk_to_a_human_button/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/Futurology · community knowledge",
+      "content_type": "post",
+      "author": "u/ChessOrCheckers2 · r/Futurology",
+      "handle": "Futurology",
+      "org": "r/Futurology",
+      "platform": "reddit",
+      "published": "2026-06-28T16:36:12.000Z",
+      "image": "https://external-preview.redd.it/XIes72bRj2DllXtM-sMFXH_j3oSRzvw82slCXuOfRoY.jpeg?width=640&crop=smart&auto=webp&s=a1fbb22d00483f9b8d7c1f1dc0ee31b2ac27b35f",
+      "thumbnail": "https://external-preview.redd.it/XIes72bRj2DllXtM-sMFXH_j3oSRzvw82slCXuOfRoY.jpeg?width=640&crop=smart&auto=webp&s=a1fbb22d00483f9b8d7c1f1dc0ee31b2ac27b35f",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/Futurology"
+      ],
+      "summary": "Should there be a legal “talk to a human” button before AI customer service becomes the default?",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/Futurology this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1uhx7ud",
       "title": "Race report - Grandma's Double Marathon",
@@ -103,6 +142,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uhnzih",
+      "title": "60% of TikTok videos are AI slop; 21% of YouTube ones",
+      "link": "https://www.reddit.com/r/Futurology/comments/1uhnzih/60_of_tiktok_videos_are_ai_slop_21_of_youtube_ones/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/Futurology · community knowledge",
+      "content_type": "post",
+      "author": "u/EchoOfOppenheimer · r/Futurology",
+      "handle": "Futurology",
+      "org": "r/Futurology",
+      "platform": "reddit",
+      "published": "2026-06-28T04:53:25.000Z",
+      "image": "https://external-preview.redd.it/rdEziGkUoPu9yYsOQgXnEbH-tbyImuaNcdy6LFL_RYY.jpeg?width=640&crop=smart&auto=webp&s=3b0d909eee54c4df517fedfc206e3c45ba765191",
+      "thumbnail": "https://external-preview.redd.it/rdEziGkUoPu9yYsOQgXnEbH-tbyImuaNcdy6LFL_RYY.jpeg?width=640&crop=smart&auto=webp&s=3b0d909eee54c4df517fedfc206e3c45ba765191",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/Futurology"
+      ],
+      "summary": "60% of TikTok videos are AI slop; 21% of YouTube ones",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/Futurology this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1367,84 +1445,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/artificial this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ue9zq7",
-      "title": "Following the Dobbs decision, US states with abortion bans have experienced increased maternal morbidity and mortality. Abortion bans have broad downstream consequences on medical care beyond abortion itself, with implications for patient safety, equity, and physician ethics.",
-      "link": "https://www.reddit.com/r/science/comments/1ue9zq7/following_the_dobbs_decision_us_states_with/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/science · community knowledge",
-      "content_type": "post",
-      "author": "u/mvea · r/science",
-      "handle": "science",
-      "org": "r/science",
-      "platform": "reddit",
-      "published": "2026-06-24T10:42:18.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/science"
-      ],
-      "summary": "Following the Dobbs decision, US states with abortion bans have experienced increased maternal morbidity and mortality. Abortion bans have broad downstream consequences on medical care beyond abortion itself, with implications for patient safety, equity, and physician ethics.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/science this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ue87yp",
-      "title": "Rant Wednesday - June 24, 2026",
-      "link": "https://www.reddit.com/r/Fitness/comments/1ue87yp/rant_wednesday_june_24_2026/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/Fitness · community knowledge",
-      "content_type": "post",
-      "author": "u/AutoModerator · r/Fitness",
-      "handle": "Fitness",
-      "org": "r/Fitness",
-      "platform": "reddit",
-      "published": "2026-06-24T09:00:24.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/Fitness"
-      ],
-      "summary": "Welcome to Rant Wednesday: It’s your time to let your gym/fitness/nutrition related frustrations out! There is no guiding question to help stir up some rage-feels, feel free to fire at will, ranting about anything and everything that’s been pissing you off or getting on your nerves. Just don&#39;t forget that other…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/Fitness this week"
       ],
       "metrics": {
         "likes": 0,
