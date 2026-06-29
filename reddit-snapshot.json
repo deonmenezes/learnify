@@ -1,14 +1,15 @@
 {
-  "generated_at": "2026-06-29T20:07:29.030Z",
+  "generated_at": "2026-06-29T21:57:20.469Z",
   "subs": [
     "MachineLearning",
-    "longevity",
-    "gadgets",
+    "Fitness",
+    "robotics",
     "Futurology",
     "LocalLLaMA",
     "running",
+    "gadgets",
     "science",
-    "robotics",
+    "longevity",
     "netsec",
     "SkincareAddiction",
     "artificial",
@@ -16,8 +17,7 @@
     "programming",
     "startups",
     "hardware",
-    "investing",
-    "cybersecurity"
+    "investing"
   ],
   "count": 36,
   "by_category": {
@@ -25,8 +25,8 @@
     "Science": 7,
     "Fitness": 3,
     "Hardware & Gadgets": 5,
-    "Robotics": 2,
-    "Security": 2,
+    "Robotics": 3,
+    "Security": 1,
     "Skincare": 1,
     "Coding & Dev Tools": 2,
     "Startups & Funding": 5
@@ -656,6 +656,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/artificial this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1ugo3kj",
+      "title": "Cubic Doggo Update: returning to basics after all the PID tuning for IMU",
+      "link": "https://www.reddit.com/r/robotics/comments/1ugo3kj/cubic_doggo_update_returning_to_basics_after_all/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/robotics · community knowledge",
+      "content_type": "post",
+      "author": "u/SphericalCowww · r/robotics",
+      "handle": "robotics",
+      "org": "r/robotics",
+      "platform": "reddit",
+      "published": "2026-06-27T00:35:26.000Z",
+      "image": "https://external-preview.redd.it/ZjVoYjl5d2kwcTloMeedvrJKQJpD1ITB1NF945f4l3zXG22QdXNFRlBGIjij.png?width=640&crop=smart&auto=webp&s=ee120a997f0552f020f9853ad33d346ab06eb359",
+      "thumbnail": "https://external-preview.redd.it/ZjVoYjl5d2kwcTloMeedvrJKQJpD1ITB1NF945f4l3zXG22QdXNFRlBGIjij.png?width=640&crop=smart&auto=webp&s=ee120a997f0552f020f9853ad33d346ab06eb359",
+      "section": "Robotics",
+      "category": "Robotics",
+      "genre": "Robotics",
+      "categories": [
+        "Reddit",
+        "Robotics",
+        "r/robotics"
+      ],
+      "summary": "Ever since the post from last time: https://www.reddit.com/r/robotics/comments/1u1iql9/cubic_doggo_update_wobbly_imu/ I have tried to implement all the suggestions from the previous posts (thank you guys :)), and then spent way too much time tuning the PID, hoping it could perfectly balance the robot without wobbling.…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/robotics this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1407,45 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/investing this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uev09q",
-      "title": "Snyk laid off up to 30% of their staff today",
-      "link": "https://www.reddit.com/r/cybersecurity/comments/1uev09q/snyk_laid_off_up_to_30_of_their_staff_today/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/cybersecurity · community knowledge",
-      "content_type": "post",
-      "author": "u/iamacheeto1 · r/cybersecurity",
-      "handle": "cybersecurity",
-      "org": "r/cybersecurity",
-      "platform": "reddit",
-      "published": "2026-06-25T00:32:47.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/cybersecurity"
-      ],
-      "summary": "Ex employee here and I’m hearing up to 30% of Snyk’s team was let go. All teams impacted. Leadership says it’s to pivot to AI security. This comes a day after their big Agentic Security announcement. &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/cybersecurity this week"
       ],
       "metrics": {
         "likes": 0,
