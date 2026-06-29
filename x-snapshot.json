@@ -1,15 +1,137 @@
 {
-  "generated_at": "2026-06-29T17:42:21.288Z",
+  "generated_at": "2026-06-29T20:05:14.918Z",
   "handles": [
-    "elonmusk",
     "AnthropicAI",
-    "nvidia",
-    "gdb",
     "OpenAI",
-    "GoogleDeepMind"
+    "nvidia",
+    "GoogleDeepMind",
+    "elonmusk",
+    "gdb"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2071685134990897443",
+      "title": "The future of computer graphics is here, and it's built by AI. ✨ Don't miss the NVIDIA Research Keynote at SIGGRAPH 2026 for live demos and research examples showcasing breakthrough neural rendering,…",
+      "link": "https://x.com/nvidia/status/2071685134990897443",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-29T20:00:00.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Research"
+      ],
+      "summary": "The future of computer graphics is here, and it's built by AI. ✨ Don't miss the NVIDIA Research Keynote at SIGGRAPH 2026 for live demos and research examples showcasing breakthrough neural rendering, world models, and simulation methods across creative tools, industrial design,",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 71,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "tech substance (models, research)"
+      ],
+      "metrics": {
+        "likes": 11,
+        "retweets": 1,
+        "replies": 5,
+        "likes_h": "11"
+      },
+      "engagement": 18,
+      "hot": false
+    },
+    {
+      "id": "x_2071654937335926864",
+      "title": "📣 @AnthropicAI Claude models are now generally available in @Microsoft Foundry, running on the NVIDIA GB300 NVL72 platform on Azure with NVIDIA Quantum-X800 InfiniBand networking. For enterprises…",
+      "link": "https://x.com/nvidia/status/2071654937335926864",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-29T18:00:01.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product launch",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product launch"
+      ],
+      "summary": "📣 @AnthropicAI Claude models are now generally available in @Microsoft Foundry, running on the NVIDIA GB300 NVL72 platform on Azure with NVIDIA Quantum-X800 InfiniBand networking. For enterprises building the next generation of agentic AI, this means more powerful autonomous",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 96,
+      "sentiment": "positive",
+      "sentiment_score": 1,
+      "reasons": [
+        "report-worthy",
+        "casual tone (this)",
+        "announcement language (generally available)",
+        "tech substance (models, claude, platform)"
+      ],
+      "metrics": {
+        "likes": 448,
+        "retweets": 54,
+        "replies": 47,
+        "likes_h": "448"
+      },
+      "engagement": 603,
+      "hot": false
+    },
+    {
+      "id": "x_2071594539500921283",
+      "title": "📣 We are collaborating with the @NPS_Monterey to empower thousands of students to work and build applications with AI. Hear from Todd Lyons, EVP at the @npsfoundation, on how #NVIDIADGX and NVIDIA…",
+      "link": "https://x.com/nvidia/status/2071594539500921283",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-29T14:00:01.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Commentary",
+        "NVIDIADGX"
+      ],
+      "summary": "📣 We are collaborating with the @NPS_Monterey to empower thousands of students to work and build applications with AI. Hear from Todd Lyons, EVP at the @npsfoundation, on how #NVIDIADGX and NVIDIA Omniverse are helping to create synthetic data, train tailored foundational",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 57,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy"
+      ],
+      "metrics": {
+        "likes": 222,
+        "retweets": 36,
+        "replies": 29,
+        "likes_h": "222"
+      },
+      "engagement": 323,
+      "hot": false
+    },
     {
       "id": "x_2071184354756477041",
       "title": "Grok 4.5, based on our 1.5T V9 foundation model, with Cursor data added in supplemental training, is now in private beta at SpaceX &amp; Tesla. Early evals show performance close to, perhaps…",
@@ -82,15 +204,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (model, claude)",
-        "high engagement (30K likes)"
+        "high engagement (30.4K likes)"
       ],
       "metrics": {
-        "likes": 29997,
-        "retweets": 3154,
-        "replies": 2310,
-        "likes_h": "30K"
+        "likes": 30350,
+        "retweets": 3191,
+        "replies": 2354,
+        "likes_h": "30.4K"
       },
-      "engagement": 38615,
+      "engagement": 39086,
       "hot": true
     },
     {
@@ -125,12 +247,12 @@
         "tech substance (models, fine-tune)"
       ],
       "metrics": {
-        "likes": 474,
-        "retweets": 68,
+        "likes": 483,
+        "retweets": 70,
         "replies": 52,
-        "likes_h": "474"
+        "likes_h": "483"
       },
-      "engagement": 662,
+      "engagement": 675,
       "hot": false
     },
     {
@@ -205,15 +327,15 @@
         "report-worthy",
         "reply / conversation",
         "tech substance (model, gpt, research)",
-        "high engagement (3.2K likes)"
+        "high engagement (3.3K likes)"
       ],
       "metrics": {
-        "likes": 3216,
-        "retweets": 192,
-        "replies": 79,
-        "likes_h": "3.2K"
+        "likes": 3253,
+        "retweets": 199,
+        "replies": 82,
+        "likes_h": "3.3K"
       },
-      "engagement": 3679,
+      "engagement": 3733,
       "hot": false
     },
     {
@@ -250,12 +372,12 @@
         "high engagement (3.9K likes)"
       ],
       "metrics": {
-        "likes": 3900,
-        "retweets": 231,
-        "replies": 104,
+        "likes": 3917,
+        "retweets": 232,
+        "replies": 105,
         "likes_h": "3.9K"
       },
-      "engagement": 4466,
+      "engagement": 4486,
       "hot": false
     },
     {
@@ -289,16 +411,16 @@
         "report-worthy",
         "reply / conversation",
         "tech substance (model, gpt)",
-        "high engagement (5.1K likes)",
+        "high engagement (5.2K likes)",
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 5065,
-        "retweets": 370,
-        "replies": 224,
-        "likes_h": "5.1K"
+        "likes": 5154,
+        "retweets": 375,
+        "replies": 228,
+        "likes_h": "5.2K"
       },
-      "engagement": 6029,
+      "engagement": 6132,
       "hot": false
     },
     {
@@ -333,15 +455,15 @@
         "announcement language (introducing)",
         "tech substance (model, gpt)",
         "links to a source",
-        "high engagement (39.2K likes)"
+        "high engagement (39.4K likes)"
       ],
       "metrics": {
-        "likes": 39179,
-        "retweets": 5594,
-        "replies": 3325,
-        "likes_h": "39.2K"
+        "likes": 39429,
+        "retweets": 5647,
+        "replies": 3371,
+        "likes_h": "39.4K"
       },
-      "engagement": 53692,
+      "engagement": 54094,
       "hot": true
     },
     {
@@ -376,15 +498,15 @@
         "reply / conversation",
         "announcement language (generally available)",
         "tech substance (gpt, api)",
-        "high engagement (6.2K likes)"
+        "high engagement (6.3K likes)"
       ],
       "metrics": {
-        "likes": 6228,
-        "retweets": 370,
-        "replies": 341,
-        "likes_h": "6.2K"
+        "likes": 6259,
+        "retweets": 372,
+        "replies": 342,
+        "likes_h": "6.3K"
       },
-      "engagement": 7309,
+      "engagement": 7345,
       "hot": false
     },
     {
@@ -421,12 +543,12 @@
         "high engagement (2.7K likes)"
       ],
       "metrics": {
-        "likes": 2686,
-        "retweets": 362,
-        "replies": 389,
+        "likes": 2711,
+        "retweets": 364,
+        "replies": 404,
         "likes_h": "2.7K"
       },
-      "engagement": 3799,
+      "engagement": 3843,
       "hot": false
     },
     {
@@ -460,12 +582,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 216,
-        "retweets": 21,
+        "likes": 218,
+        "retweets": 22,
         "replies": 28,
-        "likes_h": "216"
+        "likes_h": "218"
       },
-      "engagement": 286,
+      "engagement": 290,
       "hot": false
     },
     {
@@ -539,15 +661,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (agents)",
-        "high engagement (5.3K likes)"
+        "high engagement (5.4K likes)"
       ],
       "metrics": {
-        "likes": 5337,
-        "retweets": 444,
-        "replies": 405,
-        "likes_h": "5.3K"
+        "likes": 5367,
+        "retweets": 447,
+        "replies": 411,
+        "likes_h": "5.4K"
       },
-      "engagement": 6630,
+      "engagement": 6672,
       "hot": false
     },
     {
@@ -623,8 +745,8 @@
         "high engagement (3.2K likes)"
       ],
       "metrics": {
-        "likes": 3200,
-        "retweets": 216,
+        "likes": 3202,
+        "retweets": 215,
         "replies": 251,
         "likes_h": "3.2K"
       },
@@ -666,12 +788,12 @@
         "high engagement (1K likes)"
       ],
       "metrics": {
-        "likes": 1000,
-        "retweets": 116,
-        "replies": 71,
+        "likes": 1005,
+        "retweets": 118,
+        "replies": 75,
         "likes_h": "1K"
       },
-      "engagement": 1303,
+      "engagement": 1316,
       "hot": false
     },
     {
@@ -907,15 +1029,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (agent, agents)",
-        "high engagement (781 likes)"
+        "high engagement (784 likes)"
       ],
       "metrics": {
-        "likes": 781,
-        "retweets": 99,
-        "replies": 98,
-        "likes_h": "781"
+        "likes": 784,
+        "retweets": 100,
+        "replies": 99,
+        "likes_h": "784"
       },
-      "engagement": 1077,
+      "engagement": 1083,
       "hot": false
     },
     {
@@ -1201,132 +1323,6 @@
         "likes_h": "194"
       },
       "engagement": 269,
-      "hot": false
-    },
-    {
-      "id": "x_2069147938098483586",
-      "title": "Water usage has been a hot topic in the AI data center world, but the numbers may surprise you. According to the Manhattan Institute, data centers use 0.2 percent of daily water usage in the U.S. and…",
-      "link": "https://x.com/nvidia/status/2069147938098483586",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-22T19:58:06.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product"
-      ],
-      "summary": "Water usage has been a hot topic in the AI data center world, but the numbers may surprise you. According to the Manhattan Institute, data centers use 0.2 percent of daily water usage in the U.S. and that number has dramatically decreased in the past few years due to a new",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 77,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (data center)",
-        "high engagement (29.8K likes)"
-      ],
-      "metrics": {
-        "likes": 29800,
-        "retweets": 4492,
-        "replies": 1417,
-        "likes_h": "29.8K"
-      },
-      "engagement": 40201,
-      "hot": true
-    },
-    {
-      "id": "x_2069112120206332130",
-      "title": "We're accelerating patching, in addition to vuln finding, with new tools and models in OpenAI Daybreak. Our models are now discovering and generating patches for critical vulns in major browsers,…",
-      "link": "https://x.com/gdb/status/2069112120206332130",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Greg Brockman · @gdb",
-      "handle": "gdb",
-      "org": "OpenAI",
-      "published": "2026-06-22T17:35:46.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Product"
-      ],
-      "summary": "We're accelerating patching, in addition to vuln finding, with new tools and models in OpenAI Daybreak. Our models are now discovering and generating patches for critical vulns in major browsers, network infrastructure, and operating systems (such as FreeBSD and the Linux",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 70,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (models)",
-        "high engagement (1.4K likes)"
-      ],
-      "metrics": {
-        "likes": 1423,
-        "retweets": 74,
-        "replies": 102,
-        "likes_h": "1.4K"
-      },
-      "engagement": 1673,
-      "hot": false
-    },
-    {
-      "id": "x_2069104290065776881",
-      "title": "We’re also launching the OpenAI Daybreak Cyber Partner Program with leading security software and services providers. Participating partners can use GPT‑5.5 with Trusted Access for Cyber in the…",
-      "link": "https://x.com/OpenAI/status/2069104290065776881",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-06-22T17:04:39.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product launch",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Product launch"
-      ],
-      "summary": "We’re also launching the OpenAI Daybreak Cyber Partner Program with leading security software and services providers. Participating partners can use GPT‑5.5 with Trusted Access for Cyber in the security products and services they provide to customers. This allows their",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 68,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "reply / conversation",
-        "casual tone (this)",
-        "announcement language (launching)",
-        "tech substance (gpt)",
-        "business signal (customers)"
-      ],
-      "metrics": {
-        "likes": 366,
-        "retweets": 17,
-        "replies": 12,
-        "likes_h": "366"
-      },
-      "engagement": 412,
       "hot": false
     }
   ]

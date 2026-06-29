@@ -1,9 +1,10 @@
 {
-  "generated_at": "2026-06-29T17:44:32.772Z",
+  "generated_at": "2026-06-29T20:07:29.030Z",
   "subs": [
     "MachineLearning",
-    "Futurology",
+    "longevity",
     "gadgets",
+    "Futurology",
     "LocalLLaMA",
     "running",
     "science",
@@ -11,7 +12,6 @@
     "netsec",
     "SkincareAddiction",
     "artificial",
-    "longevity",
     "bodyweightfitness",
     "programming",
     "startups",
@@ -22,10 +22,10 @@
   "count": 36,
   "by_category": {
     "AI / ML": 9,
-    "Science": 6,
+    "Science": 7,
     "Fitness": 3,
     "Hardware & Gadgets": 5,
-    "Robotics": 3,
+    "Robotics": 2,
     "Security": 2,
     "Skincare": 1,
     "Coding & Dev Tools": 2,
@@ -458,6 +458,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/robotics this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uhe1f1",
+      "title": "The Alzheimer's Brain Is Overloaded With Sugar-Protein Modifications. A New Study Shows What That Is Doing to Cognition. | Healthspan",
+      "link": "https://www.reddit.com/r/longevity/comments/1uhe1f1/the_alzheimers_brain_is_overloaded_with/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/longevity · community knowledge",
+      "content_type": "post",
+      "author": "u/dan_in_ca · r/longevity",
+      "handle": "longevity",
+      "org": "r/longevity",
+      "platform": "reddit",
+      "published": "2026-06-27T21:09:23.000Z",
+      "image": "https://external-preview.redd.it/kLOvBMsTxCs4Q4CcysQf78n00EULYntaBQo1TQY7fbs.jpeg?width=640&crop=smart&auto=webp&s=a56e90e91239def2d3fa0e563c1a72380cba466c",
+      "thumbnail": "https://external-preview.redd.it/kLOvBMsTxCs4Q4CcysQf78n00EULYntaBQo1TQY7fbs.jpeg?width=640&crop=smart&auto=webp&s=a56e90e91239def2d3fa0e563c1a72380cba466c",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Longevity",
+      "categories": [
+        "Reddit",
+        "Science",
+        "Longevity",
+        "r/longevity"
+      ],
+      "summary": "For anybody interested in the metabolic hypothesis of Alzheimer&#39;s, this is an interesting overview of research on the overabundance of glycan protein modifications and the failure to clear them as contributors to Alzheimer&#39;s pathology. One of the more interesting callouts was glucosamine usage was associated…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/longevity this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1406,45 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/cybersecurity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uerhc1",
-      "title": "Robotics for data centers",
-      "link": "https://www.reddit.com/r/robotics/comments/1uerhc1/robotics_for_data_centers/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/robotics · community knowledge",
-      "content_type": "post",
-      "author": "u/kuaythrone · r/robotics",
-      "handle": "robotics",
-      "org": "r/robotics",
-      "platform": "reddit",
-      "published": "2026-06-24T22:03:34.000Z",
-      "image": "https://external-preview.redd.it/Znl3cGcwdjN6YTloMQAYOZKWh1cknT1sX1FZjZLQVSTnFlFRRbqZdUe_75DE.png?width=640&crop=smart&auto=webp&s=72f967dea3850a84bc10094593dfe137a3472620",
-      "thumbnail": "https://external-preview.redd.it/Znl3cGcwdjN6YTloMQAYOZKWh1cknT1sX1FZjZLQVSTnFlFRRbqZdUe_75DE.png?width=640&crop=smart&auto=webp&s=72f967dea3850a84bc10094593dfe137a3472620",
-      "section": "Robotics",
-      "category": "Robotics",
-      "genre": "Robotics",
-      "categories": [
-        "Reddit",
-        "Robotics",
-        "r/robotics"
-      ],
-      "summary": "The scarce thing in a data center is not manpower, but instinct that only comes from years on the floor. Most robotics companies are focused on robots as a productivity amplifiers: 24/7 uptime, five days of work done in two. Few are focused on the potential of robots to change how people work altogether. We wanted to…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/robotics this week"
       ],
       "metrics": {
         "likes": 0,
