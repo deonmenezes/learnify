@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-06-30T12:34:02.526Z",
+  "generated_at": "2026-06-30T15:19:49.597Z",
   "subs": [
     "MachineLearning",
+    "programming",
+    "SkincareAddiction",
     "artificial",
-    "running",
-    "investing",
     "Futurology",
+    "running",
     "LocalLLaMA",
     "netsec",
     "gadgets",
@@ -13,10 +14,8 @@
     "robotics",
     "longevity",
     "nutrition",
-    "SkincareAddiction",
     "cybersecurity",
     "bodyweightfitness",
-    "programming",
     "startups",
     "hardware"
   ],
@@ -26,11 +25,11 @@
     "Science": 7,
     "Fitness": 5,
     "Security": 4,
-    "Hardware & Gadgets": 4,
-    "Robotics": 3,
-    "Skincare": 1,
-    "Coding & Dev Tools": 1,
-    "Startups & Funding": 2
+    "Hardware & Gadgets": 3,
+    "Robotics": 2,
+    "Skincare": 3,
+    "Coding & Dev Tools": 2,
+    "Startups & Funding": 1
   },
   "articles": [
     {
@@ -585,6 +584,45 @@
       }
     },
     {
+      "id": "reddit_1uhh57r",
+      "title": "[Acne] The difference between my chin, forehead, and cheeks is insane",
+      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1uhh57r/acne_the_difference_between_my_chin_forehead_and/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/SkincareAddiction · community knowledge",
+      "content_type": "post",
+      "author": "u/Special_Crab_1884 · r/SkincareAddiction",
+      "handle": "SkincareAddiction",
+      "org": "r/SkincareAddiction",
+      "platform": "reddit",
+      "published": "2026-06-27T23:22:20.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Skincare",
+      "category": "Skincare",
+      "genre": "Skincare",
+      "categories": [
+        "Reddit",
+        "Skincare",
+        "r/SkincareAddiction"
+      ],
+      "summary": "All my pimples get concentrated on the chin and it is relentless! It’s been honestly getting worse since early June to now. I don’t know why. My skincare routine is the exact same, my diet and water intake is the same, nothing about my usual routines have changed. Yet, my cheeks and forehead remain untouched and…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/SkincareAddiction this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1uhe1f1",
       "title": "The Alzheimer's Brain Is Overloaded With Sugar-Protein Modifications. A New Study Shows What That Is Doing to Cognition. | Healthspan",
       "link": "https://www.reddit.com/r/longevity/comments/1uhe1f1/the_alzheimers_brain_is_overloaded_with/",
@@ -736,6 +774,84 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/netsec this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uh4khb",
+      "title": "[Acne] I've been using Hypochlorous acid spray to \"set\" my curtain bangs",
+      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1uh4khb/acne_ive_been_using_hypochlorous_acid_spray_to/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/SkincareAddiction · community knowledge",
+      "content_type": "post",
+      "author": "u/PrincessBukowski · r/SkincareAddiction",
+      "handle": "SkincareAddiction",
+      "org": "r/SkincareAddiction",
+      "platform": "reddit",
+      "published": "2026-06-27T14:45:02.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Skincare",
+      "category": "Skincare",
+      "genre": "Skincare",
+      "categories": [
+        "Reddit",
+        "Skincare",
+        "r/SkincareAddiction"
+      ],
+      "summary": "Skin type: combo/acne-prone Hair type: swavy/frizzy-straight The YouTube algorithm of DIY haircuts finally got me (and Inde Navarrette in Obsession/Camila Morrone in Something Very Bad) and I cut my own curtain bangs! It was stupid easy and I&#39;ve been getting lots of compliments, with the added bonus of a little…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/SkincareAddiction this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uh3z4m",
+      "title": "Data Access Patterns That Makes Your CPU Really Angry",
+      "link": "https://www.reddit.com/r/programming/comments/1uh3z4m/data_access_patterns_that_makes_your_cpu_really/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/programming · community knowledge",
+      "content_type": "post",
+      "author": "u/Double_Ad641 · r/programming",
+      "handle": "programming",
+      "org": "r/programming",
+      "platform": "reddit",
+      "published": "2026-06-27T14:19:46.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Coding & Dev Tools",
+      "category": "Coding & Dev Tools",
+      "genre": "Coding & Dev Tools",
+      "categories": [
+        "Reddit",
+        "Coding & Dev Tools",
+        "r/programming"
+      ],
+      "summary": "Data Access Patterns That Makes Your CPU Really Angry",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/programming this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1328,124 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/hardware this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ufgpu7",
-      "title": "If you're not buying MSFT/MSFU at these prices what are you even doing?",
-      "link": "https://www.reddit.com/r/investing/comments/1ufgpu7/if_youre_not_buying_msftmsfu_at_these_prices_what/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/investing · community knowledge",
-      "content_type": "post",
-      "author": "u/buyingstuff555 · r/investing",
-      "handle": "investing",
-      "org": "r/investing",
-      "platform": "reddit",
-      "published": "2026-06-25T17:32:01.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/investing"
-      ],
-      "summary": "MSFT is something like ~$10 (2-3%) from it&#39;s November 2021 price. The company is printing money, with something like 18% revenue growth for 8 consecutive quarters. It&#39;s literally cheaper now than the April 2025 tariff crash. Biggest bargain on the market right now, IMO. &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/investing this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uffnet",
-      "title": "Microsoft Announces Significant Price Rises for Xbox Series X and S, 2TB Model Discontinued",
-      "link": "https://www.reddit.com/r/gadgets/comments/1uffnet/microsoft_announces_significant_price_rises_for/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/gadgets · community knowledge",
-      "content_type": "post",
-      "author": "u/ReaddittiddeR · r/gadgets",
-      "handle": "gadgets",
-      "org": "r/gadgets",
-      "platform": "reddit",
-      "published": "2026-06-25T16:54:17.000Z",
-      "image": "https://external-preview.redd.it/0egJuGe88bSX2u54NYtNAUgkU7kcpPiCN89ME2pF6qo.jpeg?width=640&crop=smart&auto=webp&s=13c2bb9472bc70cc0ab5f948ab4e424bfded37fe",
-      "thumbnail": "https://external-preview.redd.it/0egJuGe88bSX2u54NYtNAUgkU7kcpPiCN89ME2pF6qo.jpeg?width=640&crop=smart&auto=webp&s=13c2bb9472bc70cc0ab5f948ab4e424bfded37fe",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/gadgets"
-      ],
-      "summary": "Microsoft Announces Significant Price Rises for Xbox Series X and S, 2TB Model Discontinued",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/gadgets this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ufc17m",
-      "title": "I built a KUKA-Inspired Robotic Arm",
-      "link": "https://www.reddit.com/r/robotics/comments/1ufc17m/i_built_a_kukainspired_robotic_arm/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/robotics · community knowledge",
-      "content_type": "post",
-      "author": "u/RoboDIYer · r/robotics",
-      "handle": "robotics",
-      "org": "r/robotics",
-      "platform": "reddit",
-      "published": "2026-06-25T14:43:23.000Z",
-      "image": "https://preview.redd.it/0mx02ui5yf9h1.jpg?width=140&height=105&auto=webp&s=bec74f99126809d8f5546fba04436ee9feca4c49",
-      "thumbnail": "https://preview.redd.it/0mx02ui5yf9h1.jpg?width=140&height=105&auto=webp&s=bec74f99126809d8f5546fba04436ee9feca4c49",
-      "section": "Robotics",
-      "category": "Robotics",
-      "genre": "Robotics",
-      "categories": [
-        "Reddit",
-        "Robotics",
-        "r/robotics"
-      ],
-      "summary": "I designed this 5DOF robotic arm inspired by the KUKA KR4 Agilus. The goal was to keep all the servos hidden inside the structure, giving the arm a cleaner and more professional look. It also features a TPU-printed gripper actuated by a servo. I’m currently working on the kinematics and a custom PCB for the…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/robotics this week"
       ],
       "metrics": {
         "likes": 0,
