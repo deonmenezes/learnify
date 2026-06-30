@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-30T19:24:19.670Z",
+  "generated_at": "2026-06-30T21:19:26.715Z",
   "subs": [
     "MachineLearning",
-    "Fitness",
-    "robotics",
+    "longevity",
+    "hardware",
     "startups",
     "artificial",
     "LocalLLaMA",
@@ -12,8 +12,8 @@
     "netsec",
     "gadgets",
     "science",
+    "robotics",
     "SkincareAddiction",
-    "longevity",
     "nutrition",
     "programming",
     "cybersecurity",
@@ -23,10 +23,10 @@
   "by_category": {
     "Startups & Funding": 2,
     "AI / ML": 10,
+    "Hardware & Gadgets": 2,
     "Science": 7,
     "Fitness": 5,
     "Security": 3,
-    "Hardware & Gadgets": 2,
     "Robotics": 2,
     "Skincare": 3,
     "Coding & Dev Tools": 2
@@ -185,6 +185,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/LocalLLaMA this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uiv36d",
+      "title": "Samsung, SK hynix, and Micron sued over alleged DRAM price fixing amid record memory costs - lawsuit claims coordinated HBM shift was cover to curtail DDR3 and DDR4 production",
+      "link": "https://www.reddit.com/r/hardware/comments/1uiv36d/samsung_sk_hynix_and_micron_sued_over_alleged/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/hardware · community knowledge",
+      "content_type": "post",
+      "author": "u/wickedplayer494 · r/hardware",
+      "handle": "hardware",
+      "org": "r/hardware",
+      "platform": "reddit",
+      "published": "2026-06-29T15:06:27.000Z",
+      "image": "https://external-preview.redd.it/Zsq1SxD98GFbEaMFajp1OP_SvyhnnM3N08pv5TyV2EM.jpeg?width=640&crop=smart&auto=webp&s=a30223b5b2f193ff4a31a36ee7171b02f9fcc457",
+      "thumbnail": "https://external-preview.redd.it/Zsq1SxD98GFbEaMFajp1OP_SvyhnnM3N08pv5TyV2EM.jpeg?width=640&crop=smart&auto=webp&s=a30223b5b2f193ff4a31a36ee7171b02f9fcc457",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/hardware"
+      ],
+      "summary": "Samsung, SK hynix, and Micron sued over alleged DRAM price fixing amid record memory costs - lawsuit claims coordinated HBM shift was cover to curtail DDR3 and DDR4 production",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/hardware this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1407,45 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/programming this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ufxlv1",
-      "title": "Casio's new Pokémon G-Shock comes in a Poké Ball, but good luck getting your hands on one",
-      "link": "https://www.reddit.com/r/gadgets/comments/1ufxlv1/casios_new_pokémon_gshock_comes_in_a_poké_ball/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/gadgets · community knowledge",
-      "content_type": "post",
-      "author": "u/dapperlemon · r/gadgets",
-      "handle": "gadgets",
-      "org": "r/gadgets",
-      "platform": "reddit",
-      "published": "2026-06-26T05:21:41.000Z",
-      "image": "https://external-preview.redd.it/sZTKOa2TcRzHs_vI7LSwMYVN09nRVMiTmrqiMfKFNSA.jpeg?width=640&crop=smart&auto=webp&s=c2df563331fbe64eb834e3e83e340ba66b0a49c2",
-      "thumbnail": "https://external-preview.redd.it/sZTKOa2TcRzHs_vI7LSwMYVN09nRVMiTmrqiMfKFNSA.jpeg?width=640&crop=smart&auto=webp&s=c2df563331fbe64eb834e3e83e340ba66b0a49c2",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/gadgets"
-      ],
-      "summary": "Casio's new Pokémon G-Shock comes in a Poké Ball, but good luck getting your hands on one",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/gadgets this week"
       ],
       "metrics": {
         "likes": 0,
