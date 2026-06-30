@@ -1,15 +1,55 @@
 {
-  "generated_at": "2026-06-29T23:03:32.321Z",
+  "generated_at": "2026-06-30T01:33:35.243Z",
   "handles": [
     "nvidia",
+    "GoogleDeepMind",
     "elonmusk",
     "AnthropicAI",
     "gdb",
-    "OpenAI",
-    "GoogleDeepMind"
+    "OpenAI"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2071715347581837357",
+      "title": "We're working with @PalantirTech to bring NVIDIA Nemotron open models into secure, air-gapped environments for U.S. government agencies and critical infrastructure operators. The new engine lets…",
+      "link": "https://x.com/nvidia/status/2071715347581837357",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-29T22:00:04.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "We're working with @PalantirTech to bring NVIDIA Nemotron open models into secure, air-gapped environments for U.S. government agencies and critical infrastructure operators. The new engine lets teams train on their own data, run models on their own infrastructure and retain",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 80,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "tech substance (models, nemotron)"
+      ],
+      "metrics": {
+        "likes": 332,
+        "retweets": 60,
+        "replies": 25,
+        "likes_h": "332"
+      },
+      "engagement": 477,
+      "hot": false
+    },
     {
       "id": "x_2071685134990897443",
       "title": "The future of computer graphics is here, and it's built by AI. ✨ Don't miss the NVIDIA Research Keynote at SIGGRAPH 2026 for live demos and research examples showcasing breakthrough neural rendering,…",
@@ -34,7 +74,7 @@
       "summary": "The future of computer graphics is here, and it's built by AI. ✨ Don't miss the NVIDIA Research Keynote at SIGGRAPH 2026 for live demos and research examples showcasing breakthrough neural rendering, world models, and simulation methods across creative tools, industrial design,",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 71,
+      "worthiness_score": 78,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -42,13 +82,54 @@
         "tech substance (models, research)"
       ],
       "metrics": {
-        "likes": 11,
-        "retweets": 1,
-        "replies": 5,
-        "likes_h": "11"
+        "likes": 120,
+        "retweets": 25,
+        "replies": 22,
+        "likes_h": "120"
       },
-      "engagement": 18,
+      "engagement": 192,
       "hot": false
+    },
+    {
+      "id": "x_2071673460779041155",
+      "title": "Deaths in Africa DECREASED after USAID funding was cut, because they’re no longer able to push for violent revolution to install leftist regimes!",
+      "link": "https://x.com/elonmusk/status/2071673460779041155",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Elon Musk · @elonmusk",
+      "handle": "elonmusk",
+      "org": "xAI/Tesla",
+      "published": "2026-06-29T19:13:37.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "xAI/Tesla",
+        "Commentary"
+      ],
+      "summary": "Deaths in Africa DECREASED after USAID funding was cut, because they’re no longer able to push for violent revolution to install leftist regimes!",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 71,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "business signal (funding)",
+        "high engagement (34.3K likes)"
+      ],
+      "metrics": {
+        "likes": 34299,
+        "retweets": 7200,
+        "replies": 2162,
+        "likes_h": "34.3K"
+      },
+      "engagement": 50861,
+      "hot": true
     },
     {
       "id": "x_2071654937335926864",
@@ -74,22 +155,23 @@
       "summary": "📣 @AnthropicAI Claude models are now generally available in @Microsoft Foundry, running on the NVIDIA GB300 NVL72 platform on Azure with NVIDIA Quantum-X800 InfiniBand networking. For enterprises building the next generation of agentic AI, this means more powerful autonomous",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 96,
+      "worthiness_score": 97,
       "sentiment": "positive",
       "sentiment_score": 1,
       "reasons": [
         "report-worthy",
         "casual tone (this)",
         "announcement language (generally available)",
-        "tech substance (models, claude, platform)"
+        "tech substance (models, claude, platform)",
+        "high engagement (797 likes)"
       ],
       "metrics": {
-        "likes": 448,
-        "retweets": 54,
-        "replies": 47,
-        "likes_h": "448"
+        "likes": 797,
+        "retweets": 90,
+        "replies": 60,
+        "likes_h": "797"
       },
-      "engagement": 603,
+      "engagement": 1037,
       "hot": false
     },
     {
@@ -117,19 +199,19 @@
       "summary": "📣 We are collaborating with the @NPS_Monterey to empower thousands of students to work and build applications with AI. Hear from Todd Lyons, EVP at the @npsfoundation, on how #NVIDIADGX and NVIDIA Omniverse are helping to create synthetic data, train tailored foundational",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 57,
+      "worthiness_score": 58,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
         "report-worthy"
       ],
       "metrics": {
-        "likes": 222,
-        "retweets": 36,
-        "replies": 29,
-        "likes_h": "222"
+        "likes": 272,
+        "retweets": 42,
+        "replies": 30,
+        "likes_h": "272"
       },
-      "engagement": 323,
+      "engagement": 386,
       "hot": false
     },
     {
@@ -507,7 +589,7 @@
         "likes_h": "6.3K"
       },
       "engagement": 7350,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2070528961235575278",
@@ -582,12 +664,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 218,
+        "likes": 219,
         "retweets": 22,
         "replies": 28,
-        "likes_h": "218"
+        "likes_h": "219"
       },
-      "engagement": 290,
+      "engagement": 291,
       "hot": false
     },
     {
@@ -1241,88 +1323,6 @@
         "likes_h": "572"
       },
       "engagement": 789,
-      "hot": false
-    },
-    {
-      "id": "x_2069445014787129590",
-      "title": "All DOGE required was contact information of the recipients to confirm that funding was not fraudulent. No validated medical funding was stopped. Anything that appeared to be legitimate lifesaving…",
-      "link": "https://x.com/elonmusk/status/2069445014787129590",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Elon Musk · @elonmusk",
-      "handle": "elonmusk",
-      "org": "xAI/Tesla",
-      "published": "2026-06-23T15:38:34.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "xAI/Tesla",
-        "Commentary"
-      ],
-      "summary": "All DOGE required was contact information of the recipients to confirm that funding was not fraudulent. No validated medical funding was stopped. Anything that appeared to be legitimate lifesaving funding continued and is now administered by the State Department. If anyone had",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 71,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "business signal (funding)",
-        "high engagement (96.8K likes)"
-      ],
-      "metrics": {
-        "likes": 96841,
-        "retweets": 21449,
-        "replies": 5834,
-        "likes_h": "96.8K"
-      },
-      "engagement": 145573,
-      "hot": true
-    },
-    {
-      "id": "x_2069435311126417814",
-      "title": "📣 NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations At #DTWIgnite, together with our partners, we are showcasing the data, models, simulation and secure runtime stack enabling telcos to…",
-      "link": "https://x.com/nvidia/status/2069435311126417814",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-23T15:00:01.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product",
-        "DTWIgnite"
-      ],
-      "summary": "📣 NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations At #DTWIgnite, together with our partners, we are showcasing the data, models, simulation and secure runtime stack enabling telcos to build more secure agentic workflows across autonomous networks and operations. 📖",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 79,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (models, agents)"
-      ],
-      "metrics": {
-        "likes": 194,
-        "retweets": 24,
-        "replies": 27,
-        "likes_h": "194"
-      },
-      "engagement": 269,
       "hot": false
     }
   ]
