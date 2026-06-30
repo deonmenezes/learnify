@@ -1,35 +1,35 @@
 {
-  "generated_at": "2026-06-30T21:19:26.715Z",
+  "generated_at": "2026-06-30T22:55:53.327Z",
   "subs": [
     "MachineLearning",
-    "longevity",
-    "hardware",
+    "singularity",
+    "SkincareAddiction",
     "startups",
     "artificial",
     "LocalLLaMA",
+    "hardware",
     "Futurology",
     "running",
     "netsec",
     "gadgets",
     "science",
     "robotics",
-    "SkincareAddiction",
+    "longevity",
     "nutrition",
     "programming",
-    "cybersecurity",
-    "bodyweightfitness"
+    "cybersecurity"
   ],
   "count": 36,
   "by_category": {
     "Startups & Funding": 2,
-    "AI / ML": 10,
+    "Skincare": 4,
+    "AI / ML": 12,
     "Hardware & Gadgets": 2,
     "Science": 7,
-    "Fitness": 5,
+    "Fitness": 3,
     "Security": 3,
     "Robotics": 2,
-    "Skincare": 3,
-    "Coding & Dev Tools": 2
+    "Coding & Dev Tools": 1
   },
   "articles": [
     {
@@ -65,6 +65,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/startups this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1ujbyrq",
+      "title": "[Anti Aging] Please help my wrinkles I’m only 25",
+      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1ujbyrq/anti_aging_please_help_my_wrinkles_im_only_25/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/SkincareAddiction · community knowledge",
+      "content_type": "post",
+      "author": "u/smolllls · r/SkincareAddiction",
+      "handle": "SkincareAddiction",
+      "org": "r/SkincareAddiction",
+      "platform": "reddit",
+      "published": "2026-06-30T02:00:12.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Skincare",
+      "category": "Skincare",
+      "genre": "Skincare",
+      "categories": [
+        "Reddit",
+        "Skincare",
+        "r/SkincareAddiction"
+      ],
+      "summary": "my forehead wrinkles have been my biggest insecurity since high school, i’m now getting wrinkles under my eyes from being so expressive. i use retinol almost every morning but i know there’s more i can be doing i just don’t know skin care. please any advice would be greatly appreciated. also kind of terrified of botox…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/SkincareAddiction this week"
       ],
       "metrics": {
         "likes": 0,
@@ -461,6 +500,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Futurology this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uhxshz",
+      "title": "Meanwhile in China, 10,000+ delivery bots are transforming last-mile fulfillment by making deliveries faster, cheaper, and more autonomous",
+      "link": "https://www.reddit.com/r/singularity/comments/1uhxshz/meanwhile_in_china_10000_delivery_bots_are/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/singularity · community knowledge",
+      "content_type": "post",
+      "author": "u/Distinct-Question-16 · r/singularity",
+      "handle": "singularity",
+      "org": "r/singularity",
+      "platform": "reddit",
+      "published": "2026-06-28T13:49:06.000Z",
+      "image": "https://external-preview.redd.it/N2ZheTJoNTczMWFoMQJScXLHhc_B0-LNHpVLwN8m41f4jBQS79e3k2aZrVal.png?width=640&crop=smart&auto=webp&s=477c3c49a8b3512a6360b08a5c6e8277fe89144d",
+      "thumbnail": "https://external-preview.redd.it/N2ZheTJoNTczMWFoMQJScXLHhc_B0-LNHpVLwN8m41f4jBQS79e3k2aZrVal.png?width=640&crop=smart&auto=webp&s=477c3c49a8b3512a6360b08a5c6e8277fe89144d",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/singularity"
+      ],
+      "summary": "Meanwhile in China, 10,000+ delivery bots are transforming last-mile fulfillment by making deliveries faster, cheaper, and more autonomous",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/singularity this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1098,6 +1177,46 @@
       }
     },
     {
+      "id": "reddit_1uh259r",
+      "title": "Breaking news! Gemini 3.5 pro so ass the US government intervened to keep it out of the US!",
+      "link": "https://www.reddit.com/r/singularity/comments/1uh259r/breaking_news_gemini_35_pro_so_ass_the_us/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/singularity · community knowledge",
+      "content_type": "post",
+      "author": "u/THE--GRINCH · r/singularity",
+      "handle": "singularity",
+      "org": "r/singularity",
+      "platform": "reddit",
+      "published": "2026-06-27T12:59:02.000Z",
+      "image": "https://preview.redd.it/hf38st3dpt9h1.jpeg?width=640&crop=smart&auto=webp&s=b8ebdf79bfff1dab667c0b58f14aec3c8429c626",
+      "thumbnail": "https://preview.redd.it/hf38st3dpt9h1.jpeg?width=640&crop=smart&auto=webp&s=b8ebdf79bfff1dab667c0b58f14aec3c8429c626",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/singularity"
+      ],
+      "summary": "Breaking news! Gemini 3.5 pro so ass the US government intervened to keep it out of the US!",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/singularity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1ugwccs",
       "title": "So now scraping data without permission is bad for AI training all of sudden?",
       "link": "https://www.reddit.com/r/artificial/comments/1ugwccs/so_now_scraping_data_without_permission_is_bad/",
@@ -1328,124 +1447,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/cybersecurity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ug2bcg",
-      "title": "Zero calories has made us stop asking questions.",
-      "link": "https://www.reddit.com/r/nutrition/comments/1ug2bcg/zero_calories_has_made_us_stop_asking_questions/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/nutrition · community knowledge",
-      "content_type": "post",
-      "author": "u/Exact_Importance_507 · r/nutrition",
-      "handle": "nutrition",
-      "org": "r/nutrition",
-      "platform": "reddit",
-      "published": "2026-06-26T09:50:55.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Nutrition",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "Nutrition",
-        "r/nutrition"
-      ],
-      "summary": "I’m not saying diet soft drinks, sugar substitutes, or zero-calorie products are automatically bad. What I find interesting is how the conversation seems to stop the moment something is labeled zero calories. People will scrutinize a regular cold drink, but often treat the diet version as if it’s unquestionably…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/nutrition this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ug0t6w",
-      "title": "So how did you all get into 15+ pull ups",
-      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1ug0t6w/so_how_did_you_all_get_into_15_pull_ups/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/bodyweightfitness · community knowledge",
-      "content_type": "post",
-      "author": "u/heavenlygod44 · r/bodyweightfitness",
-      "handle": "bodyweightfitness",
-      "org": "r/bodyweightfitness",
-      "platform": "reddit",
-      "published": "2026-06-26T08:22:26.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/bodyweightfitness"
-      ],
-      "summary": "I&#39;m 17M, 74kg and kinda skinny fat. I can do some push ups and squats, but compared to those, my pulling strength is really weak. I can do some Australian pull ups, but I don&#39;t really feel much pump or see much progression from them. I always wonder how people reach 10–15+ pull ups because even getting my…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/bodyweightfitness this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ufzafr",
-      "title": "Fintech Engineering Handbook",
-      "link": "https://www.reddit.com/r/programming/comments/1ufzafr/fintech_engineering_handbook/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/programming · community knowledge",
-      "content_type": "post",
-      "author": "u/Krever · r/programming",
-      "handle": "programming",
-      "org": "r/programming",
-      "platform": "reddit",
-      "published": "2026-06-26T06:55:05.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Coding & Dev Tools",
-      "category": "Coding & Dev Tools",
-      "genre": "Coding & Dev Tools",
-      "categories": [
-        "Reddit",
-        "Coding & Dev Tools",
-        "r/programming"
-      ],
-      "summary": "I just published Fintech Engineering Handbook distilled from 6 years of tears, sweat and swears. It’s a free ~25-page resource with various hints and patterns around handling money in software systems. Tell me what you think! &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/programming this week"
       ],
       "metrics": {
         "likes": 0,

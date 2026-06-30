@@ -1,15 +1,224 @@
 {
-  "generated_at": "2026-06-30T21:17:12.813Z",
+  "generated_at": "2026-06-30T22:53:38.525Z",
   "handles": [
-    "nvidia",
-    "elonmusk",
     "AnthropicAI",
-    "gdb",
     "OpenAI",
-    "GoogleDeepMind"
+    "nvidia",
+    "GoogleDeepMind",
+    "elonmusk",
+    "gdb"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2072034905299563005",
+      "title": "Neuralink has solved through-dura electrode implantation! This is a very big deal, as it greatly improves the safety and ease of interfacing with the brain.",
+      "link": "https://x.com/elonmusk/status/2072034905299563005",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Elon Musk · @elonmusk",
+      "handle": "elonmusk",
+      "org": "xAI/Tesla",
+      "published": "2026-06-30T19:09:52.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "xAI/Tesla",
+        "Commentary"
+      ],
+      "summary": "Neuralink has solved through-dura electrode implantation! This is a very big deal, as it greatly improves the safety and ease of interfacing with the brain.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 59,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "casual tone (this)",
+        "business signal (deal)",
+        "high engagement (10K likes)"
+      ],
+      "metrics": {
+        "likes": 10004,
+        "retweets": 1747,
+        "replies": 1307,
+        "likes_h": "10K"
+      },
+      "engagement": 14805,
+      "hot": true
+    },
+    {
+      "id": "x_2072004836674167294",
+      "title": "We’re introducing GeneBench-Pro, a research-level benchmark for a harder kind of AI progress: how well agents can navigate messy biological data, choose the right analysis path, and make judgment…",
+      "link": "https://x.com/OpenAI/status/2072004836674167294",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-06-30T17:10:23.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Research"
+      ],
+      "summary": "We’re introducing GeneBench-Pro, a research-level benchmark for a harder kind of AI progress: how well agents can navigate messy biological data, choose the right analysis path, and make judgment calls that real computational research depends on. https://openai.com/index/introducing-genebench-pro/",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 100,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "announcement language (introducing)",
+        "tech substance (agents, benchmark, research)",
+        "links to a source",
+        "high engagement (3K likes)"
+      ],
+      "metrics": {
+        "likes": 2951,
+        "retweets": 233,
+        "replies": 193,
+        "likes_h": "3K"
+      },
+      "engagement": 3610,
+      "hot": false
+    },
+    {
+      "id": "x_2071988050012303710",
+      "title": "Gemini Omni Flash shines in: 🔵 Conversational video editing 🔵 Multimodal referencing and combining inputs ​​🔵 Real-world knowledge 🔵 Connecting text and graphics directly to video actions It’s…",
+      "link": "https://x.com/GoogleDeepMind/status/2071988050012303710",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Google DeepMind · @GoogleDeepMind",
+      "handle": "GoogleDeepMind",
+      "org": "Google",
+      "published": "2026-06-30T16:03:41.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "Google",
+        "Product"
+      ],
+      "summary": "Gemini Omni Flash shines in: 🔵 Conversational video editing 🔵 Multimodal referencing and combining inputs ​​🔵 Real-world knowledge 🔵 Connecting text and graphics directly to video actions It’s available in @GoogleAIStudio, the Gemini API and Gemini Enterprise Agent Platform",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 79,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "reply / conversation",
+        "tech substance (gemini, api, agent)",
+        "business signal (enterprise)"
+      ],
+      "metrics": {
+        "likes": 166,
+        "retweets": 18,
+        "replies": 4,
+        "likes_h": "166"
+      },
+      "engagement": 206,
+      "hot": false
+    },
+    {
+      "id": "x_2071988044878516466",
+      "title": "We’re shipping 2 major releases: 🔘 Nano Banana 2 Lite: our fastest and cheapest Gemini Image model 🔘 Gemini Omni Flash: now available via the Gemini API and in @GoogleAIStudio to help developers…",
+      "link": "https://x.com/GoogleDeepMind/status/2071988044878516466",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Google DeepMind · @GoogleDeepMind",
+      "handle": "GoogleDeepMind",
+      "org": "Google",
+      "published": "2026-06-30T16:03:40.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product launch",
+      "categories": [
+        "X",
+        "Google",
+        "Product launch"
+      ],
+      "summary": "We’re shipping 2 major releases: 🔘 Nano Banana 2 Lite: our fastest and cheapest Gemini Image model 🔘 Gemini Omni Flash: now available via the Gemini API and in @GoogleAIStudio to help developers generate and edit high-quality videos.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 100,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "announcement language (now available, shipping)",
+        "tech substance (model, gemini, api)",
+        "high engagement (722 likes)"
+      ],
+      "metrics": {
+        "likes": 722,
+        "retweets": 106,
+        "replies": 50,
+        "likes_h": "722"
+      },
+      "engagement": 984,
+      "hot": false
+    },
+    {
+      "id": "x_2071979909199577560",
+      "title": "NVIDIA inference software keeps driving down token costs, long after AI infrastructure is deployed. ⚡ In just one month on NVIDIA Blackwell, software optimizations improved DeepSeek V4 performance by…",
+      "link": "https://x.com/nvidia/status/2071979909199577560",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-06-30T15:31:20.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "NVIDIA inference software keeps driving down token costs, long after AI infrastructure is deployed. ⚡ In just one month on NVIDIA Blackwell, software optimizations improved DeepSeek V4 performance by up to 5×, reducing token costs to roughly one-fifth of previous levels.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 81,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (inference, blackwell)"
+      ],
+      "metrics": {
+        "likes": 428,
+        "retweets": 62,
+        "replies": 38,
+        "likes_h": "428"
+      },
+      "engagement": 590,
+      "hot": false
+    },
     {
       "id": "x_2071715347581837357",
       "title": "We're working with @PalantirTech to bring NVIDIA Nemotron open models into secure, air-gapped environments for U.S. government agencies and critical infrastructure operators. The new engine lets…",
@@ -40,15 +249,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (models, nemotron)",
-        "high engagement (843 likes)"
+        "high engagement (1.3K likes)"
       ],
       "metrics": {
-        "likes": 843,
-        "retweets": 149,
-        "replies": 39,
-        "likes_h": "843"
+        "likes": 1278,
+        "retweets": 216,
+        "replies": 57,
+        "likes_h": "1.3K"
       },
-      "engagement": 1180,
+      "engagement": 1767,
       "hot": false
     },
     {
@@ -75,7 +284,7 @@
       "summary": "The future of computer graphics is here, and it's built by AI. ✨ Don't miss the NVIDIA Research Keynote at SIGGRAPH 2026 for live demos and research examples showcasing breakthrough neural rendering, world models, and simulation methods across creative tools, industrial design,",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 78,
+      "worthiness_score": 79,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -83,12 +292,12 @@
         "tech substance (models, research)"
       ],
       "metrics": {
-        "likes": 163,
-        "retweets": 30,
-        "replies": 24,
-        "likes_h": "163"
+        "likes": 228,
+        "retweets": 41,
+        "replies": 29,
+        "likes_h": "228"
       },
-      "engagement": 247,
+      "engagement": 339,
       "hot": false
     },
     {
@@ -164,15 +373,15 @@
         "casual tone (this)",
         "announcement language (generally available)",
         "tech substance (models, claude, platform)",
-        "high engagement (980 likes)"
+        "high engagement (1.3K likes)"
       ],
       "metrics": {
-        "likes": 980,
-        "retweets": 113,
-        "replies": 67,
-        "likes_h": "980"
+        "likes": 1341,
+        "retweets": 162,
+        "replies": 84,
+        "likes_h": "1.3K"
       },
-      "engagement": 1273,
+      "engagement": 1749,
       "hot": false
     },
     {
@@ -207,12 +416,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 311,
-        "retweets": 51,
-        "replies": 31,
-        "likes_h": "311"
+        "likes": 364,
+        "retweets": 61,
+        "replies": 35,
+        "likes_h": "364"
       },
-      "engagement": 444,
+      "engagement": 521,
       "hot": false
     },
     {
@@ -287,15 +496,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (model, claude)",
-        "high engagement (30.4K likes)"
+        "high engagement (30.5K likes)"
       ],
       "metrics": {
-        "likes": 30366,
-        "retweets": 3192,
-        "replies": 2357,
-        "likes_h": "30.4K"
+        "likes": 30518,
+        "retweets": 3202,
+        "replies": 2393,
+        "likes_h": "30.5K"
       },
-      "engagement": 39107,
+      "engagement": 39315,
       "hot": true
     },
     {
@@ -330,12 +539,12 @@
         "tech substance (models, fine-tune)"
       ],
       "metrics": {
-        "likes": 484,
+        "likes": 486,
         "retweets": 70,
-        "replies": 52,
-        "likes_h": "484"
+        "replies": 53,
+        "likes_h": "486"
       },
-      "engagement": 676,
+      "engagement": 679,
       "hot": false
     },
     {
@@ -413,12 +622,12 @@
         "high engagement (3.3K likes)"
       ],
       "metrics": {
-        "likes": 3253,
-        "retweets": 199,
-        "replies": 82,
+        "likes": 3279,
+        "retweets": 201,
+        "replies": 83,
         "likes_h": "3.3K"
       },
-      "engagement": 3733,
+      "engagement": 3764,
       "hot": false
     },
     {
@@ -455,12 +664,12 @@
         "high engagement (3.9K likes)"
       ],
       "metrics": {
-        "likes": 3917,
-        "retweets": 232,
-        "replies": 105,
+        "likes": 3924,
+        "retweets": 234,
+        "replies": 107,
         "likes_h": "3.9K"
       },
-      "engagement": 4486,
+      "engagement": 4499,
       "hot": false
     },
     {
@@ -498,12 +707,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 5155,
-        "retweets": 374,
-        "replies": 228,
+        "likes": 5176,
+        "retweets": 376,
+        "replies": 229,
         "likes_h": "5.2K"
       },
-      "engagement": 6131,
+      "engagement": 6157,
       "hot": false
     },
     {
@@ -538,15 +747,15 @@
         "announcement language (introducing)",
         "tech substance (model, gpt)",
         "links to a source",
-        "high engagement (39.4K likes)"
+        "high engagement (39.6K likes)"
       ],
       "metrics": {
-        "likes": 39442,
-        "retweets": 5647,
-        "replies": 3377,
-        "likes_h": "39.4K"
+        "likes": 39649,
+        "retweets": 5677,
+        "replies": 3443,
+        "likes_h": "39.6K"
       },
-      "engagement": 54113,
+      "engagement": 54446,
       "hot": true
     },
     {
@@ -584,13 +793,13 @@
         "high engagement (6.3K likes)"
       ],
       "metrics": {
-        "likes": 6262,
-        "retweets": 373,
-        "replies": 342,
+        "likes": 6277,
+        "retweets": 374,
+        "replies": 344,
         "likes_h": "6.3K"
       },
-      "engagement": 7350,
-      "hot": true
+      "engagement": 7369,
+      "hot": false
     },
     {
       "id": "x_2070528961235575278",
@@ -626,12 +835,12 @@
         "high engagement (2.7K likes)"
       ],
       "metrics": {
-        "likes": 2714,
+        "likes": 2731,
         "retweets": 366,
-        "replies": 405,
+        "replies": 418,
         "likes_h": "2.7K"
       },
-      "engagement": 3851,
+      "engagement": 3881,
       "hot": false
     },
     {
@@ -828,12 +1037,12 @@
         "high engagement (3.2K likes)"
       ],
       "metrics": {
-        "likes": 3203,
+        "likes": 3209,
         "retweets": 216,
         "replies": 251,
         "likes_h": "3.2K"
       },
-      "engagement": 3886,
+      "engagement": 3892,
       "hot": false
     },
     {
@@ -871,12 +1080,12 @@
         "high engagement (1K likes)"
       ],
       "metrics": {
-        "likes": 1007,
-        "retweets": 120,
-        "replies": 76,
+        "likes": 1012,
+        "retweets": 124,
+        "replies": 77,
         "likes_h": "1K"
       },
-      "engagement": 1323,
+      "engagement": 1337,
       "hot": false
     },
     {
@@ -1112,218 +1321,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (agent, agents)",
-        "high engagement (786 likes)"
+        "high engagement (791 likes)"
       ],
       "metrics": {
-        "likes": 786,
+        "likes": 791,
         "retweets": 101,
-        "replies": 99,
-        "likes_h": "786"
+        "replies": 100,
+        "likes_h": "791"
       },
-      "engagement": 1087,
-      "hot": false
-    },
-    {
-      "id": "x_2069770172802773292",
-      "title": "We’ve designed and built our first AI chip: Jalapeño. Designed from the ground up by OpenAI and brought to production with @Broadcom, Jalapeño is purpose-built for the LLM workloads powering ChatGPT,…",
-      "link": "https://x.com/OpenAI/status/2069770172802773292",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-06-24T13:10:38.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Product"
-      ],
-      "summary": "We’ve designed and built our first AI chip: Jalapeño. Designed from the ground up by OpenAI and brought to production with @Broadcom, Jalapeño is purpose-built for the LLM workloads powering ChatGPT, Codex, the API, and future agentic products. Chips are foundational to the AI",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 88,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (api, chip, chips)",
-        "high engagement (19.2K likes)"
-      ],
-      "metrics": {
-        "likes": 19168,
-        "retweets": 1996,
-        "replies": 1186,
-        "likes_h": "19.2K"
-      },
-      "engagement": 24346,
-      "hot": true
-    },
-    {
-      "id": "x_2069525909724418344",
-      "title": "For the past two years, an NVIDIA AI infrastructure contribution to the NAIRR pilot has helped power over 700 U.S. research projects. With DGX reference architecture providing dedicated resources,…",
-      "link": "https://x.com/nvidia/status/2069525909724418344",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-23T21:00:01.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Research"
-      ],
-      "summary": "For the past two years, an NVIDIA AI infrastructure contribution to the NAIRR pilot has helped power over 700 U.S. research projects. With DGX reference architecture providing dedicated resources, researchers have uncovered groundbreaking technologies that will reshape and",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 75,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (research)"
-      ],
-      "metrics": {
-        "likes": 327,
-        "retweets": 48,
-        "replies": 34,
-        "likes_h": "327"
-      },
-      "engagement": 457,
-      "hot": false
-    },
-    {
-      "id": "x_2069483224158646739",
-      "title": "OpenAI DevDay 2026 applications are now open! Our biggest developer event gets even bigger. 📍 San Francisco 📅 September 29 Apply by July 10: https://devday.openai.com/",
-      "link": "https://x.com/OpenAI/status/2069483224158646739",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-06-23T18:10:24.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Commentary"
-      ],
-      "summary": "OpenAI DevDay 2026 applications are now open! Our biggest developer event gets even bigger. 📍 San Francisco 📅 September 29 Apply by July 10: https://devday.openai.com/",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 66,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "links to a source",
-        "high engagement (1.8K likes)"
-      ],
-      "metrics": {
-        "likes": 1828,
-        "retweets": 185,
-        "replies": 152,
-        "likes_h": "1.8K"
-      },
-      "engagement": 2350,
-      "hot": false
-    },
-    {
-      "id": "x_2069480608749817922",
-      "title": "The latest supercomputing rankings are in - NVIDIA is powering 81% of the TOP500 and 89% of all new systems, in addition to: ⚡2x the AI training throughput of all other platforms combined ⚡3x the AI…",
-      "link": "https://x.com/nvidia/status/2069480608749817922",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-23T18:00:00.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Research"
-      ],
-      "summary": "The latest supercomputing rankings are in - NVIDIA is powering 81% of the TOP500 and 89% of all new systems, in addition to: ⚡2x the AI training throughput of all other platforms combined ⚡3x the AI inference throughput ⚡The top 8 most energy-efficient systems on the Green500",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 88,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (inference, training)",
-        "concrete metrics"
-      ],
-      "metrics": {
-        "likes": 359,
-        "retweets": 52,
-        "replies": 29,
-        "likes_h": "359"
-      },
-      "engagement": 492,
-      "hot": false
-    },
-    {
-      "id": "x_2069450408737517660",
-      "title": "Specialized AI agents help enterprises turn AI into systems built for their own workflows. NVIDIA Agent Toolkit brings together open Nemotron models, tools, skills and secure runtime support to help…",
-      "link": "https://x.com/nvidia/status/2069450408737517660",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-23T16:00:00.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product"
-      ],
-      "summary": "Specialized AI agents help enterprises turn AI into systems built for their own workflows. NVIDIA Agent Toolkit brings together open Nemotron models, tools, skills and secure runtime support to help teams build agents tuned for domain-specific work. Learn more:",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 91,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "tech substance (models, nemotron, agent)"
-      ],
-      "metrics": {
-        "likes": 572,
-        "retweets": 81,
-        "replies": 55,
-        "likes_h": "572"
-      },
-      "engagement": 789,
+      "engagement": 1093,
       "hot": false
     }
   ]
