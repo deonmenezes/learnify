@@ -1,37 +1,76 @@
 {
-  "generated_at": "2026-06-30T15:19:49.597Z",
+  "generated_at": "2026-06-30T17:29:08.254Z",
   "subs": [
     "MachineLearning",
-    "programming",
-    "SkincareAddiction",
+    "LocalLLaMA",
+    "running",
+    "startups",
     "artificial",
     "Futurology",
-    "running",
-    "LocalLLaMA",
     "netsec",
     "gadgets",
     "science",
     "robotics",
+    "SkincareAddiction",
     "longevity",
     "nutrition",
+    "programming",
     "cybersecurity",
-    "bodyweightfitness",
-    "startups",
-    "hardware"
+    "bodyweightfitness"
   ],
   "count": 36,
   "by_category": {
-    "AI / ML": 9,
+    "Startups & Funding": 2,
+    "AI / ML": 10,
     "Science": 7,
     "Fitness": 5,
-    "Security": 4,
-    "Hardware & Gadgets": 3,
+    "Security": 3,
+    "Hardware & Gadgets": 2,
     "Robotics": 2,
     "Skincare": 3,
-    "Coding & Dev Tools": 2,
-    "Startups & Funding": 1
+    "Coding & Dev Tools": 2
   },
   "articles": [
+    {
+      "id": "reddit_1ujhx3o",
+      "title": "Watch out for crap co-founders - i will not promote",
+      "link": "https://www.reddit.com/r/startups/comments/1ujhx3o/watch_out_for_crap_cofounders_i_will_not_promote/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/startups · community knowledge",
+      "content_type": "post",
+      "author": "u/EatDirty · r/startups",
+      "handle": "startups",
+      "org": "r/startups",
+      "platform": "reddit",
+      "published": "2026-06-30T07:03:07.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/startups"
+      ],
+      "summary": "This is a warning and rant to any founders looking for a co-founder or business partner through co-founder matching platforms or programs. I did Antler about half a year ago (I won&#39;t specify the location), and I have to say that some of the people I met there were among the biggest liars, narcissists, and most…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/startups this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1uj45np",
       "title": "Meta was secretly running on Google's Gemini the whole time and then got cut off for using too much",
@@ -65,6 +104,86 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/artificial this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uj2yym",
+      "title": "on Dario’s statement",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1uj2yym/on_darios_statement/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/LocalLLaMA · community knowledge",
+      "content_type": "post",
+      "author": "u/turtle-toaster · r/LocalLLaMA",
+      "handle": "LocalLLaMA",
+      "org": "r/LocalLLaMA",
+      "platform": "reddit",
+      "published": "2026-06-29T19:52:04.000Z",
+      "image": "https://preview.redd.it/8oy1xmcu0aah1.jpeg?width=640&crop=smart&auto=webp&s=276b24e3aab586eb28b118521d86dcd10a1f2f35",
+      "thumbnail": "https://preview.redd.it/8oy1xmcu0aah1.jpeg?width=640&crop=smart&auto=webp&s=276b24e3aab586eb28b118521d86dcd10a1f2f35",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/LocalLLaMA"
+      ],
+      "summary": "on Dario’s statement",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/LocalLLaMA this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uiv8e4",
+      "title": "Effect of GLM 5.2 !!",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1uiv8e4/effect_of_glm_52/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/LocalLLaMA · community knowledge",
+      "content_type": "post",
+      "author": "u/Independent-Wind4462 · r/LocalLLaMA",
+      "handle": "LocalLLaMA",
+      "org": "r/LocalLLaMA",
+      "platform": "reddit",
+      "published": "2026-06-29T15:11:49.000Z",
+      "image": "https://preview.redd.it/i9o1vycvm8ah1.jpeg?width=640&crop=smart&auto=webp&s=4d03652e7169ca0225518bd13fd256d20e8a3447",
+      "thumbnail": "https://preview.redd.it/i9o1vycvm8ah1.jpeg?width=640&crop=smart&auto=webp&s=4d03652e7169ca0225518bd13fd256d20e8a3447",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/LocalLLaMA"
+      ],
+      "summary": "Effect of GLM 5.2 !!",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/LocalLLaMA this week"
       ],
       "metrics": {
         "likes": 0,
@@ -183,6 +302,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/running this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uig23k",
+      "title": "Give me all your advice - I will not promote",
+      "link": "https://www.reddit.com/r/startups/comments/1uig23k/give_me_all_your_advice_i_will_not_promote/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/startups · community knowledge",
+      "content_type": "post",
+      "author": "u/PracticalNobody · r/startups",
+      "handle": "startups",
+      "org": "r/startups",
+      "platform": "reddit",
+      "published": "2026-06-29T02:34:12.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/startups"
+      ],
+      "summary": "I quit my job to bootstrap my startup and it is the most difficult thing I have ever done. The uncertainty and emotional roller coaster is just hard. I have been in the Tech space for 22 years, managed teams and this is the hardest of them all. The unpredictability is different. Give me all your tips please. &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/startups this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1286,164 +1445,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/gadgets this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ufrzi2",
-      "title": "Bad cybersecurity by Secret Service agents put US officials at risk, inspector general says",
-      "link": "https://www.reddit.com/r/cybersecurity/comments/1ufrzi2/bad_cybersecurity_by_secret_service_agents_put_us/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/cybersecurity · community knowledge",
-      "content_type": "post",
-      "author": "u/Fcking_Chuck · r/cybersecurity",
-      "handle": "cybersecurity",
-      "org": "r/cybersecurity",
-      "platform": "reddit",
-      "published": "2026-06-26T00:52:49.000Z",
-      "image": "https://external-preview.redd.it/O05gCpjkKqmGx7oQ7vH6rVn-7B1wiFHvJI5r0bVZOh0.jpeg?width=640&crop=smart&auto=webp&s=7c9cc5ad07a44e9910dce3b79ebcf3d4ea833f42",
-      "thumbnail": "https://external-preview.redd.it/O05gCpjkKqmGx7oQ7vH6rVn-7B1wiFHvJI5r0bVZOh0.jpeg?width=640&crop=smart&auto=webp&s=7c9cc5ad07a44e9910dce3b79ebcf3d4ea833f42",
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/cybersecurity"
-      ],
-      "summary": "Bad cybersecurity by Secret Service agents put US officials at risk, inspector general says",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/cybersecurity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ufo0un",
-      "title": "US Govt to individually approve who gets GPT 5.6.",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/LocalLLaMA · community knowledge",
-      "content_type": "post",
-      "author": "u/AtlanticHM · r/LocalLLaMA",
-      "handle": "LocalLLaMA",
-      "org": "r/LocalLLaMA",
-      "platform": "reddit",
-      "published": "2026-06-25T22:02:41.000Z",
-      "image": "https://preview.redd.it/hrrxhs7j4i9h1.jpeg?width=640&crop=smart&auto=webp&s=e3c1bb42290776f1b52f645989bae8b2ff8c5788",
-      "thumbnail": "https://preview.redd.it/hrrxhs7j4i9h1.jpeg?width=640&crop=smart&auto=webp&s=e3c1bb42290776f1b52f645989bae8b2ff8c5788",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/LocalLLaMA"
-      ],
-      "summary": "US Govt to individually approve who gets GPT 5.6.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/LocalLLaMA this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uflctq",
-      "title": "Leaving a stable £100k job to build a nuclear startup, how did you handle the fear? I will not promote",
-      "link": "https://www.reddit.com/r/startups/comments/1uflctq/leaving_a_stable_100k_job_to_build_a_nuclear/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/startups · community knowledge",
-      "content_type": "post",
-      "author": "u/Mrrduck · r/startups",
-      "handle": "startups",
-      "org": "r/startups",
-      "platform": "reddit",
-      "published": "2026-06-25T20:20:18.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/startups"
-      ],
-      "summary": "Last year I started working on a hard-tech startup idea in nuclear engineering. About a month ago, it reached a stage where it felt presentable. At first, I wasn’t taking it too seriously, it started more as something fun to explore. But after sending a few emails around, a VC became interested. I initially mentioned…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/startups this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ufkcox",
-      "title": "French retailer mocks €1039 Steam Machine with “Stim Machine” RX 9060 XT PC for €999",
-      "link": "https://www.reddit.com/r/hardware/comments/1ufkcox/french_retailer_mocks_1039_steam_machine_with/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/hardware · community knowledge",
-      "content_type": "post",
-      "author": "u/JohnBarry_Dost · r/hardware",
-      "handle": "hardware",
-      "org": "r/hardware",
-      "platform": "reddit",
-      "published": "2026-06-25T19:42:48.000Z",
-      "image": "https://external-preview.redd.it/70K_7nHeUyQOHuI9Licuv-yUPp5XtQUoBc2tmWm4iBQ.jpeg?width=640&crop=smart&auto=webp&s=ab8424bf90c0c8106109eadfa78f1c532726fe4d",
-      "thumbnail": "https://external-preview.redd.it/70K_7nHeUyQOHuI9Licuv-yUPp5XtQUoBc2tmWm4iBQ.jpeg?width=640&crop=smart&auto=webp&s=ab8424bf90c0c8106109eadfa78f1c532726fe4d",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/hardware"
-      ],
-      "summary": "French retailer mocks €1039 Steam Machine with “Stim Machine” RX 9060 XT PC for €999",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/hardware this week"
       ],
       "metrics": {
         "likes": 0,
