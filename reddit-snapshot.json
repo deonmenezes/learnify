@@ -1,9 +1,10 @@
 {
-  "generated_at": "2026-06-30T01:35:48.836Z",
+  "generated_at": "2026-06-30T06:20:00.713Z",
   "subs": [
     "MachineLearning",
-    "programming",
-    "cybersecurity",
+    "artificial",
+    "nutrition",
+    "investing",
     "Futurology",
     "LocalLLaMA",
     "running",
@@ -13,23 +14,23 @@
     "longevity",
     "netsec",
     "SkincareAddiction",
-    "artificial",
+    "cybersecurity",
     "bodyweightfitness",
+    "programming",
     "startups",
-    "hardware",
-    "investing"
+    "hardware"
   ],
   "count": 36,
   "by_category": {
     "AI / ML": 9,
     "Science": 7,
-    "Fitness": 3,
+    "Fitness": 4,
     "Hardware & Gadgets": 5,
     "Robotics": 3,
     "Security": 3,
     "Skincare": 1,
     "Coding & Dev Tools": 1,
-    "Startups & Funding": 4
+    "Startups & Funding": 3
   },
   "articles": [
     {
@@ -506,6 +507,46 @@
       }
     },
     {
+      "id": "reddit_1uhb5t8",
+      "title": "Soluble fiber at breakfast",
+      "link": "https://www.reddit.com/r/nutrition/comments/1uhb5t8/soluble_fiber_at_breakfast/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/nutrition · community knowledge",
+      "content_type": "post",
+      "author": "u/Strange_Owl5565 · r/nutrition",
+      "handle": "nutrition",
+      "org": "r/nutrition",
+      "platform": "reddit",
+      "published": "2026-06-27T19:11:00.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Nutrition",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "Nutrition",
+        "r/nutrition"
+      ],
+      "summary": "I&#39;ve read the concept of starting a meal with veggies, to have soluble fiber&#39;s gel line your intestinal tract before other foods enter the system, so foods will get processed more slowly and thereby blunt glucose spikes. My questions: 1) Is this true? 2) If true, is it counterproductive to mix my chopped veg…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/nutrition this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1uhatw8",
       "title": "MathFormer: Testing whether symbolic math is pattern matching or reasoning [D]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1uhatw8/mathformer_testing_whether_symbolic_math_is/",
@@ -854,6 +895,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/cybersecurity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1ug2bcg",
+      "title": "Zero calories has made us stop asking questions.",
+      "link": "https://www.reddit.com/r/nutrition/comments/1ug2bcg/zero_calories_has_made_us_stop_asking_questions/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/nutrition · community knowledge",
+      "content_type": "post",
+      "author": "u/Exact_Importance_507 · r/nutrition",
+      "handle": "nutrition",
+      "org": "r/nutrition",
+      "platform": "reddit",
+      "published": "2026-06-26T09:50:55.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Nutrition",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "Nutrition",
+        "r/nutrition"
+      ],
+      "summary": "I’m not saying diet soft drinks, sugar substitutes, or zero-calorie products are automatically bad. What I find interesting is how the conversation seems to stop the moment something is labeled zero calories. People will scrutinize a regular cold drink, but often treat the diet version as if it’s unquestionably…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/nutrition this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1366,85 +1447,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/artificial this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uf4s6x",
-      "title": "Gold is down ~24% from its recent high.",
-      "link": "https://www.reddit.com/r/investing/comments/1uf4s6x/gold_is_down_24_from_its_recent_high/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/investing · community knowledge",
-      "content_type": "post",
-      "author": "u/Dhruvi-60 · r/investing",
-      "handle": "investing",
-      "org": "r/investing",
-      "platform": "reddit",
-      "published": "2026-06-25T09:03:14.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/investing"
-      ],
-      "summary": "I&#39;m considering buying gold for the long term. Do you think this is a good accumulation opportunity, or could prices fall further? If you were buying today, would you invest a lump sum, buy gradually over the next few months, or wait for more downside? Curious to hear different views on gold&#39;s outlook over the…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/investing this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uf0kzc",
-      "title": "Achievements for Thursday, June 25, 2026",
-      "link": "https://www.reddit.com/r/running/comments/1uf0kzc/achievements_for_thursday_june_25_2026/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/running · community knowledge",
-      "content_type": "post",
-      "author": "u/AutoModerator · r/running",
-      "handle": "running",
-      "org": "r/running",
-      "platform": "reddit",
-      "published": "2026-06-25T05:02:05.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/running"
-      ],
-      "summary": "Hey runners, it&#39;s another day and it is time to post your accomplishments you&#39;d like to share - big or small. Note: No need to preface YOUR accomplishments with something like, &quot;this may not be an accomplishment to most of you...&quot;. Be proud of your achievement. &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/running this week"
       ],
       "metrics": {
         "likes": 0,
