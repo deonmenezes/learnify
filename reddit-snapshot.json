@@ -1,38 +1,78 @@
 {
-  "generated_at": "2026-06-30T10:15:35.401Z",
+  "generated_at": "2026-06-30T12:34:02.526Z",
   "subs": [
     "MachineLearning",
-    "Futurology",
-    "netsec",
-    "LocalLLaMA",
+    "artificial",
     "running",
+    "investing",
+    "Futurology",
+    "LocalLLaMA",
+    "netsec",
     "gadgets",
     "science",
     "robotics",
     "longevity",
     "nutrition",
     "SkincareAddiction",
-    "artificial",
     "cybersecurity",
     "bodyweightfitness",
     "programming",
     "startups",
-    "hardware",
-    "investing"
+    "hardware"
   ],
   "count": 36,
   "by_category": {
-    "AI / ML": 8,
+    "AI / ML": 9,
     "Science": 7,
-    "Fitness": 4,
+    "Fitness": 5,
     "Security": 4,
-    "Hardware & Gadgets": 5,
+    "Hardware & Gadgets": 4,
     "Robotics": 3,
     "Skincare": 1,
     "Coding & Dev Tools": 1,
-    "Startups & Funding": 3
+    "Startups & Funding": 2
   },
   "articles": [
+    {
+      "id": "reddit_1uj45np",
+      "title": "Meta was secretly running on Google's Gemini the whole time and then got cut off for using too much",
+      "link": "https://www.reddit.com/r/artificial/comments/1uj45np/meta_was_secretly_running_on_googles_gemini_the/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/artificial · community knowledge",
+      "content_type": "post",
+      "author": "u/Neil_at_HackerEarth · r/artificial",
+      "handle": "artificial",
+      "org": "r/artificial",
+      "platform": "reddit",
+      "published": "2026-06-29T20:36:20.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/artificial"
+      ],
+      "summary": "Saw this article today and it genuinely surprised me Meta has been using Gemini for customer service, ad tools, content moderation, all of it. and apparently chose it because it worked better than their own Llama models and then Google cut them off because Meta was consuming too much capacity. Now employees are being…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/artificial this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1uiqhiv",
       "title": "Cerebras OpenAI deal capacity has effectively killed the waitlist for everyone else [D]",
@@ -105,6 +145,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Futurology this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uiiyb5",
+      "title": "Achievements for Monday, June 29, 2026",
+      "link": "https://www.reddit.com/r/running/comments/1uiiyb5/achievements_for_monday_june_29_2026/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/running · community knowledge",
+      "content_type": "post",
+      "author": "u/AutoModerator · r/running",
+      "handle": "running",
+      "org": "r/running",
+      "platform": "reddit",
+      "published": "2026-06-29T05:02:07.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/running"
+      ],
+      "summary": "Hey runners, it&#39;s another day and it is time to post your accomplishments you&#39;d like to share - big or small. Note: No need to preface YOUR accomplishments with something like, &quot;this may not be an accomplishment to most of you...&quot;. Be proud of your achievement. &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/running this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1367,85 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/robotics this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ufb5vb",
-      "title": "What founders do after building a company? I will not promote",
-      "link": "https://www.reddit.com/r/startups/comments/1ufb5vb/what_founders_do_after_building_a_company_i_will/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/startups · community knowledge",
-      "content_type": "post",
-      "author": "u/ShivanshLonare · r/startups",
-      "handle": "startups",
-      "org": "r/startups",
-      "platform": "reddit",
-      "published": "2026-06-25T14:10:59.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/startups"
-      ],
-      "summary": "What founders do after selling or building a company? Do they start a new company? Or they retire? What you will do after building or selling your company? As a founder I&#39;ll probably start a new company with even bigger goal than previous. What you will do? &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/startups this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ufaygu",
-      "title": "Apple raises prices on MacBook and iPad due to memory crunch, hints at more to come",
-      "link": "https://www.reddit.com/r/gadgets/comments/1ufaygu/apple_raises_prices_on_macbook_and_ipad_due_to/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/gadgets · community knowledge",
-      "content_type": "post",
-      "author": "u/hatramroany · r/gadgets",
-      "handle": "gadgets",
-      "org": "r/gadgets",
-      "platform": "reddit",
-      "published": "2026-06-25T14:03:14.000Z",
-      "image": "https://external-preview.redd.it/Uc6n4PFjtBuZLK0E-pfIlP1t2SF1J4OjliFuMopd6hI.jpeg?width=640&crop=smart&auto=webp&s=0bc404c9380d575d0568e6121a992430069c42a1",
-      "thumbnail": "https://external-preview.redd.it/Uc6n4PFjtBuZLK0E-pfIlP1t2SF1J4OjliFuMopd6hI.jpeg?width=640&crop=smart&auto=webp&s=0bc404c9380d575d0568e6121a992430069c42a1",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/gadgets"
-      ],
-      "summary": "Apple raises prices on MacBook and iPad due to memory crunch, hints at more to come",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/gadgets this week"
       ],
       "metrics": {
         "likes": 0,
