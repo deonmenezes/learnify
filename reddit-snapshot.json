@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-06-30T06:20:00.713Z",
+  "generated_at": "2026-06-30T10:15:35.401Z",
   "subs": [
     "MachineLearning",
-    "artificial",
-    "nutrition",
-    "investing",
     "Futurology",
+    "netsec",
     "LocalLLaMA",
     "running",
     "gadgets",
     "science",
     "robotics",
     "longevity",
-    "netsec",
+    "nutrition",
     "SkincareAddiction",
+    "artificial",
     "cybersecurity",
     "bodyweightfitness",
     "programming",
     "startups",
-    "hardware"
+    "hardware",
+    "investing"
   ],
   "count": 36,
   "by_category": {
-    "AI / ML": 9,
+    "AI / ML": 8,
     "Science": 7,
     "Fitness": 4,
+    "Security": 4,
     "Hardware & Gadgets": 5,
     "Robotics": 3,
-    "Security": 3,
     "Skincare": 1,
     "Coding & Dev Tools": 1,
     "Startups & Funding": 3
@@ -263,6 +263,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uhveou",
+      "title": "I tried a Local AI model (Qwen 3.6 27b) for security research and it works surprisingly well.",
+      "link": "https://www.reddit.com/r/netsec/comments/1uhveou/i_tried_a_local_ai_model_qwen_36_27b_for_security/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/netsec · community knowledge",
+      "content_type": "post",
+      "author": "u/ezzzzz · r/netsec",
+      "handle": "netsec",
+      "org": "r/netsec",
+      "platform": "reddit",
+      "published": "2026-06-28T11:56:40.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/netsec"
+      ],
+      "summary": "I tried a Local AI model (Qwen 3.6 27b) for security research and it works surprisingly well.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/netsec this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1407,46 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/gadgets this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uf5pzu",
-      "title": "Claude Fable 5 may return today after 13-day government-forced suspension",
-      "link": "https://www.reddit.com/r/artificial/comments/1uf5pzu/claude_fable_5_may_return_today_after_13day/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/artificial · community knowledge",
-      "content_type": "post",
-      "author": "u/Direct-Attention8597 · r/artificial",
-      "handle": "artificial",
-      "org": "r/artificial",
-      "platform": "reddit",
-      "published": "2026-06-25T09:58:37.000Z",
-      "image": "https://preview.redd.it/galqj0mcje9h1.jpeg?width=640&crop=smart&auto=webp&s=1f6f791291a1eb8a668f610c3d4d1bd6aa94f51a",
-      "thumbnail": "https://preview.redd.it/galqj0mcje9h1.jpeg?width=640&crop=smart&auto=webp&s=1f6f791291a1eb8a668f610c3d4d1bd6aa94f51a",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/artificial"
-      ],
-      "summary": "Here’s the full timeline: -June 9: Anthropic releases Claude Fable 5, their most powerful public model ever (Mythos-class with safeguards) -June 12: US government issues an export control directive at 5:21 PM, ordering Anthropic to cut off access to ALL foreign nationals. Model goes offline worldwide within 90 minutes…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/artificial this week"
       ],
       "metrics": {
         "likes": 0,
