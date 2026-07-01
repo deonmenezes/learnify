@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-01T21:12:36.624Z",
+  "generated_at": "2026-07-01T22:52:41.512Z",
   "subs": [
     "MachineLearning",
-    "Futurology",
+    "science",
     "netsec",
     "Fitness",
     "artificial",
@@ -14,23 +14,101 @@
     "startups",
     "SkincareAddiction",
     "LocalLLaMA",
+    "Futurology",
     "running",
-    "gadgets",
-    "science",
-    "longevity"
+    "gadgets"
   ],
   "count": 36,
   "by_category": {
+    "AI / ML": 12,
+    "Science": 7,
     "Fitness": 7,
-    "AI / ML": 11,
     "Security": 3,
     "Hardware & Gadgets": 3,
-    "Robotics": 2,
+    "Robotics": 1,
     "Startups & Funding": 2,
-    "Skincare": 2,
-    "Science": 6
+    "Skincare": 1
   },
   "articles": [
+    {
+      "id": "reddit_1ukjtlm",
+      "title": "On July 1, 2026, arXiv will spin out from Cornell University, its home for the past 25 years, to become an independent nonprofit organization. Major funding support from Simons Foundation and Schmidt Sciences. Ditching the red for their website. [N]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1ukjtlm/on_july_1_2026_arxiv_will_spin_out_from_cornell/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/MachineLearning · community knowledge",
+      "content_type": "post",
+      "author": "u/Nunki08 · r/MachineLearning",
+      "handle": "MachineLearning",
+      "org": "r/MachineLearning",
+      "platform": "reddit",
+      "published": "2026-07-01T12:07:43.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/MachineLearning"
+      ],
+      "summary": "arXiv’s next chapter: Updates on our spin out from Cornell University: https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/ &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uki33h",
+      "title": "Conservatives maintain birth rates, but left-leaning Americans are having significantly fewer children, driving the U.S. birth decline. Education was consistently linked to having fewer children. Religious attendance was positively associated with having more children.",
+      "link": "https://www.reddit.com/r/science/comments/1uki33h/conservatives_maintain_birth_rates_but/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/science · community knowledge",
+      "content_type": "post",
+      "author": "u/mvea · r/science",
+      "handle": "science",
+      "org": "r/science",
+      "platform": "reddit",
+      "published": "2026-07-01T10:41:29.000Z",
+      "image": "https://external-preview.redd.it/lH3sZY9w0HJqdXkMQ8ttRcMDoE8UUS7GSAUYye5lr7Y.jpeg?width=640&crop=smart&auto=webp&s=c8093388e6ae2373343cb6ca896f06bb6112d604",
+      "thumbnail": "https://external-preview.redd.it/lH3sZY9w0HJqdXkMQ8ttRcMDoE8UUS7GSAUYye5lr7Y.jpeg?width=640&crop=smart&auto=webp&s=c8093388e6ae2373343cb6ca896f06bb6112d604",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/science"
+      ],
+      "summary": "Conservatives maintain birth rates, but left-leaning Americans are having significantly fewer children, driving the U.S. birth decline. Education was consistently linked to having fewer children. Religious attendance was positively associated with having more children.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/science this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1ukgcp1",
       "title": "Rant Wednesday - July 01, 2026",
@@ -340,6 +418,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/robotics this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1ujlsb6",
+      "title": "Scientists have shown that a single dose injection of DNA genetic instructions can produce weight loss and blood glucose control in mouse models that lasts up to 10 times as long as weight loss drugs like Ozempic and Wegovy. This could eliminate the need for repeated dosing.",
+      "link": "https://www.reddit.com/r/science/comments/1ujlsb6/scientists_have_shown_that_a_single_dose/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/science · community knowledge",
+      "content_type": "post",
+      "author": "u/mvea · r/science",
+      "handle": "science",
+      "org": "r/science",
+      "platform": "reddit",
+      "published": "2026-06-30T10:49:02.000Z",
+      "image": "https://external-preview.redd.it/nGedb-IQKiKNqa05vGUaCiFigESR9BNbcoL6N4OfX5Q.jpeg?width=640&crop=smart&auto=webp&s=8155c21176cc8effbba0466c85f91b870c748a5e",
+      "thumbnail": "https://external-preview.redd.it/nGedb-IQKiKNqa05vGUaCiFigESR9BNbcoL6N4OfX5Q.jpeg?width=640&crop=smart&auto=webp&s=8155c21176cc8effbba0466c85f91b870c748a5e",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/science"
+      ],
+      "summary": "Scientists have shown that a single dose injection of DNA genetic instructions can produce weight loss and blood glucose control in mouse models that lasts up to 10 times as long as weight loss drugs like Ozempic and Wegovy. This could eliminate the need for repeated dosing.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/science this week"
       ],
       "metrics": {
         "likes": 0,
@@ -822,6 +939,45 @@
       }
     },
     {
+      "id": "reddit_1uioxbt",
+      "title": "Fatal rabies in a child: 11-year old boy was woken up by a bat on his nose and mouth in Ontario. He swatted the bat off his face and had no visible lesions so family did not seek medical help. 19 days later he developed rabies symptoms. He was given supportive care and died 17 days after admission.",
+      "link": "https://www.reddit.com/r/science/comments/1uioxbt/fatal_rabies_in_a_child_11year_old_boy_was_woken/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/science · community knowledge",
+      "content_type": "post",
+      "author": "u/mvea · r/science",
+      "handle": "science",
+      "org": "r/science",
+      "platform": "reddit",
+      "published": "2026-06-29T10:41:18.000Z",
+      "image": "https://external-preview.redd.it/ZaH_rruSwOzu1ploZOu7ip5CuvUkntv_1YwloIZ0vfY.gif?width=108&crop=smart&s=a62cf4c2b09c62274a7281e29ef65dc5e9c126de",
+      "thumbnail": "https://external-preview.redd.it/ZaH_rruSwOzu1ploZOu7ip5CuvUkntv_1YwloIZ0vfY.gif?width=108&crop=smart&s=a62cf4c2b09c62274a7281e29ef65dc5e9c126de",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/science"
+      ],
+      "summary": "Fatal rabies in a child: 11-year old boy was woken up by a bat on his nose and mouth in Ontario. He swatted the bat off his face and had no visible lesions so family did not seek medical help. 19 days later he developed rabies symptoms. He was given supportive care and died 17 days after admission.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/science this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1uijr3y",
       "title": "‘Cost Me the Election’: Data Centers Trigger Voter Backlash",
       "link": "https://www.reddit.com/r/Futurology/comments/1uijr3y/cost_me_the_election_data_centers_trigger_voter/",
@@ -1287,163 +1443,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Futurology this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uhl7ch",
-      "title": "The mysterious \"cold blob\" in the North Atlantic is caused by a weakening AMOC ocean current, a new study confirms. Deep-water data proves this cooling isn't an atmospheric fluke, signaling a shift toward a major climate tipping point.",
-      "link": "https://www.reddit.com/r/science/comments/1uhl7ch/the_mysterious_cold_blob_in_the_north_atlantic_is/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/science · community knowledge",
-      "content_type": "post",
-      "author": "u/DrPharmakon · r/science",
-      "handle": "science",
-      "org": "r/science",
-      "platform": "reddit",
-      "published": "2026-06-28T02:32:27.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/science"
-      ],
-      "summary": "The mysterious \"cold blob\" in the North Atlantic is caused by a weakening AMOC ocean current, a new study confirms. Deep-water data proves this cooling isn't an atmospheric fluke, signaling a shift toward a major climate tipping point.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/science this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uhi9z5",
-      "title": "Help understanding this mechanism",
-      "link": "https://www.reddit.com/r/robotics/comments/1uhi9z5/help_understanding_this_mechanism/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/robotics · community knowledge",
-      "content_type": "post",
-      "author": "u/halxcyion · r/robotics",
-      "handle": "robotics",
-      "org": "r/robotics",
-      "platform": "reddit",
-      "published": "2026-06-28T00:13:19.000Z",
-      "image": "https://external-preview.redd.it/MzhhMWZlZ2IxeDloMXF66815Y4BM6h01MGuhHx-BMhAHyUkK325bvl_WO8LB.png?width=640&crop=smart&auto=webp&s=4948e28571de7eb37a8549a7746095ac92749971",
-      "thumbnail": "https://external-preview.redd.it/MzhhMWZlZ2IxeDloMXF66815Y4BM6h01MGuhHx-BMhAHyUkK325bvl_WO8LB.png?width=640&crop=smart&auto=webp&s=4948e28571de7eb37a8549a7746095ac92749971",
-      "section": "Robotics",
-      "category": "Robotics",
-      "genre": "Robotics",
-      "categories": [
-        "Reddit",
-        "Robotics",
-        "r/robotics"
-      ],
-      "summary": "Hello all, I am trying to recreate this mechanism as a personal project - and I am really having trouble wrapping my head around how it works. The knees and below make perfect sense, but the hips are throwing me off. What is the purpose of the 2 perpendicular motors at the top? The ones facing horizontally? And how…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/robotics this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uhh57r",
-      "title": "[Acne] The difference between my chin, forehead, and cheeks is insane",
-      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1uhh57r/acne_the_difference_between_my_chin_forehead_and/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/SkincareAddiction · community knowledge",
-      "content_type": "post",
-      "author": "u/Special_Crab_1884 · r/SkincareAddiction",
-      "handle": "SkincareAddiction",
-      "org": "r/SkincareAddiction",
-      "platform": "reddit",
-      "published": "2026-06-27T23:22:20.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Skincare",
-      "category": "Skincare",
-      "genre": "Skincare",
-      "categories": [
-        "Reddit",
-        "Skincare",
-        "r/SkincareAddiction"
-      ],
-      "summary": "All my pimples get concentrated on the chin and it is relentless! It’s been honestly getting worse since early June to now. I don’t know why. My skincare routine is the exact same, my diet and water intake is the same, nothing about my usual routines have changed. Yet, my cheeks and forehead remain untouched and…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/SkincareAddiction this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uhe1f1",
-      "title": "The Alzheimer's Brain Is Overloaded With Sugar-Protein Modifications. A New Study Shows What That Is Doing to Cognition. | Healthspan",
-      "link": "https://www.reddit.com/r/longevity/comments/1uhe1f1/the_alzheimers_brain_is_overloaded_with/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/longevity · community knowledge",
-      "content_type": "post",
-      "author": "u/dan_in_ca · r/longevity",
-      "handle": "longevity",
-      "org": "r/longevity",
-      "platform": "reddit",
-      "published": "2026-06-27T21:09:23.000Z",
-      "image": "https://external-preview.redd.it/kLOvBMsTxCs4Q4CcysQf78n00EULYntaBQo1TQY7fbs.jpeg?width=640&crop=smart&auto=webp&s=a56e90e91239def2d3fa0e563c1a72380cba466c",
-      "thumbnail": "https://external-preview.redd.it/kLOvBMsTxCs4Q4CcysQf78n00EULYntaBQo1TQY7fbs.jpeg?width=640&crop=smart&auto=webp&s=a56e90e91239def2d3fa0e563c1a72380cba466c",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Longevity",
-      "categories": [
-        "Reddit",
-        "Science",
-        "Longevity",
-        "r/longevity"
-      ],
-      "summary": "For anybody interested in the metabolic hypothesis of Alzheimer&#39;s, this is an interesting overview of research on the overabundance of glycan protein modifications and the failure to clear them as contributors to Alzheimer&#39;s pathology. One of the more interesting callouts was glucosamine usage was associated…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/longevity this week"
       ],
       "metrics": {
         "likes": 0,
