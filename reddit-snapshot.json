@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-07-01T09:03:21.655Z",
+  "generated_at": "2026-07-01T12:19:14.875Z",
   "subs": [
     "MachineLearning",
+    "bodyweightfitness",
+    "robotics",
     "Fitness",
     "hardware",
     "startups",
@@ -14,21 +16,20 @@
     "singularity",
     "gadgets",
     "science",
-    "robotics",
     "longevity",
     "nutrition",
     "programming"
   ],
   "count": 36,
   "by_category": {
-    "Fitness": 4,
+    "Fitness": 6,
     "Hardware & Gadgets": 3,
-    "AI / ML": 12,
+    "AI / ML": 10,
+    "Robotics": 2,
     "Startups & Funding": 2,
-    "Skincare": 4,
+    "Skincare": 3,
     "Security": 3,
     "Science": 6,
-    "Robotics": 1,
     "Coding & Dev Tools": 1
   },
   "articles": [
@@ -143,6 +144,84 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1ujmb03",
+      "title": "Update: Remember my post about upgrading the plastic joints on the Berkeley Lite? The CNC cycloidal parts just arrived.",
+      "link": "https://www.reddit.com/r/robotics/comments/1ujmb03/update_remember_my_post_about_upgrading_the/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/robotics · community knowledge",
+      "content_type": "post",
+      "author": "u/External_Wasabi9131 · r/robotics",
+      "handle": "robotics",
+      "org": "r/robotics",
+      "platform": "reddit",
+      "published": "2026-06-30T11:16:03.000Z",
+      "image": "https://external-preview.redd.it/ZnQ3cm81ZTRsZWFoMaL9g-cnsLZYfhb_jeLEXgCuWEN5_Rj3RVMyLu61meRp.png?width=640&crop=smart&auto=webp&s=f3b7383a5240cf28eaec464b68cc4f8fdb525ab0",
+      "thumbnail": "https://external-preview.redd.it/ZnQ3cm81ZTRsZWFoMaL9g-cnsLZYfhb_jeLEXgCuWEN5_Rj3RVMyLu61meRp.png?width=640&crop=smart&auto=webp&s=f3b7383a5240cf28eaec464b68cc4f8fdb525ab0",
+      "section": "Robotics",
+      "category": "Robotics",
+      "genre": "Robotics",
+      "categories": [
+        "Reddit",
+        "Robotics",
+        "r/robotics"
+      ],
+      "summary": "Hey guys. A couple months back I asked this sub for some reality checks on using a 30:1 metal cycloidal to replace 3D printed joints for QDD. The first batch of CNC parts finally showed up. I was honestly expecting the tight machining tolerances to make it bind up, but turning the output flange by hand... the…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/robotics this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1ujkzm5",
+      "title": "Don't sleep on direct bicep work",
+      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1ujkzm5/dont_sleep_on_direct_bicep_work/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/bodyweightfitness · community knowledge",
+      "content_type": "post",
+      "author": "u/Reostat · r/bodyweightfitness",
+      "handle": "bodyweightfitness",
+      "org": "r/bodyweightfitness",
+      "platform": "reddit",
+      "published": "2026-06-30T10:04:37.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/bodyweightfitness"
+      ],
+      "summary": "Hey all, Not a bodyweight athlete by any means, I subbed here during Covid when all gyms were closed. I&#39;m primarily a gym goer, but I still like messing around with levers, and have always loved weighted dips and pull-ups/chin-ups. But, small PSA as someone who never did direct bicep work in the past: Bicep work…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/bodyweightfitness this week"
       ],
       "metrics": {
         "likes": 0,
@@ -420,6 +499,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/hardware this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uir2uw",
+      "title": "To those doubting the process…",
+      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1uir2uw/to_those_doubting_the_process/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/bodyweightfitness · community knowledge",
+      "content_type": "post",
+      "author": "u/woodman0310 · r/bodyweightfitness",
+      "handle": "bodyweightfitness",
+      "org": "r/bodyweightfitness",
+      "platform": "reddit",
+      "published": "2026-06-29T12:26:36.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/bodyweightfitness"
+      ],
+      "summary": "Guys I made it. Last night my wife commented that my arms looked bigger than they ever have. I started the RR exactly 2 months ago, and have been dedicated to it going full in MWF. Started monitoring my protein, supplementing with whey, and eating good whole foods. Scale hasn’t changed, but I can tell I’m getting…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/bodyweightfitness this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1326,125 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/programming this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uh3ccs",
-      "title": "[misc] Cat scratched my face 3 weeks before my Bachelorette & 5 weeks before my wedding. Advice for healing?",
-      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1uh3ccs/misc_cat_scratched_my_face_3_weeks_before_my/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/SkincareAddiction · community knowledge",
-      "content_type": "post",
-      "author": "u/SunshineEnthusiast · r/SkincareAddiction",
-      "handle": "SkincareAddiction",
-      "org": "r/SkincareAddiction",
-      "platform": "reddit",
-      "published": "2026-06-27T13:52:14.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Skincare",
-      "category": "Skincare",
-      "genre": "Skincare",
-      "categories": [
-        "Reddit",
-        "Skincare",
-        "r/SkincareAddiction"
-      ],
-      "summary": "Cat had the zoomies this morning and jumped on my face while I was sleeping. I’ve been working so hard on my skin and this just feels like a gut punch… please excuse the puffy and red face, I had a good cry before these photos I washed it with gentle cleanser and applied aquaphor. Is there anything else I can do to…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/SkincareAddiction this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uh259r",
-      "title": "Breaking news! Gemini 3.5 pro so ass the US government intervened to keep it out of the US!",
-      "link": "https://www.reddit.com/r/singularity/comments/1uh259r/breaking_news_gemini_35_pro_so_ass_the_us/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/singularity · community knowledge",
-      "content_type": "post",
-      "author": "u/THE--GRINCH · r/singularity",
-      "handle": "singularity",
-      "org": "r/singularity",
-      "platform": "reddit",
-      "published": "2026-06-27T12:59:02.000Z",
-      "image": "https://preview.redd.it/hf38st3dpt9h1.jpeg?width=640&crop=smart&auto=webp&s=b8ebdf79bfff1dab667c0b58f14aec3c8429c626",
-      "thumbnail": "https://preview.redd.it/hf38st3dpt9h1.jpeg?width=640&crop=smart&auto=webp&s=b8ebdf79bfff1dab667c0b58f14aec3c8429c626",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/singularity"
-      ],
-      "summary": "Breaking news! Gemini 3.5 pro so ass the US government intervened to keep it out of the US!",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/singularity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ugwccs",
-      "title": "So now scraping data without permission is bad for AI training all of sudden?",
-      "link": "https://www.reddit.com/r/artificial/comments/1ugwccs/so_now_scraping_data_without_permission_is_bad/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/artificial · community knowledge",
-      "content_type": "post",
-      "author": "u/base64-encode · r/artificial",
-      "handle": "artificial",
-      "org": "r/artificial",
-      "platform": "reddit",
-      "published": "2026-06-27T07:37:00.000Z",
-      "image": "https://preview.redd.it/36593how3s9h1.jpeg?width=640&crop=smart&auto=webp&s=feac65e2e17993de730f490dcc9f1fc02cad8434",
-      "thumbnail": "https://preview.redd.it/36593how3s9h1.jpeg?width=640&crop=smart&auto=webp&s=feac65e2e17993de730f490dcc9f1fc02cad8434",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/artificial"
-      ],
-      "summary": "So now scraping data without permission is bad for AI training all of sudden?",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/artificial this week"
       ],
       "metrics": {
         "likes": 0,
