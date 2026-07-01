@@ -1,14 +1,15 @@
 {
-  "generated_at": "2026-07-01T15:24:17.888Z",
+  "generated_at": "2026-07-01T17:33:58.394Z",
   "subs": [
     "MachineLearning",
+    "artificial",
+    "nutrition",
     "Fitness",
-    "robotics",
     "hardware",
+    "robotics",
     "bodyweightfitness",
     "startups",
     "SkincareAddiction",
-    "artificial",
     "LocalLLaMA",
     "netsec",
     "Futurology",
@@ -16,21 +17,18 @@
     "singularity",
     "gadgets",
     "science",
-    "longevity",
-    "nutrition",
-    "programming"
+    "longevity"
   ],
   "count": 36,
   "by_category": {
-    "Fitness": 6,
+    "Fitness": 8,
+    "AI / ML": 11,
     "Hardware & Gadgets": 3,
-    "AI / ML": 10,
     "Robotics": 2,
     "Startups & Funding": 2,
-    "Skincare": 3,
-    "Security": 3,
-    "Science": 6,
-    "Coding & Dev Tools": 1
+    "Skincare": 2,
+    "Security": 2,
+    "Science": 6
   },
   "articles": [
     {
@@ -65,6 +63,86 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Fitness this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uk7t49",
+      "title": "I have created a Chrome extension that fact checks YouTube videos as you watch",
+      "link": "https://www.reddit.com/r/artificial/comments/1uk7t49/i_have_created_a_chrome_extension_that_fact/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/artificial · community knowledge",
+      "content_type": "post",
+      "author": "u/userpostingcontent · r/artificial",
+      "handle": "artificial",
+      "org": "r/artificial",
+      "platform": "reddit",
+      "published": "2026-07-01T01:27:19.000Z",
+      "image": "https://external-preview.redd.it/bjM0YmJjbHNwaWFoMfWNxMgYwpHxuinx048xhDqtpcDeeO3pxE5NoZA_vX9j.png?width=640&crop=smart&auto=webp&s=47ae155758faea8b728d73abeffced4b39c2600a",
+      "thumbnail": "https://external-preview.redd.it/bjM0YmJjbHNwaWFoMfWNxMgYwpHxuinx048xhDqtpcDeeO3pxE5NoZA_vX9j.png?width=640&crop=smart&auto=webp&s=47ae155758faea8b728d73abeffced4b39c2600a",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/artificial"
+      ],
+      "summary": "Hi, I have been working on this for many months now and I&#39;d really be happy for people to try it out. It is a Chrome extension called &quot;PopUpFactCheck&quot;. It is an AI powered video fact checker. With it, you fact check any YouTube video that has captions. And you can use it, for free! You turn captions on,…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/artificial this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uk1yzl",
+      "title": "Recent Study on Omega-3 \"Fish Oil\" and no brain health benefits — Major caveats to consider...",
+      "link": "https://www.reddit.com/r/nutrition/comments/1uk1yzl/recent_study_on_omega3_fish_oil_and_no_brain/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/nutrition · community knowledge",
+      "content_type": "post",
+      "author": "u/Independent-Bug-9352 · r/nutrition",
+      "handle": "nutrition",
+      "org": "r/nutrition",
+      "platform": "reddit",
+      "published": "2026-06-30T21:19:03.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Nutrition",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "Nutrition",
+        "r/nutrition"
+      ],
+      "summary": "A recent study then echoed by the likes of USA Today as well as ScienceDaily are pushing a headline that fish oil supplements are ineffective for brain health or Alzheimer&#39;s risk. KEY CAVEATS: The intervention was not fish oil. This was pure DHA with no EPA. Both fish oil or algal oil would have a combination of…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/nutrition this week"
       ],
       "metrics": {
         "likes": 0,
@@ -578,6 +656,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uiq1vh",
+      "title": "Spacing out supplements and vitamins",
+      "link": "https://www.reddit.com/r/nutrition/comments/1uiq1vh/spacing_out_supplements_and_vitamins/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/nutrition · community knowledge",
+      "content_type": "post",
+      "author": "u/CharmingBananaJosh · r/nutrition",
+      "handle": "nutrition",
+      "org": "r/nutrition",
+      "platform": "reddit",
+      "published": "2026-06-29T11:39:13.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Nutrition",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "Nutrition",
+        "r/nutrition"
+      ],
+      "summary": "Are there health benefits to spacing out when you take your supplements and vitamins or is it all the same to take just at once say in the morning? &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/nutrition this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1327,123 +1445,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uh7zpx",
-      "title": "A peek into Reddit's anti-spam internals",
-      "link": "https://www.reddit.com/r/netsec/comments/1uh7zpx/a_peek_into_reddits_antispam_internals/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/netsec · community knowledge",
-      "content_type": "post",
-      "author": "u/rebane2001 · r/netsec",
-      "handle": "netsec",
-      "org": "r/netsec",
-      "platform": "reddit",
-      "published": "2026-06-27T17:03:25.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/netsec"
-      ],
-      "summary": "A peek into Reddit's anti-spam internals",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/netsec this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uh4khb",
-      "title": "[Acne] I've been using Hypochlorous acid spray to \"set\" my curtain bangs",
-      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1uh4khb/acne_ive_been_using_hypochlorous_acid_spray_to/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/SkincareAddiction · community knowledge",
-      "content_type": "post",
-      "author": "u/PrincessBukowski · r/SkincareAddiction",
-      "handle": "SkincareAddiction",
-      "org": "r/SkincareAddiction",
-      "platform": "reddit",
-      "published": "2026-06-27T14:45:02.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Skincare",
-      "category": "Skincare",
-      "genre": "Skincare",
-      "categories": [
-        "Reddit",
-        "Skincare",
-        "r/SkincareAddiction"
-      ],
-      "summary": "Skin type: combo/acne-prone Hair type: swavy/frizzy-straight The YouTube algorithm of DIY haircuts finally got me (and Inde Navarrette in Obsession/Camila Morrone in Something Very Bad) and I cut my own curtain bangs! It was stupid easy and I&#39;ve been getting lots of compliments, with the added bonus of a little…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/SkincareAddiction this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uh3z4m",
-      "title": "Data Access Patterns That Makes Your CPU Really Angry",
-      "link": "https://www.reddit.com/r/programming/comments/1uh3z4m/data_access_patterns_that_makes_your_cpu_really/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/programming · community knowledge",
-      "content_type": "post",
-      "author": "u/Double_Ad641 · r/programming",
-      "handle": "programming",
-      "org": "r/programming",
-      "platform": "reddit",
-      "published": "2026-06-27T14:19:46.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Coding & Dev Tools",
-      "category": "Coding & Dev Tools",
-      "genre": "Coding & Dev Tools",
-      "categories": [
-        "Reddit",
-        "Coding & Dev Tools",
-        "r/programming"
-      ],
-      "summary": "Data Access Patterns That Makes Your CPU Really Angry",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/programming this week"
       ],
       "metrics": {
         "likes": 0,
