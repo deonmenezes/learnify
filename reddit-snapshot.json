@@ -1,33 +1,32 @@
 {
-  "generated_at": "2026-06-30T22:55:53.327Z",
+  "generated_at": "2026-07-01T00:15:36.749Z",
   "subs": [
     "MachineLearning",
-    "singularity",
-    "SkincareAddiction",
+    "Futurology",
+    "netsec",
     "startups",
+    "SkincareAddiction",
     "artificial",
     "LocalLLaMA",
     "hardware",
-    "Futurology",
     "running",
-    "netsec",
+    "singularity",
     "gadgets",
     "science",
     "robotics",
     "longevity",
     "nutrition",
-    "programming",
-    "cybersecurity"
+    "programming"
   ],
   "count": 36,
   "by_category": {
     "Startups & Funding": 2,
     "Skincare": 4,
-    "AI / ML": 12,
-    "Hardware & Gadgets": 2,
-    "Science": 7,
-    "Fitness": 3,
+    "AI / ML": 11,
     "Security": 3,
+    "Hardware & Gadgets": 2,
+    "Science": 8,
+    "Fitness": 3,
     "Robotics": 2,
     "Coding & Dev Tools": 1
   },
@@ -192,6 +191,45 @@
       }
     },
     {
+      "id": "reddit_1uj2a4w",
+      "title": "Enterprise Tech In, Shell Out (Progress Kemp LoadMaster Uninitialized Heap to Pre-Auth RCE CVE-2026-8037) - watchTowr Labs",
+      "link": "https://www.reddit.com/r/netsec/comments/1uj2a4w/enterprise_tech_in_shell_out_progress_kemp/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/netsec · community knowledge",
+      "content_type": "post",
+      "author": "u/dx7r__ · r/netsec",
+      "handle": "netsec",
+      "org": "r/netsec",
+      "platform": "reddit",
+      "published": "2026-06-29T19:27:02.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/netsec"
+      ],
+      "summary": "Enterprise Tech In, Shell Out (Progress Kemp LoadMaster Uninitialized Heap to Pre-Auth RCE CVE-2026-8037) - watchTowr Labs",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/netsec this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1uiv8e4",
       "title": "Effect of GLM 5.2 !!",
       "link": "https://www.reddit.com/r/LocalLLaMA/comments/1uiv8e4/effect_of_glm_52/",
@@ -335,6 +373,45 @@
         "r/Futurology"
       ],
       "summary": "The ‘papers, please’ era of the internet will decimate your privacy. Americans, be warned: Age verification is identity verification.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/Futurology this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uijr3y",
+      "title": "‘Cost Me the Election’: Data Centers Trigger Voter Backlash",
+      "link": "https://www.reddit.com/r/Futurology/comments/1uijr3y/cost_me_the_election_data_centers_trigger_voter/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/Futurology · community knowledge",
+      "content_type": "post",
+      "author": "u/EchoOfOppenheimer · r/Futurology",
+      "handle": "Futurology",
+      "org": "r/Futurology",
+      "platform": "reddit",
+      "published": "2026-06-29T05:45:11.000Z",
+      "image": "https://external-preview.redd.it/_gTr5d8xKyHZII66bdxyc0uRMg6Ol8Cb_3tiwOSNZo8.jpeg?width=640&crop=smart&auto=webp&s=78c58554a52af82cd5917e728f75744bbfa524f1",
+      "thumbnail": "https://external-preview.redd.it/_gTr5d8xKyHZII66bdxyc0uRMg6Ol8Cb_3tiwOSNZo8.jpeg?width=640&crop=smart&auto=webp&s=78c58554a52af82cd5917e728f75744bbfa524f1",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/Futurology"
+      ],
+      "summary": "‘Cost Me the Election’: Data Centers Trigger Voter Backlash",
       "is_social": true,
       "report_worthy": true,
       "worthiness_score": 62,
@@ -1368,85 +1445,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/longevity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uga687",
-      "title": "A debugger for RL reward functions that detects reward hacking during training [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1uga687/a_debugger_for_rl_reward_functions_that_detects/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/MachineLearning · community knowledge",
-      "content_type": "post",
-      "author": "u/BaniyanChor · r/MachineLearning",
-      "handle": "MachineLearning",
-      "org": "r/MachineLearning",
-      "platform": "reddit",
-      "published": "2026-06-26T15:34:28.000Z",
-      "image": "https://preview.redd.it/r5m95bf5cn9h1.gif?width=640&crop=smart&s=f9e1900b5e007ea3a72c74d4089c56fdeed22f49",
-      "thumbnail": "https://preview.redd.it/r5m95bf5cn9h1.gif?width=640&crop=smart&s=f9e1900b5e007ea3a72c74d4089c56fdeed22f49",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/MachineLearning"
-      ],
-      "summary": "While experimenting with GRPO training, I kept running this shit that when reward increases, it becomes difficult to tell whether the policy is genuinely improving or simply exploiting the reward function. So I built a small library called rewardspy that wraps an existing reward function and continuously monitors…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/MachineLearning this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ug556r",
-      "title": "Ex-Huntress analyst claims company insider fed info to a ransomware crim. Social media drama ensues",
-      "link": "https://www.reddit.com/r/cybersecurity/comments/1ug556r/exhuntress_analyst_claims_company_insider_fed/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/cybersecurity · community knowledge",
-      "content_type": "post",
-      "author": "u/intelw1zard · r/cybersecurity",
-      "handle": "cybersecurity",
-      "org": "r/cybersecurity",
-      "platform": "reddit",
-      "published": "2026-06-26T12:15:10.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/cybersecurity"
-      ],
-      "summary": "Ex-Huntress analyst claims company insider fed info to a ransomware crim. Social media drama ensues",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/cybersecurity this week"
       ],
       "metrics": {
         "likes": 0,

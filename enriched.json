@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-30T22:51:42.283Z",
+  "generated_at": "2026-07-01T00:11:12.140Z",
   "model": "nvidia/nemotron-3-super-120b-a12b",
-  "count": 4244,
+  "count": 4225,
   "items": {
     "1071258": {
       "title": "Nothing ditched its latest Galaxy-beating budget phone, instead of a needed US launch",
@@ -488,330 +488,6 @@
       "media_credit": "Photo: eXploration Etoile / CC0 1.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/156182786@N06/32834592347"
     },
-    "oa_1ve4hha": {
-      "ai_summary": "Microplastics are increasingly detected in cosmetics and personal‑care products, prompting worries about their potential absorption through the skin and environmental release. A recent review examines their presence in these products, outlines possible exposure pathways, and evaluates the emerging risks they pose to skin health and ecosystems.",
-      "title": "Microplastics in Cosmetics: Emerging Risks for Skin Health and the Environment",
-      "t": 1781967396825,
-      "media_url": "https://live.staticflickr.com/65535/33979096978_efbd2e620b_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: ajay_suresh / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/83136374@N05/33979096978"
-    },
-    "oa_wjdcvv": {
-      "ai_summary": "Combined endurance and resistance exercise training reshapes the spatial transcriptome of skeletal muscle in young adults, driving coordinated molecular adaptations across multiple cell types. These changes enhance neuromuscular recruitment, contractile function, stem cell activation, myofiber hypertrophy, and mitochondrial biogenesis, thereby improving…",
-      "title": "Combined endurance and resistance exercise training alters the spatial transcriptome of skeletal muscle in young adults",
-      "t": 1781967393703,
-      "media_url": "https://live.staticflickr.com/7580/15634338704_999c3e9424_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Peter Mooney / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/25874444@N00/15634338704"
-    },
-    "oa_l3ezbx": {
-      "ai_summary": "Researchers compared high-intensity interval training and moderate-intensity continuous training in older rats to assess their effects on cortical and hippocampal cerebral energy metabolism. The study aimed to determine which exercise regimen better mitigates age-related metabolic decline in the brain.",
-      "title": "High-intensity interval and moderate-intensity continuous training on cerebral energy metabolism in older rats",
-      "t": 1781967435696,
-      "media_url": "https://live.staticflickr.com/7278/7655014920_c5974b376d_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: U.S. Army Europe / PDM 1.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/37585279@N03/7655014920"
-    },
-    "oa_yk9fwo": {
-      "ai_summary": "High-intensity interval training during the off-season boosts cardiovascular fitness and triggers left‑ventricular hypertrophy in athletes. These findings add to the ongoing debate about how different training modalities influence myocardial remodeling.",
-      "title": "High-Intensity Interval Training Improves Cardiovascular Fitness and Induces Left-Ventricular Hypertrophy During Off-Season",
-      "t": 1781967418534,
-      "media_url": "https://live.staticflickr.com/8026/7637737280_7c07ddc839_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: U.S. Army Europe / PDM 1.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/37585279@N03/7637737280"
-    },
-    "arxiv_13jqmwf": {
-      "ai_summary": "Symile introduces a simple model‑agnostic method for learning representations across an unlimited number of modalities without relying on paired data, contrasting with contrastive approaches like CLIP that depend on naturally paired examples and are typically limited to two modalities. This aims to meet the demand in fields such as robotics, healthcare, and…",
-      "title": "Contrasting with Symile: Simple Model-Agnostic Representation Learning for Unlimited Modalities",
-      "t": 1781967422490,
-      "media_url": "https://live.staticflickr.com/6012/6015869389_6e036662a3_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NWABR / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/64704683@N04/6015869389"
-    },
-    "arxiv_12yz2ct": {
-      "ai_summary": "The paper assesses uncertainty calibration of representative multimodal large language models on image captioning and visual question answering tasks. It shows these models often suffer from miscalibration, posing reliability concerns for healthcare and autonomous‑driving applications.",
-      "title": "Unveiling Uncertainty: A Deep Dive into Calibration and Performance of Multimodal Large Language Models",
-      "t": 1781967406445,
-      "media_url": "https://live.staticflickr.com/6137/6012439650_99bee9908d_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NWABR / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/64704683@N04/6012439650"
-    },
-    "arxiv_6tnq76": {
-      "ai_summary": "The paper proposes a primal‑dual framework for constructing attention layers in transformers, providing a principled alternative to heuristic design. This approach aims to improve self‑attention mechanisms used in natural language processing and computer vision sequence modeling tasks.",
-      "title": "A Primal-Dual Framework for Transformers and Neural Networks",
-      "t": 1781972624421,
-      "media_url": "https://live.staticflickr.com/7217/7336892606_4310213cf9_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: U.S. Army Combat Capabilities Development Command / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/34402227@N03/7336892606"
-    },
-    "arxiv_1yazkj2": {
-      "ai_summary": "The paper presents the first gradient‑based method for optimizing prompts in text‑to‑image diffusion models, treating prompt engineering as a discrete optimization problem over the language space. It highlights the difficulty posed by the vast language domain and proposes techniques to efficiently search for effective prompts.",
-      "title": "On Discrete Prompt Optimization for Diffusion Models",
-      "t": 1781967409122,
-      "media_url": "https://live.staticflickr.com/6001/6012372862_c9cc27daca_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NWABR / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/64704683@N04/6012372862"
-    },
-    "arxiv_1odkkwc": {
-      "ai_summary": "Researchers performed in situ characterization of graphene growth on liquid copper‑gallium alloys, demonstrating that the alloy reduces the melting point compared to pure molten copper and enables CVD synthesis of high‑quality, large‑area graphene at lower temperatures. This development offers a pathway to more cost‑effective graphene production by…",
-      "title": "In Situ Characterisation of Graphene Growth on Liquid Copper-Gallium Alloys: Paving the Path for Cost-Effective Synthesis",
-      "t": 1781967422641,
-      "media_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Jupiter_jetstream1.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NASA, ESA, CSA, STScI, R. Hueso (University of the Basque Country), I. de Pater (University of California, Berkeley), T. Fouchet (Observatory of Paris), L. Fletcher (University of Leicester), M. Wong (University of California, Berkeley), J. DePasquale (STScI) / BY 4.0 via wikimedia",
-      "media_credit_url": "https://commons.wikimedia.org/w/index.php?curid=139246874"
-    },
-    "arxiv_fpi292": {
-      "ai_summary": "The paper investigates Bayesian approaches to establish trust in collaborative multi-agent autonomy when adversaries compromise some agents. It evaluates state‑of‑the‑art multi‑target tracking algorithms under this threat model and proves guarantees concerning track existence.",
-      "title": "Bayesian Methods for Trust in Collaborative Multi-Agent Autonomy",
-      "t": 1781967435179,
-      "media_url": "https://live.staticflickr.com/6001/6012372862_c9cc27daca_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NWABR / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/64704683@N04/6012372862"
-    },
-    "arxiv_1pngua0": {
-      "ai_summary": "Researchers are investigating the missing wedge artifact in small‑angle x‑ray scattering tensor tomography, which hinders accurate reconstruction of anisotropic nanostructures in millimeter‑sized samples. They are assessing how the geometrically limited tilt range in both real and reciprocal space affects data acquisition and image quality.",
-      "title": "Investigating the missing wedge problem in small-angle x-ray scattering tensor tomography across real and reciprocal space",
-      "t": 1781967434473,
-      "media_url": "https://live.staticflickr.com/65535/50573572788_1a50cd3e02_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: The Healthy Skeptics / PDM 1.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/113715216@N08/50573572788"
-    },
-    "arxiv_15n7ox4": {
-      "ai_summary": "The study validates shared‑control strategies for critical maneuvers in automated driving, showing how driver‑automation cooperation can be implemented at multiple task levels. It highlights that incorporating the driver into the control loop introduces additional complexity that must be managed for safe operation.",
-      "title": "Validation of critical maneuvers based on shared control",
-      "t": 1781967429651,
-      "media_url": "https://live.staticflickr.com/4628/39589896675_af2d0f4aa0_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: HawkeyeUK / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/65001151@N03/39589896675"
-    },
-    "arxiv_187gpgr": {
-      "ai_summary": "HardTaint presents a production‑run dynamic taint analysis that leverages selective hardware tracing to track data flows. By limiting tracing to relevant instructions, it seeks to dramatically reduce the runtime overhead traditionally associated with dynamic taint analysis.",
-      "title": "HardTaint: Production-Run Dynamic Taint Analysis via Selective Hardware Tracing",
-      "t": 1781972631446,
-      "media_url": "https://live.staticflickr.com/6025/6020351957_857fd6fc22_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NWABR / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/64704683@N04/6020351957"
-    },
-    "arxiv_wf506i": {
-      "ai_summary": "The study shows that unavoidable phosphorus or gallium passivation of silicon surfaces before III‑V/Si epitaxy markedly alters the silicon substrate’s surface energy. Using density functional theory, the researchers quantified these energy changes for P‑ and Ga‑terminated Si surfaces and linked them to modified wetting properties relevant to heteroepitaxial…",
-      "title": "Inevitable Si surface passivation prior to III-V/Si epitaxy: A strong impact on wetting properties",
-      "t": 1781972634343,
-      "media_url": "https://live.staticflickr.com/3934/15363523929_fbbfec1349_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NASA Goddard Photo and Video / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/24662369@N07/15363523929"
-    },
-    "arxiv_iy13nn": {
-      "ai_summary": "Selective hydrogenation of tetra‑penta‑deca‑hexagonal graphene enhances its Seebeck coefficient, improving thermoelectric performance. DFT and Boltzmann transport calculations show that this modification induces anisotropic thermoelectric behavior in the material.",
-      "title": "Selective Hydrogenation Promotes Anisotropic Thermoelectric Properties of TPDH-Graphene",
-      "t": 1781972625124,
-      "media_url": "https://live.staticflickr.com/700/33043478941_308e2e853a_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NASA Goddard Photo and Video / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/24662369@N07/33043478941"
-    },
-    "arxiv_1p67sb2": {
-      "ai_summary": "Researchers present a full‑magnetic implementation of the classical Toffoli gate using three interacting spins, a key component for reversible computing that can bypass Landauer‑limit energy loss. They analyze several spin‑configuration setups to achieve the gate, showing its promise for energy‑efficient classical computation.",
-      "title": "Full-magnetic implementation of a classical Toffoli gate",
-      "t": 1781972651453,
-      "media_url": "https://live.staticflickr.com/65535/50024587686_d0f9c70622_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/50024587686"
-    },
-    "arxiv_1nagers": {
-      "ai_summary": "Compiler testing under relaxed memory models checks whether any behavior permitted by the target architecture’s memory model could arise from a compiled program that is not possible in the source program under its own memory model. Such mismatches indicate bugs, particularly concurrency bugs that manifest only with two or more threads.",
-      "title": "Compiler Testing With Relaxed Memory Models",
-      "t": 1781972636824,
-      "media_url": "https://live.staticflickr.com/2809/10388748355_f3d38ed371_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Paul Albertella / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/73915715@N00/10388748355"
-    },
-    "arxiv_1puy6bz": {
-      "ai_summary": "The paper proposes logic‑enhanced foundation models to improve concept grounding beyond the 2D‑image focus of prior approaches like VisProg and ViperGPT. It argues that current methods fail to fully exploit language’s ability to reason about abstract concepts.",
-      "title": "What's Left? Concept Grounding with Logic-Enhanced Foundation Models",
-      "t": 1781972630385,
-      "media_url": "https://live.staticflickr.com/65535/51876099461_0a69779eff_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: dullhunk / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/14829735@N00/51876099461"
-    },
-    "arxiv_1rf9q8e": {
-      "ai_summary": "The paper introduces scene‑driven exploration and GUI modeling to enhance the coverage and granularity of transition graphs for Android apps, tackling the difficulty of designing, testing, and maintaining complex UIs under tight development schedules. Experiments on apps such as ATG, WTG, and STG reveal that existing extracted graphs suffer from low…",
-      "title": "Scene-Driven Exploration and GUI Modeling for Android Apps",
-      "t": 1781972637325,
-      "media_url": "https://live.staticflickr.com/7217/7336892606_4310213cf9_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: U.S. Army Combat Capabilities Development Command / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/34402227@N03/7336892606"
-    },
-    "arxiv_1ujia7b": {
-      "ai_summary": "The paper introduces an automated verification technique that checks whether masked arithmetic programs are functionally equivalent to their original unmasked cryptographic algorithms. It fills a notable gap in formal verification of masking countermeasures used to thwart power side‑channel attacks.",
-      "title": "Automated Verification of Correctness for Masked Arithmetic Programs",
-      "t": 1781972641638,
-      "media_url": "https://live.staticflickr.com/3344/3312065998_ea35580c37.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: schoschie / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/87569910@N00/3312065998"
-    },
-    "arxiv_1qqq5je": {
-      "ai_summary": "Researchers released a large car‑following dataset derived from Lyft’s Level‑5 open data, capturing how drivers follow autonomous versus human‑driven vehicles. The dataset enables detailed analysis of mixed‑traffic behavior to improve safety and efficiency.",
-      "title": "Large Car-following Data Based on Lyft level-5 Open Dataset: Following Autonomous Vehicles vs. Human-driven Vehicles",
-      "t": 1781972637026,
-      "media_url": "https://live.staticflickr.com/8736/17402277412_e53f94af35_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NASA Goddard Photo and Video / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/24662369@N07/17402277412"
-    },
-    "arxiv_16k44pz": {
-      "ai_summary": "Self‑healing cyber‑physical systems autonomously recover from perceived failures, delivering resilience against intrinsic degradation, errors, and malicious attacks. Implicit redundancy within these systems can be leveraged for structural adaptation that further enhances cyber‑resilience.",
-      "title": "Enhancing Cyber-Resilience in Self-Healing Cyber-Physical Systems with Implicit Guarantees",
-      "t": 1781972680380,
-      "media_url": "https://live.staticflickr.com/3863/14804224326_f5ceae50a6_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: U.S. Geological Survey / CC0 1.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/27784370@N05/14804224326"
-    },
-    "arxiv_gpdtxl": {
-      "ai_summary": "Researchers evaluated several open‑source memory allocators ported to CHERI on CheriBSD running Arm’s Morello platform, uncovering security vulnerabilities in all but one allocator under a set of introduced attacks. They also measured each allocator’s performance to assess the trade‑offs between safety and speed.",
-      "title": "Picking a CHERI Allocator: Security and Performance Considerations",
-      "t": 1781972645998,
-      "media_url": "https://live.staticflickr.com/2809/10388748355_f3d38ed371_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Paul Albertella / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/73915715@N00/10388748355"
-    },
-    "arxiv_1xq1hyg": {
-      "ai_summary": "Researchers have introduced LLM‑based frameworks to help power engineers handle the growing coding workload brought on by sector digitalization. These tools focus on automating routine programming tasks in power systems while laying the groundwork for more novel applications.",
-      "title": "LLM-based Frameworks for Power Engineering from Routine to Novel Tasks",
-      "t": 1781972640765,
-      "media_url": "https://live.staticflickr.com/648/21449440305_3d48048cf3_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: itsc2015 / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/136150275@N07/21449440305"
-    },
-    "arxiv_at0zj8": {
-      "ai_summary": "Ehrenfest molecular dynamics simulations reveal that electronic excitations significantly modify the nuclear stopping power of protons in water ice, indicating that electronic and nuclear stopping are not independent. This finding challenges the traditional two‑component model of ion stopping in matter.",
-      "title": "Electronic-mediated nuclear stopping power in proton irradiated water ice",
-      "t": 1781972653318,
-      "media_url": "https://live.staticflickr.com/6144/6012541096_8c140f2286_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NWABR / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/64704683@N04/6012541096"
-    },
-    "arxiv_cvnvux": {
-      "ai_summary": "Augmented reality provides feedback and control for dynamics and robotics, enhancing human‑machine and human‑robot interaction in structural monitoring and dynamics testing both in labs and the field. In vibratory experiments, electrodynamic exciters are driven by manual operator input to generate vibrations for measurement.",
-      "title": "Feedback and Control of Dynamics and Robotics using Augmented Reality",
-      "t": 1781972669477,
-      "media_url": "https://live.staticflickr.com/3389/3433059070_6e431d84dd_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/3433059070"
-    },
-    "arxiv_1mrj63p": {
-      "ai_summary": "SPSysML is a SysML‑based domain‑specific language that evaluates the integrity and reusability of both simulated and physical components in early cyber‑physical system design. By addressing vague and uncertain design information, it aims to improve design quality and lower development costs.",
-      "title": "A SysML-based language for evaluating the integrity of simulation and physical embodiments of Cyber-Physical systems",
-      "t": 1781972660249,
-      "media_url": "https://live.staticflickr.com/5483/14592386702_f46453e246_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: michaelseangallagher / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/13518023@N03/14592386702"
-    },
-    "arxiv_1lifogy": {
-      "ai_summary": "Analyzing S&P 500 firms from 2014 to 2020 grouped by greenhouse‑gas emissions, researchers used a peer‑exposure ratio to measure factor exposure heterogeneity. They found that, on average, green stocks show less factor‑exposure heterogeneity than brown stocks across most traditional equity factors.",
-      "title": "Factor Exposure Heterogeneity in Green and Brown Stocks",
-      "t": 1781972665200,
-      "media_url": "https://live.staticflickr.com/3344/3312065998_ea35580c37.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: schoschie / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/87569910@N00/3312065998"
-    },
-    "arxiv_1tngp28": {
-      "ai_summary": "The paper introduces an observer‑based key agreement scheme to secure communication in remotely controlled mobile robots, which are critical cyber‑physical systems used in safety‑critical applications. This approach aims to defend against sophisticated cyber‑attacks where existing control‑based security measures are insufficient.",
-      "title": "An Observer-Based Key Agreement Scheme for Remotely Controlled Mobile Robots",
-      "t": 1781978168171,
-      "media_url": "https://live.staticflickr.com/5107/5657766492_b79e73e045_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NASA Goddard Photo and Video / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/24662369@N07/5657766492"
-    },
-    "arxiv_12wk3s5": {
-      "ai_summary": "An ab initio ic-MRCI/aug-cc-pV5Z calculation was performed to model the rovibronic spectra of sulfur monoxide (^32S^16O) across 13 low-lying electronic states, including X³Σ⁻, a¹Δ, b¹Σ⁺, c¹Σ⁻, A''³Σ⁺, A'³Δ, A³Π, B³Σ⁻, … The study compares diabatic and adiabatic representations to assess their impact on the predicted rovibronic structure.",
-      "title": "An ab initio study of the rovibronic spectrum of sulphur monoxide (SO): diabatic vs. adiabatic representation",
-      "t": 1781978172216,
-      "media_url": "https://live.staticflickr.com/3863/14804224326_f5ceae50a6_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: U.S. Geological Survey / CC0 1.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/27784370@N05/14804224326"
-    },
-    "arxiv_msifjh": {
-      "ai_summary": "Researchers introduce anti‑pattern guidance and fix strategies to help developers identify and mitigate ReDoS vulnerabilities in regular expressions used for input validation and firewalls. Their approach builds on earlier automatic detection work to improve developers’ understanding and prevention of super‑linear regex matching risks.",
-      "title": "Improving Developers' Understanding of Regex Denial of Service Tools through Anti-Patterns and Fix Strategies",
-      "t": 1781978164252,
-      "media_url": "https://live.staticflickr.com/4055/4435958331_2018bda41a.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: dullhunk / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/14829735@N00/4435958331"
-    },
-    "arxiv_1afte1a": {
-      "ai_summary": "Kotlin's rapid adoption as a default Android language, combined with its seamless Java interoperability, means its programs can harbor many of the same security flaws found in Java code. Researchers are investigating how effectively existing Java taint analysis tools can identify these vulnerabilities in Kotlin without modification.",
-      "title": "To what extent can we analyze Kotlin programs using existing Java taint analysis tools? (Extended Version)",
-      "t": 1781978172315,
-      "media_url": "https://live.staticflickr.com/2809/10388748355_f3d38ed371_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Paul Albertella / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/73915715@N00/10388748355"
-    },
-    "arxiv_tn4xbj": {
-      "ai_summary": "Advances in driver assistance technologies are paving the way for fully autonomous vehicles, promising to automate the entire driving task. Researchers are assessing public acceptance to gauge how quickly these changes will transform the automotive market.",
-      "title": "Evaluating the acceptance of autonomous vehicles in the future",
-      "t": 1781972673007,
-      "media_url": "https://live.staticflickr.com/4079/4818399040_194190764a_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Rob Enslin / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/10199641@N08/4818399040"
-    },
-    "arxiv_1hmyoa4": {
-      "ai_summary": "Researchers developed a phase‑field electro‑chemo‑mechanical model to predict void formation and evolution at the lithium‑metal/electrolyte interface in all‑solid‑state batteries. The model couples vacancy annihilation and nucleation dynamics with interface tracking and a viscoplastic description of lithium to capture charge‑discharge‑induced void behavior.",
-      "title": "A phase field electro-chemo-mechanical formulation for predicting void evolution at the Li-electrolyte interface in all-solid-state batteries",
-      "t": 1781978173744,
-      "media_url": "https://live.staticflickr.com/3347/4553749920_320a47ea0c_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: US Army Africa / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/36281822@N08/4553749920"
-    },
-    "arxiv_i57oq0": {
-      "ai_summary": "ReverseORC introduces a reverse‑engineering technique that uses OR‑constraints to identify various UI layout types and their dynamic resizing behaviors, independent of the underlying UI technology. It tackles the difficulty posed by diverse UI frameworks and the need for resizable interfaces in software evolution.",
-      "title": "ReverseORC: Reverse Engineering of Resizable User Interface Layouts with OR-Constraints",
-      "t": 1781978177265,
-      "media_url": "https://live.staticflickr.com/6144/6012541096_8c140f2286_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NWABR / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/64704683@N04/6012541096"
-    },
-    "arxiv_2jfn9d": {
-      "ai_summary": "Smart contracts are self‑executing programs on blockchains like Ethereum, and in 2021 they lost $680 million worth of digital assets to hacks exploiting security vulnerabilities. Despite security being a core concern, how developers actually address these risks remains unclear.",
-      "title": "Exploring Security Practices of Smart Contract Developers",
-      "t": 1781978205562,
-      "media_url": "https://live.staticflickr.com/7154/6673022987_d72702bfa8_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: brewbooks / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/93452909@N00/6673022987"
-    },
     "j54jpg": {
       "ai_summary": "AI is being integrated into chip design to overcome the limits of Moore’s Law, as engineers seek new ways to improve performance beyond transistor scaling. Samsung is applying AI techniques to its memory chips to enhance design and functionality.",
       "title": "How AI Will Change Chip Design",
@@ -820,15 +496,6 @@
       "media_kind": "stock",
       "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/8057187934"
-    },
-    "arxiv_1tpafy8": {
-      "ai_summary": "Researchers aim to build a computational model of human motor learning to improve rehabilitation strategies for the hand and fingers, which have many degrees of freedom. The model must navigate the trade‑off between capturing full dexterity and achieving effective manipulation in high‑dimensional movement spaces.",
-      "title": "Towards Modeling Human Motor Learning Dynamics in High-Dimensional Spaces",
-      "t": 1781978199605,
-      "media_url": "https://live.staticflickr.com/8864/17799809553_72da373b15_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: sfmission.com / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/17281186@N00/17799809553"
     },
     "1aym8x4": {
       "ai_summary": "Andrew Ng pioneered the use of graphics processing units to train deep learning models while at Stanford in the late 2000s. He later cofounded Google Brain in 2011 and served as Baidu's chief scientist for three years.",
@@ -847,15 +514,6 @@
       "media_kind": "stock",
       "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/24101118088"
-    },
-    "arxiv_qn3eq5": {
-      "ai_summary": "The Internet of Behaviors (IoB) centers human behavior in the engineering of intelligent connected systems by linking digital data to behavioral insights. The paper introduces an IoB model developed through collective collaboration with software engineers to enable human‑driven design, development, and adaptation.",
-      "title": "Designing Internet of Behaviors Systems",
-      "t": 1781978196702,
-      "media_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Designing_Internet_Research_class_at_University_of_Washington%2C_2015-04-28_17.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: ragesoss / BY-SA 2.0 via wikimedia",
-      "media_credit_url": "https://commons.wikimedia.org/w/index.php?curid=39997945"
     },
     "arxiv_1eriwpb": {
       "ai_summary": "Researchers introduced a tool‑supported method to synthesize, verify, and validate optimal safety controllers for collaborative robot systems in manufacturing. The approach guarantees software‑based safety functions, such as automatic shutdown, to enhance human‑robot interaction safety.",
@@ -1166,15 +824,6 @@
       "media_kind": "stock",
       "media_credit": "Photo: brewbooks / BY-SA 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/93452909@N00/2353369808"
-    },
-    "1xsz0ky": {
-      "ai_summary": "Mastodon launched a newsletter feature that lets anyone subscribe to creators by email, even without a Mastodon account. The initiative aims to help revive the open social web by expanding access to creators.",
-      "title": "Mastodon looks to newsletters to help revive the open social web",
-      "t": 1781721850609,
-      "media_url": "https://live.staticflickr.com/5216/5518536876_b699fa850f.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: osde8info / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/8764442@N07/5518536876"
     },
     "1ta23pm": {
       "ai_summary": "Roelof Botha, former head of Sequoia Capital, has joined SpaceX's board of directors to fill an existing vacancy. Botha previously led Sequoia Capital's global investment activities before his appointment.",
@@ -1501,69 +1150,6 @@
       "media_credit": "Photo: IAEA Imagebank / BY-SA 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/35068899@N03/8435181650"
     },
-    "oa_1ra0lmf": {
-      "ai_summary": "The Hamburg Quasar Survey has uncovered numerous faint blue stars, including hot subdwarf B and O stars. These subdwarfs are low‑mass evolved objects that formed when red giants lost almost all of their envelopes, predominantly through close binary interactions.",
-      "title": "Hot subdwarf stars from the Hamburg Quasar Survey",
-      "t": 1781958581585,
-      "media_url": "https://live.staticflickr.com/2481/3542273496_3d1a2ec8be_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Constantine Agustin / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/11249521@N00/3542273496"
-    },
-    "oa_ub60f2": {
-      "ai_summary": "Plant-derived flavonoids function as antioxidants that reduce oxidative stress and inflammation, pathways implicated in cardiovascular disease, cancer, neurodegeneration, and metabolic disorders. Their therapeutic potential, however, is constrained by limited bioavailability.",
-      "title": "Dietary Polyphenols (Flavonoids) Derived from Plants for Use in Therapeutic Health: Antioxidant Performance, ROS, Molecular Mechanisms, and Bioavailability Limitations",
-      "t": 1781958577984,
-      "media_url": "https://live.staticflickr.com/2481/3542273496_3d1a2ec8be_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Constantine Agustin / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/11249521@N00/3542273496"
-    },
-    "oa_5nlkzs": {
-      "ai_summary": "A recent review highlights how AI techniques have evolved from classic statistical models to sophisticated machine‑learning approaches for stock‑price forecasting. It also notes AI’s growing integration with blockchain and emerging quantum technologies in financial markets.",
-      "title": "Artificial intelligence in financial market prediction: advancements in machine learning for stock price forecasting",
-      "t": 1781958584519,
-      "media_url": "https://live.staticflickr.com/65535/54139326835_08f3dd644f_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: UNCTAD / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/53390373@N06/54139326835"
-    },
-    "oa_1i6svzn": {
-      "ai_summary": "Melasma is a chronic hyperpigmentation disorder driven by genetic, hormonal, UV, oxidative stress, inflammatory, and photoaging factors. It disproportionately affects women with darker skin types, causing substantial psychosocial burden and presenting treatment challenges.",
-      "title": "Targeting Melasma: Innovations in Pigment Deposition and Photoaging in Cosmetic Dermatology",
-      "t": 1781958580248,
-      "media_url": "https://live.staticflickr.com/65535/33979096978_efbd2e620b_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: ajay_suresh / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/83136374@N05/33979096978"
-    },
-    "oa_70cnsj": {
-      "ai_summary": "Recent research indicates that the glymphatic system, a specialized glial lymphatic pathway, may contribute to psychiatric disorders such as depression, bipolar disorder, schizophrenia, and PTSD. This evidence supports a new paradigm that complements traditional neurotransmitter‑focused theories with glial lymphatic function.",
-      "title": "Glymphatic system and psychiatric disorders: need for a new paradigm?",
-      "t": 1781967362621,
-      "media_url": "https://live.staticflickr.com/3017/2681597487_c0f69b27e1_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: kevin dooley / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/12836528@N00/2681597487"
-    },
-    "oa_6hwnnd": {
-      "ai_summary": "Memristors enable in‑memory computing and spiking neural networks by serving as nonvolatile analog switches that perform computation and storage simultaneously. This convergence offers a path to energy‑efficient, scalable artificial intelligence suited for edge and real‑time applications.",
-      "title": "Review of Memristors for In‐Memory Computing and Spiking Neural Networks",
-      "t": 1781967383425,
-      "media_url": "https://live.staticflickr.com/5328/10035813273_7a8f077425_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Gwydion M. Williams / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/45909111@N00/10035813273"
-    },
-    "oa_ino73": {
-      "ai_summary": "The authors introduce a novel two‑dimensional variable fractional‑order hyperchaotic system based on a coupled quadratic map. They apply this system to image encryption to improve security, efficiency, and practicability.",
-      "title": "State-Dependent Variable Fractional-Order Hyperchaotic Dynamics in a Coupled Quadratic Map: A Novel System for High-Performance Image Protection",
-      "t": 1781967385593,
-      "media_url": "https://live.staticflickr.com/5303/5830893059_7336a5fde3_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: woodleywonderworks / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/73645804@N00/5830893059"
-    },
     "fcefpr": {
       "ai_summary": "The United States claims that ASML’s most advanced chip‑making tool could be operating in China. ASML denies the allegation, arguing that jeopardizing its export license would run counter to its commercial interests.",
       "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t.",
@@ -1626,15 +1212,6 @@
       "media_kind": "stock",
       "media_credit": "Photo: Kevin Matteson / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/21741563@N06/14493639787"
-    },
-    "oa_zroqj": {
-      "ai_summary": "Senotherapeutics aim to clear or modulate senescent cells that drive brain aging, chronic inflammation, and cognitive decline. Growing evidence ties the senescence-associated secretory phenotype (SASP) to neurodegenerative disease risk, highlighting these agents as a promising therapeutic avenue.",
-      "title": "Senotherapeutics for Brain Aging Management",
-      "t": 1781967358986,
-      "media_url": "https://live.staticflickr.com/3049/5719882293_cce7c28b65_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Vegetarian-Vegan-Bodybuilding-Info / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/62819552@N04/5719882293"
     },
     "1ewhm9p": {
       "ai_summary": "Aura’s Ink frame employs e‑ink technology to show family photos with a paper‑like appearance that avoids the typical digital look. It positions itself as a modern, less cliché alternative to conventional rotating‑slideshow digital photo frames.",
@@ -33798,7 +33375,11 @@
     "zo24o": {
       "title": "How does a pull-back car work? Illustrated teardown",
       "t": 1782854095709,
-      "image": "https://framerusercontent.com/images/5O3rU7bwpuOpLUdBe6aEsQxPKA.png"
+      "image": "https://framerusercontent.com/images/5O3rU7bwpuOpLUdBe6aEsQxPKA.png",
+      "media_url": "https://live.staticflickr.com/2669/4140191319_7dc49ddca2.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140191319"
     },
     "1waao5d": {
       "title": "Layered ZnPS₃ emits single photons, opening new path for quantum chips",
@@ -34813,6 +34394,231 @@
       "media_kind": "stock",
       "media_credit": "Photo: UNCTAD / BY-SA 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/53390373@N06/54139147343"
+    },
+    "w6zxe1": {
+      "title": "MacBook Ultra: Everything We Know About Apple's OLED Touchscreen Mac",
+      "t": 1782864660764,
+      "image": "https://images.macrumors.com/t/r3tq7h9_jvAV0oDVs65IK2RpVo4=/2500x/article-new/2026/04/MacBook-Pro-Low-Angle-Wide-Lens.jpg",
+      "media_url": "https://live.staticflickr.com/3086/2795391606_5c53c8cb88_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: roland / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/35034347371@N01/2795391606"
+    },
+    "zshk88": {
+      "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
+      "t": 1782864661527,
+      "media_url": "https://live.staticflickr.com/2642/4117811909_fca09941f4_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: susan402 / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/61681131@N00/4117811909"
+    },
+    "1h60egk": {
+      "title": "'250% faster than a normal mouse': This rotary mouse promises to be a real game-changer for productivity, scrolling, and racing sim fans",
+      "t": 1782864662468,
+      "media_url": "https://live.staticflickr.com/5485/10683438236_3f9fe07cb1_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Darron Birgenheier / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/28502132@N05/10683438236"
+    },
+    "x_2072106151890809341": {
+      "title": "We’ve received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5. We'll begin restoring access tomorrow, and will share an update soon. We’re grateful…",
+      "t": 1782864662537,
+      "media_url": "https://live.staticflickr.com/4302/35332381783_7573a509c7.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Nicholas R. Andrew / PDM 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/9355127@N07/35332381783"
+    },
+    "1925cy7": {
+      "title": "Cosmic eruption caught in the act by submillimeter array's new fastest response system",
+      "t": 1782864662600,
+      "media_url": "https://live.staticflickr.com/65535/52211858626_1df61f7614_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: freespacephotos / CC0 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/187631144@N02/52211858626"
+    },
+    "o88wr0": {
+      "title": "‘Speed without control is a liability, not an advantage': GitLab study reveals AI code generation is outpacing controls",
+      "t": 1782864663786,
+      "media_url": "https://live.staticflickr.com/4158/34370642672_13f53bc348_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Wilson Hui / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/51942038@N04/34370642672"
+    },
+    "pjs5uj": {
+      "title": "Samsung teases its next big Unpacked event with social media posts that reveal almost nothing — but we've spotted some hints",
+      "t": 1782864664649,
+      "media_url": "https://live.staticflickr.com/7290/12759203003_92b63172a9_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: nccmrm97 / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/51602667@N06/12759203003"
+    },
+    "1p5ki9n": {
+      "title": "The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models",
+      "t": 1782864664730,
+      "media_url": "https://live.staticflickr.com/65535/51872448973_00a68873b0_m.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: nordique / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/28435100@N00/51872448973"
+    },
+    "dxk4vq": {
+      "title": "Samsung teases wide-as-hell new foldable",
+      "t": 1782864664880,
+      "media_url": "https://live.staticflickr.com/4122/4870803125_4ccbc342d8_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: liewcf / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/34353636@N00/4870803125"
+    },
+    "1f01epm": {
+      "title": "Abundant catalyst converts methane into valuable liquid chemicals",
+      "t": 1782864665425,
+      "media_url": "https://live.staticflickr.com/5463/9195856288_e66c700d8e_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Idaho National Laboratory / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/30369883@N03/9195856288"
+    },
+    "1oc1nk6": {
+      "title": "Tim Cook and EU tech chief hold ‘constructive’ virtual meeting over Siri AI standoff",
+      "t": 1782864666157,
+      "media_url": "https://live.staticflickr.com/4066/4671616955_6e25da4aef_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: betsyweber / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/34666709@N00/4671616955"
+    },
+    "cb6mau": {
+      "title": "Shark‑spotting drones are about reassurance—not full protection",
+      "t": 1782864666790,
+      "media_url": "https://live.staticflickr.com/4298/36027886886_f4a02e79a0_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Gary Lee Todd, Ph.D. / CC0 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/101561334@N08/36027886886"
+    },
+    "s6esk1": {
+      "title": "Grasslands could lose four times more carbon uptake under future drought conditions",
+      "t": 1782864667090,
+      "media_url": "https://live.staticflickr.com/8372/8540577148_a09d4fed67_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: USFWS Headquarters / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/50838842@N06/8540577148"
+    },
+    "403vv0": {
+      "title": "Nanoleaf's New $80 Smart Ceiling Light Works With Matter and HomeKit",
+      "t": 1782864667437,
+      "media_url": "https://live.staticflickr.com/709/20385111189_7015872dbd.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: iSchack / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/25779553@N02/20385111189"
+    },
+    "1qm7935": {
+      "title": "Startup Battlefield Australia application closes in days: Apply before July 6",
+      "t": 1782864667485,
+      "media_url": "https://live.staticflickr.com/7258/26888238361_56424ab733_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: TechCrunch / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/52522100@N07/26888238361"
+    },
+    "1t4ig01": {
+      "title": "NYT Connections hints and answers for Wednesday, July 1 (game #1116)",
+      "t": 1782864667796,
+      "media_url": "https://live.staticflickr.com/5329/9512594023_cc23848025_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: origamiguy1971 / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/94246383@N00/9512594023"
+    },
+    "1q2uocq": {
+      "title": "NYT Strands hints and answers for Wednesday, July 1 (game #850)",
+      "t": 1782864668106,
+      "media_url": "https://live.staticflickr.com/5018/5492932739_678bf65c42_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Patrick Hoesly / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/60057912@N00/5492932739"
+    },
+    "mt1ms9": {
+      "title": "Quordle hints and answers for Wednesday, July 1 (game #1619)",
+      "t": 1782864668106,
+      "media_url": "https://live.staticflickr.com/3742/9352135245_aa3f027ca4_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: danxoneil / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/36521980095@N01/9352135245"
+    },
+    "z9iow4": {
+      "title": "Claude Code users complain their chat records are being mysteriously wiped out",
+      "t": 1782864669635,
+      "media_url": "https://live.staticflickr.com/7594/28799579322_f9e3ce8511_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/28799579322"
+    },
+    "4hkorz": {
+      "title": "June research roundup: 6 cool science stories we almost missed",
+      "t": 1782864669645,
+      "media_url": "https://live.staticflickr.com/2927/14281925190_e4210efd47_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: NASA Goddard Photo and Video / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/24662369@N07/14281925190"
+    },
+    "1r42s29": {
+      "title": "Gone but Not Forgotten: Recovering the Dead Web",
+      "t": 1782864670433,
+      "media_url": "https://live.staticflickr.com/2762/4140950690_e8e7fa21f4.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950690"
+    },
+    "o2wlg4": {
+      "title": "Discord now runs natively on Meta Quest headsets",
+      "t": 1782864670576,
+      "media_url": "https://live.staticflickr.com/4139/5442733913_a2b374fdff.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Sean MacEntee / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/18090920@N07/5442733913"
+    },
+    "66ob7c": {
+      "title": "Amazon blames piracy apps with malware for killing new Fire Stick sideloading",
+      "t": 1782864671028,
+      "media_url": "https://live.staticflickr.com/3832/11585458753_e10f949cd4_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: NoveltyCREW / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/110500334@N07/11585458753"
+    },
+    "1jlvph3": {
+      "title": "Reddit will require you to log in to use old.reddit.com",
+      "t": 1782864671062,
+      "media_url": "https://live.staticflickr.com/3248/3143917590_f05a594e24_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: HazteOir.org / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/81415654@N00/3143917590"
+    },
+    "x_2072034905299563005": {
+      "title": "Neuralink has solved through-dura electrode implantation! This is a very big deal, as it greatly improves the safety and ease of interfacing with the brain.",
+      "t": 1782864671184,
+      "media_url": "https://live.staticflickr.com/5588/14095677033_494f445e73_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Alang7™ / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/99610616@N02/14095677033"
+    },
+    "reddit_1ujbyrq": {
+      "title": "[Anti Aging] Please help my wrinkles I’m only 25",
+      "t": 1782864671581,
+      "media_url": "https://live.staticflickr.com/6083/6117909802_eb90e626cc_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Tim Dorr / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/60723528@N00/6117909802"
+    },
+    "reddit_1uhxshz": {
+      "title": "Meanwhile in China, 10,000+ delivery bots are transforming last-mile fulfillment by making deliveries faster, cheaper, and more autonomous",
+      "t": 1782864671637,
+      "media_url": "https://live.staticflickr.com/8210/8200995434_58eef9a6a4_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: James Webb Space Telescope / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/50785054@N03/8200995434"
+    },
+    "reddit_1uh259r": {
+      "title": "Breaking news! Gemini 3.5 pro so ass the US government intervened to keep it out of the US!",
+      "t": 1782864672136,
+      "media_url": "https://live.staticflickr.com/5010/5336842036_e1ebb7d410_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: nan palmero / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/97402086@N00/5336842036"
     }
   }
 }
