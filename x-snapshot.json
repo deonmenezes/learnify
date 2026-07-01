@@ -1,15 +1,97 @@
 {
-  "generated_at": "2026-07-01T05:09:12.313Z",
+  "generated_at": "2026-07-01T09:01:06.726Z",
   "handles": [
-    "elonmusk",
-    "OpenAI",
-    "GoogleDeepMind",
-    "nvidia",
     "AnthropicAI",
+    "OpenAI",
+    "nvidia",
+    "GoogleDeepMind",
+    "elonmusk",
     "gdb"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2072163884430229756",
+      "title": "Claude Fable 5 will be available again globally tomorrow. After a series of productive conversations with the US government, we're redeploying the model with a new set of classifiers to target and…",
+      "link": "https://x.com/AnthropicAI/status/2072163884430229756",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Anthropic · @AnthropicAI",
+      "handle": "AnthropicAI",
+      "org": "Anthropic",
+      "published": "2026-07-01T03:42:23.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "Anthropic",
+        "Product"
+      ],
+      "summary": "Claude Fable 5 will be available again globally tomorrow. After a series of productive conversations with the US government, we're redeploying the model with a new set of classifiers to target and block more cybersecurity tasks. In the near term, some routine tasks like coding",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 79,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "tech substance (model, claude)",
+        "high engagement (26.5K likes)"
+      ],
+      "metrics": {
+        "likes": 26510,
+        "retweets": 4283,
+        "replies": 2048,
+        "likes_h": "26.5K"
+      },
+      "engagement": 37124,
+      "hot": true
+    },
+    {
+      "id": "x_2072106151890809341",
+      "title": "We’ve received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5. We'll begin restoring access tomorrow, and will share an update soon. We’re grateful…",
+      "link": "https://x.com/AnthropicAI/status/2072106151890809341",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Anthropic · @AnthropicAI",
+      "handle": "AnthropicAI",
+      "org": "Anthropic",
+      "published": "2026-06-30T23:52:59.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "Anthropic",
+        "Product"
+      ],
+      "summary": "We’ve received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5. We'll begin restoring access tomorrow, and will share an update soon. We’re grateful to our users for their patience, and to everyone who worked with us on",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 79,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "tech substance (claude, update)",
+        "high engagement (75.1K likes)"
+      ],
+      "metrics": {
+        "likes": 75113,
+        "retweets": 11953,
+        "replies": 3597,
+        "likes_h": "75.1K"
+      },
+      "engagement": 102616,
+      "hot": true
+    },
     {
       "id": "x_2072034905299563005",
       "title": "Neuralink has solved through-dura electrode implantation! This is a very big deal, as it greatly improves the safety and ease of interfacing with the brain.",
@@ -41,15 +123,15 @@
         "report-worthy",
         "casual tone (this)",
         "business signal (deal)",
-        "high engagement (11.7K likes)"
+        "high engagement (17.9K likes)"
       ],
       "metrics": {
-        "likes": 11704,
-        "retweets": 2090,
-        "replies": 1611,
-        "likes_h": "11.7K"
+        "likes": 17949,
+        "retweets": 3341,
+        "replies": 2781,
+        "likes_h": "17.9K"
       },
-      "engagement": 17495,
+      "engagement": 27412,
       "hot": true
     },
     {
@@ -84,15 +166,15 @@
         "announcement language (introducing)",
         "tech substance (agents, benchmark, research)",
         "links to a source",
-        "high engagement (3.1K likes)"
+        "high engagement (3.8K likes)"
       ],
       "metrics": {
-        "likes": 3128,
-        "retweets": 253,
-        "replies": 198,
-        "likes_h": "3.1K"
+        "likes": 3797,
+        "retweets": 324,
+        "replies": 242,
+        "likes_h": "3.8K"
       },
-      "engagement": 3832,
+      "engagement": 4687,
       "hot": false
     },
     {
@@ -119,7 +201,7 @@
       "summary": "Gemini Omni Flash shines in: 🔵 Conversational video editing 🔵 Multimodal referencing and combining inputs ​​🔵 Real-world knowledge 🔵 Connecting text and graphics directly to video actions It’s available in @GoogleAIStudio, the Gemini API and Gemini Enterprise Agent Platform",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 79,
+      "worthiness_score": 80,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -129,12 +211,12 @@
         "business signal (enterprise)"
       ],
       "metrics": {
-        "likes": 181,
-        "retweets": 19,
+        "likes": 228,
+        "retweets": 28,
         "replies": 4,
-        "likes_h": "181"
+        "likes_h": "228"
       },
-      "engagement": 223,
+      "engagement": 288,
       "hot": false
     },
     {
@@ -168,15 +250,15 @@
         "report-worthy",
         "announcement language (now available, shipping)",
         "tech substance (model, gemini, api)",
-        "high engagement (751 likes)"
+        "high engagement (917 likes)"
       ],
       "metrics": {
-        "likes": 751,
-        "retweets": 115,
-        "replies": 53,
-        "likes_h": "751"
+        "likes": 917,
+        "retweets": 147,
+        "replies": 63,
+        "likes_h": "917"
       },
-      "engagement": 1034,
+      "engagement": 1274,
       "hot": false
     },
     {
@@ -211,12 +293,12 @@
         "tech substance (inference, blackwell)"
       ],
       "metrics": {
-        "likes": 445,
-        "retweets": 66,
-        "replies": 40,
-        "likes_h": "445"
+        "likes": 530,
+        "retweets": 76,
+        "replies": 47,
+        "likes_h": "530"
       },
-      "engagement": 617,
+      "engagement": 729,
       "hot": false
     },
     {
@@ -252,12 +334,12 @@
         "high engagement (1.3K likes)"
       ],
       "metrics": {
-        "likes": 1284,
-        "retweets": 220,
-        "replies": 61,
+        "likes": 1318,
+        "retweets": 226,
+        "replies": 63,
         "likes_h": "1.3K"
       },
-      "engagement": 1785,
+      "engagement": 1833,
       "hot": false
     },
     {
@@ -292,12 +374,12 @@
         "tech substance (models, research)"
       ],
       "metrics": {
-        "likes": 228,
-        "retweets": 43,
+        "likes": 234,
+        "retweets": 45,
         "replies": 30,
-        "likes_h": "228"
+        "likes_h": "234"
       },
-      "engagement": 344,
+      "engagement": 354,
       "hot": false
     },
     {
@@ -373,15 +455,15 @@
         "casual tone (this)",
         "announcement language (generally available)",
         "tech substance (models, claude, platform)",
-        "high engagement (1.3K likes)"
+        "high engagement (1.4K likes)"
       ],
       "metrics": {
-        "likes": 1349,
-        "retweets": 163,
+        "likes": 1366,
+        "retweets": 167,
         "replies": 86,
-        "likes_h": "1.3K"
+        "likes_h": "1.4K"
       },
-      "engagement": 1761,
+      "engagement": 1786,
       "hot": false
     },
     {
@@ -416,12 +498,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 365,
-        "retweets": 62,
+        "likes": 371,
+        "retweets": 63,
         "replies": 35,
-        "likes_h": "365"
+        "likes_h": "371"
       },
-      "engagement": 524,
+      "engagement": 532,
       "hot": false
     },
     {
@@ -496,15 +578,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (model, claude)",
-        "high engagement (30.5K likes)"
+        "high engagement (30.6K likes)"
       ],
       "metrics": {
-        "likes": 30518,
-        "retweets": 3202,
-        "replies": 2393,
-        "likes_h": "30.5K"
+        "likes": 30591,
+        "retweets": 3201,
+        "replies": 2405,
+        "likes_h": "30.6K"
       },
-      "engagement": 39315,
+      "engagement": 39398,
       "hot": true
     },
     {
@@ -539,12 +621,12 @@
         "tech substance (models, fine-tune)"
       ],
       "metrics": {
-        "likes": 486,
+        "likes": 487,
         "retweets": 70,
         "replies": 53,
-        "likes_h": "486"
+        "likes_h": "487"
       },
-      "engagement": 679,
+      "engagement": 680,
       "hot": false
     },
     {
@@ -586,7 +668,7 @@
         "likes_h": "7.6K"
       },
       "engagement": 8987,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2070555278576439306",
@@ -622,12 +704,12 @@
         "high engagement (3.3K likes)"
       ],
       "metrics": {
-        "likes": 3280,
-        "retweets": 201,
-        "replies": 83,
+        "likes": 3288,
+        "retweets": 202,
+        "replies": 85,
         "likes_h": "3.3K"
       },
-      "engagement": 3765,
+      "engagement": 3777,
       "hot": false
     },
     {
@@ -664,12 +746,12 @@
         "high engagement (3.9K likes)"
       ],
       "metrics": {
-        "likes": 3923,
+        "likes": 3930,
         "retweets": 234,
         "replies": 107,
         "likes_h": "3.9K"
       },
-      "engagement": 4498,
+      "engagement": 4505,
       "hot": false
     },
     {
@@ -707,12 +789,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 5176,
+        "likes": 5178,
         "retweets": 376,
         "replies": 229,
         "likes_h": "5.2K"
       },
-      "engagement": 6157,
+      "engagement": 6159,
       "hot": false
     },
     {
@@ -747,15 +829,15 @@
         "announcement language (introducing)",
         "tech substance (model, gpt)",
         "links to a source",
-        "high engagement (39.6K likes)"
+        "high engagement (39.7K likes)"
       ],
       "metrics": {
-        "likes": 39646,
-        "retweets": 5676,
-        "replies": 3447,
-        "likes_h": "39.6K"
+        "likes": 39727,
+        "retweets": 5681,
+        "replies": 3459,
+        "likes_h": "39.7K"
       },
-      "engagement": 54445,
+      "engagement": 54548,
       "hot": true
     },
     {
@@ -793,13 +875,13 @@
         "high engagement (6.3K likes)"
       ],
       "metrics": {
-        "likes": 6279,
-        "retweets": 373,
+        "likes": 6283,
+        "retweets": 372,
         "replies": 344,
         "likes_h": "6.3K"
       },
-      "engagement": 7369,
-      "hot": true
+      "engagement": 7371,
+      "hot": false
     },
     {
       "id": "x_2070528961235575278",
@@ -835,12 +917,12 @@
         "high engagement (2.7K likes)"
       ],
       "metrics": {
-        "likes": 2731,
+        "likes": 2747,
         "retweets": 366,
-        "replies": 418,
+        "replies": 419,
         "likes_h": "2.7K"
       },
-      "engagement": 3881,
+      "engagement": 3898,
       "hot": false
     },
     {
@@ -1037,12 +1119,12 @@
         "high engagement (3.2K likes)"
       ],
       "metrics": {
-        "likes": 3209,
-        "retweets": 216,
+        "likes": 3215,
+        "retweets": 217,
         "replies": 251,
         "likes_h": "3.2K"
       },
-      "engagement": 3892,
+      "engagement": 3900,
       "hot": false
     },
     {
@@ -1080,12 +1162,12 @@
         "high engagement (1K likes)"
       ],
       "metrics": {
-        "likes": 1012,
+        "likes": 1013,
         "retweets": 124,
         "replies": 77,
         "likes_h": "1K"
       },
-      "engagement": 1337,
+      "engagement": 1338,
       "hot": false
     },
     {
@@ -1246,90 +1328,6 @@
         "likes_h": "204"
       },
       "engagement": 269,
-      "hot": false
-    },
-    {
-      "id": "x_2069809298612621629",
-      "title": "Introducing Jalapeño — designed from scratch for LLM inference over nine months, accelerated by our models. Perf per watt looking incredible.",
-      "link": "https://x.com/gdb/status/2069809298612621629",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Greg Brockman · @gdb",
-      "handle": "gdb",
-      "org": "OpenAI",
-      "published": "2026-06-24T15:46:06.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product launch",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Product launch"
-      ],
-      "summary": "Introducing Jalapeño — designed from scratch for LLM inference over nine months, accelerated by our models. Perf per watt looking incredible.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 85,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "casual tone (incredible)",
-        "announcement language (introducing)",
-        "tech substance (models, inference)",
-        "high engagement (2.7K likes)"
-      ],
-      "metrics": {
-        "likes": 2723,
-        "retweets": 114,
-        "replies": 158,
-        "likes_h": "2.7K"
-      },
-      "engagement": 3109,
-      "hot": false
-    },
-    {
-      "id": "x_2069785314663497966",
-      "title": "What happens when millions of AI agents start negotiating, transacting, and delegating to one another? @weballergy joined our podcast with @fryrsquared to explore the rise of agentic economies – and…",
-      "link": "https://x.com/GoogleDeepMind/status/2069785314663497966",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Google DeepMind · @GoogleDeepMind",
-      "handle": "GoogleDeepMind",
-      "org": "Google",
-      "published": "2026-06-24T14:10:48.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "Google",
-        "Product"
-      ],
-      "summary": "What happens when millions of AI agents start negotiating, transacting, and delegating to one another? @weballergy joined our podcast with @fryrsquared to explore the rise of agentic economies – and how we can diversify agent decision-making to avoid AI groupthink. Timecodes:",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 82,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (agent, agents)",
-        "high engagement (791 likes)"
-      ],
-      "metrics": {
-        "likes": 791,
-        "retweets": 101,
-        "replies": 100,
-        "likes_h": "791"
-      },
-      "engagement": 1093,
       "hot": false
     }
   ]
