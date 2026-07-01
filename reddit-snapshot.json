@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-01T19:24:56.601Z",
+  "generated_at": "2026-07-01T21:12:36.624Z",
   "subs": [
     "MachineLearning",
-    "singularity",
-    "nutrition",
+    "Futurology",
+    "netsec",
     "Fitness",
     "artificial",
+    "singularity",
+    "nutrition",
     "hardware",
     "robotics",
     "bodyweightfitness",
     "startups",
     "SkincareAddiction",
     "LocalLLaMA",
-    "netsec",
-    "Futurology",
     "running",
     "gadgets",
     "science",
@@ -21,13 +21,13 @@
   ],
   "count": 36,
   "by_category": {
-    "Fitness": 8,
+    "Fitness": 7,
     "AI / ML": 11,
+    "Security": 3,
     "Hardware & Gadgets": 3,
     "Robotics": 2,
     "Startups & Funding": 2,
     "Skincare": 2,
-    "Security": 2,
     "Science": 6
   },
   "articles": [
@@ -183,6 +183,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/nutrition this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1ujzc5y",
+      "title": "CitrixBleed To Infinity And Beyond (Citrix NetScaler Pre-Auth Memory Overread CVE-2026-8451) - watchTowr Labs",
+      "link": "https://www.reddit.com/r/netsec/comments/1ujzc5y/citrixbleed_to_infinity_and_beyond_citrix/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/netsec · community knowledge",
+      "content_type": "post",
+      "author": "u/dx7r__ · r/netsec",
+      "handle": "netsec",
+      "org": "r/netsec",
+      "platform": "reddit",
+      "published": "2026-06-30T19:40:48.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/netsec"
+      ],
+      "summary": "CitrixBleed To Infinity And Beyond (Citrix NetScaler Pre-Auth Memory Overread CVE-2026-8451) - watchTowr Labs",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/netsec this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1405,46 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/longevity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uhb5t8",
-      "title": "Soluble fiber at breakfast",
-      "link": "https://www.reddit.com/r/nutrition/comments/1uhb5t8/soluble_fiber_at_breakfast/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/nutrition · community knowledge",
-      "content_type": "post",
-      "author": "u/Strange_Owl5565 · r/nutrition",
-      "handle": "nutrition",
-      "org": "r/nutrition",
-      "platform": "reddit",
-      "published": "2026-06-27T19:11:00.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Nutrition",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "Nutrition",
-        "r/nutrition"
-      ],
-      "summary": "I&#39;ve read the concept of starting a meal with veggies, to have soluble fiber&#39;s gel line your intestinal tract before other foods enter the system, so foods will get processed more slowly and thereby blunt glucose spikes. My questions: 1) Is this true? 2) If true, is it counterproductive to mix my chopped veg…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/nutrition this week"
       ],
       "metrics": {
         "likes": 0,
