@@ -1,36 +1,76 @@
 {
-  "generated_at": "2026-07-01T00:15:36.749Z",
+  "generated_at": "2026-07-01T05:11:23.463Z",
   "subs": [
     "MachineLearning",
-    "Futurology",
-    "netsec",
+    "longevity",
+    "hardware",
     "startups",
     "SkincareAddiction",
     "artificial",
     "LocalLLaMA",
-    "hardware",
+    "netsec",
+    "Futurology",
     "running",
     "singularity",
     "gadgets",
     "science",
     "robotics",
-    "longevity",
     "nutrition",
     "programming"
   ],
   "count": 36,
   "by_category": {
+    "AI / ML": 12,
     "Startups & Funding": 2,
     "Skincare": 4,
-    "AI / ML": 11,
     "Security": 3,
     "Hardware & Gadgets": 2,
-    "Science": 8,
+    "Science": 7,
     "Fitness": 3,
     "Robotics": 2,
     "Coding & Dev Tools": 1
   },
   "articles": [
+    {
+      "id": "reddit_1ujn3u5",
+      "title": "A map of the latest 11 million papers split by semantic similarity and time slices [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1ujn3u5/a_map_of_the_latest_11_million_papers_split_by/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/MachineLearning · community knowledge",
+      "content_type": "post",
+      "author": "u/icannotchangethename · r/MachineLearning",
+      "handle": "MachineLearning",
+      "org": "r/MachineLearning",
+      "platform": "reddit",
+      "published": "2026-06-30T11:55:44.000Z",
+      "image": "https://preview.redd.it/9e8fpnunpeah1.gif?frame=1&width=140&height=78&auto=webp&s=68a24836f34ed9fff665a256af988dc497a57acc",
+      "thumbnail": "https://preview.redd.it/9e8fpnunpeah1.gif?frame=1&width=140&height=78&auto=webp&s=68a24836f34ed9fff665a256af988dc497a57acc",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/MachineLearning"
+      ],
+      "summary": "I am building alternative ways explore scientifc literature. The goal was to make the large number of papers published daily easier to keep up with by visualising the macro scopic trend. It is free to use at The Global Research Space for any one interested in giving it a try! How I built it I sourced the latest 11M…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1ujhx3o",
       "title": "Watch out for crap co-founders - i will not promote",
@@ -1398,46 +1438,6 @@
         "r/longevity"
       ],
       "summary": "As people age, their muscles don&#39;t just get weaker, they may also stop doing something that&#39;s been quietly protecting them from cancer. A study published in Nature Communications by researchers at Duke-NUS Medical School found that healthy muscle releases tiny molecular packages into the bloodstream carrying a…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/longevity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ugbjb0",
-      "title": "Researchers screened 6,442 existing drugs for hidden effects on aging and longevity. 370 made the list, including an OTC nasal spray, and a new metric predicts which slow aging vs. speed it up (Nature Aging)",
-      "link": "https://www.reddit.com/r/longevity/comments/1ugbjb0/researchers_screened_6442_existing_drugs_for/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/longevity · community knowledge",
-      "content_type": "post",
-      "author": "u/Hot-Nothing-4424 · r/longevity",
-      "handle": "longevity",
-      "org": "r/longevity",
-      "platform": "reddit",
-      "published": "2026-06-26T16:24:20.000Z",
-      "image": "https://external-preview.redd.it/vxYt09kauytxU580cJtsVYUDKkLP6JSG4Pt3NIk4cLg.jpeg?width=640&crop=smart&auto=webp&s=cd0b4e8dce5fbb43d0db80ab595e5bff2fc09caf",
-      "thumbnail": "https://external-preview.redd.it/vxYt09kauytxU580cJtsVYUDKkLP6JSG4Pt3NIk4cLg.jpeg?width=640&crop=smart&auto=webp&s=cd0b4e8dce5fbb43d0db80ab595e5bff2fc09caf",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Longevity",
-      "categories": [
-        "Reddit",
-        "Science",
-        "Longevity",
-        "r/longevity"
-      ],
-      "summary": "Researchers screened 6,442 existing drugs for hidden effects on aging and longevity. 370 made the list, including an OTC nasal spray, and a new metric predicts which slow aging vs. speed it up (Nature Aging)",
       "is_social": true,
       "report_worthy": true,
       "worthiness_score": 62,
