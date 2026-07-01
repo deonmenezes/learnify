@@ -1,10 +1,11 @@
 {
-  "generated_at": "2026-07-01T17:33:58.394Z",
+  "generated_at": "2026-07-01T19:24:56.601Z",
   "subs": [
     "MachineLearning",
-    "artificial",
+    "singularity",
     "nutrition",
     "Fitness",
+    "artificial",
     "hardware",
     "robotics",
     "bodyweightfitness",
@@ -14,7 +15,6 @@
     "netsec",
     "Futurology",
     "running",
-    "singularity",
     "gadgets",
     "science",
     "longevity"
@@ -103,6 +103,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/artificial this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uk4gwa",
+      "title": "The Accuracy Is Tripping Me",
+      "link": "https://www.reddit.com/r/singularity/comments/1uk4gwa/the_accuracy_is_tripping_me/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/singularity · community knowledge",
+      "content_type": "post",
+      "author": "u/SaintedTainted · r/singularity",
+      "handle": "singularity",
+      "org": "r/singularity",
+      "platform": "reddit",
+      "published": "2026-06-30T22:59:20.000Z",
+      "image": "https://external-preview.redd.it/aHNpNDhrcjMzaWFoMSJrsKteYXTUPXL3ysG_dbh6qYpiRFb1y4Zlej1CQXtp.png?width=640&crop=smart&auto=webp&s=42ca8eccb7f1893e1462bd1729300a93ef366823",
+      "thumbnail": "https://external-preview.redd.it/aHNpNDhrcjMzaWFoMSJrsKteYXTUPXL3ysG_dbh6qYpiRFb1y4Zlej1CQXtp.png?width=640&crop=smart&auto=webp&s=42ca8eccb7f1893e1462bd1729300a93ef366823",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/singularity"
+      ],
+      "summary": "The Accuracy Is Tripping Me",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/singularity this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1405,46 +1445,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/nutrition this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uhatw8",
-      "title": "MathFormer: Testing whether symbolic math is pattern matching or reasoning [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1uhatw8/mathformer_testing_whether_symbolic_math_is/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/MachineLearning · community knowledge",
-      "content_type": "post",
-      "author": "u/AlphaCode1 · r/MachineLearning",
-      "handle": "MachineLearning",
-      "org": "r/MachineLearning",
-      "platform": "reddit",
-      "published": "2026-06-27T18:57:56.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/MachineLearning"
-      ],
-      "summary": "Repo link and results - https://github.com/Abhinand20/MathFormer Task: Given a factorized expression like (7-3*z)*(-5*z-9), predict the expanded form -&gt; 15*z\\*2-8\\*z-63 Key takeaway: A tiny (4M param) seq2seq model trained with no math knowledge reaches ~98.6% accuracy on symbolic math tasks, suggesting it learns…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/MachineLearning this week"
       ],
       "metrics": {
         "likes": 0,
