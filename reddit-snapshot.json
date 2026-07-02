@@ -1,9 +1,10 @@
 {
-  "generated_at": "2026-07-02T17:56:38.538Z",
+  "generated_at": "2026-07-02T19:42:36.665Z",
   "subs": [
     "MachineLearning",
-    "science",
+    "Futurology",
     "netsec",
+    "science",
     "hardware",
     "gadgets",
     "robotics",
@@ -16,14 +17,13 @@
     "startups",
     "SkincareAddiction",
     "LocalLLaMA",
-    "Futurology",
     "running"
   ],
   "count": 36,
   "by_category": {
-    "Science": 8,
+    "Science": 9,
     "Hardware & Gadgets": 4,
-    "AI / ML": 10,
+    "AI / ML": 9,
     "Robotics": 3,
     "Fitness": 6,
     "Security": 2,
@@ -102,6 +102,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/hardware this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1ukkvtj",
+      "title": "License plate cameras are scanning 20 billion vehicles a month, cities are starting to push back",
+      "link": "https://www.reddit.com/r/Futurology/comments/1ukkvtj/license_plate_cameras_are_scanning_20_billion/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/Futurology · community knowledge",
+      "content_type": "post",
+      "author": "u/EchoOfOppenheimer · r/Futurology",
+      "handle": "Futurology",
+      "org": "r/Futurology",
+      "platform": "reddit",
+      "published": "2026-07-01T12:53:49.000Z",
+      "image": "https://external-preview.redd.it/c2vl1U_ekNQND4-qVkuedtbe3PBnRFK9xzbEPU7aJMQ.jpeg?width=640&crop=smart&auto=webp&s=5e000c6c6e301080fe6d111f44c920a228fb868c",
+      "thumbnail": "https://external-preview.redd.it/c2vl1U_ekNQND4-qVkuedtbe3PBnRFK9xzbEPU7aJMQ.jpeg?width=640&crop=smart&auto=webp&s=5e000c6c6e301080fe6d111f44c920a228fb868c",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/Futurology"
+      ],
+      "summary": "License plate cameras are scanning 20 billion vehicles a month, cities are starting to push back",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/Futurology this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1403,46 +1442,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Futurology this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uhxshz",
-      "title": "Meanwhile in China, 10,000+ delivery bots are transforming last-mile fulfillment by making deliveries faster, cheaper, and more autonomous",
-      "link": "https://www.reddit.com/r/singularity/comments/1uhxshz/meanwhile_in_china_10000_delivery_bots_are/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/singularity · community knowledge",
-      "content_type": "post",
-      "author": "u/Distinct-Question-16 · r/singularity",
-      "handle": "singularity",
-      "org": "r/singularity",
-      "platform": "reddit",
-      "published": "2026-06-28T13:49:06.000Z",
-      "image": "https://external-preview.redd.it/N2ZheTJoNTczMWFoMQJScXLHhc_B0-LNHpVLwN8m41f4jBQS79e3k2aZrVal.png?width=640&crop=smart&auto=webp&s=477c3c49a8b3512a6360b08a5c6e8277fe89144d",
-      "thumbnail": "https://external-preview.redd.it/N2ZheTJoNTczMWFoMQJScXLHhc_B0-LNHpVLwN8m41f4jBQS79e3k2aZrVal.png?width=640&crop=smart&auto=webp&s=477c3c49a8b3512a6360b08a5c6e8277fe89144d",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/singularity"
-      ],
-      "summary": "Meanwhile in China, 10,000+ delivery bots are transforming last-mile fulfillment by making deliveries faster, cheaper, and more autonomous",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/singularity this week"
       ],
       "metrics": {
         "likes": 0,
