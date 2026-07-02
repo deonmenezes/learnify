@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-07-02T08:17:28.996Z",
+  "generated_at": "2026-07-02T11:13:22.077Z",
   "subs": [
     "MachineLearning",
-    "longevity",
+    "Fitness",
+    "hardware",
     "gadgets",
     "science",
-    "Fitness",
     "artificial",
     "singularity",
+    "longevity",
     "nutrition",
     "netsec",
-    "hardware",
     "robotics",
     "bodyweightfitness",
     "startups",
@@ -21,8 +21,8 @@
   ],
   "count": 36,
   "by_category": {
-    "Hardware & Gadgets": 3,
-    "AI / ML": 12,
+    "Hardware & Gadgets": 4,
+    "AI / ML": 11,
     "Science": 7,
     "Fitness": 7,
     "Security": 3,
@@ -31,6 +31,45 @@
     "Skincare": 1
   },
   "articles": [
+    {
+      "id": "reddit_1uklu4n",
+      "title": "Physical disc production ending in January 2028 for new games releasing on PlayStation consoles",
+      "link": "https://www.reddit.com/r/hardware/comments/1uklu4n/physical_disc_production_ending_in_january_2028/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/hardware · community knowledge",
+      "content_type": "post",
+      "author": "u/DazzlingpAd134 · r/hardware",
+      "handle": "hardware",
+      "org": "r/hardware",
+      "platform": "reddit",
+      "published": "2026-07-01T13:32:36.000Z",
+      "image": "https://external-preview.redd.it/deI5Y96IJzEYfsFag0lNNKud_RN3pE80h3uo-GlMIBE.png?width=70&height=70&auto=webp&s=5cf27458ee09af83bff88b1744a3c15835ae066d",
+      "thumbnail": "https://external-preview.redd.it/deI5Y96IJzEYfsFag0lNNKud_RN3pE80h3uo-GlMIBE.png?width=70&height=70&auto=webp&s=5cf27458ee09af83bff88b1744a3c15835ae066d",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/hardware"
+      ],
+      "summary": "Physical disc production ending in January 2028 for new games releasing on PlayStation consoles",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/hardware this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1ukklak",
       "title": "Sony is killing all physical PlayStation game discs - New games released after January 2028 will be digital-only",
@@ -1405,46 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/netsec this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uht2m0",
-      "title": "We're probably going to need that soon.",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1uht2m0/were_probably_going_to_need_that_soon/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/LocalLLaMA · community knowledge",
-      "content_type": "post",
-      "author": "u/Nunki08 · r/LocalLLaMA",
-      "handle": "LocalLLaMA",
-      "org": "r/LocalLLaMA",
-      "platform": "reddit",
-      "published": "2026-06-28T09:46:12.000Z",
-      "image": "https://preview.redd.it/a2scxop2vz9h1.jpg?width=140&height=105&auto=webp&s=5682e984606a883c6082b5fb9a61155b3328edab",
-      "thumbnail": "https://preview.redd.it/a2scxop2vz9h1.jpg?width=140&height=105&auto=webp&s=5682e984606a883c6082b5fb9a61155b3328edab",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/LocalLLaMA"
-      ],
-      "summary": "From: Vladik on 𝕏: https://x.com/Kostoglodov/status/2071144065857679631 Shaw (spirit/acc) on 𝕏: https://x.com/shawmakesmagic/status/2070918006033817867 &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/LocalLLaMA this week"
       ],
       "metrics": {
         "likes": 0,

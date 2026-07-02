@@ -1,15 +1,57 @@
 {
-  "generated_at": "2026-07-02T08:15:17.501Z",
+  "generated_at": "2026-07-02T11:11:07.237Z",
   "handles": [
-    "nvidia",
     "AnthropicAI",
-    "elonmusk",
     "OpenAI",
+    "nvidia",
     "GoogleDeepMind",
+    "elonmusk",
     "gdb"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2072545807505527251",
+      "title": "AI is shifting from model training to always-on token production, and that shift demands a new business model. NVIDIA is partnering with AI clouds to deploy large‑scale, multi‑tenant AI factories…",
+      "link": "https://x.com/nvidia/status/2072545807505527251",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-07-02T05:00:01.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Research"
+      ],
+      "summary": "AI is shifting from model training to always-on token production, and that shift demands a new business model. NVIDIA is partnering with AI clouds to deploy large‑scale, multi‑tenant AI factories through revenue-sharing and credit-support. This opens up compute access to the",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 90,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "casual tone (this)",
+        "tech substance (model, training)",
+        "business signal (partnering, revenue)"
+      ],
+      "metrics": {
+        "likes": 665,
+        "retweets": 72,
+        "replies": 56,
+        "likes_h": "665"
+      },
+      "engagement": 865,
+      "hot": false
+    },
     {
       "id": "x_2072440109358600197",
       "title": "Before a robot can change the world, it needs software that builders can trust. NVIDIA robotics engineer Jaiveer Singh leads the team behind Isaac ROS, an open source platform helping developers…",
@@ -34,7 +76,7 @@
       "summary": "Before a robot can change the world, it needs software that builders can trust. NVIDIA robotics engineer Jaiveer Singh leads the team behind Isaac ROS, an open source platform helping developers build autonomous mobile robots, manipulation systems and humanoids with modular,",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 82,
+      "worthiness_score": 84,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -42,12 +84,12 @@
         "tech substance (open source, robotics, platform)"
       ],
       "metrics": {
-        "likes": 107,
-        "retweets": 9,
-        "replies": 15,
-        "likes_h": "107"
+        "likes": 266,
+        "retweets": 22,
+        "replies": 21,
+        "likes_h": "266"
       },
-      "engagement": 140,
+      "engagement": 331,
       "hot": false
     },
     {
@@ -74,19 +116,19 @@
       "summary": "America is a nation of builders. For 250 years, America has built railroads, power grids, factories, semiconductors, and the internet. Now, America is building again.",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 58,
+      "worthiness_score": 59,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
         "report-worthy"
       ],
       "metrics": {
-        "likes": 305,
-        "retweets": 53,
-        "replies": 24,
-        "likes_h": "305"
+        "likes": 405,
+        "retweets": 67,
+        "replies": 25,
+        "likes_h": "405"
       },
-      "engagement": 435,
+      "engagement": 564,
       "hot": false
     },
     {
@@ -119,15 +161,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (model, claude)",
-        "high engagement (42.5K likes)"
+        "high engagement (42.8K likes)"
       ],
       "metrics": {
-        "likes": 42498,
-        "retweets": 6459,
-        "replies": 3473,
-        "likes_h": "42.5K"
+        "likes": 42768,
+        "retweets": 6487,
+        "replies": 3503,
+        "likes_h": "42.8K"
       },
-      "engagement": 58889,
+      "engagement": 59245,
       "hot": true
     },
     {
@@ -160,15 +202,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (claude, update)",
-        "high engagement (84K likes)"
+        "high engagement (84.3K likes)"
       ],
       "metrics": {
-        "likes": 84009,
-        "retweets": 13004,
-        "replies": 4072,
-        "likes_h": "84K"
+        "likes": 84319,
+        "retweets": 13029,
+        "replies": 4078,
+        "likes_h": "84.3K"
       },
-      "engagement": 114089,
+      "engagement": 114455,
       "hot": true
     },
     {
@@ -202,15 +244,15 @@
         "report-worthy",
         "casual tone (this)",
         "business signal (deal)",
-        "high engagement (24.2K likes)"
+        "high engagement (26.1K likes)"
       ],
       "metrics": {
-        "likes": 24177,
-        "retweets": 4794,
-        "replies": 3686,
-        "likes_h": "24.2K"
+        "likes": 26110,
+        "retweets": 5337,
+        "replies": 4705,
+        "likes_h": "26.1K"
       },
-      "engagement": 37451,
+      "engagement": 41489,
       "hot": true
     },
     {
@@ -248,12 +290,12 @@
         "high engagement (4.3K likes)"
       ],
       "metrics": {
-        "likes": 4288,
-        "retweets": 382,
-        "replies": 281,
+        "likes": 4348,
+        "retweets": 388,
+        "replies": 284,
         "likes_h": "4.3K"
       },
-      "engagement": 5333,
+      "engagement": 5408,
       "hot": false
     },
     {
@@ -290,12 +332,12 @@
         "business signal (enterprise)"
       ],
       "metrics": {
-        "likes": 249,
-        "retweets": 29,
+        "likes": 259,
+        "retweets": 31,
         "replies": 4,
-        "likes_h": "249"
+        "likes_h": "259"
       },
-      "engagement": 311,
+      "engagement": 325,
       "hot": false
     },
     {
@@ -332,12 +374,12 @@
         "high engagement (1K likes)"
       ],
       "metrics": {
-        "likes": 1022,
-        "retweets": 167,
-        "replies": 76,
+        "likes": 1048,
+        "retweets": 175,
+        "replies": 77,
         "likes_h": "1K"
       },
-      "engagement": 1432,
+      "engagement": 1475,
       "hot": false
     },
     {
@@ -372,12 +414,12 @@
         "tech substance (inference, blackwell)"
       ],
       "metrics": {
-        "likes": 610,
-        "retweets": 90,
-        "replies": 55,
-        "likes_h": "610"
+        "likes": 637,
+        "retweets": 94,
+        "replies": 56,
+        "likes_h": "637"
       },
-      "engagement": 845,
+      "engagement": 881,
       "hot": false
     },
     {
@@ -413,12 +455,12 @@
         "high engagement (1.4K likes)"
       ],
       "metrics": {
-        "likes": 1351,
-        "retweets": 233,
-        "replies": 63,
+        "likes": 1361,
+        "retweets": 236,
+        "replies": 64,
         "likes_h": "1.4K"
       },
-      "engagement": 1880,
+      "engagement": 1897,
       "hot": false
     },
     {
@@ -453,12 +495,12 @@
         "tech substance (models, research)"
       ],
       "metrics": {
-        "likes": 238,
+        "likes": 240,
         "retweets": 45,
         "replies": 30,
-        "likes_h": "238"
+        "likes_h": "240"
       },
-      "engagement": 358,
+      "engagement": 360,
       "hot": false
     },
     {
@@ -660,12 +702,12 @@
         "high engagement (30.6K likes)"
       ],
       "metrics": {
-        "likes": 30632,
-        "retweets": 3200,
+        "likes": 30639,
+        "retweets": 3199,
         "replies": 2408,
         "likes_h": "30.6K"
       },
-      "engagement": 39440,
+      "engagement": 39445,
       "hot": true
     },
     {
@@ -783,12 +825,12 @@
         "high engagement (3.3K likes)"
       ],
       "metrics": {
-        "likes": 3299,
-        "retweets": 205,
-        "replies": 89,
+        "likes": 3300,
+        "retweets": 206,
+        "replies": 92,
         "likes_h": "3.3K"
       },
-      "engagement": 3798,
+      "engagement": 3804,
       "hot": false
     },
     {
@@ -825,12 +867,12 @@
         "high engagement (3.9K likes)"
       ],
       "metrics": {
-        "likes": 3934,
+        "likes": 3936,
         "retweets": 235,
         "replies": 107,
         "likes_h": "3.9K"
       },
-      "engagement": 4511,
+      "engagement": 4513,
       "hot": false
     },
     {
@@ -868,12 +910,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 5182,
+        "likes": 5186,
         "retweets": 376,
         "replies": 229,
         "likes_h": "5.2K"
       },
-      "engagement": 6163,
+      "engagement": 6167,
       "hot": false
     },
     {
@@ -911,12 +953,12 @@
         "high engagement (39.9K likes)"
       ],
       "metrics": {
-        "likes": 39857,
-        "retweets": 5695,
-        "replies": 3478,
+        "likes": 39897,
+        "retweets": 5696,
+        "replies": 3484,
         "likes_h": "39.9K"
       },
-      "engagement": 54725,
+      "engagement": 54773,
       "hot": true
     },
     {
@@ -954,12 +996,12 @@
         "high engagement (6.3K likes)"
       ],
       "metrics": {
-        "likes": 6289,
+        "likes": 6291,
         "retweets": 372,
         "replies": 346,
         "likes_h": "6.3K"
       },
-      "engagement": 7379,
+      "engagement": 7381,
       "hot": false
     },
     {
@@ -996,12 +1038,12 @@
         "high engagement (2.8K likes)"
       ],
       "metrics": {
-        "likes": 2761,
+        "likes": 2762,
         "retweets": 369,
         "replies": 421,
         "likes_h": "2.8K"
       },
-      "engagement": 3920,
+      "engagement": 3921,
       "hot": false
     },
     {
@@ -1198,9 +1240,9 @@
         "high engagement (3.2K likes)"
       ],
       "metrics": {
-        "likes": 3220,
+        "likes": 3221,
         "retweets": 218,
-        "replies": 252,
+        "replies": 251,
         "likes_h": "3.2K"
       },
       "engagement": 3908,
@@ -1241,12 +1283,12 @@
         "high engagement (1K likes)"
       ],
       "metrics": {
-        "likes": 1016,
+        "likes": 1017,
         "retweets": 125,
         "replies": 78,
         "likes_h": "1K"
       },
-      "engagement": 1344,
+      "engagement": 1345,
       "hot": false
     },
     {
@@ -1286,47 +1328,6 @@
         "likes_h": "633"
       },
       "engagement": 845,
-      "hot": false
-    },
-    {
-      "id": "x_2069873195499352248",
-      "title": "NVIDIA's full-stack AI is enabling autonomous operations for the world's leading brands and platforms. Key capabilities driving this shift: 📈 Causal marketing analytics at enterprise scale 🤖…",
-      "link": "https://x.com/nvidia/status/2069873195499352248",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-24T20:00:00.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Commentary"
-      ],
-      "summary": "NVIDIA's full-stack AI is enabling autonomous operations for the world's leading brands and platforms. Key capabilities driving this shift: 📈 Causal marketing analytics at enterprise scale 🤖 Secure, trustworthy agentic workflows ⚡Real-time, hyper-efficient auction bidding 🎬",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 68,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "casual tone (this)",
-        "business signal (enterprise)"
-      ],
-      "metrics": {
-        "likes": 408,
-        "retweets": 55,
-        "replies": 39,
-        "likes_h": "408"
-      },
-      "engagement": 557,
       "hot": false
     }
   ]
