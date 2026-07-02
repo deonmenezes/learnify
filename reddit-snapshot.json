@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-02T13:22:57.074Z",
+  "generated_at": "2026-07-02T15:46:17.971Z",
   "subs": [
     "MachineLearning",
-    "singularity",
-    "nutrition",
+    "Fitness",
+    "robotics",
     "hardware",
     "gadgets",
     "science",
-    "Fitness",
     "artificial",
+    "singularity",
     "longevity",
+    "nutrition",
     "netsec",
-    "robotics",
     "bodyweightfitness",
     "startups",
     "SkincareAddiction",
@@ -22,11 +22,11 @@
   "count": 36,
   "by_category": {
     "Hardware & Gadgets": 4,
-    "AI / ML": 11,
+    "AI / ML": 10,
     "Science": 7,
+    "Robotics": 3,
     "Fitness": 7,
-    "Security": 3,
-    "Robotics": 1,
+    "Security": 2,
     "Startups & Funding": 2,
     "Skincare": 1
   },
@@ -189,6 +189,45 @@
       }
     },
     {
+      "id": "reddit_1ukhxe9",
+      "title": "Proception has launched its first products, ProHand 1.0 (22 total DoF)",
+      "link": "https://www.reddit.com/r/robotics/comments/1ukhxe9/proception_has_launched_its_first_products/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/robotics · community knowledge",
+      "content_type": "post",
+      "author": "u/Nunki08 · r/robotics",
+      "handle": "robotics",
+      "org": "r/robotics",
+      "platform": "reddit",
+      "published": "2026-07-01T10:32:38.000Z",
+      "image": "https://external-preview.redd.it/YWZ4bDh2b2JpbGFoMbrxG4o1IKV5YkXfOd4MF_XmmNrxi6seDv82X_z7P_th.png?width=640&crop=smart&auto=webp&s=2be33b35a8094fb27d1cd632e153c493563d3e2f",
+      "thumbnail": "https://external-preview.redd.it/YWZ4bDh2b2JpbGFoMbrxG4o1IKV5YkXfOd4MF_XmmNrxi6seDv82X_z7P_th.png?width=640&crop=smart&auto=webp&s=2be33b35a8094fb27d1cd632e153c493563d3e2f",
+      "section": "Robotics",
+      "category": "Robotics",
+      "genre": "Robotics",
+      "categories": [
+        "Reddit",
+        "Robotics",
+        "r/robotics"
+      ],
+      "summary": "From The Humanoid Hub on 𝕏: https://x.com/TheHumanoidHub/status/2072016884460060832 Proception: Website: https://www.proception.ai/ 𝕏: https://x.com/proceptionAI &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/robotics this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1ukgcp1",
       "title": "Rant Wednesday - July 01, 2026",
       "link": "https://www.reddit.com/r/Fitness/comments/1ukgcp1/rant_wednesday_july_01_2026/",
@@ -220,6 +259,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Fitness this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1ukarsf",
+      "title": "6DOF robot arm fully 3d printed, built when I was 16",
+      "link": "https://www.reddit.com/r/robotics/comments/1ukarsf/6dof_robot_arm_fully_3d_printed_built_when_i_was/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/robotics · community knowledge",
+      "content_type": "post",
+      "author": "u/_Rayolo_ · r/robotics",
+      "handle": "robotics",
+      "org": "r/robotics",
+      "platform": "reddit",
+      "published": "2026-07-01T03:50:58.000Z",
+      "image": "https://external-preview.redd.it/MDRpNGw3YzRqamFoMYQDDJOETbiJg4p9_2gwl_tODKN8qZADIsuojX4c24O4.png?width=640&crop=smart&auto=webp&s=8cc80ff2a9096aa10a3163638130f413b61e02d1",
+      "thumbnail": "https://external-preview.redd.it/MDRpNGw3YzRqamFoMYQDDJOETbiJg4p9_2gwl_tODKN8qZADIsuojX4c24O4.png?width=640&crop=smart&auto=webp&s=8cc80ff2a9096aa10a3163638130f413b61e02d1",
+      "section": "Robotics",
+      "category": "Robotics",
+      "genre": "Robotics",
+      "categories": [
+        "Reddit",
+        "Robotics",
+        "r/robotics"
+      ],
+      "summary": "This is a 6DOF robot arm that I finished last year. This project started in 2022 when I was 14 years old, and I finished it when I was 16. It’s fully 3D printed and custom. The base and shoulder are driven by cycloidal gearboxes printed in nylon, the rest of the build was printed in PLA. The part I’m most proud of is…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/robotics this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1365,85 +1443,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/running this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uhw7fu",
-      "title": "I shrank a transformer until every number fitted on the screen and made the weights editable [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1uhw7fu/i_shrank_a_transformer_until_every_number_fitted/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/MachineLearning · community knowledge",
-      "content_type": "post",
-      "author": "u/DanielMoGo · r/MachineLearning",
-      "handle": "MachineLearning",
-      "org": "r/MachineLearning",
-      "platform": "reddit",
-      "published": "2026-06-28T12:35:42.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/MachineLearning"
-      ],
-      "summary": "I&#39;ve been teaching myself how LLMs actually work, not at the API level, but down to the matrix multiplications. To force myself to really understand the forward pass, I first built a complete transformer by hand in a spreadsheet from embeddings through to the loss. Then I turned the forward pass into a web page so…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/MachineLearning this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uhveou",
-      "title": "I tried a Local AI model (Qwen 3.6 27b) for security research and it works surprisingly well.",
-      "link": "https://www.reddit.com/r/netsec/comments/1uhveou/i_tried_a_local_ai_model_qwen_36_27b_for_security/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/netsec · community knowledge",
-      "content_type": "post",
-      "author": "u/ezzzzz · r/netsec",
-      "handle": "netsec",
-      "org": "r/netsec",
-      "platform": "reddit",
-      "published": "2026-06-28T11:56:40.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/netsec"
-      ],
-      "summary": "I tried a Local AI model (Qwen 3.6 27b) for security research and it works surprisingly well.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/netsec this week"
       ],
       "metrics": {
         "likes": 0,
