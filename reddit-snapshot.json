@@ -1,13 +1,14 @@
 {
-  "generated_at": "2026-07-02T00:16:01.083Z",
+  "generated_at": "2026-07-02T04:45:28.924Z",
   "subs": [
     "MachineLearning",
-    "artificial",
-    "nutrition",
-    "investing",
+    "longevity",
+    "gadgets",
     "science",
     "Fitness",
+    "artificial",
     "singularity",
+    "nutrition",
     "netsec",
     "hardware",
     "robotics",
@@ -16,21 +17,59 @@
     "SkincareAddiction",
     "LocalLLaMA",
     "Futurology",
-    "running",
-    "gadgets"
+    "running"
   ],
   "count": 36,
   "by_category": {
+    "Hardware & Gadgets": 3,
     "AI / ML": 12,
     "Science": 7,
     "Fitness": 7,
     "Security": 3,
-    "Hardware & Gadgets": 3,
     "Robotics": 1,
     "Startups & Funding": 2,
     "Skincare": 1
   },
   "articles": [
+    {
+      "id": "reddit_1ukklak",
+      "title": "Sony is killing all physical PlayStation game discs - New games released after January 2028 will be digital-only",
+      "link": "https://www.reddit.com/r/gadgets/comments/1ukklak/sony_is_killing_all_physical_playstation_game/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/gadgets · community knowledge",
+      "content_type": "post",
+      "author": "u/ReaddittiddeR · r/gadgets",
+      "handle": "gadgets",
+      "org": "r/gadgets",
+      "platform": "reddit",
+      "published": "2026-07-01T12:41:28.000Z",
+      "image": "https://external-preview.redd.it/xHBh4SicDr8rBa_e7UEOqpjy4Iquc03WLVuCea33Rm0.jpeg?width=640&crop=smart&auto=webp&s=6cfda4885b02fb9bf26b285d89f93a0aba9fe9e6",
+      "thumbnail": "https://external-preview.redd.it/xHBh4SicDr8rBa_e7UEOqpjy4Iquc03WLVuCea33Rm0.jpeg?width=640&crop=smart&auto=webp&s=6cfda4885b02fb9bf26b285d89f93a0aba9fe9e6",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/gadgets"
+      ],
+      "summary": "Sony is killing all physical PlayStation game discs - New games released after January 2028 will be digital-only",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/gadgets this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1ukjtlm",
       "title": "On July 1, 2026, arXiv will spin out from Cornell University, its home for the past 25 years, to become an independent nonprofit organization. Major funding support from Simons Foundation and Schmidt Sciences. Ditching the red for their website. [N]",
@@ -222,6 +261,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/singularity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uk20b0",
+      "title": "Questions of the future in aging and longevity research at the GIMM (Nature Aging)",
+      "link": "https://www.reddit.com/r/longevity/comments/1uk20b0/questions_of_the_future_in_aging_and_longevity/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/longevity · community knowledge",
+      "content_type": "post",
+      "author": "u/Select_Possibility38 · r/longevity",
+      "handle": "longevity",
+      "org": "r/longevity",
+      "platform": "reddit",
+      "published": "2026-06-30T21:20:29.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Science",
+      "category": "Science",
+      "genre": "Longevity",
+      "categories": [
+        "Reddit",
+        "Science",
+        "Longevity",
+        "r/longevity"
+      ],
+      "summary": "One thing I found interesting is how many different paths people think could lead to healthier aging, senolytics, stem cells, epigenetic reprogramming, AI-driven drug discovery, regenerative medicine, and more. If you had to bet on one area that will have the biggest real-world impact over the next 10–15 years, which…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/longevity this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1366,84 +1445,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/LocalLLaMA this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uhovub",
-      "title": "Framework Laptop 13 Pro buyers get free SSD upgrade as company lowers prices",
-      "link": "https://www.reddit.com/r/gadgets/comments/1uhovub/framework_laptop_13_pro_buyers_get_free_ssd/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/gadgets · community knowledge",
-      "content_type": "post",
-      "author": "u/dapperlemon · r/gadgets",
-      "handle": "gadgets",
-      "org": "r/gadgets",
-      "platform": "reddit",
-      "published": "2026-06-28T05:41:39.000Z",
-      "image": "https://external-preview.redd.it/HeE7uWycbrM9PBDoF2dZ3Z2fuy10aXhoHyZRsxY7cq0.png?width=640&crop=smart&auto=webp&s=5d8e26ff7f6224e8331f061af709e089bc42cc8e",
-      "thumbnail": "https://external-preview.redd.it/HeE7uWycbrM9PBDoF2dZ3Z2fuy10aXhoHyZRsxY7cq0.png?width=640&crop=smart&auto=webp&s=5d8e26ff7f6224e8331f061af709e089bc42cc8e",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/gadgets"
-      ],
-      "summary": "Framework Laptop 13 Pro buyers get free SSD upgrade as company lowers prices",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/gadgets this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uhnzih",
-      "title": "60% of TikTok videos are AI slop; 21% of YouTube ones",
-      "link": "https://www.reddit.com/r/Futurology/comments/1uhnzih/60_of_tiktok_videos_are_ai_slop_21_of_youtube_ones/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/Futurology · community knowledge",
-      "content_type": "post",
-      "author": "u/EchoOfOppenheimer · r/Futurology",
-      "handle": "Futurology",
-      "org": "r/Futurology",
-      "platform": "reddit",
-      "published": "2026-06-28T04:53:25.000Z",
-      "image": "https://external-preview.redd.it/rdEziGkUoPu9yYsOQgXnEbH-tbyImuaNcdy6LFL_RYY.jpeg?width=640&crop=smart&auto=webp&s=3b0d909eee54c4df517fedfc206e3c45ba765191",
-      "thumbnail": "https://external-preview.redd.it/rdEziGkUoPu9yYsOQgXnEbH-tbyImuaNcdy6LFL_RYY.jpeg?width=640&crop=smart&auto=webp&s=3b0d909eee54c4df517fedfc206e3c45ba765191",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/Futurology"
-      ],
-      "summary": "60% of TikTok videos are AI slop; 21% of YouTube ones",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/Futurology this week"
       ],
       "metrics": {
         "likes": 0,
