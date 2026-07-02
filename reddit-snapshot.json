@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-02T15:46:17.971Z",
+  "generated_at": "2026-07-02T17:56:38.538Z",
   "subs": [
     "MachineLearning",
-    "Fitness",
-    "robotics",
+    "science",
+    "netsec",
     "hardware",
     "gadgets",
-    "science",
+    "robotics",
+    "Fitness",
     "artificial",
     "singularity",
     "longevity",
     "nutrition",
-    "netsec",
     "bodyweightfitness",
     "startups",
     "SkincareAddiction",
@@ -21,16 +21,55 @@
   ],
   "count": 36,
   "by_category": {
+    "Science": 8,
     "Hardware & Gadgets": 4,
     "AI / ML": 10,
-    "Science": 7,
     "Robotics": 3,
-    "Fitness": 7,
+    "Fitness": 6,
     "Security": 2,
     "Startups & Funding": 2,
     "Skincare": 1
   },
   "articles": [
+    {
+      "id": "reddit_1ukyivq",
+      "title": "Billions of doses later: Global review confirms mRNA vaccines are safe, effective and full of promise. Comprehensive review brings together global evidence to strengthen public trust and counter misinformation as mRNA vaccines expand to prevent and treat more diseases.",
+      "link": "https://www.reddit.com/r/science/comments/1ukyivq/billions_of_doses_later_global_review_confirms/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/science · community knowledge",
+      "content_type": "post",
+      "author": "u/mvea · r/science",
+      "handle": "science",
+      "org": "r/science",
+      "platform": "reddit",
+      "published": "2026-07-01T21:22:36.000Z",
+      "image": "https://external-preview.redd.it/ertiuBfDBlaQ6_Xjn85WkI0w1zjLYqJ6zSB1DprRF3I.jpeg?width=640&crop=smart&auto=webp&s=5c3581d4741ec0509a32d2950afb29c9d6a2734c",
+      "thumbnail": "https://external-preview.redd.it/ertiuBfDBlaQ6_Xjn85WkI0w1zjLYqJ6zSB1DprRF3I.jpeg?width=640&crop=smart&auto=webp&s=5c3581d4741ec0509a32d2950afb29c9d6a2734c",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/science"
+      ],
+      "summary": "Billions of doses later: Global review confirms mRNA vaccines are safe, effective and full of promise. Comprehensive review brings together global evidence to strengthen public trust and counter misinformation as mRNA vaccines expand to prevent and treat more diseases.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/science this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1uklu4n",
       "title": "Physical disc production ending in January 2028 for new games releasing on PlayStation consoles",
@@ -1404,45 +1443,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/singularity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uhx7ud",
-      "title": "Race report - Grandma's Double Marathon",
-      "link": "https://www.reddit.com/r/running/comments/1uhx7ud/race_report_grandmas_double_marathon/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/running · community knowledge",
-      "content_type": "post",
-      "author": "u/PiBrickShop · r/running",
-      "handle": "running",
-      "org": "r/running",
-      "platform": "reddit",
-      "published": "2026-06-28T13:23:36.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/running"
-      ],
-      "summary": "Race info *Grandma&#39;s Marathon, Duluth, MN *Saturday, June 20, 2026 *26.2 miles x2 *11:19:42 (including the break between marathons) *Cool, humid, mix of clouds and sun NOTE: The first marathon is unofficial and unadvertized. The second marathon is the actual Grandmas Marathon - a top 10 largest marathon in the US.…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/running this week"
       ],
       "metrics": {
         "likes": 0,
