@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-01T22:48:27.366Z",
+  "generated_at": "2026-07-02T00:11:41.361Z",
   "model": "nvidia/nemotron-3-super-120b-a12b",
-  "count": 4549,
+  "count": 4544,
   "items": {
     "1071258": {
       "title": "Nothing ditched its latest Galaxy-beating budget phone, instead of a needed US launch",
@@ -478,15 +478,6 @@
       "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/24101118088"
     },
-    "arxiv_1eriwpb": {
-      "ai_summary": "Researchers introduced a tool‑supported method to synthesize, verify, and validate optimal safety controllers for collaborative robot systems in manufacturing. The approach guarantees software‑based safety functions, such as automatic shutdown, to enhance human‑robot interaction safety.",
-      "title": "Verified Synthesis of Optimal Safety Controllers for Human-Robot Collaboration",
-      "t": 1782078986828,
-      "media_url": "https://live.staticflickr.com/222/483475990_9240dccb82_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/483475990"
-    },
     "oa_lwuam2": {
       "ai_summary": "Depth of Processing (DoP) is a central construct in models of instructed second language acquisition, having been widely researched in the context of vocabulary learning. Its influence on the acquisition of L2 grammatical structures, especially through oral and audio‑visual modalities, remains comparatively underexplored.",
       "title": "Depth of Processing, learner aptitude, and the acquisition of L2 English grammatical structures",
@@ -761,15 +752,6 @@
       "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/9027556137"
     },
-    "lcgw7c": {
-      "ai_summary": "Researchers propose that autism consists of two subtypes distinguished by the strength of individuals' brain connections. This evidence adds to growing support for biologically distinct categories within the autism spectrum.",
-      "title": "Autism may have two distinct subtypes that vary by brain activity",
-      "t": 1782084102197,
-      "media_url": "https://live.staticflickr.com/4041/4616563436_55b123effa_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Dossy / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/20243249@N00/4616563436"
-    },
     "26a7pm": {
       "ai_summary": "More than half of Spotify's listening is now in non-English languages. The company is expanding across Africa, Asia, and Latin America with local artists, pricing, and payment systems.",
       "title": "Spotify’s post-English AI future",
@@ -778,15 +760,6 @@
       "media_kind": "stock",
       "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/3552090794"
-    },
-    "18yufl0": {
-      "ai_summary": "Apple is easing its control over iPhone app distribution in Brazil to allow new competition in the App Store. This move marks another major market where Apple’s App Store monopoly is being loosened.",
-      "title": "Apple opens up App Store to new competition in Brazil",
-      "t": 1781800893224,
-      "media_url": "https://live.staticflickr.com/2837/9795751645_5e1204c08b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Neon Tommy / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/42757699@N04/9795751645"
     },
     "1j6b07t": {
       "ai_summary": "Rivian owners have filed a class‑action lawsuit alleging the company falsely promised hands‑free driving for its first‑generation R1 vehicles. The plaintiffs claim Rivian repeatedly assured the feature would arrive but never delivered it.",
@@ -1077,51 +1050,6 @@
       "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/4171280876"
     },
-    "arxiv_178vyf4": {
-      "ai_summary": "SOTER introduces a runtime assurance framework designed to ensure the safe operation of autonomous robots that rely on third‑party components and machine‑learning techniques. By monitoring and enforcing correct behavior during execution, it compensates for the difficulty of obtaining strong design‑time certification.",
-      "title": "SOTER: A Runtime Assurance Framework for Programming Safe Robotics Systems",
-      "t": 1782079010926,
-      "media_url": "https://live.staticflickr.com/2809/10388748355_f3d38ed371_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Paul Albertella / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/73915715@N00/10388748355"
-    },
-    "arxiv_1dju1pi": {
-      "ai_summary": "The study finds that many Android apps embed webpages using WebView components to run JavaScript and share Android objects with the JavaScript world via dedicated APIs. It warns that bridging the Android and JavaScript interfaces can introduce potential security or performance issues.",
-      "title": "A Large Scale Analysis of Android-Web Hybridization",
-      "t": 1782078996812,
-      "media_url": "https://live.staticflickr.com/1483/25999688380_867276b58b_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NASA Goddard Photo and Video / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/24662369@N07/25999688380"
-    },
-    "arxiv_1nru56z": {
-      "ai_summary": "CANAL is an LLVM‑based framework that analyzes cache timing by transforming a program’s intermediate representation into a model of its memory behavior. It provides a unified approach for evaluating non‑functional properties, easing comparison and implementation of cache‑analysis techniques.",
-      "title": "CANAL: A Cache Timing Analysis Framework via LLVM Transformation",
-      "t": 1782079015044,
-      "media_url": "https://live.staticflickr.com/6144/6012541096_8c140f2286_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NWABR / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/64704683@N04/6012541096"
-    },
-    "arxiv_sh3jzf": {
-      "ai_summary": "The paper introduces a safe compilation method that guarantees correct program execution despite hidden deterministic hardware aliasing, where a single logical address may intermittently access different physical memory locations. It further adapts this technique to maintain correctness in encrypted computing settings.",
-      "title": "Safe Compilation for Hidden Deterministic Hardware Aliasing and Encrypted Computing",
-      "t": 1782079035330,
-      "media_url": "https://live.staticflickr.com/6167/6247070632_c9f2d5583c_m.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Sales G2MT Labs / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/68750437@N08/6247070632"
-    },
-    "arxiv_1nx1j4k": {
-      "ai_summary": "Similarity‑based malware detection relies on the assumption that all variants of a malware family share detectable similarities. Software diversification undermines this by probabilistically altering code and data to break those similarity assumptions.",
-      "title": "Similarity-based matching meets Malware Diversity",
-      "t": 1782079023792,
-      "media_url": "https://live.staticflickr.com/3918/14748366537_1940b24dfd_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Sidneiensis / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/104327456@N07/14748366537"
-    },
     "1p9qv8r": {
       "ai_summary": "Salome Mikadze‑Struk, daughter of refugees, launched a software‑development company while studying during the COVID‑19 pandemic and kept it operating after the war began in Ukraine. She now uses her resilience‑filled journey to mentor tech‑startup founders.",
       "title": "War Taught this Ukrainian Entrepreneur the Value of Resilience",
@@ -1230,229 +1158,6 @@
       "media_kind": "stock",
       "media_credit": "Photo: Official GDC / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/46982319@N06/25209652954"
-    },
-    "arxiv_1sefkxa": {
-      "ai_summary": "Infrared resonant vibrations can induce structural changes in amorphous solid water, altering its physical state. This material, prevalent as icy mantles on interstellar dust and a precursor to cometary ices, serves as a substrate for surface chemistry and may facilitate proton‑transfer reactions in space.",
-      "title": "Infrared resonant vibrationally induced restructuring of amorphous solid water",
-      "t": 1782078990795,
-      "media_url": "https://live.staticflickr.com/6144/6012541096_8c140f2286_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NWABR / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/64704683@N04/6012541096"
-    },
-    "arxiv_1qikmh6": {
-      "ai_summary": "Metallic nanoparticles have long been known to catalyze chemical reactions both in the dark and under illumination through various mechanisms. Over the past decade, numerous claims of plasmon‑assisted hot‑electron driven bond‑dissociation catalysis have emerged, yet these assertions have faced significant challenges.",
-      "title": "Recent developments in plasmon-assisted photocatalysis -- a personal perspective",
-      "t": 1782078992141,
-      "media_url": "https://live.staticflickr.com/4161/34570239521_baee9e3d0f_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NASA Goddard Photo and Video / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/24662369@N07/34570239521"
-    },
-    "arxiv_11r0pqm": {
-      "ai_summary": "Researchers obtained quantitative room‑temperature infrared spectra of 17 magnesium‑iron‑calcium ortho‑ and clinopyroxenes plus a calcium pyroxenoid to reveal compositional and structural trends. These data enhance the ability to recognize pyroxene varieties in meteorites and astronomical settings.",
-      "title": "Infrared Spectra of Pyroxenes (Crystalline Chain Silicates) at Room Temperature",
-      "t": 1782078994012,
-      "media_url": "https://live.staticflickr.com/65535/52210553347_5e41781b4d_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: James Webb Space Telescope / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/50785054@N03/52210553347"
-    },
-    "arxiv_1hhud39": {
-      "ai_summary": "Lattice compression raises the activation barrier for ion migration, which suppresses the light‑induced phase segregation of mixed‑halide perovskites. This stabilization preserves their bandgap tunability, benefiting applications in LEDs and tandem solar cells.",
-      "title": "Lattice compression increases the activation barrier for phase segregation in mixed-halide perovskites",
-      "t": 1782078994089,
-      "media_url": "https://live.staticflickr.com/6001/6012372862_c9cc27daca_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NWABR / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/64704683@N04/6012372862"
-    },
-    "arxiv_2yodd5": {
-      "ai_summary": "The paper presents the Visual Concept‑Metaconcept Learner (VCML), which jointly acquires low‑level visual concepts (e.g., red, green) and higher‑level metaconcepts (e.g., the shared property of color) from images paired with question‑answer data. By training on this combined signal, VCML enables models to reason about both specific attributes and their…",
-      "title": "Visual Concept-Metaconcept Learning",
-      "t": 1782078999056,
-      "media_url": "https://live.staticflickr.com/65535/50350974986_efbb70184a_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: suRANTo dwi saputra / CC0 1.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/125321218@N07/50350974986"
-    },
-    "arxiv_miouaq": {
-      "ai_summary": "The paper proposes unsupervised data augmentation as a way to enhance consistency training in semi‑supervised learning, leveraging large unlabeled datasets to make model predictions robust to input noise. By introducing a novel perspective on effective noise injection, the method aims to improve deep learning performance when labeled data is scarce.",
-      "title": "Unsupervised Data Augmentation for Consistency Training",
-      "t": 1782079000647,
-      "media_url": "https://live.staticflickr.com/3863/14804224326_f5ceae50a6_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: U.S. Geological Survey / CC0 1.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/27784370@N05/14804224326"
-    },
-    "arxiv_1tchhc5": {
-      "ai_summary": "The study uses a decade of social media data to test whether the emotional content of firm-specific messages posted just before earnings announcements predicts earnings and announcement returns. The author finds that investors are typically excited about…",
-      "title": "Investor Emotions and Earnings Announcements",
-      "t": 1782079001041,
-      "media_url": "https://live.staticflickr.com/6012/6016743712_8b9f30f928_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NWABR / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/64704683@N04/6016743712"
-    },
-    "arxiv_i2li7e": {
-      "ai_summary": "Researchers demonstrated three‑dimensional femtosecond laser nanolithography in hard optical crystals, a feat previously limited to surface processing due to stress‑induced cracking. By directly enhancing the crystal’s inner chemical etching reactivity at the nanoscale by more than five orders of magnitude, they enabled precise volume nanostructuring.",
-      "title": "Three-dimensional femtosecond laser nanolithography of crystals",
-      "t": 1782079005390,
-      "media_url": "https://live.staticflickr.com/65535/49644052578_cf2e2ae710_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: europeanspaceagency / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/37472264@N04/49644052578"
-    },
-    "arxiv_1jrxpwq": {
-      "ai_summary": "Researchers examined the compound interest model with constant per‑period payments and interest rate, analyzing the outstanding balance and periodic payment functions. They found that the outstanding balance function is not generally concave in the interest rate, often exhibiting initial convexity before becoming concave.",
-      "title": "Some Nontrivial Properties of a Formula for Compound Interest",
-      "t": 1782079007614,
-      "media_url": "https://live.staticflickr.com/6012/6015869389_6e036662a3_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NWABR / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/64704683@N04/6015869389"
-    },
-    "arxiv_1n38brj": {
-      "ai_summary": "The method extracts multivariate probability distributions from feature maps of trained deep neural networks to generate pseudo‑features for minority classes. By augmenting the minority‑class data with these pseudo‑features, cavity filling alleviates class imbalance and improves deep learning performance.",
-      "title": "Cavity Filling: Pseudo-Feature Generation for Multi-Class Imbalanced Data Problems in Deep Learning",
-      "t": 1782079013150,
-      "media_url": "https://live.staticflickr.com/65535/54268811357_907ff1dde0_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Jefferson Lab / PDM 1.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/53950384@N02/54268811357"
-    },
-    "arxiv_ned1r5": {
-      "ai_summary": "The paper investigates initialization and regularization techniques for factorized neural layers, which appear in compressed model training, knowledge distillation, and multi-head self‑attention. It introduces two simple approaches to enhance training stability and performance in deep networks containing these layers.",
-      "title": "Initialization and Regularization of Factorized Neural Layers",
-      "t": 1782079015108,
-      "media_url": "https://live.staticflickr.com/4823/45949491262_f442430d0d_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: University of Bristol / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/62469532@N07/45949491262"
-    },
-    "arxiv_ds5im9": {
-      "ai_summary": "Researchers have created nano-assembled microcapsules embedded with gold nanoparticles to serve as a novel drug‑delivery platform. This system is intended to enhance coronary stent performance by mitigating in‑stent restenosis and late thrombosis.",
-      "title": "Construction of Nano-Assembled Microcapsules Embedded with Gold Nanoparticles for use in Novel Drug Delivery Systems",
-      "t": 1782079018795,
-      "media_url": "https://live.staticflickr.com/3344/3312065998_ea35580c37.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: schoschie / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/87569910@N00/3312065998"
-    },
-    "arxiv_fxtqi7": {
-      "ai_summary": "The work extends RNN-based image captioning to video by explicitly modeling temporal dynamics to generate natural language descriptions. It discusses the need to integrate temporal information into the description process.",
-      "title": "Describing Videos by Exploiting Temporal Structure",
-      "t": 1782079019047,
-      "media_url": "https://live.staticflickr.com/7565/15910311991_3b9e95be68.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Alan Stanton / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/53921762@N00/15910311991"
-    },
-    "arxiv_18lupa3": {
-      "ai_summary": "The paper presents the first solid‑phase vacuum‑ultraviolet absorption cross‑sections measured for heavy isotopologues such as D₂O, CD₃OD, ¹³CO₂, and ¹⁵N¹⁵N in interstellar ice analogues. These measurements were obtained on pure ices deposited at 8 K, reproducing the coldest dust temperatures found in dense interstellar clouds and cold circumstellar…",
-      "title": "Vacuum-UV absorption spectroscopy of interstellar ice analogues. III. Isotopic effects",
-      "t": 1782079029178,
-      "media_url": "https://live.staticflickr.com/6001/6012372862_c9cc27daca_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NWABR / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/64704683@N04/6012372862"
-    },
-    "arxiv_1yposrd": {
-      "ai_summary": "Researchers synthesized a DNA‑templated tri‑functional nanochain of Nicore‑Aushell that exhibits electrical conductivity, optical activity, and magnetism. They propose that attaching this nanochain to biomolecules could enable applications in medical instruments and bio‑computer devices.",
-      "title": "Synthesis of DNA Templated Tri-functional Electrically Conducting, Optical and Magnetic nanochain of Nicore-Aushell for Bio-device",
-      "t": 1782079031507,
-      "media_url": "https://live.staticflickr.com/7217/7336892606_4310213cf9_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: U.S. Army Combat Capabilities Development Command / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/34402227@N03/7336892606"
-    },
-    "arxiv_csoso6": {
-      "title": "Cyclical Annealing Schedule: A Simple Approach to Mitigating KL Vanishing",
-      "t": 1782079071031,
-      "media_url": "https://live.staticflickr.com/6144/6012541096_8c140f2286_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NWABR / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/64704683@N04/6012541096"
-    },
-    "arxiv_1wf0gyg": {
-      "title": "Supernovae and the Chirality of the Amino Acids",
-      "t": 1782079071694,
-      "media_url": "https://live.staticflickr.com/3344/3312065998_ea35580c37.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: schoschie / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/87569910@N00/3312065998"
-    },
-    "9tz9wu": {
-      "ai_summary": "The article provides hints and the full solution for the New York Times Connections puzzle game #1107 released on Monday, June 22. It also includes the author's commentary on the puzzle's themes and difficulty.",
-      "title": "NYT Connections hints and answers for Monday, June 22 (game #1107)",
-      "t": 1782084090332,
-      "media_url": "https://live.staticflickr.com/5329/9512594023_cc23848025_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: origamiguy1971 / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/94246383@N00/9512594023"
-    },
-    "1dtm91h": {
-      "ai_summary": "The article offers hints and the full solution for NYT Strands puzzle #841 released on Monday, June 22, including the spangram. It equips players with everything needed to complete today's game.",
-      "title": "NYT Strands hints and answers for Monday, June 22 (game #841)",
-      "t": 1782084092221,
-      "media_url": "https://live.staticflickr.com/1591/24863264563_4120e8fce8_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Smart Chicago Collaborative / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/135719047@N04/24863264563"
-    },
-    "hb3c1o": {
-      "ai_summary": "Physicists from Heinrich Heine University Düsseldorf and the German Aerospace Center have shown that quantum mechanics can be formulated without invoking imaginary numbers, according to a study in Physical Review Letters. Their analysis demonstrates that the theory’s core predictions can be reproduced using only real-valued mathematical structures.",
-      "title": "Quantum mechanics theory may work without imaginary numbers, new analysis suggests",
-      "t": 1782084093325,
-      "media_url": "https://live.staticflickr.com/3160/2950673908_430413742f_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/2950673908"
-    },
-    "12q311t": {
-      "ai_summary": "A recent study indicates that seeking comfort from a cat after a stressful day may backfire, as cats often respond with hissing, swatting, or indifference. In contrast, dogs tend to greet their owners enthusiastically, offering more apparent emotional support.",
-      "title": "If you're feeling down, maybe don't pet your cat, new study suggests",
-      "t": 1782084096152,
-      "media_url": "https://live.staticflickr.com/3296/3139782002_ac452cebd0_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: tomislavmedak / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/11932978@N00/3139782002"
-    },
-    "zrgrsd": {
-      "ai_summary": "The author wonders if their previous job existed solely because of fraudulent activity. They are seeking clarification on whether the role was legitimate or sustained by deceit.",
-      "title": "Did my old job only exist because of fraud?",
-      "t": 1782084098366,
-      "media_url": "https://live.staticflickr.com/2663/4140950816_e131180c13.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950816"
-    },
-    "1qnplva": {
-      "ai_summary": "The article provides hints and the full solution for Quordle game #1610, released on Monday, June 22. It also offers access to previous Quordle answers for reference.",
-      "title": "Quordle hints and answers for Monday, June 22 (game #1610)",
-      "t": 1782084101015,
-      "media_url": "https://live.staticflickr.com/131/352461415_0ab94caa02.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Noah Sussman / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/26325011@N00/352461415"
-    },
-    "98pbci": {
-      "ai_summary": "Rent collections in New York have declined recently. Officials and analysts have not identified a clear reason for the drop.",
-      "title": "Rent collections are down in New York – and no one's sure why",
-      "t": 1782084104022,
-      "media_url": "https://live.staticflickr.com/2762/4140950690_e8e7fa21f4.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950690"
-    },
-    "1r64ula": {
-      "ai_summary": "El Niño returned in June 2026, marked by warmer‑than‑normal sea surface temperatures across the equatorial Pacific as observed by satellite. Measurements from the Sentinel‑6 Michael Freilich satellite showed rising sea‑surface height, indicating the event continued to strengthen.",
-      "title": "El Niño is underway, satellite observations show",
-      "t": 1782084111039,
-      "media_url": "https://live.staticflickr.com/5694/22160628262_7c42c3e9b7_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NASA Goddard Photo and Video / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/24662369@N07/22160628262"
     },
     "kjzt6x": {
       "ai_summary": "The site aggregates reviewer and Reddit input to rank the top 100 Dolby Atmos films. It positions the list as a guide for building a 4K Blu‑ray collection and demonstrating home‑theater audio capabilities.",
@@ -37036,6 +36741,233 @@
       "media_kind": "stock",
       "media_credit": "Photo: spiderwriterrose / BY-SA 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/78169780@N08/9019734821"
+    },
+    "xae4sv": {
+      "title": "Healthy but Sedentary People Show Early Decline in Cellular Energy Production",
+      "t": 1782951098624,
+      "image": "https://news.cuanschutz.edu/hubfs/2026-06_reduced%20mitochondrial%20efficiency%20(1).png",
+      "media_url": "https://live.staticflickr.com/2723/4140951044_cebe112a5b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140951044"
+    },
+    "1y7bkib": {
+      "title": "Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance",
+      "t": 1782951098624,
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2025-07-03_12.59.53_PM.width-1300.png",
+      "media_url": "https://live.staticflickr.com/2723/4140951044_cebe112a5b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140951044"
+    },
+    "13s0suj": {
+      "title": "Chip Off the Old Block",
+      "t": 1782951098624,
+      "image": "https://substackcdn.com/image/fetch/$s_!Zomw!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F23faa91b-8d6c-478f-85cc-2ecfac0aa5f5_713x480.png",
+      "media_url": "https://live.staticflickr.com/2649/4140191397_a0e3b5d99f.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140191397"
+    },
+    "91rof6": {
+      "title": "Nvidia RTX 5090 GPUs are so expensive that Intel's Arc Pro B70 is now a genuine bargain for AI — 128GB 4-card configuration costs less than $3800",
+      "t": 1782951098996,
+      "media_url": "https://live.staticflickr.com/8400/8669956137_dcb917a1b8_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Richard Masoner / Cyclelicious / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/99247795@N00/8669956137"
+    },
+    "zvp9vw": {
+      "title": "Anthropic's Claude Fable 5 Available Again After U.S. Lifts Export Controls",
+      "t": 1782951098998,
+      "media_url": "https://live.staticflickr.com/65535/54584510467_63314e5b0f_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: RyanDonegan / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/203061726@N08/54584510467"
+    },
+    "1431p8o": {
+      "title": "New star activity catalog could sharpen hunt for habitable worlds",
+      "t": 1782951099206,
+      "media_url": "https://live.staticflickr.com/65535/53179463277_92e768c302_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: James Webb Space Telescope / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/50785054@N03/53179463277"
+    },
+    "1ijwxd2": {
+      "title": "Earliest Americans specialized in megafauna hunting from Alaska to South America, analysis of 50 sites reveals",
+      "t": 1782951099251,
+      "media_url": "https://live.staticflickr.com/567/33296043631_ccc8c1b9c7_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: BLM Oregon & Washington / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/50169152@N06/33296043631"
+    },
+    "1xeterb": {
+      "title": "This AMD Ryzen AI Max+ 395 mini PC has 128GB RAM, metal feet, and even a vegan leather handle — because why not?",
+      "t": 1782951099423,
+      "media_url": "https://live.staticflickr.com/8120/8748686705_2d51778c2a.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: ImagePros / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/40645329@N06/8748686705"
+    },
+    "1qj06jp": {
+      "title": "9to5Mac Daily: July 1, 2026 – iOS 26.5.2 and Apple’s new update strategy",
+      "t": 1782951099434,
+      "media_url": "https://live.staticflickr.com/7226/7228043754_55199398fc_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Rockspindeln / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/53030568@N07/7228043754"
+    },
+    "1n8sign": {
+      "title": "Hidden for decades, hospital superbug built resistance in waves, peaking in the mid‑2000s",
+      "t": 1782951099578,
+      "media_url": "https://live.staticflickr.com/2333/1856663523_cffa76bfbc_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: kevin dooley / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/12836528@N00/1856663523"
+    },
+    "1teygua": {
+      "title": "NYT Connections hints and answers for Thursday, July 2 (game #1117)",
+      "t": 1782951099935,
+      "media_url": "https://live.staticflickr.com/5442/9512595735_91a6cacbd2_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: origamiguy1971 / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/94246383@N00/9512595735"
+    },
+    "1gp9sh7": {
+      "title": "Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year",
+      "t": 1782951099957,
+      "media_url": "https://live.staticflickr.com/5605/15828602192_06a711a841_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: kevin dooley / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/12836528@N00/15828602192"
+    },
+    "n3hnmi": {
+      "title": "Quordle hints and answers for Thursday, July 2 (game #1620)",
+      "t": 1782951100098,
+      "media_url": "https://live.staticflickr.com/6147/5921557529_0a1427652e_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Pink Poppy Photography / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/64620837@N05/5921557529"
+    },
+    "1psenih": {
+      "title": "NYT Strands hints and answers for Thursday, July 2 (game #851)",
+      "t": 1782951100110,
+      "media_url": "https://live.staticflickr.com/1591/24863264563_4120e8fce8_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Smart Chicago Collaborative / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/135719047@N04/24863264563"
+    },
+    "1vl4xnz": {
+      "title": "Apple is reportedly planning a visual refresh of the entry-level MacBook Pro next year",
+      "t": 1782951100237,
+      "media_url": "https://live.staticflickr.com/3471/5804021840_94e1136339.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Magnet 4 Marketing dot Net / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/41942445@N08/5804021840"
+    },
+    "1na9t76": {
+      "title": "Bending Spoons defies SaaS slump, surges 40% on first day of trading",
+      "t": 1782951100372,
+      "media_url": "https://live.staticflickr.com/6106/6293319822_b17360b169_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Robert Scoble / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/35034363287@N01/6293319822"
+    },
+    "nc6z8p": {
+      "title": "Over the past 15 years, Brazil has seen a more than 200% increase in non-native mollusk species",
+      "t": 1782951100384,
+      "media_url": "https://live.staticflickr.com/1946/45063297974_32145d4e85_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: USDAgov / PDM 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/41284017@N08/45063297974"
+    },
+    "1wpxr3f": {
+      "title": "The Underhanded C Contest",
+      "t": 1782951100440,
+      "media_url": "https://live.staticflickr.com/2762/4140950690_e8e7fa21f4.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950690"
+    },
+    "oa0ztr": {
+      "title": "After $18B IPO, Bending Spoons founder says success comes from minimizing luck",
+      "t": 1782951100573,
+      "media_url": "https://live.staticflickr.com/8065/8177403914_a9d593e7b0_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: daveynin / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/44124370018@N01/8177403914"
+    },
+    "s8jo06": {
+      "title": "WhatsApp usernames are already raising impersonation red flags",
+      "t": 1782951100586,
+      "media_url": "https://live.staticflickr.com/7262/8170123034_f5684034f9_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: NASA Goddard Photo and Video / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/24662369@N07/8170123034"
+    },
+    "bay4kj": {
+      "title": "iOS 27: All the New Apple Maps Features",
+      "t": 1782951100792,
+      "media_url": "https://live.staticflickr.com/65535/51738709057_e83b63ce15_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: deepskyobject / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/80806509@N04/51738709057"
+    },
+    "x_2072440109358600197": {
+      "title": "Before a robot can change the world, it needs software that builders can trust. NVIDIA robotics engineer Jaiveer Singh leads the team behind Isaac ROS, an open source platform helping developers…",
+      "t": 1782951100829,
+      "media_url": "https://live.staticflickr.com/7188/27383779025_856919dd27_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: AntMan3001 / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/92461652@N07/27383779025"
+    },
+    "1koubx0": {
+      "title": "The GNU Emacs Architecture: Unlocking the Core [pdf]",
+      "t": 1782951100914,
+      "media_url": "https://live.staticflickr.com/1061/686562697_5d86ba6d67.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Wesley Clouden / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/40622964@N00/686562697"
+    },
+    "unezxh": {
+      "title": "Have scientists really made a living cell from scratch? Not quite",
+      "t": 1782951101032,
+      "media_url": "https://live.staticflickr.com/3746/11876783944_8c345bdddb_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Artotem / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/27698646@N04/11876783944"
+    },
+    "x_2072305047216521247": {
+      "title": "America is a nation of builders. For 250 years, America has built railroads, power grids, factories, semiconductors, and the internet. Now, America is building again.",
+      "t": 1782951101215,
+      "media_url": "https://live.staticflickr.com/5604/15644542950_02b7bd1ce9_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Bold Frontiers / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/82955120@N05/15644542950"
+    },
+    "reddit_1uki33h": {
+      "title": "Conservatives maintain birth rates, but left-leaning Americans are having significantly fewer children, driving the U.S. birth decline. Education was consistently linked to having fewer children. Religious attendance was positively associated with having more children.",
+      "t": 1782951101322,
+      "media_url": "https://live.staticflickr.com/5043/5282805183_b997f56d90.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Eva Blue / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/74669477@N00/5282805183"
+    },
+    "reddit_1ujlsb6": {
+      "title": "Scientists have shown that a single dose injection of DNA genetic instructions can produce weight loss and blood glucose control in mouse models that lasts up to 10 times as long as weight loss drugs like Ozempic and Wegovy. This could eliminate the need for repeated dosing.",
+      "t": 1782951101322,
+      "media_url": "https://live.staticflickr.com/8210/8200995434_58eef9a6a4_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: James Webb Space Telescope / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/50785054@N03/8200995434"
+    },
+    "reddit_1uioxbt": {
+      "title": "Fatal rabies in a child: 11-year old boy was woken up by a bat on his nose and mouth in Ontario. He swatted the bat off his face and had no visible lesions so family did not seek medical help. 19 days later he developed rabies symptoms. He was given supportive care and died 17 days after admission.",
+      "t": 1782951101358,
+      "media_url": "https://live.staticflickr.com/5010/5336842036_e1ebb7d410_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: nan palmero / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/97402086@N00/5336842036"
     }
   }
 }

@@ -1,15 +1,94 @@
 {
-  "generated_at": "2026-07-01T22:50:27.581Z",
+  "generated_at": "2026-07-02T00:13:49.141Z",
   "handles": [
     "AnthropicAI",
-    "elonmusk",
     "OpenAI",
-    "GoogleDeepMind",
     "nvidia",
+    "GoogleDeepMind",
+    "elonmusk",
     "gdb"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2072440109358600197",
+      "title": "Before a robot can change the world, it needs software that builders can trust. NVIDIA robotics engineer Jaiveer Singh leads the team behind Isaac ROS, an open source platform helping developers…",
+      "link": "https://x.com/nvidia/status/2072440109358600197",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-07-01T22:00:00.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "Before a robot can change the world, it needs software that builders can trust. NVIDIA robotics engineer Jaiveer Singh leads the team behind Isaac ROS, an open source platform helping developers build autonomous mobile robots, manipulation systems and humanoids with modular,",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 82,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "tech substance (open source, robotics, platform)"
+      ],
+      "metrics": {
+        "likes": 107,
+        "retweets": 9,
+        "replies": 15,
+        "likes_h": "107"
+      },
+      "engagement": 140,
+      "hot": false
+    },
+    {
+      "id": "x_2072305047216521247",
+      "title": "America is a nation of builders. For 250 years, America has built railroads, power grids, factories, semiconductors, and the internet. Now, America is building again.",
+      "link": "https://x.com/nvidia/status/2072305047216521247",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-07-01T13:03:19.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Commentary"
+      ],
+      "summary": "America is a nation of builders. For 250 years, America has built railroads, power grids, factories, semiconductors, and the internet. Now, America is building again.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 58,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy"
+      ],
+      "metrics": {
+        "likes": 305,
+        "retweets": 53,
+        "replies": 24,
+        "likes_h": "305"
+      },
+      "engagement": 435,
+      "hot": false
+    },
     {
       "id": "x_2072163884430229756",
       "title": "Claude Fable 5 will be available again globally tomorrow. After a series of productive conversations with the US government, we're redeploying the model with a new set of classifiers to target and…",
@@ -40,15 +119,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (model, claude)",
-        "high engagement (26.5K likes)"
+        "high engagement (42K likes)"
       ],
       "metrics": {
-        "likes": 26510,
-        "retweets": 4283,
-        "replies": 2048,
-        "likes_h": "26.5K"
+        "likes": 42047,
+        "retweets": 6411,
+        "replies": 3430,
+        "likes_h": "42K"
       },
-      "engagement": 37124,
+      "engagement": 58299,
       "hot": true
     },
     {
@@ -81,15 +160,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (claude, update)",
-        "high engagement (75.1K likes)"
+        "high engagement (83.7K likes)"
       ],
       "metrics": {
-        "likes": 75113,
-        "retweets": 11953,
-        "replies": 3597,
-        "likes_h": "75.1K"
+        "likes": 83666,
+        "retweets": 12977,
+        "replies": 4056,
+        "likes_h": "83.7K"
       },
-      "engagement": 102616,
+      "engagement": 113676,
       "hot": true
     },
     {
@@ -123,15 +202,15 @@
         "report-worthy",
         "casual tone (this)",
         "business signal (deal)",
-        "high engagement (17.9K likes)"
+        "high engagement (24.2K likes)"
       ],
       "metrics": {
-        "likes": 17949,
-        "retweets": 3341,
-        "replies": 2781,
-        "likes_h": "17.9K"
+        "likes": 24177,
+        "retweets": 4794,
+        "replies": 3686,
+        "likes_h": "24.2K"
       },
-      "engagement": 27412,
+      "engagement": 37451,
       "hot": true
     },
     {
@@ -166,15 +245,15 @@
         "announcement language (introducing)",
         "tech substance (agents, benchmark, research)",
         "links to a source",
-        "high engagement (3.8K likes)"
+        "high engagement (4.2K likes)"
       ],
       "metrics": {
-        "likes": 3797,
-        "retweets": 324,
-        "replies": 242,
-        "likes_h": "3.8K"
+        "likes": 4231,
+        "retweets": 374,
+        "replies": 280,
+        "likes_h": "4.2K"
       },
-      "engagement": 4687,
+      "engagement": 5259,
       "hot": false
     },
     {
@@ -211,12 +290,12 @@
         "business signal (enterprise)"
       ],
       "metrics": {
-        "likes": 228,
-        "retweets": 28,
+        "likes": 249,
+        "retweets": 29,
         "replies": 4,
-        "likes_h": "228"
+        "likes_h": "249"
       },
-      "engagement": 288,
+      "engagement": 311,
       "hot": false
     },
     {
@@ -250,15 +329,15 @@
         "report-worthy",
         "announcement language (now available, shipping)",
         "tech substance (model, gemini, api)",
-        "high engagement (917 likes)"
+        "high engagement (1K likes)"
       ],
       "metrics": {
-        "likes": 917,
-        "retweets": 147,
-        "replies": 63,
-        "likes_h": "917"
+        "likes": 1022,
+        "retweets": 167,
+        "replies": 76,
+        "likes_h": "1K"
       },
-      "engagement": 1274,
+      "engagement": 1432,
       "hot": false
     },
     {
@@ -285,7 +364,7 @@
       "summary": "NVIDIA inference software keeps driving down token costs, long after AI infrastructure is deployed. ⚡ In just one month on NVIDIA Blackwell, software optimizations improved DeepSeek V4 performance by up to 5×, reducing token costs to roughly one-fifth of previous levels.",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 81,
+      "worthiness_score": 82,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -293,12 +372,12 @@
         "tech substance (inference, blackwell)"
       ],
       "metrics": {
-        "likes": 530,
-        "retweets": 76,
-        "replies": 47,
-        "likes_h": "530"
+        "likes": 610,
+        "retweets": 90,
+        "replies": 55,
+        "likes_h": "610"
       },
-      "engagement": 729,
+      "engagement": 845,
       "hot": false
     },
     {
@@ -331,15 +410,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (models, nemotron)",
-        "high engagement (1.3K likes)"
+        "high engagement (1.4K likes)"
       ],
       "metrics": {
-        "likes": 1318,
-        "retweets": 226,
+        "likes": 1351,
+        "retweets": 233,
         "replies": 63,
-        "likes_h": "1.3K"
+        "likes_h": "1.4K"
       },
-      "engagement": 1833,
+      "engagement": 1880,
       "hot": false
     },
     {
@@ -374,12 +453,12 @@
         "tech substance (models, research)"
       ],
       "metrics": {
-        "likes": 234,
+        "likes": 238,
         "retweets": 45,
         "replies": 30,
-        "likes_h": "234"
+        "likes_h": "238"
       },
-      "engagement": 354,
+      "engagement": 358,
       "hot": false
     },
     {
@@ -458,12 +537,12 @@
         "high engagement (1.4K likes)"
       ],
       "metrics": {
-        "likes": 1366,
-        "retweets": 167,
-        "replies": 86,
+        "likes": 1393,
+        "retweets": 168,
+        "replies": 89,
         "likes_h": "1.4K"
       },
-      "engagement": 1786,
+      "engagement": 1818,
       "hot": false
     },
     {
@@ -581,12 +660,12 @@
         "high engagement (30.6K likes)"
       ],
       "metrics": {
-        "likes": 30591,
+        "likes": 30627,
         "retweets": 3201,
-        "replies": 2405,
+        "replies": 2406,
         "likes_h": "30.6K"
       },
-      "engagement": 39398,
+      "engagement": 39435,
       "hot": true
     },
     {
@@ -704,12 +783,12 @@
         "high engagement (3.3K likes)"
       ],
       "metrics": {
-        "likes": 3288,
-        "retweets": 202,
-        "replies": 85,
+        "likes": 3297,
+        "retweets": 204,
+        "replies": 89,
         "likes_h": "3.3K"
       },
-      "engagement": 3777,
+      "engagement": 3794,
       "hot": false
     },
     {
@@ -746,12 +825,12 @@
         "high engagement (3.9K likes)"
       ],
       "metrics": {
-        "likes": 3930,
-        "retweets": 234,
+        "likes": 3932,
+        "retweets": 235,
         "replies": 107,
         "likes_h": "3.9K"
       },
-      "engagement": 4505,
+      "engagement": 4509,
       "hot": false
     },
     {
@@ -789,12 +868,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 5178,
+        "likes": 5181,
         "retweets": 376,
         "replies": 229,
         "likes_h": "5.2K"
       },
-      "engagement": 6159,
+      "engagement": 6162,
       "hot": false
     },
     {
@@ -829,15 +908,15 @@
         "announcement language (introducing)",
         "tech substance (model, gpt)",
         "links to a source",
-        "high engagement (39.7K likes)"
+        "high engagement (39.8K likes)"
       ],
       "metrics": {
-        "likes": 39727,
-        "retweets": 5681,
-        "replies": 3459,
-        "likes_h": "39.7K"
+        "likes": 39827,
+        "retweets": 5691,
+        "replies": 3472,
+        "likes_h": "39.8K"
       },
-      "engagement": 54548,
+      "engagement": 54681,
       "hot": true
     },
     {
@@ -875,12 +954,12 @@
         "high engagement (6.3K likes)"
       ],
       "metrics": {
-        "likes": 6283,
-        "retweets": 372,
-        "replies": 344,
+        "likes": 6288,
+        "retweets": 371,
+        "replies": 345,
         "likes_h": "6.3K"
       },
-      "engagement": 7371,
+      "engagement": 7375,
       "hot": false
     },
     {
@@ -914,15 +993,15 @@
         "report-worthy",
         "tech substance (claude, research)",
         "links to a source",
-        "high engagement (2.7K likes)"
+        "high engagement (2.8K likes)"
       ],
       "metrics": {
-        "likes": 2747,
-        "retweets": 366,
-        "replies": 419,
-        "likes_h": "2.7K"
+        "likes": 2760,
+        "retweets": 368,
+        "replies": 421,
+        "likes_h": "2.8K"
       },
-      "engagement": 3898,
+      "engagement": 3917,
       "hot": false
     },
     {
@@ -1119,12 +1198,12 @@
         "high engagement (3.2K likes)"
       ],
       "metrics": {
-        "likes": 3215,
-        "retweets": 217,
-        "replies": 251,
+        "likes": 3217,
+        "retweets": 218,
+        "replies": 252,
         "likes_h": "3.2K"
       },
-      "engagement": 3900,
+      "engagement": 3905,
       "hot": false
     },
     {
@@ -1162,12 +1241,12 @@
         "high engagement (1K likes)"
       ],
       "metrics": {
-        "likes": 1013,
-        "retweets": 124,
-        "replies": 77,
+        "likes": 1016,
+        "retweets": 125,
+        "replies": 78,
         "likes_h": "1K"
       },
-      "engagement": 1338,
+      "engagement": 1344,
       "hot": false
     },
     {
@@ -1248,86 +1327,6 @@
         "likes_h": "408"
       },
       "engagement": 557,
-      "hot": false
-    },
-    {
-      "id": "x_2069843083701915755",
-      "title": "We have a new version of GPT-5.5 Instant for you, and it's much more fun to talk to. Our most-used model is now better at understanding the intent behind a question and adapting its response…",
-      "link": "https://x.com/OpenAI/status/2069843083701915755",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-06-24T18:00:21.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Product"
-      ],
-      "summary": "We have a new version of GPT-5.5 Instant for you, and it's much more fun to talk to. Our most-used model is now better at understanding the intent behind a question and adapting its response accordingly. It also handles complex constraints more reliably and makes shopping and",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 84,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "tech substance (model, gpt, version)",
-        "high engagement (8.1K likes)"
-      ],
-      "metrics": {
-        "likes": 8061,
-        "retweets": 593,
-        "replies": 758,
-        "likes_h": "8.1K"
-      },
-      "engagement": 10005,
-      "hot": true
-    },
-    {
-      "id": "x_2069842996082708907",
-      "title": "Real grocery stores are hard on AI: changing shelves, spotty Wi-Fi and shoppers on the move. On the NVIDIA AI Podcast, @instacart 's David McIntosh shares how Caper Carts use NVIDIA Jetson and edge…",
-      "link": "https://x.com/nvidia/status/2069842996082708907",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-24T18:00:00.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Commentary"
-      ],
-      "summary": "Real grocery stores are hard on AI: changing shelves, spotty Wi-Fi and shoppers on the move. On the NVIDIA AI Podcast, @instacart 's David McIntosh shares how Caper Carts use NVIDIA Jetson and edge AI to recognize items in store.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 57,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy"
-      ],
-      "metrics": {
-        "likes": 204,
-        "retweets": 23,
-        "replies": 19,
-        "likes_h": "204"
-      },
-      "engagement": 269,
       "hot": false
     }
   ]
