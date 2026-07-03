@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-03T00:14:04.097Z",
+  "generated_at": "2026-07-03T04:30:51.322Z",
   "subs": [
     "MachineLearning",
-    "artificial",
-    "running",
+    "singularity",
+    "SkincareAddiction",
     "investing",
     "science",
     "hardware",
@@ -11,27 +11,66 @@
     "gadgets",
     "robotics",
     "Fitness",
-    "singularity",
+    "artificial",
     "longevity",
     "nutrition",
     "netsec",
     "bodyweightfitness",
     "startups",
-    "SkincareAddiction",
+    "running",
     "LocalLLaMA"
   ],
   "count": 36,
   "by_category": {
+    "Skincare": 4,
     "Startups & Funding": 3,
-    "Science": 8,
+    "AI / ML": 10,
+    "Science": 5,
     "Hardware & Gadgets": 4,
-    "AI / ML": 9,
     "Robotics": 3,
-    "Fitness": 6,
-    "Security": 2,
-    "Skincare": 1
+    "Fitness": 5,
+    "Security": 2
   },
   "articles": [
+    {
+      "id": "reddit_1ulp0wz",
+      "title": "[Trigger Warning] Will I need filler for the rest of my life because of one mistake?",
+      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1ulp0wz/trigger_warning_will_i_need_filler_for_the_rest/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/SkincareAddiction · community knowledge",
+      "content_type": "post",
+      "author": "u/SpareShopping3324 · r/SkincareAddiction",
+      "handle": "SkincareAddiction",
+      "org": "r/SkincareAddiction",
+      "platform": "reddit",
+      "published": "2026-07-02T17:39:55.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Skincare",
+      "category": "Skincare",
+      "genre": "Skincare",
+      "categories": [
+        "Reddit",
+        "Skincare",
+        "r/SkincareAddiction"
+      ],
+      "summary": "I don’t even know where to start. A while ago, I had a fibrous papule removed. I never imagined it would turn into this. Now I have what looks like a depressed scar with a raised “donut-shaped” edge right in the middle of my face. It feels like the collagen in that area is just… gone. It’s all I see when I look in the…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/SkincareAddiction this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1ulnzls",
       "title": "A Third of SpaceX’s Tradable Shares Are Now Betting Against It. The Squeeze Math Is Wild",
@@ -65,6 +104,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/investing this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1ulizqk",
+      "title": "Anthropic guardrails does it again",
+      "link": "https://www.reddit.com/r/singularity/comments/1ulizqk/anthropic_guardrails_does_it_again/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/singularity · community knowledge",
+      "content_type": "post",
+      "author": "u/Effective_Scheme2158 · r/singularity",
+      "handle": "singularity",
+      "org": "r/singularity",
+      "platform": "reddit",
+      "published": "2026-07-02T13:55:47.000Z",
+      "image": "https://preview.redd.it/0tea79l1otah1.jpeg?width=640&crop=smart&auto=webp&s=593853d045b47f30f44f07fc4a79293c0c7bdfdd",
+      "thumbnail": "https://preview.redd.it/0tea79l1otah1.jpeg?width=640&crop=smart&auto=webp&s=593853d045b47f30f44f07fc4a79293c0c7bdfdd",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/singularity"
+      ],
+      "summary": "Anthropic guardrails does it again",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/singularity this week"
       ],
       "metrics": {
         "likes": 0,
@@ -426,6 +505,45 @@
       }
     },
     {
+      "id": "reddit_1ukf3i8",
+      "title": "[Shelfie] I got on tretinoin, and thank god, it was one of the best decisions I did ever since!",
+      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1ukf3i8/shelfie_i_got_on_tretinoin_and_thank_god_it_was/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/SkincareAddiction · community knowledge",
+      "content_type": "post",
+      "author": "u/Ornery-Finger-1871 · r/SkincareAddiction",
+      "handle": "SkincareAddiction",
+      "org": "r/SkincareAddiction",
+      "platform": "reddit",
+      "published": "2026-07-01T07:44:49.000Z",
+      "image": "https://preview.redd.it/6mbe1e7cokah1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=56a703f585aa56179e9d73ff5b91561c74e23fc8",
+      "thumbnail": "https://preview.redd.it/6mbe1e7cokah1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=56a703f585aa56179e9d73ff5b91561c74e23fc8",
+      "section": "Skincare",
+      "category": "Skincare",
+      "genre": "Skincare",
+      "categories": [
+        "Reddit",
+        "Skincare",
+        "r/SkincareAddiction"
+      ],
+      "summary": "I&#39;ve been on tretinoin for quite a time right now, probably about 2 years. It blessed me with smooth, glowy and just overall healthier skin look! :DD I still do get the occasional acne whenever I have dairy (which now I avoid entirely). Skin Type: Oily Skin Concern: Acne/Texture. ROUTINE: AM: Panoxyl BP 10% Wash…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/SkincareAddiction this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1ukarsf",
       "title": "6DOF robot arm fully 3d printed, built when I was 16",
       "link": "https://www.reddit.com/r/robotics/comments/1ukarsf/6dof_robot_arm_fully_3d_printed_built_when_i_was/",
@@ -656,6 +774,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/netsec this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1ujxiaa",
+      "title": "[Sun Care] I’m sorry what???",
+      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1ujxiaa/sun_care_im_sorry_what/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/SkincareAddiction · community knowledge",
+      "content_type": "post",
+      "author": "u/Big_Big_3920 · r/SkincareAddiction",
+      "handle": "SkincareAddiction",
+      "org": "r/SkincareAddiction",
+      "platform": "reddit",
+      "published": "2026-06-30T18:34:48.000Z",
+      "image": "https://preview.redd.it/17m2p600sgah1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=3aa7a8cd20d565ae9ab190916fc162dbe729f44b",
+      "thumbnail": "https://preview.redd.it/17m2p600sgah1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=3aa7a8cd20d565ae9ab190916fc162dbe729f44b",
+      "section": "Skincare",
+      "category": "Skincare",
+      "genre": "Skincare",
+      "categories": [
+        "Reddit",
+        "Skincare",
+        "r/SkincareAddiction"
+      ],
+      "summary": "The white cast on this stuff is nuts… it looks slightly better on camera but in person its uncanny valley and I look insane. Genuinely wondering why anyone would choose to wear this? &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/SkincareAddiction this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1287,163 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uiq1vh",
-      "title": "Spacing out supplements and vitamins",
-      "link": "https://www.reddit.com/r/nutrition/comments/1uiq1vh/spacing_out_supplements_and_vitamins/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/nutrition · community knowledge",
-      "content_type": "post",
-      "author": "u/CharmingBananaJosh · r/nutrition",
-      "handle": "nutrition",
-      "org": "r/nutrition",
-      "platform": "reddit",
-      "published": "2026-06-29T11:39:13.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Nutrition",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "Nutrition",
-        "r/nutrition"
-      ],
-      "summary": "Are there health benefits to spacing out when you take your supplements and vitamins or is it all the same to take just at once say in the morning? &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/nutrition this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uipr0z",
-      "title": "The ‘papers, please’ era of the internet will decimate your privacy. Americans, be warned: Age verification is identity verification.",
-      "link": "https://www.reddit.com/r/Futurology/comments/1uipr0z/the_papers_please_era_of_the_internet_will/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/Futurology · community knowledge",
-      "content_type": "post",
-      "author": "u/Future-sight-5829 · r/Futurology",
-      "handle": "Futurology",
-      "org": "r/Futurology",
-      "platform": "reddit",
-      "published": "2026-06-29T11:24:23.000Z",
-      "image": "https://external-preview.redd.it/Adi7O8L2HaY3IzhN3edkyXcHezizDY5vagzLA08dyTU.jpeg?width=640&crop=smart&auto=webp&s=7cf4f2c6c7e05f86e916cf9d6c30311dbbe95fd9",
-      "thumbnail": "https://external-preview.redd.it/Adi7O8L2HaY3IzhN3edkyXcHezizDY5vagzLA08dyTU.jpeg?width=640&crop=smart&auto=webp&s=7cf4f2c6c7e05f86e916cf9d6c30311dbbe95fd9",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/Futurology"
-      ],
-      "summary": "The ‘papers, please’ era of the internet will decimate your privacy. Americans, be warned: Age verification is identity verification.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/Futurology this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uioxbt",
-      "title": "Fatal rabies in a child: 11-year old boy was woken up by a bat on his nose and mouth in Ontario. He swatted the bat off his face and had no visible lesions so family did not seek medical help. 19 days later he developed rabies symptoms. He was given supportive care and died 17 days after admission.",
-      "link": "https://www.reddit.com/r/science/comments/1uioxbt/fatal_rabies_in_a_child_11year_old_boy_was_woken/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/science · community knowledge",
-      "content_type": "post",
-      "author": "u/mvea · r/science",
-      "handle": "science",
-      "org": "r/science",
-      "platform": "reddit",
-      "published": "2026-06-29T10:41:18.000Z",
-      "image": "https://external-preview.redd.it/ZaH_rruSwOzu1ploZOu7ip5CuvUkntv_1YwloIZ0vfY.gif?width=108&crop=smart&s=a62cf4c2b09c62274a7281e29ef65dc5e9c126de",
-      "thumbnail": "https://external-preview.redd.it/ZaH_rruSwOzu1ploZOu7ip5CuvUkntv_1YwloIZ0vfY.gif?width=108&crop=smart&s=a62cf4c2b09c62274a7281e29ef65dc5e9c126de",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/science"
-      ],
-      "summary": "Fatal rabies in a child: 11-year old boy was woken up by a bat on his nose and mouth in Ontario. He swatted the bat off his face and had no visible lesions so family did not seek medical help. 19 days later he developed rabies symptoms. He was given supportive care and died 17 days after admission.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/science this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uijr3y",
-      "title": "‘Cost Me the Election’: Data Centers Trigger Voter Backlash",
-      "link": "https://www.reddit.com/r/Futurology/comments/1uijr3y/cost_me_the_election_data_centers_trigger_voter/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/Futurology · community knowledge",
-      "content_type": "post",
-      "author": "u/EchoOfOppenheimer · r/Futurology",
-      "handle": "Futurology",
-      "org": "r/Futurology",
-      "platform": "reddit",
-      "published": "2026-06-29T05:45:11.000Z",
-      "image": "https://external-preview.redd.it/_gTr5d8xKyHZII66bdxyc0uRMg6Ol8Cb_3tiwOSNZo8.jpeg?width=640&crop=smart&auto=webp&s=78c58554a52af82cd5917e728f75744bbfa524f1",
-      "thumbnail": "https://external-preview.redd.it/_gTr5d8xKyHZII66bdxyc0uRMg6Ol8Cb_3tiwOSNZo8.jpeg?width=640&crop=smart&auto=webp&s=78c58554a52af82cd5917e728f75744bbfa524f1",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/Futurology"
-      ],
-      "summary": "‘Cost Me the Election’: Data Centers Trigger Voter Backlash",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/Futurology this week"
       ],
       "metrics": {
         "likes": 0,
