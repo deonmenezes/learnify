@@ -1,13 +1,16 @@
 {
-  "generated_at": "2026-07-03T18:19:29.974Z",
+  "generated_at": "2026-07-03T20:02:09.609Z",
   "subs": [
     "MachineLearning",
-    "longevity",
+    "LocalLLaMA",
+    "running",
+    "startups",
     "gadgets",
     "SkincareAddiction",
     "investing",
     "singularity",
     "science",
+    "longevity",
     "hardware",
     "Futurology",
     "robotics",
@@ -15,23 +18,60 @@
     "artificial",
     "nutrition",
     "netsec",
-    "bodyweightfitness",
-    "startups",
-    "running",
-    "LocalLLaMA"
+    "bodyweightfitness"
   ],
   "count": 36,
   "by_category": {
+    "Startups & Funding": 6,
     "Hardware & Gadgets": 5,
     "Skincare": 4,
-    "Startups & Funding": 3,
-    "AI / ML": 9,
+    "AI / ML": 7,
     "Science": 6,
     "Robotics": 3,
     "Fitness": 4,
-    "Security": 2
+    "Security": 1
   },
   "articles": [
+    {
+      "id": "reddit_1umb0w3",
+      "title": "Is VC just a rich people's game with better branding? I Will Not Promote",
+      "link": "https://www.reddit.com/r/startups/comments/1umb0w3/is_vc_just_a_rich_peoples_game_with_better/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/startups · community knowledge",
+      "content_type": "post",
+      "author": "u/Superb_Possibility35 · r/startups",
+      "handle": "startups",
+      "org": "r/startups",
+      "platform": "reddit",
+      "published": "2026-07-03T10:43:16.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/startups"
+      ],
+      "summary": "The more news I read online about famous startups getting funded by famous companies, the more I&#39;m struck by a chicken-or-egg question: when a famous VC backs a company, and it takes off, was it really a good deal, so the VC funded it and helped it get to the next level? Or is it because of the top-tier VC that…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/startups this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1umasiw",
       "title": "Sony’s PlayStation disc factory is already being repurposed",
@@ -380,6 +420,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/hardware this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uklieq",
+      "title": "€2M in bank account, investors want pivot. What and how? I will not promote",
+      "link": "https://www.reddit.com/r/startups/comments/1uklieq/2m_in_bank_account_investors_want_pivot_what_and/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/startups · community knowledge",
+      "content_type": "post",
+      "author": "u/Vast-Pipe1849 · r/startups",
+      "handle": "startups",
+      "org": "r/startups",
+      "platform": "reddit",
+      "published": "2026-07-01T13:19:27.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/startups"
+      ],
+      "summary": "For context we are an AI B2B software that was/is in the space of data analytics and BI. The idea was to allow people ask questions, AI writes code and you get a dashboard, analysis,... in seconds. Did not really work out, growth was stagnant for 1y. Now investors had enough (fair) and want us to heavily pivot. They…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/startups this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1215,6 +1295,46 @@
       }
     },
     {
+      "id": "reddit_1ujdz4b",
+      "title": "startup failed, looking for job (i will not promote)",
+      "link": "https://www.reddit.com/r/startups/comments/1ujdz4b/startup_failed_looking_for_job_i_will_not_promote/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/startups · community knowledge",
+      "content_type": "post",
+      "author": "u/unstoppablefutureme · r/startups",
+      "handle": "startups",
+      "org": "r/startups",
+      "platform": "reddit",
+      "published": "2026-06-30T03:34:49.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/startups"
+      ],
+      "summary": "Title. We pivoted a few times but ran out of money to pivot for the last time. To be completely honest, I lost passion for the niche as well. As I was continuing to keep it going while running out, it became clear that the problem was not that important for people. The pain point just wasn&#39;t that strong. How do…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/startups this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1ujbyrq",
       "title": "[Anti Aging] Please help my wrinkles I’m only 25",
       "link": "https://www.reddit.com/r/SkincareAddiction/comments/1ujbyrq/anti_aging_please_help_my_wrinkles_im_only_25/",
@@ -1325,125 +1445,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/artificial this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uj2yym",
-      "title": "on Dario’s statement",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1uj2yym/on_darios_statement/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/LocalLLaMA · community knowledge",
-      "content_type": "post",
-      "author": "u/turtle-toaster · r/LocalLLaMA",
-      "handle": "LocalLLaMA",
-      "org": "r/LocalLLaMA",
-      "platform": "reddit",
-      "published": "2026-06-29T19:52:04.000Z",
-      "image": "https://preview.redd.it/8oy1xmcu0aah1.jpeg?width=640&crop=smart&auto=webp&s=276b24e3aab586eb28b118521d86dcd10a1f2f35",
-      "thumbnail": "https://preview.redd.it/8oy1xmcu0aah1.jpeg?width=640&crop=smart&auto=webp&s=276b24e3aab586eb28b118521d86dcd10a1f2f35",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/LocalLLaMA"
-      ],
-      "summary": "on Dario’s statement",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/LocalLLaMA this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uj2a4w",
-      "title": "Enterprise Tech In, Shell Out (Progress Kemp LoadMaster Uninitialized Heap to Pre-Auth RCE CVE-2026-8037) - watchTowr Labs",
-      "link": "https://www.reddit.com/r/netsec/comments/1uj2a4w/enterprise_tech_in_shell_out_progress_kemp/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/netsec · community knowledge",
-      "content_type": "post",
-      "author": "u/dx7r__ · r/netsec",
-      "handle": "netsec",
-      "org": "r/netsec",
-      "platform": "reddit",
-      "published": "2026-06-29T19:27:02.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/netsec"
-      ],
-      "summary": "Enterprise Tech In, Shell Out (Progress Kemp LoadMaster Uninitialized Heap to Pre-Auth RCE CVE-2026-8037) - watchTowr Labs",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/netsec this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uiv8e4",
-      "title": "Effect of GLM 5.2 !!",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1uiv8e4/effect_of_glm_52/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/LocalLLaMA · community knowledge",
-      "content_type": "post",
-      "author": "u/Independent-Wind4462 · r/LocalLLaMA",
-      "handle": "LocalLLaMA",
-      "org": "r/LocalLLaMA",
-      "platform": "reddit",
-      "published": "2026-06-29T15:11:49.000Z",
-      "image": "https://preview.redd.it/i9o1vycvm8ah1.jpeg?width=640&crop=smart&auto=webp&s=4d03652e7169ca0225518bd13fd256d20e8a3447",
-      "thumbnail": "https://preview.redd.it/i9o1vycvm8ah1.jpeg?width=640&crop=smart&auto=webp&s=4d03652e7169ca0225518bd13fd256d20e8a3447",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/LocalLLaMA"
-      ],
-      "summary": "Effect of GLM 5.2 !!",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/LocalLLaMA this week"
       ],
       "metrics": {
         "likes": 0,
