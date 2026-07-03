@@ -1,34 +1,35 @@
 {
-  "generated_at": "2026-07-03T21:21:31.839Z",
+  "generated_at": "2026-07-03T22:38:46.959Z",
   "subs": [
     "MachineLearning",
-    "Futurology",
-    "gadgets",
+    "programming",
+    "cybersecurity",
     "startups",
+    "gadgets",
     "SkincareAddiction",
     "investing",
     "singularity",
     "science",
     "longevity",
     "hardware",
+    "Futurology",
     "robotics",
     "Fitness",
     "artificial",
     "nutrition",
-    "netsec",
-    "bodyweightfitness",
-    "running"
+    "netsec"
   ],
   "count": 36,
   "by_category": {
-    "Startups & Funding": 6,
+    "Startups & Funding": 4,
     "Hardware & Gadgets": 5,
-    "Skincare": 4,
-    "AI / ML": 7,
-    "Science": 6,
+    "Coding & Dev Tools": 3,
+    "Security": 5,
+    "Skincare": 3,
+    "AI / ML": 6,
+    "Science": 5,
     "Robotics": 3,
-    "Fitness": 4,
-    "Security": 1
+    "Fitness": 2
   },
   "articles": [
     {
@@ -103,6 +104,84 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/gadgets this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1um497y",
+      "title": "Linux has officially won",
+      "link": "https://www.reddit.com/r/programming/comments/1um497y/linux_has_officially_won/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/programming · community knowledge",
+      "content_type": "post",
+      "author": "u/BankApprehensive7612 · r/programming",
+      "handle": "programming",
+      "org": "r/programming",
+      "platform": "reddit",
+      "published": "2026-07-03T04:23:58.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Coding & Dev Tools",
+      "category": "Coding & Dev Tools",
+      "genre": "Coding & Dev Tools",
+      "categories": [
+        "Reddit",
+        "Coding & Dev Tools",
+        "r/programming"
+      ],
+      "summary": "Actually it happened in June of 2025, but the process has completed recently, though. After Apple had announced the support of OCI-compatible containers in the June &#39;25 it took a year to complete development and implement full support of continers. Apple had published 1.0 version of own container manager (…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/programming this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1ulr47k",
+      "title": "Burnham set to ditch Palantir from NHS",
+      "link": "https://www.reddit.com/r/cybersecurity/comments/1ulr47k/burnham_set_to_ditch_palantir_from_nhs/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/cybersecurity · community knowledge",
+      "content_type": "post",
+      "author": "u/Altruism7 · r/cybersecurity",
+      "handle": "cybersecurity",
+      "org": "r/cybersecurity",
+      "platform": "reddit",
+      "published": "2026-07-02T18:55:06.000Z",
+      "image": "https://external-preview.redd.it/sY59r97Qqs4S06A2BAjPqq4-eoNWfE4xweJ46R6h9ng.jpeg?width=640&crop=smart&auto=webp&s=afce9837d16b29ec9486cafa9083bfc6eeee402e",
+      "thumbnail": "https://external-preview.redd.it/sY59r97Qqs4S06A2BAjPqq4-eoNWfE4xweJ46R6h9ng.jpeg?width=640&crop=smart&auto=webp&s=afce9837d16b29ec9486cafa9083bfc6eeee402e",
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/cybersecurity"
+      ],
+      "summary": "Burnham set to ditch Palantir from NHS",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/cybersecurity this week"
       ],
       "metrics": {
         "likes": 0,
@@ -230,6 +309,45 @@
       }
     },
     {
+      "id": "reddit_1ulfkl2",
+      "title": "Hackers shoveled snow for company, were rewarded with network admin access",
+      "link": "https://www.reddit.com/r/cybersecurity/comments/1ulfkl2/hackers_shoveled_snow_for_company_were_rewarded/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/cybersecurity · community knowledge",
+      "content_type": "post",
+      "author": "u/NISMO1968 · r/cybersecurity",
+      "handle": "cybersecurity",
+      "org": "r/cybersecurity",
+      "platform": "reddit",
+      "published": "2026-07-02T11:27:32.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/cybersecurity"
+      ],
+      "summary": "Hackers shoveled snow for company, were rewarded with network admin access",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/cybersecurity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1ul2g3n",
       "title": "Xbox's New Console, Project Helix, Will Reportedly Not Have a Disc Drive; Microsoft Exploring Ways to Digitize Physical Games",
       "link": "https://www.reddit.com/r/gadgets/comments/1ul2g3n/xboxs_new_console_project_helix_will_reportedly/",
@@ -340,6 +458,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/longevity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1ukr5cc",
+      "title": "GitHub Stacked PRs",
+      "link": "https://www.reddit.com/r/programming/comments/1ukr5cc/github_stacked_prs/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/programming · community knowledge",
+      "content_type": "post",
+      "author": "u/fagnerbrack · r/programming",
+      "handle": "programming",
+      "org": "r/programming",
+      "platform": "reddit",
+      "published": "2026-07-01T16:51:40.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Coding & Dev Tools",
+      "category": "Coding & Dev Tools",
+      "genre": "Coding & Dev Tools",
+      "categories": [
+        "Reddit",
+        "Coding & Dev Tools",
+        "r/programming"
+      ],
+      "summary": "GitHub Stacked PRs",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/programming this week"
       ],
       "metrics": {
         "likes": 0,
@@ -585,6 +742,45 @@
       }
     },
     {
+      "id": "reddit_1ukim8j",
+      "title": "Open source is a thankless job and I think we've lost the plot on how we treat maintainers",
+      "link": "https://www.reddit.com/r/programming/comments/1ukim8j/open_source_is_a_thankless_job_and_i_think_weve/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/programming · community knowledge",
+      "content_type": "post",
+      "author": "u/swithek · r/programming",
+      "handle": "programming",
+      "org": "r/programming",
+      "platform": "reddit",
+      "published": "2026-07-01T11:09:38.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Coding & Dev Tools",
+      "category": "Coding & Dev Tools",
+      "genre": "Coding & Dev Tools",
+      "categories": [
+        "Reddit",
+        "Coding & Dev Tools",
+        "r/programming"
+      ],
+      "summary": "I saw an issue today on a fairly popular project (better-auth, see the link to the issue attached). No repro, no context, just a wall of caps and profanity ending in &quot;fuck you&quot;. The maintainers ship this for free. People run production businesses on top of it, for free. And the thanks is someone raging into…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/programming this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1uki33h",
       "title": "Conservatives maintain birth rates, but left-leaning Americans are having significantly fewer children, driving the U.S. birth decline. Education was consistently linked to having fewer children. Religious attendance was positively associated with having more children.",
       "link": "https://www.reddit.com/r/science/comments/1uki33h/conservatives_maintain_birth_rates_but/",
@@ -655,6 +851,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/robotics this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1ukhvhq",
+      "title": "Apple ‘Hide My Email’ Vulnerability Reveals Peoples’ Real Email Addresses",
+      "link": "https://www.reddit.com/r/cybersecurity/comments/1ukhvhq/apple_hide_my_email_vulnerability_reveals_peoples/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/cybersecurity · community knowledge",
+      "content_type": "post",
+      "author": "u/rkhunter_ · r/cybersecurity",
+      "handle": "cybersecurity",
+      "org": "r/cybersecurity",
+      "platform": "reddit",
+      "published": "2026-07-01T10:29:35.000Z",
+      "image": "https://external-preview.redd.it/mhpU7cqH9b8J3U_3xAqfK52n5jkkh7Bfa7yCj6ZAsn0.jpeg?width=640&crop=smart&auto=webp&s=69620d3a53f3311d9fea4d76c36ae9beccf1aaf4",
+      "thumbnail": "https://external-preview.redd.it/mhpU7cqH9b8J3U_3xAqfK52n5jkkh7Bfa7yCj6ZAsn0.jpeg?width=640&crop=smart&auto=webp&s=69620d3a53f3311d9fea4d76c36ae9beccf1aaf4",
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/cybersecurity"
+      ],
+      "summary": "A vulnerability in Apple’s “Hide My Email” tool lets almost anyone discover a person’s real email address that is supposed to be hidden by the feature, and Apple has failed to fix it for more than a year, according to a security researcher and 404 Media’s own tests. &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/cybersecurity this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1058,6 +1293,45 @@
       }
     },
     {
+      "id": "reddit_1ujqcyz",
+      "title": "Huntress Ex-Employee Responds to Huntress CEO Blog",
+      "link": "https://www.reddit.com/r/cybersecurity/comments/1ujqcyz/huntress_exemployee_responds_to_huntress_ceo_blog/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/cybersecurity · community knowledge",
+      "content_type": "post",
+      "author": "u/churn_key · r/cybersecurity",
+      "handle": "cybersecurity",
+      "org": "r/cybersecurity",
+      "platform": "reddit",
+      "published": "2026-06-30T14:11:57.000Z",
+      "image": "https://external-preview.redd.it/CjbMbFq2MEqSKWpNCjv-ipCLADmRBQ1ZCG3w2yy71f0.png?width=640&crop=smart&auto=webp&s=d2cbb70867de082e9dc235b72d969361e30355c9",
+      "thumbnail": "https://external-preview.redd.it/CjbMbFq2MEqSKWpNCjv-ipCLADmRBQ1ZCG3w2yy71f0.png?width=640&crop=smart&auto=webp&s=d2cbb70867de082e9dc235b72d969361e30355c9",
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/cybersecurity"
+      ],
+      "summary": "Huntress Ex-Employee Responds to Huntress CEO Blog",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/cybersecurity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1ujof70",
       "title": "Legacy Nvidia RTX 3060 12GB returns to retail five years after original launch, priced at $339",
       "link": "https://www.reddit.com/r/hardware/comments/1ujof70/legacy_nvidia_rtx_3060_12gb_returns_to_retail/",
@@ -1168,282 +1442,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/robotics this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ujlsb6",
-      "title": "Scientists have shown that a single dose injection of DNA genetic instructions can produce weight loss and blood glucose control in mouse models that lasts up to 10 times as long as weight loss drugs like Ozempic and Wegovy. This could eliminate the need for repeated dosing.",
-      "link": "https://www.reddit.com/r/science/comments/1ujlsb6/scientists_have_shown_that_a_single_dose/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/science · community knowledge",
-      "content_type": "post",
-      "author": "u/mvea · r/science",
-      "handle": "science",
-      "org": "r/science",
-      "platform": "reddit",
-      "published": "2026-06-30T10:49:02.000Z",
-      "image": "https://external-preview.redd.it/nGedb-IQKiKNqa05vGUaCiFigESR9BNbcoL6N4OfX5Q.jpeg?width=640&crop=smart&auto=webp&s=8155c21176cc8effbba0466c85f91b870c748a5e",
-      "thumbnail": "https://external-preview.redd.it/nGedb-IQKiKNqa05vGUaCiFigESR9BNbcoL6N4OfX5Q.jpeg?width=640&crop=smart&auto=webp&s=8155c21176cc8effbba0466c85f91b870c748a5e",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/science"
-      ],
-      "summary": "Scientists have shown that a single dose injection of DNA genetic instructions can produce weight loss and blood glucose control in mouse models that lasts up to 10 times as long as weight loss drugs like Ozempic and Wegovy. This could eliminate the need for repeated dosing.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/science this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ujkzm5",
-      "title": "Don't sleep on direct bicep work",
-      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1ujkzm5/dont_sleep_on_direct_bicep_work/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/bodyweightfitness · community knowledge",
-      "content_type": "post",
-      "author": "u/Reostat · r/bodyweightfitness",
-      "handle": "bodyweightfitness",
-      "org": "r/bodyweightfitness",
-      "platform": "reddit",
-      "published": "2026-06-30T10:04:37.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/bodyweightfitness"
-      ],
-      "summary": "Hey all, Not a bodyweight athlete by any means, I subbed here during Covid when all gyms were closed. I&#39;m primarily a gym goer, but I still like messing around with levers, and have always loved weighted dips and pull-ups/chin-ups. But, small PSA as someone who never did direct bicep work in the past: Bicep work…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/bodyweightfitness this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ujhx3o",
-      "title": "Watch out for crap co-founders - i will not promote",
-      "link": "https://www.reddit.com/r/startups/comments/1ujhx3o/watch_out_for_crap_cofounders_i_will_not_promote/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/startups · community knowledge",
-      "content_type": "post",
-      "author": "u/EatDirty · r/startups",
-      "handle": "startups",
-      "org": "r/startups",
-      "platform": "reddit",
-      "published": "2026-06-30T07:03:07.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/startups"
-      ],
-      "summary": "This is a warning and rant to any founders looking for a co-founder or business partner through co-founder matching platforms or programs. I did Antler about half a year ago (I won&#39;t specify the location), and I have to say that some of the people I met there were among the biggest liars, narcissists, and most…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/startups this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ujdz4b",
-      "title": "startup failed, looking for job (i will not promote)",
-      "link": "https://www.reddit.com/r/startups/comments/1ujdz4b/startup_failed_looking_for_job_i_will_not_promote/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/startups · community knowledge",
-      "content_type": "post",
-      "author": "u/unstoppablefutureme · r/startups",
-      "handle": "startups",
-      "org": "r/startups",
-      "platform": "reddit",
-      "published": "2026-06-30T03:34:49.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/startups"
-      ],
-      "summary": "Title. We pivoted a few times but ran out of money to pivot for the last time. To be completely honest, I lost passion for the niche as well. As I was continuing to keep it going while running out, it became clear that the problem was not that important for people. The pain point just wasn&#39;t that strong. How do…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/startups this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ujbyrq",
-      "title": "[Anti Aging] Please help my wrinkles I’m only 25",
-      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1ujbyrq/anti_aging_please_help_my_wrinkles_im_only_25/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/SkincareAddiction · community knowledge",
-      "content_type": "post",
-      "author": "u/smolllls · r/SkincareAddiction",
-      "handle": "SkincareAddiction",
-      "org": "r/SkincareAddiction",
-      "platform": "reddit",
-      "published": "2026-06-30T02:00:12.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Skincare",
-      "category": "Skincare",
-      "genre": "Skincare",
-      "categories": [
-        "Reddit",
-        "Skincare",
-        "r/SkincareAddiction"
-      ],
-      "summary": "my forehead wrinkles have been my biggest insecurity since high school, i’m now getting wrinkles under my eyes from being so expressive. i use retinol almost every morning but i know there’s more i can be doing i just don’t know skin care. please any advice would be greatly appreciated. also kind of terrified of botox…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/SkincareAddiction this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ujajfp",
-      "title": "What are some signs it's time to quit, and how do you distinguish between temporary motivation dips and severe burnout?",
-      "link": "https://www.reddit.com/r/running/comments/1ujajfp/what_are_some_signs_its_time_to_quit_and_how_do/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/running · community knowledge",
-      "content_type": "post",
-      "author": "u/pumpkinspeedwagon86 · r/running",
-      "handle": "running",
-      "org": "r/running",
-      "platform": "reddit",
-      "published": "2026-06-30T00:54:40.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/running"
-      ],
-      "summary": "Hey everyone, I don&#39;t mean to discourage fellow members of the running community with this post but I am really in a dilemma right now and don&#39;t know if I&#39;m in the right mental state to make a rational decision so some outside perspective from people with far more experience than me would be really…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/running this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uj45np",
-      "title": "Meta was secretly running on Google's Gemini the whole time and then got cut off for using too much",
-      "link": "https://www.reddit.com/r/artificial/comments/1uj45np/meta_was_secretly_running_on_googles_gemini_the/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/artificial · community knowledge",
-      "content_type": "post",
-      "author": "u/Neil_at_HackerEarth · r/artificial",
-      "handle": "artificial",
-      "org": "r/artificial",
-      "platform": "reddit",
-      "published": "2026-06-29T20:36:20.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/artificial"
-      ],
-      "summary": "Saw this article today and it genuinely surprised me Meta has been using Gemini for customer service, ad tools, content moderation, all of it. and apparently chose it because it worked better than their own Llama models and then Google cut them off because Meta was consuming too much capacity. Now employees are being…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/artificial this week"
       ],
       "metrics": {
         "likes": 0,
