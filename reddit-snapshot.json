@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-07-03T16:59:33.145Z",
+  "generated_at": "2026-07-03T18:19:29.974Z",
   "subs": [
     "MachineLearning",
-    "Futurology",
+    "longevity",
     "gadgets",
     "SkincareAddiction",
     "investing",
     "singularity",
     "science",
     "hardware",
+    "Futurology",
     "robotics",
     "Fitness",
     "artificial",
-    "longevity",
     "nutrition",
     "netsec",
     "bodyweightfitness",
@@ -22,11 +22,11 @@
   ],
   "count": 36,
   "by_category": {
-    "Hardware & Gadgets": 6,
+    "Hardware & Gadgets": 5,
     "Skincare": 4,
     "Startups & Funding": 3,
     "AI / ML": 9,
-    "Science": 5,
+    "Science": 6,
     "Robotics": 3,
     "Fitness": 4,
     "Security": 2
@@ -261,6 +261,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/science this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1ukuzcz",
+      "title": "Bactererial Signatures of Extreme Longevity",
+      "link": "https://www.reddit.com/r/longevity/comments/1ukuzcz/bactererial_signatures_of_extreme_longevity/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/longevity · community knowledge",
+      "content_type": "post",
+      "author": "u/dan_in_ca · r/longevity",
+      "handle": "longevity",
+      "org": "r/longevity",
+      "platform": "reddit",
+      "published": "2026-07-01T19:11:11.000Z",
+      "image": "https://external-preview.redd.it/Qvho_C2l1d0tCTV1xrsRtL4FN5QgZFG-p-AjbeRpR1I.jpeg?width=640&crop=smart&auto=webp&s=983a3484b8001bb17a93f9ee8cb52020182b57fb",
+      "thumbnail": "https://external-preview.redd.it/Qvho_C2l1d0tCTV1xrsRtL4FN5QgZFG-p-AjbeRpR1I.jpeg?width=640&crop=smart&auto=webp&s=983a3484b8001bb17a93f9ee8cb52020182b57fb",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Longevity",
+      "categories": [
+        "Reddit",
+        "Science",
+        "Longevity",
+        "r/longevity"
+      ],
+      "summary": "Bactererial Signatures of Extreme Longevity",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/longevity this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1404,45 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/LocalLLaMA this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uiv36d",
-      "title": "Samsung, SK hynix, and Micron sued over alleged DRAM price fixing amid record memory costs - lawsuit claims coordinated HBM shift was cover to curtail DDR3 and DDR4 production",
-      "link": "https://www.reddit.com/r/hardware/comments/1uiv36d/samsung_sk_hynix_and_micron_sued_over_alleged/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/hardware · community knowledge",
-      "content_type": "post",
-      "author": "u/wickedplayer494 · r/hardware",
-      "handle": "hardware",
-      "org": "r/hardware",
-      "platform": "reddit",
-      "published": "2026-06-29T15:06:27.000Z",
-      "image": "https://external-preview.redd.it/Zsq1SxD98GFbEaMFajp1OP_SvyhnnM3N08pv5TyV2EM.jpeg?width=640&crop=smart&auto=webp&s=a30223b5b2f193ff4a31a36ee7171b02f9fcc457",
-      "thumbnail": "https://external-preview.redd.it/Zsq1SxD98GFbEaMFajp1OP_SvyhnnM3N08pv5TyV2EM.jpeg?width=640&crop=smart&auto=webp&s=a30223b5b2f193ff4a31a36ee7171b02f9fcc457",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/hardware"
-      ],
-      "summary": "Samsung, SK hynix, and Micron sued over alleged DRAM price fixing amid record memory costs - lawsuit claims coordinated HBM shift was cover to curtail DDR3 and DDR4 production",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/hardware this week"
       ],
       "metrics": {
         "likes": 0,
