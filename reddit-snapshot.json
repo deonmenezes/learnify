@@ -1,36 +1,77 @@
 {
-  "generated_at": "2026-07-02T22:42:15.199Z",
+  "generated_at": "2026-07-03T00:14:04.097Z",
   "subs": [
     "MachineLearning",
-    "bodyweightfitness",
-    "robotics",
+    "artificial",
+    "running",
+    "investing",
     "science",
     "hardware",
     "Futurology",
     "gadgets",
+    "robotics",
     "Fitness",
-    "artificial",
     "singularity",
     "longevity",
     "nutrition",
     "netsec",
+    "bodyweightfitness",
     "startups",
     "SkincareAddiction",
-    "LocalLLaMA",
-    "running"
+    "LocalLLaMA"
   ],
   "count": 36,
   "by_category": {
-    "Science": 9,
+    "Startups & Funding": 3,
+    "Science": 8,
     "Hardware & Gadgets": 4,
     "AI / ML": 9,
     "Robotics": 3,
     "Fitness": 6,
     "Security": 2,
-    "Startups & Funding": 2,
     "Skincare": 1
   },
   "articles": [
+    {
+      "id": "reddit_1ulnzls",
+      "title": "A Third of SpaceX’s Tradable Shares Are Now Betting Against It. The Squeeze Math Is Wild",
+      "link": "https://www.reddit.com/r/investing/comments/1ulnzls/a_third_of_spacexs_tradable_shares_are_now/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/investing · community knowledge",
+      "content_type": "post",
+      "author": "u/portlandlad · r/investing",
+      "handle": "investing",
+      "org": "r/investing",
+      "platform": "reddit",
+      "published": "2026-07-02T17:02:32.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/investing"
+      ],
+      "summary": "SPCX carries 196 million shares sold short, representing 31% of the float, with every $1 move costing bears roughly $200 million. Shorts briefly pocketed $2.5 billion on paper when SPCX fell 23% post-IPO, but the rebound flipped that to a $760 million loss.…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/investing this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1ukyivq",
       "title": "Billions of doses later: Global review confirms mRNA vaccines are safe, effective and full of promise. Comprehensive review brings together global evidence to strengthen public trust and counter misinformation as mRNA vaccines expand to prevent and treat more diseases.",
@@ -63,6 +104,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/science this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1ukmaj4",
+      "title": "If a company releases new shares wont that decrease the value of the shares I own?",
+      "link": "https://www.reddit.com/r/investing/comments/1ukmaj4/if_a_company_releases_new_shares_wont_that/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/investing · community knowledge",
+      "content_type": "post",
+      "author": "u/No_Obligation4427 · r/investing",
+      "handle": "investing",
+      "org": "r/investing",
+      "platform": "reddit",
+      "published": "2026-07-01T13:51:04.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/investing"
+      ],
+      "summary": "When more shares are available are available there is more supply. Have a higher supply drives prices down (supply and demand). So wont the shares i own go down in value or not go up as much when they otherwise would have? I must be missing though because if this was true why would shareholders allow more shares to be…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/investing this week"
       ],
       "metrics": {
         "likes": 0,
@@ -583,6 +664,46 @@
       }
     },
     {
+      "id": "reddit_1ujuckz",
+      "title": "Are Redditors influencing AI the most?",
+      "link": "https://www.reddit.com/r/artificial/comments/1ujuckz/are_redditors_influencing_ai_the_most/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/artificial · community knowledge",
+      "content_type": "post",
+      "author": "u/xJouissance · r/artificial",
+      "handle": "artificial",
+      "org": "r/artificial",
+      "platform": "reddit",
+      "published": "2026-06-30T16:40:45.000Z",
+      "image": "https://preview.redd.it/hu2a8zbn7gah1.jpeg?width=640&crop=smart&auto=webp&s=4a3f59b7da6c4868b6b6d447857b2e2b0e61f1ee",
+      "thumbnail": "https://preview.redd.it/hu2a8zbn7gah1.jpeg?width=640&crop=smart&auto=webp&s=4a3f59b7da6c4868b6b6d447857b2e2b0e61f1ee",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/artificial"
+      ],
+      "summary": "Are Redditors influencing AI the most?",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/artificial this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1ujof70",
       "title": "Legacy Nvidia RTX 3060 12GB returns to retail five years after original launch, priced at $339",
       "link": "https://www.reddit.com/r/hardware/comments/1ujof70/legacy_nvidia_rtx_3060_12gb_returns_to_retail/",
@@ -850,6 +971,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/SkincareAddiction this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1ujajfp",
+      "title": "What are some signs it's time to quit, and how do you distinguish between temporary motivation dips and severe burnout?",
+      "link": "https://www.reddit.com/r/running/comments/1ujajfp/what_are_some_signs_its_time_to_quit_and_how_do/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/running · community knowledge",
+      "content_type": "post",
+      "author": "u/pumpkinspeedwagon86 · r/running",
+      "handle": "running",
+      "org": "r/running",
+      "platform": "reddit",
+      "published": "2026-06-30T00:54:40.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/running"
+      ],
+      "summary": "Hey everyone, I don&#39;t mean to discourage fellow members of the running community with this post but I am really in a dilemma right now and don&#39;t know if I&#39;m in the right mental state to make a rational decision so some outside perspective from people with far more experience than me would be really…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/running this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1277,164 +1437,6 @@
         "r/Futurology"
       ],
       "summary": "‘Cost Me the Election’: Data Centers Trigger Voter Backlash",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/Futurology this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uiiyb5",
-      "title": "Achievements for Monday, June 29, 2026",
-      "link": "https://www.reddit.com/r/running/comments/1uiiyb5/achievements_for_monday_june_29_2026/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/running · community knowledge",
-      "content_type": "post",
-      "author": "u/AutoModerator · r/running",
-      "handle": "running",
-      "org": "r/running",
-      "platform": "reddit",
-      "published": "2026-06-29T05:02:07.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/running"
-      ],
-      "summary": "Hey runners, it&#39;s another day and it is time to post your accomplishments you&#39;d like to share - big or small. Note: No need to preface YOUR accomplishments with something like, &quot;this may not be an accomplishment to most of you...&quot;. Be proud of your achievement. &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/running this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uig23k",
-      "title": "Give me all your advice - I will not promote",
-      "link": "https://www.reddit.com/r/startups/comments/1uig23k/give_me_all_your_advice_i_will_not_promote/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/startups · community knowledge",
-      "content_type": "post",
-      "author": "u/PracticalNobody · r/startups",
-      "handle": "startups",
-      "org": "r/startups",
-      "platform": "reddit",
-      "published": "2026-06-29T02:34:12.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/startups"
-      ],
-      "summary": "I quit my job to bootstrap my startup and it is the most difficult thing I have ever done. The uncertainty and emotional roller coaster is just hard. I have been in the Tech space for 22 years, managed teams and this is the hardest of them all. The unpredictability is different. Give me all your tips please. &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/startups this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ui241x",
-      "title": "The number 1 public enemy of open-source.",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1ui241x/the_number_1_public_enemy_of_opensource/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/LocalLLaMA · community knowledge",
-      "content_type": "post",
-      "author": "u/Complete-Sea6655 · r/LocalLLaMA",
-      "handle": "LocalLLaMA",
-      "org": "r/LocalLLaMA",
-      "platform": "reddit",
-      "published": "2026-06-28T16:44:47.000Z",
-      "image": "https://external-preview.redd.it/cnp5ZWZ0ZGd5MWFoMRDTe4Q1MMfh41wCu0sV8yUEjL2kaQBpE58TnIU2R6DS.png?width=640&crop=smart&auto=webp&s=5528cf45daa2e9046360fdebff2fda176621b665",
-      "thumbnail": "https://external-preview.redd.it/cnp5ZWZ0ZGd5MWFoMRDTe4Q1MMfh41wCu0sV8yUEjL2kaQBpE58TnIU2R6DS.png?width=640&crop=smart&auto=webp&s=5528cf45daa2e9046360fdebff2fda176621b665",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/LocalLLaMA"
-      ],
-      "summary": "Dario&#39;s args: &quot;Opensource you can see the source, here you cannot see inside the model&quot; - yes you can that&#39;s literally the open weights part btw. - I cannot see the weights inside Claude, but I can GLM 5.2 - Models like Nemotron3 Ultra go further, all the data, training scripts, and model is…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/LocalLLaMA this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ui1wef",
-      "title": "Should there be a legal “talk to a human” button before AI customer service becomes the default?",
-      "link": "https://www.reddit.com/r/Futurology/comments/1ui1wef/should_there_be_a_legal_talk_to_a_human_button/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/Futurology · community knowledge",
-      "content_type": "post",
-      "author": "u/ChessOrCheckers2 · r/Futurology",
-      "handle": "Futurology",
-      "org": "r/Futurology",
-      "platform": "reddit",
-      "published": "2026-06-28T16:36:12.000Z",
-      "image": "https://external-preview.redd.it/XIes72bRj2DllXtM-sMFXH_j3oSRzvw82slCXuOfRoY.jpeg?width=640&crop=smart&auto=webp&s=a1fbb22d00483f9b8d7c1f1dc0ee31b2ac27b35f",
-      "thumbnail": "https://external-preview.redd.it/XIes72bRj2DllXtM-sMFXH_j3oSRzvw82slCXuOfRoY.jpeg?width=640&crop=smart&auto=webp&s=a1fbb22d00483f9b8d7c1f1dc0ee31b2ac27b35f",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/Futurology"
-      ],
-      "summary": "Should there be a legal “talk to a human” button before AI customer service becomes the default?",
       "is_social": true,
       "report_worthy": true,
       "worthiness_score": 62,
