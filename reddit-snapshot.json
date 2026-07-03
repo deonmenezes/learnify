@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-03T15:21:56.394Z",
+  "generated_at": "2026-07-03T16:59:33.145Z",
   "subs": [
     "MachineLearning",
-    "singularity",
-    "nutrition",
-    "SkincareAddiction",
-    "investing",
-    "science",
-    "hardware",
     "Futurology",
     "gadgets",
+    "SkincareAddiction",
+    "investing",
+    "singularity",
+    "science",
+    "hardware",
     "robotics",
     "Fitness",
     "artificial",
     "longevity",
+    "nutrition",
     "netsec",
     "bodyweightfitness",
     "startups",
@@ -22,16 +22,55 @@
   ],
   "count": 36,
   "by_category": {
+    "Hardware & Gadgets": 6,
     "Skincare": 4,
     "Startups & Funding": 3,
-    "AI / ML": 10,
+    "AI / ML": 9,
     "Science": 5,
-    "Hardware & Gadgets": 4,
     "Robotics": 3,
-    "Fitness": 5,
+    "Fitness": 4,
     "Security": 2
   },
   "articles": [
+    {
+      "id": "reddit_1umasiw",
+      "title": "Sony’s PlayStation disc factory is already being repurposed",
+      "link": "https://www.reddit.com/r/gadgets/comments/1umasiw/sonys_playstation_disc_factory_is_already_being/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/gadgets · community knowledge",
+      "content_type": "post",
+      "author": "u/dapperlemon · r/gadgets",
+      "handle": "gadgets",
+      "org": "r/gadgets",
+      "platform": "reddit",
+      "published": "2026-07-03T10:30:46.000Z",
+      "image": "https://external-preview.redd.it/IOn4eHkHU4tvXg-j6-MOa7_EuWh0u3fRwNPcDmm789M.jpeg?width=640&crop=smart&auto=webp&s=9c12b2468e89a5779316041560d01db9d1c7d3e1",
+      "thumbnail": "https://external-preview.redd.it/IOn4eHkHU4tvXg-j6-MOa7_EuWh0u3fRwNPcDmm789M.jpeg?width=640&crop=smart&auto=webp&s=9c12b2468e89a5779316041560d01db9d1c7d3e1",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/gadgets"
+      ],
+      "summary": "Sony’s PlayStation disc factory is already being repurposed",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/gadgets this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1ulp0wz",
       "title": "[Trigger Warning] Will I need filler for the rest of my life because of one mistake?",
@@ -144,6 +183,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/singularity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1ul2g3n",
+      "title": "Xbox's New Console, Project Helix, Will Reportedly Not Have a Disc Drive; Microsoft Exploring Ways to Digitize Physical Games",
+      "link": "https://www.reddit.com/r/gadgets/comments/1ul2g3n/xboxs_new_console_project_helix_will_reportedly/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/gadgets · community knowledge",
+      "content_type": "post",
+      "author": "u/xenocea · r/gadgets",
+      "handle": "gadgets",
+      "org": "r/gadgets",
+      "platform": "reddit",
+      "published": "2026-07-02T00:03:05.000Z",
+      "image": "https://external-preview.redd.it/YKLD4HI6Cc5jBSE4NfnCbxG0vFpGP-sGnD5R6ZbbBwo.jpeg?width=640&crop=smart&auto=webp&s=d2f1b0bd93507373b691c51764031336c676d41e",
+      "thumbnail": "https://external-preview.redd.it/YKLD4HI6Cc5jBSE4NfnCbxG0vFpGP-sGnD5R6ZbbBwo.jpeg?width=640&crop=smart&auto=webp&s=d2f1b0bd93507373b691c51764031336c676d41e",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/gadgets"
+      ],
+      "summary": "Xbox's New Console, Project Helix, Will Reportedly Not Have a Disc Drive; Microsoft Exploring Ways to Digitize Physical Games",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/gadgets this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1365,85 +1443,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/hardware this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uir2uw",
-      "title": "To those doubting the process…",
-      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1uir2uw/to_those_doubting_the_process/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/bodyweightfitness · community knowledge",
-      "content_type": "post",
-      "author": "u/woodman0310 · r/bodyweightfitness",
-      "handle": "bodyweightfitness",
-      "org": "r/bodyweightfitness",
-      "platform": "reddit",
-      "published": "2026-06-29T12:26:36.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/bodyweightfitness"
-      ],
-      "summary": "Guys I made it. Last night my wife commented that my arms looked bigger than they ever have. I started the RR exactly 2 months ago, and have been dedicated to it going full in MWF. Started monitoring my protein, supplementing with whey, and eating good whole foods. Scale hasn’t changed, but I can tell I’m getting…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/bodyweightfitness this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uiqhiv",
-      "title": "Cerebras OpenAI deal capacity has effectively killed the waitlist for everyone else [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1uiqhiv/cerebras_openai_deal_capacity_has_effectively/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/MachineLearning · community knowledge",
-      "content_type": "post",
-      "author": "u/Kortopi-98 · r/MachineLearning",
-      "handle": "MachineLearning",
-      "org": "r/MachineLearning",
-      "platform": "reddit",
-      "published": "2026-06-29T12:00:06.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/MachineLearning"
-      ],
-      "summary": "I’m pretty annoyed. We’re a small AI startup building a real-time coding agent. Our p95 latency requirements are tight (and self imposed, but thats the product). We need sustained high-throughput inference with ~1-2k tokens/second. Been on the Cerebras waitlist for months trying to get API access. We’re not doing…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/MachineLearning this week"
       ],
       "metrics": {
         "likes": 0,
