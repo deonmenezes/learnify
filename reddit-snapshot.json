@@ -1,38 +1,116 @@
 {
-  "generated_at": "2026-07-04T13:44:22.282Z",
+  "generated_at": "2026-07-04T15:12:16.571Z",
   "subs": [
     "MachineLearning",
-    "Fitness",
-    "hardware",
+    "bodyweightfitness",
+    "robotics",
     "startups",
     "gadgets",
     "programming",
     "cybersecurity",
-    "bodyweightfitness",
     "SkincareAddiction",
     "investing",
+    "hardware",
     "singularity",
     "science",
     "longevity",
     "Futurology",
-    "robotics",
+    "Fitness",
     "artificial",
     "nutrition",
     "netsec"
   ],
   "count": 36,
   "by_category": {
+    "Robotics": 4,
     "Startups & Funding": 4,
-    "Hardware & Gadgets": 6,
+    "Hardware & Gadgets": 5,
     "Coding & Dev Tools": 3,
-    "Security": 5,
+    "Security": 4,
     "Fitness": 3,
     "Skincare": 3,
     "AI / ML": 5,
-    "Science": 5,
-    "Robotics": 2
+    "Science": 5
   },
   "articles": [
+    {
+      "id": "reddit_1umskd5",
+      "title": "Lesson learned: easy-to-access off switch is important",
+      "link": "https://www.reddit.com/r/robotics/comments/1umskd5/lesson_learned_easytoaccess_off_switch_is/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/robotics · community knowledge",
+      "content_type": "post",
+      "author": "u/HenryGCase · r/robotics",
+      "handle": "robotics",
+      "org": "r/robotics",
+      "platform": "reddit",
+      "published": "2026-07-03T22:50:29.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Robotics",
+      "category": "Robotics",
+      "genre": "Robotics",
+      "categories": [
+        "Reddit",
+        "Robotics",
+        "r/robotics"
+      ],
+      "summary": "Lesson learned: easy-to-access off switch is important",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/robotics this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1umbkd5",
+      "title": "Weave Robotics has just launched its first home robot, Isaac 1",
+      "link": "https://www.reddit.com/r/robotics/comments/1umbkd5/weave_robotics_has_just_launched_its_first_home/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/robotics · community knowledge",
+      "content_type": "post",
+      "author": "u/Nunki08 · r/robotics",
+      "handle": "robotics",
+      "org": "r/robotics",
+      "platform": "reddit",
+      "published": "2026-07-03T11:11:17.000Z",
+      "image": "https://external-preview.redd.it/MHVwaXVtajJ6emFoMbEMnQzuU3joehbWCtQ3fnankKNzxRe-tXq7SnNThXlC.png?width=640&crop=smart&auto=webp&s=ad9bfdf0cdefeca5b25f3181c78eadac8cf59dd4",
+      "thumbnail": "https://external-preview.redd.it/MHVwaXVtajJ6emFoMbEMnQzuU3joehbWCtQ3fnankKNzxRe-tXq7SnNThXlC.png?width=640&crop=smart&auto=webp&s=ad9bfdf0cdefeca5b25f3181c78eadac8cf59dd4",
+      "section": "Robotics",
+      "category": "Robotics",
+      "genre": "Robotics",
+      "categories": [
+        "Reddit",
+        "Robotics",
+        "r/robotics"
+      ],
+      "summary": "From Weave Robotics on 𝕏 (thread): https://x.com/weaverobotics/status/2072362538671706314 Website: https://www.weaverobotics.com/isaac-1 &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/robotics this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1umb0w3",
       "title": "Is VC just a rich people's game with better branding? I Will Not Promote",
@@ -1364,84 +1442,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/artificial this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ujqcyz",
-      "title": "Huntress Ex-Employee Responds to Huntress CEO Blog",
-      "link": "https://www.reddit.com/r/cybersecurity/comments/1ujqcyz/huntress_exemployee_responds_to_huntress_ceo_blog/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/cybersecurity · community knowledge",
-      "content_type": "post",
-      "author": "u/churn_key · r/cybersecurity",
-      "handle": "cybersecurity",
-      "org": "r/cybersecurity",
-      "platform": "reddit",
-      "published": "2026-06-30T14:11:57.000Z",
-      "image": "https://external-preview.redd.it/CjbMbFq2MEqSKWpNCjv-ipCLADmRBQ1ZCG3w2yy71f0.png?width=640&crop=smart&auto=webp&s=d2cbb70867de082e9dc235b72d969361e30355c9",
-      "thumbnail": "https://external-preview.redd.it/CjbMbFq2MEqSKWpNCjv-ipCLADmRBQ1ZCG3w2yy71f0.png?width=640&crop=smart&auto=webp&s=d2cbb70867de082e9dc235b72d969361e30355c9",
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/cybersecurity"
-      ],
-      "summary": "Huntress Ex-Employee Responds to Huntress CEO Blog",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/cybersecurity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ujof70",
-      "title": "Legacy Nvidia RTX 3060 12GB returns to retail five years after original launch, priced at $339",
-      "link": "https://www.reddit.com/r/hardware/comments/1ujof70/legacy_nvidia_rtx_3060_12gb_returns_to_retail/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/hardware · community knowledge",
-      "content_type": "post",
-      "author": "u/BarKnight · r/hardware",
-      "handle": "hardware",
-      "org": "r/hardware",
-      "platform": "reddit",
-      "published": "2026-06-30T12:53:52.000Z",
-      "image": "https://external-preview.redd.it/VEEE3VmiJy_feT8eLCY3ZVtgmwfvpNqwkiudr4y2LSU.jpeg?width=640&crop=smart&auto=webp&s=dcec7258bd77ae0d7be8adc5173ed75ef3f5f7ff",
-      "thumbnail": "https://external-preview.redd.it/VEEE3VmiJy_feT8eLCY3ZVtgmwfvpNqwkiudr4y2LSU.jpeg?width=640&crop=smart&auto=webp&s=dcec7258bd77ae0d7be8adc5173ed75ef3f5f7ff",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/hardware"
-      ],
-      "summary": "Legacy Nvidia RTX 3060 12GB returns to retail five years after original launch, priced at $339",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/hardware this week"
       ],
       "metrics": {
         "likes": 0,
