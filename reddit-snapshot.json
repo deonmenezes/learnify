@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-03T22:38:46.959Z",
+  "generated_at": "2026-07-04T00:12:24.750Z",
   "subs": [
     "MachineLearning",
-    "programming",
-    "cybersecurity",
+    "longevity",
+    "hardware",
     "startups",
     "gadgets",
+    "programming",
+    "cybersecurity",
     "SkincareAddiction",
     "investing",
     "singularity",
     "science",
-    "longevity",
-    "hardware",
     "Futurology",
     "robotics",
     "Fitness",
@@ -22,13 +22,13 @@
   "count": 36,
   "by_category": {
     "Startups & Funding": 4,
-    "Hardware & Gadgets": 5,
+    "Hardware & Gadgets": 6,
     "Coding & Dev Tools": 3,
     "Security": 5,
     "Skincare": 3,
     "AI / ML": 6,
     "Science": 5,
-    "Robotics": 3,
+    "Robotics": 2,
     "Fitness": 2
   },
   "articles": [
@@ -261,6 +261,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/investing this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1ull48w",
+      "title": "\"Am I going back to PS4 days?\" - Former PlayStation leader Shuhei Yoshida has tried the Steam Machine, and he doesn't sound very impressed",
+      "link": "https://www.reddit.com/r/hardware/comments/1ull48w/am_i_going_back_to_ps4_days_former_playstation/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/hardware · community knowledge",
+      "content_type": "post",
+      "author": "u/JohnBarry_Dost · r/hardware",
+      "handle": "hardware",
+      "org": "r/hardware",
+      "platform": "reddit",
+      "published": "2026-07-02T15:17:16.000Z",
+      "image": "https://external-preview.redd.it/nmHkEq__y82pWvprtF_lhgQZqQ-AxsJFMFKBGG8BUrw.jpeg?width=640&crop=smart&auto=webp&s=0d3b2aeff5b45adc98f2abe48b727f1822985f5d",
+      "thumbnail": "https://external-preview.redd.it/nmHkEq__y82pWvprtF_lhgQZqQ-AxsJFMFKBGG8BUrw.jpeg?width=640&crop=smart&auto=webp&s=0d3b2aeff5b45adc98f2abe48b727f1822985f5d",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/hardware"
+      ],
+      "summary": "\"Am I going back to PS4 days?\" - Former PlayStation leader Shuhei Yoshida has tried the Steam Machine, and he doesn't sound very impressed",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/hardware this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1403,45 +1442,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ujmb03",
-      "title": "Update: Remember my post about upgrading the plastic joints on the Berkeley Lite? The CNC cycloidal parts just arrived.",
-      "link": "https://www.reddit.com/r/robotics/comments/1ujmb03/update_remember_my_post_about_upgrading_the/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/robotics · community knowledge",
-      "content_type": "post",
-      "author": "u/External_Wasabi9131 · r/robotics",
-      "handle": "robotics",
-      "org": "r/robotics",
-      "platform": "reddit",
-      "published": "2026-06-30T11:16:03.000Z",
-      "image": "https://external-preview.redd.it/ZnQ3cm81ZTRsZWFoMaL9g-cnsLZYfhb_jeLEXgCuWEN5_Rj3RVMyLu61meRp.png?width=640&crop=smart&auto=webp&s=f3b7383a5240cf28eaec464b68cc4f8fdb525ab0",
-      "thumbnail": "https://external-preview.redd.it/ZnQ3cm81ZTRsZWFoMaL9g-cnsLZYfhb_jeLEXgCuWEN5_Rj3RVMyLu61meRp.png?width=640&crop=smart&auto=webp&s=f3b7383a5240cf28eaec464b68cc4f8fdb525ab0",
-      "section": "Robotics",
-      "category": "Robotics",
-      "genre": "Robotics",
-      "categories": [
-        "Reddit",
-        "Robotics",
-        "r/robotics"
-      ],
-      "summary": "Hey guys. A couple months back I asked this sub for some reality checks on using a 30:1 metal cycloidal to replace 3D printed joints for QDD. The first batch of CNC parts finally showed up. I was honestly expecting the tight machining tolerances to make it bind up, but turning the output flange by hand... the…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/robotics this week"
       ],
       "metrics": {
         "likes": 0,
