@@ -1,8 +1,9 @@
 {
-  "generated_at": "2026-07-04T16:36:17.229Z",
+  "generated_at": "2026-07-04T18:08:38.506Z",
   "subs": [
     "MachineLearning",
-    "Fitness",
+    "science",
+    "netsec",
     "robotics",
     "startups",
     "gadgets",
@@ -13,12 +14,11 @@
     "investing",
     "hardware",
     "singularity",
-    "science",
     "longevity",
     "Futurology",
+    "Fitness",
     "artificial",
-    "nutrition",
-    "netsec"
+    "nutrition"
   ],
   "count": 36,
   "by_category": {
@@ -26,11 +26,11 @@
     "Startups & Funding": 4,
     "Hardware & Gadgets": 5,
     "Coding & Dev Tools": 3,
-    "Security": 4,
+    "Science": 6,
+    "Security": 5,
     "Fitness": 3,
-    "Skincare": 3,
-    "AI / ML": 5,
-    "Science": 5
+    "Skincare": 2,
+    "AI / ML": 4
   },
   "articles": [
     {
@@ -230,6 +230,45 @@
       }
     },
     {
+      "id": "reddit_1ulv1rj",
+      "title": "Voters who do not align with the Democratic or Republican parties make up the largest portion of the American electorate. They hold moderate ideologies and desire a system focused on open-mindedness. They are active voters, rather than simply apathetic citizens or disguised partisans.",
+      "link": "https://www.reddit.com/r/science/comments/1ulv1rj/voters_who_do_not_align_with_the_democratic_or/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/science · community knowledge",
+      "content_type": "post",
+      "author": "u/mvea · r/science",
+      "handle": "science",
+      "org": "r/science",
+      "platform": "reddit",
+      "published": "2026-07-02T21:24:31.000Z",
+      "image": "https://external-preview.redd.it/tYQ6Nla2Kd5k48XwarhvwrCewsuM-YqtEZz2jo8NKM4.jpeg?width=640&crop=smart&auto=webp&s=74a6ac6b3f900bc47a6e6e76af097c09475af071",
+      "thumbnail": "https://external-preview.redd.it/tYQ6Nla2Kd5k48XwarhvwrCewsuM-YqtEZz2jo8NKM4.jpeg?width=640&crop=smart&auto=webp&s=74a6ac6b3f900bc47a6e6e76af097c09475af071",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/science"
+      ],
+      "summary": "Voters who do not align with the Democratic or Republican parties make up the largest portion of the American electorate. They hold moderate ideologies and desire a system focused on open-mindedness. They are active voters, rather than simply apathetic citizens or disguised partisans.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/science this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1ulr47k",
       "title": "Burnham set to ditch Palantir from NHS",
       "link": "https://www.reddit.com/r/cybersecurity/comments/1ulr47k/burnham_set_to_ditch_palantir_from_nhs/",
@@ -379,6 +418,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/investing this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1ulmoyx",
+      "title": "FIFA was saved this time",
+      "link": "https://www.reddit.com/r/netsec/comments/1ulmoyx/fifa_was_saved_this_time/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/netsec · community knowledge",
+      "content_type": "post",
+      "author": "u/scorp100n · r/netsec",
+      "handle": "netsec",
+      "org": "r/netsec",
+      "platform": "reddit",
+      "published": "2026-07-02T16:14:57.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/netsec"
+      ],
+      "summary": "FIFA was saved this time",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/netsec this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1363,85 +1441,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/netsec this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ujxiaa",
-      "title": "[Sun Care] I’m sorry what???",
-      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1ujxiaa/sun_care_im_sorry_what/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/SkincareAddiction · community knowledge",
-      "content_type": "post",
-      "author": "u/Big_Big_3920 · r/SkincareAddiction",
-      "handle": "SkincareAddiction",
-      "org": "r/SkincareAddiction",
-      "platform": "reddit",
-      "published": "2026-06-30T18:34:48.000Z",
-      "image": "https://preview.redd.it/17m2p600sgah1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=3aa7a8cd20d565ae9ab190916fc162dbe729f44b",
-      "thumbnail": "https://preview.redd.it/17m2p600sgah1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=3aa7a8cd20d565ae9ab190916fc162dbe729f44b",
-      "section": "Skincare",
-      "category": "Skincare",
-      "genre": "Skincare",
-      "categories": [
-        "Reddit",
-        "Skincare",
-        "r/SkincareAddiction"
-      ],
-      "summary": "The white cast on this stuff is nuts… it looks slightly better on camera but in person its uncanny valley and I look insane. Genuinely wondering why anyone would choose to wear this? &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/SkincareAddiction this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ujuckz",
-      "title": "Are Redditors influencing AI the most?",
-      "link": "https://www.reddit.com/r/artificial/comments/1ujuckz/are_redditors_influencing_ai_the_most/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/artificial · community knowledge",
-      "content_type": "post",
-      "author": "u/xJouissance · r/artificial",
-      "handle": "artificial",
-      "org": "r/artificial",
-      "platform": "reddit",
-      "published": "2026-06-30T16:40:45.000Z",
-      "image": "https://preview.redd.it/hu2a8zbn7gah1.jpeg?width=640&crop=smart&auto=webp&s=4a3f59b7da6c4868b6b6d447857b2e2b0e61f1ee",
-      "thumbnail": "https://preview.redd.it/hu2a8zbn7gah1.jpeg?width=640&crop=smart&auto=webp&s=4a3f59b7da6c4868b6b6d447857b2e2b0e61f1ee",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/artificial"
-      ],
-      "summary": "Are Redditors influencing AI the most?",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/artificial this week"
       ],
       "metrics": {
         "likes": 0,
