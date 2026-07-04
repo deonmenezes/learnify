@@ -1,10 +1,12 @@
 {
-  "generated_at": "2026-07-04T21:05:26.314Z",
+  "generated_at": "2026-07-04T22:33:00.667Z",
   "subs": [
     "MachineLearning",
-    "longevity",
-    "hardware",
+    "artificial",
+    "nutrition",
+    "investing",
     "robotics",
+    "longevity",
     "startups",
     "gadgets",
     "programming",
@@ -12,25 +14,23 @@
     "cybersecurity",
     "bodyweightfitness",
     "SkincareAddiction",
-    "investing",
     "netsec",
+    "hardware",
     "singularity",
     "Futurology",
-    "Fitness",
-    "artificial",
-    "nutrition"
+    "Fitness"
   ],
   "count": 36,
   "by_category": {
-    "Robotics": 4,
-    "Science": 7,
-    "Startups & Funding": 4,
+    "Robotics": 3,
+    "Science": 6,
+    "AI / ML": 4,
+    "Startups & Funding": 6,
     "Hardware & Gadgets": 5,
     "Coding & Dev Tools": 3,
     "Security": 4,
     "Fitness": 3,
-    "Skincare": 2,
-    "AI / ML": 4
+    "Skincare": 2
   },
   "articles": [
     {
@@ -105,6 +105,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/longevity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1umcprg",
+      "title": "Andrew Ng: \"In 3-6 months, everyone will be using self-improving loops. No more prompting”",
+      "link": "https://www.reddit.com/r/artificial/comments/1umcprg/andrew_ng_in_36_months_everyone_will_be_using/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/artificial · community knowledge",
+      "content_type": "post",
+      "author": "u/Any_Bug_9045 · r/artificial",
+      "handle": "artificial",
+      "org": "r/artificial",
+      "platform": "reddit",
+      "published": "2026-07-03T12:08:15.000Z",
+      "image": "https://preview.redd.it/7e57ugdq90bh1.png?width=640&crop=smart&auto=webp&s=06b160cd3fad3c9bee87cd1006250efa57bc8741",
+      "thumbnail": "https://preview.redd.it/7e57ugdq90bh1.png?width=640&crop=smart&auto=webp&s=06b160cd3fad3c9bee87cd1006250efa57bc8741",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/artificial"
+      ],
+      "summary": "Andrew Ng recently said: &quot;100% of my tasks are now done by AI agents. Hype has exceeded my expectations. Loops is next step. In 3-6 months, everyone will be using self-improving loops. No more prompting.&quot; I think he&#39;s not too far off, you can already see the shift happening, people are moving away from…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/artificial this week"
       ],
       "metrics": {
         "likes": 0,
@@ -231,6 +271,46 @@
       }
     },
     {
+      "id": "reddit_1um52w9",
+      "title": "Jodie Foster Says Brad Pitt’s ‘F1’ Seemed Like It Was Made by AI and Written by a Computer: \"Wasn’t It?\"",
+      "link": "https://www.reddit.com/r/artificial/comments/1um52w9/jodie_foster_says_brad_pitts_f1_seemed_like_it/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/artificial · community knowledge",
+      "content_type": "post",
+      "author": "u/ControlCAD · r/artificial",
+      "handle": "artificial",
+      "org": "r/artificial",
+      "platform": "reddit",
+      "published": "2026-07-03T05:06:29.000Z",
+      "image": "https://external-preview.redd.it/XlBkQqtIGH8hJDIbvaZcFjO3JJHKFOSo3VHjpX5Y-cQ.jpeg?width=640&crop=smart&auto=webp&s=7431f40aa638bc15ffa947bf754520c01398d6e6",
+      "thumbnail": "https://external-preview.redd.it/XlBkQqtIGH8hJDIbvaZcFjO3JJHKFOSo3VHjpX5Y-cQ.jpeg?width=640&crop=smart&auto=webp&s=7431f40aa638bc15ffa947bf754520c01398d6e6",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/artificial"
+      ],
+      "summary": "&gt;“I don’t say this disparagingly — how could I? This movie went on to make millions of dollars. But I look at a movie like ‘F1’ and I’m like, ‘F1’ was made by AI,” she said with a laugh at the Colorado event. “Wasn’t it? I mean, the structure was exactly the structure that you would learn in school. The actors say…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/artificial this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1um497y",
       "title": "Linux has officially won",
       "link": "https://www.reddit.com/r/programming/comments/1um497y/linux_has_officially_won/",
@@ -262,6 +342,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/programming this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1um3xbr",
+      "title": "I don't understand the point of bonds in most portfolios",
+      "link": "https://www.reddit.com/r/investing/comments/1um3xbr/i_dont_understand_the_point_of_bonds_in_most/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/investing · community knowledge",
+      "content_type": "post",
+      "author": "u/iloveu3thousand · r/investing",
+      "handle": "investing",
+      "org": "r/investing",
+      "platform": "reddit",
+      "published": "2026-07-03T04:07:08.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/investing"
+      ],
+      "summary": "I&#39;ve only been investing about 10 years and my portfolio is 80/20 maybe closer to like 87/13 right now. I have an advisor. He didn&#39;t explain well why I&#39;m not 100/0. Like he kept saying bonds are stability and ballast for down markets and income generation for up markets, but they&#39;re bond funds and…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/investing this week"
       ],
       "metrics": {
         "likes": 0,
@@ -340,6 +460,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/cybersecurity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1ulr1nq",
+      "title": "I’ve been on autopilot for 3 years and just checked my account for the first time in a while",
+      "link": "https://www.reddit.com/r/investing/comments/1ulr1nq/ive_been_on_autopilot_for_3_years_and_just/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/investing · community knowledge",
+      "content_type": "post",
+      "author": "u/arcsilencer · r/investing",
+      "handle": "investing",
+      "org": "r/investing",
+      "platform": "reddit",
+      "published": "2026-07-02T18:52:31.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/investing"
+      ],
+      "summary": "I set up automatic monthly contributions in early 2023 and basically stopped paying attention. Just opened the app for the first time in maybe 14 months. Some things I did not expect: NVDA is now 31% of my portfolio. I bought it in 2022 when it was down and then mostly forgot about it. I apparently also own Palantir.…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/investing this week"
       ],
       "metrics": {
         "likes": 0,
@@ -536,6 +696,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/hardware this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1ulj2mp",
+      "title": "Drinking water before meal improves digestion?",
+      "link": "https://www.reddit.com/r/nutrition/comments/1ulj2mp/drinking_water_before_meal_improves_digestion/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/nutrition · community knowledge",
+      "content_type": "post",
+      "author": "u/Nice_Pen_8054 · r/nutrition",
+      "handle": "nutrition",
+      "org": "r/nutrition",
+      "platform": "reddit",
+      "published": "2026-07-02T13:58:52.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Nutrition",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "Nutrition",
+        "r/nutrition"
+      ],
+      "summary": "Hello, Drinking water before meal improves digestion? &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/nutrition this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1243,205 +1443,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/SkincareAddiction this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ukarsf",
-      "title": "6DOF robot arm fully 3d printed, built when I was 16",
-      "link": "https://www.reddit.com/r/robotics/comments/1ukarsf/6dof_robot_arm_fully_3d_printed_built_when_i_was/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/robotics · community knowledge",
-      "content_type": "post",
-      "author": "u/_Rayolo_ · r/robotics",
-      "handle": "robotics",
-      "org": "r/robotics",
-      "platform": "reddit",
-      "published": "2026-07-01T03:50:58.000Z",
-      "image": "https://external-preview.redd.it/MDRpNGw3YzRqamFoMYQDDJOETbiJg4p9_2gwl_tODKN8qZADIsuojX4c24O4.png?width=640&crop=smart&auto=webp&s=8cc80ff2a9096aa10a3163638130f413b61e02d1",
-      "thumbnail": "https://external-preview.redd.it/MDRpNGw3YzRqamFoMYQDDJOETbiJg4p9_2gwl_tODKN8qZADIsuojX4c24O4.png?width=640&crop=smart&auto=webp&s=8cc80ff2a9096aa10a3163638130f413b61e02d1",
-      "section": "Robotics",
-      "category": "Robotics",
-      "genre": "Robotics",
-      "categories": [
-        "Reddit",
-        "Robotics",
-        "r/robotics"
-      ],
-      "summary": "This is a 6DOF robot arm that I finished last year. This project started in 2022 when I was 14 years old, and I finished it when I was 16. It’s fully 3D printed and custom. The base and shoulder are driven by cycloidal gearboxes printed in nylon, the rest of the build was printed in PLA. The part I’m most proud of is…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/robotics this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uk7t49",
-      "title": "I have created a Chrome extension that fact checks YouTube videos as you watch",
-      "link": "https://www.reddit.com/r/artificial/comments/1uk7t49/i_have_created_a_chrome_extension_that_fact/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/artificial · community knowledge",
-      "content_type": "post",
-      "author": "u/userpostingcontent · r/artificial",
-      "handle": "artificial",
-      "org": "r/artificial",
-      "platform": "reddit",
-      "published": "2026-07-01T01:27:19.000Z",
-      "image": "https://external-preview.redd.it/bjM0YmJjbHNwaWFoMfWNxMgYwpHxuinx048xhDqtpcDeeO3pxE5NoZA_vX9j.png?width=640&crop=smart&auto=webp&s=47ae155758faea8b728d73abeffced4b39c2600a",
-      "thumbnail": "https://external-preview.redd.it/bjM0YmJjbHNwaWFoMfWNxMgYwpHxuinx048xhDqtpcDeeO3pxE5NoZA_vX9j.png?width=640&crop=smart&auto=webp&s=47ae155758faea8b728d73abeffced4b39c2600a",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/artificial"
-      ],
-      "summary": "Hi, I have been working on this for many months now and I&#39;d really be happy for people to try it out. It is a Chrome extension called &quot;PopUpFactCheck&quot;. It is an AI powered video fact checker. With it, you fact check any YouTube video that has captions. And you can use it, for free! You turn captions on,…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/artificial this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uk4gwa",
-      "title": "The Accuracy Is Tripping Me",
-      "link": "https://www.reddit.com/r/singularity/comments/1uk4gwa/the_accuracy_is_tripping_me/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/singularity · community knowledge",
-      "content_type": "post",
-      "author": "u/SaintedTainted · r/singularity",
-      "handle": "singularity",
-      "org": "r/singularity",
-      "platform": "reddit",
-      "published": "2026-06-30T22:59:20.000Z",
-      "image": "https://external-preview.redd.it/aHNpNDhrcjMzaWFoMSJrsKteYXTUPXL3ysG_dbh6qYpiRFb1y4Zlej1CQXtp.png?width=640&crop=smart&auto=webp&s=42ca8eccb7f1893e1462bd1729300a93ef366823",
-      "thumbnail": "https://external-preview.redd.it/aHNpNDhrcjMzaWFoMSJrsKteYXTUPXL3ysG_dbh6qYpiRFb1y4Zlej1CQXtp.png?width=640&crop=smart&auto=webp&s=42ca8eccb7f1893e1462bd1729300a93ef366823",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/singularity"
-      ],
-      "summary": "The Accuracy Is Tripping Me",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/singularity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uk20b0",
-      "title": "Questions of the future in aging and longevity research at the GIMM (Nature Aging)",
-      "link": "https://www.reddit.com/r/longevity/comments/1uk20b0/questions_of_the_future_in_aging_and_longevity/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/longevity · community knowledge",
-      "content_type": "post",
-      "author": "u/Select_Possibility38 · r/longevity",
-      "handle": "longevity",
-      "org": "r/longevity",
-      "platform": "reddit",
-      "published": "2026-06-30T21:20:29.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Science",
-      "category": "Science",
-      "genre": "Longevity",
-      "categories": [
-        "Reddit",
-        "Science",
-        "Longevity",
-        "r/longevity"
-      ],
-      "summary": "One thing I found interesting is how many different paths people think could lead to healthier aging, senolytics, stem cells, epigenetic reprogramming, AI-driven drug discovery, regenerative medicine, and more. If you had to bet on one area that will have the biggest real-world impact over the next 10–15 years, which…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/longevity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uk1yzl",
-      "title": "Recent Study on Omega-3 \"Fish Oil\" and no brain health benefits — Major caveats to consider...",
-      "link": "https://www.reddit.com/r/nutrition/comments/1uk1yzl/recent_study_on_omega3_fish_oil_and_no_brain/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/nutrition · community knowledge",
-      "content_type": "post",
-      "author": "u/Independent-Bug-9352 · r/nutrition",
-      "handle": "nutrition",
-      "org": "r/nutrition",
-      "platform": "reddit",
-      "published": "2026-06-30T21:19:03.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Nutrition",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "Nutrition",
-        "r/nutrition"
-      ],
-      "summary": "A recent study then echoed by the likes of USA Today as well as ScienceDaily are pushing a headline that fish oil supplements are ineffective for brain health or Alzheimer&#39;s risk. KEY CAVEATS: The intervention was not fish oil. This was pure DHA with no EPA. Both fish oil or algal oil would have a combination of…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/nutrition this week"
       ],
       "metrics": {
         "likes": 0,
