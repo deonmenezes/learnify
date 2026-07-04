@@ -1,17 +1,18 @@
 {
-  "generated_at": "2026-07-04T00:12:24.750Z",
+  "generated_at": "2026-07-04T04:17:11.604Z",
   "subs": [
     "MachineLearning",
-    "longevity",
-    "hardware",
+    "bodyweightfitness",
     "startups",
     "gadgets",
     "programming",
     "cybersecurity",
     "SkincareAddiction",
     "investing",
+    "hardware",
     "singularity",
     "science",
+    "longevity",
     "Futurology",
     "robotics",
     "Fitness",
@@ -25,11 +26,11 @@
     "Hardware & Gadgets": 6,
     "Coding & Dev Tools": 3,
     "Security": 5,
+    "Fitness": 3,
     "Skincare": 3,
-    "AI / ML": 6,
+    "AI / ML": 5,
     "Science": 5,
-    "Robotics": 2,
-    "Fitness": 2
+    "Robotics": 2
   },
   "articles": [
     {
@@ -182,6 +183,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/cybersecurity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1ulp92c",
+      "title": "Best workouts to get rid of your anterior pelvic tilt?",
+      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1ulp92c/best_workouts_to_get_rid_of_your_anterior_pelvic/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/bodyweightfitness · community knowledge",
+      "content_type": "post",
+      "author": "u/NoPaleontology · r/bodyweightfitness",
+      "handle": "bodyweightfitness",
+      "org": "r/bodyweightfitness",
+      "platform": "reddit",
+      "published": "2026-07-02T17:48:05.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/bodyweightfitness"
+      ],
+      "summary": "This is a problem I have had for a few years now because I used to just be sitting down for so many years, as a result getting bad posture and an anterior pelvic tilt. Everyday except the weekend, I do pull ups and squats, and try to include glute bridges too. But, it still seems that my anterior pelvic tilt is still…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/bodyweightfitness this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1402,46 +1442,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/hardware this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ujn3u5",
-      "title": "A map of the latest 11 million papers split by semantic similarity and time slices [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1ujn3u5/a_map_of_the_latest_11_million_papers_split_by/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/MachineLearning · community knowledge",
-      "content_type": "post",
-      "author": "u/icannotchangethename · r/MachineLearning",
-      "handle": "MachineLearning",
-      "org": "r/MachineLearning",
-      "platform": "reddit",
-      "published": "2026-06-30T11:55:44.000Z",
-      "image": "https://preview.redd.it/9e8fpnunpeah1.gif?frame=1&width=140&height=78&auto=webp&s=68a24836f34ed9fff665a256af988dc497a57acc",
-      "thumbnail": "https://preview.redd.it/9e8fpnunpeah1.gif?frame=1&width=140&height=78&auto=webp&s=68a24836f34ed9fff665a256af988dc497a57acc",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/MachineLearning"
-      ],
-      "summary": "I am building alternative ways explore scientifc literature. The goal was to make the large number of papers published daily easier to keep up with by visualising the macro scopic trend. It is free to use at The Global Research Space for any one interested in giving it a try! How I built it I sourced the latest 11M…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/MachineLearning this week"
       ],
       "metrics": {
         "likes": 0,
