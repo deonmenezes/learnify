@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-04T19:49:22.138Z",
+  "generated_at": "2026-07-04T21:05:26.314Z",
   "subs": [
     "MachineLearning",
-    "Fitness",
+    "longevity",
     "hardware",
     "robotics",
     "startups",
@@ -15,19 +15,19 @@
     "investing",
     "netsec",
     "singularity",
-    "longevity",
     "Futurology",
+    "Fitness",
     "artificial",
     "nutrition"
   ],
   "count": 36,
   "by_category": {
     "Robotics": 4,
+    "Science": 7,
     "Startups & Funding": 4,
     "Hardware & Gadgets": 5,
     "Coding & Dev Tools": 3,
-    "Science": 6,
-    "Security": 5,
+    "Security": 4,
     "Fitness": 3,
     "Skincare": 2,
     "AI / ML": 4
@@ -65,6 +65,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/robotics this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1umg5i9",
+      "title": "Moonshots to Rewrite Aging - ARPA-H and XPrize Healthspan Approaches to Medically Targeting Aging",
+      "link": "https://www.reddit.com/r/longevity/comments/1umg5i9/moonshots_to_rewrite_aging_arpah_and_xprize/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/longevity · community knowledge",
+      "content_type": "post",
+      "author": "u/towngrizzlytown · r/longevity",
+      "handle": "longevity",
+      "org": "r/longevity",
+      "platform": "reddit",
+      "published": "2026-07-03T14:35:20.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Science",
+      "category": "Science",
+      "genre": "Longevity",
+      "categories": [
+        "Reddit",
+        "Science",
+        "Longevity",
+        "r/longevity"
+      ],
+      "summary": "ARPA-H was established in 2022 and approved two programs in 2024 led by researchers in this field: PROSPR aims to establish biomarkers and clinical indications of aging, i.e. &quot;intrinsic capacity&quot; and run FDA-approved clinical trials to build the rail lines for future preventative trials against aging,…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/longevity this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1402,45 +1442,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/nutrition this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ujzc5y",
-      "title": "CitrixBleed To Infinity And Beyond (Citrix NetScaler Pre-Auth Memory Overread CVE-2026-8451) - watchTowr Labs",
-      "link": "https://www.reddit.com/r/netsec/comments/1ujzc5y/citrixbleed_to_infinity_and_beyond_citrix/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/netsec · community knowledge",
-      "content_type": "post",
-      "author": "u/dx7r__ · r/netsec",
-      "handle": "netsec",
-      "org": "r/netsec",
-      "platform": "reddit",
-      "published": "2026-06-30T19:40:48.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/netsec"
-      ],
-      "summary": "CitrixBleed To Infinity And Beyond (Citrix NetScaler Pre-Auth Memory Overread CVE-2026-8451) - watchTowr Labs",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/netsec this week"
       ],
       "metrics": {
         "likes": 0,
