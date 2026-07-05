@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-05T19:56:00.681Z",
+  "generated_at": "2026-07-05T21:09:13.273Z",
   "subs": [
     "MachineLearning",
+    "bodyweightfitness",
+    "startups",
     "artificial",
-    "nutrition",
-    "investing",
     "running",
+    "nutrition",
     "robotics",
     "longevity",
     "singularity",
-    "startups",
     "gadgets",
     "SkincareAddiction",
     "programming",
-    "bodyweightfitness",
+    "investing",
     "science",
     "cybersecurity",
     "netsec",
@@ -22,17 +22,56 @@
   ],
   "count": 36,
   "by_category": {
+    "Fitness": 6,
     "AI / ML": 6,
-    "Fitness": 5,
     "Robotics": 2,
     "Science": 5,
     "Startups & Funding": 6,
-    "Hardware & Gadgets": 5,
+    "Hardware & Gadgets": 4,
     "Skincare": 2,
     "Coding & Dev Tools": 2,
     "Security": 3
   },
   "articles": [
+    {
+      "id": "reddit_1uo5g6c",
+      "title": "Just found out I’ve been doing pushups wrong my whole life",
+      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1uo5g6c/just_found_out_ive_been_doing_pushups_wrong_my/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/bodyweightfitness · community knowledge",
+      "content_type": "post",
+      "author": "u/FlyingSpacefrog · r/bodyweightfitness",
+      "handle": "bodyweightfitness",
+      "org": "r/bodyweightfitness",
+      "platform": "reddit",
+      "published": "2026-07-05T15:45:17.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/bodyweightfitness"
+      ],
+      "summary": "Basically, I’ve been doing my pushups with my arms at a 90 degree angle from my torso so my body looks like a T. After doing 100-150 pushups twice a week for several weeks (started at 5 sets of 20 and worked my way up to 5 sets of 30) I was starting to wonder why my chest wasn’t getting any bigger or stronger, and…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/bodyweightfitness this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1ungqh7",
       "title": "Meta Paid Hundreds of Contractors to Pretend to Be Teenagers While Barraging Its Competitors’ AI With Disturbing Content",
@@ -1407,45 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Futurology this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ukklak",
-      "title": "Sony is killing all physical PlayStation game discs - New games released after January 2028 will be digital-only",
-      "link": "https://www.reddit.com/r/gadgets/comments/1ukklak/sony_is_killing_all_physical_playstation_game/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/gadgets · community knowledge",
-      "content_type": "post",
-      "author": "u/ReaddittiddeR · r/gadgets",
-      "handle": "gadgets",
-      "org": "r/gadgets",
-      "platform": "reddit",
-      "published": "2026-07-01T12:41:28.000Z",
-      "image": "https://external-preview.redd.it/xHBh4SicDr8rBa_e7UEOqpjy4Iquc03WLVuCea33Rm0.jpeg?width=640&crop=smart&auto=webp&s=6cfda4885b02fb9bf26b285d89f93a0aba9fe9e6",
-      "thumbnail": "https://external-preview.redd.it/xHBh4SicDr8rBa_e7UEOqpjy4Iquc03WLVuCea33Rm0.jpeg?width=640&crop=smart&auto=webp&s=6cfda4885b02fb9bf26b285d89f93a0aba9fe9e6",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/gadgets"
-      ],
-      "summary": "Sony is killing all physical PlayStation game discs - New games released after January 2028 will be digital-only",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/gadgets this week"
       ],
       "metrics": {
         "likes": 0,
