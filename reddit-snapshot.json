@@ -1,16 +1,17 @@
 {
-  "generated_at": "2026-07-04T23:39:54.867Z",
+  "generated_at": "2026-07-05T03:48:05.262Z",
   "subs": [
     "MachineLearning",
-    "singularity",
-    "SkincareAddiction",
+    "artificial",
+    "running",
+    "investing",
     "robotics",
     "longevity",
-    "artificial",
+    "singularity",
     "startups",
     "gadgets",
+    "SkincareAddiction",
     "programming",
-    "investing",
     "science",
     "cybersecurity",
     "bodyweightfitness",
@@ -21,6 +22,7 @@
   ],
   "count": 36,
   "by_category": {
+    "Fitness": 3,
     "Robotics": 3,
     "Science": 6,
     "AI / ML": 5,
@@ -28,10 +30,48 @@
     "Hardware & Gadgets": 5,
     "Skincare": 2,
     "Coding & Dev Tools": 3,
-    "Security": 4,
-    "Fitness": 2
+    "Security": 3
   },
   "articles": [
+    {
+      "id": "reddit_1un020j",
+      "title": "Achievements for Saturday, July 04, 2026",
+      "link": "https://www.reddit.com/r/running/comments/1un020j/achievements_for_saturday_july_04_2026/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/running · community knowledge",
+      "content_type": "post",
+      "author": "u/AutoModerator · r/running",
+      "handle": "running",
+      "org": "r/running",
+      "platform": "reddit",
+      "published": "2026-07-04T05:02:05.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/running"
+      ],
+      "summary": "Hey runners, it&#39;s another day and it is time to post your accomplishments you&#39;d like to share - big or small. Note: No need to preface YOUR accomplishments with something like, &quot;this may not be an accomplishment to most of you...&quot;. Be proud of your achievement. &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/running this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1umskd5",
       "title": "Lesson learned: easy-to-access off switch is important",
@@ -1404,45 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/robotics this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ukhvhq",
-      "title": "Apple ‘Hide My Email’ Vulnerability Reveals Peoples’ Real Email Addresses",
-      "link": "https://www.reddit.com/r/cybersecurity/comments/1ukhvhq/apple_hide_my_email_vulnerability_reveals_peoples/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/cybersecurity · community knowledge",
-      "content_type": "post",
-      "author": "u/rkhunter_ · r/cybersecurity",
-      "handle": "cybersecurity",
-      "org": "r/cybersecurity",
-      "platform": "reddit",
-      "published": "2026-07-01T10:29:35.000Z",
-      "image": "https://external-preview.redd.it/mhpU7cqH9b8J3U_3xAqfK52n5jkkh7Bfa7yCj6ZAsn0.jpeg?width=640&crop=smart&auto=webp&s=69620d3a53f3311d9fea4d76c36ae9beccf1aaf4",
-      "thumbnail": "https://external-preview.redd.it/mhpU7cqH9b8J3U_3xAqfK52n5jkkh7Bfa7yCj6ZAsn0.jpeg?width=640&crop=smart&auto=webp&s=69620d3a53f3311d9fea4d76c36ae9beccf1aaf4",
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/cybersecurity"
-      ],
-      "summary": "A vulnerability in Apple’s “Hide My Email” tool lets almost anyone discover a person’s real email address that is supposed to be hidden by the feature, and Apple has failed to fix it for more than a year, according to a security researcher and 404 Media’s own tests. &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/cybersecurity this week"
       ],
       "metrics": {
         "likes": 0,
