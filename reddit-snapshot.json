@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-07-05T03:48:05.262Z",
+  "generated_at": "2026-07-05T07:34:15.151Z",
   "subs": [
     "MachineLearning",
-    "artificial",
-    "running",
-    "investing",
+    "bodyweightfitness",
     "robotics",
+    "running",
     "longevity",
     "singularity",
+    "artificial",
     "startups",
     "gadgets",
     "SkincareAddiction",
     "programming",
+    "investing",
     "science",
     "cybersecurity",
-    "bodyweightfitness",
     "netsec",
     "hardware",
     "nutrition",
@@ -22,8 +22,8 @@
   ],
   "count": 36,
   "by_category": {
-    "Fitness": 3,
-    "Robotics": 3,
+    "Fitness": 4,
+    "Robotics": 2,
     "Science": 6,
     "AI / ML": 5,
     "Startups & Funding": 6,
@@ -500,6 +500,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/investing this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1um0e9e",
+      "title": "Can I build serious muscle with just these 6 exercises?",
+      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1um0e9e/can_i_build_serious_muscle_with_just_these_6/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/bodyweightfitness · community knowledge",
+      "content_type": "post",
+      "author": "u/D3mon0fthemist · r/bodyweightfitness",
+      "handle": "bodyweightfitness",
+      "org": "r/bodyweightfitness",
+      "platform": "reddit",
+      "published": "2026-07-03T01:16:41.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/bodyweightfitness"
+      ],
+      "summary": "Thinking about switching to a minimalist fullbody routine 3x/week. Not looking to be a bodybuilder, just build some muscle and improve my physique in a simple, sustainable way. Workout A Pull-ups 4x, Dips 4x, Squats 4x Workout B Bench 4x, Barbell Rows 4x, Romanian Deadlifts 4x Alternating A/B/A then B/A/B. I’m 6’3…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/bodyweightfitness this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1405,45 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/science this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ukhxe9",
-      "title": "Proception has launched its first products, ProHand 1.0 (22 total DoF)",
-      "link": "https://www.reddit.com/r/robotics/comments/1ukhxe9/proception_has_launched_its_first_products/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/robotics · community knowledge",
-      "content_type": "post",
-      "author": "u/Nunki08 · r/robotics",
-      "handle": "robotics",
-      "org": "r/robotics",
-      "platform": "reddit",
-      "published": "2026-07-01T10:32:38.000Z",
-      "image": "https://external-preview.redd.it/YWZ4bDh2b2JpbGFoMbrxG4o1IKV5YkXfOd4MF_XmmNrxi6seDv82X_z7P_th.png?width=640&crop=smart&auto=webp&s=2be33b35a8094fb27d1cd632e153c493563d3e2f",
-      "thumbnail": "https://external-preview.redd.it/YWZ4bDh2b2JpbGFoMbrxG4o1IKV5YkXfOd4MF_XmmNrxi6seDv82X_z7P_th.png?width=640&crop=smart&auto=webp&s=2be33b35a8094fb27d1cd632e153c493563d3e2f",
-      "section": "Robotics",
-      "category": "Robotics",
-      "genre": "Robotics",
-      "categories": [
-        "Reddit",
-        "Robotics",
-        "r/robotics"
-      ],
-      "summary": "From The Humanoid Hub on 𝕏: https://x.com/TheHumanoidHub/status/2072016884460060832 Proception: Website: https://www.proception.ai/ 𝕏: https://x.com/proceptionAI &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/robotics this week"
       ],
       "metrics": {
         "likes": 0,
