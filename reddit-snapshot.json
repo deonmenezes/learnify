@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-05T11:42:05.974Z",
+  "generated_at": "2026-07-05T13:51:00.924Z",
   "subs": [
     "MachineLearning",
-    "LocalLLaMA",
-    "running",
+    "artificial",
+    "nutrition",
     "investing",
+    "running",
     "robotics",
     "longevity",
     "singularity",
-    "artificial",
     "startups",
     "gadgets",
     "SkincareAddiction",
@@ -18,22 +18,61 @@
     "cybersecurity",
     "netsec",
     "hardware",
-    "nutrition",
     "Futurology"
   ],
   "count": 36,
   "by_category": {
-    "Fitness": 4,
+    "AI / ML": 6,
+    "Fitness": 5,
     "Robotics": 2,
-    "Science": 6,
-    "AI / ML": 5,
+    "Science": 5,
     "Startups & Funding": 6,
     "Hardware & Gadgets": 5,
     "Skincare": 2,
-    "Coding & Dev Tools": 3,
+    "Coding & Dev Tools": 2,
     "Security": 3
   },
   "articles": [
+    {
+      "id": "reddit_1ungqh7",
+      "title": "Meta Paid Hundreds of Contractors to Pretend to Be Teenagers While Barraging Its Competitors’ AI With Disturbing Content",
+      "link": "https://www.reddit.com/r/artificial/comments/1ungqh7/meta_paid_hundreds_of_contractors_to_pretend_to/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/artificial · community knowledge",
+      "content_type": "post",
+      "author": "u/esporx · r/artificial",
+      "handle": "artificial",
+      "org": "r/artificial",
+      "platform": "reddit",
+      "published": "2026-07-04T18:44:49.000Z",
+      "image": "https://external-preview.redd.it/yWH03dVtbvwyUJnngUCQyl8_3Q5CkXg5WDw1mWI4sxk.jpeg?width=640&crop=smart&auto=webp&s=aa62c9e3ba0d0f5ef50ed8d5fab09cdecc7aa326",
+      "thumbnail": "https://external-preview.redd.it/yWH03dVtbvwyUJnngUCQyl8_3Q5CkXg5WDw1mWI4sxk.jpeg?width=640&crop=smart&auto=webp&s=aa62c9e3ba0d0f5ef50ed8d5fab09cdecc7aa326",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/artificial"
+      ],
+      "summary": "Meta Paid Hundreds of Contractors to Pretend to Be Teenagers While Barraging Its Competitors’ AI With Disturbing Content",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/artificial this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1un020j",
       "title": "Achievements for Saturday, July 04, 2026",
@@ -66,6 +105,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/running this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1umuh1s",
+      "title": "No preparation, least cost, maximum nutrition. What are you eating for the next month only?",
+      "link": "https://www.reddit.com/r/nutrition/comments/1umuh1s/no_preparation_least_cost_maximum_nutrition_what/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/nutrition · community knowledge",
+      "content_type": "post",
+      "author": "u/Due-Yogurtcloset5149 · r/nutrition",
+      "handle": "nutrition",
+      "org": "r/nutrition",
+      "platform": "reddit",
+      "published": "2026-07-04T00:19:19.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Nutrition",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "Nutrition",
+        "r/nutrition"
+      ],
+      "summary": "Prioritizing by the most *cheapest* possible, then *maximum nutrition* (no problems eating for months), and no preperation (like cooking, can bring to work) How much are you spending a day for your 3 meals the next month? &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/nutrition this week"
       ],
       "metrics": {
         "likes": 0,
@@ -942,6 +1021,46 @@
       }
     },
     {
+      "id": "reddit_1ulgunh",
+      "title": "What do you think about paper fishing? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1ulgunh/what_do_you_think_about_paper_fishing_d/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/MachineLearning · community knowledge",
+      "content_type": "post",
+      "author": "u/impressivestatus21 · r/MachineLearning",
+      "handle": "MachineLearning",
+      "org": "r/MachineLearning",
+      "platform": "reddit",
+      "published": "2026-07-02T12:26:55.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/MachineLearning"
+      ],
+      "summary": "I am working in a research group in Germany, not that well known but in general good output. I have one colleague who does nothing in his PhD. He does not want to work, or he is not able to do any good research, his level is super bad. Plus He doesn’t even care about that. To wrap it up, he is just here for the money.…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1ulfkl2",
       "title": "Hackers shoveled snow for company, were rewarded with network admin access",
       "link": "https://www.reddit.com/r/cybersecurity/comments/1ulfkl2/hackers_shoveled_snow_for_company_were_rewarded/",
@@ -1327,124 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/gadgets this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ukjtlm",
-      "title": "On July 1, 2026, arXiv will spin out from Cornell University, its home for the past 25 years, to become an independent nonprofit organization. Major funding support from Simons Foundation and Schmidt Sciences. Ditching the red for their website. [N]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1ukjtlm/on_july_1_2026_arxiv_will_spin_out_from_cornell/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/MachineLearning · community knowledge",
-      "content_type": "post",
-      "author": "u/Nunki08 · r/MachineLearning",
-      "handle": "MachineLearning",
-      "org": "r/MachineLearning",
-      "platform": "reddit",
-      "published": "2026-07-01T12:07:43.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/MachineLearning"
-      ],
-      "summary": "arXiv’s next chapter: Updates on our spin out from Cornell University: https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/ &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/MachineLearning this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ukim8j",
-      "title": "Open source is a thankless job and I think we've lost the plot on how we treat maintainers",
-      "link": "https://www.reddit.com/r/programming/comments/1ukim8j/open_source_is_a_thankless_job_and_i_think_weve/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/programming · community knowledge",
-      "content_type": "post",
-      "author": "u/swithek · r/programming",
-      "handle": "programming",
-      "org": "r/programming",
-      "platform": "reddit",
-      "published": "2026-07-01T11:09:38.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Coding & Dev Tools",
-      "category": "Coding & Dev Tools",
-      "genre": "Coding & Dev Tools",
-      "categories": [
-        "Reddit",
-        "Coding & Dev Tools",
-        "r/programming"
-      ],
-      "summary": "I saw an issue today on a fairly popular project (better-auth, see the link to the issue attached). No repro, no context, just a wall of caps and profanity ending in &quot;fuck you&quot;. The maintainers ship this for free. People run production businesses on top of it, for free. And the thanks is someone raging into…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/programming this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uki33h",
-      "title": "Conservatives maintain birth rates, but left-leaning Americans are having significantly fewer children, driving the U.S. birth decline. Education was consistently linked to having fewer children. Religious attendance was positively associated with having more children.",
-      "link": "https://www.reddit.com/r/science/comments/1uki33h/conservatives_maintain_birth_rates_but/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/science · community knowledge",
-      "content_type": "post",
-      "author": "u/mvea · r/science",
-      "handle": "science",
-      "org": "r/science",
-      "platform": "reddit",
-      "published": "2026-07-01T10:41:29.000Z",
-      "image": "https://external-preview.redd.it/lH3sZY9w0HJqdXkMQ8ttRcMDoE8UUS7GSAUYye5lr7Y.jpeg?width=640&crop=smart&auto=webp&s=c8093388e6ae2373343cb6ca896f06bb6112d604",
-      "thumbnail": "https://external-preview.redd.it/lH3sZY9w0HJqdXkMQ8ttRcMDoE8UUS7GSAUYye5lr7Y.jpeg?width=640&crop=smart&auto=webp&s=c8093388e6ae2373343cb6ca896f06bb6112d604",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/science"
-      ],
-      "summary": "Conservatives maintain birth rates, but left-leaning Americans are having significantly fewer children, driving the U.S. birth decline. Education was consistently linked to having fewer children. Religious attendance was positively associated with having more children.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/science this week"
       ],
       "metrics": {
         "likes": 0,
