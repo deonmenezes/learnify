@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-07-06T00:13:53.035Z",
+  "generated_at": "2026-07-06T04:56:38.433Z",
   "subs": [
     "MachineLearning",
-    "singularity",
-    "SkincareAddiction",
+    "science",
+    "netsec",
     "bodyweightfitness",
     "artificial",
     "running",
     "nutrition",
     "robotics",
     "longevity",
+    "singularity",
     "startups",
     "gadgets",
+    "SkincareAddiction",
     "programming",
     "investing",
-    "science",
     "cybersecurity",
-    "netsec",
     "hardware"
   ],
   "count": 36,
@@ -24,12 +24,12 @@
     "Fitness": 6,
     "AI / ML": 7,
     "Robotics": 2,
-    "Science": 4,
-    "Startups & Funding": 6,
-    "Hardware & Gadgets": 4,
+    "Science": 5,
+    "Startups & Funding": 5,
+    "Hardware & Gadgets": 3,
     "Skincare": 2,
     "Coding & Dev Tools": 2,
-    "Security": 3
+    "Security": 4
   },
   "articles": [
     {
@@ -222,6 +222,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/robotics this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1umqt3r",
+      "title": "New study demonstrates, for the first time, Chronic Fatigue Syndrome (ME/CFS) has impaired glymphatic function which is responsible for clearing the brain of metabolic waste products and is mostly active during sleep, which can lead to various symptoms including brain fog.",
+      "link": "https://www.reddit.com/r/science/comments/1umqt3r/new_study_demonstrates_for_the_first_time_chronic/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/science · community knowledge",
+      "content_type": "post",
+      "author": "u/mvea · r/science",
+      "handle": "science",
+      "org": "r/science",
+      "platform": "reddit",
+      "published": "2026-07-03T21:33:57.000Z",
+      "image": "https://external-preview.redd.it/s7gJLmMZrm3hBCiDACEg8K1zwSpmw0BTxViZDMHq01k.png?width=640&crop=smart&auto=webp&s=23cc882ac2a4d50be8d4e078d285d0e040f4da9b",
+      "thumbnail": "https://external-preview.redd.it/s7gJLmMZrm3hBCiDACEg8K1zwSpmw0BTxViZDMHq01k.png?width=640&crop=smart&auto=webp&s=23cc882ac2a4d50be8d4e078d285d0e040f4da9b",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/science"
+      ],
+      "summary": "New study demonstrates, for the first time, Chronic Fatigue Syndrome (ME/CFS) has impaired glymphatic function which is responsible for clearing the brain of metabolic waste products and is mostly active during sleep, which can lead to various symptoms including brain fog.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/science this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1335,6 +1374,45 @@
       }
     },
     {
+      "id": "reddit_1uknvr4",
+      "title": "Privilege escalation to root in Lima QEMU guests via a world-writable agent socket (CVE-2026-53657)",
+      "link": "https://www.reddit.com/r/netsec/comments/1uknvr4/privilege_escalation_to_root_in_lima_qemu_guests/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/netsec · community knowledge",
+      "content_type": "post",
+      "author": "u/Sandwich_1337 · r/netsec",
+      "handle": "netsec",
+      "org": "r/netsec",
+      "platform": "reddit",
+      "published": "2026-07-01T14:52:02.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/netsec"
+      ],
+      "summary": "Privilege escalation to root in Lima QEMU guests via a world-writable agent socket (CVE-2026-53657)",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/netsec this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1ukmaj4",
       "title": "If a company releases new shares wont that decrease the value of the shares I own?",
       "link": "https://www.reddit.com/r/investing/comments/1ukmaj4/if_a_company_releases_new_shares_wont_that/",
@@ -1367,85 +1445,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/investing this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uklu4n",
-      "title": "Physical disc production ending in January 2028 for new games releasing on PlayStation consoles",
-      "link": "https://www.reddit.com/r/hardware/comments/1uklu4n/physical_disc_production_ending_in_january_2028/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/hardware · community knowledge",
-      "content_type": "post",
-      "author": "u/DazzlingpAd134 · r/hardware",
-      "handle": "hardware",
-      "org": "r/hardware",
-      "platform": "reddit",
-      "published": "2026-07-01T13:32:36.000Z",
-      "image": "https://external-preview.redd.it/deI5Y96IJzEYfsFag0lNNKud_RN3pE80h3uo-GlMIBE.png?width=70&height=70&auto=webp&s=5cf27458ee09af83bff88b1744a3c15835ae066d",
-      "thumbnail": "https://external-preview.redd.it/deI5Y96IJzEYfsFag0lNNKud_RN3pE80h3uo-GlMIBE.png?width=70&height=70&auto=webp&s=5cf27458ee09af83bff88b1744a3c15835ae066d",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/hardware"
-      ],
-      "summary": "Physical disc production ending in January 2028 for new games releasing on PlayStation consoles",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/hardware this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uklieq",
-      "title": "€2M in bank account, investors want pivot. What and how? I will not promote",
-      "link": "https://www.reddit.com/r/startups/comments/1uklieq/2m_in_bank_account_investors_want_pivot_what_and/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/startups · community knowledge",
-      "content_type": "post",
-      "author": "u/Vast-Pipe1849 · r/startups",
-      "handle": "startups",
-      "org": "r/startups",
-      "platform": "reddit",
-      "published": "2026-07-01T13:19:27.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/startups"
-      ],
-      "summary": "For context we are an AI B2B software that was/is in the space of data analytics and BI. The idea was to allow people ask questions, AI writes code and you get a dashboard, analysis,... in seconds. Did not really work out, growth was stagnant for 1y. Now investors had enough (fair) and want us to heavily pivot. They…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/startups this week"
       ],
       "metrics": {
         "likes": 0,
