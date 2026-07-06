@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T09:06:18.311Z",
+  "generated_at": "2026-07-06T13:09:17.677Z",
   "subs": [
     "MachineLearning",
     "Fitness",
@@ -23,10 +23,10 @@
   "count": 36,
   "by_category": {
     "Fitness": 6,
-    "AI / ML": 7,
+    "AI / ML": 8,
     "Robotics": 2,
     "Science": 5,
-    "Startups & Funding": 5,
+    "Startups & Funding": 4,
     "Hardware & Gadgets": 3,
     "Skincare": 2,
     "Coding & Dev Tools": 2,
@@ -65,6 +65,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/bodyweightfitness this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1unt64q",
+      "title": "If DeepMind or Anthropic is doing your exact research topic, do you still continue? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1unt64q/if_deepmind_or_anthropic_is_doing_your_exact/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/MachineLearning · community knowledge",
+      "content_type": "post",
+      "author": "u/NeighborhoodFatCat · r/MachineLearning",
+      "handle": "MachineLearning",
+      "org": "r/MachineLearning",
+      "platform": "reddit",
+      "published": "2026-07-05T04:54:28.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/MachineLearning"
+      ],
+      "summary": "As someone who is not affiliated with any of the big tech companies, I find it particularly difficult to have the confidence or enthusiasm to approach any ML problem with an attitude that my professors probably had at my stage in life. I&#39;m sure I am not the only one having the following thoughts: &quot;My research…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/MachineLearning this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1406,46 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/netsec this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ukmaj4",
-      "title": "If a company releases new shares wont that decrease the value of the shares I own?",
-      "link": "https://www.reddit.com/r/investing/comments/1ukmaj4/if_a_company_releases_new_shares_wont_that/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/investing · community knowledge",
-      "content_type": "post",
-      "author": "u/No_Obligation4427 · r/investing",
-      "handle": "investing",
-      "org": "r/investing",
-      "platform": "reddit",
-      "published": "2026-07-01T13:51:04.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/investing"
-      ],
-      "summary": "When more shares are available are available there is more supply. Have a higher supply drives prices down (supply and demand). So wont the shares i own go down in value or not go up as much when they otherwise would have? I must be missing though because if this was true why would shareholders allow more shares to be…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/investing this week"
       ],
       "metrics": {
         "likes": 0,
