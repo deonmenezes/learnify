@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T13:07:04.616Z",
+  "generated_at": "2026-07-06T16:40:20.682Z",
   "handles": [
     "nvidia",
     "GoogleDeepMind",
@@ -10,6 +10,89 @@
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2074161704456356216",
+      "title": "Open models are becoming the foundation for modern AI research. At #ICML2026, 145 accepted papers cite NVIDIA Nemotron models and datasets, 74 NVIDIA papers were accepted, and ~2,000 accepted papers…",
+      "link": "https://x.com/nvidia/status/2074161704456356216",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-07-06T16:01:01.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Research",
+        "ICML2026"
+      ],
+      "summary": "Open models are becoming the foundation for modern AI research. At #ICML2026, 145 accepted papers cite NVIDIA Nemotron models and datasets, 74 NVIDIA papers were accepted, and ~2,000 accepted papers cite NVIDIA GPUs.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 87,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "tech substance (models, nemotron, research)"
+      ],
+      "metrics": {
+        "likes": 109,
+        "retweets": 11,
+        "replies": 21,
+        "likes_h": "109"
+      },
+      "engagement": 152,
+      "hot": false
+    },
+    {
+      "id": "x_2074157282477154597",
+      "title": "As @Apptronik expands their Robot Park facility, our research partnership means real-world data collected by the latest Apollo 2 humanoid platform will help train and advance Gemini Robotics. 🤖 Find…",
+      "link": "https://x.com/GoogleDeepMind/status/2074157282477154597",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Google DeepMind · @GoogleDeepMind",
+      "handle": "GoogleDeepMind",
+      "org": "Google",
+      "published": "2026-07-06T15:43:26.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "Google",
+        "Research"
+      ],
+      "summary": "As @Apptronik expands their Robot Park facility, our research partnership means real-world data collected by the latest Apollo 2 humanoid platform will help train and advance Gemini Robotics. 🤖 Find out more → https://goo.gle/4vOPwpO",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 100,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (gemini, research, robotics)",
+        "business signal (partnership)",
+        "links to a source"
+      ],
+      "metrics": {
+        "likes": 155,
+        "retweets": 21,
+        "replies": 25,
+        "likes_h": "155"
+      },
+      "engagement": 222,
+      "hot": false
+    },
     {
       "id": "x_2073423446290092458",
       "title": "Happy 250th birthday, America! Founded in Silicon Valley over three decades ago, NVIDIA's roots in American innovation run deep. Today, we're proud to partner with the companies, scientists,…",
@@ -43,12 +126,12 @@
         "high engagement (2.1K likes)"
       ],
       "metrics": {
-        "likes": 2052,
-        "retweets": 196,
+        "likes": 2060,
+        "retweets": 197,
         "replies": 90,
         "likes_h": "2.1K"
       },
-      "engagement": 2534,
+      "engagement": 2544,
       "hot": false
     },
     {
@@ -86,12 +169,12 @@
         "high engagement (1.4K likes)"
       ],
       "metrics": {
-        "likes": 1368,
+        "likes": 1371,
         "retweets": 157,
-        "replies": 107,
+        "replies": 108,
         "likes_h": "1.4K"
       },
-      "engagement": 1789,
+      "engagement": 1793,
       "hot": false
     },
     {
@@ -416,12 +499,12 @@
         "high engagement (1.1K likes)"
       ],
       "metrics": {
-        "likes": 1104,
-        "retweets": 193,
-        "replies": 95,
+        "likes": 1106,
+        "retweets": 194,
+        "replies": 96,
         "likes_h": "1.1K"
       },
-      "engagement": 1585,
+      "engagement": 1590,
       "hot": false
     },
     {
@@ -1247,90 +1330,6 @@
         "likes_h": "254"
       },
       "engagement": 346,
-      "hot": false
-    },
-    {
-      "id": "x_2070183531612172697",
-      "title": "We're joining @raiseus_ai as a founding partner. RAISE US is a nonprofit coalition working to strengthen the American workforce through employer-led action, AI-enabled training, and policy innovation…",
-      "link": "https://x.com/AnthropicAI/status/2070183531612172697",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Anthropic · @AnthropicAI",
-      "handle": "AnthropicAI",
-      "org": "Anthropic",
-      "published": "2026-06-25T16:33:10.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "Anthropic",
-        "Research"
-      ],
-      "summary": "We're joining @raiseus_ai as a founding partner. RAISE US is a nonprofit coalition working to strengthen the American workforce through employer-led action, AI-enabled training, and policy innovation to support the transition to transformative AI.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 74,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (training)",
-        "high engagement (3.2K likes)"
-      ],
-      "metrics": {
-        "likes": 3224,
-        "retweets": 219,
-        "replies": 251,
-        "likes_h": "3.2K"
-      },
-      "engagement": 3913,
-      "hot": false
-    },
-    {
-      "id": "x_2070180509523546481",
-      "title": "Gemini 3.5 Flash now supports native computer use. This built-in tool lets developers build custom agents that can see and take action across browser, mobile, and desktop interfaces. Find out more →…",
-      "link": "https://x.com/GoogleDeepMind/status/2070180509523546481",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Google DeepMind · @GoogleDeepMind",
-      "handle": "GoogleDeepMind",
-      "org": "Google",
-      "published": "2026-06-25T16:21:10.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "Google",
-        "Product"
-      ],
-      "summary": "Gemini 3.5 Flash now supports native computer use. This built-in tool lets developers build custom agents that can see and take action across browser, mobile, and desktop interfaces. Find out more → https://goo.gle/4f4sNQA",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 80,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "casual tone (this)",
-        "tech substance (gemini, agents)",
-        "links to a source",
-        "high engagement (1K likes)"
-      ],
-      "metrics": {
-        "likes": 1019,
-        "retweets": 128,
-        "replies": 79,
-        "likes_h": "1K"
-      },
-      "engagement": 1354,
       "hot": false
     }
   ]

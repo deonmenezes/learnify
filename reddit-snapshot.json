@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-07-06T13:09:17.677Z",
+  "generated_at": "2026-07-06T16:42:34.338Z",
   "subs": [
     "MachineLearning",
-    "Fitness",
-    "robotics",
+    "Futurology",
+    "gadgets",
     "bodyweightfitness",
     "artificial",
     "running",
     "nutrition",
+    "robotics",
     "science",
     "longevity",
     "singularity",
     "startups",
-    "gadgets",
     "SkincareAddiction",
     "programming",
     "investing",
@@ -22,17 +22,56 @@
   ],
   "count": 36,
   "by_category": {
+    "Hardware & Gadgets": 5,
     "Fitness": 6,
-    "AI / ML": 8,
+    "AI / ML": 7,
+    "Science": 6,
     "Robotics": 2,
-    "Science": 5,
     "Startups & Funding": 4,
-    "Hardware & Gadgets": 3,
     "Skincare": 2,
-    "Coding & Dev Tools": 2,
-    "Security": 4
+    "Coding & Dev Tools": 1,
+    "Security": 3
   },
   "articles": [
+    {
+      "id": "reddit_1uondq5",
+      "title": "Motorola officially details new phone with 3.5mm headphone jack before launch",
+      "link": "https://www.reddit.com/r/gadgets/comments/1uondq5/motorola_officially_details_new_phone_with_35mm/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/gadgets · community knowledge",
+      "content_type": "post",
+      "author": "u/dapperlemon · r/gadgets",
+      "handle": "gadgets",
+      "org": "r/gadgets",
+      "platform": "reddit",
+      "published": "2026-07-06T04:40:21.000Z",
+      "image": "https://external-preview.redd.it/hrgkeLP5dd7ivIqpL4VfaWYgUe9hbMwzKcqMRzQOFcQ.png?width=640&crop=smart&auto=webp&s=db3776e4861ef6cf81edef0ad09cb70e67e9c594",
+      "thumbnail": "https://external-preview.redd.it/hrgkeLP5dd7ivIqpL4VfaWYgUe9hbMwzKcqMRzQOFcQ.png?width=640&crop=smart&auto=webp&s=db3776e4861ef6cf81edef0ad09cb70e67e9c594",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/gadgets"
+      ],
+      "summary": "Motorola officially details new phone with 3.5mm headphone jack before launch",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/gadgets this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1uo5g6c",
       "title": "Just found out I’ve been doing pushups wrong my whole life",
@@ -113,6 +152,45 @@
       }
     },
     {
+      "id": "reddit_1unrbb6",
+      "title": "The Paper Boy S3 is a Game Boy clone with an E Ink touchscreen.",
+      "link": "https://www.reddit.com/r/gadgets/comments/1unrbb6/the_paper_boy_s3_is_a_game_boy_clone_with_an_e/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/gadgets · community knowledge",
+      "content_type": "post",
+      "author": "u/dapperlemon · r/gadgets",
+      "handle": "gadgets",
+      "org": "r/gadgets",
+      "platform": "reddit",
+      "published": "2026-07-05T03:10:39.000Z",
+      "image": "https://external-preview.redd.it/QcBe_r1PpFG6oT2WJdrzYWkp9FfMqOFTFgj-4kqL_AI.jpeg?width=640&crop=smart&auto=webp&s=a585a22875f690215ad33ff18288b3c9eb8a09d0",
+      "thumbnail": "https://external-preview.redd.it/QcBe_r1PpFG6oT2WJdrzYWkp9FfMqOFTFgj-4kqL_AI.jpeg?width=640&crop=smart&auto=webp&s=a585a22875f690215ad33ff18288b3c9eb8a09d0",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/gadgets"
+      ],
+      "summary": "The Paper Boy S3 is a Game Boy clone with an E Ink touchscreen.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/gadgets this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1ungqh7",
       "title": "Meta Paid Hundreds of Contractors to Pretend to Be Teenagers While Barraging Its Competitors’ AI With Disturbing Content",
       "link": "https://www.reddit.com/r/artificial/comments/1ungqh7/meta_paid_hundreds_of_contractors_to_pretend_to/",
@@ -153,6 +231,45 @@
       }
     },
     {
+      "id": "reddit_1un7ghm",
+      "title": "Germany, France, Spain, Britain … a growing number of European countries are banning Palantir. This means two major assumptions propping up the US economy are disappearing, too.",
+      "link": "https://www.reddit.com/r/Futurology/comments/1un7ghm/germany_france_spain_britain_a_growing_number_of/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/Futurology · community knowledge",
+      "content_type": "post",
+      "author": "u/lughnasadh · r/Futurology",
+      "handle": "Futurology",
+      "org": "r/Futurology",
+      "platform": "reddit",
+      "published": "2026-07-04T12:09:46.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/Futurology"
+      ],
+      "summary": "&quot;France’s domestic intelligence service is to ditch AI data tools from the US tech company Palantir in favour of a domestic provider in an effort to avoid &#39;strategic dependency” the prime minister, Sébastien Lecornu, has said. “We must use our own AI models; we cannot accept new strategic dependencies in ‌the…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/Futurology this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1un020j",
       "title": "Achievements for Saturday, July 04, 2026",
       "link": "https://www.reddit.com/r/running/comments/1un020j/achievements_for_saturday_july_04_2026/",
@@ -184,6 +301,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/running this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1umylvz",
+      "title": "US residents angry at datacenters ‘being shoved down our throats’ are recalling officials",
+      "link": "https://www.reddit.com/r/Futurology/comments/1umylvz/us_residents_angry_at_datacenters_being_shoved/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/Futurology · community knowledge",
+      "content_type": "post",
+      "author": "u/Gari_305 · r/Futurology",
+      "handle": "Futurology",
+      "org": "r/Futurology",
+      "platform": "reddit",
+      "published": "2026-07-04T03:45:45.000Z",
+      "image": "https://external-preview.redd.it/Uhw8EiR_c21ctsniFXaAjT5Lcp_OAbRM82d6DUz4-Ow.jpeg?width=640&crop=smart&auto=webp&s=79e847bbf7628bf213ef386944462319a401fa59",
+      "thumbnail": "https://external-preview.redd.it/Uhw8EiR_c21ctsniFXaAjT5Lcp_OAbRM82d6DUz4-Ow.jpeg?width=640&crop=smart&auto=webp&s=79e847bbf7628bf213ef386944462319a401fa59",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/Futurology"
+      ],
+      "summary": "People across the country are pushing for moratoriums, and electeds who approve projects are being punished &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/Futurology this week"
       ],
       "metrics": {
         "likes": 0,
@@ -784,6 +940,45 @@
       }
     },
     {
+      "id": "reddit_1ulrhvf",
+      "title": "Britain becomes the latest country where EVs now outsell gasoline cars.",
+      "link": "https://www.reddit.com/r/Futurology/comments/1ulrhvf/britain_becomes_the_latest_country_where_evs_now/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/Futurology · community knowledge",
+      "content_type": "post",
+      "author": "u/lughnasadh · r/Futurology",
+      "handle": "Futurology",
+      "org": "r/Futurology",
+      "platform": "reddit",
+      "published": "2026-07-02T19:08:45.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/Futurology"
+      ],
+      "summary": "As the Middle East war rumbles on, the petroleum that made the region so important, begins to fade in importance. Who will still be buying new gasoline cars in 2030? A tiny number of people, and the fleet that is left on the road will be aging, and decreasing in resale value. Analysis: UK sales of electric vehicles…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/Futurology this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1ulr47k",
       "title": "Burnham set to ditch Palantir from NHS",
       "link": "https://www.reddit.com/r/cybersecurity/comments/1ulr47k/burnham_set_to_ditch_palantir_from_nhs/",
@@ -1249,203 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/gadgets this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ukyivq",
-      "title": "Billions of doses later: Global review confirms mRNA vaccines are safe, effective and full of promise. Comprehensive review brings together global evidence to strengthen public trust and counter misinformation as mRNA vaccines expand to prevent and treat more diseases.",
-      "link": "https://www.reddit.com/r/science/comments/1ukyivq/billions_of_doses_later_global_review_confirms/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/science · community knowledge",
-      "content_type": "post",
-      "author": "u/mvea · r/science",
-      "handle": "science",
-      "org": "r/science",
-      "platform": "reddit",
-      "published": "2026-07-01T21:22:36.000Z",
-      "image": "https://external-preview.redd.it/ertiuBfDBlaQ6_Xjn85WkI0w1zjLYqJ6zSB1DprRF3I.jpeg?width=640&crop=smart&auto=webp&s=5c3581d4741ec0509a32d2950afb29c9d6a2734c",
-      "thumbnail": "https://external-preview.redd.it/ertiuBfDBlaQ6_Xjn85WkI0w1zjLYqJ6zSB1DprRF3I.jpeg?width=640&crop=smart&auto=webp&s=5c3581d4741ec0509a32d2950afb29c9d6a2734c",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/science"
-      ],
-      "summary": "Billions of doses later: Global review confirms mRNA vaccines are safe, effective and full of promise. Comprehensive review brings together global evidence to strengthen public trust and counter misinformation as mRNA vaccines expand to prevent and treat more diseases.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/science this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ukuzcz",
-      "title": "Bactererial Signatures of Extreme Longevity",
-      "link": "https://www.reddit.com/r/longevity/comments/1ukuzcz/bactererial_signatures_of_extreme_longevity/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/longevity · community knowledge",
-      "content_type": "post",
-      "author": "u/dan_in_ca · r/longevity",
-      "handle": "longevity",
-      "org": "r/longevity",
-      "platform": "reddit",
-      "published": "2026-07-01T19:11:11.000Z",
-      "image": "https://external-preview.redd.it/Qvho_C2l1d0tCTV1xrsRtL4FN5QgZFG-p-AjbeRpR1I.jpeg?width=640&crop=smart&auto=webp&s=983a3484b8001bb17a93f9ee8cb52020182b57fb",
-      "thumbnail": "https://external-preview.redd.it/Qvho_C2l1d0tCTV1xrsRtL4FN5QgZFG-p-AjbeRpR1I.jpeg?width=640&crop=smart&auto=webp&s=983a3484b8001bb17a93f9ee8cb52020182b57fb",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Longevity",
-      "categories": [
-        "Reddit",
-        "Science",
-        "Longevity",
-        "r/longevity"
-      ],
-      "summary": "Bactererial Signatures of Extreme Longevity",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/longevity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ukuahd",
-      "title": "Anthropic is on a mission rn to make AGI team",
-      "link": "https://www.reddit.com/r/singularity/comments/1ukuahd/anthropic_is_on_a_mission_rn_to_make_agi_team/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/singularity · community knowledge",
-      "content_type": "post",
-      "author": "u/Independent-Wind4462 · r/singularity",
-      "handle": "singularity",
-      "org": "r/singularity",
-      "platform": "reddit",
-      "published": "2026-07-01T18:46:14.000Z",
-      "image": "https://preview.redd.it/3514i28yynah1.jpeg?width=640&crop=smart&auto=webp&s=e4d1b36bf23e41a6488d270e96e728c7b093daba",
-      "thumbnail": "https://preview.redd.it/3514i28yynah1.jpeg?width=640&crop=smart&auto=webp&s=e4d1b36bf23e41a6488d270e96e728c7b093daba",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/singularity"
-      ],
-      "summary": "Anthropic is on a mission rn to make AGI team",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/singularity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ukr5cc",
-      "title": "GitHub Stacked PRs",
-      "link": "https://www.reddit.com/r/programming/comments/1ukr5cc/github_stacked_prs/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/programming · community knowledge",
-      "content_type": "post",
-      "author": "u/fagnerbrack · r/programming",
-      "handle": "programming",
-      "org": "r/programming",
-      "platform": "reddit",
-      "published": "2026-07-01T16:51:40.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Coding & Dev Tools",
-      "category": "Coding & Dev Tools",
-      "genre": "Coding & Dev Tools",
-      "categories": [
-        "Reddit",
-        "Coding & Dev Tools",
-        "r/programming"
-      ],
-      "summary": "GitHub Stacked PRs",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/programming this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uknvr4",
-      "title": "Privilege escalation to root in Lima QEMU guests via a world-writable agent socket (CVE-2026-53657)",
-      "link": "https://www.reddit.com/r/netsec/comments/1uknvr4/privilege_escalation_to_root_in_lima_qemu_guests/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/netsec · community knowledge",
-      "content_type": "post",
-      "author": "u/Sandwich_1337 · r/netsec",
-      "handle": "netsec",
-      "org": "r/netsec",
-      "platform": "reddit",
-      "published": "2026-07-01T14:52:02.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/netsec"
-      ],
-      "summary": "Privilege escalation to root in Lima QEMU guests via a world-writable agent socket (CVE-2026-53657)",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/netsec this week"
       ],
       "metrics": {
         "likes": 0,
