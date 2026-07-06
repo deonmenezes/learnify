@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T22:19:44.898Z",
+  "generated_at": "2026-07-06T23:40:43.346Z",
   "handles": [
     "nvidia",
     "GoogleDeepMind",
@@ -10,6 +10,46 @@
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2074191650792902838",
+      "title": "🌍 At the #AIforGood Summit in Geneva, we are helping shape how AI is built for global impact. From closing the infrastructure gap and expanding access to compute to advancing digital trust in an era…",
+      "link": "https://x.com/nvidia/status/2074191650792902838",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-07-06T18:00:00.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Commentary",
+        "AIforGood"
+      ],
+      "summary": "🌍 At the #AIforGood Summit in Geneva, we are helping shape how AI is built for global impact. From closing the infrastructure gap and expanding access to compute to advancing digital trust in an era of autonomous systems, we are working with leaders across sectors to ensure AI",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 55,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy"
+      ],
+      "metrics": {
+        "likes": 96,
+        "retweets": 10,
+        "replies": 17,
+        "likes_h": "96"
+      },
+      "engagement": 133,
+      "hot": false
+    },
     {
       "id": "x_2074161704456356216",
       "title": "Open models are becoming the foundation for modern AI research. At #ICML2026, 145 accepted papers cite NVIDIA Nemotron models and datasets, 74 NVIDIA papers were accepted, and ~2,000 accepted papers…",
@@ -35,7 +75,7 @@
       "summary": "Open models are becoming the foundation for modern AI research. At #ICML2026, 145 accepted papers cite NVIDIA Nemotron models and datasets, 74 NVIDIA papers were accepted, and ~2,000 accepted papers cite NVIDIA GPUs.",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 87,
+      "worthiness_score": 90,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -43,12 +83,12 @@
         "tech substance (models, nemotron, research)"
       ],
       "metrics": {
-        "likes": 109,
-        "retweets": 11,
-        "replies": 21,
-        "likes_h": "109"
+        "likes": 316,
+        "retweets": 41,
+        "replies": 37,
+        "likes_h": "316"
       },
-      "engagement": 152,
+      "engagement": 435,
       "hot": false
     },
     {
@@ -85,12 +125,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 155,
-        "retweets": 21,
-        "replies": 25,
-        "likes_h": "155"
+        "likes": 444,
+        "retweets": 65,
+        "replies": 53,
+        "likes_h": "444"
       },
-      "engagement": 222,
+      "engagement": 627,
       "hot": false
     },
     {
@@ -126,12 +166,12 @@
         "high engagement (2.1K likes)"
       ],
       "metrics": {
-        "likes": 2060,
-        "retweets": 197,
-        "replies": 90,
+        "likes": 2063,
+        "retweets": 196,
+        "replies": 91,
         "likes_h": "2.1K"
       },
-      "engagement": 2544,
+      "engagement": 2546,
       "hot": false
     },
     {
@@ -169,12 +209,12 @@
         "high engagement (1.4K likes)"
       ],
       "metrics": {
-        "likes": 1371,
+        "likes": 1377,
         "retweets": 157,
         "replies": 108,
         "likes_h": "1.4K"
       },
-      "engagement": 1793,
+      "engagement": 1799,
       "hot": false
     },
     {
@@ -248,12 +288,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 483,
+        "likes": 482,
         "retweets": 79,
         "replies": 29,
-        "likes_h": "483"
+        "likes_h": "482"
       },
-      "engagement": 670,
+      "engagement": 669,
       "hot": false
     },
     {
@@ -499,12 +539,12 @@
         "high engagement (1.1K likes)"
       ],
       "metrics": {
-        "likes": 1106,
+        "likes": 1107,
         "retweets": 194,
         "replies": 96,
         "likes_h": "1.1K"
       },
-      "engagement": 1590,
+      "engagement": 1591,
       "hot": false
     },
     {
@@ -1290,46 +1330,6 @@
         "likes_h": "5.4K"
       },
       "engagement": 6675,
-      "hot": false
-    },
-    {
-      "id": "x_2070186658289308065",
-      "title": "Walk the #BIO2026 show floor with Kimberly Powell, NVIDIA VP of Healthcare, as she shares what’s exciting about the latest BioNeMo toolkit announcement. BioNeMo is helping bring AI-driven biology and…",
-      "link": "https://x.com/nvidia/status/2070186658289308065",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-25T16:45:36.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Commentary",
-        "BIO2026"
-      ],
-      "summary": "Walk the #BIO2026 show floor with Kimberly Powell, NVIDIA VP of Healthcare, as she shares what’s exciting about the latest BioNeMo toolkit announcement. BioNeMo is helping bring AI-driven biology and drug discovery closer to the next experiment, with tools for researchers and",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 57,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy"
-      ],
-      "metrics": {
-        "likes": 254,
-        "retweets": 35,
-        "replies": 22,
-        "likes_h": "254"
-      },
-      "engagement": 346,
       "hot": false
     }
   ]
