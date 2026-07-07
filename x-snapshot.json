@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T23:40:43.346Z",
+  "generated_at": "2026-07-07T03:44:22.722Z",
   "handles": [
+    "AnthropicAI",
+    "OpenAI",
     "nvidia",
     "GoogleDeepMind",
-    "AnthropicAI",
     "elonmusk",
-    "OpenAI",
     "gdb"
   ],
   "count": 32,
@@ -49,6 +49,257 @@
       },
       "engagement": 133,
       "hot": false
+    },
+    {
+      "id": "x_2074185390060110138",
+      "title": "We also partnered with Neuronpedia to create an interactive demo of our methods on open-weights models. Try it here: http://neuronpedia.org/jlens",
+      "link": "https://x.com/AnthropicAI/status/2074185390060110138",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Anthropic · @AnthropicAI",
+      "handle": "AnthropicAI",
+      "org": "Anthropic",
+      "published": "2026-07-06T17:35:08.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "Anthropic",
+        "Product"
+      ],
+      "summary": "We also partnered with Neuronpedia to create an interactive demo of our methods on open-weights models. Try it here: http://neuronpedia.org/jlens",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 61,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "reply / conversation",
+        "tech substance (models, weights)",
+        "links to a source"
+      ],
+      "metrics": {
+        "likes": 752,
+        "retweets": 51,
+        "replies": 27,
+        "likes_h": "752"
+      },
+      "engagement": 881,
+      "hot": false
+    },
+    {
+      "id": "x_2074185387577094398",
+      "title": "The J-space lets us read, audit, and shape what Claude is actively thinking about—useful tools for keeping models trustworthy as they grow more capable. And it suggests surprising parallels between…",
+      "link": "https://x.com/AnthropicAI/status/2074185387577094398",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Anthropic · @AnthropicAI",
+      "handle": "AnthropicAI",
+      "org": "Anthropic",
+      "published": "2026-07-06T17:35:07.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "Anthropic",
+        "Research"
+      ],
+      "summary": "The J-space lets us read, audit, and shape what Claude is actively thinking about—useful tools for keeping models trustworthy as they grow more capable. And it suggests surprising parallels between language models and our own minds. Read the full paper: http://transformer-circuits.pub/2026/workspace/index.html",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 65,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "reply / conversation",
+        "tech substance (models, claude, paper)",
+        "links to a source"
+      ],
+      "metrics": {
+        "likes": 592,
+        "retweets": 43,
+        "replies": 15,
+        "likes_h": "592"
+      },
+      "engagement": 693,
+      "hot": false
+    },
+    {
+      "id": "x_2074185368061026745",
+      "title": "For most things, Claude actually doesn’t need its J-space. If we delete the J-space, Claude still speaks fluently, recalls facts, and classifies text—but becomes bad at some tasks like multi-step…",
+      "link": "https://x.com/AnthropicAI/status/2074185368061026745",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Anthropic · @AnthropicAI",
+      "handle": "AnthropicAI",
+      "org": "Anthropic",
+      "published": "2026-07-06T17:35:02.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "Anthropic",
+        "Research"
+      ],
+      "summary": "For most things, Claude actually doesn’t need its J-space. If we delete the J-space, Claude still speaks fluently, recalls facts, and classifies text—but becomes bad at some tasks like multi-step reasoning. It’s similar to deliberate vs. automatic processing in human cognition.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 55,
+      "sentiment": "negative",
+      "sentiment_score": -0.5,
+      "reasons": [
+        "report-worthy",
+        "reply / conversation",
+        "tech substance (claude, reasoning)"
+      ],
+      "metrics": {
+        "likes": 773,
+        "retweets": 46,
+        "replies": 7,
+        "likes_h": "773"
+      },
+      "engagement": 872,
+      "hot": false
+    },
+    {
+      "id": "x_2074185358678364414",
+      "title": "By watching the J-space, we can see Claude silently perform reasoning steps in its head—noticing bugs in code, identifying images, and more.",
+      "link": "https://x.com/AnthropicAI/status/2074185358678364414",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Anthropic · @AnthropicAI",
+      "handle": "AnthropicAI",
+      "org": "Anthropic",
+      "published": "2026-07-06T17:35:00.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "Anthropic",
+        "Research"
+      ],
+      "summary": "By watching the J-space, we can see Claude silently perform reasoning steps in its head—noticing bugs in code, identifying images, and more.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 55,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "reply / conversation",
+        "tech substance (claude, reasoning)",
+        "high engagement (1.1K likes)"
+      ],
+      "metrics": {
+        "likes": 1150,
+        "retweets": 80,
+        "replies": 11,
+        "likes_h": "1.1K"
+      },
+      "engagement": 1321,
+      "hot": false
+    },
+    {
+      "id": "x_2074185351304724498",
+      "title": "In neuroscience, global workspace theory holds that thoughts become consciously accessible when they enter a privileged workspace that’s broadcast across the brain. Using a new interpretability…",
+      "link": "https://x.com/AnthropicAI/status/2074185351304724498",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Anthropic · @AnthropicAI",
+      "handle": "AnthropicAI",
+      "org": "Anthropic",
+      "published": "2026-07-06T17:34:58.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "Anthropic",
+        "Research"
+      ],
+      "summary": "In neuroscience, global workspace theory holds that thoughts become consciously accessible when they enter a privileged workspace that’s broadcast across the brain. Using a new interpretability technique, we found something similar in Claude: the J-space. https://www.anthropic.com/research/global-workspace",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 61,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "reply / conversation",
+        "tech substance (claude, research)",
+        "links to a source",
+        "high engagement (1.8K likes)"
+      ],
+      "metrics": {
+        "likes": 1788,
+        "retweets": 185,
+        "replies": 45,
+        "likes_h": "1.8K"
+      },
+      "engagement": 2203,
+      "hot": false
+    },
+    {
+      "id": "x_2074185348142280912",
+      "title": "New Anthropic research: A global workspace in language models. Of everything happening in your brain right now, only a tiny fraction is consciously accessible—thoughts you can describe, hold in mind,…",
+      "link": "https://x.com/AnthropicAI/status/2074185348142280912",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Anthropic · @AnthropicAI",
+      "handle": "AnthropicAI",
+      "org": "Anthropic",
+      "published": "2026-07-06T17:34:58.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "Anthropic",
+        "Research"
+      ],
+      "summary": "New Anthropic research: A global workspace in language models. Of everything happening in your brain right now, only a tiny fraction is consciously accessible—thoughts you can describe, hold in mind, and reason with. We found a strikingly similar divide inside Claude.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 88,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (models, claude, research)",
+        "high engagement (16.9K likes)"
+      ],
+      "metrics": {
+        "likes": 16923,
+        "retweets": 2187,
+        "replies": 757,
+        "likes_h": "16.9K"
+      },
+      "engagement": 22054,
+      "hot": true
     },
     {
       "id": "x_2074161704456356216",
@@ -452,15 +703,15 @@
         "announcement language (introducing)",
         "tech substance (agents, benchmark, research)",
         "links to a source",
-        "high engagement (4.4K likes)"
+        "high engagement (4.5K likes)"
       ],
       "metrics": {
-        "likes": 4448,
-        "retweets": 402,
-        "replies": 329,
-        "likes_h": "4.4K"
+        "likes": 4489,
+        "retweets": 410,
+        "replies": 356,
+        "likes_h": "4.5K"
       },
-      "engagement": 5581,
+      "engagement": 5665,
       "hot": false
     },
     {
@@ -954,7 +1205,7 @@
         "likes_h": "7.6K"
       },
       "engagement": 8987,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2070555278576439306",
@@ -987,15 +1238,15 @@
         "report-worthy",
         "reply / conversation",
         "tech substance (model, gpt, research)",
-        "high engagement (3.3K likes)"
+        "high engagement (3.4K likes)"
       ],
       "metrics": {
-        "likes": 3341,
+        "likes": 3353,
         "retweets": 212,
-        "replies": 98,
-        "likes_h": "3.3K"
+        "replies": 104,
+        "likes_h": "3.4K"
       },
-      "engagement": 3863,
+      "engagement": 3881,
       "hot": false
     },
     {
@@ -1032,12 +1283,12 @@
         "high engagement (4K likes)"
       ],
       "metrics": {
-        "likes": 3953,
-        "retweets": 235,
-        "replies": 110,
+        "likes": 3956,
+        "retweets": 234,
+        "replies": 112,
         "likes_h": "4K"
       },
-      "engagement": 4533,
+      "engagement": 4536,
       "hot": false
     },
     {
@@ -1075,261 +1326,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 5200,
+        "likes": 5203,
         "retweets": 376,
-        "replies": 230,
+        "replies": 232,
         "likes_h": "5.2K"
       },
-      "engagement": 6182,
-      "hot": false
-    },
-    {
-      "id": "x_2070555272230384038",
-      "title": "Introducing a limited preview of GPT-5.6 Sol, our next generation frontier model, as well as GPT-5.6 Terra, a balanced model for efficient, everyday work, and GPT-5.6 Luna, a fast and affordable…",
-      "link": "https://x.com/OpenAI/status/2070555272230384038",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-06-26T17:10:20.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product launch",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Product launch"
-      ],
-      "summary": "Introducing a limited preview of GPT-5.6 Sol, our next generation frontier model, as well as GPT-5.6 Terra, a balanced model for efficient, everyday work, and GPT-5.6 Luna, a fast and affordable model for high-volume work. https://openai.com/index/previewing-gpt-5-6-sol/",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 100,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "announcement language (introducing)",
-        "tech substance (model, gpt)",
-        "links to a source",
-        "high engagement (40.1K likes)"
-      ],
-      "metrics": {
-        "likes": 40129,
-        "retweets": 5714,
-        "replies": 3533,
-        "likes_h": "40.1K"
-      },
-      "engagement": 55090,
-      "hot": true
-    },
-    {
-      "id": "x_2070555273467687257",
-      "title": "We believe in broad access and plan to make GPT-5.6 Sol, Terra, and Luna generally available in the coming weeks. For now, at the request of the U.S. government, we’re starting with a limited preview…",
-      "link": "https://x.com/OpenAI/status/2070555273467687257",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-06-26T17:10:20.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product launch",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Product launch"
-      ],
-      "summary": "We believe in broad access and plan to make GPT-5.6 Sol, Terra, and Luna generally available in the coming weeks. For now, at the request of the U.S. government, we’re starting with a limited preview among a small group of trusted partners in Codex and the API.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 73,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "reply / conversation",
-        "announcement language (generally available)",
-        "tech substance (gpt, api)",
-        "high engagement (6.3K likes)"
-      ],
-      "metrics": {
-        "likes": 6304,
-        "retweets": 371,
-        "replies": 347,
-        "likes_h": "6.3K"
-      },
-      "engagement": 7393,
-      "hot": false
-    },
-    {
-      "id": "x_2070528961235575278",
-      "title": "To keep pace with AI progress, we're advancing how we study Claude's economic impact. Hourly sampling and survey data show us how the cadences of life shape usage, what people produce with Claude,…",
-      "link": "https://x.com/AnthropicAI/status/2070528961235575278",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Anthropic · @AnthropicAI",
-      "handle": "AnthropicAI",
-      "org": "Anthropic",
-      "published": "2026-06-26T15:25:47.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "Anthropic",
-        "Research"
-      ],
-      "summary": "To keep pace with AI progress, we're advancing how we study Claude's economic impact. Hourly sampling and survey data show us how the cadences of life shape usage, what people produce with Claude, and how perceptions of AI's impact may be changing. https://www.anthropic.com/research/economic-index-june-2026-report",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 89,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (claude, research)",
-        "links to a source",
-        "high engagement (2.8K likes)"
-      ],
-      "metrics": {
-        "likes": 2772,
-        "retweets": 371,
-        "replies": 422,
-        "likes_h": "2.8K"
-      },
-      "engagement": 3936,
-      "hot": false
-    },
-    {
-      "id": "x_2070235584535117938",
-      "title": "Every day, millions of videos compete for advertising dollars. Ensuring brands appear alongside the right content requires AI that can understand context at scale. PYLER is helping advertisers…",
-      "link": "https://x.com/nvidia/status/2070235584535117938",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-25T20:00:01.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Commentary"
-      ],
-      "summary": "Every day, millions of videos compete for advertising dollars. Ensuring brands appear alongside the right content requires AI that can understand context at scale. PYLER is helping advertisers improve brand safety and campaign performance with NVIDIA-accelerated AI that analyzes",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 57,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy"
-      ],
-      "metrics": {
-        "likes": 219,
-        "retweets": 22,
-        "replies": 28,
-        "likes_h": "219"
-      },
-      "engagement": 291,
-      "hot": false
-    },
-    {
-      "id": "x_2070205383138849223",
-      "title": "Revolut built a transaction foundation model – accelerated by the NVIDIA full-stack platform on Nebius – to improve fraud detection, product recommendations, and other use cases in financial…",
-      "link": "https://x.com/nvidia/status/2070205383138849223",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-25T18:00:00.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Research"
-      ],
-      "summary": "Revolut built a transaction foundation model – accelerated by the NVIDIA full-stack platform on Nebius – to improve fraud detection, product recommendations, and other use cases in financial services. The results: 📈 2.3x better credit risk accuracy ⚡ Up to 5x higher training",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 93,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (model, training, platform)",
-        "concrete metrics"
-      ],
-      "metrics": {
-        "likes": 301,
-        "retweets": 43,
-        "replies": 24,
-        "likes_h": "301"
-      },
-      "engagement": 411,
-      "hot": false
-    },
-    {
-      "id": "x_2070196105745518913",
-      "title": "Work at OpenAI is being transformed by agents, in every department. Across our entire company, people are using Codex to do work that is more complex, longer-running, and increasingly…",
-      "link": "https://x.com/OpenAI/status/2070196105745518913",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-06-25T17:23:08.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Product"
-      ],
-      "summary": "Work at OpenAI is being transformed by agents, in every department. Across our entire company, people are using Codex to do work that is more complex, longer-running, and increasingly cross-functional. Our internal usage offers an early look at how agentic tools may reshape",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 78,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (agents)",
-        "high engagement (5.4K likes)"
-      ],
-      "metrics": {
-        "likes": 5370,
-        "retweets": 447,
-        "replies": 411,
-        "likes_h": "5.4K"
-      },
-      "engagement": 6675,
+      "engagement": 6187,
       "hot": false
     }
   ]

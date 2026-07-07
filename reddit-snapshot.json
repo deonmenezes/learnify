@@ -1,38 +1,76 @@
 {
-  "generated_at": "2026-07-06T23:42:57.553Z",
+  "generated_at": "2026-07-07T03:46:35.434Z",
   "subs": [
     "MachineLearning",
-    "singularity",
-    "nutrition",
+    "Futurology",
+    "netsec",
     "gadgets",
+    "nutrition",
     "longevity",
     "bodyweightfitness",
     "artificial",
-    "Futurology",
     "running",
     "robotics",
     "science",
+    "singularity",
     "startups",
     "SkincareAddiction",
     "programming",
     "investing",
-    "cybersecurity",
-    "netsec",
-    "hardware"
+    "cybersecurity"
   ],
   "count": 36,
   "by_category": {
-    "Hardware & Gadgets": 5,
+    "Security": 2,
+    "Hardware & Gadgets": 4,
     "AI / ML": 6,
     "Fitness": 7,
-    "Science": 7,
+    "Science": 8,
     "Robotics": 2,
     "Startups & Funding": 4,
     "Skincare": 2,
-    "Coding & Dev Tools": 1,
-    "Security": 2
+    "Coding & Dev Tools": 1
   },
   "articles": [
+    {
+      "id": "reddit_1uoz05q",
+      "title": "New OST2 class: \"Architecture 1901: From zero to QEMU - A Gentle introduction to emulators from the ground up!\"",
+      "link": "https://www.reddit.com/r/netsec/comments/1uoz05q/new_ost2_class_architecture_1901_from_zero_to/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/netsec · community knowledge",
+      "content_type": "post",
+      "author": "u/OpenSecurityTraining · r/netsec",
+      "handle": "netsec",
+      "org": "r/netsec",
+      "platform": "reddit",
+      "published": "2026-07-06T14:30:31.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/netsec"
+      ],
+      "summary": "This free class by Antonio Nappa of Fuzz Society builds up your knowledge from learning a toy 8-bit CPU architecture all the way to understanding how QEMU can emulate that architecture. Using this knowledge you can then understand how QEMU can emulate any architecture! Based on beta testing, this class takes an…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/netsec this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1uoxc6g",
       "title": "New Nintendo Switch 2 Announced for Europe This Fall: Will Be Slightly Heavier, But With User-Replaceable Batteries",
@@ -303,6 +341,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/bodyweightfitness this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uo3u90",
+      "title": "AI Data Centers Use Far More Water Than Most Tech Giants Report",
+      "link": "https://www.reddit.com/r/Futurology/comments/1uo3u90/ai_data_centers_use_far_more_water_than_most_tech/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/Futurology · community knowledge",
+      "content_type": "post",
+      "author": "u/Krankenitrate · r/Futurology",
+      "handle": "Futurology",
+      "org": "r/Futurology",
+      "platform": "reddit",
+      "published": "2026-07-05T14:39:00.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/Futurology"
+      ],
+      "summary": "AI Data Centers Use Far More Water Than Most Tech Giants Report",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/Futurology this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1367,84 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/investing this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ulmoyx",
-      "title": "FIFA was saved this time",
-      "link": "https://www.reddit.com/r/netsec/comments/1ulmoyx/fifa_was_saved_this_time/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/netsec · community knowledge",
-      "content_type": "post",
-      "author": "u/scorp100n · r/netsec",
-      "handle": "netsec",
-      "org": "r/netsec",
-      "platform": "reddit",
-      "published": "2026-07-02T16:14:57.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/netsec"
-      ],
-      "summary": "FIFA was saved this time",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/netsec this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ull48w",
-      "title": "\"Am I going back to PS4 days?\" - Former PlayStation leader Shuhei Yoshida has tried the Steam Machine, and he doesn't sound very impressed",
-      "link": "https://www.reddit.com/r/hardware/comments/1ull48w/am_i_going_back_to_ps4_days_former_playstation/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/hardware · community knowledge",
-      "content_type": "post",
-      "author": "u/JohnBarry_Dost · r/hardware",
-      "handle": "hardware",
-      "org": "r/hardware",
-      "platform": "reddit",
-      "published": "2026-07-02T15:17:16.000Z",
-      "image": "https://external-preview.redd.it/nmHkEq__y82pWvprtF_lhgQZqQ-AxsJFMFKBGG8BUrw.jpeg?width=640&crop=smart&auto=webp&s=0d3b2aeff5b45adc98f2abe48b727f1822985f5d",
-      "thumbnail": "https://external-preview.redd.it/nmHkEq__y82pWvprtF_lhgQZqQ-AxsJFMFKBGG8BUrw.jpeg?width=640&crop=smart&auto=webp&s=0d3b2aeff5b45adc98f2abe48b727f1822985f5d",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/hardware"
-      ],
-      "summary": "\"Am I going back to PS4 days?\" - Former PlayStation leader Shuhei Yoshida has tried the Steam Machine, and he doesn't sound very impressed",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/hardware this week"
       ],
       "metrics": {
         "likes": 0,
