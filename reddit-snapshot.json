@@ -1,8 +1,9 @@
 {
-  "generated_at": "2026-07-07T07:46:40.425Z",
+  "generated_at": "2026-07-07T11:15:21.280Z",
   "subs": [
     "MachineLearning",
-    "science",
+    "Fitness",
+    "hardware",
     "netsec",
     "gadgets",
     "nutrition",
@@ -12,6 +13,7 @@
     "artificial",
     "running",
     "robotics",
+    "science",
     "singularity",
     "startups",
     "SkincareAddiction",
@@ -22,12 +24,12 @@
   "count": 36,
   "by_category": {
     "Security": 2,
-    "Hardware & Gadgets": 4,
+    "Hardware & Gadgets": 5,
     "AI / ML": 6,
     "Fitness": 7,
     "Science": 8,
     "Robotics": 2,
-    "Startups & Funding": 4,
+    "Startups & Funding": 3,
     "Skincare": 2,
     "Coding & Dev Tools": 1
   },
@@ -742,6 +744,45 @@
       }
     },
     {
+      "id": "reddit_1umngw2",
+      "title": "Tom's Hardware: \"SK hynix, Samsung, Micron among semiconductor industry group lobbying against government intervention on domestic memory chip supply - says move would worsen situation, suggests tax deductions on consumer electronics instead\"",
+      "link": "https://www.reddit.com/r/hardware/comments/1umngw2/toms_hardware_sk_hynix_samsung_micron_among/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/hardware · community knowledge",
+      "content_type": "post",
+      "author": "u/Dakhil · r/hardware",
+      "handle": "hardware",
+      "org": "r/hardware",
+      "platform": "reddit",
+      "published": "2026-07-03T19:17:45.000Z",
+      "image": "https://external-preview.redd.it/TFCId44AMlvBlhkpZE-u7wk_W3gUxGvtoFchf25TBrk.jpeg?width=640&crop=smart&auto=webp&s=ac852fb8ac076da559660c93ebcc033c284b991c",
+      "thumbnail": "https://external-preview.redd.it/TFCId44AMlvBlhkpZE-u7wk_W3gUxGvtoFchf25TBrk.jpeg?width=640&crop=smart&auto=webp&s=ac852fb8ac076da559660c93ebcc033c284b991c",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/hardware"
+      ],
+      "summary": "Tom's Hardware: \"SK hynix, Samsung, Micron among semiconductor industry group lobbying against government intervention on domestic memory chip supply - says move would worsen situation, suggests tax deductions on consumer electronics instead\"",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/hardware this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1umg5i9",
       "title": "Moonshots to Rewrite Aging - ARPA-H and XPrize Healthspan Approaches to Medically Targeting Aging",
       "link": "https://www.reddit.com/r/longevity/comments/1umg5i9/moonshots_to_rewrite_aging_arpah_and_xprize/",
@@ -1404,46 +1445,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/SkincareAddiction this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ulnzls",
-      "title": "A Third of SpaceX’s Tradable Shares Are Now Betting Against It. The Squeeze Math Is Wild",
-      "link": "https://www.reddit.com/r/investing/comments/1ulnzls/a_third_of_spacexs_tradable_shares_are_now/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/investing · community knowledge",
-      "content_type": "post",
-      "author": "u/portlandlad · r/investing",
-      "handle": "investing",
-      "org": "r/investing",
-      "platform": "reddit",
-      "published": "2026-07-02T17:02:32.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/investing"
-      ],
-      "summary": "SPCX carries 196 million shares sold short, representing 31% of the float, with every $1 move costing bears roughly $200 million. Shorts briefly pocketed $2.5 billion on paper when SPCX fell 23% post-IPO, but the rebound flipped that to a $760 million loss.…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/investing this week"
       ],
       "metrics": {
         "likes": 0,
