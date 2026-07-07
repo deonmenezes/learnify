@@ -1,38 +1,74 @@
 {
-  "generated_at": "2026-07-07T13:40:10.827Z",
+  "generated_at": "2026-07-07T16:37:54.054Z",
   "subs": [
     "MachineLearning",
-    "LocalLLaMA",
+    "singularity",
+    "SkincareAddiction",
     "bodyweightfitness",
-    "startups",
+    "LocalLLaMA",
     "netsec",
     "gadgets",
     "nutrition",
+    "startups",
     "longevity",
     "Futurology",
     "artificial",
     "running",
     "robotics",
     "science",
-    "hardware",
-    "singularity",
-    "SkincareAddiction",
-    "programming",
-    "investing"
+    "hardware"
   ],
   "count": 36,
   "by_category": {
+    "Skincare": 3,
     "Fitness": 7,
     "AI / ML": 9,
     "Security": 1,
     "Hardware & Gadgets": 5,
-    "Startups & Funding": 4,
+    "Startups & Funding": 3,
     "Science": 6,
-    "Robotics": 2,
-    "Skincare": 1,
-    "Coding & Dev Tools": 1
+    "Robotics": 2
   },
   "articles": [
+    {
+      "id": "reddit_1upy9j7",
+      "title": "[Hair Removal] I shaved my face every morning for 20 years before I could finally start electrolysis permanent hair removal…my life will never be the same again. 🥹",
+      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1upy9j7/hair_removal_i_shaved_my_face_every_morning_for/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/SkincareAddiction · community knowledge",
+      "content_type": "post",
+      "author": "u/thecurlybuzz · r/SkincareAddiction",
+      "handle": "SkincareAddiction",
+      "org": "r/SkincareAddiction",
+      "platform": "reddit",
+      "published": "2026-07-07T15:22:15.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Skincare",
+      "category": "Skincare",
+      "genre": "Skincare",
+      "categories": [
+        "Reddit",
+        "Skincare",
+        "r/SkincareAddiction"
+      ],
+      "summary": "Left photos: 2020 Right photos: 2026 I was diagnosed with PCOS (now PMOS) at 15 years old. I planned my life around shaving, hiding, and wondering if anyone could see my beard. I missed out on so much adventure. I declined invites, missed out on camping trips, panicked if somebody stopped by unannounced…. Felt my…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/SkincareAddiction this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1upcn8e",
       "title": "can you actually outrun a bad diet",
@@ -183,6 +219,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/gadgets this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uow2ph",
+      "title": "[Before&After] My pores went from stretched and saggy to actually quite tighter in 4 months (no procedures done)",
+      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1uow2ph/beforeafter_my_pores_went_from_stretched_and/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/SkincareAddiction · community knowledge",
+      "content_type": "post",
+      "author": "u/StructureSilly2974 · r/SkincareAddiction",
+      "handle": "SkincareAddiction",
+      "org": "r/SkincareAddiction",
+      "platform": "reddit",
+      "published": "2026-07-06T12:34:48.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Skincare",
+      "category": "Skincare",
+      "genre": "Skincare",
+      "categories": [
+        "Reddit",
+        "Skincare",
+        "r/SkincareAddiction"
+      ],
+      "summary": "Sharing my pore routine because it genuinely made a difference for me. First pic is from 4 months ago and the second one is literally from right after I finished my skincare today, took it in the morning so it came out looking a bit brighter than usual. I haven&#39;t done a single procedure in between, still saving up…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/SkincareAddiction this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1369,85 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/artificial this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1um497y",
-      "title": "Linux has officially won",
-      "link": "https://www.reddit.com/r/programming/comments/1um497y/linux_has_officially_won/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/programming · community knowledge",
-      "content_type": "post",
-      "author": "u/BankApprehensive7612 · r/programming",
-      "handle": "programming",
-      "org": "r/programming",
-      "platform": "reddit",
-      "published": "2026-07-03T04:23:58.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Coding & Dev Tools",
-      "category": "Coding & Dev Tools",
-      "genre": "Coding & Dev Tools",
-      "categories": [
-        "Reddit",
-        "Coding & Dev Tools",
-        "r/programming"
-      ],
-      "summary": "Actually it happened in June of 2025, but the process has completed recently, though. After Apple had announced the support of OCI-compatible containers in the June &#39;25 it took a year to complete development and implement full support of continers. Apple had published 1.0 version of own container manager (…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/programming this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1um3xbr",
-      "title": "I don't understand the point of bonds in most portfolios",
-      "link": "https://www.reddit.com/r/investing/comments/1um3xbr/i_dont_understand_the_point_of_bonds_in_most/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/investing · community knowledge",
-      "content_type": "post",
-      "author": "u/iloveu3thousand · r/investing",
-      "handle": "investing",
-      "org": "r/investing",
-      "platform": "reddit",
-      "published": "2026-07-03T04:07:08.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/investing"
-      ],
-      "summary": "I&#39;ve only been investing about 10 years and my portfolio is 80/20 maybe closer to like 87/13 right now. I have an advisor. He didn&#39;t explain well why I&#39;m not 100/0. Like he kept saying bonds are stability and ballast for down markets and income generation for up markets, but they&#39;re bond funds and…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/investing this week"
       ],
       "metrics": {
         "likes": 0,
