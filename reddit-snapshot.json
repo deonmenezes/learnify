@@ -1,14 +1,16 @@
 {
-  "generated_at": "2026-07-07T19:09:01.692Z",
+  "generated_at": "2026-07-07T21:11:48.750Z",
   "subs": [
     "MachineLearning",
-    "artificial",
-    "nutrition",
-    "investing",
+    "programming",
+    "cybersecurity",
     "SkincareAddiction",
+    "nutrition",
     "bodyweightfitness",
+    "artificial",
     "LocalLLaMA",
     "netsec",
+    "investing",
     "gadgets",
     "startups",
     "longevity",
@@ -23,12 +25,13 @@
   "by_category": {
     "Skincare": 2,
     "Fitness": 8,
-    "AI / ML": 9,
-    "Security": 1,
-    "Startups & Funding": 4,
+    "Coding & Dev Tools": 2,
+    "AI / ML": 8,
+    "Security": 2,
+    "Startups & Funding": 3,
     "Hardware & Gadgets": 4,
     "Science": 6,
-    "Robotics": 2
+    "Robotics": 1
   },
   "articles": [
     {
@@ -103,6 +106,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/nutrition this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1upmnop",
+      "title": "Odin 1.0 Announcement",
+      "link": "https://www.reddit.com/r/programming/comments/1upmnop/odin_10_announcement/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/programming · community knowledge",
+      "content_type": "post",
+      "author": "u/gingerbill · r/programming",
+      "handle": "programming",
+      "org": "r/programming",
+      "platform": "reddit",
+      "published": "2026-07-07T06:19:00.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Coding & Dev Tools",
+      "category": "Coding & Dev Tools",
+      "genre": "Coding & Dev Tools",
+      "categories": [
+        "Reddit",
+        "Coding & Dev Tools",
+        "r/programming"
+      ],
+      "summary": "Odin 1.0 Announcement",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/programming this week"
       ],
       "metrics": {
         "likes": 0,
@@ -626,6 +668,45 @@
       }
     },
     {
+      "id": "reddit_1uo76tw",
+      "title": "Releasing my Windows 10/11 Hardening app, free, of course, else it wouldn't be here.",
+      "link": "https://www.reddit.com/r/cybersecurity/comments/1uo76tw/releasing_my_windows_1011_hardening_app_free_of/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/cybersecurity · community knowledge",
+      "content_type": "post",
+      "author": "u/xorredd · r/cybersecurity",
+      "handle": "cybersecurity",
+      "org": "r/cybersecurity",
+      "platform": "reddit",
+      "published": "2026-07-05T16:54:51.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/cybersecurity"
+      ],
+      "summary": "I used to have a hardening script for years, but now AI made it easy to convert my hardening script into an app. It&#39;s beyond just a few settings - all of the ones in the recommended profile are battle-tested (I used to work in Microsoft&#39;s security consulting division in the Middle East). Feedback is welcome, I…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/cybersecurity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1uo639n",
       "title": "The Most Dangerous Fat in the Body Is Not the Fat You Can See. A New Meta-Analysis Shows SGLT2 Inhibitors Are Targeting It Directly",
       "link": "https://www.reddit.com/r/longevity/comments/1uo639n/the_most_dangerous_fat_in_the_body_is_not_the_fat/",
@@ -736,6 +817,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Futurology this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uo1w91",
+      "title": "What ORMs have taught me: just learn SQL",
+      "link": "https://www.reddit.com/r/programming/comments/1uo1w91/what_orms_have_taught_me_just_learn_sql/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/programming · community knowledge",
+      "content_type": "post",
+      "author": "u/Either_Collection349 · r/programming",
+      "handle": "programming",
+      "org": "r/programming",
+      "platform": "reddit",
+      "published": "2026-07-05T13:12:34.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Coding & Dev Tools",
+      "category": "Coding & Dev Tools",
+      "genre": "Coding & Dev Tools",
+      "categories": [
+        "Reddit",
+        "Coding & Dev Tools",
+        "r/programming"
+      ],
+      "summary": "What ORMs have taught me: just learn SQL",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/programming this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1328,125 +1448,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/LocalLLaMA this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1umcprg",
-      "title": "Andrew Ng: \"In 3-6 months, everyone will be using self-improving loops. No more prompting”",
-      "link": "https://www.reddit.com/r/artificial/comments/1umcprg/andrew_ng_in_36_months_everyone_will_be_using/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/artificial · community knowledge",
-      "content_type": "post",
-      "author": "u/Any_Bug_9045 · r/artificial",
-      "handle": "artificial",
-      "org": "r/artificial",
-      "platform": "reddit",
-      "published": "2026-07-03T12:08:15.000Z",
-      "image": "https://preview.redd.it/7e57ugdq90bh1.png?width=640&crop=smart&auto=webp&s=06b160cd3fad3c9bee87cd1006250efa57bc8741",
-      "thumbnail": "https://preview.redd.it/7e57ugdq90bh1.png?width=640&crop=smart&auto=webp&s=06b160cd3fad3c9bee87cd1006250efa57bc8741",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/artificial"
-      ],
-      "summary": "Andrew Ng recently said: &quot;100% of my tasks are now done by AI agents. Hype has exceeded my expectations. Loops is next step. In 3-6 months, everyone will be using self-improving loops. No more prompting.&quot; I think he&#39;s not too far off, you can already see the shift happening, people are moving away from…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/artificial this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1umbkd5",
-      "title": "Weave Robotics has just launched its first home robot, Isaac 1",
-      "link": "https://www.reddit.com/r/robotics/comments/1umbkd5/weave_robotics_has_just_launched_its_first_home/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/robotics · community knowledge",
-      "content_type": "post",
-      "author": "u/Nunki08 · r/robotics",
-      "handle": "robotics",
-      "org": "r/robotics",
-      "platform": "reddit",
-      "published": "2026-07-03T11:11:17.000Z",
-      "image": "https://external-preview.redd.it/MHVwaXVtajJ6emFoMbEMnQzuU3joehbWCtQ3fnankKNzxRe-tXq7SnNThXlC.png?width=640&crop=smart&auto=webp&s=ad9bfdf0cdefeca5b25f3181c78eadac8cf59dd4",
-      "thumbnail": "https://external-preview.redd.it/MHVwaXVtajJ6emFoMbEMnQzuU3joehbWCtQ3fnankKNzxRe-tXq7SnNThXlC.png?width=640&crop=smart&auto=webp&s=ad9bfdf0cdefeca5b25f3181c78eadac8cf59dd4",
-      "section": "Robotics",
-      "category": "Robotics",
-      "genre": "Robotics",
-      "categories": [
-        "Reddit",
-        "Robotics",
-        "r/robotics"
-      ],
-      "summary": "From Weave Robotics on 𝕏 (thread): https://x.com/weaverobotics/status/2072362538671706314 Website: https://www.weaverobotics.com/isaac-1 &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/robotics this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1umb0w3",
-      "title": "Is VC just a rich people's game with better branding? I Will Not Promote",
-      "link": "https://www.reddit.com/r/startups/comments/1umb0w3/is_vc_just_a_rich_peoples_game_with_better/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/startups · community knowledge",
-      "content_type": "post",
-      "author": "u/Superb_Possibility35 · r/startups",
-      "handle": "startups",
-      "org": "r/startups",
-      "platform": "reddit",
-      "published": "2026-07-03T10:43:16.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/startups"
-      ],
-      "summary": "The more news I read online about famous startups getting funded by famous companies, the more I&#39;m struck by a chicken-or-egg question: when a famous VC backs a company, and it takes off, was it really a good deal, so the VC funded it and helped it get to the next level? Or is it because of the top-tier VC that…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/startups this week"
       ],
       "metrics": {
         "likes": 0,
