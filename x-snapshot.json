@@ -1,15 +1,136 @@
 {
-  "generated_at": "2026-07-07T16:35:41.951Z",
+  "generated_at": "2026-07-07T19:06:48.125Z",
   "handles": [
     "nvidia",
-    "AnthropicAI",
     "GoogleDeepMind",
+    "AnthropicAI",
     "elonmusk",
     "OpenAI",
     "gdb"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2074554037509185674",
+      "title": "🌍 20 million lives impacted every single year. That is the power of technology when it is purposefully engineered to serve humanity. In many low and middle-income countries, healthcare professionals…",
+      "link": "https://x.com/nvidia/status/2074554037509185674",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-07-07T18:00:00.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Funding & deals",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Funding & deals"
+      ],
+      "summary": "🌍 20 million lives impacted every single year. That is the power of technology when it is purposefully engineered to serve humanity. In many low and middle-income countries, healthcare professionals face immense barriers such as unreliable internet, a lack of localized",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 83,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "business signal (million)",
+        "concrete metrics"
+      ],
+      "metrics": {
+        "likes": 67,
+        "retweets": 10,
+        "replies": 11,
+        "likes_h": "67"
+      },
+      "engagement": 98,
+      "hot": false
+    },
+    {
+      "id": "x_2074513661750546762",
+      "title": "🏛️ We’re unveiling a new way to converse with the ancient world. By grounding Gemini directly in our expert models Aeneas and Ithaca, our Predicting the Past Skill in Google @antigravity lets…",
+      "link": "https://x.com/GoogleDeepMind/status/2074513661750546762",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Google DeepMind · @GoogleDeepMind",
+      "handle": "GoogleDeepMind",
+      "org": "Google",
+      "published": "2026-07-07T15:19:34.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "Google",
+        "Product"
+      ],
+      "summary": "🏛️ We’re unveiling a new way to converse with the ancient world. By grounding Gemini directly in our expert models Aeneas and Ithaca, our Predicting the Past Skill in Google @antigravity lets historians study Greek and Latin texts using plain English. 🧵",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 80,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (models, gemini)"
+      ],
+      "metrics": {
+        "likes": 354,
+        "retweets": 48,
+        "replies": 25,
+        "likes_h": "354"
+      },
+      "engagement": 475,
+      "hot": false
+    },
+    {
+      "id": "x_2074510027897844105",
+      "title": "NVIDIA Vera: The Max Single-Threaded CPU at Scale. Agentic AI systems run sequentially, each reasoning step, tool call, and code execution happens one at a time on the CPU. When that CPU slows under…",
+      "link": "https://x.com/nvidia/status/2074510027897844105",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-07-07T15:05:07.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Research"
+      ],
+      "summary": "NVIDIA Vera: The Max Single-Threaded CPU at Scale. Agentic AI systems run sequentially, each reasoning step, tool call, and code execution happens one at a time on the CPU. When that CPU slows under load, the entire agentic loop slows and valuable GPUs go underutilized. A max",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 80,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (gpus, reasoning)"
+      ],
+      "metrics": {
+        "likes": 373,
+        "retweets": 50,
+        "replies": 38,
+        "likes_h": "373"
+      },
+      "engagement": 511,
+      "hot": false
+    },
     {
       "id": "x_2074191650792902838",
       "title": "🌍 At the #AIforGood Summit in Geneva, we are helping shape how AI is built for global impact. From closing the infrastructure gap and expanding access to compute to advancing digital trust in an era…",
@@ -42,12 +163,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 153,
+        "likes": 165,
         "retweets": 15,
-        "replies": 23,
-        "likes_h": "153"
+        "replies": 27,
+        "likes_h": "165"
       },
-      "engagement": 206,
+      "engagement": 222,
       "hot": false
     },
     {
@@ -336,12 +457,12 @@
         "tech substance (models, nemotron, research)"
       ],
       "metrics": {
-        "likes": 457,
-        "retweets": 54,
-        "replies": 44,
-        "likes_h": "457"
+        "likes": 490,
+        "retweets": 61,
+        "replies": 48,
+        "likes_h": "490"
       },
-      "engagement": 609,
+      "engagement": 660,
       "hot": false
     },
     {
@@ -378,12 +499,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 587,
-        "retweets": 98,
-        "replies": 73,
-        "likes_h": "587"
+        "likes": 620,
+        "retweets": 105,
+        "replies": 79,
+        "likes_h": "620"
       },
-      "engagement": 856,
+      "engagement": 909,
       "hot": false
     },
     {
@@ -419,12 +540,12 @@
         "high engagement (2.1K likes)"
       ],
       "metrics": {
-        "likes": 2065,
+        "likes": 2067,
         "retweets": 195,
-        "replies": 92,
+        "replies": 93,
         "likes_h": "2.1K"
       },
-      "engagement": 2547,
+      "engagement": 2550,
       "hot": false
     },
     {
@@ -462,12 +583,12 @@
         "high engagement (1.4K likes)"
       ],
       "metrics": {
-        "likes": 1377,
+        "likes": 1378,
         "retweets": 157,
         "replies": 109,
         "likes_h": "1.4K"
       },
-      "engagement": 1800,
+      "engagement": 1801,
       "hot": false
     },
     {
@@ -792,12 +913,12 @@
         "high engagement (1.1K likes)"
       ],
       "metrics": {
-        "likes": 1109,
-        "retweets": 194,
-        "replies": 97,
+        "likes": 1110,
+        "retweets": 195,
+        "replies": 96,
         "likes_h": "1.1K"
       },
-      "engagement": 1594,
+      "engagement": 1596,
       "hot": false
     },
     {
@@ -1208,133 +1329,6 @@
       },
       "engagement": 8987,
       "hot": true
-    },
-    {
-      "id": "x_2070555278576439306",
-      "title": "GPT-5.6 Sol is our most capable model yet for cybersecurity. It shifts the performance-efficiency frontier for long-horizon security tasks including vulnerability research and exploitation.",
-      "link": "https://x.com/OpenAI/status/2070555278576439306",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-06-26T17:10:22.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Research"
-      ],
-      "summary": "GPT-5.6 Sol is our most capable model yet for cybersecurity. It shifts the performance-efficiency frontier for long-horizon security tasks including vulnerability research and exploitation.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 60,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "reply / conversation",
-        "tech substance (model, gpt, research)",
-        "high engagement (3.4K likes)"
-      ],
-      "metrics": {
-        "likes": 3358,
-        "retweets": 212,
-        "replies": 104,
-        "likes_h": "3.4K"
-      },
-      "engagement": 3886,
-      "hot": false
-    },
-    {
-      "id": "x_2070555276370169969",
-      "title": "GPT‑5.6 Sol sets a new state of the art on Terminal‑Bench 2.1, which tests complex command-line workflows requiring planning, iteration, and tool coordination.",
-      "link": "https://x.com/OpenAI/status/2070555276370169969",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-06-26T17:10:21.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Product"
-      ],
-      "summary": "GPT‑5.6 Sol sets a new state of the art on Terminal‑Bench 2.1, which tests complex command-line workflows requiring planning, iteration, and tool coordination.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 55,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "reply / conversation",
-        "tech substance (gpt, state of the art)",
-        "high engagement (4K likes)"
-      ],
-      "metrics": {
-        "likes": 3959,
-        "retweets": 235,
-        "replies": 112,
-        "likes_h": "4K"
-      },
-      "engagement": 4541,
-      "hot": false
-    },
-    {
-      "id": "x_2070555274835046430",
-      "title": "Sol is our new flagship and a step function better than GPT-5.5. Terra delivers performance competitive to GPT-5.5 at 2x lower cost. Luna is our most cost-efficient model, delivering strong…",
-      "link": "https://x.com/OpenAI/status/2070555274835046430",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-06-26T17:10:21.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Product"
-      ],
-      "summary": "Sol is our new flagship and a step function better than GPT-5.5. Terra delivers performance competitive to GPT-5.5 at 2x lower cost. Luna is our most cost-efficient model, delivering strong capability at our lowest cost. Together, the GPT-5.6 family gives people and developers",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 63,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "reply / conversation",
-        "tech substance (model, gpt)",
-        "high engagement (5.2K likes)",
-        "concrete metrics"
-      ],
-      "metrics": {
-        "likes": 5208,
-        "retweets": 376,
-        "replies": 232,
-        "likes_h": "5.2K"
-      },
-      "engagement": 6192,
-      "hot": false
     }
   ]
 }

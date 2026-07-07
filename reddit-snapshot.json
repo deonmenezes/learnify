@@ -1,31 +1,32 @@
 {
-  "generated_at": "2026-07-07T16:37:54.054Z",
+  "generated_at": "2026-07-07T19:09:01.692Z",
   "subs": [
     "MachineLearning",
-    "singularity",
+    "artificial",
+    "nutrition",
+    "investing",
     "SkincareAddiction",
     "bodyweightfitness",
     "LocalLLaMA",
     "netsec",
     "gadgets",
-    "nutrition",
     "startups",
     "longevity",
     "Futurology",
-    "artificial",
     "running",
     "robotics",
     "science",
-    "hardware"
+    "hardware",
+    "singularity"
   ],
   "count": 36,
   "by_category": {
-    "Skincare": 3,
-    "Fitness": 7,
+    "Skincare": 2,
+    "Fitness": 8,
     "AI / ML": 9,
     "Security": 1,
-    "Hardware & Gadgets": 5,
-    "Startups & Funding": 3,
+    "Startups & Funding": 4,
+    "Hardware & Gadgets": 4,
     "Science": 6,
     "Robotics": 2
   },
@@ -70,6 +71,46 @@
       }
     },
     {
+      "id": "reddit_1upnbyr",
+      "title": "Marina Bolotnikova: The evidence against “ultra-processed” foods is weaker than you think",
+      "link": "https://www.reddit.com/r/nutrition/comments/1upnbyr/marina_bolotnikova_the_evidence_against/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/nutrition · community knowledge",
+      "content_type": "post",
+      "author": "u/solvitur_gugulando · r/nutrition",
+      "handle": "nutrition",
+      "org": "r/nutrition",
+      "platform": "reddit",
+      "published": "2026-07-07T06:56:30.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Nutrition",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "Nutrition",
+        "r/nutrition"
+      ],
+      "summary": "An article published at Vox . The author is not arguing that ultra-processed foods are on average good for your health, but rather that there is little evidence that the &quot;ultraprocessedness&quot; of the food is a factor in itself besides things like high GI, low fibre content, high saturated fat content etc. In…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/nutrition this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1upcn8e",
       "title": "can you actually outrun a bad diet",
       "link": "https://www.reddit.com/r/bodyweightfitness/comments/1upcn8e/can_you_actually_outrun_a_bad_diet/",
@@ -101,6 +142,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/bodyweightfitness this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1upbdoa",
+      "title": "SpaceX burned up 260 of its own satellites in 6 months and this is just routine apparently",
+      "link": "https://www.reddit.com/r/artificial/comments/1upbdoa/spacex_burned_up_260_of_its_own_satellites_in_6/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/artificial · community knowledge",
+      "content_type": "post",
+      "author": "u/Neil_at_HackerEarth · r/artificial",
+      "handle": "artificial",
+      "org": "r/artificial",
+      "platform": "reddit",
+      "published": "2026-07-06T21:49:31.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/artificial"
+      ],
+      "summary": "Saw this in an article and it&#39;s been on my mind since 260 satellites intentionally burned in the atmosphere in 6 months and another 349 queued. They&#39;re planning 42,000 total eventually. No debris which is fine but researchers are asking what happens when you&#39;re burning hundreds of massive metal objects in…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/artificial this week"
       ],
       "metrics": {
         "likes": 0,
@@ -180,6 +261,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/netsec this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uoxlh0",
+      "title": "Strategy just sold $216 million in Bitcoin to pay dividends and the model is showing its limits",
+      "link": "https://www.reddit.com/r/investing/comments/1uoxlh0/strategy_just_sold_216_million_in_bitcoin_to_pay/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/investing · community knowledge",
+      "content_type": "post",
+      "author": "u/DemonKingSwarnn · r/investing",
+      "handle": "investing",
+      "org": "r/investing",
+      "platform": "reddit",
+      "published": "2026-07-06T13:37:07.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/investing"
+      ],
+      "summary": "fling dropped this morning and they sold 3,588 btc for $216 million,purpose being funding dividends on strategy&#39;s digital credit securities ,which are five series of perpetual preferred stock with combined annual obligations of $750-800 million. In may the 32 BTC sale was framed as inoculation meaning to sell a…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/investing this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1326,124 +1447,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/startups this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1umasiw",
-      "title": "Sony’s PlayStation disc factory is already being repurposed",
-      "link": "https://www.reddit.com/r/gadgets/comments/1umasiw/sonys_playstation_disc_factory_is_already_being/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/gadgets · community knowledge",
-      "content_type": "post",
-      "author": "u/dapperlemon · r/gadgets",
-      "handle": "gadgets",
-      "org": "r/gadgets",
-      "platform": "reddit",
-      "published": "2026-07-03T10:30:46.000Z",
-      "image": "https://external-preview.redd.it/IOn4eHkHU4tvXg-j6-MOa7_EuWh0u3fRwNPcDmm789M.jpeg?width=640&crop=smart&auto=webp&s=9c12b2468e89a5779316041560d01db9d1c7d3e1",
-      "thumbnail": "https://external-preview.redd.it/IOn4eHkHU4tvXg-j6-MOa7_EuWh0u3fRwNPcDmm789M.jpeg?width=640&crop=smart&auto=webp&s=9c12b2468e89a5779316041560d01db9d1c7d3e1",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/gadgets"
-      ],
-      "summary": "Sony’s PlayStation disc factory is already being repurposed",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/gadgets this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1um8rn8",
-      "title": "[Routine Help] Is this an ok routine?",
-      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1um8rn8/routine_help_is_this_an_ok_routine/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/SkincareAddiction · community knowledge",
-      "content_type": "post",
-      "author": "u/Drunkin_Dino · r/SkincareAddiction",
-      "handle": "SkincareAddiction",
-      "org": "r/SkincareAddiction",
-      "platform": "reddit",
-      "published": "2026-07-03T08:34:06.000Z",
-      "image": "https://preview.redd.it/izsptbbk7zah1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=07752de26e309bc5ac677d3933522fa8023324bd",
-      "thumbnail": "https://preview.redd.it/izsptbbk7zah1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=07752de26e309bc5ac677d3933522fa8023324bd",
-      "section": "Skincare",
-      "category": "Skincare",
-      "genre": "Skincare",
-      "categories": [
-        "Reddit",
-        "Skincare",
-        "r/SkincareAddiction"
-      ],
-      "summary": "Quick wash with cleanser then let the salicylic acid sit on my face during the whole shower then wait for my skin to dry before applying retinol. Then when the retinol is dry I apply the azelaic acid. Then when that’s dry I use moisturizer. And only sunscreen when I’m outside. is this ok? Are there any potential…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/SkincareAddiction this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1um52w9",
-      "title": "Jodie Foster Says Brad Pitt’s ‘F1’ Seemed Like It Was Made by AI and Written by a Computer: \"Wasn’t It?\"",
-      "link": "https://www.reddit.com/r/artificial/comments/1um52w9/jodie_foster_says_brad_pitts_f1_seemed_like_it/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/artificial · community knowledge",
-      "content_type": "post",
-      "author": "u/ControlCAD · r/artificial",
-      "handle": "artificial",
-      "org": "r/artificial",
-      "platform": "reddit",
-      "published": "2026-07-03T05:06:29.000Z",
-      "image": "https://external-preview.redd.it/XlBkQqtIGH8hJDIbvaZcFjO3JJHKFOSo3VHjpX5Y-cQ.jpeg?width=640&crop=smart&auto=webp&s=7431f40aa638bc15ffa947bf754520c01398d6e6",
-      "thumbnail": "https://external-preview.redd.it/XlBkQqtIGH8hJDIbvaZcFjO3JJHKFOSo3VHjpX5Y-cQ.jpeg?width=640&crop=smart&auto=webp&s=7431f40aa638bc15ffa947bf754520c01398d6e6",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/artificial"
-      ],
-      "summary": "&gt;“I don’t say this disparagingly — how could I? This movie went on to make millions of dollars. But I look at a movie like ‘F1’ and I’m like, ‘F1’ was made by AI,” she said with a laugh at the Colorado event. “Wasn’t it? I mean, the structure was exactly the structure that you would learn in school. The actors say…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/artificial this week"
       ],
       "metrics": {
         "likes": 0,
