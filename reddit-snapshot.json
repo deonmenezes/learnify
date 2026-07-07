@@ -1,39 +1,117 @@
 {
-  "generated_at": "2026-07-07T11:15:21.280Z",
+  "generated_at": "2026-07-07T13:40:10.827Z",
   "subs": [
     "MachineLearning",
-    "Fitness",
-    "hardware",
+    "LocalLLaMA",
+    "bodyweightfitness",
+    "startups",
     "netsec",
     "gadgets",
     "nutrition",
     "longevity",
-    "bodyweightfitness",
     "Futurology",
     "artificial",
     "running",
     "robotics",
     "science",
+    "hardware",
     "singularity",
-    "startups",
     "SkincareAddiction",
     "programming",
-    "investing",
-    "cybersecurity"
+    "investing"
   ],
   "count": 36,
   "by_category": {
-    "Security": 2,
-    "Hardware & Gadgets": 5,
-    "AI / ML": 6,
     "Fitness": 7,
-    "Science": 8,
+    "AI / ML": 9,
+    "Security": 1,
+    "Hardware & Gadgets": 5,
+    "Startups & Funding": 4,
+    "Science": 6,
     "Robotics": 2,
-    "Startups & Funding": 3,
-    "Skincare": 2,
+    "Skincare": 1,
     "Coding & Dev Tools": 1
   },
   "articles": [
+    {
+      "id": "reddit_1upcn8e",
+      "title": "can you actually outrun a bad diet",
+      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1upcn8e/can_you_actually_outrun_a_bad_diet/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/bodyweightfitness · community knowledge",
+      "content_type": "post",
+      "author": "u/Adam-Garden · r/bodyweightfitness",
+      "handle": "bodyweightfitness",
+      "org": "r/bodyweightfitness",
+      "platform": "reddit",
+      "published": "2026-07-06T22:37:37.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/bodyweightfitness"
+      ],
+      "summary": "let&#39;s say you eat 3000 calories a day, that is like one Arbys meal per day, maybe with some other unhealthy stuff. but then you run 20 miles, dead lift 100 kilogram 50 times, do 500 pushups, do 500 pullups, and run another 20 miles on foot. of course the numbers i am using are humorously exaggerated and extreme,…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/bodyweightfitness this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1up9x38",
+      "title": "So... anyone copped one of these?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1up9x38/so_anyone_copped_one_of_these/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/LocalLLaMA · community knowledge",
+      "content_type": "post",
+      "author": "u/entsnack · r/LocalLLaMA",
+      "handle": "LocalLLaMA",
+      "org": "r/LocalLLaMA",
+      "platform": "reddit",
+      "published": "2026-07-06T20:55:08.000Z",
+      "image": "https://preview.redd.it/1lvhb6ciaobh1.jpeg?width=640&crop=smart&auto=webp&s=896964e340b4c0b008145f8513444a200a84c010",
+      "thumbnail": "https://preview.redd.it/1lvhb6ciaobh1.jpeg?width=640&crop=smart&auto=webp&s=896964e340b4c0b008145f8513444a200a84c010",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/LocalLLaMA"
+      ],
+      "summary": "Been almost a year since mass hysteria erupted upon the death of NVIDIAs GPU monopoly. How are your Huawei GPUs? Does CUDA work on them yet? &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/LocalLLaMA this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1uoz05q",
       "title": "New OST2 class: \"Architecture 1901: From zero to QEMU - A Gentle introduction to emulators from the ground up!\"",
@@ -272,6 +350,86 @@
       }
     },
     {
+      "id": "reddit_1uoij3s",
+      "title": "If trends hold, Mythos-class capability may be running on high-end consumer hardware within ~2 years",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1uoij3s/if_trends_hold_mythosclass_capability_may_be/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/LocalLLaMA · community knowledge",
+      "content_type": "post",
+      "author": "u/PetersOdyssey · r/LocalLLaMA",
+      "handle": "LocalLLaMA",
+      "org": "r/LocalLLaMA",
+      "platform": "reddit",
+      "published": "2026-07-06T00:40:32.000Z",
+      "image": "https://preview.redd.it/5xwuga6pwhbh1.png?width=640&crop=smart&auto=webp&s=faca5b4a106fde7d7dd88cfd363b58f80b260ded",
+      "thumbnail": "https://preview.redd.it/5xwuga6pwhbh1.png?width=640&crop=smart&auto=webp&s=faca5b4a106fde7d7dd88cfd363b58f80b260ded",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/LocalLLaMA"
+      ],
+      "summary": "If trends hold, Mythos-class capability may be running on high-end consumer hardware within ~2 years",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/LocalLLaMA this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uohhph",
+      "title": "Got an offer from a VC, is it bad? (I will not promote)",
+      "link": "https://www.reddit.com/r/startups/comments/1uohhph/got_an_offer_from_a_vc_is_it_bad_i_will_not/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/startups · community knowledge",
+      "content_type": "post",
+      "author": "u/Horror-Tower2571 · r/startups",
+      "handle": "startups",
+      "org": "r/startups",
+      "platform": "reddit",
+      "published": "2026-07-05T23:54:26.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/startups"
+      ],
+      "summary": "Hi all, I got an offer from an early stage VC (not gonna name names) but they are pretty big in Europe, the exact deal is €50k, SAFE, capped at 1M, for some context: it was a warm intro from a friend, I’m 16 y/o (though the deal was forming when I was 15) the VC tends to be one of those “back the founder not the idea”…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/startups this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1uo639n",
       "title": "The Most Dangerous Fat in the Body Is Not the Fat You Can See. A New Meta-Analysis Shows SGLT2 Inhibitors Are Targeting It Directly",
       "link": "https://www.reddit.com/r/longevity/comments/1uo639n/the_most_dangerous_fat_in_the_body_is_not_the_fat/",
@@ -382,6 +540,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Futurology this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uo0q53",
+      "title": "To the people who have been doing bodyweight fitness 7+ years, how has it impact your quality of life?",
+      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1uo0q53/to_the_people_who_have_been_doing_bodyweight/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/bodyweightfitness · community knowledge",
+      "content_type": "post",
+      "author": "u/ancientpathwayss · r/bodyweightfitness",
+      "handle": "bodyweightfitness",
+      "org": "r/bodyweightfitness",
+      "platform": "reddit",
+      "published": "2026-07-05T12:15:59.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/bodyweightfitness"
+      ],
+      "summary": "Question in the title. I wanna know what the long term impacts of calisthenics and bodyweight is. How has it affected your bone strength? Your ability to recover from injuries? Your ability to do life tasks? Impact on aging? Impact on your lifestyle? Etc etc. People with slightly less obviously welcome and I&#39;m…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/bodyweightfitness this week"
       ],
       "metrics": {
         "likes": 0,
@@ -705,6 +902,46 @@
       }
     },
     {
+      "id": "reddit_1umrh3k",
+      "title": "Startup founder, do you ever ask yourself this question? - i will not promote",
+      "link": "https://www.reddit.com/r/startups/comments/1umrh3k/startup_founder_do_you_ever_ask_yourself_this/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/startups · community knowledge",
+      "content_type": "post",
+      "author": "u/NoLaw5665 · r/startups",
+      "handle": "startups",
+      "org": "r/startups",
+      "platform": "reddit",
+      "published": "2026-07-03T22:01:56.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/startups"
+      ],
+      "summary": "Founded a startup 8 months ago. Got traction, VC on board after 6 months, team is growing and to the outside world it all looks amazing. The truth is that I never felt this lonely, my salary hasn’t been this low since the past 7 years and I’m to impatient to wait on deals to close (5 months on average). I have no…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/startups this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1umqt3r",
       "title": "New study demonstrates, for the first time, Chronic Fatigue Syndrome (ME/CFS) has impaired glymphatic function which is responsible for clearing the brain of metabolic waste products and is mostly active during sleep, which can lead to various symptoms including brain fog.",
       "link": "https://www.reddit.com/r/science/comments/1umqt3r/new_study_demonstrates_for_the_first_time_chronic/",
@@ -855,6 +1092,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/singularity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1umcr5m",
+      "title": "GLM5.2 on 5x Pro 6000s and a 5090, an expensive journey",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1umcr5m/glm52_on_5x_pro_6000s_and_a_5090_an_expensive/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/LocalLLaMA · community knowledge",
+      "content_type": "post",
+      "author": "u/yeah_likerage · r/LocalLLaMA",
+      "handle": "LocalLLaMA",
+      "org": "r/LocalLLaMA",
+      "platform": "reddit",
+      "published": "2026-07-03T12:10:07.000Z",
+      "image": "https://preview.redd.it/zabo1amj10bh1.jpg?width=140&height=105&auto=webp&s=1e45b1539e2c122029c0cf03dc996ec0e3dd4660",
+      "thumbnail": "https://preview.redd.it/zabo1amj10bh1.jpg?width=140&height=105&auto=webp&s=1e45b1539e2c122029c0cf03dc996ec0e3dd4660",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/LocalLLaMA"
+      ],
+      "summary": "This started as something I thought was reasonable. I already had a 5090 for my gaming machine, and I thought a second 5090 would make me happy. Instead, it sent me down a rabbit hole that got completely out of control. I wanted something that would have full PCIe 5.0 x16 speed across all slots, which started a chain…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/LocalLLaMA this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1171,280 +1448,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/investing this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1um0e9e",
-      "title": "Can I build serious muscle with just these 6 exercises?",
-      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1um0e9e/can_i_build_serious_muscle_with_just_these_6/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/bodyweightfitness · community knowledge",
-      "content_type": "post",
-      "author": "u/D3mon0fthemist · r/bodyweightfitness",
-      "handle": "bodyweightfitness",
-      "org": "r/bodyweightfitness",
-      "platform": "reddit",
-      "published": "2026-07-03T01:16:41.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/bodyweightfitness"
-      ],
-      "summary": "Thinking about switching to a minimalist fullbody routine 3x/week. Not looking to be a bodybuilder, just build some muscle and improve my physique in a simple, sustainable way. Workout A Pull-ups 4x, Dips 4x, Squats 4x Workout B Bench 4x, Barbell Rows 4x, Romanian Deadlifts 4x Alternating A/B/A then B/A/B. I’m 6’3…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/bodyweightfitness this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ulv1rj",
-      "title": "Voters who do not align with the Democratic or Republican parties make up the largest portion of the American electorate. They hold moderate ideologies and desire a system focused on open-mindedness. They are active voters, rather than simply apathetic citizens or disguised partisans.",
-      "link": "https://www.reddit.com/r/science/comments/1ulv1rj/voters_who_do_not_align_with_the_democratic_or/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/science · community knowledge",
-      "content_type": "post",
-      "author": "u/mvea · r/science",
-      "handle": "science",
-      "org": "r/science",
-      "platform": "reddit",
-      "published": "2026-07-02T21:24:31.000Z",
-      "image": "https://external-preview.redd.it/tYQ6Nla2Kd5k48XwarhvwrCewsuM-YqtEZz2jo8NKM4.jpeg?width=640&crop=smart&auto=webp&s=74a6ac6b3f900bc47a6e6e76af097c09475af071",
-      "thumbnail": "https://external-preview.redd.it/tYQ6Nla2Kd5k48XwarhvwrCewsuM-YqtEZz2jo8NKM4.jpeg?width=640&crop=smart&auto=webp&s=74a6ac6b3f900bc47a6e6e76af097c09475af071",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/science"
-      ],
-      "summary": "Voters who do not align with the Democratic or Republican parties make up the largest portion of the American electorate. They hold moderate ideologies and desire a system focused on open-mindedness. They are active voters, rather than simply apathetic citizens or disguised partisans.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/science this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ulrhvf",
-      "title": "Britain becomes the latest country where EVs now outsell gasoline cars.",
-      "link": "https://www.reddit.com/r/Futurology/comments/1ulrhvf/britain_becomes_the_latest_country_where_evs_now/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/Futurology · community knowledge",
-      "content_type": "post",
-      "author": "u/lughnasadh · r/Futurology",
-      "handle": "Futurology",
-      "org": "r/Futurology",
-      "platform": "reddit",
-      "published": "2026-07-02T19:08:45.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/Futurology"
-      ],
-      "summary": "As the Middle East war rumbles on, the petroleum that made the region so important, begins to fade in importance. Who will still be buying new gasoline cars in 2030? A tiny number of people, and the fleet that is left on the road will be aging, and decreasing in resale value. Analysis: UK sales of electric vehicles…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/Futurology this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ulr47k",
-      "title": "Burnham set to ditch Palantir from NHS",
-      "link": "https://www.reddit.com/r/cybersecurity/comments/1ulr47k/burnham_set_to_ditch_palantir_from_nhs/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/cybersecurity · community knowledge",
-      "content_type": "post",
-      "author": "u/Altruism7 · r/cybersecurity",
-      "handle": "cybersecurity",
-      "org": "r/cybersecurity",
-      "platform": "reddit",
-      "published": "2026-07-02T18:55:06.000Z",
-      "image": "https://external-preview.redd.it/sY59r97Qqs4S06A2BAjPqq4-eoNWfE4xweJ46R6h9ng.jpeg?width=640&crop=smart&auto=webp&s=afce9837d16b29ec9486cafa9083bfc6eeee402e",
-      "thumbnail": "https://external-preview.redd.it/sY59r97Qqs4S06A2BAjPqq4-eoNWfE4xweJ46R6h9ng.jpeg?width=640&crop=smart&auto=webp&s=afce9837d16b29ec9486cafa9083bfc6eeee402e",
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/cybersecurity"
-      ],
-      "summary": "Burnham set to ditch Palantir from NHS",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/cybersecurity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ulr1nq",
-      "title": "I’ve been on autopilot for 3 years and just checked my account for the first time in a while",
-      "link": "https://www.reddit.com/r/investing/comments/1ulr1nq/ive_been_on_autopilot_for_3_years_and_just/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/investing · community knowledge",
-      "content_type": "post",
-      "author": "u/arcsilencer · r/investing",
-      "handle": "investing",
-      "org": "r/investing",
-      "platform": "reddit",
-      "published": "2026-07-02T18:52:31.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/investing"
-      ],
-      "summary": "I set up automatic monthly contributions in early 2023 and basically stopped paying attention. Just opened the app for the first time in maybe 14 months. Some things I did not expect: NVDA is now 31% of my portfolio. I bought it in 2022 when it was down and then mostly forgot about it. I apparently also own Palantir.…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/investing this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ulp92c",
-      "title": "Best workouts to get rid of your anterior pelvic tilt?",
-      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1ulp92c/best_workouts_to_get_rid_of_your_anterior_pelvic/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/bodyweightfitness · community knowledge",
-      "content_type": "post",
-      "author": "u/NoPaleontology · r/bodyweightfitness",
-      "handle": "bodyweightfitness",
-      "org": "r/bodyweightfitness",
-      "platform": "reddit",
-      "published": "2026-07-02T17:48:05.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/bodyweightfitness"
-      ],
-      "summary": "This is a problem I have had for a few years now because I used to just be sitting down for so many years, as a result getting bad posture and an anterior pelvic tilt. Everyday except the weekend, I do pull ups and squats, and try to include glute bridges too. But, it still seems that my anterior pelvic tilt is still…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/bodyweightfitness this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ulp0wz",
-      "title": "[Trigger Warning] Will I need filler for the rest of my life because of one mistake?",
-      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1ulp0wz/trigger_warning_will_i_need_filler_for_the_rest/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/SkincareAddiction · community knowledge",
-      "content_type": "post",
-      "author": "u/SpareShopping3324 · r/SkincareAddiction",
-      "handle": "SkincareAddiction",
-      "org": "r/SkincareAddiction",
-      "platform": "reddit",
-      "published": "2026-07-02T17:39:55.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Skincare",
-      "category": "Skincare",
-      "genre": "Skincare",
-      "categories": [
-        "Reddit",
-        "Skincare",
-        "r/SkincareAddiction"
-      ],
-      "summary": "I don’t even know where to start. A while ago, I had a fibrous papule removed. I never imagined it would turn into this. Now I have what looks like a depressed scar with a raised “donut-shaped” edge right in the middle of my face. It feels like the collagen in that area is just… gone. It’s all I see when I look in the…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/SkincareAddiction this week"
       ],
       "metrics": {
         "likes": 0,

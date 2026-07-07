@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07T11:13:09.475Z",
+  "generated_at": "2026-07-07T13:37:56.714Z",
   "handles": [
-    "nvidia",
     "AnthropicAI",
+    "OpenAI",
+    "nvidia",
     "GoogleDeepMind",
     "elonmusk",
-    "OpenAI",
     "gdb"
   ],
   "count": 32,
@@ -35,19 +35,19 @@
       "summary": "🌍 At the #AIforGood Summit in Geneva, we are helping shape how AI is built for global impact. From closing the infrastructure gap and expanding access to compute to advancing digital trust in an era of autonomous systems, we are working with leaders across sectors to ensure AI",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 55,
+      "worthiness_score": 56,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
         "report-worthy"
       ],
       "metrics": {
-        "likes": 96,
-        "retweets": 10,
-        "replies": 17,
-        "likes_h": "96"
+        "likes": 153,
+        "retweets": 15,
+        "replies": 23,
+        "likes_h": "153"
       },
-      "engagement": 133,
+      "engagement": 206,
       "hot": false
     },
     {
@@ -81,15 +81,16 @@
         "report-worthy",
         "reply / conversation",
         "tech substance (models, weights)",
-        "links to a source"
+        "links to a source",
+        "high engagement (968 likes)"
       ],
       "metrics": {
-        "likes": 752,
-        "retweets": 51,
-        "replies": 27,
-        "likes_h": "752"
+        "likes": 968,
+        "retweets": 69,
+        "replies": 48,
+        "likes_h": "968"
       },
-      "engagement": 881,
+      "engagement": 1154,
       "hot": false
     },
     {
@@ -116,7 +117,7 @@
       "summary": "The J-space lets us read, audit, and shape what Claude is actively thinking about—useful tools for keeping models trustworthy as they grow more capable. And it suggests surprising parallels between language models and our own minds. Read the full paper: http://transformer-circuits.pub/2026/workspace/index.html",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 65,
+      "worthiness_score": 66,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -126,12 +127,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 592,
-        "retweets": 43,
-        "replies": 15,
-        "likes_h": "592"
+        "likes": 755,
+        "retweets": 56,
+        "replies": 23,
+        "likes_h": "755"
       },
-      "engagement": 693,
+      "engagement": 890,
       "hot": false
     },
     {
@@ -164,15 +165,16 @@
       "reasons": [
         "report-worthy",
         "reply / conversation",
-        "tech substance (claude, reasoning)"
+        "tech substance (claude, reasoning)",
+        "high engagement (961 likes)"
       ],
       "metrics": {
-        "likes": 773,
-        "retweets": 46,
-        "replies": 7,
-        "likes_h": "773"
+        "likes": 961,
+        "retweets": 56,
+        "replies": 9,
+        "likes_h": "961"
       },
-      "engagement": 872,
+      "engagement": 1082,
       "hot": false
     },
     {
@@ -206,15 +208,15 @@
         "report-worthy",
         "reply / conversation",
         "tech substance (claude, reasoning)",
-        "high engagement (1.1K likes)"
+        "high engagement (1.4K likes)"
       ],
       "metrics": {
-        "likes": 1150,
-        "retweets": 80,
-        "replies": 11,
-        "likes_h": "1.1K"
+        "likes": 1442,
+        "retweets": 101,
+        "replies": 14,
+        "likes_h": "1.4K"
       },
-      "engagement": 1321,
+      "engagement": 1658,
       "hot": false
     },
     {
@@ -249,15 +251,15 @@
         "reply / conversation",
         "tech substance (claude, research)",
         "links to a source",
-        "high engagement (1.8K likes)"
+        "high engagement (2.3K likes)"
       ],
       "metrics": {
-        "likes": 1788,
-        "retweets": 185,
-        "replies": 45,
-        "likes_h": "1.8K"
+        "likes": 2327,
+        "retweets": 253,
+        "replies": 57,
+        "likes_h": "2.3K"
       },
-      "engagement": 2203,
+      "engagement": 2890,
       "hot": false
     },
     {
@@ -290,15 +292,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (models, claude, research)",
-        "high engagement (16.9K likes)"
+        "high engagement (22.4K likes)"
       ],
       "metrics": {
-        "likes": 16923,
-        "retweets": 2187,
-        "replies": 757,
-        "likes_h": "16.9K"
+        "likes": 22351,
+        "retweets": 3013,
+        "replies": 1007,
+        "likes_h": "22.4K"
       },
-      "engagement": 22054,
+      "engagement": 29384,
       "hot": true
     },
     {
@@ -326,7 +328,7 @@
       "summary": "Open models are becoming the foundation for modern AI research. At #ICML2026, 145 accepted papers cite NVIDIA Nemotron models and datasets, 74 NVIDIA papers were accepted, and ~2,000 accepted papers cite NVIDIA GPUs.",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 90,
+      "worthiness_score": 91,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -334,12 +336,12 @@
         "tech substance (models, nemotron, research)"
       ],
       "metrics": {
-        "likes": 316,
-        "retweets": 41,
-        "replies": 37,
-        "likes_h": "316"
+        "likes": 457,
+        "retweets": 54,
+        "replies": 44,
+        "likes_h": "457"
       },
-      "engagement": 435,
+      "engagement": 609,
       "hot": false
     },
     {
@@ -376,12 +378,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 444,
-        "retweets": 65,
-        "replies": 53,
-        "likes_h": "444"
+        "likes": 587,
+        "retweets": 98,
+        "replies": 73,
+        "likes_h": "587"
       },
-      "engagement": 627,
+      "engagement": 856,
       "hot": false
     },
     {
@@ -417,12 +419,12 @@
         "high engagement (2.1K likes)"
       ],
       "metrics": {
-        "likes": 2063,
-        "retweets": 196,
-        "replies": 91,
+        "likes": 2065,
+        "retweets": 195,
+        "replies": 92,
         "likes_h": "2.1K"
       },
-      "engagement": 2546,
+      "engagement": 2547,
       "hot": false
     },
     {
@@ -462,10 +464,10 @@
       "metrics": {
         "likes": 1377,
         "retweets": 157,
-        "replies": 108,
+        "replies": 109,
         "likes_h": "1.4K"
       },
-      "engagement": 1799,
+      "engagement": 1800,
       "hot": false
     },
     {
@@ -500,12 +502,12 @@
         "tech substance (open source, robotics, platform)"
       ],
       "metrics": {
-        "likes": 354,
-        "retweets": 37,
+        "likes": 353,
+        "retweets": 36,
         "replies": 36,
-        "likes_h": "354"
+        "likes_h": "353"
       },
-      "engagement": 464,
+      "engagement": 461,
       "hot": false
     },
     {
@@ -706,12 +708,12 @@
         "high engagement (4.5K likes)"
       ],
       "metrics": {
-        "likes": 4496,
-        "retweets": 410,
-        "replies": 357,
+        "likes": 4504,
+        "retweets": 411,
+        "replies": 359,
         "likes_h": "4.5K"
       },
-      "engagement": 5673,
+      "engagement": 5685,
       "hot": false
     },
     {
@@ -790,12 +792,12 @@
         "high engagement (1.1K likes)"
       ],
       "metrics": {
-        "likes": 1107,
+        "likes": 1109,
         "retweets": 194,
-        "replies": 96,
+        "replies": 97,
         "likes_h": "1.1K"
       },
-      "engagement": 1591,
+      "engagement": 1594,
       "hot": false
     },
     {
@@ -1205,7 +1207,7 @@
         "likes_h": "7.6K"
       },
       "engagement": 8987,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2070555278576439306",
@@ -1241,12 +1243,12 @@
         "high engagement (3.4K likes)"
       ],
       "metrics": {
-        "likes": 3356,
+        "likes": 3358,
         "retweets": 212,
         "replies": 104,
         "likes_h": "3.4K"
       },
-      "engagement": 3884,
+      "engagement": 3886,
       "hot": false
     },
     {
@@ -1283,12 +1285,12 @@
         "high engagement (4K likes)"
       ],
       "metrics": {
-        "likes": 3958,
-        "retweets": 234,
+        "likes": 3959,
+        "retweets": 235,
         "replies": 112,
         "likes_h": "4K"
       },
-      "engagement": 4538,
+      "engagement": 4541,
       "hot": false
     },
     {
@@ -1326,12 +1328,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 5204,
+        "likes": 5208,
         "retweets": 376,
         "replies": 232,
         "likes_h": "5.2K"
       },
-      "engagement": 6188,
+      "engagement": 6192,
       "hot": false
     }
   ]
