@@ -1,10 +1,11 @@
 {
-  "generated_at": "2026-07-08T00:04:52.364Z",
+  "generated_at": "2026-07-08T03:41:52.821Z",
   "subs": [
     "MachineLearning",
-    "programming",
+    "singularity",
     "SkincareAddiction",
     "nutrition",
+    "programming",
     "bodyweightfitness",
     "artificial",
     "LocalLLaMA",
@@ -18,15 +19,14 @@
     "running",
     "robotics",
     "science",
-    "hardware",
-    "singularity"
+    "hardware"
   ],
   "count": 36,
   "by_category": {
-    "Skincare": 2,
+    "Skincare": 3,
     "Fitness": 8,
     "Coding & Dev Tools": 2,
-    "AI / ML": 8,
+    "AI / ML": 7,
     "Security": 2,
     "Startups & Funding": 3,
     "Hardware & Gadgets": 4,
@@ -34,6 +34,45 @@
     "Robotics": 1
   },
   "articles": [
+    {
+      "id": "reddit_1upznc5",
+      "title": "[PSA] I think this is a scam. Beware!",
+      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1upznc5/psa_i_think_this_is_a_scam_beware/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/SkincareAddiction · community knowledge",
+      "content_type": "post",
+      "author": "u/navyblusheet · r/SkincareAddiction",
+      "handle": "SkincareAddiction",
+      "org": "r/SkincareAddiction",
+      "platform": "reddit",
+      "published": "2026-07-07T16:10:25.000Z",
+      "image": "https://preview.redd.it/8blko2ce0ubh1.jpeg?width=640&crop=smart&auto=webp&s=abfcaafa4ec3ec33b60a0edaaca25cd1504f7996",
+      "thumbnail": "https://preview.redd.it/8blko2ce0ubh1.jpeg?width=640&crop=smart&auto=webp&s=abfcaafa4ec3ec33b60a0edaaca25cd1504f7996",
+      "section": "Skincare",
+      "category": "Skincare",
+      "genre": "Skincare",
+      "categories": [
+        "Reddit",
+        "Skincare",
+        "r/SkincareAddiction"
+      ],
+      "summary": "Looks like someone has made a fake website (see the spelling) to look like Ordinary and selling ridiculously cheap stuff. Crazy thing is this is what you get from first page Google search. &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/SkincareAddiction this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1upy9j7",
       "title": "[Hair Removal] I shaved my face every morning for 20 years before I could finally start electrolysis permanent hair removal…my life will never be the same again. 🥹",
@@ -660,6 +699,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/startups this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uobwz0",
+      "title": "Indonesian office staff members hit by a Unitree G1",
+      "link": "https://www.reddit.com/r/singularity/comments/1uobwz0/indonesian_office_staff_members_hit_by_a_unitree/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/singularity · community knowledge",
+      "content_type": "post",
+      "author": "u/Distinct-Question-16 · r/singularity",
+      "handle": "singularity",
+      "org": "r/singularity",
+      "platform": "reddit",
+      "published": "2026-07-05T20:00:26.000Z",
+      "image": "https://external-preview.redd.it/MmJrOTF0d3R2Z2JoMZJF5qK_hN80kKIs8edvtShlgM9zddIquwZzVo3WKfak.png?width=320&crop=smart&auto=webp&s=e8ccb4b5b37f9769adf43f745dd71a804e88df6e",
+      "thumbnail": "https://external-preview.redd.it/MmJrOTF0d3R2Z2JoMZJF5qK_hN80kKIs8edvtShlgM9zddIquwZzVo3WKfak.png?width=320&crop=smart&auto=webp&s=e8ccb4b5b37f9769adf43f745dd71a804e88df6e",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/singularity"
+      ],
+      "summary": "Indonesian office staff members hit by a Unitree G1",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/singularity this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1368,86 +1447,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/longevity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1umg3u3",
-      "title": "Came across this on X. Thought it was pretty accurate.",
-      "link": "https://www.reddit.com/r/singularity/comments/1umg3u3/came_across_this_on_x_thought_it_was_pretty/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/singularity · community knowledge",
-      "content_type": "post",
-      "author": "u/Minetorpia · r/singularity",
-      "handle": "singularity",
-      "org": "r/singularity",
-      "platform": "reddit",
-      "published": "2026-07-03T14:33:30.000Z",
-      "image": "https://preview.redd.it/q4pstuqoz0bh1.jpeg?width=640&crop=smart&auto=webp&s=7d149ee1ea5d0ed457596717017cb5b0ee173a99",
-      "thumbnail": "https://preview.redd.it/q4pstuqoz0bh1.jpeg?width=640&crop=smart&auto=webp&s=7d149ee1ea5d0ed457596717017cb5b0ee173a99",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/singularity"
-      ],
-      "summary": "Came across this on X. Thought it was pretty accurate.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/singularity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1umcr5m",
-      "title": "GLM5.2 on 5x Pro 6000s and a 5090, an expensive journey",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1umcr5m/glm52_on_5x_pro_6000s_and_a_5090_an_expensive/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/LocalLLaMA · community knowledge",
-      "content_type": "post",
-      "author": "u/yeah_likerage · r/LocalLLaMA",
-      "handle": "LocalLLaMA",
-      "org": "r/LocalLLaMA",
-      "platform": "reddit",
-      "published": "2026-07-03T12:10:07.000Z",
-      "image": "https://preview.redd.it/zabo1amj10bh1.jpg?width=140&height=105&auto=webp&s=1e45b1539e2c122029c0cf03dc996ec0e3dd4660",
-      "thumbnail": "https://preview.redd.it/zabo1amj10bh1.jpg?width=140&height=105&auto=webp&s=1e45b1539e2c122029c0cf03dc996ec0e3dd4660",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/LocalLLaMA"
-      ],
-      "summary": "This started as something I thought was reasonable. I already had a 5090 for my gaming machine, and I thought a second 5090 would make me happy. Instead, it sent me down a rabbit hole that got completely out of control. I wanted something that would have full PCIe 5.0 x16 speed across all slots, which started a chain…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/LocalLLaMA this week"
       ],
       "metrics": {
         "likes": 0,
