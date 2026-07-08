@@ -1,35 +1,33 @@
 {
-  "generated_at": "2026-07-08T09:31:36.530Z",
+  "generated_at": "2026-07-08T11:28:47.150Z",
   "subs": [
     "MachineLearning",
-    "Futurology",
-    "netsec",
+    "programming",
+    "cybersecurity",
     "investing",
     "SkincareAddiction",
+    "netsec",
+    "Futurology",
     "nutrition",
-    "programming",
     "bodyweightfitness",
     "artificial",
     "LocalLLaMA",
     "gadgets",
     "startups",
     "singularity",
-    "cybersecurity",
     "longevity",
-    "running",
-    "robotics"
+    "running"
   ],
   "count": 36,
   "by_category": {
-    "Startups & Funding": 4,
+    "Startups & Funding": 3,
     "Skincare": 3,
-    "Security": 3,
+    "Security": 4,
     "Science": 5,
+    "Coding & Dev Tools": 3,
     "Fitness": 8,
-    "Coding & Dev Tools": 2,
     "AI / ML": 7,
-    "Hardware & Gadgets": 3,
-    "Robotics": 1
+    "Hardware & Gadgets": 3
   },
   "articles": [
     {
@@ -221,6 +219,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Futurology this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1upu953",
+      "title": "What is a token and why does it cost so much? - Computerphile",
+      "link": "https://www.reddit.com/r/programming/comments/1upu953/what_is_a_token_and_why_does_it_cost_so_much/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/programming · community knowledge",
+      "content_type": "post",
+      "author": "u/itgforlife · r/programming",
+      "handle": "programming",
+      "org": "r/programming",
+      "platform": "reddit",
+      "published": "2026-07-07T12:54:21.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Coding & Dev Tools",
+      "category": "Coding & Dev Tools",
+      "genre": "Coding & Dev Tools",
+      "categories": [
+        "Reddit",
+        "Coding & Dev Tools",
+        "r/programming"
+      ],
+      "summary": "What is a token and why does it cost so much? - Computerphile",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/programming this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1217,6 +1254,45 @@
       }
     },
     {
+      "id": "reddit_1ungm0l",
+      "title": "France to ditch Palantir’s AI data tools in favour of domestic provider | France",
+      "link": "https://www.reddit.com/r/cybersecurity/comments/1ungm0l/france_to_ditch_palantirs_ai_data_tools_in_favour/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/cybersecurity · community knowledge",
+      "content_type": "post",
+      "author": "u/Altruism7 · r/cybersecurity",
+      "handle": "cybersecurity",
+      "org": "r/cybersecurity",
+      "platform": "reddit",
+      "published": "2026-07-04T18:39:34.000Z",
+      "image": "https://external-preview.redd.it/JicEQNpXKhbmuYEfWkdsS0FftSTKeBHZN2uGN2b-eh4.jpeg?width=640&crop=smart&auto=webp&s=9534ded73577f49bcef33e6a07df6301c5cf3eb9",
+      "thumbnail": "https://external-preview.redd.it/JicEQNpXKhbmuYEfWkdsS0FftSTKeBHZN2uGN2b-eh4.jpeg?width=640&crop=smart&auto=webp&s=9534ded73577f49bcef33e6a07df6301c5cf3eb9",
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/cybersecurity"
+      ],
+      "summary": "France to ditch Palantir’s AI data tools in favour of domestic provider | France",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/cybersecurity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1un7ghm",
       "title": "Germany, France, Spain, Britain … a growing number of European countries are banning Palantir. This means two major assumptions propping up the US economy are disappearing, too.",
       "link": "https://www.reddit.com/r/Futurology/comments/1un7ghm/germany_france_spain_britain_a_growing_number_of/",
@@ -1366,85 +1442,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/nutrition this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1umskd5",
-      "title": "Lesson learned: easy-to-access off switch is important",
-      "link": "https://www.reddit.com/r/robotics/comments/1umskd5/lesson_learned_easytoaccess_off_switch_is/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/robotics · community knowledge",
-      "content_type": "post",
-      "author": "u/HenryGCase · r/robotics",
-      "handle": "robotics",
-      "org": "r/robotics",
-      "platform": "reddit",
-      "published": "2026-07-03T22:50:29.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Robotics",
-      "category": "Robotics",
-      "genre": "Robotics",
-      "categories": [
-        "Reddit",
-        "Robotics",
-        "r/robotics"
-      ],
-      "summary": "Lesson learned: easy-to-access off switch is important",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/robotics this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1umrh3k",
-      "title": "Startup founder, do you ever ask yourself this question? - i will not promote",
-      "link": "https://www.reddit.com/r/startups/comments/1umrh3k/startup_founder_do_you_ever_ask_yourself_this/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/startups · community knowledge",
-      "content_type": "post",
-      "author": "u/NoLaw5665 · r/startups",
-      "handle": "startups",
-      "org": "r/startups",
-      "platform": "reddit",
-      "published": "2026-07-03T22:01:56.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/startups"
-      ],
-      "summary": "Founded a startup 8 months ago. Got traction, VC on board after 6 months, team is growing and to the outside world it all looks amazing. The truth is that I never felt this lonely, my salary hasn’t been this low since the past 7 years and I’m to impatient to wait on deals to close (5 months on average). I have no…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/startups this week"
       ],
       "metrics": {
         "likes": 0,
