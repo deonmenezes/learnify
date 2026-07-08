@@ -1,8 +1,9 @@
 {
-  "generated_at": "2026-07-08T06:32:49.286Z",
+  "generated_at": "2026-07-08T09:29:21.591Z",
   "handles": [
     "nvidia",
     "GoogleDeepMind",
+    "AIatMeta",
     "AnthropicAI",
     "elonmusk",
     "OpenAI"
@@ -33,19 +34,61 @@
       "summary": "Join NVIDIA for AI in Production Day at SIGGRAPH 2026. 🎥 On Thursday, July 23, explore how generative and agentic AI are moving into real-world creative pipelines through a full day of sessions focused on film, animation, storytelling, and production workflows. Hear from",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 55,
+      "worthiness_score": 56,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
         "report-worthy"
       ],
       "metrics": {
-        "likes": 97,
-        "retweets": 11,
-        "replies": 14,
-        "likes_h": "97"
+        "likes": 164,
+        "retweets": 14,
+        "replies": 20,
+        "likes_h": "164"
       },
-      "engagement": 133,
+      "engagement": 212,
+      "hot": false
+    },
+    {
+      "id": "x_2074577662840832382",
+      "title": "Introducing Muse Image and Muse Video, the first media generation models developed by Meta Superintelligence Labs. Muse Image is our most advanced image generation model yet. It follows instructions…",
+      "link": "https://x.com/AIatMeta/status/2074577662840832382",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "AI at Meta · @AIatMeta",
+      "handle": "AIatMeta",
+      "org": "Meta",
+      "published": "2026-07-07T19:33:53.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product launch",
+      "categories": [
+        "X",
+        "Meta",
+        "Product launch"
+      ],
+      "summary": "Introducing Muse Image and Muse Video, the first media generation models developed by Meta Superintelligence Labs. Muse Image is our most advanced image generation model yet. It follows instructions faithfully, edits with precision, composes from multiple references, and draws",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 100,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "announcement language (introducing)",
+        "tech substance (model, models)",
+        "high engagement (2K likes)"
+      ],
+      "metrics": {
+        "likes": 1973,
+        "retweets": 297,
+        "replies": 145,
+        "likes_h": "2K"
+      },
+      "engagement": 2712,
       "hot": false
     },
     {
@@ -81,12 +124,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 128,
-        "retweets": 17,
-        "replies": 14,
-        "likes_h": "128"
+        "likes": 190,
+        "retweets": 20,
+        "replies": 20,
+        "likes_h": "190"
       },
-      "engagement": 176,
+      "engagement": 250,
       "hot": false
     },
     {
@@ -121,12 +164,12 @@
         "tech substance (models, gemini)"
       ],
       "metrics": {
-        "likes": 440,
-        "retweets": 59,
-        "replies": 32,
-        "likes_h": "440"
+        "likes": 500,
+        "retweets": 68,
+        "replies": 39,
+        "likes_h": "500"
       },
-      "engagement": 590,
+      "engagement": 675,
       "hot": false
     },
     {
@@ -153,20 +196,21 @@
       "summary": "NVIDIA Vera: The Max Single-Threaded CPU at Scale. Agentic AI systems run sequentially, each reasoning step, tool call, and code execution happens one at a time on the CPU. When that CPU slows under load, the entire agentic loop slows and valuable GPUs go underutilized. A max",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 81,
+      "worthiness_score": 82,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
         "report-worthy",
-        "tech substance (gpus, reasoning)"
+        "tech substance (gpus, reasoning)",
+        "high engagement (772 likes)"
       ],
       "metrics": {
-        "likes": 542,
-        "retweets": 67,
-        "replies": 42,
-        "likes_h": "542"
+        "likes": 772,
+        "retweets": 86,
+        "replies": 55,
+        "likes_h": "772"
       },
-      "engagement": 718,
+      "engagement": 999,
       "hot": false
     },
     {
@@ -201,12 +245,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 167,
+        "likes": 172,
         "retweets": 15,
         "replies": 27,
-        "likes_h": "167"
+        "likes_h": "172"
       },
-      "engagement": 224,
+      "engagement": 229,
       "hot": false
     },
     {
@@ -496,12 +540,12 @@
         "tech substance (models, nemotron, research)"
       ],
       "metrics": {
-        "likes": 497,
-        "retweets": 61,
-        "replies": 50,
-        "likes_h": "497"
+        "likes": 513,
+        "retweets": 62,
+        "replies": 52,
+        "likes_h": "513"
       },
-      "engagement": 669,
+      "engagement": 689,
       "hot": false
     },
     {
@@ -538,12 +582,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 629,
-        "retweets": 106,
-        "replies": 83,
-        "likes_h": "629"
+        "likes": 643,
+        "retweets": 110,
+        "replies": 85,
+        "likes_h": "643"
       },
-      "engagement": 924,
+      "engagement": 948,
       "hot": false
     },
     {
@@ -579,12 +623,12 @@
         "high engagement (2.1K likes)"
       ],
       "metrics": {
-        "likes": 2064,
+        "likes": 2065,
         "retweets": 195,
         "replies": 93,
         "likes_h": "2.1K"
       },
-      "engagement": 2547,
+      "engagement": 2548,
       "hot": false
     },
     {
@@ -910,12 +954,12 @@
         "business signal (enterprise)"
       ],
       "metrics": {
-        "likes": 275,
+        "likes": 276,
         "retweets": 32,
         "replies": 7,
-        "likes_h": "275"
+        "likes_h": "276"
       },
-      "engagement": 346,
+      "engagement": 347,
       "hot": false
     },
     {
@@ -952,12 +996,12 @@
         "high engagement (1.1K likes)"
       ],
       "metrics": {
-        "likes": 1110,
-        "retweets": 195,
-        "replies": 96,
+        "likes": 1111,
+        "retweets": 196,
+        "replies": 98,
         "likes_h": "1.1K"
       },
-      "engagement": 1596,
+      "engagement": 1601,
       "hot": false
     },
     {
@@ -1287,46 +1331,6 @@
       },
       "engagement": 39420,
       "hot": true
-    },
-    {
-      "id": "x_2070597978826449174",
-      "title": "AI is most impactful when it's tailored to the way teams already work. Discover how Zaha Hadid Architects uses local compute, fine-tuned AI models, and NVIDIA technologies to build custom AI tools…",
-      "link": "https://x.com/nvidia/status/2070597978826449174",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-26T20:00:02.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product"
-      ],
-      "summary": "AI is most impactful when it's tailored to the way teams already work. Discover how Zaha Hadid Architects uses local compute, fine-tuned AI models, and NVIDIA technologies to build custom AI tools that accelerate design while keeping proprietary data secure.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 81,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (models, fine-tune)"
-      ],
-      "metrics": {
-        "likes": 487,
-        "retweets": 70,
-        "replies": 53,
-        "likes_h": "487"
-      },
-      "engagement": 680,
-      "hot": false
     }
   ]
 }
