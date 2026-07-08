@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-08T17:44:40.566Z",
+  "generated_at": "2026-07-08T19:41:44.629Z",
   "subs": [
     "MachineLearning",
-    "science",
-    "netsec",
+    "programming",
+    "cybersecurity",
     "investing",
     "SkincareAddiction",
+    "netsec",
     "Futurology",
-    "programming",
     "nutrition",
     "bodyweightfitness",
     "artificial",
@@ -15,7 +15,6 @@
     "gadgets",
     "startups",
     "singularity",
-    "cybersecurity",
     "longevity",
     "running"
   ],
@@ -23,10 +22,10 @@
   "by_category": {
     "Startups & Funding": 3,
     "Skincare": 3,
-    "Security": 4,
+    "Security": 5,
     "Science": 5,
     "Coding & Dev Tools": 3,
-    "Fitness": 8,
+    "Fitness": 7,
     "AI / ML": 7,
     "Hardware & Gadgets": 3
   },
@@ -457,6 +456,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/LocalLLaMA this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1up55sz",
+      "title": "US Army websites defaced with pro-Kurdish sentiments, insults to Trump",
+      "link": "https://www.reddit.com/r/cybersecurity/comments/1up55sz/us_army_websites_defaced_with_prokurdish/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/cybersecurity · community knowledge",
+      "content_type": "post",
+      "author": "u/drewchainzz · r/cybersecurity",
+      "handle": "cybersecurity",
+      "org": "r/cybersecurity",
+      "platform": "reddit",
+      "published": "2026-07-06T18:05:35.000Z",
+      "image": "https://external-preview.redd.it/k2S_hDH8u_75P8gF4V0iGWBcRX02KzWnC7vWm4rlpjo.jpeg?width=640&crop=smart&auto=webp&s=877a8e152fb8003212dd6a0e9a60e3694c24d6f1",
+      "thumbnail": "https://external-preview.redd.it/k2S_hDH8u_75P8gF4V0iGWBcRX02KzWnC7vWm4rlpjo.jpeg?width=640&crop=smart&auto=webp&s=877a8e152fb8003212dd6a0e9a60e3694c24d6f1",
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/cybersecurity"
+      ],
+      "summary": "US Army websites defaced with pro-Kurdish sentiments, insults to Trump",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/cybersecurity this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1403,46 +1441,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Futurology this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1umuh1s",
-      "title": "No preparation, least cost, maximum nutrition. What are you eating for the next month only?",
-      "link": "https://www.reddit.com/r/nutrition/comments/1umuh1s/no_preparation_least_cost_maximum_nutrition_what/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/nutrition · community knowledge",
-      "content_type": "post",
-      "author": "u/Due-Yogurtcloset5149 · r/nutrition",
-      "handle": "nutrition",
-      "org": "r/nutrition",
-      "platform": "reddit",
-      "published": "2026-07-04T00:19:19.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Nutrition",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "Nutrition",
-        "r/nutrition"
-      ],
-      "summary": "Prioritizing by the most *cheapest* possible, then *maximum nutrition* (no problems eating for months), and no preperation (like cooking, can bring to work) How much are you spending a day for your 3 meals the next month? &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/nutrition this week"
       ],
       "metrics": {
         "likes": 0,
