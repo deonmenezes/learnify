@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-08T19:41:44.629Z",
+  "generated_at": "2026-07-08T21:15:37.424Z",
   "subs": [
     "MachineLearning",
-    "programming",
-    "cybersecurity",
+    "Futurology",
+    "netsec",
     "investing",
     "SkincareAddiction",
-    "netsec",
-    "Futurology",
+    "programming",
     "nutrition",
     "bodyweightfitness",
     "artificial",
     "LocalLLaMA",
+    "cybersecurity",
     "gadgets",
     "startups",
     "singularity",
@@ -20,16 +20,55 @@
   ],
   "count": 36,
   "by_category": {
+    "Security": 6,
     "Startups & Funding": 3,
     "Skincare": 3,
-    "Security": 5,
-    "Science": 5,
+    "Science": 4,
     "Coding & Dev Tools": 3,
     "Fitness": 7,
     "AI / ML": 7,
     "Hardware & Gadgets": 3
   },
   "articles": [
+    {
+      "id": "reddit_1ur02bp",
+      "title": "1 in 2 devices sold in Africa exfiltrate data to China",
+      "link": "https://www.reddit.com/r/netsec/comments/1ur02bp/1_in_2_devices_sold_in_africa_exfiltrate_data_to/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/netsec · community knowledge",
+      "content_type": "post",
+      "author": "u/AdTemporary2475 · r/netsec",
+      "handle": "netsec",
+      "org": "r/netsec",
+      "platform": "reddit",
+      "published": "2026-07-08T17:49:21.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/netsec"
+      ],
+      "summary": "1 in 2 devices sold in Africa exfiltrate data to China",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/netsec this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1uq4t1v",
       "title": "To everyone who thinks right now is the worst possible time to invest",
@@ -1402,45 +1441,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/running this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1umylvz",
-      "title": "US residents angry at datacenters ‘being shoved down our throats’ are recalling officials",
-      "link": "https://www.reddit.com/r/Futurology/comments/1umylvz/us_residents_angry_at_datacenters_being_shoved/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/Futurology · community knowledge",
-      "content_type": "post",
-      "author": "u/Gari_305 · r/Futurology",
-      "handle": "Futurology",
-      "org": "r/Futurology",
-      "platform": "reddit",
-      "published": "2026-07-04T03:45:45.000Z",
-      "image": "https://external-preview.redd.it/Uhw8EiR_c21ctsniFXaAjT5Lcp_OAbRM82d6DUz4-Ow.jpeg?width=640&crop=smart&auto=webp&s=79e847bbf7628bf213ef386944462319a401fa59",
-      "thumbnail": "https://external-preview.redd.it/Uhw8EiR_c21ctsniFXaAjT5Lcp_OAbRM82d6DUz4-Ow.jpeg?width=640&crop=smart&auto=webp&s=79e847bbf7628bf213ef386944462319a401fa59",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/Futurology"
-      ],
-      "summary": "People across the country are pushing for moratoriums, and electeds who approve projects are being punished &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/Futurology this week"
       ],
       "metrics": {
         "likes": 0,

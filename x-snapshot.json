@@ -1,15 +1,433 @@
 {
-  "generated_at": "2026-07-08T19:39:32.470Z",
+  "generated_at": "2026-07-08T21:13:23.890Z",
   "handles": [
-    "nvidia",
-    "AIatMeta",
-    "GoogleDeepMind",
     "AnthropicAI",
+    "OpenAI",
+    "nvidia",
+    "GoogleDeepMind",
     "elonmusk",
-    "OpenAI"
+    "AIatMeta"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2074961724164214951",
+      "title": "Every company has specialized intelligence that sets it apart. With @langchain, we’re helping enterprises turn that knowledge into specialized agents they can customize, secure and improve over time.",
+      "link": "https://x.com/nvidia/status/2074961724164214951",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-07-08T21:00:00.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "Every company has specialized intelligence that sets it apart. With @langchain, we’re helping enterprises turn that knowledge into specialized agents they can customize, secure and improve over time.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 69,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (agents)"
+      ],
+      "metrics": {
+        "likes": 32,
+        "retweets": 5,
+        "replies": 12,
+        "likes_h": "32"
+      },
+      "engagement": 54,
+      "hot": false
+    },
+    {
+      "id": "x_2074958149426241894",
+      "title": "We audited SWE-Bench Pro, one of the most widely used AI coding benchmarks, and found it no longer reliably measures frontier coding capability. We find the eval to be saturated at a ~70% noise…",
+      "link": "https://x.com/OpenAI/status/2074958149426241894",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-07-08T20:45:48.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Research"
+      ],
+      "summary": "We audited SWE-Bench Pro, one of the most widely used AI coding benchmarks, and found it no longer reliably measures frontier coding capability. We find the eval to be saturated at a ~70% noise ceiling, and are retracting our previous recommendation that the research community",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 79,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (benchmarks, research)",
+        "high engagement (1.2K likes)"
+      ],
+      "metrics": {
+        "likes": 1192,
+        "retweets": 82,
+        "replies": 91,
+        "likes_h": "1.2K"
+      },
+      "engagement": 1447,
+      "hot": false
+    },
+    {
+      "id": "x_2074935713444081710",
+      "title": "See how we’re working with LangChain to pair benchmark-leading agent performance with an open stack enterprises can own, customize and run anywhere:…",
+      "link": "https://x.com/nvidia/status/2074935713444081710",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-07-08T19:16:39.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Research"
+      ],
+      "summary": "See how we’re working with LangChain to pair benchmark-leading agent performance with an open stack enterprises can own, customize and run anywhere: https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack?ncid=so-link-913402",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 59,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "reply / conversation",
+        "tech substance (nemotron, agent, agents)",
+        "links to a source"
+      ],
+      "metrics": {
+        "likes": 13,
+        "retweets": 0,
+        "replies": 5,
+        "likes_h": "13"
+      },
+      "engagement": 18,
+      "hot": false
+    },
+    {
+      "id": "x_2074907035225981169",
+      "title": "These new models are rolling out to everyone over the next few days, starting today. They’ll be available in ChatGPT across iOS, Android, and web. Coming soon to the API. Just tap the Voice button to…",
+      "link": "https://x.com/OpenAI/status/2074907035225981169",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-07-08T17:22:41.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product launch",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Product launch"
+      ],
+      "summary": "These new models are rolling out to everyone over the next few days, starting today. They’ll be available in ChatGPT across iOS, Android, and web. Coming soon to the API. Just tap the Voice button to talk with ChatGPT, and you’ll feel the magic of GPT-Live.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 97,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "reply / conversation",
+        "announcement language (rolling out, starting today, coming soon)",
+        "tech substance (models, gpt, api)"
+      ],
+      "metrics": {
+        "likes": 645,
+        "retweets": 30,
+        "replies": 29,
+        "likes_h": "645"
+      },
+      "engagement": 734,
+      "hot": false
+    },
+    {
+      "id": "x_2074907033577693636",
+      "title": "For questions that require web search, deeper reasoning, or more complex work, GPT-Live can delegate to our latest frontier model behind the scenes, and brings the result back into the conversation…",
+      "link": "https://x.com/OpenAI/status/2074907033577693636",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-07-08T17:22:41.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Research"
+      ],
+      "summary": "For questions that require web search, deeper reasoning, or more complex work, GPT-Live can delegate to our latest frontier model behind the scenes, and brings the result back into the conversation when it's ready.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 59,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "reply / conversation",
+        "tech substance (model, gpt, reasoning)"
+      ],
+      "metrics": {
+        "likes": 652,
+        "retweets": 33,
+        "replies": 16,
+        "likes_h": "652"
+      },
+      "engagement": 734,
+      "hot": false
+    },
+    {
+      "id": "x_2074907031862190406",
+      "title": "A good voice model should be enjoyable to talk to, and GPT-Live is a great conversationalist with a more natural and defined personality than previous voice models.",
+      "link": "https://x.com/OpenAI/status/2074907031862190406",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-07-08T17:22:40.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Product"
+      ],
+      "summary": "A good voice model should be enjoyable to talk to, and GPT-Live is a great conversationalist with a more natural and defined personality than previous voice models.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 63,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "reply / conversation",
+        "tech substance (model, models, gpt)"
+      ],
+      "metrics": {
+        "likes": 386,
+        "retweets": 12,
+        "replies": 5,
+        "likes_h": "386"
+      },
+      "engagement": 415,
+      "hot": false
+    },
+    {
+      "id": "x_2074907025537224840",
+      "title": "Introducing GPT-Live, a new generation of voice models for natural human-AI interaction. Rolling out in ChatGPT starting today. You’ll want to turn the sound on for this one.",
+      "link": "https://x.com/OpenAI/status/2074907025537224840",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-07-08T17:22:39.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product launch",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Product launch"
+      ],
+      "summary": "Introducing GPT-Live, a new generation of voice models for natural human-AI interaction. Rolling out in ChatGPT starting today. You’ll want to turn the sound on for this one.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 100,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "casual tone (this)",
+        "announcement language (introducing, rolling out, starting today)",
+        "tech substance (models, gpt, voice mode)",
+        "high engagement (12.5K likes)"
+      ],
+      "metrics": {
+        "likes": 12494,
+        "retweets": 1014,
+        "replies": 680,
+        "likes_h": "12.5K"
+      },
+      "engagement": 15202,
+      "hot": false
+    },
+    {
+      "id": "x_2074907027378511884",
+      "title": "GPT-Live makes talking with AI feel like having a real conversation. It’s also our smartest voice model yet. https://openai.com/index/introducing-gpt-live/",
+      "link": "https://x.com/OpenAI/status/2074907027378511884",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-07-08T17:22:39.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product launch",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Product launch"
+      ],
+      "summary": "GPT-Live makes talking with AI feel like having a real conversation. It’s also our smartest voice model yet. https://openai.com/index/introducing-gpt-live/",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 88,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "reply / conversation",
+        "announcement language (introducing)",
+        "tech substance (model, gpt, voice mode)",
+        "links to a source",
+        "high engagement (1.3K likes)"
+      ],
+      "metrics": {
+        "likes": 1256,
+        "retweets": 87,
+        "replies": 60,
+        "likes_h": "1.3K"
+      },
+      "engagement": 1490,
+      "hot": false
+    },
+    {
+      "id": "x_2074872091388903774",
+      "title": "Enterprises don’t just need agents that perform. They need agents they can shape, govern and improve as their business evolves. That’s the idea behind our work with LangChain. Read more:…",
+      "link": "https://x.com/nvidia/status/2074872091388903774",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-07-08T15:03:50.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "Enterprises don’t just need agents that perform. They need agents they can shape, govern and improve as their business evolves. That’s the idea behind our work with LangChain. Read more: https://nvda.ws/4p6tDjg",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 80,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (agents)",
+        "links to a source"
+      ],
+      "metrics": {
+        "likes": 244,
+        "retweets": 28,
+        "replies": 30,
+        "likes_h": "244"
+      },
+      "engagement": 330,
+      "hot": false
+    },
+    {
+      "id": "x_2074740539874775163",
+      "title": "Based on strong positive feedback from customers in our beta test program, @SpaceXAI will make Grok 4.5 available to the public tomorrow. It is an Opus-class model, but faster, more token-efficient…",
+      "link": "https://x.com/elonmusk/status/2074740539874775163",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Elon Musk · @elonmusk",
+      "handle": "elonmusk",
+      "org": "xAI/Tesla",
+      "published": "2026-07-08T06:21:06.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "xAI/Tesla",
+        "Product"
+      ],
+      "summary": "Based on strong positive feedback from customers in our beta test program, @SpaceXAI will make Grok 4.5 available to the public tomorrow. It is an Opus-class model, but faster, more token-efficient and lower cost.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 79,
+      "sentiment": "positive",
+      "sentiment_score": 1,
+      "reasons": [
+        "report-worthy",
+        "casual tone (based)",
+        "tech substance (model, grok, opus)",
+        "business signal (customers)",
+        "high engagement (46.3K likes)"
+      ],
+      "metrics": {
+        "likes": 46280,
+        "retweets": 4898,
+        "replies": 4973,
+        "likes_h": "46.3K"
+      },
+      "engagement": 61049,
+      "hot": true
+    },
     {
       "id": "x_2074584281662300649",
       "title": "Join NVIDIA for AI in Production Day at SIGGRAPH 2026. 🎥 On Thursday, July 23, explore how generative and agentic AI are moving into real-world creative pipelines through a full day of sessions…",
@@ -34,19 +452,19 @@
       "summary": "Join NVIDIA for AI in Production Day at SIGGRAPH 2026. 🎥 On Thursday, July 23, explore how generative and agentic AI are moving into real-world creative pipelines through a full day of sessions focused on film, animation, storytelling, and production workflows. Hear from",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 56,
+      "worthiness_score": 57,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
         "report-worthy"
       ],
       "metrics": {
-        "likes": 174,
-        "retweets": 16,
-        "replies": 20,
-        "likes_h": "174"
+        "likes": 213,
+        "retweets": 21,
+        "replies": 26,
+        "likes_h": "213"
       },
-      "engagement": 226,
+      "engagement": 281,
       "hot": false
     },
     {
@@ -80,15 +498,15 @@
         "report-worthy",
         "announcement language (introducing)",
         "tech substance (model, models)",
-        "high engagement (2.2K likes)"
+        "high engagement (2.3K likes)"
       ],
       "metrics": {
-        "likes": 2226,
-        "retweets": 343,
-        "replies": 159,
-        "likes_h": "2.2K"
+        "likes": 2339,
+        "retweets": 360,
+        "replies": 163,
+        "likes_h": "2.3K"
       },
-      "engagement": 3071,
+      "engagement": 3222,
       "hot": false
     },
     {
@@ -115,7 +533,7 @@
       "summary": "🌍 20 million lives impacted every single year. That is the power of technology when it is purposefully engineered to serve humanity. In many low and middle-income countries, healthcare professionals face immense barriers such as unreliable internet, a lack of localized",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 85,
+      "worthiness_score": 86,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -124,12 +542,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 195,
-        "retweets": 20,
-        "replies": 20,
-        "likes_h": "195"
+        "likes": 219,
+        "retweets": 27,
+        "replies": 26,
+        "likes_h": "219"
       },
-      "engagement": 255,
+      "engagement": 299,
       "hot": false
     },
     {
@@ -164,12 +582,12 @@
         "tech substance (models, gemini)"
       ],
       "metrics": {
-        "likes": 512,
-        "retweets": 69,
-        "replies": 41,
-        "likes_h": "512"
+        "likes": 545,
+        "retweets": 74,
+        "replies": 42,
+        "likes_h": "545"
       },
-      "engagement": 691,
+      "engagement": 735,
       "hot": false
     },
     {
@@ -202,15 +620,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (gpus, reasoning)",
-        "high engagement (807 likes)"
+        "high engagement (885 likes)"
       ],
       "metrics": {
-        "likes": 807,
-        "retweets": 88,
-        "replies": 57,
-        "likes_h": "807"
+        "likes": 885,
+        "retweets": 102,
+        "replies": 65,
+        "likes_h": "885"
       },
-      "engagement": 1040,
+      "engagement": 1154,
       "hot": false
     },
     {
@@ -285,15 +703,15 @@
         "reply / conversation",
         "tech substance (models, weights)",
         "links to a source",
-        "high engagement (1.2K likes)"
+        "high engagement (1.4K likes)"
       ],
       "metrics": {
-        "likes": 1213,
-        "retweets": 88,
-        "replies": 66,
-        "likes_h": "1.2K"
+        "likes": 1403,
+        "retweets": 114,
+        "replies": 86,
+        "likes_h": "1.4K"
       },
-      "engagement": 1455,
+      "engagement": 1717,
       "hot": false
     },
     {
@@ -328,15 +746,15 @@
         "reply / conversation",
         "tech substance (models, claude, paper)",
         "links to a source",
-        "high engagement (854 likes)"
+        "high engagement (918 likes)"
       ],
       "metrics": {
-        "likes": 854,
-        "retweets": 62,
-        "replies": 30,
-        "likes_h": "854"
+        "likes": 918,
+        "retweets": 68,
+        "replies": 41,
+        "likes_h": "918"
       },
-      "engagement": 1008,
+      "engagement": 1095,
       "hot": false
     },
     {
@@ -373,12 +791,12 @@
         "high engagement (1.1K likes)"
       ],
       "metrics": {
-        "likes": 1057,
-        "retweets": 62,
-        "replies": 9,
+        "likes": 1123,
+        "retweets": 65,
+        "replies": 11,
         "likes_h": "1.1K"
       },
-      "engagement": 1190,
+      "engagement": 1264,
       "hot": false
     },
     {
@@ -412,15 +830,15 @@
         "report-worthy",
         "reply / conversation",
         "tech substance (claude, reasoning)",
-        "high engagement (1.6K likes)"
+        "high engagement (1.8K likes)"
       ],
       "metrics": {
-        "likes": 1642,
-        "retweets": 114,
+        "likes": 1807,
+        "retweets": 124,
         "replies": 20,
-        "likes_h": "1.6K"
+        "likes_h": "1.8K"
       },
-      "engagement": 1890,
+      "engagement": 2075,
       "hot": false
     },
     {
@@ -455,15 +873,15 @@
         "reply / conversation",
         "tech substance (claude, research)",
         "links to a source",
-        "high engagement (2.7K likes)"
+        "high engagement (2.9K likes)"
       ],
       "metrics": {
-        "likes": 2654,
-        "retweets": 281,
-        "replies": 72,
-        "likes_h": "2.7K"
+        "likes": 2865,
+        "retweets": 306,
+        "replies": 75,
+        "likes_h": "2.9K"
       },
-      "engagement": 3288,
+      "engagement": 3552,
       "hot": false
     },
     {
@@ -496,15 +914,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (models, claude, research)",
-        "high engagement (25.6K likes)"
+        "high engagement (27.5K likes)"
       ],
       "metrics": {
-        "likes": 25556,
-        "retweets": 3465,
-        "replies": 1127,
-        "likes_h": "25.6K"
+        "likes": 27488,
+        "retweets": 3763,
+        "replies": 1217,
+        "likes_h": "27.5K"
       },
-      "engagement": 33613,
+      "engagement": 36231,
       "hot": true
     },
     {
@@ -582,12 +1000,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 646,
-        "retweets": 110,
-        "replies": 86,
-        "likes_h": "646"
+        "likes": 655,
+        "retweets": 114,
+        "replies": 89,
+        "likes_h": "655"
       },
-      "engagement": 952,
+      "engagement": 972,
       "hot": false
     },
     {
@@ -918,419 +1336,7 @@
         "likes_h": "4.5K"
       },
       "engagement": 5706,
-      "hot": true
-    },
-    {
-      "id": "x_2071988050012303710",
-      "title": "Gemini Omni Flash shines in: 🔵 Conversational video editing 🔵 Multimodal referencing and combining inputs ​​🔵 Real-world knowledge 🔵 Connecting text and graphics directly to video actions It’s…",
-      "link": "https://x.com/GoogleDeepMind/status/2071988050012303710",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Google DeepMind · @GoogleDeepMind",
-      "handle": "GoogleDeepMind",
-      "org": "Google",
-      "published": "2026-06-30T16:03:41.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "Google",
-        "Product"
-      ],
-      "summary": "Gemini Omni Flash shines in: 🔵 Conversational video editing 🔵 Multimodal referencing and combining inputs ​​🔵 Real-world knowledge 🔵 Connecting text and graphics directly to video actions It’s available in @GoogleAIStudio, the Gemini API and Gemini Enterprise Agent Platform",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 80,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "reply / conversation",
-        "tech substance (gemini, api, agent)",
-        "business signal (enterprise)"
-      ],
-      "metrics": {
-        "likes": 276,
-        "retweets": 32,
-        "replies": 7,
-        "likes_h": "276"
-      },
-      "engagement": 347,
       "hot": false
-    },
-    {
-      "id": "x_2071988044878516466",
-      "title": "We’re shipping 2 major releases: 🔘 Nano Banana 2 Lite: our fastest and cheapest Gemini Image model 🔘 Gemini Omni Flash: now available via the Gemini API and in @GoogleAIStudio to help developers…",
-      "link": "https://x.com/GoogleDeepMind/status/2071988044878516466",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Google DeepMind · @GoogleDeepMind",
-      "handle": "GoogleDeepMind",
-      "org": "Google",
-      "published": "2026-06-30T16:03:40.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product launch",
-      "categories": [
-        "X",
-        "Google",
-        "Product launch"
-      ],
-      "summary": "We’re shipping 2 major releases: 🔘 Nano Banana 2 Lite: our fastest and cheapest Gemini Image model 🔘 Gemini Omni Flash: now available via the Gemini API and in @GoogleAIStudio to help developers generate and edit high-quality videos.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 100,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "announcement language (now available, shipping)",
-        "tech substance (model, gemini, api)",
-        "high engagement (1.1K likes)"
-      ],
-      "metrics": {
-        "likes": 1112,
-        "retweets": 196,
-        "replies": 99,
-        "likes_h": "1.1K"
-      },
-      "engagement": 1603,
-      "hot": false
-    },
-    {
-      "id": "x_2071979909199577560",
-      "title": "NVIDIA inference software keeps driving down token costs, long after AI infrastructure is deployed. ⚡ In just one month on NVIDIA Blackwell, software optimizations improved DeepSeek V4 performance by…",
-      "link": "https://x.com/nvidia/status/2071979909199577560",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-30T15:31:20.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product"
-      ],
-      "summary": "NVIDIA inference software keeps driving down token costs, long after AI infrastructure is deployed. ⚡ In just one month on NVIDIA Blackwell, software optimizations improved DeepSeek V4 performance by up to 5×, reducing token costs to roughly one-fifth of previous levels.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 82,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (inference, blackwell)"
-      ],
-      "metrics": {
-        "likes": 657,
-        "retweets": 96,
-        "replies": 60,
-        "likes_h": "657"
-      },
-      "engagement": 909,
-      "hot": false
-    },
-    {
-      "id": "x_2071715347581837357",
-      "title": "We're working with @PalantirTech to bring NVIDIA Nemotron open models into secure, air-gapped environments for U.S. government agencies and critical infrastructure operators. The new engine lets…",
-      "link": "https://x.com/nvidia/status/2071715347581837357",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-29T22:00:04.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product"
-      ],
-      "summary": "We're working with @PalantirTech to bring NVIDIA Nemotron open models into secure, air-gapped environments for U.S. government agencies and critical infrastructure operators. The new engine lets teams train on their own data, run models on their own infrastructure and retain",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 82,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "tech substance (models, nemotron)",
-        "high engagement (1.4K likes)"
-      ],
-      "metrics": {
-        "likes": 1382,
-        "retweets": 237,
-        "replies": 64,
-        "likes_h": "1.4K"
-      },
-      "engagement": 1920,
-      "hot": false
-    },
-    {
-      "id": "x_2071685134990897443",
-      "title": "The future of computer graphics is here, and it's built by AI. ✨ Don't miss the NVIDIA Research Keynote at SIGGRAPH 2026 for live demos and research examples showcasing breakthrough neural rendering,…",
-      "link": "https://x.com/nvidia/status/2071685134990897443",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-29T20:00:00.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Research"
-      ],
-      "summary": "The future of computer graphics is here, and it's built by AI. ✨ Don't miss the NVIDIA Research Keynote at SIGGRAPH 2026 for live demos and research examples showcasing breakthrough neural rendering, world models, and simulation methods across creative tools, industrial design,",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 79,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "tech substance (models, research)"
-      ],
-      "metrics": {
-        "likes": 242,
-        "retweets": 44,
-        "replies": 30,
-        "likes_h": "242"
-      },
-      "engagement": 360,
-      "hot": false
-    },
-    {
-      "id": "x_2071673460779041155",
-      "title": "Deaths in Africa DECREASED after USAID funding was cut, because they’re no longer able to push for violent revolution to install leftist regimes!",
-      "link": "https://x.com/elonmusk/status/2071673460779041155",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Elon Musk · @elonmusk",
-      "handle": "elonmusk",
-      "org": "xAI/Tesla",
-      "published": "2026-06-29T19:13:37.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "xAI/Tesla",
-        "Commentary"
-      ],
-      "summary": "Deaths in Africa DECREASED after USAID funding was cut, because they’re no longer able to push for violent revolution to install leftist regimes!",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 71,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "business signal (funding)",
-        "high engagement (45.9K likes)"
-      ],
-      "metrics": {
-        "likes": 45929,
-        "retweets": 9826,
-        "replies": 2682,
-        "likes_h": "45.9K"
-      },
-      "engagement": 68263,
-      "hot": true
-    },
-    {
-      "id": "x_2071654937335926864",
-      "title": "📣 @AnthropicAI Claude models are now generally available in @Microsoft Foundry, running on the NVIDIA GB300 NVL72 platform on Azure with NVIDIA Quantum-X800 InfiniBand networking. For enterprises…",
-      "link": "https://x.com/nvidia/status/2071654937335926864",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-29T18:00:01.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product launch",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product launch"
-      ],
-      "summary": "📣 @AnthropicAI Claude models are now generally available in @Microsoft Foundry, running on the NVIDIA GB300 NVL72 platform on Azure with NVIDIA Quantum-X800 InfiniBand networking. For enterprises building the next generation of agentic AI, this means more powerful autonomous",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 97,
-      "sentiment": "positive",
-      "sentiment_score": 1,
-      "reasons": [
-        "report-worthy",
-        "casual tone (this)",
-        "announcement language (generally available)",
-        "tech substance (models, claude, platform)",
-        "high engagement (1.4K likes)"
-      ],
-      "metrics": {
-        "likes": 1393,
-        "retweets": 168,
-        "replies": 89,
-        "likes_h": "1.4K"
-      },
-      "engagement": 1818,
-      "hot": false
-    },
-    {
-      "id": "x_2071594539500921283",
-      "title": "📣 We are collaborating with the @NPS_Monterey to empower thousands of students to work and build applications with AI. Hear from Todd Lyons, EVP at the @npsfoundation, on how #NVIDIADGX and NVIDIA…",
-      "link": "https://x.com/nvidia/status/2071594539500921283",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-06-29T14:00:01.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Commentary",
-        "NVIDIADGX"
-      ],
-      "summary": "📣 We are collaborating with the @NPS_Monterey to empower thousands of students to work and build applications with AI. Hear from Todd Lyons, EVP at the @npsfoundation, on how #NVIDIADGX and NVIDIA Omniverse are helping to create synthetic data, train tailored foundational",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 58,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy"
-      ],
-      "metrics": {
-        "likes": 371,
-        "retweets": 63,
-        "replies": 35,
-        "likes_h": "371"
-      },
-      "engagement": 532,
-      "hot": false
-    },
-    {
-      "id": "x_2071184354756477041",
-      "title": "Grok 4.5, based on our 1.5T V9 foundation model, with Cursor data added in supplemental training, is now in private beta at SpaceX &amp; Tesla. Early evals show performance close to, perhaps…",
-      "link": "https://x.com/elonmusk/status/2071184354756477041",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Elon Musk · @elonmusk",
-      "handle": "elonmusk",
-      "org": "xAI/Tesla",
-      "published": "2026-06-28T10:50:05.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "xAI/Tesla",
-        "Research"
-      ],
-      "summary": "Grok 4.5, based on our 1.5T V9 foundation model, with Cursor data added in supplemental training, is now in private beta at SpaceX &amp; Tesla. Early evals show performance close to, perhaps exceeding Opus. RL is continuing to significantly improve the model, and the Grok Build",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 70,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "casual tone (based)",
-        "tech substance (model, grok, opus)",
-        "high engagement (31.1K likes)"
-      ],
-      "metrics": {
-        "likes": 31069,
-        "retweets": 3824,
-        "replies": 4861,
-        "likes_h": "31.1K"
-      },
-      "engagement": 43578,
-      "hot": true
-    },
-    {
-      "id": "x_2070665903440871779",
-      "title": "Since June 12, we’ve been working closely with the US government to restore access to Claude Mythos 5 and Fable 5. Today, the government notified us that Mythos 5, our strongest cybersecurity model,…",
-      "link": "https://x.com/AnthropicAI/status/2070665903440871779",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Anthropic · @AnthropicAI",
-      "handle": "AnthropicAI",
-      "org": "Anthropic",
-      "published": "2026-06-27T00:29:57.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "Anthropic",
-        "Product"
-      ],
-      "summary": "Since June 12, we’ve been working closely with the US government to restore access to Claude Mythos 5 and Fable 5. Today, the government notified us that Mythos 5, our strongest cybersecurity model, can be redeployed to a set of US organizations that operate and defend critical",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 79,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (model, claude)",
-        "high engagement (30.6K likes)"
-      ],
-      "metrics": {
-        "likes": 30624,
-        "retweets": 3194,
-        "replies": 2408,
-        "likes_h": "30.6K"
-      },
-      "engagement": 39420,
-      "hot": true
     }
   ]
 }
