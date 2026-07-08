@@ -1,15 +1,53 @@
 {
-  "generated_at": "2026-07-07T22:40:33.722Z",
+  "generated_at": "2026-07-08T00:02:37.588Z",
   "handles": [
+    "AnthropicAI",
+    "OpenAI",
     "nvidia",
     "GoogleDeepMind",
-    "AnthropicAI",
-    "elonmusk",
-    "OpenAI",
-    "gdb"
+    "elonmusk"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2074584281662300649",
+      "title": "Join NVIDIA for AI in Production Day at SIGGRAPH 2026. 🎥 On Thursday, July 23, explore how generative and agentic AI are moving into real-world creative pipelines through a full day of sessions…",
+      "link": "https://x.com/nvidia/status/2074584281662300649",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-07-07T20:00:11.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Commentary"
+      ],
+      "summary": "Join NVIDIA for AI in Production Day at SIGGRAPH 2026. 🎥 On Thursday, July 23, explore how generative and agentic AI are moving into real-world creative pipelines through a full day of sessions focused on film, animation, storytelling, and production workflows. Hear from",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 55,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy"
+      ],
+      "metrics": {
+        "likes": 97,
+        "retweets": 11,
+        "replies": 14,
+        "likes_h": "97"
+      },
+      "engagement": 133,
+      "hot": false
+    },
     {
       "id": "x_2074554037509185674",
       "title": "🌍 20 million lives impacted every single year. That is the power of technology when it is purposefully engineered to serve humanity. In many low and middle-income countries, healthcare professionals…",
@@ -34,7 +72,7 @@
       "summary": "🌍 20 million lives impacted every single year. That is the power of technology when it is purposefully engineered to serve humanity. In many low and middle-income countries, healthcare professionals face immense barriers such as unreliable internet, a lack of localized",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 83,
+      "worthiness_score": 85,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -43,12 +81,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 67,
-        "retweets": 10,
-        "replies": 11,
-        "likes_h": "67"
+        "likes": 128,
+        "retweets": 17,
+        "replies": 14,
+        "likes_h": "128"
       },
-      "engagement": 98,
+      "engagement": 176,
       "hot": false
     },
     {
@@ -75,7 +113,7 @@
       "summary": "🏛️ We’re unveiling a new way to converse with the ancient world. By grounding Gemini directly in our expert models Aeneas and Ithaca, our Predicting the Past Skill in Google @antigravity lets historians study Greek and Latin texts using plain English. 🧵",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 80,
+      "worthiness_score": 81,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -83,12 +121,12 @@
         "tech substance (models, gemini)"
       ],
       "metrics": {
-        "likes": 354,
-        "retweets": 48,
-        "replies": 25,
-        "likes_h": "354"
+        "likes": 440,
+        "retweets": 59,
+        "replies": 32,
+        "likes_h": "440"
       },
-      "engagement": 475,
+      "engagement": 590,
       "hot": false
     },
     {
@@ -115,7 +153,7 @@
       "summary": "NVIDIA Vera: The Max Single-Threaded CPU at Scale. Agentic AI systems run sequentially, each reasoning step, tool call, and code execution happens one at a time on the CPU. When that CPU slows under load, the entire agentic loop slows and valuable GPUs go underutilized. A max",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 80,
+      "worthiness_score": 81,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -123,12 +161,12 @@
         "tech substance (gpus, reasoning)"
       ],
       "metrics": {
-        "likes": 373,
-        "retweets": 50,
-        "replies": 38,
-        "likes_h": "373"
+        "likes": 542,
+        "retweets": 67,
+        "replies": 42,
+        "likes_h": "542"
       },
-      "engagement": 511,
+      "engagement": 718,
       "hot": false
     },
     {
@@ -163,12 +201,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 165,
+        "likes": 167,
         "retweets": 15,
         "replies": 27,
-        "likes_h": "165"
+        "likes_h": "167"
       },
-      "engagement": 222,
+      "engagement": 224,
       "hot": false
     },
     {
@@ -203,15 +241,15 @@
         "reply / conversation",
         "tech substance (models, weights)",
         "links to a source",
-        "high engagement (968 likes)"
+        "high engagement (1.2K likes)"
       ],
       "metrics": {
-        "likes": 968,
-        "retweets": 69,
-        "replies": 48,
-        "likes_h": "968"
+        "likes": 1213,
+        "retweets": 88,
+        "replies": 66,
+        "likes_h": "1.2K"
       },
-      "engagement": 1154,
+      "engagement": 1455,
       "hot": false
     },
     {
@@ -245,15 +283,16 @@
         "report-worthy",
         "reply / conversation",
         "tech substance (models, claude, paper)",
-        "links to a source"
+        "links to a source",
+        "high engagement (854 likes)"
       ],
       "metrics": {
-        "likes": 755,
-        "retweets": 56,
-        "replies": 23,
-        "likes_h": "755"
+        "likes": 854,
+        "retweets": 62,
+        "replies": 30,
+        "likes_h": "854"
       },
-      "engagement": 890,
+      "engagement": 1008,
       "hot": false
     },
     {
@@ -287,15 +326,15 @@
         "report-worthy",
         "reply / conversation",
         "tech substance (claude, reasoning)",
-        "high engagement (961 likes)"
+        "high engagement (1.1K likes)"
       ],
       "metrics": {
-        "likes": 961,
-        "retweets": 56,
+        "likes": 1057,
+        "retweets": 62,
         "replies": 9,
-        "likes_h": "961"
+        "likes_h": "1.1K"
       },
-      "engagement": 1082,
+      "engagement": 1190,
       "hot": false
     },
     {
@@ -329,15 +368,15 @@
         "report-worthy",
         "reply / conversation",
         "tech substance (claude, reasoning)",
-        "high engagement (1.4K likes)"
+        "high engagement (1.6K likes)"
       ],
       "metrics": {
-        "likes": 1442,
-        "retweets": 101,
-        "replies": 14,
-        "likes_h": "1.4K"
+        "likes": 1642,
+        "retweets": 114,
+        "replies": 20,
+        "likes_h": "1.6K"
       },
-      "engagement": 1658,
+      "engagement": 1890,
       "hot": false
     },
     {
@@ -372,15 +411,15 @@
         "reply / conversation",
         "tech substance (claude, research)",
         "links to a source",
-        "high engagement (2.3K likes)"
+        "high engagement (2.7K likes)"
       ],
       "metrics": {
-        "likes": 2327,
-        "retweets": 253,
-        "replies": 57,
-        "likes_h": "2.3K"
+        "likes": 2654,
+        "retweets": 281,
+        "replies": 72,
+        "likes_h": "2.7K"
       },
-      "engagement": 2890,
+      "engagement": 3288,
       "hot": false
     },
     {
@@ -413,15 +452,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (models, claude, research)",
-        "high engagement (22.4K likes)"
+        "high engagement (25.6K likes)"
       ],
       "metrics": {
-        "likes": 22351,
-        "retweets": 3013,
-        "replies": 1007,
-        "likes_h": "22.4K"
+        "likes": 25556,
+        "retweets": 3465,
+        "replies": 1127,
+        "likes_h": "25.6K"
       },
-      "engagement": 29384,
+      "engagement": 33613,
       "hot": true
     },
     {
@@ -457,12 +496,12 @@
         "tech substance (models, nemotron, research)"
       ],
       "metrics": {
-        "likes": 490,
+        "likes": 497,
         "retweets": 61,
-        "replies": 48,
-        "likes_h": "490"
+        "replies": 50,
+        "likes_h": "497"
       },
-      "engagement": 660,
+      "engagement": 669,
       "hot": false
     },
     {
@@ -499,12 +538,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 620,
-        "retweets": 105,
-        "replies": 79,
-        "likes_h": "620"
+        "likes": 629,
+        "retweets": 106,
+        "replies": 83,
+        "likes_h": "629"
       },
-      "engagement": 909,
+      "engagement": 924,
       "hot": false
     },
     {
@@ -540,12 +579,12 @@
         "high engagement (2.1K likes)"
       ],
       "metrics": {
-        "likes": 2067,
+        "likes": 2064,
         "retweets": 195,
         "replies": 93,
         "likes_h": "2.1K"
       },
-      "engagement": 2550,
+      "engagement": 2547,
       "hot": false
     },
     {
@@ -829,12 +868,12 @@
         "high engagement (4.5K likes)"
       ],
       "metrics": {
-        "likes": 4504,
-        "retweets": 411,
-        "replies": 359,
+        "likes": 4516,
+        "retweets": 414,
+        "replies": 362,
         "likes_h": "4.5K"
       },
-      "engagement": 5685,
+      "engagement": 5706,
       "hot": false
     },
     {
@@ -1288,47 +1327,6 @@
       },
       "engagement": 680,
       "hot": false
-    },
-    {
-      "id": "x_2070555985840906333",
-      "title": "GPT-5.6 Sol preview — it's a good model:",
-      "link": "https://x.com/gdb/status/2070555985840906333",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Greg Brockman · @gdb",
-      "handle": "gdb",
-      "org": "OpenAI",
-      "published": "2026-06-26T17:13:10.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Product"
-      ],
-      "summary": "GPT-5.6 Sol preview — it's a good model:",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 73,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (model, gpt)",
-        "high engagement (7.6K likes)"
-      ],
-      "metrics": {
-        "likes": 7583,
-        "retweets": 414,
-        "replies": 576,
-        "likes_h": "7.6K"
-      },
-      "engagement": 8987,
-      "hot": true
     }
   ]
 }
