@@ -1,37 +1,76 @@
 {
-  "generated_at": "2026-07-09T20:03:16.865Z",
+  "generated_at": "2026-07-09T21:41:42.336Z",
   "subs": [
     "MachineLearning",
-    "Fitness",
-    "robotics",
+    "science",
+    "cybersecurity",
     "running",
     "netsec",
     "programming",
-    "science",
+    "Fitness",
     "startups",
     "artificial",
     "investing",
+    "robotics",
     "SkincareAddiction",
     "Futurology",
     "nutrition",
     "bodyweightfitness",
     "LocalLLaMA",
-    "cybersecurity",
     "gadgets"
   ],
   "count": 36,
   "by_category": {
-    "Fitness": 9,
-    "Security": 4,
+    "Security": 6,
+    "Fitness": 8,
     "Coding & Dev Tools": 3,
-    "Science": 2,
+    "Science": 3,
     "Startups & Funding": 4,
-    "AI / ML": 7,
+    "AI / ML": 6,
     "Robotics": 2,
     "Skincare": 3,
-    "Hardware & Gadgets": 2
+    "Hardware & Gadgets": 1
   },
   "articles": [
+    {
+      "id": "reddit_1urodkp",
+      "title": "MOD REQUEST: Can you ban the excessive AI posters please?",
+      "link": "https://www.reddit.com/r/cybersecurity/comments/1urodkp/mod_request_can_you_ban_the_excessive_ai_posters/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/cybersecurity · community knowledge",
+      "content_type": "post",
+      "author": "u/Ambitious_Active8539 · r/cybersecurity",
+      "handle": "cybersecurity",
+      "org": "r/cybersecurity",
+      "platform": "reddit",
+      "published": "2026-07-09T12:07:09.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/cybersecurity"
+      ],
+      "summary": "This subreddit is turning into a cesspit of Gen AI garbage, every other post reads like it was written by the same person. &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/cybersecurity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1urmvos",
       "title": "2027 Double TCS London Marathon ballot results announced today!",
@@ -64,6 +103,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/running this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1ur8bq0",
+      "title": "Google pays 250K for Linux vulnerability allowing guest VM escapes",
+      "link": "https://www.reddit.com/r/cybersecurity/comments/1ur8bq0/google_pays_250k_for_linux_vulnerability_allowing/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/cybersecurity · community knowledge",
+      "content_type": "post",
+      "author": "u/rkhunter_ · r/cybersecurity",
+      "handle": "cybersecurity",
+      "org": "r/cybersecurity",
+      "platform": "reddit",
+      "published": "2026-07-08T22:48:04.000Z",
+      "image": "https://external-preview.redd.it/w8YCaglt01DVzOSDwYhVt9sHHykhGBPWLtI8lbzHhmo.jpeg?width=640&crop=smart&auto=webp&s=ed2f95c669f527b995ec05d6f39328e080869458",
+      "thumbnail": "https://external-preview.redd.it/w8YCaglt01DVzOSDwYhVt9sHHykhGBPWLtI8lbzHhmo.jpeg?width=640&crop=smart&auto=webp&s=ed2f95c669f527b995ec05d6f39328e080869458",
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/cybersecurity"
+      ],
+      "summary": "Google pays 250K for Linux vulnerability allowing guest VM escapes",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/cybersecurity this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1017,6 +1095,45 @@
       }
     },
     {
+      "id": "reddit_1up2p0r",
+      "title": "Simply offering more vegan options in a university cafeteria—even without price cuts or advertising—drives up plant-based choices among students, with every 10% increase in availability boosting vegan sales by 8.3% and lowering the kitchen's environmental footprint.",
+      "link": "https://www.reddit.com/r/science/comments/1up2p0r/simply_offering_more_vegan_options_in_a/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/science · community knowledge",
+      "content_type": "post",
+      "author": "u/DrPharmakon · r/science",
+      "handle": "science",
+      "org": "r/science",
+      "platform": "reddit",
+      "published": "2026-07-06T16:40:40.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/science"
+      ],
+      "summary": "Simply offering more vegan options in a university cafeteria—even without price cuts or advertising—drives up plant-based choices among students, with every 10% increase in availability boosting vegan sales by 8.3% and lowering the kitchen's environmental footprint.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/science this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1uoz05q",
       "title": "New OST2 class: \"Architecture 1901: From zero to QEMU - A Gentle introduction to emulators from the ground up!\"",
       "link": "https://www.reddit.com/r/netsec/comments/1uoz05q/new_ost2_class_architecture_1901_from_zero_to/",
@@ -1324,125 +1441,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/nutrition this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uondq5",
-      "title": "Motorola officially details new phone with 3.5mm headphone jack before launch",
-      "link": "https://www.reddit.com/r/gadgets/comments/1uondq5/motorola_officially_details_new_phone_with_35mm/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/gadgets · community knowledge",
-      "content_type": "post",
-      "author": "u/dapperlemon · r/gadgets",
-      "handle": "gadgets",
-      "org": "r/gadgets",
-      "platform": "reddit",
-      "published": "2026-07-06T04:40:21.000Z",
-      "image": "https://external-preview.redd.it/hrgkeLP5dd7ivIqpL4VfaWYgUe9hbMwzKcqMRzQOFcQ.png?width=640&crop=smart&auto=webp&s=db3776e4861ef6cf81edef0ad09cb70e67e9c594",
-      "thumbnail": "https://external-preview.redd.it/hrgkeLP5dd7ivIqpL4VfaWYgUe9hbMwzKcqMRzQOFcQ.png?width=640&crop=smart&auto=webp&s=db3776e4861ef6cf81edef0ad09cb70e67e9c594",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/gadgets"
-      ],
-      "summary": "Motorola officially details new phone with 3.5mm headphone jack before launch",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/gadgets this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uojh0c",
-      "title": "Is it OK to eat oven roasted deli turkey every morning for breakfast?",
-      "link": "https://www.reddit.com/r/nutrition/comments/1uojh0c/is_it_ok_to_eat_oven_roasted_deli_turkey_every/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/nutrition · community knowledge",
-      "content_type": "post",
-      "author": "u/anotherhappylurker · r/nutrition",
-      "handle": "nutrition",
-      "org": "r/nutrition",
-      "platform": "reddit",
-      "published": "2026-07-06T01:25:26.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Nutrition",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "Nutrition",
-        "r/nutrition"
-      ],
-      "summary": "So one of the &quot;healthy&quot; high protein breakfasts I&#39;ve been making almost every day recently is a bagel with cottage cheese and oven roasted turkey slices. I know that processed meats aren&#39;t good for you, but the turkey I use is 100% natural with no preservatives, no nitrates, no artificial ingredients…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/nutrition this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uoij3s",
-      "title": "If trends hold, Mythos-class capability may be running on high-end consumer hardware within ~2 years",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1uoij3s/if_trends_hold_mythosclass_capability_may_be/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/LocalLLaMA · community knowledge",
-      "content_type": "post",
-      "author": "u/PetersOdyssey · r/LocalLLaMA",
-      "handle": "LocalLLaMA",
-      "org": "r/LocalLLaMA",
-      "platform": "reddit",
-      "published": "2026-07-06T00:40:32.000Z",
-      "image": "https://preview.redd.it/5xwuga6pwhbh1.png?width=640&crop=smart&auto=webp&s=faca5b4a106fde7d7dd88cfd363b58f80b260ded",
-      "thumbnail": "https://preview.redd.it/5xwuga6pwhbh1.png?width=640&crop=smart&auto=webp&s=faca5b4a106fde7d7dd88cfd363b58f80b260ded",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/LocalLLaMA"
-      ],
-      "summary": "If trends hold, Mythos-class capability may be running on high-end consumer hardware within ~2 years",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/LocalLLaMA this week"
       ],
       "metrics": {
         "likes": 0,
