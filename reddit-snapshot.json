@@ -1,17 +1,18 @@
 {
-  "generated_at": "2026-07-09T12:12:11.897Z",
+  "generated_at": "2026-07-09T15:46:04.645Z",
   "subs": [
     "MachineLearning",
-    "bodyweightfitness",
-    "startups",
+    "artificial",
+    "running",
+    "investing",
     "netsec",
     "programming",
     "science",
-    "artificial",
-    "investing",
+    "startups",
     "SkincareAddiction",
     "Futurology",
     "nutrition",
+    "bodyweightfitness",
     "LocalLLaMA",
     "cybersecurity",
     "gadgets",
@@ -20,16 +21,55 @@
   ],
   "count": 36,
   "by_category": {
+    "Fitness": 8,
     "Security": 5,
-    "Coding & Dev Tools": 4,
-    "Science": 4,
+    "Coding & Dev Tools": 3,
+    "Science": 3,
     "Startups & Funding": 5,
     "AI / ML": 7,
     "Skincare": 3,
-    "Fitness": 6,
     "Hardware & Gadgets": 2
   },
   "articles": [
+    {
+      "id": "reddit_1urmvos",
+      "title": "2027 Double TCS London Marathon ballot results announced today!",
+      "link": "https://www.reddit.com/r/running/comments/1urmvos/2027_double_tcs_london_marathon_ballot_results/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/running · community knowledge",
+      "content_type": "post",
+      "author": "u/SuperFlyChris · r/running",
+      "handle": "running",
+      "org": "r/running",
+      "platform": "reddit",
+      "published": "2026-07-09T10:56:35.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/running"
+      ],
+      "summary": "https://www.londonmarathonevents.co.uk/london-marathon/article/2027-double-tcs-london-marathon-ballot-results-announced-today I am going for my 14th rejection in a row! Comment below when you get your email. What was the result? Where are you from? What attempt number? Good luck to all! Run fast, run free! &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/running this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1ur02bp",
       "title": "1 in 2 devices sold in Africa exfiltrate data to China",
@@ -180,6 +220,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/startups this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uqizo6",
+      "title": "Achievements for Wednesday, July 08, 2026",
+      "link": "https://www.reddit.com/r/running/comments/1uqizo6/achievements_for_wednesday_july_08_2026/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/running · community knowledge",
+      "content_type": "post",
+      "author": "u/AutoModerator · r/running",
+      "handle": "running",
+      "org": "r/running",
+      "platform": "reddit",
+      "published": "2026-07-08T05:02:06.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/running"
+      ],
+      "summary": "Hey runners, it&#39;s another day and it is time to post your accomplishments you&#39;d like to share - big or small. Note: No need to preface YOUR accomplishments with something like, &quot;this may not be an accomplishment to most of you...&quot;. Be proud of your achievement. &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/running this week"
       ],
       "metrics": {
         "likes": 0,
@@ -977,6 +1056,45 @@
       }
     },
     {
+      "id": "reddit_1uouip1",
+      "title": "Miscellaneous Monday Chit Chat",
+      "link": "https://www.reddit.com/r/running/comments/1uouip1/miscellaneous_monday_chit_chat/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/running · community knowledge",
+      "content_type": "post",
+      "author": "u/fire_foot · r/running",
+      "handle": "running",
+      "org": "r/running",
+      "platform": "reddit",
+      "published": "2026-07-06T11:23:15.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/running"
+      ],
+      "summary": "Happy Monday runners! What’s good, what’s bad, what’s yet to pass — let’s chat about it! &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/running this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1uotev5",
       "title": "How do people start doing pushups at such a high rep count ?",
       "link": "https://www.reddit.com/r/bodyweightfitness/comments/1uotev5/how_do_people_start_doing_pushups_at_such_a_high/",
@@ -1326,123 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/longevity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uo5g6c",
-      "title": "Just found out I’ve been doing pushups wrong my whole life",
-      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1uo5g6c/just_found_out_ive_been_doing_pushups_wrong_my/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/bodyweightfitness · community knowledge",
-      "content_type": "post",
-      "author": "u/FlyingSpacefrog · r/bodyweightfitness",
-      "handle": "bodyweightfitness",
-      "org": "r/bodyweightfitness",
-      "platform": "reddit",
-      "published": "2026-07-05T15:45:17.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/bodyweightfitness"
-      ],
-      "summary": "Basically, I’ve been doing my pushups with my arms at a 90 degree angle from my torso so my body looks like a T. After doing 100-150 pushups twice a week for several weeks (started at 5 sets of 20 and worked my way up to 5 sets of 30) I was starting to wonder why my chest wasn’t getting any bigger or stronger, and…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/bodyweightfitness this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uo3u90",
-      "title": "AI Data Centers Use Far More Water Than Most Tech Giants Report",
-      "link": "https://www.reddit.com/r/Futurology/comments/1uo3u90/ai_data_centers_use_far_more_water_than_most_tech/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/Futurology · community knowledge",
-      "content_type": "post",
-      "author": "u/Krankenitrate · r/Futurology",
-      "handle": "Futurology",
-      "org": "r/Futurology",
-      "platform": "reddit",
-      "published": "2026-07-05T14:39:00.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/Futurology"
-      ],
-      "summary": "AI Data Centers Use Far More Water Than Most Tech Giants Report",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/Futurology this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uo1w91",
-      "title": "What ORMs have taught me: just learn SQL",
-      "link": "https://www.reddit.com/r/programming/comments/1uo1w91/what_orms_have_taught_me_just_learn_sql/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/programming · community knowledge",
-      "content_type": "post",
-      "author": "u/Either_Collection349 · r/programming",
-      "handle": "programming",
-      "org": "r/programming",
-      "platform": "reddit",
-      "published": "2026-07-05T13:12:34.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Coding & Dev Tools",
-      "category": "Coding & Dev Tools",
-      "genre": "Coding & Dev Tools",
-      "categories": [
-        "Reddit",
-        "Coding & Dev Tools",
-        "r/programming"
-      ],
-      "summary": "What ORMs have taught me: just learn SQL",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/programming this week"
       ],
       "metrics": {
         "likes": 0,
