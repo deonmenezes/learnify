@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-07-09T08:39:58.178Z",
+  "generated_at": "2026-07-09T12:12:11.897Z",
   "subs": [
     "MachineLearning",
-    "artificial",
-    "nutrition",
+    "bodyweightfitness",
+    "startups",
     "netsec",
     "programming",
     "science",
+    "artificial",
     "investing",
     "SkincareAddiction",
     "Futurology",
-    "bodyweightfitness",
+    "nutrition",
     "LocalLLaMA",
     "cybersecurity",
     "gadgets",
-    "startups",
     "singularity",
     "longevity"
   ],
@@ -23,11 +23,11 @@
     "Security": 5,
     "Coding & Dev Tools": 4,
     "Science": 4,
-    "AI / ML": 8,
-    "Startups & Funding": 3,
+    "Startups & Funding": 5,
+    "AI / ML": 7,
     "Skincare": 3,
     "Fitness": 6,
-    "Hardware & Gadgets": 3
+    "Hardware & Gadgets": 2
   },
   "articles": [
     {
@@ -140,6 +140,86 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/science this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uqj0zv",
+      "title": "Has anyone ever regretted leaving corporate for a startup? Either as a founder/cofounder, or an early employee? I will not promote",
+      "link": "https://www.reddit.com/r/startups/comments/1uqj0zv/has_anyone_ever_regretted_leaving_corporate_for_a/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/startups · community knowledge",
+      "content_type": "post",
+      "author": "u/whisperchaoticthings · r/startups",
+      "handle": "startups",
+      "org": "r/startups",
+      "platform": "reddit",
+      "published": "2026-07-08T05:04:00.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/startups"
+      ],
+      "summary": "Was at at f500 for 8 years, some years were good, some less so. Left last year to join a smaller (100 emp) company, but it&#39;s turned out not to be a good fit. I found that even at the smaller company poor executive decisions still frustrate me and I&#39;ve been thinking a lot about joining an early stage startup or…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/startups this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uqgmsm",
+      "title": "I raised $1m for a pre-seed and I feel super scared and like a imposter - I will not promote",
+      "link": "https://www.reddit.com/r/startups/comments/1uqgmsm/i_raised_1m_for_a_preseed_and_i_feel_super_scared/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/startups · community knowledge",
+      "content_type": "post",
+      "author": "u/SirOppenhiemer · r/startups",
+      "handle": "startups",
+      "org": "r/startups",
+      "platform": "reddit",
+      "published": "2026-07-08T03:05:39.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/startups"
+      ],
+      "summary": "Being vague purposefully I am in a high paying and stable job and 1 month ago had a quite a good idea and got some little traction on it and basically decided that I wanted to go full time on it. The traction I got is good but I don’t really think it is a sure fire. I started pitching to investors and within a few…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/startups this week"
       ],
       "metrics": {
         "likes": 0,
@@ -897,6 +977,45 @@
       }
     },
     {
+      "id": "reddit_1uotev5",
+      "title": "How do people start doing pushups at such a high rep count ?",
+      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1uotev5/how_do_people_start_doing_pushups_at_such_a_high/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/bodyweightfitness · community knowledge",
+      "content_type": "post",
+      "author": "u/Mustafa2247 · r/bodyweightfitness",
+      "handle": "bodyweightfitness",
+      "org": "r/bodyweightfitness",
+      "platform": "reddit",
+      "published": "2026-07-06T10:25:52.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/bodyweightfitness"
+      ],
+      "summary": "Hello, I&#39;m not an athletic person but by no means am I a lazy person either. I work out sometimes doing bodyweight exercises including pushups, sit ups, crunches, leg raises, planks. Additionally, I cycle on a weekly basis. I&#39;ve started doing pushups a few months ago and I&#39;ve progressed from being able to…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/bodyweightfitness this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1uot53g",
       "title": "What are your holy grail \"zero prep\" high protein meals for extremely busy days?",
       "link": "https://www.reddit.com/r/nutrition/comments/1uot53g/what_are_your_holy_grail_zero_prep_high_protein/",
@@ -1324,124 +1443,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/programming this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uo0q53",
-      "title": "To the people who have been doing bodyweight fitness 7+ years, how has it impact your quality of life?",
-      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1uo0q53/to_the_people_who_have_been_doing_bodyweight/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/bodyweightfitness · community knowledge",
-      "content_type": "post",
-      "author": "u/ancientpathwayss · r/bodyweightfitness",
-      "handle": "bodyweightfitness",
-      "org": "r/bodyweightfitness",
-      "platform": "reddit",
-      "published": "2026-07-05T12:15:59.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/bodyweightfitness"
-      ],
-      "summary": "Question in the title. I wanna know what the long term impacts of calisthenics and bodyweight is. How has it affected your bone strength? Your ability to recover from injuries? Your ability to do life tasks? Impact on aging? Impact on your lifestyle? Etc etc. People with slightly less obviously welcome and I&#39;m…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/bodyweightfitness this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1unt64q",
-      "title": "If DeepMind or Anthropic is doing your exact research topic, do you still continue? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1unt64q/if_deepmind_or_anthropic_is_doing_your_exact/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/MachineLearning · community knowledge",
-      "content_type": "post",
-      "author": "u/NeighborhoodFatCat · r/MachineLearning",
-      "handle": "MachineLearning",
-      "org": "r/MachineLearning",
-      "platform": "reddit",
-      "published": "2026-07-05T04:54:28.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/MachineLearning"
-      ],
-      "summary": "As someone who is not affiliated with any of the big tech companies, I find it particularly difficult to have the confidence or enthusiasm to approach any ML problem with an attitude that my professors probably had at my stage in life. I&#39;m sure I am not the only one having the following thoughts: &quot;My research…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/MachineLearning this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1unrbb6",
-      "title": "The Paper Boy S3 is a Game Boy clone with an E Ink touchscreen.",
-      "link": "https://www.reddit.com/r/gadgets/comments/1unrbb6/the_paper_boy_s3_is_a_game_boy_clone_with_an_e/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/gadgets · community knowledge",
-      "content_type": "post",
-      "author": "u/dapperlemon · r/gadgets",
-      "handle": "gadgets",
-      "org": "r/gadgets",
-      "platform": "reddit",
-      "published": "2026-07-05T03:10:39.000Z",
-      "image": "https://external-preview.redd.it/QcBe_r1PpFG6oT2WJdrzYWkp9FfMqOFTFgj-4kqL_AI.jpeg?width=640&crop=smart&auto=webp&s=a585a22875f690215ad33ff18288b3c9eb8a09d0",
-      "thumbnail": "https://external-preview.redd.it/QcBe_r1PpFG6oT2WJdrzYWkp9FfMqOFTFgj-4kqL_AI.jpeg?width=640&crop=smart&auto=webp&s=a585a22875f690215ad33ff18288b3c9eb8a09d0",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/gadgets"
-      ],
-      "summary": "The Paper Boy S3 is a Game Boy clone with an E Ink touchscreen.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/gadgets this week"
       ],
       "metrics": {
         "likes": 0,
