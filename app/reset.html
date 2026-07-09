@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Set a new password · Learnify</title>
+<meta name="theme-color" content="#0B0B0D" />
+<link rel="icon" href="/assets/learnify/mark.svg" />
+<link rel="apple-touch-icon" href="/assets/learnify/app-icon-1024.png" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@700;800;900&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="/app/app.css" />
+<style>
+  body{display:grid;place-items:center;min-height:100vh;background:
+    radial-gradient(800px 500px at 80% -10%,rgba(247,247,250,.06),transparent 60%),
+    radial-gradient(700px 500px at 0% 100%,rgba(69,219,107,.05),transparent 60%),#0B0B0D}
+  .auth{width:100%;max-width:420px;padding:34px 32px 30px;border-radius:22px;background:#17171A;border:1px solid #2A2A30}
+  .auth .brand{display:flex;align-items:center;gap:10px;font-family:'Nunito',system-ui,sans-serif;font-weight:800;font-size:22px;margin-bottom:6px;color:#FFFFFF}
+  .auth h1{font-family:'Nunito',system-ui,sans-serif;font-size:25px;font-weight:800;letter-spacing:-.5px;margin:14px 0 4px;color:#FFFFFF}
+  .auth .sub{color:rgba(255,255,255,.6);font-size:14.5px;margin-bottom:20px}
+  .field{margin-bottom:13px}
+  .field label{display:block;font-size:13px;font-weight:600;color:rgba(255,255,255,.6);margin-bottom:5px}
+  .field input{width:100%;font:inherit;font-size:15px;padding:12px 13px;border:1.5px solid #2A2A30;border-radius:11px;outline:none;transition:.15s;background:#0B0B0D;color:#FFFFFF}
+  .field input::placeholder{color:rgba(255,255,255,.3)}
+  .field input:focus{border-color:rgba(247,247,250,.35);box-shadow:0 0 0 4px rgba(247,247,250,.08)}
+  .err{color:#F5545E;font-size:13px;font-weight:600;margin:4px 0 10px;min-height:16px}
+  .ok{color:#45DB6B;font-size:13px;font-weight:600;margin:0 0 8px}
+  .guest{display:block;text-align:center;margin-top:16px;font-size:13.5px;color:rgba(255,255,255,.5);font-weight:600;cursor:pointer;text-decoration:none;transition:.15s}
+  .guest:hover{color:#F7F7FA}
+</style>
+</head>
+<body>
+<div class="auth card">
+  <div class="brand"><span class="ts">L</span> Learnify</div>
+  <h1 id="title">Set a new password</h1>
+  <div class="sub" id="subtitle">Choose a new password for your account.</div>
+
+  <form id="form" autocomplete="on">
+    <div class="field">
+      <label for="password">New password</label>
+      <input id="password" type="password" placeholder="••••••••" autocomplete="new-password" required />
+    </div>
+    <div class="field">
+      <label for="confirm">Confirm new password</label>
+      <input id="confirm" type="password" placeholder="••••••••" autocomplete="new-password" required />
+    </div>
+    <div class="err" id="err"></div>
+    <div class="ok" id="ok"></div>
+    <button class="btn primary block" id="submit" type="submit">Update password</button>
+  </form>
+  <a class="guest" href="/app/login.html">Back to sign in</a>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="/app/app.js"></script>
+<script>
+const { sb } = window.TS;
+const F = (id) => document.getElementById(id);
+let recovering = false;
+
+// Supabase fires PASSWORD_RECOVERY when the recovery link's token is present in
+// the URL, establishing a short-lived session we can call updateUser() against.
+sb.auth.onAuthStateChange((event) => {
+  if (event === "PASSWORD_RECOVERY") recovering = true;
+});
+
+// Also accept an already-established session (link already processed on load).
+(async () => {
+  const { data } = await sb.auth.getSession();
+  if (data && data.session) recovering = true;
+  // Give the client a tick to process the URL hash token, then validate.
+  setTimeout(async () => {
+    const s = await sb.auth.getSession();
+    if (!(s.data && s.data.session) && !recovering) {
+      F("err").textContent = "This reset link is invalid or has expired. Request a new one from the sign-in page.";
+      F("submit").disabled = true;
+    }
+  }, 600);
+})();
+
+F("form").onsubmit = async (e) => {
+  e.preventDefault();
+  F("err").textContent = ""; F("ok").textContent = "";
+  const password = F("password").value;
+  const confirm = F("confirm").value;
+  if (password.length < 8 || !/\d/.test(password)) { F("err").textContent = "Password needs 8+ characters and a number."; return; }
+  if (password !== confirm) { F("err").textContent = "Passwords don't match."; return; }
+  F("submit").disabled = true; F("submit").textContent = "…";
+  try {
+    const { error } = await sb.auth.updateUser({ password });
+    if (error) throw error;
+    F("ok").textContent = "Password updated — taking you to Learnify…";
+    setTimeout(() => { location.href = "/app/"; }, 1100);
+  } catch (err) {
+    F("err").textContent = (err && err.message) || "Couldn't update the password. Request a new reset link.";
+    F("submit").disabled = false; F("submit").textContent = "Update password";
+  }
+};
+</script>
+</body>
+</html>

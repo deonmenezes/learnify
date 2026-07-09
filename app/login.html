@@ -24,6 +24,17 @@
   .field input::placeholder{color:rgba(255,255,255,.3)}
   .field input:focus{border-color:rgba(247,247,250,.35);box-shadow:0 0 0 4px rgba(247,247,250,.08)}
   .err{color:#F5545E;font-size:13px;font-weight:600;margin:4px 0 10px;min-height:16px}
+  .ok{color:#45DB6B;font-size:13px;font-weight:600;margin:0 0 8px}
+  .forgot-row{text-align:right;margin-top:7px}
+  .forgot-row span{font-size:12.5px;font-weight:600;color:rgba(255,255,255,.55);cursor:pointer;transition:.15s}
+  .forgot-row span:hover{color:#F7F7FA;text-decoration:underline}
+  .signed-in{text-align:center}
+  .signed-in .who{display:flex;align-items:center;justify-content:center;gap:10px;margin:14px 0 6px}
+  .signed-in .who .av{width:40px;height:40px;border-radius:50%;background:#212126;display:grid;place-items:center;font-weight:800;color:#fff;font-size:17px}
+  .signed-in .em{color:rgba(255,255,255,.6);font-size:14px;margin-bottom:20px;word-break:break-all}
+  .signed-in .em b{color:#F7F7FA;font-weight:700}
+  .signout{display:block;width:100%;margin-top:11px;font-weight:600;font-size:14px;padding:12px;border:1.5px solid #2A2A30;border-radius:11px;background:transparent;color:rgba(255,255,255,.7);cursor:pointer;transition:.15s}
+  .signout:hover{border-color:#F5545E;color:#F5545E}
   .or{display:flex;align-items:center;gap:12px;color:rgba(255,255,255,.45);font-size:12.5px;font-weight:600;margin:16px 0}
   .or::before,.or::after{content:"";flex:1;height:1px;background:#2A2A30}
   .gbtn{display:flex;align-items:center;justify-content:center;gap:10px;width:100%;font-weight:600;font-size:14.5px;padding:12px;border:1.5px solid #2A2A30;border-radius:11px;background:#17171A;color:#FFFFFF;cursor:pointer;transition:.15s}
@@ -50,11 +61,13 @@
       <label for="email">Email</label>
       <input id="email" type="email" placeholder="you@example.com" autocomplete="email" required />
     </div>
-    <div class="field">
+    <div class="field" id="passField">
       <label for="password">Password</label>
       <input id="password" type="password" placeholder="••••••••" autocomplete="current-password" required />
+      <div class="forgot-row" id="forgotRow"><span id="forgot">Forgot password?</span></div>
     </div>
     <div class="err" id="err"></div>
+    <div class="ok" id="ok"></div>
     <button class="btn primary block" id="submit" type="submit">Sign in</button>
   </form>
 
@@ -74,33 +87,78 @@
 const { sb, toast, track } = window.TS;
 const params = new URLSearchParams(location.search);
 const next = params.get("next") || "/app/";
-let mode = "login";
-
-(async () => { const u = await window.TS.getUser(); if (u) location.href = next; })();
+let mode = "login"; // "login" | "signup" | "reset"
 
 const F = (id) => document.getElementById(id);
-F("toggle").onclick = () => {
-  mode = mode === "login" ? "signup" : "login";
-  const su = mode === "signup";
+
+// If a session already exists, DON'T silently bounce — show who's signed in and
+// let them continue or sign out (fixes the "already logged in but no login" trap).
+(async () => {
+  const u = await window.TS.getUser();
+  if (u) showSignedIn(u);
+})();
+
+function showSignedIn(u) {
+  const email = u.email || (u.user_metadata && u.user_metadata.email) || "your account";
+  const initial = (email[0] || "U").toUpperCase();
+  document.querySelector(".auth").innerHTML = `
+    <div class="brand"><span class="ts">L</span> Learnify</div>
+    <div class="signed-in">
+      <h1 id="title">You're already signed in</h1>
+      <div class="who"><span class="av">${initial}</span></div>
+      <div class="em">as <b>${window.TS.esc(email)}</b></div>
+      <button class="btn primary block" id="continueBtn">Continue to Learnify</button>
+      <button class="signout" id="signoutBtn">Sign out</button>
+    </div>`;
+  F("continueBtn").onclick = () => { location.href = next; };
+  F("signoutBtn").onclick = async () => {
+    F("signoutBtn").disabled = true; F("signoutBtn").textContent = "Signing out…";
+    await sb.auth.signOut();
+    location.reload(); // back to the sign-in form, now signed out
+  };
+}
+
+function setMode(m) {
+  mode = m;
   track("auth_mode_selected", { mode });
-  F("title").textContent = su ? "Create your account" : "Welcome back";
-  F("subtitle").textContent = su ? "Start building your Brain Bank — save, learn, and level up." : "Sign in to your Brain Bank — your saved knowledge, streaks & XP.";
-  F("submit").textContent = su ? "Create account" : "Sign in";
+  const su = m === "signup", rs = m === "reset";
+  F("title").textContent = rs ? "Reset your password" : su ? "Create your account" : "Welcome back";
+  F("subtitle").textContent = rs ? "Enter your email and we'll send you a reset link."
+    : su ? "Start building your Brain Bank — save, learn, and level up."
+    : "Sign in to your Brain Bank — your saved knowledge, streaks & XP.";
+  F("submit").textContent = rs ? "Send reset link" : su ? "Create account" : "Sign in";
   F("nameField").style.display = su ? "block" : "none";
-  F("password").autocomplete = su ? "new-password" : "current-password";
-  F("toggle").innerHTML = su ? 'Already have an account? <b>Sign in</b>' : 'New here? <b>Create an account</b>';
-  F("err").textContent = "";
-};
+  F("passField").style.display = rs ? "none" : "block";
+  F("forgotRow").style.display = m === "login" ? "block" : "none";
+  F("password").required = !rs;
+  if (!rs) F("password").autocomplete = su ? "new-password" : "current-password";
+  F("toggle").innerHTML = rs ? '<b>Back to sign in</b>'
+    : su ? 'Already have an account? <b>Sign in</b>'
+    : 'New here? <b>Create an account</b>';
+  F("err").textContent = ""; F("ok").textContent = "";
+  F("submit").disabled = false;
+}
+
+F("toggle").onclick = () => setMode(mode === "login" ? "signup" : "login");
+F("forgot").onclick = () => setMode("reset");
 
 F("form").onsubmit = async (e) => {
   e.preventDefault();
-  F("err").textContent = "";
+  F("err").textContent = ""; F("ok").textContent = "";
   const email = F("email").value.trim().toLowerCase();
   const password = F("password").value;
   const name = F("name").value.trim();
-  F("submit").disabled = true; F("submit").textContent = "…";
+  F("submit").disabled = true; const prevLabel = F("submit").textContent; F("submit").textContent = "…";
   track("auth_attempted", { mode, method: "password" });
   try {
+    if (mode === "reset") {
+      if (!email) throw new Error("Enter your email first.");
+      const { error } = await sb.auth.resetPasswordForEmail(email, { redirectTo: location.origin + "/app/reset.html" });
+      if (error) throw error;
+      F("ok").textContent = "Check your inbox for a reset link.";
+      F("submit").disabled = false; F("submit").textContent = "Send reset link";
+      return;
+    }
     if (mode === "signup") {
       if (password.length < 8 || !/\d/.test(password)) throw new Error("Password needs 8+ characters and a number.");
       const { data, error } = await sb.auth.signUp({ email, password, options: { data: name ? { display_name: name } : {} } });
@@ -118,7 +176,7 @@ F("form").onsubmit = async (e) => {
   } catch (err) {
     F("err").textContent = (err && err.message) || "Something went wrong.";
     track("auth_failed", { mode, method: "password", error_kind: err && err.message && err.message.startsWith("Password needs") ? "validation" : "provider" });
-    F("submit").disabled = false; F("submit").textContent = mode === "signup" ? "Create account" : "Sign in";
+    F("submit").disabled = false; F("submit").textContent = prevLabel;
   }
 };
 
