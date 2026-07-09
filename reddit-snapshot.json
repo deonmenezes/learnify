@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-07-09T00:18:40.460Z",
+  "generated_at": "2026-07-09T04:35:59.530Z",
   "subs": [
     "MachineLearning",
-    "science",
+    "artificial",
+    "nutrition",
     "netsec",
     "programming",
+    "science",
     "investing",
     "SkincareAddiction",
     "Futurology",
-    "nutrition",
     "bodyweightfitness",
-    "artificial",
     "LocalLLaMA",
     "cybersecurity",
     "gadgets",
@@ -20,13 +20,13 @@
   ],
   "count": 36,
   "by_category": {
-    "Security": 6,
+    "Security": 5,
     "Coding & Dev Tools": 4,
     "Science": 4,
+    "AI / ML": 8,
     "Startups & Funding": 3,
     "Skincare": 3,
     "Fitness": 6,
-    "AI / ML": 7,
     "Hardware & Gadgets": 3
   },
   "articles": [
@@ -148,6 +148,46 @@
       }
     },
     {
+      "id": "reddit_1uq91lr",
+      "title": "Air Force Engineer Accused of Cutting Down Flock AI Surveillance Cameras, Says U.S. is Becoming Police State",
+      "link": "https://www.reddit.com/r/artificial/comments/1uq91lr/air_force_engineer_accused_of_cutting_down_flock/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/artificial · community knowledge",
+      "content_type": "post",
+      "author": "u/Sgt_Gram · r/artificial",
+      "handle": "artificial",
+      "org": "r/artificial",
+      "platform": "reddit",
+      "published": "2026-07-07T21:42:15.000Z",
+      "image": "https://external-preview.redd.it/BqHCtDZqcx4As69Oe_9oIKsUZ_3F5GZkJOysG_DKBhA.jpeg?width=640&crop=smart&auto=webp&s=406a39832e72d4cffd76d7fcfb29941a510845c8",
+      "thumbnail": "https://external-preview.redd.it/BqHCtDZqcx4As69Oe_9oIKsUZ_3F5GZkJOysG_DKBhA.jpeg?width=640&crop=smart&auto=webp&s=406a39832e72d4cffd76d7fcfb29941a510845c8",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/artificial"
+      ],
+      "summary": "Air Force Engineer Accused of Cutting Down Flock AI Surveillance Cameras, Says U.S. is Becoming Police State",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/artificial this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1uq4t1v",
       "title": "To everyone who thinks right now is the worst possible time to invest",
       "link": "https://www.reddit.com/r/investing/comments/1uq4t1v/to_everyone_who_thinks_right_now_is_the_worst/",
@@ -180,6 +220,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/investing this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1upzxk2",
+      "title": "TorchJD: Training with multiple losses in PyTorch [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1upzxk2/torchjd_training_with_multiple_losses_in_pytorch_p/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/MachineLearning · community knowledge",
+      "content_type": "post",
+      "author": "u/Skeylos2 · r/MachineLearning",
+      "handle": "MachineLearning",
+      "org": "r/MachineLearning",
+      "platform": "reddit",
+      "published": "2026-07-07T16:20:47.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/MachineLearning"
+      ],
+      "summary": "Hi everyone! I wanted to share some recent progress on TorchJD that might be useful to the machine learning community. When training models with multiple losses (multiple tasks, constraints, auxiliary losses, regularization terms, etc.), you typically have two options: Scalarization: Various ways to combine those…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/MachineLearning this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1362,85 +1442,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/gadgets this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ungqh7",
-      "title": "Meta Paid Hundreds of Contractors to Pretend to Be Teenagers While Barraging Its Competitors’ AI With Disturbing Content",
-      "link": "https://www.reddit.com/r/artificial/comments/1ungqh7/meta_paid_hundreds_of_contractors_to_pretend_to/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/artificial · community knowledge",
-      "content_type": "post",
-      "author": "u/esporx · r/artificial",
-      "handle": "artificial",
-      "org": "r/artificial",
-      "platform": "reddit",
-      "published": "2026-07-04T18:44:49.000Z",
-      "image": "https://external-preview.redd.it/yWH03dVtbvwyUJnngUCQyl8_3Q5CkXg5WDw1mWI4sxk.jpeg?width=640&crop=smart&auto=webp&s=aa62c9e3ba0d0f5ef50ed8d5fab09cdecc7aa326",
-      "thumbnail": "https://external-preview.redd.it/yWH03dVtbvwyUJnngUCQyl8_3Q5CkXg5WDw1mWI4sxk.jpeg?width=640&crop=smart&auto=webp&s=aa62c9e3ba0d0f5ef50ed8d5fab09cdecc7aa326",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/artificial"
-      ],
-      "summary": "Meta Paid Hundreds of Contractors to Pretend to Be Teenagers While Barraging Its Competitors’ AI With Disturbing Content",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/artificial this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ungm0l",
-      "title": "France to ditch Palantir’s AI data tools in favour of domestic provider | France",
-      "link": "https://www.reddit.com/r/cybersecurity/comments/1ungm0l/france_to_ditch_palantirs_ai_data_tools_in_favour/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/cybersecurity · community knowledge",
-      "content_type": "post",
-      "author": "u/Altruism7 · r/cybersecurity",
-      "handle": "cybersecurity",
-      "org": "r/cybersecurity",
-      "platform": "reddit",
-      "published": "2026-07-04T18:39:34.000Z",
-      "image": "https://external-preview.redd.it/JicEQNpXKhbmuYEfWkdsS0FftSTKeBHZN2uGN2b-eh4.jpeg?width=640&crop=smart&auto=webp&s=9534ded73577f49bcef33e6a07df6301c5cf3eb9",
-      "thumbnail": "https://external-preview.redd.it/JicEQNpXKhbmuYEfWkdsS0FftSTKeBHZN2uGN2b-eh4.jpeg?width=640&crop=smart&auto=webp&s=9534ded73577f49bcef33e6a07df6301c5cf3eb9",
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/cybersecurity"
-      ],
-      "summary": "France to ditch Palantir’s AI data tools in favour of domestic provider | France",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/cybersecurity this week"
       ],
       "metrics": {
         "likes": 0,
