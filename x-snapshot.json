@@ -1,15 +1,138 @@
 {
-  "generated_at": "2026-07-09T21:39:29.621Z",
+  "generated_at": "2026-07-09T23:16:56.915Z",
   "handles": [
     "nvidia",
-    "OpenAI",
+    "GoogleDeepMind",
     "elonmusk",
     "AIatMeta",
-    "GoogleDeepMind",
+    "OpenAI",
     "AnthropicAI"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2075293913213018544",
+      "title": "The classroom is being reimagined — and NVIDIA is bringing together the people building what's next. At SIGGRAPH 2026, join an expert panel for How AI Is Changing Education — a candid look at how AI…",
+      "link": "https://x.com/nvidia/status/2075293913213018544",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-07-09T19:00:00.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Commentary"
+      ],
+      "summary": "The classroom is being reimagined — and NVIDIA is bringing together the people building what's next. At SIGGRAPH 2026, join an expert panel for How AI Is Changing Education — a candid look at how AI is reshaping the way students learn, educators teach, and institutions deliver",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 55,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy"
+      ],
+      "metrics": {
+        "likes": 107,
+        "retweets": 12,
+        "replies": 15,
+        "likes_h": "107"
+      },
+      "engagement": 146,
+      "hot": false
+    },
+    {
+      "id": "x_2075283846657175683",
+      "title": "NVIDIA teams run ChatGPT Work to automate workflows, surface insights faster, and cut operation costs. Our full-stack collaboration continues to scale. GPT-5.6 builds on GPT-5.5, trained and run on…",
+      "link": "https://x.com/nvidia/status/2075283846657175683",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-07-09T18:20:00.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "NVIDIA teams run ChatGPT Work to automate workflows, surface insights faster, and cut operation costs. Our full-stack collaboration continues to scale. GPT-5.6 builds on GPT-5.5, trained and run on NVIDIA GB200 and GB300 NVL72 rack-scale systems. Congratulations to the @OpenAI",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 60,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "casual tone (congratulations)",
+        "tech substance (gpt)"
+      ],
+      "metrics": {
+        "likes": 593,
+        "retweets": 47,
+        "replies": 42,
+        "likes_h": "593"
+      },
+      "engagement": 729,
+      "hot": false
+    },
+    {
+      "id": "x_2075221088821518394",
+      "title": "We’re excited to introduce Muse Spark 1.1, a significant upgrade from the first Muse Spark model we released earlier this year. Along with this release, we are launching a public preview of the new…",
+      "link": "https://x.com/AIatMeta/status/2075221088821518394",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "AI at Meta · @AIatMeta",
+      "handle": "AIatMeta",
+      "org": "Meta",
+      "published": "2026-07-09T14:10:37.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product launch",
+      "categories": [
+        "X",
+        "Meta",
+        "Product launch"
+      ],
+      "summary": "We’re excited to introduce Muse Spark 1.1, a significant upgrade from the first Muse Spark model we released earlier this year. Along with this release, we are launching a public preview of the new Meta Model API where developers can access Muse Spark 1.1. The model is also",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 100,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "casual tone (this)",
+        "announcement language (launching, release, released)",
+        "tech substance (model, api)",
+        "high engagement (4K likes)"
+      ],
+      "metrics": {
+        "likes": 3953,
+        "retweets": 467,
+        "replies": 212,
+        "likes_h": "4K"
+      },
+      "engagement": 5099,
+      "hot": true
+    },
     {
       "id": "x_2074961724164214951",
       "title": "Every company has specialized intelligence that sets it apart. With @langchain, we’re helping enterprises turn that knowledge into specialized agents they can customize, secure and improve over time.",
@@ -34,7 +157,7 @@
       "summary": "Every company has specialized intelligence that sets it apart. With @langchain, we’re helping enterprises turn that knowledge into specialized agents they can customize, secure and improve over time.",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 73,
+      "worthiness_score": 77,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -42,12 +165,12 @@
         "tech substance (agents)"
       ],
       "metrics": {
-        "likes": 170,
-        "retweets": 17,
-        "replies": 19,
-        "likes_h": "170"
+        "likes": 667,
+        "retweets": 83,
+        "replies": 44,
+        "likes_h": "667"
       },
-      "engagement": 223,
+      "engagement": 877,
       "hot": false
     },
     {
@@ -115,7 +238,7 @@
       "summary": "See how we’re working with LangChain to pair benchmark-leading agent performance with an open stack enterprises can own, customize and run anywhere: https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack?ncid=so-link-913402",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 59,
+      "worthiness_score": 61,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -125,12 +248,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 15,
-        "retweets": 0,
+        "likes": 23,
+        "retweets": 1,
         "replies": 5,
-        "likes_h": "15"
+        "likes_h": "23"
       },
-      "engagement": 20,
+      "engagement": 30,
       "hot": false
     },
     {
@@ -368,7 +491,7 @@
       "summary": "Enterprises don’t just need agents that perform. They need agents they can shape, govern and improve as their business evolves. That’s the idea behind our work with LangChain. Read more: https://nvda.ws/4p6tDjg",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 81,
+      "worthiness_score": 82,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -377,12 +500,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 290,
-        "retweets": 33,
-        "replies": 32,
-        "likes_h": "290"
+        "likes": 487,
+        "retweets": 71,
+        "replies": 39,
+        "likes_h": "487"
       },
-      "engagement": 388,
+      "engagement": 668,
       "hot": false
     },
     {
@@ -417,15 +540,15 @@
         "casual tone (based)",
         "tech substance (model, grok, opus)",
         "business signal (customers)",
-        "high engagement (48K likes)"
+        "high engagement (56.4K likes)"
       ],
       "metrics": {
-        "likes": 47957,
-        "retweets": 5222,
-        "replies": 5194,
-        "likes_h": "48K"
+        "likes": 56381,
+        "retweets": 6573,
+        "replies": 6385,
+        "likes_h": "56.4K"
       },
-      "engagement": 63595,
+      "engagement": 75912,
       "hot": true
     },
     {
@@ -459,12 +582,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 223,
-        "retweets": 22,
+        "likes": 259,
+        "retweets": 31,
         "replies": 27,
-        "likes_h": "223"
+        "likes_h": "259"
       },
-      "engagement": 294,
+      "engagement": 348,
       "hot": false
     },
     {
@@ -582,12 +705,12 @@
         "tech substance (models, gemini)"
       ],
       "metrics": {
-        "likes": 549,
-        "retweets": 74,
-        "replies": 43,
-        "likes_h": "549"
+        "likes": 572,
+        "retweets": 77,
+        "replies": 47,
+        "likes_h": "572"
       },
-      "engagement": 740,
+      "engagement": 773,
       "hot": false
     },
     {
@@ -882,7 +1005,7 @@
         "likes_h": "2.9K"
       },
       "engagement": 3552,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2074185348142280912",
@@ -998,15 +1121,15 @@
         "tech substance (gemini, research, robotics)",
         "business signal (partnership)",
         "links to a source",
-        "high engagement (656 likes)"
+        "high engagement (668 likes)"
       ],
       "metrics": {
-        "likes": 656,
-        "retweets": 115,
+        "likes": 668,
+        "retweets": 119,
         "replies": 89,
-        "likes_h": "656"
+        "likes_h": "668"
       },
-      "engagement": 975,
+      "engagement": 995,
       "hot": false
     },
     {
@@ -1211,132 +1334,6 @@
         "likes_h": "43.2K"
       },
       "engagement": 59936,
-      "hot": true
-    },
-    {
-      "id": "x_2072106151890809341",
-      "title": "We’ve received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5. We'll begin restoring access tomorrow, and will share an update soon. We’re grateful…",
-      "link": "https://x.com/AnthropicAI/status/2072106151890809341",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Anthropic · @AnthropicAI",
-      "handle": "AnthropicAI",
-      "org": "Anthropic",
-      "published": "2026-06-30T23:52:59.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "Anthropic",
-        "Product"
-      ],
-      "summary": "We’ve received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5. We'll begin restoring access tomorrow, and will share an update soon. We’re grateful to our users for their patience, and to everyone who worked with us on",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 79,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "tech substance (claude, update)",
-        "high engagement (84.8K likes)"
-      ],
-      "metrics": {
-        "likes": 84795,
-        "retweets": 13008,
-        "replies": 4105,
-        "likes_h": "84.8K"
-      },
-      "engagement": 114916,
-      "hot": true
-    },
-    {
-      "id": "x_2072034905299563005",
-      "title": "Neuralink has solved through-dura electrode implantation! This is a very big deal, as it greatly improves the safety and ease of interfacing with the brain.",
-      "link": "https://x.com/elonmusk/status/2072034905299563005",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Elon Musk · @elonmusk",
-      "handle": "elonmusk",
-      "org": "xAI/Tesla",
-      "published": "2026-06-30T19:09:52.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "xAI/Tesla",
-        "Commentary"
-      ],
-      "summary": "Neuralink has solved through-dura electrode implantation! This is a very big deal, as it greatly improves the safety and ease of interfacing with the brain.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 59,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "casual tone (this)",
-        "business signal (deal)",
-        "high engagement (29K likes)"
-      ],
-      "metrics": {
-        "likes": 28991,
-        "retweets": 6525,
-        "replies": 6644,
-        "likes_h": "29K"
-      },
-      "engagement": 48685,
-      "hot": true
-    },
-    {
-      "id": "x_2072004836674167294",
-      "title": "We’re introducing GeneBench-Pro, a research-level benchmark for a harder kind of AI progress: how well agents can navigate messy biological data, choose the right analysis path, and make judgment…",
-      "link": "https://x.com/OpenAI/status/2072004836674167294",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-06-30T17:10:23.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Research"
-      ],
-      "summary": "We’re introducing GeneBench-Pro, a research-level benchmark for a harder kind of AI progress: how well agents can navigate messy biological data, choose the right analysis path, and make judgment calls that real computational research depends on. https://openai.com/index/introducing-genebench-pro/",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 100,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "announcement language (introducing)",
-        "tech substance (agents, benchmark, research)",
-        "links to a source",
-        "high engagement (4.5K likes)"
-      ],
-      "metrics": {
-        "likes": 4516,
-        "retweets": 414,
-        "replies": 362,
-        "likes_h": "4.5K"
-      },
-      "engagement": 5706,
       "hot": true
     }
   ]

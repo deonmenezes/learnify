@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-07-09T21:41:42.336Z",
+  "generated_at": "2026-07-09T23:19:11.571Z",
   "subs": [
     "MachineLearning",
-    "science",
+    "LocalLLaMA",
+    "bodyweightfitness",
+    "startups",
     "cybersecurity",
     "running",
     "netsec",
     "programming",
+    "science",
     "Fitness",
-    "startups",
     "artificial",
     "investing",
     "robotics",
     "SkincareAddiction",
     "Futurology",
     "nutrition",
-    "bodyweightfitness",
-    "LocalLLaMA",
     "gadgets"
   ],
   "count": 36,
   "by_category": {
     "Security": 6,
-    "Fitness": 8,
+    "Fitness": 7,
     "Coding & Dev Tools": 3,
     "Science": 3,
     "Startups & Funding": 4,
-    "AI / ML": 6,
+    "AI / ML": 7,
     "Robotics": 2,
     "Skincare": 3,
     "Hardware & Gadgets": 1
@@ -103,6 +103,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/running this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1urde6f",
+      "title": "Problem with AI generated workouts",
+      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1urde6f/problem_with_ai_generated_workouts/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/bodyweightfitness · community knowledge",
+      "content_type": "post",
+      "author": "u/Malk25 · r/bodyweightfitness",
+      "handle": "bodyweightfitness",
+      "org": "r/bodyweightfitness",
+      "platform": "reddit",
+      "published": "2026-07-09T02:30:04.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/bodyweightfitness"
+      ],
+      "summary": "Tons of folks come here posting a workout prompted by ChatGPT or similar AI service asking for feedback. Almost every single one of these suffers from a lack of understanding regarding exercise sequence and relative intensity. My guess is that AI takes a standard gym workout, say: bench press incline bench overhead…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/bodyweightfitness this week"
       ],
       "metrics": {
         "likes": 0,
@@ -693,6 +732,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/netsec this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1upvw37",
+      "title": "Beijing IS NOT looking at curbing overseas access to China's top AI models (Debunking the Reuters report)",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1upvw37/beijing_is_not_looking_at_curbing_overseas_access/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/LocalLLaMA · community knowledge",
+      "content_type": "post",
+      "author": "u/Stannis_Loyalist · r/LocalLLaMA",
+      "handle": "LocalLLaMA",
+      "org": "r/LocalLLaMA",
+      "platform": "reddit",
+      "published": "2026-07-07T13:57:36.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/LocalLLaMA"
+      ],
+      "summary": "The Lie Reuters&#39; headline and main narrative: &quot; Beijing is looking at curbing overseas access to China&#39;s top AI models .&quot; It portrayed recent Ministry of Commerce meetings as China preparing broad new restrictions on foreign usage of advanced Chinese AI models (including open-weight ones), treating…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/LocalLLaMA this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1362,85 +1441,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/running this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uotev5",
-      "title": "How do people start doing pushups at such a high rep count ?",
-      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1uotev5/how_do_people_start_doing_pushups_at_such_a_high/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/bodyweightfitness · community knowledge",
-      "content_type": "post",
-      "author": "u/Mustafa2247 · r/bodyweightfitness",
-      "handle": "bodyweightfitness",
-      "org": "r/bodyweightfitness",
-      "platform": "reddit",
-      "published": "2026-07-06T10:25:52.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/bodyweightfitness"
-      ],
-      "summary": "Hello, I&#39;m not an athletic person but by no means am I a lazy person either. I work out sometimes doing bodyweight exercises including pushups, sit ups, crunches, leg raises, planks. Additionally, I cycle on a weekly basis. I&#39;ve started doing pushups a few months ago and I&#39;ve progressed from being able to…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/bodyweightfitness this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uot53g",
-      "title": "What are your holy grail \"zero prep\" high protein meals for extremely busy days?",
-      "link": "https://www.reddit.com/r/nutrition/comments/1uot53g/what_are_your_holy_grail_zero_prep_high_protein/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/nutrition · community knowledge",
-      "content_type": "post",
-      "author": "u/DangerousLab3558 · r/nutrition",
-      "handle": "nutrition",
-      "org": "r/nutrition",
-      "platform": "reddit",
-      "published": "2026-07-06T10:11:07.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Nutrition",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "Nutrition",
-        "r/nutrition"
-      ],
-      "summary": "Some days, balancing a business and family life means I literally have five minutes to figure out lunch. I end up either skipping a meal or grabbing something highly processed just for the convenience. What are your absolute best, nutritionally solid meals that require zero actual cooking? I&#39;m talking about things…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/nutrition this week"
       ],
       "metrics": {
         "likes": 0,
