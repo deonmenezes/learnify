@@ -1,32 +1,33 @@
 {
-  "generated_at": "2026-07-09T15:46:04.645Z",
+  "generated_at": "2026-07-09T18:03:20.247Z",
   "subs": [
     "MachineLearning",
-    "artificial",
+    "Fitness",
+    "robotics",
     "running",
-    "investing",
     "netsec",
     "programming",
     "science",
     "startups",
+    "artificial",
+    "investing",
     "SkincareAddiction",
     "Futurology",
     "nutrition",
     "bodyweightfitness",
     "LocalLLaMA",
     "cybersecurity",
-    "gadgets",
-    "singularity",
-    "longevity"
+    "gadgets"
   ],
   "count": 36,
   "by_category": {
-    "Fitness": 8,
-    "Security": 5,
+    "Fitness": 9,
+    "Security": 4,
     "Coding & Dev Tools": 3,
-    "Science": 3,
-    "Startups & Funding": 5,
+    "Science": 2,
+    "Startups & Funding": 4,
     "AI / ML": 7,
+    "Robotics": 2,
     "Skincare": 3,
     "Hardware & Gadgets": 2
   },
@@ -180,6 +181,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/science this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uqn6c3",
+      "title": "Rant Wednesday - July 08, 2026",
+      "link": "https://www.reddit.com/r/Fitness/comments/1uqn6c3/rant_wednesday_july_08_2026/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/Fitness · community knowledge",
+      "content_type": "post",
+      "author": "u/AutoModerator · r/Fitness",
+      "handle": "Fitness",
+      "org": "r/Fitness",
+      "platform": "reddit",
+      "published": "2026-07-08T09:00:26.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/Fitness"
+      ],
+      "summary": "Welcome to Rant Wednesday: It’s your time to let your gym/fitness/nutrition related frustrations out! There is no guiding question to help stir up some rage-feels, feel free to fire at will, ranting about anything and everything that’s been pissing you off or getting on your nerves. Just don&#39;t forget that other…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/Fitness this week"
       ],
       "metrics": {
         "likes": 0,
@@ -427,6 +467,45 @@
       }
     },
     {
+      "id": "reddit_1upzut8",
+      "title": "MIT Prof. on why this robotics boom may actually be different",
+      "link": "https://www.reddit.com/r/robotics/comments/1upzut8/mit_prof_on_why_this_robotics_boom_may_actually/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/robotics · community knowledge",
+      "content_type": "post",
+      "author": "u/Responsible-Grass452 · r/robotics",
+      "handle": "robotics",
+      "org": "r/robotics",
+      "platform": "reddit",
+      "published": "2026-07-07T16:17:55.000Z",
+      "image": "https://external-preview.redd.it/dWR1NDc3N28xdWJoMSGiIl0frxxwUwiYQicWK1EnNZrfSwrc65-ShBhN-gZ7.png?width=640&crop=smart&auto=webp&s=66507c9fa44e64972bcb5ddb3436dce7b326f9f1",
+      "thumbnail": "https://external-preview.redd.it/dWR1NDc3N28xdWJoMSGiIl0frxxwUwiYQicWK1EnNZrfSwrc65-ShBhN-gZ7.png?width=640&crop=smart&auto=webp&s=66507c9fa44e64972bcb5ddb3436dce7b326f9f1",
+      "section": "Robotics",
+      "category": "Robotics",
+      "genre": "Robotics",
+      "categories": [
+        "Reddit",
+        "Robotics",
+        "r/robotics"
+      ],
+      "summary": "Russ Tedrake says the current robotics boom is not just about one technical breakthrough. The difference now is that several things are happening at the same time: AI progress, more talent entering the field, more investment, better supply chains and a growing need for automation in the real world. Robotics has had…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/robotics this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1upznc5",
       "title": "[PSA] I think this is a scam. Beware!",
       "link": "https://www.reddit.com/r/SkincareAddiction/comments/1upznc5/psa_i_think_this_is_a_scam_beware/",
@@ -614,6 +693,85 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/programming this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1upqtcr",
+      "title": "Boston Dynamics Atlas robot handing the ball to the ref during Brazil vs Norway at the World Cup.",
+      "link": "https://www.reddit.com/r/robotics/comments/1upqtcr/boston_dynamics_atlas_robot_handing_the_ball_to/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/robotics · community knowledge",
+      "content_type": "post",
+      "author": "u/Nunki08 · r/robotics",
+      "handle": "robotics",
+      "org": "r/robotics",
+      "platform": "reddit",
+      "published": "2026-07-07T10:13:51.000Z",
+      "image": "https://external-preview.redd.it/OHh1MnA3Z244c2JoMdGj8kqT7q7hi7wD_dOlij-Rra_8ocx5z9rQysVuDQNu.png?width=640&crop=smart&auto=webp&s=bf61d0b2f26861de1e592fcf81fa5265f6740043",
+      "thumbnail": "https://external-preview.redd.it/OHh1MnA3Z244c2JoMdGj8kqT7q7hi7wD_dOlij-Rra_8ocx5z9rQysVuDQNu.png?width=640&crop=smart&auto=webp&s=bf61d0b2f26861de1e592fcf81fa5265f6740043",
+      "section": "Robotics",
+      "category": "Robotics",
+      "genre": "Robotics",
+      "categories": [
+        "Reddit",
+        "Robotics",
+        "r/robotics"
+      ],
+      "summary": "Boston Dynamics Atlas robot handing the ball to the ref during Brazil vs Norway at the World Cup.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/robotics this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1upofuw",
+      "title": "MIRA: Multiplayer Interactive World Models trained on Rocket League [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1upofuw/mira_multiplayer_interactive_world_models_trained/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/MachineLearning · community knowledge",
+      "content_type": "post",
+      "author": "u/MasterScrat · r/MachineLearning",
+      "handle": "MachineLearning",
+      "org": "r/MachineLearning",
+      "platform": "reddit",
+      "published": "2026-07-07T07:59:10.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/MachineLearning"
+      ],
+      "summary": "We&#39;re happy to release MIRA, a collaboration between General Intuition, Kyutai, and Epic Games. Mira was trained on 10k hours of synthetic Rocket League data. The model has 5B parameters and runs for 4 players at 20 fps on a single B200. We&#39;ve released a playable online demo, an in-depth technical report as…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/MachineLearning this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1285,165 +1443,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/LocalLLaMA this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uohhph",
-      "title": "Got an offer from a VC, is it bad? (I will not promote)",
-      "link": "https://www.reddit.com/r/startups/comments/1uohhph/got_an_offer_from_a_vc_is_it_bad_i_will_not/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/startups · community knowledge",
-      "content_type": "post",
-      "author": "u/Horror-Tower2571 · r/startups",
-      "handle": "startups",
-      "org": "r/startups",
-      "platform": "reddit",
-      "published": "2026-07-05T23:54:26.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/startups"
-      ],
-      "summary": "Hi all, I got an offer from an early stage VC (not gonna name names) but they are pretty big in Europe, the exact deal is €50k, SAFE, capped at 1M, for some context: it was a warm intro from a friend, I’m 16 y/o (though the deal was forming when I was 15) the VC tends to be one of those “back the founder not the idea”…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/startups this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uobwz0",
-      "title": "Indonesian office staff members hit by a Unitree G1",
-      "link": "https://www.reddit.com/r/singularity/comments/1uobwz0/indonesian_office_staff_members_hit_by_a_unitree/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/singularity · community knowledge",
-      "content_type": "post",
-      "author": "u/Distinct-Question-16 · r/singularity",
-      "handle": "singularity",
-      "org": "r/singularity",
-      "platform": "reddit",
-      "published": "2026-07-05T20:00:26.000Z",
-      "image": "https://external-preview.redd.it/MmJrOTF0d3R2Z2JoMZJF5qK_hN80kKIs8edvtShlgM9zddIquwZzVo3WKfak.png?width=320&crop=smart&auto=webp&s=e8ccb4b5b37f9769adf43f745dd71a804e88df6e",
-      "thumbnail": "https://external-preview.redd.it/MmJrOTF0d3R2Z2JoMZJF5qK_hN80kKIs8edvtShlgM9zddIquwZzVo3WKfak.png?width=320&crop=smart&auto=webp&s=e8ccb4b5b37f9769adf43f745dd71a804e88df6e",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/singularity"
-      ],
-      "summary": "Indonesian office staff members hit by a Unitree G1",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/singularity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uo76tw",
-      "title": "Releasing my Windows 10/11 Hardening app, free, of course, else it wouldn't be here.",
-      "link": "https://www.reddit.com/r/cybersecurity/comments/1uo76tw/releasing_my_windows_1011_hardening_app_free_of/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/cybersecurity · community knowledge",
-      "content_type": "post",
-      "author": "u/xorredd · r/cybersecurity",
-      "handle": "cybersecurity",
-      "org": "r/cybersecurity",
-      "platform": "reddit",
-      "published": "2026-07-05T16:54:51.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/cybersecurity"
-      ],
-      "summary": "I used to have a hardening script for years, but now AI made it easy to convert my hardening script into an app. It&#39;s beyond just a few settings - all of the ones in the recommended profile are battle-tested (I used to work in Microsoft&#39;s security consulting division in the Middle East). Feedback is welcome, I…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/cybersecurity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uo639n",
-      "title": "The Most Dangerous Fat in the Body Is Not the Fat You Can See. A New Meta-Analysis Shows SGLT2 Inhibitors Are Targeting It Directly",
-      "link": "https://www.reddit.com/r/longevity/comments/1uo639n/the_most_dangerous_fat_in_the_body_is_not_the_fat/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/longevity · community knowledge",
-      "content_type": "post",
-      "author": "u/dan_in_ca · r/longevity",
-      "handle": "longevity",
-      "org": "r/longevity",
-      "platform": "reddit",
-      "published": "2026-07-05T16:10:49.000Z",
-      "image": "https://external-preview.redd.it/G9Qw01B2KRbhRzo5PO26VJmqWitieoQOVw5oX0ToQ1I.jpeg?width=640&crop=smart&auto=webp&s=08e498712c5b269f86f642bc940170a0752ebdb7",
-      "thumbnail": "https://external-preview.redd.it/G9Qw01B2KRbhRzo5PO26VJmqWitieoQOVw5oX0ToQ1I.jpeg?width=640&crop=smart&auto=webp&s=08e498712c5b269f86f642bc940170a0752ebdb7",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Longevity",
-      "categories": [
-        "Reddit",
-        "Science",
-        "Longevity",
-        "r/longevity"
-      ],
-      "summary": "A review on how SGLT2 inhibitors target ectopic fat (specifically epicardial fat). Ectopic fat is the excess fat that gets stored in organ tissue. The paper outlines the different mechanisms of how it does so. For anyone not familiar with SGLT2 inhibitors, they cause you to urinate 60-80g of glucose, so it can cause a…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/longevity this week"
       ],
       "metrics": {
         "likes": 0,
