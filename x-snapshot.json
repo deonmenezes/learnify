@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T22:35:33.165Z",
+  "generated_at": "2026-07-09T00:16:27.148Z",
   "handles": [
     "nvidia",
-    "OpenAI",
+    "GoogleDeepMind",
     "elonmusk",
     "AIatMeta",
-    "GoogleDeepMind",
+    "OpenAI",
     "AnthropicAI"
   ],
   "count": 32,
@@ -34,7 +34,7 @@
       "summary": "Every company has specialized intelligence that sets it apart. With @langchain, we’re helping enterprises turn that knowledge into specialized agents they can customize, secure and improve over time.",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 69,
+      "worthiness_score": 73,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -42,12 +42,12 @@
         "tech substance (agents)"
       ],
       "metrics": {
-        "likes": 32,
-        "retweets": 5,
-        "replies": 12,
-        "likes_h": "32"
+        "likes": 170,
+        "retweets": 17,
+        "replies": 19,
+        "likes_h": "170"
       },
-      "engagement": 54,
+      "engagement": 223,
       "hot": false
     },
     {
@@ -125,12 +125,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 13,
+        "likes": 15,
         "retweets": 0,
         "replies": 5,
-        "likes_h": "13"
+        "likes_h": "15"
       },
-      "engagement": 18,
+      "engagement": 20,
       "hot": false
     },
     {
@@ -368,7 +368,7 @@
       "summary": "Enterprises don’t just need agents that perform. They need agents they can shape, govern and improve as their business evolves. That’s the idea behind our work with LangChain. Read more: https://nvda.ws/4p6tDjg",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 80,
+      "worthiness_score": 81,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -377,12 +377,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 244,
-        "retweets": 28,
-        "replies": 30,
-        "likes_h": "244"
+        "likes": 290,
+        "retweets": 33,
+        "replies": 32,
+        "likes_h": "290"
       },
-      "engagement": 330,
+      "engagement": 388,
       "hot": false
     },
     {
@@ -417,15 +417,15 @@
         "casual tone (based)",
         "tech substance (model, grok, opus)",
         "business signal (customers)",
-        "high engagement (46.3K likes)"
+        "high engagement (48K likes)"
       ],
       "metrics": {
-        "likes": 46280,
-        "retweets": 4898,
-        "replies": 4973,
-        "likes_h": "46.3K"
+        "likes": 47957,
+        "retweets": 5222,
+        "replies": 5194,
+        "likes_h": "48K"
       },
-      "engagement": 61049,
+      "engagement": 63595,
       "hot": true
     },
     {
@@ -459,12 +459,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 213,
-        "retweets": 21,
-        "replies": 26,
-        "likes_h": "213"
+        "likes": 223,
+        "retweets": 22,
+        "replies": 27,
+        "likes_h": "223"
       },
-      "engagement": 281,
+      "engagement": 294,
       "hot": false
     },
     {
@@ -498,15 +498,15 @@
         "report-worthy",
         "announcement language (introducing)",
         "tech substance (model, models)",
-        "high engagement (2.3K likes)"
+        "high engagement (2.4K likes)"
       ],
       "metrics": {
-        "likes": 2339,
-        "retweets": 360,
-        "replies": 163,
-        "likes_h": "2.3K"
+        "likes": 2381,
+        "retweets": 366,
+        "replies": 164,
+        "likes_h": "2.4K"
       },
-      "engagement": 3222,
+      "engagement": 3277,
       "hot": false
     },
     {
@@ -542,12 +542,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 219,
+        "likes": 221,
         "retweets": 27,
         "replies": 26,
-        "likes_h": "219"
+        "likes_h": "221"
       },
-      "engagement": 299,
+      "engagement": 301,
       "hot": false
     },
     {
@@ -582,12 +582,12 @@
         "tech substance (models, gemini)"
       ],
       "metrics": {
-        "likes": 545,
+        "likes": 549,
         "retweets": 74,
-        "replies": 42,
-        "likes_h": "545"
+        "replies": 43,
+        "likes_h": "549"
       },
-      "engagement": 735,
+      "engagement": 740,
       "hot": false
     },
     {
@@ -620,15 +620,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (gpus, reasoning)",
-        "high engagement (885 likes)"
+        "high engagement (895 likes)"
       ],
       "metrics": {
-        "likes": 885,
-        "retweets": 102,
+        "likes": 895,
+        "retweets": 103,
         "replies": 65,
-        "likes_h": "885"
+        "likes_h": "895"
       },
-      "engagement": 1154,
+      "engagement": 1166,
       "hot": false
     },
     {
@@ -997,15 +997,16 @@
         "report-worthy",
         "tech substance (gemini, research, robotics)",
         "business signal (partnership)",
-        "links to a source"
+        "links to a source",
+        "high engagement (656 likes)"
       ],
       "metrics": {
-        "likes": 655,
-        "retweets": 114,
+        "likes": 656,
+        "retweets": 115,
         "replies": 89,
-        "likes_h": "655"
+        "likes_h": "656"
       },
-      "engagement": 972,
+      "engagement": 975,
       "hot": false
     },
     {
