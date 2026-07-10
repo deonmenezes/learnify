@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-10T15:19:07.867Z",
+  "generated_at": "2026-07-10T17:23:48.150Z",
   "subs": [
     "MachineLearning",
-    "LocalLLaMA",
+    "programming",
+    "cybersecurity",
+    "Futurology",
     "running",
     "startups",
-    "Futurology",
-    "cybersecurity",
+    "LocalLLaMA",
     "gadgets",
     "bodyweightfitness",
     "netsec",
     "investing",
-    "programming",
     "science",
     "Fitness",
     "artificial",
@@ -22,12 +22,12 @@
   "count": 36,
   "by_category": {
     "Science": 3,
+    "Coding & Dev Tools": 5,
     "Security": 4,
     "Fitness": 6,
     "Startups & Funding": 6,
-    "AI / ML": 8,
+    "AI / ML": 6,
     "Hardware & Gadgets": 2,
-    "Coding & Dev Tools": 3,
     "Robotics": 2,
     "Skincare": 2
   },
@@ -64,6 +64,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Futurology this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1urt5ib",
+      "title": "Google pays $250K for Linux vulnerability allowing guest VM escapes",
+      "link": "https://www.reddit.com/r/programming/comments/1urt5ib/google_pays_250k_for_linux_vulnerability_allowing/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/programming · community knowledge",
+      "content_type": "post",
+      "author": "u/CircumspectCapybara · r/programming",
+      "handle": "programming",
+      "org": "r/programming",
+      "platform": "reddit",
+      "published": "2026-07-09T15:13:50.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Coding & Dev Tools",
+      "category": "Coding & Dev Tools",
+      "genre": "Coding & Dev Tools",
+      "categories": [
+        "Reddit",
+        "Coding & Dev Tools",
+        "r/programming"
+      ],
+      "summary": "Google pays $250K for Linux vulnerability allowing guest VM escapes",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/programming this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1175,6 +1214,45 @@
       }
     },
     {
+      "id": "reddit_1upo7f6",
+      "title": "Drunk Post: Things I’ve Learned as a Senior Engineer",
+      "link": "https://www.reddit.com/r/programming/comments/1upo7f6/drunk_post_things_ive_learned_as_a_senior_engineer/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/programming · community knowledge",
+      "content_type": "post",
+      "author": "u/fagnerbrack · r/programming",
+      "handle": "programming",
+      "org": "r/programming",
+      "platform": "reddit",
+      "published": "2026-07-07T07:45:32.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Coding & Dev Tools",
+      "category": "Coding & Dev Tools",
+      "genre": "Coding & Dev Tools",
+      "categories": [
+        "Reddit",
+        "Coding & Dev Tools",
+        "r/programming"
+      ],
+      "summary": "Drunk Post: Things I’ve Learned as a Senior Engineer",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/programming this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1upnbyr",
       "title": "Marina Bolotnikova: The evidence against “ultra-processed” foods is weaker than you think",
       "link": "https://www.reddit.com/r/nutrition/comments/1upnbyr/marina_bolotnikova_the_evidence_against/",
@@ -1364,86 +1442,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/bodyweightfitness this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1upbdoa",
-      "title": "SpaceX burned up 260 of its own satellites in 6 months and this is just routine apparently",
-      "link": "https://www.reddit.com/r/artificial/comments/1upbdoa/spacex_burned_up_260_of_its_own_satellites_in_6/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/artificial · community knowledge",
-      "content_type": "post",
-      "author": "u/Neil_at_HackerEarth · r/artificial",
-      "handle": "artificial",
-      "org": "r/artificial",
-      "platform": "reddit",
-      "published": "2026-07-06T21:49:31.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/artificial"
-      ],
-      "summary": "Saw this in an article and it&#39;s been on my mind since 260 satellites intentionally burned in the atmosphere in 6 months and another 349 queued. They&#39;re planning 42,000 total eventually. No debris which is fine but researchers are asking what happens when you&#39;re burning hundreds of massive metal objects in…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/artificial this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1up9x38",
-      "title": "So... anyone copped one of these?",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1up9x38/so_anyone_copped_one_of_these/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/LocalLLaMA · community knowledge",
-      "content_type": "post",
-      "author": "u/entsnack · r/LocalLLaMA",
-      "handle": "LocalLLaMA",
-      "org": "r/LocalLLaMA",
-      "platform": "reddit",
-      "published": "2026-07-06T20:55:08.000Z",
-      "image": "https://preview.redd.it/1lvhb6ciaobh1.jpeg?width=640&crop=smart&auto=webp&s=896964e340b4c0b008145f8513444a200a84c010",
-      "thumbnail": "https://preview.redd.it/1lvhb6ciaobh1.jpeg?width=640&crop=smart&auto=webp&s=896964e340b4c0b008145f8513444a200a84c010",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/LocalLLaMA"
-      ],
-      "summary": "Been almost a year since mass hysteria erupted upon the death of NVIDIAs GPU monopoly. How are your Huawei GPUs? Does CUDA work on them yet? &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/LocalLLaMA this week"
       ],
       "metrics": {
         "likes": 0,
