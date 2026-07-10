@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-07-10T12:31:30.395Z",
+  "generated_at": "2026-07-10T15:19:07.867Z",
   "subs": [
     "MachineLearning",
-    "Futurology",
-    "gadgets",
-    "cybersecurity",
+    "LocalLLaMA",
     "running",
+    "startups",
+    "Futurology",
+    "cybersecurity",
+    "gadgets",
     "bodyweightfitness",
     "netsec",
     "investing",
     "programming",
     "science",
     "Fitness",
-    "startups",
     "artificial",
     "robotics",
     "SkincareAddiction",
-    "LocalLLaMA",
     "nutrition"
   ],
   "count": 36,
   "by_category": {
-    "Science": 4,
-    "Security": 5,
+    "Science": 3,
+    "Security": 4,
     "Fitness": 6,
+    "Startups & Funding": 6,
+    "AI / ML": 8,
     "Hardware & Gadgets": 2,
-    "Startups & Funding": 5,
     "Coding & Dev Tools": 3,
-    "AI / ML": 7,
     "Robotics": 2,
     "Skincare": 2
   },
@@ -142,6 +142,86 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/running this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1urk1ye",
+      "title": "CTO wants to give me funded seed stage equity for pre-seed unpaid work - I will not promote",
+      "link": "https://www.reddit.com/r/startups/comments/1urk1ye/cto_wants_to_give_me_funded_seed_stage_equity_for/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/startups · community knowledge",
+      "content_type": "post",
+      "author": "u/xmanotaur · r/startups",
+      "handle": "startups",
+      "org": "r/startups",
+      "platform": "reddit",
+      "published": "2026-07-09T08:19:06.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/startups"
+      ],
+      "summary": "Hey everyone, I’m a 28-year-old Systems Engineer and Security Researcher with 6 years of experience. My background is split as follows: 3 years as a Cyber Security Researcher at a major enterprise (focusing on open source tech research, os internals and runtime detection, not vulnerability research/bug hunting). 3…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/startups this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1urh2mg",
+      "title": "Now brothers we know why we are so fucked up",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1urh2mg/now_brothers_we_know_why_we_are_so_fucked_up/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/LocalLLaMA · community knowledge",
+      "content_type": "post",
+      "author": "u/perelmanych · r/LocalLLaMA",
+      "handle": "LocalLLaMA",
+      "org": "r/LocalLLaMA",
+      "platform": "reddit",
+      "published": "2026-07-09T05:32:18.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/LocalLLaMA"
+      ],
+      "summary": "Samsung chip division&#39;s single-year profits beat its past 40 years of profits, combined, due to increased memory and storage prices — Samsung passes Nvidia to become most profitable company in the world, notches 19x quarterly increase in profit…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/LocalLLaMA this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1364,84 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/LocalLLaMA this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1up55sz",
-      "title": "US Army websites defaced with pro-Kurdish sentiments, insults to Trump",
-      "link": "https://www.reddit.com/r/cybersecurity/comments/1up55sz/us_army_websites_defaced_with_prokurdish/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/cybersecurity · community knowledge",
-      "content_type": "post",
-      "author": "u/drewchainzz · r/cybersecurity",
-      "handle": "cybersecurity",
-      "org": "r/cybersecurity",
-      "platform": "reddit",
-      "published": "2026-07-06T18:05:35.000Z",
-      "image": "https://external-preview.redd.it/k2S_hDH8u_75P8gF4V0iGWBcRX02KzWnC7vWm4rlpjo.jpeg?width=640&crop=smart&auto=webp&s=877a8e152fb8003212dd6a0e9a60e3694c24d6f1",
-      "thumbnail": "https://external-preview.redd.it/k2S_hDH8u_75P8gF4V0iGWBcRX02KzWnC7vWm4rlpjo.jpeg?width=640&crop=smart&auto=webp&s=877a8e152fb8003212dd6a0e9a60e3694c24d6f1",
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/cybersecurity"
-      ],
-      "summary": "US Army websites defaced with pro-Kurdish sentiments, insults to Trump",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/cybersecurity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1up2p0r",
-      "title": "Simply offering more vegan options in a university cafeteria—even without price cuts or advertising—drives up plant-based choices among students, with every 10% increase in availability boosting vegan sales by 8.3% and lowering the kitchen's environmental footprint.",
-      "link": "https://www.reddit.com/r/science/comments/1up2p0r/simply_offering_more_vegan_options_in_a/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/science · community knowledge",
-      "content_type": "post",
-      "author": "u/DrPharmakon · r/science",
-      "handle": "science",
-      "org": "r/science",
-      "platform": "reddit",
-      "published": "2026-07-06T16:40:40.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/science"
-      ],
-      "summary": "Simply offering more vegan options in a university cafeteria—even without price cuts or advertising—drives up plant-based choices among students, with every 10% increase in availability boosting vegan sales by 8.3% and lowering the kitchen's environmental footprint.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/science this week"
       ],
       "metrics": {
         "likes": 0,
