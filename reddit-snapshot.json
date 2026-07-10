@@ -1,9 +1,10 @@
 {
-  "generated_at": "2026-07-10T20:54:35.859Z",
+  "generated_at": "2026-07-10T22:11:25.437Z",
   "subs": [
     "MachineLearning",
+    "longevity",
+    "hardware",
     "Futurology",
-    "netsec",
     "programming",
     "cybersecurity",
     "running",
@@ -11,6 +12,7 @@
     "LocalLLaMA",
     "gadgets",
     "bodyweightfitness",
+    "netsec",
     "investing",
     "science",
     "Fitness",
@@ -21,12 +23,12 @@
   ],
   "count": 36,
   "by_category": {
-    "Science": 3,
+    "Science": 4,
     "Coding & Dev Tools": 5,
     "Security": 5,
     "Fitness": 5,
     "Startups & Funding": 6,
-    "AI / ML": 6,
+    "AI / ML": 5,
     "Hardware & Gadgets": 2,
     "Robotics": 2,
     "Skincare": 2
@@ -622,6 +624,45 @@
       }
     },
     {
+      "id": "reddit_1uqoeju",
+      "title": "Unannounced Nvidia RTX 50 Super GPUs appear in Seasonic PSU calculator — unreleased graphics cards shown with 10-17% higher TGP over original models",
+      "link": "https://www.reddit.com/r/hardware/comments/1uqoeju/unannounced_nvidia_rtx_50_super_gpus_appear_in/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/hardware · community knowledge",
+      "content_type": "post",
+      "author": "u/sr_local · r/hardware",
+      "handle": "hardware",
+      "org": "r/hardware",
+      "platform": "reddit",
+      "published": "2026-07-08T10:10:28.000Z",
+      "image": "https://external-preview.redd.it/jklxas3Q8dQM_1X-MIA_INOu2IO2lMibuq7zdRFl0f8.jpeg?width=640&crop=smart&auto=webp&s=70af70eb83a1ddfb477304c02537ffa274796f61",
+      "thumbnail": "https://external-preview.redd.it/jklxas3Q8dQM_1X-MIA_INOu2IO2lMibuq7zdRFl0f8.jpeg?width=640&crop=smart&auto=webp&s=70af70eb83a1ddfb477304c02537ffa274796f61",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/hardware"
+      ],
+      "summary": "Unannounced Nvidia RTX 50 Super GPUs appear in Seasonic PSU calculator — unreleased graphics cards shown with 10-17% higher TGP over original models",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/hardware this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1uqn6c3",
       "title": "Rant Wednesday - July 08, 2026",
       "link": "https://www.reddit.com/r/Fitness/comments/1uqn6c3/rant_wednesday_july_08_2026/",
@@ -852,6 +893,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/investing this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uq0zqh",
+      "title": "Longitudinal changes in epigenetic clocks predict survival in the InCHIANTI cohort",
+      "link": "https://www.reddit.com/r/longevity/comments/1uq0zqh/longitudinal_changes_in_epigenetic_clocks_predict/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/longevity · community knowledge",
+      "content_type": "post",
+      "author": "u/towngrizzlytown · r/longevity",
+      "handle": "longevity",
+      "org": "r/longevity",
+      "platform": "reddit",
+      "published": "2026-07-07T16:58:56.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Science",
+      "category": "Science",
+      "genre": "Longevity",
+      "categories": [
+        "Reddit",
+        "Science",
+        "Longevity",
+        "r/longevity"
+      ],
+      "summary": "Accelerating epigenetic age measurements mean increased likelihood of mortality, regardless of the starting point. &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/longevity this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1363,85 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/programming this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uplrgm",
-      "title": "Finally, a Coffee Maker With Zero Plastic in the Brew Path",
-      "link": "https://www.reddit.com/r/gadgets/comments/1uplrgm/finally_a_coffee_maker_with_zero_plastic_in_the/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/gadgets · community knowledge",
-      "content_type": "post",
-      "author": "u/dapperlemon · r/gadgets",
-      "handle": "gadgets",
-      "org": "r/gadgets",
-      "platform": "reddit",
-      "published": "2026-07-07T05:30:21.000Z",
-      "image": "https://external-preview.redd.it/6Nva6OZLJiActztl9Rat2nDZwJWsRZU0CY53u1p_bg0.jpeg?width=640&crop=smart&auto=webp&s=0059d73dc3eb0891c933d727644eafa4a87ff412",
-      "thumbnail": "https://external-preview.redd.it/6Nva6OZLJiActztl9Rat2nDZwJWsRZU0CY53u1p_bg0.jpeg?width=640&crop=smart&auto=webp&s=0059d73dc3eb0891c933d727644eafa4a87ff412",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/gadgets"
-      ],
-      "summary": "Finally, a Coffee Maker With Zero Plastic in the Brew Path",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/gadgets this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uplbps",
-      "title": "AI should be private and optional!",
-      "link": "https://www.reddit.com/r/artificial/comments/1uplbps/ai_should_be_private_and_optional/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/artificial · community knowledge",
-      "content_type": "post",
-      "author": "u/Valighg · r/artificial",
-      "handle": "artificial",
-      "org": "r/artificial",
-      "platform": "reddit",
-      "published": "2026-07-07T05:07:05.000Z",
-      "image": "https://preview.redd.it/flfzoju9qqbh1.png?width=640&crop=smart&auto=webp&s=c6e3c1b19fa27ec7958fd6014fc9a043889932c1",
-      "thumbnail": "https://preview.redd.it/flfzoju9qqbh1.png?width=640&crop=smart&auto=webp&s=c6e3c1b19fa27ec7958fd6014fc9a043889932c1",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/artificial"
-      ],
-      "summary": "AI should be private and optional. &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/artificial this week"
       ],
       "metrics": {
         "likes": 0,
