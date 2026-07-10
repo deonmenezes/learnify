@@ -1,34 +1,34 @@
 {
-  "generated_at": "2026-07-10T05:42:17.182Z",
+  "generated_at": "2026-07-10T09:45:00.890Z",
   "subs": [
     "MachineLearning",
-    "Fitness",
-    "robotics",
+    "artificial",
+    "nutrition",
+    "investing",
     "cybersecurity",
     "running",
     "bodyweightfitness",
     "netsec",
     "programming",
     "science",
+    "Fitness",
     "startups",
-    "artificial",
-    "investing",
+    "robotics",
     "SkincareAddiction",
     "LocalLLaMA",
     "Futurology",
-    "nutrition",
     "gadgets"
   ],
   "count": 36,
   "by_category": {
     "Security": 6,
-    "Fitness": 7,
+    "Fitness": 6,
+    "Startups & Funding": 6,
     "Coding & Dev Tools": 3,
     "Science": 3,
-    "Startups & Funding": 4,
     "AI / ML": 7,
     "Robotics": 2,
-    "Skincare": 3,
+    "Skincare": 2,
     "Hardware & Gadgets": 1
   },
   "articles": [
@@ -228,6 +228,46 @@
       }
     },
     {
+      "id": "reddit_1uqwbnt",
+      "title": "Holding a 90%+ loser for 6 years: when do you finally move on?",
+      "link": "https://www.reddit.com/r/investing/comments/1uqwbnt/holding_a_90_loser_for_6_years_when_do_you/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/investing · community knowledge",
+      "content_type": "post",
+      "author": "u/Standard_Effect9904 · r/investing",
+      "handle": "investing",
+      "org": "r/investing",
+      "platform": "reddit",
+      "published": "2026-07-08T15:40:20.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/investing"
+      ],
+      "summary": "Back in 2020, I bought into NIO during the EV hype. I was 18, had very little investing experience, and got caught up in the excitement. Today my position looks like this: 141 shares Average cost: $47.79/share Unrealized loss: about $6,000 (roughly -90%) At this point, the position is worth only around $700. I’m not…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/investing this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1uqu6au",
       "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
       "link": "https://www.reddit.com/r/programming/comments/1uqu6au/decoding_the_obfuscated_bash_script_on_a_uniqlo/",
@@ -298,6 +338,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/science this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uqpyo9",
+      "title": "Regarding the “waiting for a big dip to get back into the market” folks:",
+      "link": "https://www.reddit.com/r/investing/comments/1uqpyo9/regarding_the_waiting_for_a_big_dip_to_get_back/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/investing · community knowledge",
+      "content_type": "post",
+      "author": "u/pseudonominom · r/investing",
+      "handle": "investing",
+      "org": "r/investing",
+      "platform": "reddit",
+      "published": "2026-07-08T11:30:27.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/investing"
+      ],
+      "summary": "Is it possible that, because this market has been booming for so many years in a row now, there’s a huge backlog of dry powder just ready to pounce? In other words, any would-be crash will be muted and almost immediately bought up by the trillions of dollars just sitting on the sidelines. I remember reading that…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/investing this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1016,6 +1096,46 @@
       }
     },
     {
+      "id": "reddit_1uplbps",
+      "title": "AI should be private and optional!",
+      "link": "https://www.reddit.com/r/artificial/comments/1uplbps/ai_should_be_private_and_optional/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/artificial · community knowledge",
+      "content_type": "post",
+      "author": "u/Valighg · r/artificial",
+      "handle": "artificial",
+      "org": "r/artificial",
+      "platform": "reddit",
+      "published": "2026-07-07T05:07:05.000Z",
+      "image": "https://preview.redd.it/flfzoju9qqbh1.png?width=640&crop=smart&auto=webp&s=c6e3c1b19fa27ec7958fd6014fc9a043889932c1",
+      "thumbnail": "https://preview.redd.it/flfzoju9qqbh1.png?width=640&crop=smart&auto=webp&s=c6e3c1b19fa27ec7958fd6014fc9a043889932c1",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/artificial"
+      ],
+      "summary": "AI should be private and optional. &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/artificial this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1upcn8e",
       "title": "can you actually outrun a bad diet",
       "link": "https://www.reddit.com/r/bodyweightfitness/comments/1upcn8e/can_you_actually_outrun_a_bad_diet/",
@@ -1323,124 +1443,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/gadgets this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uow2ph",
-      "title": "[Before&After] My pores went from stretched and saggy to actually quite tighter in 4 months (no procedures done)",
-      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1uow2ph/beforeafter_my_pores_went_from_stretched_and/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/SkincareAddiction · community knowledge",
-      "content_type": "post",
-      "author": "u/StructureSilly2974 · r/SkincareAddiction",
-      "handle": "SkincareAddiction",
-      "org": "r/SkincareAddiction",
-      "platform": "reddit",
-      "published": "2026-07-06T12:34:48.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Skincare",
-      "category": "Skincare",
-      "genre": "Skincare",
-      "categories": [
-        "Reddit",
-        "Skincare",
-        "r/SkincareAddiction"
-      ],
-      "summary": "Sharing my pore routine because it genuinely made a difference for me. First pic is from 4 months ago and the second one is literally from right after I finished my skincare today, took it in the morning so it came out looking a bit brighter than usual. I haven&#39;t done a single procedure in between, still saving up…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/SkincareAddiction this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uov7or",
-      "title": "Machine learning industry job requirements used to be myopic, but now it feels impossible. Anyone else seeing this? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1uov7or/machine_learning_industry_job_requirements_used/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/MachineLearning · community knowledge",
-      "content_type": "post",
-      "author": "u/NeighborhoodFatCat · r/MachineLearning",
-      "handle": "MachineLearning",
-      "org": "r/MachineLearning",
-      "platform": "reddit",
-      "published": "2026-07-06T11:57:00.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/MachineLearning"
-      ],
-      "summary": "Today I was just casually browsing some jobs with tags [machine learning] on one of those large popular job-sites. What I am seeing really had me astonished. I want to check with Reddit whether I am hallucinating. A non-FAANG/non-Deepmind/.../non-Anthropic industrial automation company is hiring people to work on ML…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/MachineLearning this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uouip1",
-      "title": "Miscellaneous Monday Chit Chat",
-      "link": "https://www.reddit.com/r/running/comments/1uouip1/miscellaneous_monday_chit_chat/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/running · community knowledge",
-      "content_type": "post",
-      "author": "u/fire_foot · r/running",
-      "handle": "running",
-      "org": "r/running",
-      "platform": "reddit",
-      "published": "2026-07-06T11:23:15.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/running"
-      ],
-      "summary": "Happy Monday runners! What’s good, what’s bad, what’s yet to pass — let’s chat about it! &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/running this week"
       ],
       "metrics": {
         "likes": 0,
