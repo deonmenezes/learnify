@@ -1,37 +1,76 @@
 {
-  "generated_at": "2026-07-10T09:45:00.890Z",
+  "generated_at": "2026-07-10T12:31:30.395Z",
   "subs": [
     "MachineLearning",
-    "artificial",
-    "nutrition",
-    "investing",
+    "Futurology",
+    "gadgets",
     "cybersecurity",
     "running",
     "bodyweightfitness",
     "netsec",
+    "investing",
     "programming",
     "science",
     "Fitness",
     "startups",
+    "artificial",
     "robotics",
     "SkincareAddiction",
     "LocalLLaMA",
-    "Futurology",
-    "gadgets"
+    "nutrition"
   ],
   "count": 36,
   "by_category": {
-    "Security": 6,
+    "Science": 4,
+    "Security": 5,
     "Fitness": 6,
-    "Startups & Funding": 6,
+    "Hardware & Gadgets": 2,
+    "Startups & Funding": 5,
     "Coding & Dev Tools": 3,
-    "Science": 3,
     "AI / ML": 7,
     "Robotics": 2,
-    "Skincare": 2,
-    "Hardware & Gadgets": 1
+    "Skincare": 2
   },
   "articles": [
+    {
+      "id": "reddit_1urwlds",
+      "title": "Execs Confused and Horrified by the Huge AI Bills After Thinking They Could Replace Workers for Free",
+      "link": "https://www.reddit.com/r/Futurology/comments/1urwlds/execs_confused_and_horrified_by_the_huge_ai_bills/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/Futurology · community knowledge",
+      "content_type": "post",
+      "author": "u/hgwelz · r/Futurology",
+      "handle": "Futurology",
+      "org": "r/Futurology",
+      "platform": "reddit",
+      "published": "2026-07-09T17:15:19.000Z",
+      "image": "https://external-preview.redd.it/wnnWZXxtlcv15naVRDGppCOrkroGjwIzaPXNh6ph00s.jpeg?width=640&crop=smart&auto=webp&s=68e3d55779fec563fdd12276e2ab5476412f9d44",
+      "thumbnail": "https://external-preview.redd.it/wnnWZXxtlcv15naVRDGppCOrkroGjwIzaPXNh6ph00s.jpeg?width=640&crop=smart&auto=webp&s=68e3d55779fec563fdd12276e2ab5476412f9d44",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/Futurology"
+      ],
+      "summary": "Execs Confused and Horrified by the Huge AI Bills After Thinking They Could Replace Workers for Free",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/Futurology this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1urodkp",
       "title": "MOD REQUEST: Can you ban the excessive AI posters please?",
@@ -103,6 +142,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/running this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1urgssh",
+      "title": "Valve Steam Machine review: This would've been perfect five years ago",
+      "link": "https://www.reddit.com/r/gadgets/comments/1urgssh/valve_steam_machine_review_this_wouldve_been/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/gadgets · community knowledge",
+      "content_type": "post",
+      "author": "u/dapperlemon · r/gadgets",
+      "handle": "gadgets",
+      "org": "r/gadgets",
+      "platform": "reddit",
+      "published": "2026-07-09T05:17:35.000Z",
+      "image": "https://external-preview.redd.it/5pWNwTucsHNZhpS6JxhyyUnKRVicq75YT7t0wYeO7oA.jpeg?width=640&crop=smart&auto=webp&s=09d443a66b161735a334a3fea39911e7636e4ca6",
+      "thumbnail": "https://external-preview.redd.it/5pWNwTucsHNZhpS6JxhyyUnKRVicq75YT7t0wYeO7oA.jpeg?width=640&crop=smart&auto=webp&s=09d443a66b161735a334a3fea39911e7636e4ca6",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/gadgets"
+      ],
+      "summary": "Valve Steam Machine review: This would've been perfect five years ago",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/gadgets this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1096,6 +1174,45 @@
       }
     },
     {
+      "id": "reddit_1uplrgm",
+      "title": "Finally, a Coffee Maker With Zero Plastic in the Brew Path",
+      "link": "https://www.reddit.com/r/gadgets/comments/1uplrgm/finally_a_coffee_maker_with_zero_plastic_in_the/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/gadgets · community knowledge",
+      "content_type": "post",
+      "author": "u/dapperlemon · r/gadgets",
+      "handle": "gadgets",
+      "org": "r/gadgets",
+      "platform": "reddit",
+      "published": "2026-07-07T05:30:21.000Z",
+      "image": "https://external-preview.redd.it/6Nva6OZLJiActztl9Rat2nDZwJWsRZU0CY53u1p_bg0.jpeg?width=640&crop=smart&auto=webp&s=0059d73dc3eb0891c933d727644eafa4a87ff412",
+      "thumbnail": "https://external-preview.redd.it/6Nva6OZLJiActztl9Rat2nDZwJWsRZU0CY53u1p_bg0.jpeg?width=640&crop=smart&auto=webp&s=0059d73dc3eb0891c933d727644eafa4a87ff412",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/gadgets"
+      ],
+      "summary": "Finally, a Coffee Maker With Zero Plastic in the Brew Path",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/gadgets this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1uplbps",
       "title": "AI should be private and optional!",
       "link": "https://www.reddit.com/r/artificial/comments/1uplbps/ai_should_be_private_and_optional/",
@@ -1325,124 +1442,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/science this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uoz05q",
-      "title": "New OST2 class: \"Architecture 1901: From zero to QEMU - A Gentle introduction to emulators from the ground up!\"",
-      "link": "https://www.reddit.com/r/netsec/comments/1uoz05q/new_ost2_class_architecture_1901_from_zero_to/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/netsec · community knowledge",
-      "content_type": "post",
-      "author": "u/OpenSecurityTraining · r/netsec",
-      "handle": "netsec",
-      "org": "r/netsec",
-      "platform": "reddit",
-      "published": "2026-07-06T14:30:31.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/netsec"
-      ],
-      "summary": "This free class by Antonio Nappa of Fuzz Society builds up your knowledge from learning a toy 8-bit CPU architecture all the way to understanding how QEMU can emulate that architecture. Using this knowledge you can then understand how QEMU can emulate any architecture! Based on beta testing, this class takes an…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/netsec this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uoxlh0",
-      "title": "Strategy just sold $216 million in Bitcoin to pay dividends and the model is showing its limits",
-      "link": "https://www.reddit.com/r/investing/comments/1uoxlh0/strategy_just_sold_216_million_in_bitcoin_to_pay/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/investing · community knowledge",
-      "content_type": "post",
-      "author": "u/DemonKingSwarnn · r/investing",
-      "handle": "investing",
-      "org": "r/investing",
-      "platform": "reddit",
-      "published": "2026-07-06T13:37:07.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/investing"
-      ],
-      "summary": "fling dropped this morning and they sold 3,588 btc for $216 million,purpose being funding dividends on strategy&#39;s digital credit securities ,which are five series of perpetual preferred stock with combined annual obligations of $750-800 million. In may the 32 BTC sale was framed as inoculation meaning to sell a…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/investing this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uoxc6g",
-      "title": "New Nintendo Switch 2 Announced for Europe This Fall: Will Be Slightly Heavier, But With User-Replaceable Batteries",
-      "link": "https://www.reddit.com/r/gadgets/comments/1uoxc6g/new_nintendo_switch_2_announced_for_europe_this/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/gadgets · community knowledge",
-      "content_type": "post",
-      "author": "u/ReaddittiddeR · r/gadgets",
-      "handle": "gadgets",
-      "org": "r/gadgets",
-      "platform": "reddit",
-      "published": "2026-07-06T13:26:52.000Z",
-      "image": "https://external-preview.redd.it/OQRXMYGIpQ8_4jLIKNlfFfbbxM5MHOAhVHH3LJ3tYXU.jpeg?width=640&crop=smart&auto=webp&s=2a0375679fb406477ff98ce68b2d430d7c3de5bd",
-      "thumbnail": "https://external-preview.redd.it/OQRXMYGIpQ8_4jLIKNlfFfbbxM5MHOAhVHH3LJ3tYXU.jpeg?width=640&crop=smart&auto=webp&s=2a0375679fb406477ff98ce68b2d430d7c3de5bd",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/gadgets"
-      ],
-      "summary": "New Nintendo Switch 2 Announced for Europe This Fall: Will Be Slightly Heavier, But With User-Replaceable Batteries",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/gadgets this week"
       ],
       "metrics": {
         "likes": 0,
