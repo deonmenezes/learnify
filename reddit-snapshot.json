@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-10T19:07:05.130Z",
+  "generated_at": "2026-07-10T20:54:35.859Z",
   "subs": [
     "MachineLearning",
-    "LocalLLaMA",
-    "running",
-    "investing",
     "Futurology",
+    "netsec",
     "programming",
     "cybersecurity",
+    "running",
     "startups",
+    "LocalLLaMA",
     "gadgets",
     "bodyweightfitness",
-    "netsec",
+    "investing",
     "science",
     "Fitness",
     "artificial",
@@ -23,8 +23,8 @@
   "by_category": {
     "Science": 3,
     "Coding & Dev Tools": 5,
-    "Security": 4,
-    "Fitness": 6,
+    "Security": 5,
+    "Fitness": 5,
     "Startups & Funding": 6,
     "AI / ML": 6,
     "Hardware & Gadgets": 2,
@@ -410,6 +410,45 @@
         "r/netsec"
       ],
       "summary": "1 in 2 devices sold in Africa exfiltrate data to China",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/netsec this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uqxlxq",
+      "title": "Drift Corpus: binary diffs of 240+ 2026 Windows kernel patches",
+      "link": "https://www.reddit.com/r/netsec/comments/1uqxlxq/drift_corpus_binary_diffs_of_240_2026_windows/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/netsec · community knowledge",
+      "content_type": "post",
+      "author": "u/Emergency_Stable_923 · r/netsec",
+      "handle": "netsec",
+      "org": "r/netsec",
+      "platform": "reddit",
+      "published": "2026-07-08T16:24:55.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/netsec"
+      ],
+      "summary": "Patch Tuesday confirms a CVE is fixed but not what changed in the binary, which function, which check, or whether it&#39;s a real fix or just churn. The Drift Corpus is a diff of 240+ 2026 Windows kernel patches. Per entry: the changed functions with assembly, the bug class and call chain, WinDbg breakpoints to…",
       "is_social": true,
       "report_worthy": true,
       "worthiness_score": 62,
@@ -1403,45 +1442,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/artificial this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1upcn8e",
-      "title": "can you actually outrun a bad diet",
-      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1upcn8e/can_you_actually_outrun_a_bad_diet/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/bodyweightfitness · community knowledge",
-      "content_type": "post",
-      "author": "u/Adam-Garden · r/bodyweightfitness",
-      "handle": "bodyweightfitness",
-      "org": "r/bodyweightfitness",
-      "platform": "reddit",
-      "published": "2026-07-06T22:37:37.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/bodyweightfitness"
-      ],
-      "summary": "let&#39;s say you eat 3000 calories a day, that is like one Arbys meal per day, maybe with some other unhealthy stuff. but then you run 20 miles, dead lift 100 kilogram 50 times, do 500 pushups, do 500 pullups, and run another 20 miles on foot. of course the numbers i am using are humorously exaggerated and extreme,…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/bodyweightfitness this week"
       ],
       "metrics": {
         "likes": 0,
