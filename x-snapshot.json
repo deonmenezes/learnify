@@ -1,15 +1,97 @@
 {
-  "generated_at": "2026-07-09T23:16:56.915Z",
+  "generated_at": "2026-07-10T01:12:59.652Z",
   "handles": [
+    "AnthropicAI",
+    "OpenAI",
     "nvidia",
     "GoogleDeepMind",
     "elonmusk",
-    "AIatMeta",
-    "OpenAI",
-    "AnthropicAI"
+    "AIatMeta"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2075367885438890134",
+      "title": "Starmind https://www.spacex.com/spacexai/starmind#power-generation",
+      "link": "https://x.com/elonmusk/status/2075367885438890134",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Elon Musk · @elonmusk",
+      "handle": "elonmusk",
+      "org": "xAI/Tesla",
+      "published": "2026-07-09T23:53:57.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "xAI/Tesla",
+        "Commentary"
+      ],
+      "summary": "Starmind https://www.spacex.com/spacexai/starmind#power-generation",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 60,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "links to a source",
+        "high engagement (3.3K likes)"
+      ],
+      "metrics": {
+        "likes": 3295,
+        "retweets": 612,
+        "replies": 752,
+        "likes_h": "3.3K"
+      },
+      "engagement": 5271,
+      "hot": true
+    },
+    {
+      "id": "x_2075310019185389913",
+      "title": "Meet Hiroki (@tomiyasu16). A broccoli farmer running his farm with GPT-5.6.",
+      "link": "https://x.com/OpenAI/status/2075310019185389913",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-07-09T20:04:00.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Product"
+      ],
+      "summary": "Meet Hiroki (@tomiyasu16). A broccoli farmer running his farm with GPT-5.6.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 72,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (gpt)",
+        "high engagement (3.3K likes)"
+      ],
+      "metrics": {
+        "likes": 3257,
+        "retweets": 314,
+        "replies": 137,
+        "likes_h": "3.3K"
+      },
+      "engagement": 4022,
+      "hot": true
+    },
     {
       "id": "x_2075293913213018544",
       "title": "The classroom is being reimagined — and NVIDIA is bringing together the people building what's next. At SIGGRAPH 2026, join an expert panel for How AI Is Changing Education — a candid look at how AI…",
@@ -41,12 +123,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 107,
-        "retweets": 12,
-        "replies": 15,
-        "likes_h": "107"
+        "likes": 124,
+        "retweets": 13,
+        "replies": 16,
+        "likes_h": "124"
       },
-      "engagement": 146,
+      "engagement": 166,
       "hot": false
     },
     {
@@ -82,12 +164,266 @@
         "tech substance (gpt)"
       ],
       "metrics": {
-        "likes": 593,
-        "retweets": 47,
-        "replies": 42,
-        "likes_h": "593"
+        "likes": 655,
+        "retweets": 55,
+        "replies": 45,
+        "likes_h": "655"
       },
-      "engagement": 729,
+      "engagement": 810,
+      "hot": false
+    },
+    {
+      "id": "x_2075274276849226204",
+      "title": "On web and mobile, ChatGPT Work is rolling out today for Pro, Enterprise, and Edu plans. It will roll out to Plus and Business plans over the next few days. In the ChatGPT desktop app, Chat, Work,…",
+      "link": "https://x.com/OpenAI/status/2075274276849226204",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-07-09T17:41:58.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Announcement",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Announcement"
+      ],
+      "summary": "On web and mobile, ChatGPT Work is rolling out today for Pro, Enterprise, and Edu plans. It will roll out to Plus and Business plans over the next few days. In the ChatGPT desktop app, Chat, Work, and Codex are available on every plan, including Free, and is available globally",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 72,
+      "sentiment": "positive",
+      "sentiment_score": 1,
+      "reasons": [
+        "report-worthy",
+        "reply / conversation",
+        "announcement language (rolling out)",
+        "business signal (enterprise)"
+      ],
+      "metrics": {
+        "likes": 793,
+        "retweets": 49,
+        "replies": 65,
+        "likes_h": "793"
+      },
+      "engagement": 956,
+      "hot": false
+    },
+    {
+      "id": "x_2075274275104399670",
+      "title": "ChatGPT Work is powered by GPT-5.6. GPT-5.6 makes ChatGPT state of the art at reasoning through complex tasks and creating materials that match your templates, reference files, and preferred style.…",
+      "link": "https://x.com/OpenAI/status/2075274275104399670",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-07-09T17:41:58.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Research"
+      ],
+      "summary": "ChatGPT Work is powered by GPT-5.6. GPT-5.6 makes ChatGPT state of the art at reasoning through complex tasks and creating materials that match your templates, reference files, and preferred style. Just describe the outcome you want, without having to spell out every step to",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 56,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "reply / conversation",
+        "tech substance (gpt, state of the art, reasoning)",
+        "high engagement (911 likes)"
+      ],
+      "metrics": {
+        "likes": 911,
+        "retweets": 39,
+        "replies": 36,
+        "likes_h": "911"
+      },
+      "engagement": 1025,
+      "hot": false
+    },
+    {
+      "id": "x_2075274271845404744",
+      "title": "Introducing ChatGPT Work, a new agent in ChatGPT powered by Codex and GPT-5.6. It can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished…",
+      "link": "https://x.com/OpenAI/status/2075274271845404744",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-07-09T17:41:57.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product launch",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Product launch"
+      ],
+      "summary": "Introducing ChatGPT Work, a new agent in ChatGPT powered by Codex and GPT-5.6. It can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work. It’s a whole new way to get work done.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 100,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "announcement language (introducing)",
+        "tech substance (gpt, agent)",
+        "high engagement (14.3K likes)"
+      ],
+      "metrics": {
+        "likes": 14292,
+        "retweets": 1377,
+        "replies": 564,
+        "likes_h": "14.3K"
+      },
+      "engagement": 17610,
+      "hot": true
+    },
+    {
+      "id": "x_2075271435573244008",
+      "title": "GPT‑5.6 is available starting today across ChatGPT, Codex, and the OpenAI API. The rollout is starting globally now and will continue gradually toward full availability over the next 24 hours. In…",
+      "link": "https://x.com/OpenAI/status/2075271435573244008",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-07-09T17:30:41.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product launch",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Product launch"
+      ],
+      "summary": "GPT‑5.6 is available starting today across ChatGPT, Codex, and the OpenAI API. The rollout is starting globally now and will continue gradually toward full availability over the next 24 hours. In ChatGPT, Plus, Pro, Business, and Enterprise users access GPT-5.6 Sol through",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 95,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "reply / conversation",
+        "announcement language (starting today)",
+        "tech substance (gpt, api)",
+        "business signal (enterprise)",
+        "high engagement (1K likes)",
+        "concrete metrics"
+      ],
+      "metrics": {
+        "likes": 1027,
+        "retweets": 142,
+        "replies": 38,
+        "likes_h": "1K"
+      },
+      "engagement": 1349,
+      "hot": false
+    },
+    {
+      "id": "x_2075271432041545782",
+      "title": "GPT‑5.6 improves artifact quality across presentations, documents, and spreadsheets, and works better with your templates. These editable artifacts can be exported to the tools professionals already…",
+      "link": "https://x.com/OpenAI/status/2075271432041545782",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-07-09T17:30:40.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Product"
+      ],
+      "summary": "GPT‑5.6 improves artifact quality across presentations, documents, and spreadsheets, and works better with your templates. These editable artifacts can be exported to the tools professionals already use and refined as part of real enterprise workflows.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 63,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "reply / conversation",
+        "tech substance (gpt)",
+        "business signal (enterprise)"
+      ],
+      "metrics": {
+        "likes": 525,
+        "retweets": 31,
+        "replies": 7,
+        "likes_h": "525"
+      },
+      "engagement": 594,
+      "hot": false
+    },
+    {
+      "id": "x_2075257492716879967",
+      "title": "Our Long-Term Benefit Trust has appointed Dr. Ben Bernanke as its newest member. Read more: https://www.anthropic.com/news/ben-bernanke",
+      "link": "https://x.com/AnthropicAI/status/2075257492716879967",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Anthropic · @AnthropicAI",
+      "handle": "AnthropicAI",
+      "org": "Anthropic",
+      "published": "2026-07-09T16:35:17.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "Anthropic",
+        "Commentary"
+      ],
+      "summary": "Our Long-Term Benefit Trust has appointed Dr. Ben Bernanke as its newest member. Read more: https://www.anthropic.com/news/ben-bernanke",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 66,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "links to a source",
+        "high engagement (1.1K likes)"
+      ],
+      "metrics": {
+        "likes": 1145,
+        "retweets": 107,
+        "replies": 148,
+        "likes_h": "1.1K"
+      },
+      "engagement": 1507,
       "hot": false
     },
     {
@@ -122,16 +458,59 @@
         "casual tone (this)",
         "announcement language (launching, release, released)",
         "tech substance (model, api)",
-        "high engagement (4K likes)"
+        "high engagement (4.1K likes)"
       ],
       "metrics": {
-        "likes": 3953,
-        "retweets": 467,
-        "replies": 212,
-        "likes_h": "4K"
+        "likes": 4082,
+        "retweets": 480,
+        "replies": 217,
+        "likes_h": "4.1K"
       },
-      "engagement": 5099,
+      "engagement": 5259,
       "hot": true
+    },
+    {
+      "id": "x_2075005777522172146",
+      "title": "We’re pleased to have collaborated with AE Studio on this research. Read more here: https://www.anthropic.com/research/off-switch-dual-use",
+      "link": "https://x.com/AnthropicAI/status/2075005777522172146",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Anthropic · @AnthropicAI",
+      "handle": "AnthropicAI",
+      "org": "Anthropic",
+      "published": "2026-07-08T23:55:03.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "Anthropic",
+        "Research"
+      ],
+      "summary": "We’re pleased to have collaborated with AE Studio on this research. Read more here: https://www.anthropic.com/research/off-switch-dual-use",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 72,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "casual tone (this)",
+        "tech substance (research)",
+        "links to a source",
+        "high engagement (1.6K likes)"
+      ],
+      "metrics": {
+        "likes": 1571,
+        "retweets": 137,
+        "replies": 101,
+        "likes_h": "1.6K"
+      },
+      "engagement": 1946,
+      "hot": false
     },
     {
       "id": "x_2074961724164214951",
@@ -165,12 +544,12 @@
         "tech substance (agents)"
       ],
       "metrics": {
-        "likes": 667,
-        "retweets": 83,
+        "likes": 670,
+        "retweets": 84,
         "replies": 44,
-        "likes_h": "667"
+        "likes_h": "670"
       },
-      "engagement": 877,
+      "engagement": 882,
       "hot": false
     },
     {
@@ -248,12 +627,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 23,
-        "retweets": 1,
+        "likes": 24,
+        "retweets": 2,
         "replies": 5,
-        "likes_h": "23"
+        "likes_h": "24"
       },
-      "engagement": 30,
+      "engagement": 33,
       "hot": false
     },
     {
@@ -705,12 +1084,12 @@
         "tech substance (models, gemini)"
       ],
       "metrics": {
-        "likes": 572,
-        "retweets": 77,
+        "likes": 573,
+        "retweets": 78,
         "replies": 47,
-        "likes_h": "572"
+        "likes_h": "573"
       },
-      "engagement": 773,
+      "engagement": 776,
       "hot": false
     },
     {
@@ -829,12 +1208,12 @@
         "high engagement (1.4K likes)"
       ],
       "metrics": {
-        "likes": 1403,
-        "retweets": 114,
-        "replies": 86,
+        "likes": 1437,
+        "retweets": 122,
+        "replies": 89,
         "likes_h": "1.4K"
       },
-      "engagement": 1717,
+      "engagement": 1770,
       "hot": false
     },
     {
@@ -869,15 +1248,15 @@
         "reply / conversation",
         "tech substance (models, claude, paper)",
         "links to a source",
-        "high engagement (918 likes)"
+        "high engagement (942 likes)"
       ],
       "metrics": {
-        "likes": 918,
-        "retweets": 68,
-        "replies": 41,
-        "likes_h": "918"
+        "likes": 942,
+        "retweets": 71,
+        "replies": 45,
+        "likes_h": "942"
       },
-      "engagement": 1095,
+      "engagement": 1129,
       "hot": false
     },
     {
@@ -914,12 +1293,12 @@
         "high engagement (1.1K likes)"
       ],
       "metrics": {
-        "likes": 1123,
-        "retweets": 65,
+        "likes": 1138,
+        "retweets": 67,
         "replies": 11,
         "likes_h": "1.1K"
       },
-      "engagement": 1264,
+      "engagement": 1283,
       "hot": false
     },
     {
@@ -956,385 +1335,13 @@
         "high engagement (1.8K likes)"
       ],
       "metrics": {
-        "likes": 1807,
-        "retweets": 124,
+        "likes": 1837,
+        "retweets": 126,
         "replies": 20,
         "likes_h": "1.8K"
       },
-      "engagement": 2075,
+      "engagement": 2109,
       "hot": false
-    },
-    {
-      "id": "x_2074185351304724498",
-      "title": "In neuroscience, global workspace theory holds that thoughts become consciously accessible when they enter a privileged workspace that’s broadcast across the brain. Using a new interpretability…",
-      "link": "https://x.com/AnthropicAI/status/2074185351304724498",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Anthropic · @AnthropicAI",
-      "handle": "AnthropicAI",
-      "org": "Anthropic",
-      "published": "2026-07-06T17:34:58.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "Anthropic",
-        "Research"
-      ],
-      "summary": "In neuroscience, global workspace theory holds that thoughts become consciously accessible when they enter a privileged workspace that’s broadcast across the brain. Using a new interpretability technique, we found something similar in Claude: the J-space. https://www.anthropic.com/research/global-workspace",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 61,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "reply / conversation",
-        "tech substance (claude, research)",
-        "links to a source",
-        "high engagement (2.9K likes)"
-      ],
-      "metrics": {
-        "likes": 2865,
-        "retweets": 306,
-        "replies": 75,
-        "likes_h": "2.9K"
-      },
-      "engagement": 3552,
-      "hot": false
-    },
-    {
-      "id": "x_2074185348142280912",
-      "title": "New Anthropic research: A global workspace in language models. Of everything happening in your brain right now, only a tiny fraction is consciously accessible—thoughts you can describe, hold in mind,…",
-      "link": "https://x.com/AnthropicAI/status/2074185348142280912",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Anthropic · @AnthropicAI",
-      "handle": "AnthropicAI",
-      "org": "Anthropic",
-      "published": "2026-07-06T17:34:58.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "Anthropic",
-        "Research"
-      ],
-      "summary": "New Anthropic research: A global workspace in language models. Of everything happening in your brain right now, only a tiny fraction is consciously accessible—thoughts you can describe, hold in mind, and reason with. We found a strikingly similar divide inside Claude.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 88,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (models, claude, research)",
-        "high engagement (27.5K likes)"
-      ],
-      "metrics": {
-        "likes": 27488,
-        "retweets": 3763,
-        "replies": 1217,
-        "likes_h": "27.5K"
-      },
-      "engagement": 36231,
-      "hot": true
-    },
-    {
-      "id": "x_2074161704456356216",
-      "title": "Open models are becoming the foundation for modern AI research. At #ICML2026, 145 accepted papers cite NVIDIA Nemotron models and datasets, 74 NVIDIA papers were accepted, and ~2,000 accepted papers…",
-      "link": "https://x.com/nvidia/status/2074161704456356216",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-07-06T16:01:01.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Research",
-        "ICML2026"
-      ],
-      "summary": "Open models are becoming the foundation for modern AI research. At #ICML2026, 145 accepted papers cite NVIDIA Nemotron models and datasets, 74 NVIDIA papers were accepted, and ~2,000 accepted papers cite NVIDIA GPUs.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 91,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "tech substance (models, nemotron, research)"
-      ],
-      "metrics": {
-        "likes": 514,
-        "retweets": 62,
-        "replies": 52,
-        "likes_h": "514"
-      },
-      "engagement": 690,
-      "hot": false
-    },
-    {
-      "id": "x_2074157282477154597",
-      "title": "As @Apptronik expands their Robot Park facility, our research partnership means real-world data collected by the latest Apollo 2 humanoid platform will help train and advance Gemini Robotics. 🤖 Find…",
-      "link": "https://x.com/GoogleDeepMind/status/2074157282477154597",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Google DeepMind · @GoogleDeepMind",
-      "handle": "GoogleDeepMind",
-      "org": "Google",
-      "published": "2026-07-06T15:43:26.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "Google",
-        "Research"
-      ],
-      "summary": "As @Apptronik expands their Robot Park facility, our research partnership means real-world data collected by the latest Apollo 2 humanoid platform will help train and advance Gemini Robotics. 🤖 Find out more → https://goo.gle/4vOPwpO",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 100,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (gemini, research, robotics)",
-        "business signal (partnership)",
-        "links to a source",
-        "high engagement (668 likes)"
-      ],
-      "metrics": {
-        "likes": 668,
-        "retweets": 119,
-        "replies": 89,
-        "likes_h": "668"
-      },
-      "engagement": 995,
-      "hot": false
-    },
-    {
-      "id": "x_2073423446290092458",
-      "title": "Happy 250th birthday, America! Founded in Silicon Valley over three decades ago, NVIDIA's roots in American innovation run deep. Today, we're proud to partner with the companies, scientists,…",
-      "link": "https://x.com/nvidia/status/2073423446290092458",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-07-04T15:07:26.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Commentary"
-      ],
-      "summary": "Happy 250th birthday, America! Founded in Silicon Valley over three decades ago, NVIDIA's roots in American innovation run deep. Today, we're proud to partner with the companies, scientists, developers, and builders using AI to accelerate progress and solve hard problems.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 81,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "business signal (partner with)",
-        "high engagement (2.1K likes)"
-      ],
-      "metrics": {
-        "likes": 2066,
-        "retweets": 195,
-        "replies": 93,
-        "likes_h": "2.1K"
-      },
-      "engagement": 2549,
-      "hot": false
-    },
-    {
-      "id": "x_2072545807505527251",
-      "title": "AI is shifting from model training to always-on token production, and that shift demands a new business model. NVIDIA is partnering with AI clouds to deploy large‑scale, multi‑tenant AI factories…",
-      "link": "https://x.com/nvidia/status/2072545807505527251",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-07-02T05:00:01.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Research"
-      ],
-      "summary": "AI is shifting from model training to always-on token production, and that shift demands a new business model. NVIDIA is partnering with AI clouds to deploy large‑scale, multi‑tenant AI factories through revenue-sharing and credit-support. This opens up compute access to the",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 90,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "casual tone (this)",
-        "tech substance (model, training)",
-        "business signal (partnering, revenue)",
-        "high engagement (1.4K likes)"
-      ],
-      "metrics": {
-        "likes": 1378,
-        "retweets": 157,
-        "replies": 109,
-        "likes_h": "1.4K"
-      },
-      "engagement": 1801,
-      "hot": false
-    },
-    {
-      "id": "x_2072440109358600197",
-      "title": "Before a robot can change the world, it needs software that builders can trust. NVIDIA robotics engineer Jaiveer Singh leads the team behind Isaac ROS, an open source platform helping developers…",
-      "link": "https://x.com/nvidia/status/2072440109358600197",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-07-01T22:00:00.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product"
-      ],
-      "summary": "Before a robot can change the world, it needs software that builders can trust. NVIDIA robotics engineer Jaiveer Singh leads the team behind Isaac ROS, an open source platform helping developers build autonomous mobile robots, manipulation systems and humanoids with modular,",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 85,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "tech substance (open source, robotics, platform)"
-      ],
-      "metrics": {
-        "likes": 353,
-        "retweets": 36,
-        "replies": 36,
-        "likes_h": "353"
-      },
-      "engagement": 461,
-      "hot": false
-    },
-    {
-      "id": "x_2072305047216521247",
-      "title": "America is a nation of builders. For 250 years, America has built railroads, power grids, factories, semiconductors, and the internet. Now, America is building again.",
-      "link": "https://x.com/nvidia/status/2072305047216521247",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-07-01T13:03:19.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Commentary"
-      ],
-      "summary": "America is a nation of builders. For 250 years, America has built railroads, power grids, factories, semiconductors, and the internet. Now, America is building again.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 59,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy"
-      ],
-      "metrics": {
-        "likes": 482,
-        "retweets": 79,
-        "replies": 29,
-        "likes_h": "482"
-      },
-      "engagement": 669,
-      "hot": false
-    },
-    {
-      "id": "x_2072163884430229756",
-      "title": "Claude Fable 5 will be available again globally tomorrow. After a series of productive conversations with the US government, we're redeploying the model with a new set of classifiers to target and…",
-      "link": "https://x.com/AnthropicAI/status/2072163884430229756",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Anthropic · @AnthropicAI",
-      "handle": "AnthropicAI",
-      "org": "Anthropic",
-      "published": "2026-07-01T03:42:23.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "Anthropic",
-        "Product"
-      ],
-      "summary": "Claude Fable 5 will be available again globally tomorrow. After a series of productive conversations with the US government, we're redeploying the model with a new set of classifiers to target and block more cybersecurity tasks. In the near term, some routine tasks like coding",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 79,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "tech substance (model, claude)",
-        "high engagement (43.2K likes)"
-      ],
-      "metrics": {
-        "likes": 43243,
-        "retweets": 6542,
-        "replies": 3609,
-        "likes_h": "43.2K"
-      },
-      "engagement": 59936,
-      "hot": true
     }
   ]
 }
