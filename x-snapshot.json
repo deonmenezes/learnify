@@ -1,15 +1,135 @@
 {
-  "generated_at": "2026-07-10T23:32:49.944Z",
+  "generated_at": "2026-07-11T02:54:42.091Z",
   "handles": [
-    "elonmusk",
-    "OpenAI",
     "nvidia",
-    "AnthropicAI",
+    "GoogleDeepMind",
+    "elonmusk",
     "AIatMeta",
-    "GoogleDeepMind"
+    "OpenAI",
+    "AnthropicAI"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2075724298841387291",
+      "title": "AI factories don’t have to be a strain on the grid. Instead, they can be an energy supplier⚡ Emerald AI's Conductor platform, developed using the NVIDIA Vera Rubin DSX AI Factory reference design, is…",
+      "link": "https://x.com/nvidia/status/2075724298841387291",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-07-10T23:30:12.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "AI factories don’t have to be a strain on the grid. Instead, they can be an energy supplier⚡ Emerald AI's Conductor platform, developed using the NVIDIA Vera Rubin DSX AI Factory reference design, is leading the way for power-flexible AI factories — built to come onto the grid",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 72,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (platform)"
+      ],
+      "metrics": {
+        "likes": 127,
+        "retweets": 13,
+        "replies": 23,
+        "likes_h": "127"
+      },
+      "engagement": 176,
+      "hot": false
+    },
+    {
+      "id": "x_2075620281515929716",
+      "title": "A model’s chain of thought acts like a scratch pad, offering a window into its reasoning. 📝 On the latest episode of our podcast, host @fryrsquared sits down with @NeelNanda5 to explore…",
+      "link": "https://x.com/GoogleDeepMind/status/2075620281515929716",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Google DeepMind · @GoogleDeepMind",
+      "handle": "GoogleDeepMind",
+      "org": "Google",
+      "published": "2026-07-10T16:36:52.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "Google",
+        "Research"
+      ],
+      "summary": "A model’s chain of thought acts like a scratch pad, offering a window into its reasoning. 📝 On the latest episode of our podcast, host @fryrsquared sits down with @NeelNanda5 to explore interpretability – the science of reverse engineering how neural networks learn and think.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 81,
+      "sentiment": "negative",
+      "sentiment_score": -0.5,
+      "reasons": [
+        "report-worthy",
+        "tech substance (model, reasoning)"
+      ],
+      "metrics": {
+        "likes": 426,
+        "retweets": 60,
+        "replies": 22,
+        "likes_h": "426"
+      },
+      "engagement": 568,
+      "hot": false
+    },
+    {
+      "id": "x_2075611004508029149",
+      "title": "Every AI response you've ever gotten started with an electron. ⚡ In a recent interview with Sequoia Capital, Jensen Huang described AI infrastructure as a five-layer cake, and at the very bottom,…",
+      "link": "https://x.com/nvidia/status/2075611004508029149",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-07-10T16:00:01.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "Every AI response you've ever gotten started with an electron. ⚡ In a recent interview with Sequoia Capital, Jensen Huang described AI infrastructure as a five-layer cake, and at the very bottom, before chips, before data centers, before models, is energy. That's the binding",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 86,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (models, chips, data center)"
+      ],
+      "metrics": {
+        "likes": 371,
+        "retweets": 68,
+        "replies": 60,
+        "likes_h": "371"
+      },
+      "engagement": 567,
+      "hot": false
+    },
     {
       "id": "x_2075367885438890134",
       "title": "Starmind https://www.spacex.com/spacexai/starmind#power-generation",
@@ -40,15 +160,15 @@
       "reasons": [
         "report-worthy",
         "links to a source",
-        "high engagement (3.3K likes)"
+        "high engagement (9.9K likes)"
       ],
       "metrics": {
-        "likes": 3295,
-        "retweets": 612,
-        "replies": 752,
-        "likes_h": "3.3K"
+        "likes": 9926,
+        "retweets": 2325,
+        "replies": 2273,
+        "likes_h": "9.9K"
       },
-      "engagement": 5271,
+      "engagement": 16849,
       "hot": true
     },
     {
@@ -116,19 +236,19 @@
       "summary": "The classroom is being reimagined — and NVIDIA is bringing together the people building what's next. At SIGGRAPH 2026, join an expert panel for How AI Is Changing Education — a candid look at how AI is reshaping the way students learn, educators teach, and institutions deliver",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 55,
+      "worthiness_score": 57,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
         "report-worthy"
       ],
       "metrics": {
-        "likes": 124,
-        "retweets": 13,
-        "replies": 16,
-        "likes_h": "124"
+        "likes": 211,
+        "retweets": 22,
+        "replies": 19,
+        "likes_h": "211"
       },
-      "engagement": 166,
+      "engagement": 274,
       "hot": false
     },
     {
@@ -155,21 +275,22 @@
       "summary": "NVIDIA teams run ChatGPT Work to automate workflows, surface insights faster, and cut operation costs. Our full-stack collaboration continues to scale. GPT-5.6 builds on GPT-5.5, trained and run on NVIDIA GB200 and GB300 NVL72 rack-scale systems. Congratulations to the @OpenAI",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 60,
+      "worthiness_score": 61,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
         "report-worthy",
         "casual tone (congratulations)",
-        "tech substance (gpt)"
+        "tech substance (gpt)",
+        "high engagement (998 likes)"
       ],
       "metrics": {
-        "likes": 655,
-        "retweets": 55,
-        "replies": 45,
-        "likes_h": "655"
+        "likes": 998,
+        "retweets": 93,
+        "replies": 60,
+        "likes_h": "998"
       },
-      "engagement": 810,
+      "engagement": 1244,
       "hot": false
     },
     {
@@ -459,15 +580,15 @@
         "casual tone (this)",
         "announcement language (launching, release, released)",
         "tech substance (model, api)",
-        "high engagement (4.8K likes)"
+        "high engagement (4.9K likes)"
       ],
       "metrics": {
-        "likes": 4822,
-        "retweets": 553,
-        "replies": 260,
-        "likes_h": "4.8K"
+        "likes": 4877,
+        "retweets": 567,
+        "replies": 263,
+        "likes_h": "4.9K"
       },
-      "engagement": 6188,
+      "engagement": 6274,
       "hot": true
     },
     {
@@ -545,12 +666,12 @@
         "tech substance (agents)"
       ],
       "metrics": {
-        "likes": 670,
-        "retweets": 84,
-        "replies": 44,
-        "likes_h": "670"
+        "likes": 720,
+        "retweets": 87,
+        "replies": 47,
+        "likes_h": "720"
       },
-      "engagement": 882,
+      "engagement": 941,
       "hot": false
     },
     {
@@ -1077,7 +1198,7 @@
       "summary": "🏛️ We’re unveiling a new way to converse with the ancient world. By grounding Gemini directly in our expert models Aeneas and Ithaca, our Predicting the Past Skill in Google @antigravity lets historians study Greek and Latin texts using plain English. 🧵",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 81,
+      "worthiness_score": 82,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -1085,12 +1206,12 @@
         "tech substance (models, gemini)"
       ],
       "metrics": {
-        "likes": 573,
-        "retweets": 78,
-        "replies": 47,
-        "likes_h": "573"
+        "likes": 593,
+        "retweets": 85,
+        "replies": 51,
+        "likes_h": "593"
       },
-      "engagement": 776,
+      "engagement": 814,
       "hot": false
     },
     {
@@ -1216,133 +1337,6 @@
       },
       "engagement": 1776,
       "hot": false
-    },
-    {
-      "id": "x_2074185387577094398",
-      "title": "The J-space lets us read, audit, and shape what Claude is actively thinking about—useful tools for keeping models trustworthy as they grow more capable. And it suggests surprising parallels between…",
-      "link": "https://x.com/AnthropicAI/status/2074185387577094398",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Anthropic · @AnthropicAI",
-      "handle": "AnthropicAI",
-      "org": "Anthropic",
-      "published": "2026-07-06T17:35:07.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "Anthropic",
-        "Research"
-      ],
-      "summary": "The J-space lets us read, audit, and shape what Claude is actively thinking about—useful tools for keeping models trustworthy as they grow more capable. And it suggests surprising parallels between language models and our own minds. Read the full paper: http://transformer-circuits.pub/2026/workspace/index.html",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 66,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "reply / conversation",
-        "tech substance (models, claude, paper)",
-        "links to a source",
-        "high engagement (944 likes)"
-      ],
-      "metrics": {
-        "likes": 944,
-        "retweets": 72,
-        "replies": 46,
-        "likes_h": "944"
-      },
-      "engagement": 1134,
-      "hot": false
-    },
-    {
-      "id": "x_2074185368061026745",
-      "title": "For most things, Claude actually doesn’t need its J-space. If we delete the J-space, Claude still speaks fluently, recalls facts, and classifies text—but becomes bad at some tasks like multi-step…",
-      "link": "https://x.com/AnthropicAI/status/2074185368061026745",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Anthropic · @AnthropicAI",
-      "handle": "AnthropicAI",
-      "org": "Anthropic",
-      "published": "2026-07-06T17:35:02.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "Anthropic",
-        "Research"
-      ],
-      "summary": "For most things, Claude actually doesn’t need its J-space. If we delete the J-space, Claude still speaks fluently, recalls facts, and classifies text—but becomes bad at some tasks like multi-step reasoning. It’s similar to deliberate vs. automatic processing in human cognition.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 55,
-      "sentiment": "negative",
-      "sentiment_score": -0.5,
-      "reasons": [
-        "report-worthy",
-        "reply / conversation",
-        "tech substance (claude, reasoning)",
-        "high engagement (1.1K likes)"
-      ],
-      "metrics": {
-        "likes": 1141,
-        "retweets": 67,
-        "replies": 12,
-        "likes_h": "1.1K"
-      },
-      "engagement": 1287,
-      "hot": false
-    },
-    {
-      "id": "x_2074185358678364414",
-      "title": "By watching the J-space, we can see Claude silently perform reasoning steps in its head—noticing bugs in code, identifying images, and more.",
-      "link": "https://x.com/AnthropicAI/status/2074185358678364414",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Anthropic · @AnthropicAI",
-      "handle": "AnthropicAI",
-      "org": "Anthropic",
-      "published": "2026-07-06T17:35:00.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "Anthropic",
-        "Research"
-      ],
-      "summary": "By watching the J-space, we can see Claude silently perform reasoning steps in its head—noticing bugs in code, identifying images, and more.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 55,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "reply / conversation",
-        "tech substance (claude, reasoning)",
-        "high engagement (1.8K likes)"
-      ],
-      "metrics": {
-        "likes": 1840,
-        "retweets": 126,
-        "replies": 21,
-        "likes_h": "1.8K"
-      },
-      "engagement": 2113,
-      "hot": true
     }
   ]
 }
