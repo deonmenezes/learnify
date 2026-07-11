@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-07-11T05:47:56.461Z",
+  "generated_at": "2026-07-11T08:05:05.722Z",
   "subs": [
     "MachineLearning",
+    "LocalLLaMA",
+    "running",
+    "investing",
     "singularity",
-    "nutrition",
     "SkincareAddiction",
     "Futurology",
     "programming",
+    "nutrition",
     "cybersecurity",
-    "running",
     "startups",
-    "LocalLLaMA",
     "gadgets",
     "bodyweightfitness",
     "netsec",
-    "investing",
     "science",
     "hardware",
     "Fitness",
@@ -24,15 +24,15 @@
   ],
   "count": 36,
   "by_category": {
-    "AI / ML": 6,
+    "AI / ML": 7,
     "Skincare": 3,
     "Science": 4,
-    "Coding & Dev Tools": 3,
-    "Fitness": 5,
+    "Fitness": 6,
+    "Coding & Dev Tools": 2,
     "Security": 5,
     "Startups & Funding": 6,
     "Hardware & Gadgets": 2,
-    "Robotics": 2
+    "Robotics": 1
   },
   "articles": [
     {
@@ -115,6 +115,46 @@
       }
     },
     {
+      "id": "reddit_1us5m0g",
+      "title": "GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1us5m0g/glm52_744b_moe_on_a_25gbram_consumer_machine/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/LocalLLaMA · community knowledge",
+      "content_type": "post",
+      "author": "u/yogthos · r/LocalLLaMA",
+      "handle": "LocalLLaMA",
+      "org": "r/LocalLLaMA",
+      "platform": "reddit",
+      "published": "2026-07-09T22:43:02.000Z",
+      "image": "https://external-preview.redd.it/NNWlLPxzyXhbyIUMuz2mW9zvetk56LAOcSGVs0rdPqY.png?width=640&crop=smart&auto=webp&s=4bc51d0f9ad167529370a7eb4ee3d62194c80a9c",
+      "thumbnail": "https://external-preview.redd.it/NNWlLPxzyXhbyIUMuz2mW9zvetk56LAOcSGVs0rdPqY.png?width=640&crop=smart&auto=webp&s=4bc51d0f9ad167529370a7eb4ee3d62194c80a9c",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/LocalLLaMA"
+      ],
+      "summary": "GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/LocalLLaMA this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1us0av5",
       "title": "1X unveils NEO's new robotics hands",
       "link": "https://www.reddit.com/r/singularity/comments/1us0av5/1x_unveils_neos_new_robotics_hands/",
@@ -186,6 +226,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Futurology this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1urvw65",
+      "title": "What running books have had the biggest impact on how you understand training, physiology, and injury prevention?",
+      "link": "https://www.reddit.com/r/running/comments/1urvw65/what_running_books_have_had_the_biggest_impact_on/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/running · community knowledge",
+      "content_type": "post",
+      "author": "u/Melodic-Wolverine-80 · r/running",
+      "handle": "running",
+      "org": "r/running",
+      "platform": "reddit",
+      "published": "2026-07-09T16:50:52.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/running"
+      ],
+      "summary": "I’ve searched through previous recommendation threads, but most seem geared toward beginners or general training plans. I’m hoping to find books that dive deeper into the science behind endurance training. I’m a collegiate distance runner who is also planning to become a physical therapist, so I’m especially…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/running this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1368,84 +1447,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Futurology this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1upu953",
-      "title": "What is a token and why does it cost so much? - Computerphile",
-      "link": "https://www.reddit.com/r/programming/comments/1upu953/what_is_a_token_and_why_does_it_cost_so_much/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/programming · community knowledge",
-      "content_type": "post",
-      "author": "u/itgforlife · r/programming",
-      "handle": "programming",
-      "org": "r/programming",
-      "platform": "reddit",
-      "published": "2026-07-07T12:54:21.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Coding & Dev Tools",
-      "category": "Coding & Dev Tools",
-      "genre": "Coding & Dev Tools",
-      "categories": [
-        "Reddit",
-        "Coding & Dev Tools",
-        "r/programming"
-      ],
-      "summary": "What is a token and why does it cost so much? - Computerphile",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/programming this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1upqtcr",
-      "title": "Boston Dynamics Atlas robot handing the ball to the ref during Brazil vs Norway at the World Cup.",
-      "link": "https://www.reddit.com/r/robotics/comments/1upqtcr/boston_dynamics_atlas_robot_handing_the_ball_to/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/robotics · community knowledge",
-      "content_type": "post",
-      "author": "u/Nunki08 · r/robotics",
-      "handle": "robotics",
-      "org": "r/robotics",
-      "platform": "reddit",
-      "published": "2026-07-07T10:13:51.000Z",
-      "image": "https://external-preview.redd.it/OHh1MnA3Z244c2JoMdGj8kqT7q7hi7wD_dOlij-Rra_8ocx5z9rQysVuDQNu.png?width=640&crop=smart&auto=webp&s=bf61d0b2f26861de1e592fcf81fa5265f6740043",
-      "thumbnail": "https://external-preview.redd.it/OHh1MnA3Z244c2JoMdGj8kqT7q7hi7wD_dOlij-Rra_8ocx5z9rQysVuDQNu.png?width=640&crop=smart&auto=webp&s=bf61d0b2f26861de1e592fcf81fa5265f6740043",
-      "section": "Robotics",
-      "category": "Robotics",
-      "genre": "Robotics",
-      "categories": [
-        "Reddit",
-        "Robotics",
-        "r/robotics"
-      ],
-      "summary": "Boston Dynamics Atlas robot handing the ball to the ref during Brazil vs Norway at the World Cup.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/robotics this week"
       ],
       "metrics": {
         "likes": 0,
