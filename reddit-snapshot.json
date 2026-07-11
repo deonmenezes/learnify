@@ -1,8 +1,9 @@
 {
-  "generated_at": "2026-07-11T21:57:48.442Z",
+  "generated_at": "2026-07-11T22:57:17.159Z",
   "subs": [
     "MachineLearning",
-    "programming",
+    "Fitness",
+    "robotics",
     "cybersecurity",
     "Futurology",
     "singularity",
@@ -10,6 +11,7 @@
     "hardware",
     "SkincareAddiction",
     "LocalLLaMA",
+    "programming",
     "running",
     "startups",
     "gadgets",
@@ -17,20 +19,19 @@
     "netsec",
     "investing",
     "science",
-    "Fitness",
-    "artificial",
-    "longevity"
+    "artificial"
   ],
   "count": 36,
   "by_category": {
     "Security": 5,
-    "Science": 5,
-    "AI / ML": 6,
+    "Robotics": 3,
+    "Science": 4,
+    "AI / ML": 5,
     "Fitness": 7,
     "Hardware & Gadgets": 3,
     "Skincare": 1,
     "Coding & Dev Tools": 3,
-    "Startups & Funding": 6
+    "Startups & Funding": 5
   },
   "articles": [
     {
@@ -65,6 +66,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/cybersecurity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1utpuci",
+      "title": "First full-body movements of my DIY robot lamp",
+      "link": "https://www.reddit.com/r/robotics/comments/1utpuci/first_fullbody_movements_of_my_diy_robot_lamp/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/robotics · community knowledge",
+      "content_type": "post",
+      "author": "u/Ok_Stress3654 · r/robotics",
+      "handle": "robotics",
+      "org": "r/robotics",
+      "platform": "reddit",
+      "published": "2026-07-11T17:16:30.000Z",
+      "image": "https://external-preview.redd.it/MHY1YXNlcXp2bWNoMSUzXUmRTl_Uum9IIJETwwKHJlox5-wwIw1gfVX6HbwV.png?width=320&crop=smart&auto=webp&s=dd613a7842e6e60e8e765d6d691a1c0b7872c887",
+      "thumbnail": "https://external-preview.redd.it/MHY1YXNlcXp2bWNoMSUzXUmRTl_Uum9IIJETwwKHJlox5-wwIw1gfVX6HbwV.png?width=320&crop=smart&auto=webp&s=dd613a7842e6e60e8e765d6d691a1c0b7872c887",
+      "section": "Robotics",
+      "category": "Robotics",
+      "genre": "Robotics",
+      "categories": [
+        "Reddit",
+        "Robotics",
+        "r/robotics"
+      ],
+      "summary": "This is the first movement test with the assembled prototype. The motion is still rough and the wiring is currently a complete mess, but all the connected joints are finally moving — so naturally, I made it dance. Next: smoother trajectories, control tuning, and proper cable management. UPD: In this project I use…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/robotics this week"
       ],
       "metrics": {
         "likes": 0,
@@ -143,6 +183,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Futurology this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1ustmvg",
+      "title": "Built an open-source 5-axis desktop robot arm with ESP32 for under $100 in parts",
+      "link": "https://www.reddit.com/r/robotics/comments/1ustmvg/built_an_opensource_5axis_desktop_robot_arm_with/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/robotics · community knowledge",
+      "content_type": "post",
+      "author": "u/ConferenceFew7697 · r/robotics",
+      "handle": "robotics",
+      "org": "r/robotics",
+      "platform": "reddit",
+      "published": "2026-07-10T17:06:39.000Z",
+      "image": "https://preview.redd.it/1md06s1epfch1.jpeg?width=640&crop=smart&auto=webp&s=cdff7c52c21b8a3a1401cb91a310e8b68c595461",
+      "thumbnail": "https://preview.redd.it/1md06s1epfch1.jpeg?width=640&crop=smart&auto=webp&s=cdff7c52c21b8a3a1401cb91a310e8b68c595461",
+      "section": "Robotics",
+      "category": "Robotics",
+      "genre": "Robotics",
+      "categories": [
+        "Reddit",
+        "Robotics",
+        "r/robotics"
+      ],
+      "summary": "Hey r/robotics ! After months of design and testing, I finally have a working 5-axis robot arm fully printable in PLA or PETG — no CNC, no laser cutter, just your printer. Here&#39;s what makes it different: - 5 axes (shoulder, elbow, wrist, gripper + base stepper motor) - ESP32 brain — totally open-source firmware -…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/robotics this week"
       ],
       "metrics": {
         "likes": 0,
@@ -459,6 +538,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Futurology this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1urw006",
+      "title": "After many iterations, my quadruped robot finally climbed stairs!",
+      "link": "https://www.reddit.com/r/robotics/comments/1urw006/after_many_iterations_my_quadruped_robot_finally/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/robotics · community knowledge",
+      "content_type": "post",
+      "author": "u/yoggi56 · r/robotics",
+      "handle": "robotics",
+      "org": "r/robotics",
+      "platform": "reddit",
+      "published": "2026-07-09T16:54:45.000Z",
+      "image": "https://external-preview.redd.it/Y3d2ZmtnNzZpOGNoMWQUeccw-ScAeL_BtVFJBkPnYM54QEoW_BhiO84VelCg.png?width=640&crop=smart&auto=webp&s=2bedd0c88c4c5a0a722ecf250f287c3fc0df2989",
+      "thumbnail": "https://external-preview.redd.it/Y3d2ZmtnNzZpOGNoMWQUeccw-ScAeL_BtVFJBkPnYM54QEoW_BhiO84VelCg.png?width=640&crop=smart&auto=webp&s=2bedd0c88c4c5a0a722ecf250f287c3fc0df2989",
+      "section": "Robotics",
+      "category": "Robotics",
+      "genre": "Robotics",
+      "categories": [
+        "Reddit",
+        "Robotics",
+        "r/robotics"
+      ],
+      "summary": "I’m continuing to improve the locomotion algorithm for my quadruped robot. The current control stack uses MPC and WBC for body posture and motion control. Footholds are selected based on a height map built from depth camera data In this experiment, the robot successfully climbs stairs with a step height of 5 cm and a…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/robotics this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1325,126 +1443,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/artificial this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uq4t1v",
-      "title": "To everyone who thinks right now is the worst possible time to invest",
-      "link": "https://www.reddit.com/r/investing/comments/1uq4t1v/to_everyone_who_thinks_right_now_is_the_worst/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/investing · community knowledge",
-      "content_type": "post",
-      "author": "u/SpaceFamous28 · r/investing",
-      "handle": "investing",
-      "org": "r/investing",
-      "platform": "reddit",
-      "published": "2026-07-07T19:10:38.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/investing"
-      ],
-      "summary": "2008: &quot;We&#39;re heading into a Great Depression.&quot; If you kept buying, the S&amp;P returned 400%+ over the next 13 years. 2011: &quot;The US credit rating just got downgraded for the first time in history.&quot; Market was up 30%+ within two years. 2015: &quot;China is crashing and taking everything down…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/investing this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uq0zqh",
-      "title": "Longitudinal changes in epigenetic clocks predict survival in the InCHIANTI cohort",
-      "link": "https://www.reddit.com/r/longevity/comments/1uq0zqh/longitudinal_changes_in_epigenetic_clocks_predict/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/longevity · community knowledge",
-      "content_type": "post",
-      "author": "u/towngrizzlytown · r/longevity",
-      "handle": "longevity",
-      "org": "r/longevity",
-      "platform": "reddit",
-      "published": "2026-07-07T16:58:56.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Science",
-      "category": "Science",
-      "genre": "Longevity",
-      "categories": [
-        "Reddit",
-        "Science",
-        "Longevity",
-        "r/longevity"
-      ],
-      "summary": "Accelerating epigenetic age measurements mean increased likelihood of mortality, regardless of the starting point. &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/longevity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1upzxk2",
-      "title": "TorchJD: Training with multiple losses in PyTorch [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1upzxk2/torchjd_training_with_multiple_losses_in_pytorch_p/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/MachineLearning · community knowledge",
-      "content_type": "post",
-      "author": "u/Skeylos2 · r/MachineLearning",
-      "handle": "MachineLearning",
-      "org": "r/MachineLearning",
-      "platform": "reddit",
-      "published": "2026-07-07T16:20:47.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/MachineLearning"
-      ],
-      "summary": "Hi everyone! I wanted to share some recent progress on TorchJD that might be useful to the machine learning community. When training models with multiple losses (multiple tasks, constraints, auxiliary losses, regularization terms, etc.), you typically have two options: Scalarization: Various ways to combine those…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/MachineLearning this week"
       ],
       "metrics": {
         "likes": 0,
