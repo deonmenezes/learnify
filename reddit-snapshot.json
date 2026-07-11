@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-11T12:33:52.676Z",
+  "generated_at": "2026-07-11T14:08:56.159Z",
   "subs": [
     "MachineLearning",
     "singularity",
-    "SkincareAddiction",
+    "nutrition",
     "hardware",
+    "SkincareAddiction",
     "LocalLLaMA",
     "Futurology",
     "running",
     "programming",
-    "nutrition",
     "cybersecurity",
     "startups",
     "gadgets",
@@ -24,11 +24,11 @@
   ],
   "count": 36,
   "by_category": {
-    "AI / ML": 7,
+    "AI / ML": 6,
+    "Fitness": 7,
     "Hardware & Gadgets": 3,
     "Skincare": 3,
     "Science": 3,
-    "Fitness": 6,
     "Coding & Dev Tools": 2,
     "Security": 5,
     "Startups & Funding": 6,
@@ -68,6 +68,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/singularity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1usj4xv",
+      "title": "Healthy drinks for great health",
+      "link": "https://www.reddit.com/r/nutrition/comments/1usj4xv/healthy_drinks_for_great_health/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/nutrition · community knowledge",
+      "content_type": "post",
+      "author": "u/Chris-2018 · r/nutrition",
+      "handle": "nutrition",
+      "org": "r/nutrition",
+      "platform": "reddit",
+      "published": "2026-07-10T09:55:21.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Nutrition",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "Nutrition",
+        "r/nutrition"
+      ],
+      "summary": "What is the healthiest natural drink that has loads of antioxidants, great for gut health, gluten free, has no sugar and is dairy free? &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/nutrition this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1407,46 +1447,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/netsec this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1upvw37",
-      "title": "Beijing IS NOT looking at curbing overseas access to China's top AI models (Debunking the Reuters report)",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1upvw37/beijing_is_not_looking_at_curbing_overseas_access/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/LocalLLaMA · community knowledge",
-      "content_type": "post",
-      "author": "u/Stannis_Loyalist · r/LocalLLaMA",
-      "handle": "LocalLLaMA",
-      "org": "r/LocalLLaMA",
-      "platform": "reddit",
-      "published": "2026-07-07T13:57:36.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/LocalLLaMA"
-      ],
-      "summary": "The Lie Reuters&#39; headline and main narrative: &quot; Beijing is looking at curbing overseas access to China&#39;s top AI models .&quot; It portrayed recent Ministry of Commerce meetings as China preparing broad new restrictions on foreign usage of advanced Chinese AI models (including open-weight ones), treating…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/LocalLLaMA this week"
       ],
       "metrics": {
         "likes": 0,
