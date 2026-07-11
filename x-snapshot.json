@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T08:02:54.413Z",
+  "generated_at": "2026-07-11T10:01:12.247Z",
   "handles": [
+    "AnthropicAI",
+    "OpenAI",
     "nvidia",
     "GoogleDeepMind",
     "elonmusk",
-    "OpenAI",
-    "AnthropicAI",
     "AIatMeta"
   ],
   "count": 32,
@@ -34,7 +34,7 @@
       "summary": "AI factories don’t have to be a strain on the grid. Instead, they can be an energy supplier⚡ Emerald AI's Conductor platform, developed using the NVIDIA Vera Rubin DSX AI Factory reference design, is leading the way for power-flexible AI factories — built to come onto the grid",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 72,
+      "worthiness_score": 74,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -42,12 +42,95 @@
         "tech substance (platform)"
       ],
       "metrics": {
-        "likes": 127,
-        "retweets": 13,
-        "replies": 23,
-        "likes_h": "127"
+        "likes": 209,
+        "retweets": 28,
+        "replies": 27,
+        "likes_h": "209"
       },
-      "engagement": 176,
+      "engagement": 292,
+      "hot": false
+    },
+    {
+      "id": "x_2075686461693898868",
+      "title": "GPT-5.6 is a major step forward for health intelligence. Across the lineup, we’re delivering stronger performance at lower cost: GPT-5.6 Luna outperforms GPT-5.5 at its highest reasoning setting…",
+      "link": "https://x.com/OpenAI/status/2075686461693898868",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-07-10T20:59:51.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Research"
+      ],
+      "summary": "GPT-5.6 is a major step forward for health intelligence. Across the lineup, we’re delivering stronger performance at lower cost: GPT-5.6 Luna outperforms GPT-5.5 at its highest reasoning setting while costing 25x less. Together, these advances raise quality while making",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 91,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (gpt, reasoning)",
+        "high engagement (3.7K likes)",
+        "concrete metrics"
+      ],
+      "metrics": {
+        "likes": 3727,
+        "retweets": 275,
+        "replies": 212,
+        "likes_h": "3.7K"
+      },
+      "engagement": 4489,
+      "hot": true
+    },
+    {
+      "id": "x_2075647722766614733",
+      "title": "As part of our ongoing efforts to strengthen our safeguards for advanced AI capabilities in biology, we’re evolving our Bio Bug Bounty into an ongoing private program, known as the OpenAI Bio Bug…",
+      "link": "https://x.com/OpenAI/status/2075647722766614733",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-07-10T18:25:55.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Commentary"
+      ],
+      "summary": "As part of our ongoing efforts to strengthen our safeguards for advanced AI capabilities in biology, we’re evolving our Bio Bug Bounty into an ongoing private program, known as the OpenAI Bio Bug Bounty program and doubling rewards to $50K. We’re inviting researchers with",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 64,
+      "sentiment": "negative",
+      "sentiment_score": -0.5,
+      "reasons": [
+        "report-worthy",
+        "high engagement (1.5K likes)",
+        "concrete metrics"
+      ],
+      "metrics": {
+        "likes": 1462,
+        "retweets": 97,
+        "replies": 154,
+        "likes_h": "1.5K"
+      },
+      "engagement": 1810,
       "hot": false
     },
     {
@@ -82,12 +165,12 @@
         "tech substance (model, reasoning)"
       ],
       "metrics": {
-        "likes": 426,
-        "retweets": 60,
-        "replies": 22,
-        "likes_h": "426"
+        "likes": 538,
+        "retweets": 73,
+        "replies": 33,
+        "likes_h": "538"
       },
-      "engagement": 568,
+      "engagement": 717,
       "hot": false
     },
     {
@@ -122,12 +205,12 @@
         "tech substance (models, chips, data center)"
       ],
       "metrics": {
-        "likes": 371,
-        "retweets": 68,
-        "replies": 60,
-        "likes_h": "371"
+        "likes": 512,
+        "retweets": 95,
+        "replies": 69,
+        "likes_h": "512"
       },
-      "engagement": 567,
+      "engagement": 771,
       "hot": false
     },
     {
@@ -160,15 +243,15 @@
       "reasons": [
         "report-worthy",
         "links to a source",
-        "high engagement (9.9K likes)"
+        "high engagement (10.5K likes)"
       ],
       "metrics": {
-        "likes": 9926,
-        "retweets": 2325,
-        "replies": 2273,
-        "likes_h": "9.9K"
+        "likes": 10474,
+        "retweets": 2482,
+        "replies": 2518,
+        "likes_h": "10.5K"
       },
-      "engagement": 16849,
+      "engagement": 17956,
       "hot": true
     },
     {
@@ -201,15 +284,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (gpt)",
-        "high engagement (6K likes)"
+        "high engagement (6.7K likes)"
       ],
       "metrics": {
-        "likes": 5977,
-        "retweets": 596,
-        "replies": 197,
-        "likes_h": "6K"
+        "likes": 6656,
+        "retweets": 674,
+        "replies": 214,
+        "likes_h": "6.7K"
       },
-      "engagement": 7366,
+      "engagement": 8218,
       "hot": true
     },
     {
@@ -243,12 +326,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 211,
-        "retweets": 22,
-        "replies": 19,
-        "likes_h": "211"
+        "likes": 228,
+        "retweets": 24,
+        "replies": 21,
+        "likes_h": "228"
       },
-      "engagement": 274,
+      "engagement": 297,
       "hot": false
     },
     {
@@ -282,15 +365,15 @@
         "report-worthy",
         "casual tone (congratulations)",
         "tech substance (gpt)",
-        "high engagement (998 likes)"
+        "high engagement (1K likes)"
       ],
       "metrics": {
-        "likes": 998,
-        "retweets": 93,
-        "replies": 60,
-        "likes_h": "998"
+        "likes": 1015,
+        "retweets": 95,
+        "replies": 62,
+        "likes_h": "1K"
       },
-      "engagement": 1244,
+      "engagement": 1267,
       "hot": false
     },
     {
@@ -325,15 +408,15 @@
         "reply / conversation",
         "announcement language (rolling out)",
         "business signal (enterprise)",
-        "high engagement (922 likes)"
+        "high engagement (963 likes)"
       ],
       "metrics": {
-        "likes": 922,
-        "retweets": 56,
-        "replies": 72,
-        "likes_h": "922"
+        "likes": 963,
+        "retweets": 58,
+        "replies": 76,
+        "likes_h": "963"
       },
-      "engagement": 1106,
+      "engagement": 1155,
       "hot": false
     },
     {
@@ -370,12 +453,12 @@
         "high engagement (1.1K likes)"
       ],
       "metrics": {
-        "likes": 1066,
-        "retweets": 47,
-        "replies": 45,
+        "likes": 1110,
+        "retweets": 48,
+        "replies": 47,
         "likes_h": "1.1K"
       },
-      "engagement": 1205,
+      "engagement": 1253,
       "hot": false
     },
     {
@@ -409,15 +492,15 @@
         "report-worthy",
         "announcement language (introducing)",
         "tech substance (gpt, agent)",
-        "high engagement (18.8K likes)"
+        "high engagement (20.3K likes)"
       ],
       "metrics": {
-        "likes": 18848,
-        "retweets": 1892,
-        "replies": 820,
-        "likes_h": "18.8K"
+        "likes": 20256,
+        "retweets": 2063,
+        "replies": 910,
+        "likes_h": "20.3K"
       },
-      "engagement": 23452,
+      "engagement": 25292,
       "hot": true
     },
     {
@@ -537,15 +620,15 @@
       "reasons": [
         "report-worthy",
         "links to a source",
-        "high engagement (1.4K likes)"
+        "high engagement (1.5K likes)"
       ],
       "metrics": {
-        "likes": 1401,
-        "retweets": 128,
-        "replies": 170,
-        "likes_h": "1.4K"
+        "likes": 1493,
+        "retweets": 132,
+        "replies": 173,
+        "likes_h": "1.5K"
       },
-      "engagement": 1827,
+      "engagement": 1930,
       "hot": false
     },
     {
@@ -626,13 +709,13 @@
         "high engagement (1.6K likes)"
       ],
       "metrics": {
-        "likes": 1605,
-        "retweets": 140,
-        "replies": 104,
+        "likes": 1636,
+        "retweets": 143,
+        "replies": 108,
         "likes_h": "1.6K"
       },
-      "engagement": 1989,
-      "hot": true
+      "engagement": 2030,
+      "hot": false
     },
     {
       "id": "x_2074961724164214951",
@@ -666,12 +749,12 @@
         "tech substance (agents)"
       ],
       "metrics": {
-        "likes": 720,
+        "likes": 721,
         "retweets": 87,
         "replies": 47,
-        "likes_h": "720"
+        "likes_h": "721"
       },
-      "engagement": 941,
+      "engagement": 942,
       "hot": false
     },
     {
@@ -1206,12 +1289,12 @@
         "tech substance (models, gemini)"
       ],
       "metrics": {
-        "likes": 593,
-        "retweets": 85,
+        "likes": 599,
+        "retweets": 89,
         "replies": 51,
-        "likes_h": "593"
+        "likes_h": "599"
       },
-      "engagement": 814,
+      "engagement": 828,
       "hot": false
     },
     {
@@ -1253,89 +1336,6 @@
         "likes_h": "895"
       },
       "engagement": 1166,
-      "hot": false
-    },
-    {
-      "id": "x_2074191650792902838",
-      "title": "🌍 At the #AIforGood Summit in Geneva, we are helping shape how AI is built for global impact. From closing the infrastructure gap and expanding access to compute to advancing digital trust in an era…",
-      "link": "https://x.com/nvidia/status/2074191650792902838",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-07-06T18:00:00.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Commentary",
-        "AIforGood"
-      ],
-      "summary": "🌍 At the #AIforGood Summit in Geneva, we are helping shape how AI is built for global impact. From closing the infrastructure gap and expanding access to compute to advancing digital trust in an era of autonomous systems, we are working with leaders across sectors to ensure AI",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 56,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy"
-      ],
-      "metrics": {
-        "likes": 172,
-        "retweets": 16,
-        "replies": 27,
-        "likes_h": "172"
-      },
-      "engagement": 231,
-      "hot": false
-    },
-    {
-      "id": "x_2074185390060110138",
-      "title": "We also partnered with Neuronpedia to create an interactive demo of our methods on open-weights models. Try it here: http://neuronpedia.org/jlens",
-      "link": "https://x.com/AnthropicAI/status/2074185390060110138",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Anthropic · @AnthropicAI",
-      "handle": "AnthropicAI",
-      "org": "Anthropic",
-      "published": "2026-07-06T17:35:08.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "Anthropic",
-        "Product"
-      ],
-      "summary": "We also partnered with Neuronpedia to create an interactive demo of our methods on open-weights models. Try it here: http://neuronpedia.org/jlens",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 61,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "reply / conversation",
-        "tech substance (models, weights)",
-        "links to a source",
-        "high engagement (1.4K likes)"
-      ],
-      "metrics": {
-        "likes": 1444,
-        "retweets": 121,
-        "replies": 90,
-        "likes_h": "1.4K"
-      },
-      "engagement": 1776,
       "hot": false
     }
   ]

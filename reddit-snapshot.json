@@ -1,13 +1,14 @@
 {
-  "generated_at": "2026-07-11T08:05:05.722Z",
+  "generated_at": "2026-07-11T10:03:25.839Z",
   "subs": [
     "MachineLearning",
-    "LocalLLaMA",
-    "running",
-    "investing",
+    "longevity",
+    "hardware",
     "singularity",
     "SkincareAddiction",
+    "LocalLLaMA",
     "Futurology",
+    "running",
     "programming",
     "nutrition",
     "cybersecurity",
@@ -15,23 +16,22 @@
     "gadgets",
     "bodyweightfitness",
     "netsec",
+    "investing",
     "science",
-    "hardware",
     "Fitness",
     "artificial",
-    "longevity",
     "robotics"
   ],
   "count": 36,
   "by_category": {
     "AI / ML": 7,
+    "Hardware & Gadgets": 3,
     "Skincare": 3,
-    "Science": 4,
+    "Science": 3,
     "Fitness": 6,
     "Coding & Dev Tools": 2,
     "Security": 5,
     "Startups & Funding": 6,
-    "Hardware & Gadgets": 2,
     "Robotics": 1
   },
   "articles": [
@@ -68,6 +68,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/singularity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1usikdb",
+      "title": "AMD confirms Zen 6 launches in less than two weeks, starting with EPYC Venice.",
+      "link": "https://www.reddit.com/r/hardware/comments/1usikdb/amd_confirms_zen_6_launches_in_less_than_two/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/hardware · community knowledge",
+      "content_type": "post",
+      "author": "u/HLumin · r/hardware",
+      "handle": "hardware",
+      "org": "r/hardware",
+      "platform": "reddit",
+      "published": "2026-07-10T09:22:39.000Z",
+      "image": "https://external-preview.redd.it/JQZCBLrihkftV5y1nfMbMfcpwjzCto258qveMraFgy4.jpeg?width=640&crop=smart&auto=webp&s=1df3dfa452b8d624c6f6e48f85fd8c72aaf46517",
+      "thumbnail": "https://external-preview.redd.it/JQZCBLrihkftV5y1nfMbMfcpwjzCto258qveMraFgy4.jpeg?width=640&crop=smart&auto=webp&s=1df3dfa452b8d624c6f6e48f85fd8c72aaf46517",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/hardware"
+      ],
+      "summary": "AMD confirms Zen 6 launches in less than two weeks, starting with EPYC Venice.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/hardware this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1408,45 +1447,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/LocalLLaMA this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1upuw0g",
-      "title": "EV batteries are lasting much longer than the industry expected; 95% charge retained after a quarter of a million miles.",
-      "link": "https://www.reddit.com/r/Futurology/comments/1upuw0g/ev_batteries_are_lasting_much_longer_than_the/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/Futurology · community knowledge",
-      "content_type": "post",
-      "author": "u/lughnasadh · r/Futurology",
-      "handle": "Futurology",
-      "org": "r/Futurology",
-      "platform": "reddit",
-      "published": "2026-07-07T13:19:16.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/Futurology"
-      ],
-      "summary": "For those who are still unconvinced that gasoline cars are at the beginning of their death spiral ~ here&#39;s another sign of how the wind is blowing. Another great thing about EVs? You can control your own fuel supply and make it all at home with rooftop solar. No giving your money to monopolistic corporations,…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/Futurology this week"
       ],
       "metrics": {
         "likes": 0,
