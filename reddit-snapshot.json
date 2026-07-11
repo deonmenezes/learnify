@@ -1,40 +1,118 @@
 {
-  "generated_at": "2026-07-11T18:31:51.293Z",
+  "generated_at": "2026-07-11T19:48:36.345Z",
   "subs": [
-    "programming",
-    "SkincareAddiction",
+    "MachineLearning",
+    "Futurology",
+    "netsec",
     "singularity",
     "nutrition",
     "hardware",
+    "SkincareAddiction",
     "LocalLLaMA",
-    "Futurology",
+    "programming",
     "running",
     "cybersecurity",
     "startups",
     "gadgets",
     "bodyweightfitness",
-    "netsec",
     "investing",
     "science",
     "Fitness",
     "artificial",
     "longevity",
-    "MachineLearning",
     "robotics"
   ],
   "count": 36,
   "by_category": {
+    "Science": 5,
     "AI / ML": 6,
     "Fitness": 7,
     "Hardware & Gadgets": 3,
-    "Skincare": 3,
+    "Skincare": 1,
     "Coding & Dev Tools": 3,
-    "Science": 3,
     "Security": 4,
     "Startups & Funding": 6,
     "Robotics": 1
   },
   "articles": [
+    {
+      "id": "reddit_1utfqmp",
+      "title": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50% | AI cheating leads to \"a failed society,\" professor says.",
+      "link": "https://www.reddit.com/r/Futurology/comments/1utfqmp/suspecting_ai_cheating_ivy_league_prof_ordered_an/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/Futurology · community knowledge",
+      "content_type": "post",
+      "author": "u/EchoOfOppenheimer · r/Futurology",
+      "handle": "Futurology",
+      "org": "r/Futurology",
+      "platform": "reddit",
+      "published": "2026-07-11T09:46:25.000Z",
+      "image": "https://external-preview.redd.it/BGZ1Hx4Z7VQDsbmYINDjGLJWvVQSnpRAejemQRT9_Jo.jpeg?width=640&crop=smart&auto=webp&s=247666e8ec537d1764194bc17fcca4e1a0e84064",
+      "thumbnail": "https://external-preview.redd.it/BGZ1Hx4Z7VQDsbmYINDjGLJWvVQSnpRAejemQRT9_Jo.jpeg?width=640&crop=smart&auto=webp&s=247666e8ec537d1764194bc17fcca4e1a0e84064",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/Futurology"
+      ],
+      "summary": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50% | AI cheating leads to \"a failed society,\" professor says.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/Futurology this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1utbrsv",
+      "title": "County With 37 Data Centers Asks Schools to ‘Conserve Electricity’",
+      "link": "https://www.reddit.com/r/Futurology/comments/1utbrsv/county_with_37_data_centers_asks_schools_to/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/Futurology · community knowledge",
+      "content_type": "post",
+      "author": "u/EchoOfOppenheimer · r/Futurology",
+      "handle": "Futurology",
+      "org": "r/Futurology",
+      "platform": "reddit",
+      "published": "2026-07-11T05:57:10.000Z",
+      "image": "https://external-preview.redd.it/k2oAGlPQxeXhsKc6PI8yyvLaijtajDpnIUupJasxjBg.jpeg?width=640&crop=smart&auto=webp&s=bdd1f414efd0031253609c51776ea3cebb627c16",
+      "thumbnail": "https://external-preview.redd.it/k2oAGlPQxeXhsKc6PI8yyvLaijtajDpnIUupJasxjBg.jpeg?width=640&crop=smart&auto=webp&s=bdd1f414efd0031253609c51776ea3cebb627c16",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/Futurology"
+      ],
+      "summary": "County With 37 Data Centers Asks Schools to ‘Conserve Electricity’",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/Futurology this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1usjw1c",
       "title": "“i-it’s not like I like your prompts or anything, baka user!”",
@@ -1369,84 +1447,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/robotics this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1upznc5",
-      "title": "[PSA] I think this is a scam. Beware!",
-      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1upznc5/psa_i_think_this_is_a_scam_beware/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/SkincareAddiction · community knowledge",
-      "content_type": "post",
-      "author": "u/navyblusheet · r/SkincareAddiction",
-      "handle": "SkincareAddiction",
-      "org": "r/SkincareAddiction",
-      "platform": "reddit",
-      "published": "2026-07-07T16:10:25.000Z",
-      "image": "https://preview.redd.it/8blko2ce0ubh1.jpeg?width=640&crop=smart&auto=webp&s=abfcaafa4ec3ec33b60a0edaaca25cd1504f7996",
-      "thumbnail": "https://preview.redd.it/8blko2ce0ubh1.jpeg?width=640&crop=smart&auto=webp&s=abfcaafa4ec3ec33b60a0edaaca25cd1504f7996",
-      "section": "Skincare",
-      "category": "Skincare",
-      "genre": "Skincare",
-      "categories": [
-        "Reddit",
-        "Skincare",
-        "r/SkincareAddiction"
-      ],
-      "summary": "Looks like someone has made a fake website (see the spelling) to look like Ordinary and selling ridiculously cheap stuff. Crazy thing is this is what you get from first page Google search. &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/SkincareAddiction this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1upy9j7",
-      "title": "[Hair Removal] I shaved my face every morning for 20 years before I could finally start electrolysis permanent hair removal…my life will never be the same again. 🥹",
-      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1upy9j7/hair_removal_i_shaved_my_face_every_morning_for/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/SkincareAddiction · community knowledge",
-      "content_type": "post",
-      "author": "u/thecurlybuzz · r/SkincareAddiction",
-      "handle": "SkincareAddiction",
-      "org": "r/SkincareAddiction",
-      "platform": "reddit",
-      "published": "2026-07-07T15:22:15.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Skincare",
-      "category": "Skincare",
-      "genre": "Skincare",
-      "categories": [
-        "Reddit",
-        "Skincare",
-        "r/SkincareAddiction"
-      ],
-      "summary": "Left photos: 2020 Right photos: 2026 I was diagnosed with PCOS (now PMOS) at 15 years old. I planned my life around shaving, hiding, and wondering if anyone could see my beard. I missed out on so much adventure. I declined invites, missed out on camping trips, panicked if somebody stopped by unannounced…. Felt my…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/SkincareAddiction this week"
       ],
       "metrics": {
         "likes": 0,
