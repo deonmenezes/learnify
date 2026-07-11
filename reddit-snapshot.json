@@ -1,40 +1,77 @@
 {
-  "generated_at": "2026-07-11T20:57:36.058Z",
+  "generated_at": "2026-07-11T21:57:48.442Z",
   "subs": [
     "MachineLearning",
+    "programming",
+    "cybersecurity",
     "Futurology",
-    "netsec",
     "singularity",
     "nutrition",
     "hardware",
     "SkincareAddiction",
     "LocalLLaMA",
-    "programming",
     "running",
-    "cybersecurity",
     "startups",
     "gadgets",
     "bodyweightfitness",
+    "netsec",
     "investing",
     "science",
     "Fitness",
     "artificial",
-    "longevity",
-    "robotics"
+    "longevity"
   ],
   "count": 36,
   "by_category": {
+    "Security": 5,
     "Science": 5,
     "AI / ML": 6,
     "Fitness": 7,
     "Hardware & Gadgets": 3,
     "Skincare": 1,
     "Coding & Dev Tools": 3,
-    "Security": 4,
-    "Startups & Funding": 6,
-    "Robotics": 1
+    "Startups & Funding": 6
   },
   "articles": [
+    {
+      "id": "reddit_1utqhu4",
+      "title": "Microsoft admits Windows 11 has a GDID tracker with no off switch, first documented publicly in an FBI hacker complaint",
+      "link": "https://www.reddit.com/r/cybersecurity/comments/1utqhu4/microsoft_admits_windows_11_has_a_gdid_tracker/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/cybersecurity · community knowledge",
+      "content_type": "post",
+      "author": "u/Dash-Courageous · r/cybersecurity",
+      "handle": "cybersecurity",
+      "org": "r/cybersecurity",
+      "platform": "reddit",
+      "published": "2026-07-11T17:40:59.000Z",
+      "image": "https://external-preview.redd.it/k_fLTUJsX4Ij27duxYghYcfq7VLlP64BC1PZia7Lz4s.jpeg?width=640&crop=smart&auto=webp&s=07cea1303f9af664a48bcc90b4d0bd13a3b7ea62",
+      "thumbnail": "https://external-preview.redd.it/k_fLTUJsX4Ij27duxYghYcfq7VLlP64BC1PZia7Lz4s.jpeg?width=640&crop=smart&auto=webp&s=07cea1303f9af664a48bcc90b4d0bd13a3b7ea62",
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/cybersecurity"
+      ],
+      "summary": "Microsoft admits Windows 11 has a GDID tracker with no off switch, first documented publicly in an FBI hacker complaint",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/cybersecurity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1utfqmp",
       "title": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50% | AI cheating leads to \"a failed society,\" professor says.",
@@ -1408,45 +1445,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1upzut8",
-      "title": "MIT Prof. on why this robotics boom may actually be different",
-      "link": "https://www.reddit.com/r/robotics/comments/1upzut8/mit_prof_on_why_this_robotics_boom_may_actually/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/robotics · community knowledge",
-      "content_type": "post",
-      "author": "u/Responsible-Grass452 · r/robotics",
-      "handle": "robotics",
-      "org": "r/robotics",
-      "platform": "reddit",
-      "published": "2026-07-07T16:17:55.000Z",
-      "image": "https://external-preview.redd.it/dWR1NDc3N28xdWJoMSGiIl0frxxwUwiYQicWK1EnNZrfSwrc65-ShBhN-gZ7.png?width=640&crop=smart&auto=webp&s=66507c9fa44e64972bcb5ddb3436dce7b326f9f1",
-      "thumbnail": "https://external-preview.redd.it/dWR1NDc3N28xdWJoMSGiIl0frxxwUwiYQicWK1EnNZrfSwrc65-ShBhN-gZ7.png?width=640&crop=smart&auto=webp&s=66507c9fa44e64972bcb5ddb3436dce7b326f9f1",
-      "section": "Robotics",
-      "category": "Robotics",
-      "genre": "Robotics",
-      "categories": [
-        "Reddit",
-        "Robotics",
-        "r/robotics"
-      ],
-      "summary": "Russ Tedrake says the current robotics boom is not just about one technical breakthrough. The difference now is that several things are happening at the same time: AI progress, more talent entering the field, more investment, better supply chains and a growing need for automation in the real world. Robotics has had…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/robotics this week"
       ],
       "metrics": {
         "likes": 0,
