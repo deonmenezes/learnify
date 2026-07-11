@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-11T17:03:00.654Z",
+  "generated_at": "2026-07-11T18:29:34.912Z",
   "handles": [
-    "AnthropicAI",
     "nvidia",
-    "OpenAI",
     "GoogleDeepMind",
     "elonmusk",
-    "AIatMeta"
+    "AIatMeta",
+    "OpenAI",
+    "AnthropicAI"
   ],
   "count": 32,
   "articles": [
@@ -42,12 +42,12 @@
         "tech substance (platform)"
       ],
       "metrics": {
-        "likes": 244,
-        "retweets": 33,
-        "replies": 34,
-        "likes_h": "244"
+        "likes": 261,
+        "retweets": 35,
+        "replies": 35,
+        "likes_h": "261"
       },
-      "engagement": 344,
+      "engagement": 366,
       "hot": false
     },
     {
@@ -165,12 +165,12 @@
         "tech substance (model, reasoning)"
       ],
       "metrics": {
-        "likes": 597,
-        "retweets": 83,
-        "replies": 39,
-        "likes_h": "597"
+        "likes": 623,
+        "retweets": 87,
+        "replies": 41,
+        "likes_h": "623"
       },
-      "engagement": 802,
+      "engagement": 838,
       "hot": false
     },
     {
@@ -202,15 +202,16 @@
       "sentiment_score": 0,
       "reasons": [
         "report-worthy",
-        "tech substance (models, chips, data center)"
+        "tech substance (models, chips, data center)",
+        "high engagement (680 likes)"
       ],
       "metrics": {
-        "likes": 638,
-        "retweets": 113,
-        "replies": 78,
-        "likes_h": "638"
+        "likes": 680,
+        "retweets": 118,
+        "replies": 79,
+        "likes_h": "680"
       },
-      "engagement": 942,
+      "engagement": 995,
       "hot": false
     },
     {
@@ -243,15 +244,15 @@
       "reasons": [
         "report-worthy",
         "links to a source",
-        "high engagement (10.9K likes)"
+        "high engagement (11.2K likes)"
       ],
       "metrics": {
-        "likes": 10924,
-        "retweets": 2665,
-        "replies": 2706,
-        "likes_h": "10.9K"
+        "likes": 11178,
+        "retweets": 2773,
+        "replies": 2808,
+        "likes_h": "11.2K"
       },
-      "engagement": 18960,
+      "engagement": 19532,
       "hot": true
     },
     {
@@ -326,12 +327,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 237,
-        "retweets": 24,
+        "likes": 242,
+        "retweets": 25,
         "replies": 21,
-        "likes_h": "237"
+        "likes_h": "242"
       },
-      "engagement": 306,
+      "engagement": 313,
       "hot": false
     },
     {
@@ -368,12 +369,12 @@
         "high engagement (1K likes)"
       ],
       "metrics": {
-        "likes": 1025,
-        "retweets": 98,
-        "replies": 62,
+        "likes": 1030,
+        "retweets": 99,
+        "replies": 63,
         "likes_h": "1K"
       },
-      "engagement": 1283,
+      "engagement": 1291,
       "hot": false
     },
     {
@@ -663,15 +664,15 @@
         "casual tone (this)",
         "announcement language (launching, release, released)",
         "tech substance (model, api)",
-        "high engagement (4.9K likes)"
+        "high engagement (5K likes)"
       ],
       "metrics": {
-        "likes": 4935,
-        "retweets": 574,
-        "replies": 262,
-        "likes_h": "4.9K"
+        "likes": 4959,
+        "retweets": 577,
+        "replies": 269,
+        "likes_h": "5K"
       },
-      "engagement": 6345,
+      "engagement": 6382,
       "hot": true
     },
     {
@@ -1290,11 +1291,11 @@
       ],
       "metrics": {
         "likes": 598,
-        "retweets": 91,
+        "retweets": 92,
         "replies": 51,
         "likes_h": "598"
       },
-      "engagement": 831,
+      "engagement": 833,
       "hot": false
     },
     {

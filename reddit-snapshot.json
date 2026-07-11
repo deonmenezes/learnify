@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-07-11T17:05:12.181Z",
+  "generated_at": "2026-07-11T18:31:51.293Z",
   "subs": [
-    "MachineLearning",
-    "bodyweightfitness",
-    "startups",
+    "programming",
+    "SkincareAddiction",
     "singularity",
     "nutrition",
     "hardware",
-    "SkincareAddiction",
     "LocalLLaMA",
     "Futurology",
     "running",
-    "programming",
     "cybersecurity",
+    "startups",
     "gadgets",
+    "bodyweightfitness",
     "netsec",
     "investing",
     "science",
     "Fitness",
     "artificial",
     "longevity",
+    "MachineLearning",
     "robotics"
   ],
   "count": 36,
@@ -28,9 +28,9 @@
     "Fitness": 7,
     "Hardware & Gadgets": 3,
     "Skincare": 3,
+    "Coding & Dev Tools": 3,
     "Science": 3,
-    "Coding & Dev Tools": 2,
-    "Security": 5,
+    "Security": 4,
     "Startups & Funding": 6,
     "Robotics": 1
   },
@@ -226,6 +226,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/LocalLLaMA this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1us129c",
+      "title": "Postgres is enough for more than we admit",
+      "link": "https://www.reddit.com/r/programming/comments/1us129c/postgres_is_enough_for_more_than_we_admit/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/programming · community knowledge",
+      "content_type": "post",
+      "author": "u/danieltabrizian · r/programming",
+      "handle": "programming",
+      "org": "r/programming",
+      "platform": "reddit",
+      "published": "2026-07-09T19:52:08.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Coding & Dev Tools",
+      "category": "Coding & Dev Tools",
+      "genre": "Coding & Dev Tools",
+      "categories": [
+        "Reddit",
+        "Coding & Dev Tools",
+        "r/programming"
+      ],
+      "summary": "I came across this on Hacker News and felt like I needed to share it with the dev community. The main point is simple: a lot of teams reach for extra databases, queues, search engines, caches, and services before they actually need them. This page lays out where Postgres is usually enough, and where you may actually…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/programming this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1408,45 +1447,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/SkincareAddiction this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1upy3gm",
-      "title": "GitLost: a public GitHub issue can steer an org's Agentic Workflow into leaking private repo contents, and a one-word prefix (\"Additionally\") bypassed the threat-detection guardrail",
-      "link": "https://www.reddit.com/r/netsec/comments/1upy3gm/gitlost_a_public_github_issue_can_steer_an_orgs/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/netsec · community knowledge",
-      "content_type": "post",
-      "author": "u/Aureliand · r/netsec",
-      "handle": "netsec",
-      "org": "r/netsec",
-      "platform": "reddit",
-      "published": "2026-07-07T15:16:22.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/netsec"
-      ],
-      "summary": "Noma Security published a technique they call GitLost against GitHub Agentic Workflows (the plain-English-Markdown agent feature GitHub put into public preview in February, runnable on Copilot, Claude, Gemini, or Codex). Worth reading because it is a clean demonstration of why &quot;filter the injection&quot; does not…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/netsec this week"
       ],
       "metrics": {
         "likes": 0,
