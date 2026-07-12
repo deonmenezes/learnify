@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-12T00:02:35.608Z",
+  "generated_at": "2026-07-12T03:49:24.623Z",
   "subs": [
     "MachineLearning",
-    "Futurology",
-    "netsec",
+    "longevity",
+    "hardware",
     "cybersecurity",
     "robotics",
+    "Futurology",
     "singularity",
     "nutrition",
-    "hardware",
     "SkincareAddiction",
     "LocalLLaMA",
     "programming",
@@ -16,24 +16,64 @@
     "startups",
     "gadgets",
     "bodyweightfitness",
+    "netsec",
     "investing",
     "science",
-    "Fitness",
-    "artificial"
+    "Fitness"
   ],
   "count": 36,
   "by_category": {
+    "Science": 5,
     "Security": 5,
     "Robotics": 3,
-    "Science": 4,
     "AI / ML": 5,
-    "Fitness": 7,
-    "Hardware & Gadgets": 3,
+    "Hardware & Gadgets": 4,
+    "Fitness": 6,
     "Skincare": 1,
     "Coding & Dev Tools": 3,
-    "Startups & Funding": 5
+    "Startups & Funding": 4
   },
   "articles": [
+    {
+      "id": "reddit_1uu0keh",
+      "title": "MIT: Injectable “satellite livers” could offer an alternative to liver transplantation",
+      "link": "https://www.reddit.com/r/longevity/comments/1uu0keh/mit_injectable_satellite_livers_could_offer_an/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/longevity · community knowledge",
+      "content_type": "post",
+      "author": "u/barrel_master · r/longevity",
+      "handle": "longevity",
+      "org": "r/longevity",
+      "platform": "reddit",
+      "published": "2026-07-12T00:37:09.000Z",
+      "image": "https://external-preview.redd.it/z4r6_3cAcaIMsebKiAQxYLYDbdLY3M7Ogm-X_ZkvyQQ.jpeg?width=640&crop=smart&auto=webp&s=16d528cd44a53233cb12f37ea3ca12be13b889c8",
+      "thumbnail": "https://external-preview.redd.it/z4r6_3cAcaIMsebKiAQxYLYDbdLY3M7Ogm-X_ZkvyQQ.jpeg?width=640&crop=smart&auto=webp&s=16d528cd44a53233cb12f37ea3ca12be13b889c8",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Longevity",
+      "categories": [
+        "Reddit",
+        "Science",
+        "Longevity",
+        "r/longevity"
+      ],
+      "summary": "MIT: Injectable “satellite livers” could offer an alternative to liver transplantation",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/longevity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1utqhu4",
       "title": "Microsoft admits Windows 11 has a GDID tracker with no off switch, first documented publicly in an FBI hacker complaint",
@@ -113,6 +153,46 @@
       }
     },
     {
+      "id": "reddit_1utplzc",
+      "title": "Public Library Find [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1utplzc/public_library_find_d/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/MachineLearning · community knowledge",
+      "content_type": "post",
+      "author": "u/ai_hedge_fund · r/MachineLearning",
+      "handle": "MachineLearning",
+      "org": "r/MachineLearning",
+      "platform": "reddit",
+      "published": "2026-07-11T17:07:33.000Z",
+      "image": "https://preview.redd.it/uzpazzheumch1.jpeg?width=640&crop=smart&auto=webp&s=1c018f959360112c2ff6eb459bd3853cd7a3953a",
+      "thumbnail": "https://preview.redd.it/uzpazzheumch1.jpeg?width=640&crop=smart&auto=webp&s=1c018f959360112c2ff6eb459bd3853cd7a3953a",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/MachineLearning"
+      ],
+      "summary": "Pleasantly surprised to find O’Reilly books on ML at a public library &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1utfqmp",
       "title": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50% | AI cheating leads to \"a failed society,\" professor says.",
       "link": "https://www.reddit.com/r/Futurology/comments/1utfqmp/suspecting_ai_cheating_ivy_league_prof_ordered_an/",
@@ -183,6 +263,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Futurology this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1ut5edj",
+      "title": "Wired headphone sales are exploding. What's with the Bluetooth backlash?",
+      "link": "https://www.reddit.com/r/hardware/comments/1ut5edj/wired_headphone_sales_are_exploding_whats_with/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/hardware · community knowledge",
+      "content_type": "post",
+      "author": "u/pdp10 · r/hardware",
+      "handle": "hardware",
+      "org": "r/hardware",
+      "platform": "reddit",
+      "published": "2026-07-11T00:39:16.000Z",
+      "image": "https://external-preview.redd.it/6qbmTRKiSIr6QDi6f5tp0sGfbv7TcSPtzkdSQKYVfu8.jpeg?width=320&crop=smart&auto=webp&s=1feb1e9326d8113d5f3db8dbeae4dfe22770be69",
+      "thumbnail": "https://external-preview.redd.it/6qbmTRKiSIr6QDi6f5tp0sGfbv7TcSPtzkdSQKYVfu8.jpeg?width=320&crop=smart&auto=webp&s=1feb1e9326d8113d5f3db8dbeae4dfe22770be69",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/hardware"
+      ],
+      "summary": "Wired headphone sales are exploding. What's with the Bluetooth backlash?",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/hardware this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1324,125 +1443,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/startups this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uqizo6",
-      "title": "Achievements for Wednesday, July 08, 2026",
-      "link": "https://www.reddit.com/r/running/comments/1uqizo6/achievements_for_wednesday_july_08_2026/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/running · community knowledge",
-      "content_type": "post",
-      "author": "u/AutoModerator · r/running",
-      "handle": "running",
-      "org": "r/running",
-      "platform": "reddit",
-      "published": "2026-07-08T05:02:06.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/running"
-      ],
-      "summary": "Hey runners, it&#39;s another day and it is time to post your accomplishments you&#39;d like to share - big or small. Note: No need to preface YOUR accomplishments with something like, &quot;this may not be an accomplishment to most of you...&quot;. Be proud of your achievement. &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/running this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uqgmsm",
-      "title": "I raised $1m for a pre-seed and I feel super scared and like a imposter - I will not promote",
-      "link": "https://www.reddit.com/r/startups/comments/1uqgmsm/i_raised_1m_for_a_preseed_and_i_feel_super_scared/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/startups · community knowledge",
-      "content_type": "post",
-      "author": "u/SirOppenhiemer · r/startups",
-      "handle": "startups",
-      "org": "r/startups",
-      "platform": "reddit",
-      "published": "2026-07-08T03:05:39.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/startups"
-      ],
-      "summary": "Being vague purposefully I am in a high paying and stable job and 1 month ago had a quite a good idea and got some little traction on it and basically decided that I wanted to go full time on it. The traction I got is good but I don’t really think it is a sure fire. I started pitching to investors and within a few…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/startups this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uq91lr",
-      "title": "Air Force Engineer Accused of Cutting Down Flock AI Surveillance Cameras, Says U.S. is Becoming Police State",
-      "link": "https://www.reddit.com/r/artificial/comments/1uq91lr/air_force_engineer_accused_of_cutting_down_flock/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/artificial · community knowledge",
-      "content_type": "post",
-      "author": "u/Sgt_Gram · r/artificial",
-      "handle": "artificial",
-      "org": "r/artificial",
-      "platform": "reddit",
-      "published": "2026-07-07T21:42:15.000Z",
-      "image": "https://external-preview.redd.it/BqHCtDZqcx4As69Oe_9oIKsUZ_3F5GZkJOysG_DKBhA.jpeg?width=640&crop=smart&auto=webp&s=406a39832e72d4cffd76d7fcfb29941a510845c8",
-      "thumbnail": "https://external-preview.redd.it/BqHCtDZqcx4As69Oe_9oIKsUZ_3F5GZkJOysG_DKBhA.jpeg?width=640&crop=smart&auto=webp&s=406a39832e72d4cffd76d7fcfb29941a510845c8",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/artificial"
-      ],
-      "summary": "Air Force Engineer Accused of Cutting Down Flock AI Surveillance Cameras, Says U.S. is Becoming Police State",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/artificial this week"
       ],
       "metrics": {
         "likes": 0,
