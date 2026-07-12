@@ -1,32 +1,33 @@
 {
-  "generated_at": "2026-07-12T06:40:12.061Z",
+  "generated_at": "2026-07-12T09:09:03.062Z",
   "subs": [
     "MachineLearning",
-    "LocalLLaMA",
-    "bodyweightfitness",
-    "startups",
+    "artificial",
+    "running",
+    "investing",
     "longevity",
+    "startups",
     "cybersecurity",
     "robotics",
     "Futurology",
+    "LocalLLaMA",
     "hardware",
+    "bodyweightfitness",
     "singularity",
     "nutrition",
     "SkincareAddiction",
     "programming",
-    "running",
     "gadgets",
     "netsec",
-    "investing",
     "science"
   ],
   "count": 36,
   "by_category": {
     "Science": 5,
-    "Startups & Funding": 4,
+    "Startups & Funding": 3,
     "Security": 5,
     "Robotics": 3,
-    "AI / ML": 6,
+    "AI / ML": 7,
     "Hardware & Gadgets": 3,
     "Fitness": 6,
     "Skincare": 1,
@@ -224,6 +225,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1utkdha",
+      "title": "Apple just sued OpenAI. And the details are wild.",
+      "link": "https://www.reddit.com/r/artificial/comments/1utkdha/apple_just_sued_openai_and_the_details_are_wild/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/artificial · community knowledge",
+      "content_type": "post",
+      "author": "u/Direct-Attention8597 · r/artificial",
+      "handle": "artificial",
+      "org": "r/artificial",
+      "platform": "reddit",
+      "published": "2026-07-11T13:37:36.000Z",
+      "image": "https://preview.redd.it/shkrct50tlch1.jpeg?width=640&crop=smart&auto=webp&s=cf7582e482e46fde3d9a87002283f4253a7c3666",
+      "thumbnail": "https://preview.redd.it/shkrct50tlch1.jpeg?width=640&crop=smart&auto=webp&s=cf7582e482e46fde3d9a87002283f4253a7c3666",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/artificial"
+      ],
+      "summary": "This isn’t a generic IP dispute. Apple’s hardware chief at OpenAI is Tang Tan. Former Apple VP. 24 years at the company. He now runs OpenAI’s device ambitions. Apple alleges he was coaching Apple employees interviewing at OpenAI to bring actual hardware parts – batteries, logic boards, SIPs – to their interviews for…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/artificial this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1403,46 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/science this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uqpyo9",
-      "title": "Regarding the “waiting for a big dip to get back into the market” folks:",
-      "link": "https://www.reddit.com/r/investing/comments/1uqpyo9/regarding_the_waiting_for_a_big_dip_to_get_back/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/investing · community knowledge",
-      "content_type": "post",
-      "author": "u/pseudonominom · r/investing",
-      "handle": "investing",
-      "org": "r/investing",
-      "platform": "reddit",
-      "published": "2026-07-08T11:30:27.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/investing"
-      ],
-      "summary": "Is it possible that, because this market has been booming for so many years in a row now, there’s a huge backlog of dry powder just ready to pounce? In other words, any would-be crash will be muted and almost immediately bought up by the trillions of dollars just sitting on the sidelines. I remember reading that…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/investing this week"
       ],
       "metrics": {
         "likes": 0,
