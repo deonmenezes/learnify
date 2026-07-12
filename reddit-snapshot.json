@@ -1,37 +1,36 @@
 {
-  "generated_at": "2026-07-12T03:49:24.623Z",
+  "generated_at": "2026-07-12T06:40:12.061Z",
   "subs": [
     "MachineLearning",
+    "LocalLLaMA",
+    "bodyweightfitness",
+    "startups",
     "longevity",
-    "hardware",
     "cybersecurity",
     "robotics",
     "Futurology",
+    "hardware",
     "singularity",
     "nutrition",
     "SkincareAddiction",
-    "LocalLLaMA",
     "programming",
     "running",
-    "startups",
     "gadgets",
-    "bodyweightfitness",
     "netsec",
     "investing",
-    "science",
-    "Fitness"
+    "science"
   ],
   "count": 36,
   "by_category": {
     "Science": 5,
+    "Startups & Funding": 4,
     "Security": 5,
     "Robotics": 3,
-    "AI / ML": 5,
-    "Hardware & Gadgets": 4,
+    "AI / ML": 6,
+    "Hardware & Gadgets": 3,
     "Fitness": 6,
     "Skincare": 1,
-    "Coding & Dev Tools": 3,
-    "Startups & Funding": 4
+    "Coding & Dev Tools": 3
   },
   "articles": [
     {
@@ -67,6 +66,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/longevity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1utyazk",
+      "title": "Has a16z become the devil incarnate? (I will not promote)",
+      "link": "https://www.reddit.com/r/startups/comments/1utyazk/has_a16z_become_the_devil_incarnate_i_will_not/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/startups · community knowledge",
+      "content_type": "post",
+      "author": "u/SuperSaiyan1010 · r/startups",
+      "handle": "startups",
+      "org": "r/startups",
+      "platform": "reddit",
+      "published": "2026-07-11T22:58:46.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/startups"
+      ],
+      "summary": "Not a hater, but they backed Cluely (eh), then this AI slop, &quot;let&#39;s make the dead internet come true&quot;, then now an investor is telling young founders to go to Japan because they are 5-10 years ahead... because Japan has virtual boy/girlfirends (Josh Lu, a partner). Idk I&#39;m getting the feeling of an…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/startups this week"
       ],
       "metrics": {
         "likes": 0,
@@ -271,6 +310,46 @@
       }
     },
     {
+      "id": "reddit_1utb6io",
+      "title": "Qwen3.6 35B-A3B (Q8_0, no KV quant) single prompt in opencode: \"Create a beautiful, relaxing flight simulator in a single html file with mountains, clouds, and endless procedural terrain\"",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1utb6io/qwen36_35ba3b_q8_0_no_kv_quant_single_prompt_in/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/LocalLLaMA · community knowledge",
+      "content_type": "post",
+      "author": "u/_TheWolfOfWalmart_ · r/LocalLLaMA",
+      "handle": "LocalLLaMA",
+      "org": "r/LocalLLaMA",
+      "platform": "reddit",
+      "published": "2026-07-11T05:24:45.000Z",
+      "image": "https://external-preview.redd.it/d3l1ZmsyejFkamNoMR41q_JY9arhzAsDGVyxE-EG9Cujgm23y3BFoqauh3sX.png?width=640&crop=smart&auto=webp&s=8d930e5cd7ee8ab6ecf51edec806cbaf9a4044fc",
+      "thumbnail": "https://external-preview.redd.it/d3l1ZmsyejFkamNoMR41q_JY9arhzAsDGVyxE-EG9Cujgm23y3BFoqauh3sX.png?width=640&crop=smart&auto=webp&s=8d930e5cd7ee8ab6ecf51edec806cbaf9a4044fc",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/LocalLLaMA"
+      ],
+      "summary": "Told it that in plan mode, then told it to implement with no changes to the plan. This model punches far, far above its weight. I wasn&#39;t impressed until I switched from Q4_K_M on GPU to Q8_0 on CPU. It matters. It&#39;s worth the slowdown. &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/LocalLLaMA this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1ut5edj",
       "title": "Wired headphone sales are exploding. What's with the Bluetooth backlash?",
       "link": "https://www.reddit.com/r/hardware/comments/1ut5edj/wired_headphone_sales_are_exploding_whats_with/",
@@ -341,6 +420,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/robotics this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1usqil9",
+      "title": "Are pushups, rows and dips enough?",
+      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1usqil9/are_pushups_rows_and_dips_enough/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/bodyweightfitness · community knowledge",
+      "content_type": "post",
+      "author": "u/newnukeuser · r/bodyweightfitness",
+      "handle": "bodyweightfitness",
+      "org": "r/bodyweightfitness",
+      "platform": "reddit",
+      "published": "2026-07-10T15:13:54.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/bodyweightfitness"
+      ],
+      "summary": "&#x200B; Are just pushups, inverted rows, and dips enough for the upper body? I don&#39;t really want to get any more equipment right now or workout outside the house, so I&#39;m not doing any pull-ups. (And truthfully I&#39;m probably a long way off from accomplishing pull-ups anyways.) Does the combination of rows…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/bodyweightfitness this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1325,124 +1443,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/investing this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uqoeju",
-      "title": "Unannounced Nvidia RTX 50 Super GPUs appear in Seasonic PSU calculator — unreleased graphics cards shown with 10-17% higher TGP over original models",
-      "link": "https://www.reddit.com/r/hardware/comments/1uqoeju/unannounced_nvidia_rtx_50_super_gpus_appear_in/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/hardware · community knowledge",
-      "content_type": "post",
-      "author": "u/sr_local · r/hardware",
-      "handle": "hardware",
-      "org": "r/hardware",
-      "platform": "reddit",
-      "published": "2026-07-08T10:10:28.000Z",
-      "image": "https://external-preview.redd.it/jklxas3Q8dQM_1X-MIA_INOu2IO2lMibuq7zdRFl0f8.jpeg?width=640&crop=smart&auto=webp&s=70af70eb83a1ddfb477304c02537ffa274796f61",
-      "thumbnail": "https://external-preview.redd.it/jklxas3Q8dQM_1X-MIA_INOu2IO2lMibuq7zdRFl0f8.jpeg?width=640&crop=smart&auto=webp&s=70af70eb83a1ddfb477304c02537ffa274796f61",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/hardware"
-      ],
-      "summary": "Unannounced Nvidia RTX 50 Super GPUs appear in Seasonic PSU calculator — unreleased graphics cards shown with 10-17% higher TGP over original models",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/hardware this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uqn6c3",
-      "title": "Rant Wednesday - July 08, 2026",
-      "link": "https://www.reddit.com/r/Fitness/comments/1uqn6c3/rant_wednesday_july_08_2026/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/Fitness · community knowledge",
-      "content_type": "post",
-      "author": "u/AutoModerator · r/Fitness",
-      "handle": "Fitness",
-      "org": "r/Fitness",
-      "platform": "reddit",
-      "published": "2026-07-08T09:00:26.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/Fitness"
-      ],
-      "summary": "Welcome to Rant Wednesday: It’s your time to let your gym/fitness/nutrition related frustrations out! There is no guiding question to help stir up some rage-feels, feel free to fire at will, ranting about anything and everything that’s been pissing you off or getting on your nerves. Just don&#39;t forget that other…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/Fitness this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uqj0zv",
-      "title": "Has anyone ever regretted leaving corporate for a startup? Either as a founder/cofounder, or an early employee? I will not promote",
-      "link": "https://www.reddit.com/r/startups/comments/1uqj0zv/has_anyone_ever_regretted_leaving_corporate_for_a/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/startups · community knowledge",
-      "content_type": "post",
-      "author": "u/whisperchaoticthings · r/startups",
-      "handle": "startups",
-      "org": "r/startups",
-      "platform": "reddit",
-      "published": "2026-07-08T05:04:00.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/startups"
-      ],
-      "summary": "Was at at f500 for 8 years, some years were good, some less so. Left last year to join a smaller (100 emp) company, but it&#39;s turned out not to be a good fit. I found that even at the smaller company poor executive decisions still frustrate me and I&#39;ve been thinking a lot about joining an early stage startup or…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/startups this week"
       ],
       "metrics": {
         "likes": 0,
