@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-07-12T21:59:00.977Z",
+  "generated_at": "2026-07-12T22:57:44.229Z",
   "subs": [
     "MachineLearning",
-    "artificial",
-    "nutrition",
-    "investing",
+    "science",
+    "cybersecurity",
     "robotics",
     "longevity",
     "startups",
-    "cybersecurity",
+    "investing",
+    "artificial",
+    "nutrition",
     "Futurology",
     "LocalLLaMA",
     "hardware",
-    "science",
     "bodyweightfitness",
     "singularity",
     "SkincareAddiction",
@@ -23,9 +23,9 @@
   "count": 36,
   "by_category": {
     "Robotics": 4,
-    "Science": 6,
+    "Science": 7,
     "Startups & Funding": 3,
-    "Security": 3,
+    "Security": 2,
     "AI / ML": 7,
     "Fitness": 7,
     "Hardware & Gadgets": 3,
@@ -657,6 +657,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/bodyweightfitness this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1usk7vu",
+      "title": "Modern human-made environments with striped patterns, cluttered interiors, high-contrast colours, flickering lights and densely packed supermarket shelves can overload the brain, increasing visual discomfort, eyestrain, stress and feelings of being overwhelmed in some people",
+      "link": "https://www.reddit.com/r/science/comments/1usk7vu/modern_humanmade_environments_with_striped/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/science · community knowledge",
+      "content_type": "post",
+      "author": "u/sr_local · r/science",
+      "handle": "science",
+      "org": "r/science",
+      "platform": "reddit",
+      "published": "2026-07-10T10:52:53.000Z",
+      "image": "https://external-preview.redd.it/nEVhcgclloGQuGZbpKg8ztJVadbEcJPhEbxz1gIsrXs.jpeg?width=640&crop=smart&auto=webp&s=510c5f6d6c492179da9e822b96c5e23bbdafdceb",
+      "thumbnail": "https://external-preview.redd.it/nEVhcgclloGQuGZbpKg8ztJVadbEcJPhEbxz1gIsrXs.jpeg?width=640&crop=smart&auto=webp&s=510c5f6d6c492179da9e822b96c5e23bbdafdceb",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/science"
+      ],
+      "summary": "Modern human-made environments with striped patterns, cluttered interiors, high-contrast colours, flickering lights and densely packed supermarket shelves can overload the brain, increasing visual discomfort, eyestrain, stress and feelings of being overwhelmed in some people",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/science this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1405,45 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/bodyweightfitness this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ur8bq0",
-      "title": "Google pays 250K for Linux vulnerability allowing guest VM escapes",
-      "link": "https://www.reddit.com/r/cybersecurity/comments/1ur8bq0/google_pays_250k_for_linux_vulnerability_allowing/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/cybersecurity · community knowledge",
-      "content_type": "post",
-      "author": "u/rkhunter_ · r/cybersecurity",
-      "handle": "cybersecurity",
-      "org": "r/cybersecurity",
-      "platform": "reddit",
-      "published": "2026-07-08T22:48:04.000Z",
-      "image": "https://external-preview.redd.it/w8YCaglt01DVzOSDwYhVt9sHHykhGBPWLtI8lbzHhmo.jpeg?width=640&crop=smart&auto=webp&s=ed2f95c669f527b995ec05d6f39328e080869458",
-      "thumbnail": "https://external-preview.redd.it/w8YCaglt01DVzOSDwYhVt9sHHykhGBPWLtI8lbzHhmo.jpeg?width=640&crop=smart&auto=webp&s=ed2f95c669f527b995ec05d6f39328e080869458",
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/cybersecurity"
-      ],
-      "summary": "Google pays 250K for Linux vulnerability allowing guest VM escapes",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/cybersecurity this week"
       ],
       "metrics": {
         "likes": 0,
