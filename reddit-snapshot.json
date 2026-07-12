@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-12T19:46:46.929Z",
+  "generated_at": "2026-07-12T20:58:19.317Z",
   "subs": [
     "MachineLearning",
-    "programming",
-    "cybersecurity",
+    "Fitness",
+    "robotics",
     "longevity",
     "startups",
-    "robotics",
+    "cybersecurity",
     "artificial",
     "nutrition",
     "Futurology",
@@ -16,16 +16,17 @@
     "bodyweightfitness",
     "singularity",
     "SkincareAddiction",
+    "programming",
     "running",
     "gadgets",
     "netsec"
   ],
   "count": 36,
   "by_category": {
+    "Robotics": 4,
     "Science": 6,
     "Startups & Funding": 2,
-    "Security": 5,
-    "Robotics": 3,
+    "Security": 4,
     "AI / ML": 7,
     "Fitness": 7,
     "Hardware & Gadgets": 3,
@@ -33,6 +34,45 @@
     "Coding & Dev Tools": 2
   },
   "articles": [
+    {
+      "id": "reddit_1uubs2y",
+      "title": "Wheelchair Made Based on a Quadruped Robot",
+      "link": "https://www.reddit.com/r/robotics/comments/1uubs2y/wheelchair_made_based_on_a_quadruped_robot/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/robotics · community knowledge",
+      "content_type": "post",
+      "author": "u/Nunki08 · r/robotics",
+      "handle": "robotics",
+      "org": "r/robotics",
+      "platform": "reddit",
+      "published": "2026-07-12T10:29:36.000Z",
+      "image": "https://external-preview.redd.it/a3AxMzl5eTd6cmNoMepcoB_Xc0ge5X0L08t5WhlHplvaSsp1mTKWrV6mr4RC.png?width=640&crop=smart&auto=webp&s=9db70ad38244d9162fa903d2c0607ab1a864dfe0",
+      "thumbnail": "https://external-preview.redd.it/a3AxMzl5eTd6cmNoMepcoB_Xc0ge5X0L08t5WhlHplvaSsp1mTKWrV6mr4RC.png?width=640&crop=smart&auto=webp&s=9db70ad38244d9162fa903d2c0607ab1a864dfe0",
+      "section": "Robotics",
+      "category": "Robotics",
+      "genre": "Robotics",
+      "categories": [
+        "Reddit",
+        "Robotics",
+        "r/robotics"
+      ],
+      "summary": "Full video: YouTube: JLaservideo: I Built My Dad Bionic Legs!: https://www.youtube.com/watch?v=ZyHrKD3SE-M It&#39;s an Unitree B2: https://shop.unitree.com/products/unitree-b2 &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/robotics this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1uu0keh",
       "title": "MIT: Injectable “satellite livers” could offer an alternative to liver transplantation",
@@ -1397,45 +1437,6 @@
         "r/netsec"
       ],
       "summary": "1 in 2 devices sold in Africa exfiltrate data to China",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/netsec this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uqxlxq",
-      "title": "Drift Corpus: binary diffs of 240+ 2026 Windows kernel patches",
-      "link": "https://www.reddit.com/r/netsec/comments/1uqxlxq/drift_corpus_binary_diffs_of_240_2026_windows/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/netsec · community knowledge",
-      "content_type": "post",
-      "author": "u/Emergency_Stable_923 · r/netsec",
-      "handle": "netsec",
-      "org": "r/netsec",
-      "platform": "reddit",
-      "published": "2026-07-08T16:24:55.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/netsec"
-      ],
-      "summary": "Patch Tuesday confirms a CVE is fixed but not what changed in the binary, which function, which check, or whether it&#39;s a real fix or just churn. The Drift Corpus is a diff of 240+ 2026 Windows kernel patches. Per entry: the changed functions with assembly, the bug class and call chain, WinDbg breakpoints to…",
       "is_social": true,
       "report_worthy": true,
       "worthiness_score": 62,
