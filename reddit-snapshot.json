@@ -1,16 +1,17 @@
 {
-  "generated_at": "2026-07-12T12:06:11.259Z",
+  "generated_at": "2026-07-12T14:09:43.197Z",
   "subs": [
     "MachineLearning",
-    "LocalLLaMA",
-    "bodyweightfitness",
-    "startups",
-    "longevity",
+    "science",
     "cybersecurity",
+    "longevity",
+    "startups",
     "robotics",
     "artificial",
     "Futurology",
+    "LocalLLaMA",
     "hardware",
+    "bodyweightfitness",
     "singularity",
     "nutrition",
     "SkincareAddiction",
@@ -18,12 +19,11 @@
     "running",
     "gadgets",
     "netsec",
-    "investing",
-    "science"
+    "investing"
   ],
   "count": 36,
   "by_category": {
-    "Science": 5,
+    "Science": 6,
     "Startups & Funding": 3,
     "Security": 5,
     "Robotics": 3,
@@ -31,7 +31,7 @@
     "Hardware & Gadgets": 3,
     "Fitness": 6,
     "Skincare": 1,
-    "Coding & Dev Tools": 3
+    "Coding & Dev Tools": 2
   },
   "articles": [
     {
@@ -422,6 +422,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/hardware this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1ut05kh",
+      "title": "A new study shows that a decision by RFK Jr.'s advisory panel to strip federal recommendations for the MMRV vaccine disproportionately harms low-income and minority toddlers, who rely on the combination shot to overcome healthcare barriers",
+      "link": "https://www.reddit.com/r/science/comments/1ut05kh/a_new_study_shows_that_a_decision_by_rfk_jrs/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/science · community knowledge",
+      "content_type": "post",
+      "author": "u/HeinieKaboobler · r/science",
+      "handle": "science",
+      "org": "r/science",
+      "platform": "reddit",
+      "published": "2026-07-10T21:04:05.000Z",
+      "image": "https://external-preview.redd.it/eE55Iy6zNzoJiPmpY4Ym2sxxJRWutmM_PZirWeQDM2o.jpeg?width=640&crop=smart&auto=webp&s=0b2ee23dc2a696a87a2721b5f2d8d3cbd022c551",
+      "thumbnail": "https://external-preview.redd.it/eE55Iy6zNzoJiPmpY4Ym2sxxJRWutmM_PZirWeQDM2o.jpeg?width=640&crop=smart&auto=webp&s=0b2ee23dc2a696a87a2721b5f2d8d3cbd022c551",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/science"
+      ],
+      "summary": "A new study shows that a decision by RFK Jr.'s advisory panel to strip federal recommendations for the MMRV vaccine disproportionately harms low-income and minority toddlers, who rely on the combination shot to overcome healthcare barriers",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/science this week"
       ],
       "metrics": {
         "likes": 0,
@@ -941,6 +980,45 @@
       }
     },
     {
+      "id": "reddit_1urrro7",
+      "title": "An analysis of survey data covering the last five U.S. presidential election years found that ideological differences between races have decreased sharply, while differences by education have grown substantially. Less educated Americans now tend to be more conservative.",
+      "link": "https://www.reddit.com/r/science/comments/1urrro7/an_analysis_of_survey_data_covering_the_last_five/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/science · community knowledge",
+      "content_type": "post",
+      "author": "u/Aggravating_Money992 · r/science",
+      "handle": "science",
+      "org": "r/science",
+      "platform": "reddit",
+      "published": "2026-07-09T14:23:29.000Z",
+      "image": "https://external-preview.redd.it/w7O4eV7Qa3WZXpf1AT6VRMoM5wPFmclBv0oqdEo_bdQ.jpeg?width=640&crop=smart&auto=webp&s=374ebffeaae41cce17b8530456ec927197079497",
+      "thumbnail": "https://external-preview.redd.it/w7O4eV7Qa3WZXpf1AT6VRMoM5wPFmclBv0oqdEo_bdQ.jpeg?width=640&crop=smart&auto=webp&s=374ebffeaae41cce17b8530456ec927197079497",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/science"
+      ],
+      "summary": "An analysis of survey data covering the last five U.S. presidential election years found that ideological differences between races have decreased sharply, while differences by education have grown substantially. Less educated Americans now tend to be more conservative.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/science this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1urph90",
       "title": "Is it true that the FDA allows labels to be 20% off in their nutrition value?",
       "link": "https://www.reddit.com/r/nutrition/comments/1urph90/is_it_true_that_the_fda_allows_labels_to_be_20/",
@@ -1366,84 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/investing this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uqu6au",
-      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
-      "link": "https://www.reddit.com/r/programming/comments/1uqu6au/decoding_the_obfuscated_bash_script_on_a_uniqlo/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/programming · community knowledge",
-      "content_type": "post",
-      "author": "u/mitousa · r/programming",
-      "handle": "programming",
-      "org": "r/programming",
-      "platform": "reddit",
-      "published": "2026-07-08T14:24:12.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Coding & Dev Tools",
-      "category": "Coding & Dev Tools",
-      "genre": "Coding & Dev Tools",
-      "categories": [
-        "Reddit",
-        "Coding & Dev Tools",
-        "r/programming"
-      ],
-      "summary": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/programming this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uqrjkd",
-      "title": "Fathers whose first child is a girl tend to develop more equal views on gender roles and support policies that promote women’s rights. The study from Japan suggests this shift happens even in culturally conservative countries where gender inequality remains widespread.",
-      "link": "https://www.reddit.com/r/science/comments/1uqrjkd/fathers_whose_first_child_is_a_girl_tend_to/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/science · community knowledge",
-      "content_type": "post",
-      "author": "u/mvea · r/science",
-      "handle": "science",
-      "org": "r/science",
-      "platform": "reddit",
-      "published": "2026-07-08T12:41:43.000Z",
-      "image": "https://external-preview.redd.it/6gUnQM7T8tmjINABM105LIW5SxgQUnlkxJJ3qgmrwJ8.jpeg?width=640&crop=smart&auto=webp&s=120632d9426083dd5742708dd5ab87d22e3d05ca",
-      "thumbnail": "https://external-preview.redd.it/6gUnQM7T8tmjINABM105LIW5SxgQUnlkxJJ3qgmrwJ8.jpeg?width=640&crop=smart&auto=webp&s=120632d9426083dd5742708dd5ab87d22e3d05ca",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/science"
-      ],
-      "summary": "Fathers whose first child is a girl tend to develop more equal views on gender roles and support policies that promote women’s rights. The study from Japan suggests this shift happens even in culturally conservative countries where gender inequality remains widespread.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/science this week"
       ],
       "metrics": {
         "likes": 0,
