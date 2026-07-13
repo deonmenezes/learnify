@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-13T20:03:46.958Z",
+  "generated_at": "2026-07-13T21:12:16.666Z",
   "subs": [
     "MachineLearning",
-    "programming",
-    "cybersecurity",
+    "Fitness",
     "robotics",
     "Futurology",
     "longevity",
     "startups",
     "investing",
+    "cybersecurity",
     "artificial",
     "nutrition",
     "LocalLLaMA",
@@ -18,22 +18,62 @@
     "bodyweightfitness",
     "singularity",
     "SkincareAddiction",
+    "programming",
     "running",
     "netsec"
   ],
   "count": 36,
   "by_category": {
+    "Robotics": 5,
     "AI / ML": 7,
-    "Robotics": 4,
     "Science": 8,
     "Startups & Funding": 2,
     "Security": 3,
-    "Fitness": 5,
+    "Fitness": 4,
     "Hardware & Gadgets": 4,
     "Skincare": 1,
     "Coding & Dev Tools": 2
   },
   "articles": [
+    {
+      "id": "reddit_1uvcoey",
+      "title": "Robotics researcher argues LLMs may be the wrong foundation for robot intelligence",
+      "link": "https://www.reddit.com/r/robotics/comments/1uvcoey/robotics_researcher_argues_llms_may_be_the_wrong/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/robotics · community knowledge",
+      "content_type": "post",
+      "author": "u/Responsible-Grass452 · r/robotics",
+      "handle": "robotics",
+      "org": "r/robotics",
+      "platform": "reddit",
+      "published": "2026-07-13T14:10:42.000Z",
+      "image": "https://external-preview.redd.it/ZzNxcWV5eHk1MGRoMXWO-s475EOf4c42XEFd_QsDKY9Xy7M_6oGu-3yjzOsx.png?width=640&crop=smart&auto=webp&s=5e89e628ac9c8a7e101e8876c61a53bb3d7ecf3a",
+      "thumbnail": "https://external-preview.redd.it/ZzNxcWV5eHk1MGRoMXWO-s475EOf4c42XEFd_QsDKY9Xy7M_6oGu-3yjzOsx.png?width=640&crop=smart&auto=webp&s=5e89e628ac9c8a7e101e8876c61a53bb3d7ecf3a",
+      "section": "Robotics",
+      "category": "Robotics",
+      "genre": "Robotics",
+      "categories": [
+        "Reddit",
+        "Robotics",
+        "r/robotics"
+      ],
+      "summary": "Ranjay Krishna argues that language may be an unnecessary intermediary between perception and action in robotics. Humans do not translate every physical interaction into words before reacting. Catching a ball, pulling a hand away from something hot or moving through a room happens through a direct connection between…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/robotics this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1uv1xb3",
       "title": "Prompt-engineering paper accepted to ICML [R]",
@@ -1404,46 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/science this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1urph90",
-      "title": "Is it true that the FDA allows labels to be 20% off in their nutrition value?",
-      "link": "https://www.reddit.com/r/nutrition/comments/1urph90/is_it_true_that_the_fda_allows_labels_to_be_20/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/nutrition · community knowledge",
-      "content_type": "post",
-      "author": "u/Big_Poem3425 · r/nutrition",
-      "handle": "nutrition",
-      "org": "r/nutrition",
-      "platform": "reddit",
-      "published": "2026-07-09T12:54:56.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Nutrition",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "Nutrition",
-        "r/nutrition"
-      ],
-      "summary": "I recently found out that FDA allows nutrition value on the labels to be 20% wrong. Like 100 kcal mentioned on the packaging can be 80 kcal or 120 kcal. That seems a lot. Especially, if you eat 2-3 portions and meant to eat 300 kcal, you could be eating 360 kcal. And if you want to eat 2000 kcal a day, you could be…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/nutrition this week"
       ],
       "metrics": {
         "likes": 0,

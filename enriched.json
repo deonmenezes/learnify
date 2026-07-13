@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-13T19:59:30.544Z",
+  "generated_at": "2026-07-13T21:08:05.258Z",
   "model": "nvidia/nemotron-3-super-120b-a12b",
-  "count": 3901,
+  "count": 3904,
   "items": {
     "719737": {
       "title": "OpenAI wins US clearance for a broad GPT-5.6 rollout after weeks of government testing",
@@ -281,22 +281,6 @@
       "media_kind": "stock",
       "media_credit": "Photo: eXploration Etoile / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/156182786@N06/51605962003"
-    },
-    "ezvso7": {
-      "title": "Waymo and Uber quietly part ways in Phoenix",
-      "t": 1782763389658,
-      "media_url": "https://live.staticflickr.com/5261/5797061470_2d1c1d9439_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Louis K. / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/49644719@N06/5797061470"
-    },
-    "1ip8vw2": {
-      "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
-      "t": 1782763392032,
-      "media_url": "https://live.staticflickr.com/5628/30284645320_6c22cf0fa5_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: ITU Pictures / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/42121221@N07/30284645320"
     },
     "935eic": {
       "title": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role",
@@ -581,270 +565,6 @@
       "media_credit": "Photo: cohærence * / BY-SA 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/61034561@N00/625533"
     },
-    "arxiv_13jqmwf": {
-      "title": "Contrasting with Symile: Simple Model-Agnostic Representation Learning for Unlimited Modalities",
-      "t": 1782896348964,
-      "media_url": "https://live.staticflickr.com/7244/7222789564_989fcbb790_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: U.S. Army Combat Capabilities Development Command / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/34402227@N03/7222789564"
-    },
-    "arxiv_12yz2ct": {
-      "title": "Unveiling Uncertainty: A Deep Dive into Calibration and Performance of Multimodal Large Language Models",
-      "t": 1782896348964,
-      "media_url": "https://live.staticflickr.com/6001/6012372862_c9cc27daca_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NWABR / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/64704683@N04/6012372862"
-    },
-    "arxiv_1yazkj2": {
-      "title": "On Discrete Prompt Optimization for Diffusion Models",
-      "t": 1782896348971,
-      "media_url": "https://live.staticflickr.com/7215/7336886600_c3a56e7060_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: U.S. Army Combat Capabilities Development Command / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/34402227@N03/7336886600"
-    },
-    "arxiv_6tnq76": {
-      "title": "A Primal-Dual Framework for Transformers and Neural Networks",
-      "t": 1782896349373,
-      "media_url": "https://live.staticflickr.com/6137/6012439650_99bee9908d_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NWABR / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/64704683@N04/6012439650"
-    },
-    "arxiv_1odkkwc": {
-      "title": "In Situ Characterisation of Graphene Growth on Liquid Copper-Gallium Alloys: Paving the Path for Cost-Effective Synthesis",
-      "t": 1782896349433,
-      "media_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Jupiter_jetstream1.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NASA, ESA, CSA, STScI, R. Hueso (University of the Basque Country), I. de Pater (University of California, Berkeley), T. Fouchet (Observatory of Paris), L. Fletcher (University of Leicester), M. Wong (University of California, Berkeley), J. DePasquale (STScI) / BY 4.0 via wikimedia",
-      "media_credit_url": "https://commons.wikimedia.org/w/index.php?curid=139246874"
-    },
-    "arxiv_1pngua0": {
-      "title": "Investigating the missing wedge problem in small-angle x-ray scattering tensor tomography across real and reciprocal space",
-      "t": 1782896349530,
-      "media_url": "https://live.staticflickr.com/65535/50573572788_1a50cd3e02_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: The Healthy Skeptics / PDM 1.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/113715216@N08/50573572788"
-    },
-    "arxiv_187gpgr": {
-      "title": "HardTaint: Production-Run Dynamic Taint Analysis via Selective Hardware Tracing",
-      "t": 1782896349680,
-      "media_url": "https://live.staticflickr.com/2809/10388748355_f3d38ed371_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Paul Albertella / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/73915715@N00/10388748355"
-    },
-    "arxiv_fpi292": {
-      "title": "Bayesian Methods for Trust in Collaborative Multi-Agent Autonomy",
-      "t": 1782896349807,
-      "media_url": "https://live.staticflickr.com/7215/7336886600_c3a56e7060_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: U.S. Army Combat Capabilities Development Command / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/34402227@N03/7336886600"
-    },
-    "arxiv_iy13nn": {
-      "title": "Selective Hydrogenation Promotes Anisotropic Thermoelectric Properties of TPDH-Graphene",
-      "t": 1782896349927,
-      "media_url": "https://live.staticflickr.com/700/33043478941_308e2e853a_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NASA Goddard Photo and Video / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/24662369@N07/33043478941"
-    },
-    "arxiv_15n7ox4": {
-      "title": "Validation of critical maneuvers based on shared control",
-      "t": 1782896350247,
-      "media_url": "https://live.staticflickr.com/4632/39775305044_4385be615b_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: HawkeyeUK / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/65001151@N03/39775305044"
-    },
-    "arxiv_wf506i": {
-      "title": "Inevitable Si surface passivation prior to III-V/Si epitaxy: A strong impact on wetting properties",
-      "t": 1782896350412,
-      "media_url": "https://live.staticflickr.com/3934/15363523929_fbbfec1349_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NASA Goddard Photo and Video / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/24662369@N07/15363523929"
-    },
-    "arxiv_1p67sb2": {
-      "title": "Full-magnetic implementation of a classical Toffoli gate",
-      "t": 1782896350607,
-      "media_url": "https://live.staticflickr.com/65535/50024587686_d0f9c70622_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/50024587686"
-    },
-    "arxiv_1puy6bz": {
-      "title": "What's Left? Concept Grounding with Logic-Enhanced Foundation Models",
-      "t": 1782896350741,
-      "media_url": "https://live.staticflickr.com/65535/51876099461_0a69779eff_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: dullhunk / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/14829735@N00/51876099461"
-    },
-    "arxiv_1nagers": {
-      "title": "Compiler Testing With Relaxed Memory Models",
-      "t": 1782896350814,
-      "media_url": "https://live.staticflickr.com/6025/6020351957_857fd6fc22_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NWABR / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/64704683@N04/6020351957"
-    },
-    "arxiv_1rf9q8e": {
-      "title": "Scene-Driven Exploration and GUI Modeling for Android Apps",
-      "t": 1782896351020,
-      "media_url": "https://live.staticflickr.com/6137/6012439650_99bee9908d_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NWABR / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/64704683@N04/6012439650"
-    },
-    "arxiv_1ujia7b": {
-      "title": "Automated Verification of Correctness for Masked Arithmetic Programs",
-      "t": 1782896351224,
-      "media_url": "https://live.staticflickr.com/6144/6012541096_8c140f2286_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NWABR / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/64704683@N04/6012541096"
-    },
-    "arxiv_1qqq5je": {
-      "title": "Large Car-following Data Based on Lyft level-5 Open Dataset: Following Autonomous Vehicles vs. Human-driven Vehicles",
-      "t": 1782896351493,
-      "media_url": "https://live.staticflickr.com/8736/17402277412_e53f94af35_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NASA Goddard Photo and Video / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/24662369@N07/17402277412"
-    },
-    "arxiv_1xq1hyg": {
-      "title": "LLM-based Frameworks for Power Engineering from Routine to Novel Tasks",
-      "t": 1782896351605,
-      "media_url": "https://live.staticflickr.com/674/21423311306_82a3b7e6e1_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: itsc2015 / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/136150275@N07/21423311306"
-    },
-    "arxiv_16k44pz": {
-      "title": "Enhancing Cyber-Resilience in Self-Healing Cyber-Physical Systems with Implicit Guarantees",
-      "t": 1782896351626,
-      "media_url": "https://live.staticflickr.com/7217/7336892606_4310213cf9_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: U.S. Army Combat Capabilities Development Command / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/34402227@N03/7336892606"
-    },
-    "arxiv_gpdtxl": {
-      "title": "Picking a CHERI Allocator: Security and Performance Considerations",
-      "t": 1782896351882,
-      "media_url": "https://live.staticflickr.com/6025/6020351957_857fd6fc22_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NWABR / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/64704683@N04/6020351957"
-    },
-    "arxiv_at0zj8": {
-      "title": "Electronic-mediated nuclear stopping power in proton irradiated water ice",
-      "t": 1782896352012,
-      "media_url": "https://live.staticflickr.com/3344/3312065998_ea35580c37.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: schoschie / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/87569910@N00/3312065998"
-    },
-    "arxiv_cvnvux": {
-      "title": "Feedback and Control of Dynamics and Robotics using Augmented Reality",
-      "t": 1782896352114,
-      "media_url": "https://live.staticflickr.com/3389/3433059070_6e431d84dd_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/3433059070"
-    },
-    "arxiv_1mrj63p": {
-      "title": "A SysML-based language for evaluating the integrity of simulation and physical embodiments of Cyber-Physical systems",
-      "t": 1782896352247,
-      "media_url": "https://live.staticflickr.com/5483/14592386702_f46453e246_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: michaelseangallagher / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/13518023@N03/14592386702"
-    },
-    "arxiv_1lifogy": {
-      "title": "Factor Exposure Heterogeneity in Green and Brown Stocks",
-      "t": 1782896352513,
-      "media_url": "https://live.staticflickr.com/6144/6012541096_8c140f2286_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NWABR / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/64704683@N04/6012541096"
-    },
-    "arxiv_1tngp28": {
-      "title": "An Observer-Based Key Agreement Scheme for Remotely Controlled Mobile Robots",
-      "t": 1782896352542,
-      "media_url": "https://live.staticflickr.com/1836/42158317620_0c68ee0f61_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NASA Goddard Photo and Video / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/24662369@N07/42158317620"
-    },
-    "arxiv_tn4xbj": {
-      "title": "Evaluating the acceptance of autonomous vehicles in the future",
-      "t": 1782896352802,
-      "media_url": "https://live.staticflickr.com/4079/4818399040_194190764a_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Rob Enslin / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/10199641@N08/4818399040"
-    },
-    "arxiv_12wk3s5": {
-      "title": "An ab initio study of the rovibronic spectrum of sulphur monoxide (SO): diabatic vs. adiabatic representation",
-      "t": 1782896352941,
-      "media_url": "https://live.staticflickr.com/7217/7336892606_4310213cf9_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: U.S. Army Combat Capabilities Development Command / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/34402227@N03/7336892606"
-    },
-    "arxiv_msifjh": {
-      "title": "Improving Developers' Understanding of Regex Denial of Service Tools through Anti-Patterns and Fix Strategies",
-      "t": 1782896353030,
-      "media_url": "https://live.staticflickr.com/4055/4435958331_2018bda41a.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: dullhunk / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/14829735@N00/4435958331"
-    },
-    "arxiv_1afte1a": {
-      "title": "To what extent can we analyze Kotlin programs using existing Java taint analysis tools? (Extended Version)",
-      "t": 1782896353343,
-      "media_url": "https://live.staticflickr.com/6025/6020351957_857fd6fc22_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NWABR / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/64704683@N04/6020351957"
-    },
-    "arxiv_1hmyoa4": {
-      "title": "A phase field electro-chemo-mechanical formulation for predicting void evolution at the Li-electrolyte interface in all-solid-state batteries",
-      "t": 1782896353457,
-      "media_url": "https://live.staticflickr.com/4026/4553740174_2f3d3ed5a1_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: US Army Africa / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/36281822@N08/4553740174"
-    },
-    "arxiv_2jfn9d": {
-      "title": "Exploring Security Practices of Smart Contract Developers",
-      "t": 1782896353693,
-      "media_url": "https://live.staticflickr.com/4619/39859683021_77213f7288_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: DLIFLC PAO / PDM 1.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/52101742@N03/39859683021"
-    },
-    "arxiv_i57oq0": {
-      "title": "ReverseORC: Reverse Engineering of Resizable User Interface Layouts with OR-Constraints",
-      "t": 1782896353706,
-      "media_url": "https://live.staticflickr.com/3344/3312065998_ea35580c37.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: schoschie / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/87569910@N00/3312065998"
-    },
-    "arxiv_1tpafy8": {
-      "title": "Towards Modeling Human Motor Learning Dynamics in High-Dimensional Spaces",
-      "t": 1782896354032,
-      "media_url": "https://live.staticflickr.com/5046/5345941823_9cfd884323_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NASA Goddard Photo and Video / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/24662369@N07/5345941823"
-    },
     "1g54f7v": {
       "title": "The Orbital Data Center Hype Machine Is Already in Orbit",
       "t": 1782908095639,
@@ -990,38 +710,6 @@
       "media_credit": "Photo: ITU Pictures / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/42121221@N07/30495671441"
     },
-    "arxiv_qn3eq5": {
-      "title": "Designing Internet of Behaviors Systems",
-      "t": 1782946106869,
-      "media_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Designing_Internet_Research_class_at_University_of_Washington%2C_2015-04-28_02.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: ragesoss / BY-SA 2.0 via wikimedia",
-      "media_credit_url": "https://commons.wikimedia.org/w/index.php?curid=39997917"
-    },
-    "arxiv_1c0t24u": {
-      "title": "Chat2Code: Towards conversational concrete syntax for model specification and code generation, the case of smart contracts",
-      "t": 1782946107053,
-      "media_url": "https://live.staticflickr.com/6012/6016743712_8b9f30f928_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NWABR / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/64704683@N04/6016743712"
-    },
-    "arxiv_zqdc0y": {
-      "title": "Evidential Softmax for Sparse Multimodal Distributions in Deep Generative Models",
-      "t": 1782946107112,
-      "media_url": "https://live.staticflickr.com/6012/6016743712_8b9f30f928_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NWABR / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/64704683@N04/6016743712"
-    },
-    "arxiv_1gh2ogy": {
-      "title": "Learning Stable Classifiers by Transferring Unstable Features",
-      "t": 1782946107363,
-      "media_url": "https://live.staticflickr.com/5462/9019734821_82e9b51bbf_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: spiderwriterrose / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/78169780@N08/9019734821"
-    },
     "1gp9sh7": {
       "title": "Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year",
       "t": 1782951099957,
@@ -1053,190 +741,6 @@
       "media_kind": "stock",
       "media_credit": "Photo: NASA Goddard Photo and Video / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/24662369@N07/8170123034"
-    },
-    "arxiv_1eriwpb": {
-      "title": "Verified Synthesis of Optimal Safety Controllers for Human-Robot Collaboration",
-      "t": 1782967281944,
-      "media_url": "https://live.staticflickr.com/222/483475990_9240dccb82_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/483475990"
-    },
-    "arxiv_ned1r5": {
-      "title": "Initialization and Regularization of Factorized Neural Layers",
-      "t": 1782967282139,
-      "media_url": "https://live.staticflickr.com/65535/51565147214_8ab91d1b8a_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: europeanspaceagency / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/37472264@N04/51565147214"
-    },
-    "arxiv_1qikmh6": {
-      "title": "Recent developments in plasmon-assisted photocatalysis -- a personal perspective",
-      "t": 1782967282179,
-      "media_url": "https://live.staticflickr.com/5098/5405189157_8d84497dd3_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: dullhunk / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/14829735@N00/5405189157"
-    },
-    "arxiv_1dju1pi": {
-      "title": "A Large Scale Analysis of Android-Web Hybridization",
-      "t": 1782967282414,
-      "media_url": "https://live.staticflickr.com/222/483475990_9240dccb82_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/483475990"
-    },
-    "arxiv_11r0pqm": {
-      "title": "Infrared Spectra of Pyroxenes (Crystalline Chain Silicates) at Room Temperature",
-      "t": 1782967282502,
-      "media_url": "https://live.staticflickr.com/65535/52210553347_5e41781b4d_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: James Webb Space Telescope / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/50785054@N03/52210553347"
-    },
-    "arxiv_1sefkxa": {
-      "title": "Infrared resonant vibrationally induced restructuring of amorphous solid water",
-      "t": 1782967282833,
-      "media_url": "https://live.staticflickr.com/2930/14326101068_b3d4b990ec_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: catherinecronin / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/61340363@N05/14326101068"
-    },
-    "arxiv_1tchhc5": {
-      "title": "Investor Emotions and Earnings Announcements",
-      "t": 1782967282834,
-      "media_url": "https://live.staticflickr.com/5483/14592386702_f46453e246_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: michaelseangallagher / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/13518023@N03/14592386702"
-    },
-    "arxiv_1hhud39": {
-      "title": "Lattice compression increases the activation barrier for phase segregation in mixed-halide perovskites",
-      "t": 1782967282834,
-      "media_url": "https://live.staticflickr.com/6025/6020351957_857fd6fc22_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NWABR / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/64704683@N04/6020351957"
-    },
-    "arxiv_miouaq": {
-      "title": "Unsupervised Data Augmentation for Consistency Training",
-      "t": 1782967282935,
-      "media_url": "https://live.staticflickr.com/2809/10388748355_f3d38ed371_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Paul Albertella / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/73915715@N00/10388748355"
-    },
-    "arxiv_csoso6": {
-      "title": "Cyclical Annealing Schedule: A Simple Approach to Mitigating KL Vanishing",
-      "t": 1782967283034,
-      "media_url": "https://live.staticflickr.com/2930/14326101068_b3d4b990ec_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: catherinecronin / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/61340363@N05/14326101068"
-    },
-    "arxiv_i2li7e": {
-      "title": "Three-dimensional femtosecond laser nanolithography of crystals",
-      "t": 1782967283054,
-      "media_url": "https://live.staticflickr.com/65535/49644052578_cf2e2ae710_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: europeanspaceagency / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/37472264@N04/49644052578"
-    },
-    "arxiv_2yodd5": {
-      "title": "Visual Concept-Metaconcept Learning",
-      "t": 1782967283055,
-      "media_url": "https://live.staticflickr.com/65535/50350974986_efbb70184a_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: suRANTo dwi saputra / CC0 1.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/125321218@N07/50350974986"
-    },
-    "arxiv_sh3jzf": {
-      "title": "Safe Compilation for Hidden Deterministic Hardware Aliasing and Encrypted Computing",
-      "t": 1782967283140,
-      "media_url": "https://live.staticflickr.com/6167/6247070632_c9f2d5583c_m.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Sales G2MT Labs / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/68750437@N08/6247070632"
-    },
-    "arxiv_1jrxpwq": {
-      "title": "Some Nontrivial Properties of a Formula for Compound Interest",
-      "t": 1782967283152,
-      "media_url": "https://live.staticflickr.com/6144/6012541096_8c140f2286_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NWABR / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/64704683@N04/6012541096"
-    },
-    "arxiv_178vyf4": {
-      "title": "SOTER: A Runtime Assurance Framework for Programming Safe Robotics Systems",
-      "t": 1782967283181,
-      "media_url": "https://live.staticflickr.com/7228/7312664344_de1d12fea7_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: U.S. Army Combat Capabilities Development Command / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/34402227@N03/7312664344"
-    },
-    "arxiv_1nru56z": {
-      "title": "CANAL: A Cache Timing Analysis Framework via LLVM Transformation",
-      "t": 1782967283282,
-      "media_url": "https://live.staticflickr.com/2930/14326101068_b3d4b990ec_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: catherinecronin / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/61340363@N05/14326101068"
-    },
-    "arxiv_ds5im9": {
-      "title": "Construction of Nano-Assembled Microcapsules Embedded with Gold Nanoparticles for use in Novel Drug Delivery Systems",
-      "t": 1782967283318,
-      "media_url": "https://live.staticflickr.com/3344/3312065998_ea35580c37.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: schoschie / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/87569910@N00/3312065998"
-    },
-    "arxiv_1n38brj": {
-      "title": "Cavity Filling: Pseudo-Feature Generation for Multi-Class Imbalanced Data Problems in Deep Learning",
-      "t": 1782967283344,
-      "media_url": "https://live.staticflickr.com/65535/54268811357_907ff1dde0_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Jefferson Lab / PDM 1.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/53950384@N02/54268811357"
-    },
-    "arxiv_18lupa3": {
-      "title": "Vacuum-UV absorption spectroscopy of interstellar ice analogues. III. Isotopic effects",
-      "t": 1782967283481,
-      "media_url": "https://live.staticflickr.com/6025/6020351957_857fd6fc22_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NWABR / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/64704683@N04/6020351957"
-    },
-    "arxiv_1wf0gyg": {
-      "title": "Supernovae and the Chirality of the Amino Acids",
-      "t": 1782967283587,
-      "media_url": "https://live.staticflickr.com/3344/3312065998_ea35580c37.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: schoschie / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/87569910@N00/3312065998"
-    },
-    "arxiv_fxtqi7": {
-      "title": "Describing Videos by Exploiting Temporal Structure",
-      "t": 1782967283588,
-      "media_url": "https://live.staticflickr.com/7565/15910311991_3b9e95be68.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Alan Stanton / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/53921762@N00/15910311991"
-    },
-    "arxiv_1nx1j4k": {
-      "title": "Similarity-based matching meets Malware Diversity",
-      "t": 1782967283597,
-      "media_url": "https://live.staticflickr.com/8329/8103227180_ee57a9bd2f_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NASA Goddard Photo and Video / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/24662369@N07/8103227180"
-    },
-    "arxiv_1yposrd": {
-      "title": "Synthesis of DNA Templated Tri-functional Electrically Conducting, Optical and Magnetic nanochain of Nicore-Aushell for Bio-device",
-      "t": 1782967283710,
-      "media_url": "https://live.staticflickr.com/3863/14804224326_f5ceae50a6_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: U.S. Geological Survey / CC0 1.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/27784370@N05/14804224326"
     },
     "1yisgac": {
       "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
@@ -29901,7 +29405,11 @@
     "1nkssry": {
       "title": "Scientists discovered the brain doesn't make decisions the way we thought",
       "t": 1783958718338,
-      "image": "https://www.sciencedaily.com/images/1920/functional-brain-mapping.webp"
+      "image": "https://www.sciencedaily.com/images/1920/functional-brain-mapping.webp",
+      "media_url": "https://live.staticflickr.com/4082/4910880023_a931ac18ba_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: poptech / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/40287103@N07/4910880023"
     },
     "og5z39": {
       "title": "Physicists say quantum mechanics may not need imaginary numbers after all",
@@ -31517,6 +31025,535 @@
       "media_kind": "stock",
       "media_credit": "Photo: Former UN Special Rapporteur on assembly & associa / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/117063542@N04/24076493433"
+    },
+    "1j6jq3d": {
+      "title": "SalesPatriot (YC W25) Is Hiring Full Stack Engineers (SF)",
+      "t": 1783976876456,
+      "image": "https://app.ashbyhq.com/api/images/org-theme-social/3942fb13-ca34-4efa-a774-063bbaf9fa6e/4d3808e3-f8b9-4d17-b149-7f59761e675e/8e245d4f-b623-4740-b12c-10c11a22aab7.png",
+      "media_url": "https://live.staticflickr.com/2630/4140950240_d53df4111b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950240"
+    },
+    "11wheav": {
+      "title": "Show HN: YouTube Guitar Tab Parser",
+      "t": 1783976876456,
+      "image": "https://opengraph.githubassets.com/c65af221f4512afa08856eaf2cd6ea2a82b5db2589273bd4c2a4b58b1ab2ee21/marcelpanse/youtube-guitar-tab-parser",
+      "media_url": "https://live.staticflickr.com/2762/4140950690_e8e7fa21f4.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950690"
+    },
+    "vgoaly": {
+      "title": "Show HN: I implemented a neural network in SQL",
+      "t": 1783976876456,
+      "image": "https://opengraph.githubassets.com/06060057fd3efa0931dc6bf5522570d471286244a284d0ca601d5cfaeff6f21a/xqlsystems/xarray-sql",
+      "media_url": "https://live.staticflickr.com/2663/4140950816_e131180c13.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950816"
+    },
+    "1b9q3yt": {
+      "title": "Show HN: PlanWright – A control plane for AI coding agents",
+      "t": 1783976876456,
+      "image": "https://planwright.tools/opengraph-image?150b6dc6a1fe77e9",
+      "media_url": "https://live.staticflickr.com/2571/4140191985_68bbbe9e22.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140191985"
+    },
+    "1w2ae2y": {
+      "title": "Climate.gov was destroyed. Open data saved it",
+      "t": 1783976876456,
+      "image": "https://images.unsplash.com/photo-1548192746-dd526f154ed9?crop&#x3D;entropy&cs&#x3D;tinysrgb&fit&#x3D;max&fm&#x3D;jpg&ixid&#x3D;M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGluZGllfGVufDB8fHx8MTc0OTY5ODcxM3ww&ixlib&#x3D;rb-4.1.0&q&#x3D;80&w&#x3D;2000",
+      "media_url": "https://live.staticflickr.com/2762/4140950690_e8e7fa21f4.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950690"
+    },
+    "j8vey8": {
+      "title": "Telegram's t.me domain has been suspended",
+      "t": 1783976876456,
+      "image": "https://www.whois.com/images/og.png",
+      "media_url": "https://live.staticflickr.com/2663/4140950816_e131180c13.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950816"
+    },
+    "58wmzx": {
+      "title": "AI Is a Bad Tool",
+      "t": 1783976876456,
+      "image": "https://bytecode.news/opengraph-image",
+      "media_url": "https://live.staticflickr.com/2630/4140950240_d53df4111b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950240"
+    },
+    "qq7pbm": {
+      "title": "The Pixel colors might rule this year",
+      "t": 1783976876458,
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/pixel-11-leak.png?quality=90&strip=all&crop=0,16.342557965595,100,67.314884068811",
+      "media_url": "https://live.staticflickr.com/2441/3635695464_a826c4a979.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: ZapTheDingbat / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/80476901@N00/3635695464"
+    },
+    "1bbgu57": {
+      "title": "iOS 27 and iPadOS 27 Now Available to Public Beta Testers",
+      "t": 1783976876458,
+      "image": "https://images.macrumors.com/t/wl6cOD-r0oQbmyjuNEMKZ2pAbFI=/2500x/article-new/2026/07/iOS-27-Public-Beta-Feature.jpg",
+      "media_url": "https://live.staticflickr.com/2710/4500411648_874798709f_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Jack Spades / PDM 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/12947573@N04/4500411648"
+    },
+    "1efecb9": {
+      "title": "9to5Mac Daily: July 13, 2026 – Apple sues OpenAI",
+      "t": 1783976876997,
+      "media_url": "https://live.staticflickr.com/8141/7228061962_9e9d1261a0_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Rockspindeln / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/53030568@N07/7228061962"
+    },
+    "1nlvdy8": {
+      "title": "tvOS 27 and HomePod 27 public betas now available, here’s what’s new",
+      "t": 1783976877166,
+      "media_url": "https://live.staticflickr.com/8150/7228296854_9192f9294f_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Rockspindeln / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/53030568@N07/7228296854"
+    },
+    "18yl7d1": {
+      "title": "Like Google’s Project Loon, but for missiles: Ukraine is weaponizing stratospheric balloons to boost strike range",
+      "t": 1783976877182,
+      "media_url": "https://live.staticflickr.com/2011/1572572339_cf851119ef_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: See-ming Lee (SML) / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/48973657@N00/1572572339"
+    },
+    "j12pp5": {
+      "title": "Satya Nadella has issued a shocking warning to companies using AI",
+      "t": 1783976877252,
+      "media_url": "https://live.staticflickr.com/5672/29949919183_74ebb78def_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: ITU Pictures / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/42121221@N07/29949919183"
+    },
+    "rxxwk9": {
+      "title": "How to download the iOS 27 public beta — and 3 new things to try first",
+      "t": 1783976877615,
+      "media_url": "https://live.staticflickr.com/8649/16272568265_74173ff3b9_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: ITU Pictures / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/42121221@N07/16272568265"
+    },
+    "118wbye": {
+      "title": "Apple rolls out revised beta 3 builds for iPadOS 27 and macOS 27 Golden Gate",
+      "t": 1783976877637,
+      "media_url": "https://live.staticflickr.com/5151/7223491582_ba33be2e33_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Mic V. / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/33756577@N08/7223491582"
+    },
+    "1jgpg4w": {
+      "title": "Watch out Windows users, a Secure Boot update has been blocked on Windows 11 PCs due to failing on some devices — here's how to check if you're affected",
+      "t": 1783976877654,
+      "media_url": "https://live.staticflickr.com/7320/15837643804_662fde2cba_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: frankieleon / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/23307937@N04/15837643804"
+    },
+    "cotnnz": {
+      "title": "Your Pixel's audio controls may never be the same after this update",
+      "t": 1783976878282,
+      "media_url": "https://live.staticflickr.com/4101/4817008543_ccc1fb01d8.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Public Domain Photos / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/28958738@N06/4817008543"
+    },
+    "wxp7om": {
+      "title": "The Shokz OpenRun Pro are the cheapest they’ve been since January",
+      "t": 1783976878361,
+      "media_url": "https://live.staticflickr.com/4151/5071481106_a2dbcfb8ab_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Calsidyrose / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/17557997@N02/5071481106"
+    },
+    "1tbgvo3": {
+      "title": "Apple’s public betas for iOS 27 and more are out now",
+      "t": 1783976878430,
+      "media_url": "https://live.staticflickr.com/7144/6404975957_02a6cc0a40_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Picdrome Public Domain Pictures / CC0 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/65798313@N06/6404975957"
+    },
+    "1h1hh5t": {
+      "title": "watchOS 27 public beta is here with Siri AI and smarter Apple Watch features",
+      "t": 1783976878593,
+      "media_url": "https://live.staticflickr.com/7226/7228043754_55199398fc_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Rockspindeln / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/53030568@N07/7228043754"
+    },
+    "1ywjagk": {
+      "title": "Public betas for iOS 27, macOS 27 and more Apple platforms are now available",
+      "t": 1783976878675,
+      "media_url": "https://live.staticflickr.com/8016/7570841176_173845586b_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: infomatique / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/80824546@N00/7570841176"
+    },
+    "q40xuv": {
+      "title": "Apple releases iPadOS 27 public beta, here’s what’s new",
+      "t": 1783976878694,
+      "media_url": "https://live.staticflickr.com/4024/4677480831_12ee8a0b14_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Mike Saechang / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/7390466@N06/4677480831"
+    },
+    "14ski6z": {
+      "title": "macOS 27 public beta now available, here’s how to install it",
+      "t": 1783976878703,
+      "media_url": "https://live.staticflickr.com/310/19662931466_c80860b491_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: NASA Goddard Photo and Video / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/24662369@N07/19662931466"
+    },
+    "wep68x": {
+      "title": "iOS 27 public beta is here with Siri AI, iPhone speed upgrades, and more",
+      "t": 1783976878950,
+      "media_url": "https://live.staticflickr.com/53/118136724_982ab3a868_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: dbking / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/65193799@N00/118136724"
+    },
+    "lz7ub9": {
+      "title": "Siri AI is already changing how I use my iPhone",
+      "t": 1783976878955,
+      "media_url": "https://live.staticflickr.com/5042/5343838319_2447dd086c_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Dominic's pics / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/64097751@N00/5343838319"
+    },
+    "14k6061": {
+      "title": "First macOS Golden Gate Public Beta Now Available",
+      "t": 1783976879363,
+      "media_url": "https://live.staticflickr.com/65535/53011180200_7f12a131e4_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: vaxomatic / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/21881956@N05/53011180200"
+    },
+    "99wtso": {
+      "title": "Siri AI makes the Apple Watch finally feel like a wrist computer",
+      "t": 1783976879510,
+      "media_url": "https://live.staticflickr.com/5463/14110072663_2408967254_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: flazingo_photos / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/124247024@N07/14110072663"
+    },
+    "3wzhnv": {
+      "title": "The macOS 27 public beta is worth it just for the Liquid Glass tweaks",
+      "t": 1783976879514,
+      "media_url": "https://live.staticflickr.com/1295/4688602876_20e3b00548_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: U.S. Geological Survey / CC0 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/27784370@N05/4688602876"
+    },
+    "jciqs2": {
+      "title": "Ukrainian drone strikes forced Russia to stop shipping in vital sea corridor",
+      "t": 1783976879749,
+      "media_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Volodymyr_Zelenskyy_and_Mette_Frederiksen_Inspected_Ukrainian_Long-Range_Drones_Procured_with_Denmark%27s_Support_on_19_November_2024_-_12.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: President Of Ukraine / CC0 1.0 via wikimedia",
+      "media_credit_url": "https://commons.wikimedia.org/w/index.php?curid=156005148"
+    },
+    "1py74gc": {
+      "title": "Floating-electron catalyst withstands week in air while making ammonia under milder conditions",
+      "t": 1783976879851,
+      "media_url": "https://live.staticflickr.com/113/307035657_13380b4161_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: BinaryApe / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/93001633@N00/307035657"
+    },
+    "l1ji2z": {
+      "title": "tvOS 27 and watchOS 27 Now Available to Public Beta Testers",
+      "t": 1783976880361,
+      "media_url": "https://live.staticflickr.com/5043/5296044226_807177528a_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: jonlclark / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/20233912@N06/5296044226"
+    },
+    "14h15hc": {
+      "title": "Carbon storage could curb more than 90% of AI data center emissions, study finds",
+      "t": 1783976880424,
+      "media_url": "https://live.staticflickr.com/3591/3288492863_3f71bddb69_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Dominic's pics / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/64097751@N00/3288492863"
+    },
+    "1kmsr2l": {
+      "title": "Space Force has a new weapon to target enemy satellites — Meadowlands electromagnetic beam marks a 'huge milestone' in US capability",
+      "t": 1783976880457,
+      "media_url": "https://live.staticflickr.com/65535/50072138951_045d823b89_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Acabashi / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/150012178@N06/50072138951"
+    },
+    "2p7egu": {
+      "title": "Los Angeles law enforcement will stop using Flock cameras",
+      "t": 1783976880627,
+      "media_url": "https://live.staticflickr.com/65535/54415957085_a345d0b0e6_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: gruntzooki / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/37996580417@N01/54415957085"
+    },
+    "1yzxg30": {
+      "title": "Apple says former employee exploited ‘rare’ bug to download confidential files after leaving for OpenAI",
+      "t": 1783976880690,
+      "media_url": "https://live.staticflickr.com/65535/49058501246_a0e6517237_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: modestoweller / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/185486560@N03/49058501246"
+    },
+    "1y9cggc": {
+      "title": "MagSafe Monday: The Twelve South PowerBug clears your counters",
+      "t": 1783976880908,
+      "media_url": "https://live.staticflickr.com/6212/6228852696_30931d0a21.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Eva Rinaldi Celebrity Photographer / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/58820009@N05/6228852696"
+    },
+    "f3us57": {
+      "title": "Scientists uncover molecular mechanism linking water-saving irrigation to cadmium accumulation in rice",
+      "t": 1783976881150,
+      "media_url": "https://live.staticflickr.com/7027/6549646873_2268f10c1a_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: SFU - Communications & Marketing / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45160304@N02/6549646873"
+    },
+    "1yf6n4x": {
+      "title": "AI-powered electronic nose can distinguish tens of thousands of odors",
+      "t": 1783976881237,
+      "media_url": "https://live.staticflickr.com/65535/51354523717_37f6828b4f_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: NIDCR / PDM 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/193539879@N05/51354523717"
+    },
+    "1tvd44t": {
+      "title": "The Problem With VAR at the 2026 World Cup Isn’t the Technology—It’s Who Interprets It",
+      "t": 1783976881578,
+      "media_url": "https://live.staticflickr.com/7386/9367777707_17077103df_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: ehud42 / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/39634010@N02/9367777707"
+    },
+    "10l28py": {
+      "title": "Tesla’s Cybercab drove across a car park, and the real news happened two days earlier",
+      "t": 1783976881806,
+      "media_url": "https://live.staticflickr.com/62/201402884_030b436989_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Richard Masoner / Cyclelicious / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/99247795@N00/201402884"
+    },
+    "516bev": {
+      "title": "California creates $3,500 rebate for new electric vehicle buyers",
+      "t": 1783976881848,
+      "media_url": "https://live.staticflickr.com/7393/9065419958_cbc202a579_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: j-dub1980(THANK YOU FOR 100k+ Views) / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/48048313@N02/9065419958"
+    },
+    "g4ly1p": {
+      "title": "Google’s big Waze AI update includes a button that makes the app shut up",
+      "t": 1783976882164,
+      "media_url": "https://live.staticflickr.com/5216/5518536876_b699fa850f.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: osde8info / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/8764442@N07/5518536876"
+    },
+    "1nk0vn5": {
+      "title": "Intel is putting 5 billion euros into Ireland, and Europe just got one of the few EUV fabs on the continent",
+      "t": 1783976882352,
+      "media_url": "https://live.staticflickr.com/1/625533_9379b86613.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: cohærence * / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/61034561@N00/625533"
+    },
+    "1rnkj66": {
+      "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
+      "t": 1783976882537,
+      "media_url": "https://live.staticflickr.com/3001/2348818857_d76717355b_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: brewbooks / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/93452909@N00/2348818857"
+    },
+    "opypgh": {
+      "title": "States sue to block Paramount/WBD merger that was approved by Trump admin",
+      "t": 1783976882775,
+      "media_url": "https://live.staticflickr.com/3786/12639758294_c8b4c37f95_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: NASA Goddard Photo and Video / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/24662369@N07/12639758294"
+    },
+    "ziojz3": {
+      "title": "Tom Cruise is utterly transformed in Digger trailer",
+      "t": 1783976883178,
+      "media_url": "https://live.staticflickr.com/3213/3075268200_419b9e73b7_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: kaibara87 / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/34745138@N00/3075268200"
+    },
+    "13wwv3x": {
+      "title": "Solution to Feynman's reverse sprinkler puzzle also applies to \"silly sprinklers\"",
+      "t": 1783976883312,
+      "media_url": "https://live.staticflickr.com/3369/3344857830_4705300d3e_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: U.S. Geological Survey / CC0 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/27784370@N05/3344857830"
+    },
+    "1vbwuy5": {
+      "title": "Tech entrepreneur’s hillside home sells for $30 million",
+      "t": 1783976883341,
+      "media_url": "https://live.staticflickr.com/5623/21910883173_e55ca393c1_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: wocintechchat.com / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/136629440@N06/21910883173"
+    },
+    "1ub867e": {
+      "title": "Apple's rumored M7 Ultra targets 1.5TB of memory and Blackwell-class AI performance, report claims — monster 2028 offering would depend on memory shortage easing",
+      "t": 1783976883583,
+      "media_url": "https://live.staticflickr.com/1317/784914427_6a8e90e6d9.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Semiconductor Films / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/11301226@N00/784914427"
+    },
+    "dv1o4l": {
+      "title": "Apple Stock Hits Record Territory as Traders Sour on AI Spending",
+      "t": 1783976883623,
+      "media_url": "https://live.staticflickr.com/684/22761922719_5ff0175fd3_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/22761922719"
+    },
+    "1ycbnxd": {
+      "title": "Archer Aviation agrees to lease South Bay tech campus as company expands",
+      "t": 1783976883829,
+      "media_url": "https://live.staticflickr.com/1096/5136928274_243b576cc7.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Sean MacEntee / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/18090920@N07/5136928274"
+    },
+    "ix1tc5": {
+      "title": "Flashforge Creator 5 review: Basic and affordable tool changer",
+      "t": 1783976883838,
+      "media_url": "https://live.staticflickr.com/8372/8388806884_ae58dcfe4a_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: eyeknownuffin / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/52364745@N00/8388806884"
+    },
+    "1wyxawy": {
+      "title": "Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling",
+      "t": 1783976884107,
+      "media_url": "https://live.staticflickr.com/5566/14626249654_06e73a3547_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Scott 97006 / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/29487672@N07/14626249654"
+    },
+    "1fu7xau": {
+      "title": "Oppo Watch X3 review: Come for the battery, stay for the versatility",
+      "t": 1783976884134,
+      "media_url": "https://live.staticflickr.com/3508/4015258203_3327788e51_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: See-ming Lee (SML) / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/48973657@N00/4015258203"
+    },
+    "5cl8n7": {
+      "title": "EU plans to ban under-13s from social media, with ‘phased access’ afterwards",
+      "t": 1783976884376,
+      "media_url": "https://live.staticflickr.com/1208/5167783113_a3991dc5b8_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Eric Fischer / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/24431382@N03/5167783113"
+    },
+    "1n2ro2": {
+      "title": "6 Best Bidets of 2026: Toto, Brondell, More, All Tested in My Bathroom",
+      "t": 1783976884394,
+      "media_url": "https://live.staticflickr.com/4095/4882162452_fa3126b38d_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: BinaryApe / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/93001633@N00/4882162452"
+    },
+    "ausv9c": {
+      "title": "Thinking Fast and Slow in the SOC: The Case for Combining Autonomous AI with Analyst Copilots",
+      "t": 1783976884468,
+      "media_url": "https://live.staticflickr.com/5104/5573605307_91440c389d_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: US Army Africa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/36281822@N08/5573605307"
+    },
+    "dn4rhu": {
+      "title": "Free Mac app WhatCable tells you what each of your USB-C cables can really do",
+      "t": 1783976884723,
+      "media_url": "https://live.staticflickr.com/6212/6228852696_30931d0a21.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Eva Rinaldi Celebrity Photographer / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/58820009@N05/6228852696"
+    },
+    "1vvmopn": {
+      "title": "Meta Pulls AI Image Feature From Instagram Days After Launch",
+      "t": 1783976884725,
+      "media_url": "https://live.staticflickr.com/937/28856191237_c5d9cacdef_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Dan Lundberg / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/9508280@N07/28856191237"
+    },
+    "19kseyc": {
+      "title": "Save $544 on a new RTX 5080-packed Cyberpower gaming PC — also features AMD's 9800X3D, 32GB of DDR5 RAM, and a 2TB SSD for $2,744",
+      "t": 1783976884778,
+      "media_url": "https://live.staticflickr.com/5464/9111518480_d2b3afd852_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: davispuh / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/55551626@N02/9111518480"
+    },
+    "zb0mq2": {
+      "title": "iGarden Swim Jet X Pro 10 Review: Endless Pool",
+      "t": 1783976884973,
+      "media_url": "https://live.staticflickr.com/2856/33333691792_061e83a4e5_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Eric Seneca Kim / PDM 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/77356818@N00/33333691792"
+    },
+    "1h7sm0g": {
+      "title": "Valve confirms Steam Machine red light overheating warning is showing earlier than it should; BIOS fix on the way — will raise temperature warning threshold to 100 Degrees Celsius",
+      "t": 1783976885078,
+      "media_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/2012_Nissan_GTR_R35_%285215619240%29.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Christian Flores from Carlsbad / Encinitas, United States of America / BY-SA 2.0 via wikimedia",
+      "media_credit_url": "https://commons.wikimedia.org/w/index.php?curid=112906266"
+    },
+    "h681ur": {
+      "title": "Europe takes step toward social media ban for kids",
+      "t": 1783976885183,
+      "media_url": "https://live.staticflickr.com/3674/33183014210_66a25888d6_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Eric Seneca Kim / PDM 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/77356818@N00/33183014210"
+    },
+    "1qjre48": {
+      "title": "Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory",
+      "t": 1783976885246,
+      "media_url": "https://live.staticflickr.com/7218/7325740632_6ffebd32a8_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: AMISOM Public Information / CC0 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/61765479@N08/7325740632"
+    },
+    "1humghj": {
+      "title": "Simulating everything, sort of: The promise and limits of world models",
+      "t": 1783976885254,
+      "media_url": "https://live.staticflickr.com/5241/5343849351_0cda34e07f_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Dominic's pics / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/64097751@N00/5343849351"
     }
   }
 }
