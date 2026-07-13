@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T16:09:42.391Z",
+  "generated_at": "2026-07-13T18:21:42.549Z",
   "subs": [
     "MachineLearning",
     "science",
@@ -265,6 +265,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/investing this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1utwvzj",
+      "title": "Ransomware negotiator hired to represent victims was working for the attackers",
+      "link": "https://www.reddit.com/r/cybersecurity/comments/1utwvzj/ransomware_negotiator_hired_to_represent_victims/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/cybersecurity · community knowledge",
+      "content_type": "post",
+      "author": "u/DerBootsMann · r/cybersecurity",
+      "handle": "cybersecurity",
+      "org": "r/cybersecurity",
+      "platform": "reddit",
+      "published": "2026-07-11T21:56:42.000Z",
+      "image": "https://external-preview.redd.it/NSvKZFJR4y73x6oY6GGTwDsBJBoS7IhuffVJZTjc9aM.jpeg?width=640&crop=smart&auto=webp&s=0e3ac9f7e727bf2f5373b6a94e76237874235cfd",
+      "thumbnail": "https://external-preview.redd.it/NSvKZFJR4y73x6oY6GGTwDsBJBoS7IhuffVJZTjc9aM.jpeg?width=640&crop=smart&auto=webp&s=0e3ac9f7e727bf2f5373b6a94e76237874235cfd",
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/cybersecurity"
+      ],
+      "summary": "Ransomware negotiator hired to represent victims was working for the attackers",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/cybersecurity this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1405,45 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/nutrition this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1urodkp",
-      "title": "MOD REQUEST: Can you ban the excessive AI posters please?",
-      "link": "https://www.reddit.com/r/cybersecurity/comments/1urodkp/mod_request_can_you_ban_the_excessive_ai_posters/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/cybersecurity · community knowledge",
-      "content_type": "post",
-      "author": "u/Ambitious_Active8539 · r/cybersecurity",
-      "handle": "cybersecurity",
-      "org": "r/cybersecurity",
-      "platform": "reddit",
-      "published": "2026-07-09T12:07:09.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/cybersecurity"
-      ],
-      "summary": "This subreddit is turning into a cesspit of Gen AI garbage, every other post reads like it was written by the same person. &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/cybersecurity this week"
       ],
       "metrics": {
         "likes": 0,
