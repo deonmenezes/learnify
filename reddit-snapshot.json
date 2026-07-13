@@ -1,39 +1,79 @@
 {
-  "generated_at": "2026-07-13T07:01:07.651Z",
+  "generated_at": "2026-07-13T10:37:30.022Z",
   "subs": [
     "MachineLearning",
-    "LocalLLaMA",
-    "running",
-    "startups",
+    "Futurology",
+    "gadgets",
     "robotics",
     "longevity",
+    "startups",
     "investing",
     "cybersecurity",
     "artificial",
     "nutrition",
-    "Futurology",
+    "LocalLLaMA",
     "hardware",
     "science",
     "bodyweightfitness",
     "singularity",
     "SkincareAddiction",
     "programming",
-    "netsec",
-    "gadgets"
+    "running",
+    "netsec"
   ],
   "count": 36,
   "by_category": {
-    "Robotics": 4,
-    "Science": 7,
-    "Startups & Funding": 3,
-    "Security": 3,
     "AI / ML": 7,
-    "Fitness": 6,
-    "Hardware & Gadgets": 3,
+    "Robotics": 4,
+    "Science": 8,
+    "Startups & Funding": 2,
+    "Security": 3,
+    "Fitness": 5,
+    "Hardware & Gadgets": 4,
     "Skincare": 1,
     "Coding & Dev Tools": 2
   },
   "articles": [
+    {
+      "id": "reddit_1uv1xb3",
+      "title": "Prompt-engineering paper accepted to ICML [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uv1xb3/promptengineering_paper_accepted_to_icml_r/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/MachineLearning · community knowledge",
+      "content_type": "post",
+      "author": "u/Mean_Revolution1490 · r/MachineLearning",
+      "handle": "MachineLearning",
+      "org": "r/MachineLearning",
+      "platform": "reddit",
+      "published": "2026-07-13T05:00:07.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/MachineLearning"
+      ],
+      "summary": "&quot; Verbalized Sampling: How to Mitigate Mode Collapse and Unlock LLM Diversity &quot; This paper was accepted to ICML this year. Its main idea is a very simple prompt-engineering trick: &quot;changing the prompt this way led to more diverse sampling&quot;. Naturally, it is difficult to provide a rigorous…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1uubs2y",
       "title": "Wheelchair Made Based on a Quadruped Robot",
@@ -66,6 +106,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/robotics this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uu7ps8",
+      "title": "New York is the first US state to ban smart glasses in all its courthouses",
+      "link": "https://www.reddit.com/r/Futurology/comments/1uu7ps8/new_york_is_the_first_us_state_to_ban_smart/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/Futurology · community knowledge",
+      "content_type": "post",
+      "author": "u/EchoOfOppenheimer · r/Futurology",
+      "handle": "Futurology",
+      "org": "r/Futurology",
+      "platform": "reddit",
+      "published": "2026-07-12T06:36:48.000Z",
+      "image": "https://external-preview.redd.it/HCXVZ1w1RBIGnhpgjs_XJf2iiA9WI-Qs8LkjGcQ7VDA.jpeg?width=640&crop=smart&auto=webp&s=d5eefa4e27c7fe147c93f1bfe3b1c06d3878977a",
+      "thumbnail": "https://external-preview.redd.it/HCXVZ1w1RBIGnhpgjs_XJf2iiA9WI-Qs8LkjGcQ7VDA.jpeg?width=640&crop=smart&auto=webp&s=d5eefa4e27c7fe147c93f1bfe3b1c06d3878977a",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/Futurology"
+      ],
+      "summary": "New York is the first US state to ban smart glasses in all its courthouses",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/Futurology this week"
       ],
       "metrics": {
         "likes": 0,
@@ -588,6 +667,45 @@
       }
     },
     {
+      "id": "reddit_1usvhgb",
+      "title": "The open-source, DRM-free Open Printer shows off a working prototype",
+      "link": "https://www.reddit.com/r/gadgets/comments/1usvhgb/the_opensource_drmfree_open_printer_shows_off_a/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/gadgets · community knowledge",
+      "content_type": "post",
+      "author": "u/diacewrb · r/gadgets",
+      "handle": "gadgets",
+      "org": "r/gadgets",
+      "platform": "reddit",
+      "published": "2026-07-10T18:12:04.000Z",
+      "image": "https://external-preview.redd.it/4mfevN9UHXF7udBa2dLzYF2G4l4jRORxAsimxSh4MFA.jpeg?width=640&crop=smart&auto=webp&s=f7eb07be77647c86069f1654e9e4e5786207e70c",
+      "thumbnail": "https://external-preview.redd.it/4mfevN9UHXF7udBa2dLzYF2G4l4jRORxAsimxSh4MFA.jpeg?width=640&crop=smart&auto=webp&s=f7eb07be77647c86069f1654e9e4e5786207e70c",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/gadgets"
+      ],
+      "summary": "The open-source, DRM-free Open Printer shows off a working prototype",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/gadgets this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1ustmvg",
       "title": "Built an open-source 5-axis desktop robot arm with ESP32 for under $100 in parts",
       "link": "https://www.reddit.com/r/robotics/comments/1ustmvg/built_an_opensource_5axis_desktop_robot_arm_with/",
@@ -816,6 +934,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/hardware this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1usfza7",
+      "title": "Guy who took photo of Jupiter with a Game Boy Camera and giant telescope publishes DIY tutorial",
+      "link": "https://www.reddit.com/r/gadgets/comments/1usfza7/guy_who_took_photo_of_jupiter_with_a_game_boy/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/gadgets · community knowledge",
+      "content_type": "post",
+      "author": "u/dapperlemon · r/gadgets",
+      "handle": "gadgets",
+      "org": "r/gadgets",
+      "platform": "reddit",
+      "published": "2026-07-10T06:52:55.000Z",
+      "image": "https://external-preview.redd.it/8NQJhp6RQFhclWWAQ26FRyT_YPt6WMR86hSsIn8n1AI.jpeg?width=640&crop=smart&auto=webp&s=d234d376e62f462e45e624aa0c4b377186bd3cfd",
+      "thumbnail": "https://external-preview.redd.it/8NQJhp6RQFhclWWAQ26FRyT_YPt6WMR86hSsIn8n1AI.jpeg?width=640&crop=smart&auto=webp&s=d234d376e62f462e45e624aa0c4b377186bd3cfd",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/gadgets"
+      ],
+      "summary": "Guy who took photo of Jupiter with a Game Boy Camera and giant telescope publishes DIY tutorial",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/gadgets this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1287,164 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/cybersecurity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1urmvos",
-      "title": "2027 Double TCS London Marathon ballot results announced today!",
-      "link": "https://www.reddit.com/r/running/comments/1urmvos/2027_double_tcs_london_marathon_ballot_results/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/running · community knowledge",
-      "content_type": "post",
-      "author": "u/SuperFlyChris · r/running",
-      "handle": "running",
-      "org": "r/running",
-      "platform": "reddit",
-      "published": "2026-07-09T10:56:35.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/running"
-      ],
-      "summary": "https://www.londonmarathonevents.co.uk/london-marathon/article/2027-double-tcs-london-marathon-ballot-results-announced-today I am going for my 14th rejection in a row! Comment below when you get your email. What was the result? Where are you from? What attempt number? Good luck to all! Run fast, run free! &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/running this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1urk1ye",
-      "title": "CTO wants to give me funded seed stage equity for pre-seed unpaid work - I will not promote",
-      "link": "https://www.reddit.com/r/startups/comments/1urk1ye/cto_wants_to_give_me_funded_seed_stage_equity_for/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/startups · community knowledge",
-      "content_type": "post",
-      "author": "u/xmanotaur · r/startups",
-      "handle": "startups",
-      "org": "r/startups",
-      "platform": "reddit",
-      "published": "2026-07-09T08:19:06.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/startups"
-      ],
-      "summary": "Hey everyone, I’m a 28-year-old Systems Engineer and Security Researcher with 6 years of experience. My background is split as follows: 3 years as a Cyber Security Researcher at a major enterprise (focusing on open source tech research, os internals and runtime detection, not vulnerability research/bug hunting). 3…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/startups this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1urh2mg",
-      "title": "Now brothers we know why we are so fucked up",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1urh2mg/now_brothers_we_know_why_we_are_so_fucked_up/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/LocalLLaMA · community knowledge",
-      "content_type": "post",
-      "author": "u/perelmanych · r/LocalLLaMA",
-      "handle": "LocalLLaMA",
-      "org": "r/LocalLLaMA",
-      "platform": "reddit",
-      "published": "2026-07-09T05:32:18.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/LocalLLaMA"
-      ],
-      "summary": "Samsung chip division&#39;s single-year profits beat its past 40 years of profits, combined, due to increased memory and storage prices — Samsung passes Nvidia to become most profitable company in the world, notches 19x quarterly increase in profit…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/LocalLLaMA this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1urgssh",
-      "title": "Valve Steam Machine review: This would've been perfect five years ago",
-      "link": "https://www.reddit.com/r/gadgets/comments/1urgssh/valve_steam_machine_review_this_wouldve_been/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/gadgets · community knowledge",
-      "content_type": "post",
-      "author": "u/dapperlemon · r/gadgets",
-      "handle": "gadgets",
-      "org": "r/gadgets",
-      "platform": "reddit",
-      "published": "2026-07-09T05:17:35.000Z",
-      "image": "https://external-preview.redd.it/5pWNwTucsHNZhpS6JxhyyUnKRVicq75YT7t0wYeO7oA.jpeg?width=640&crop=smart&auto=webp&s=09d443a66b161735a334a3fea39911e7636e4ca6",
-      "thumbnail": "https://external-preview.redd.it/5pWNwTucsHNZhpS6JxhyyUnKRVicq75YT7t0wYeO7oA.jpeg?width=640&crop=smart&auto=webp&s=09d443a66b161735a334a3fea39911e7636e4ca6",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/gadgets"
-      ],
-      "summary": "Valve Steam Machine review: This would've been perfect five years ago",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/gadgets this week"
       ],
       "metrics": {
         "likes": 0,
