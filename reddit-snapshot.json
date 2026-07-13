@@ -1,18 +1,19 @@
 {
-  "generated_at": "2026-07-12T22:57:44.229Z",
+  "generated_at": "2026-07-13T00:02:36.366Z",
   "subs": [
     "MachineLearning",
-    "science",
-    "cybersecurity",
+    "Futurology",
+    "netsec",
     "robotics",
     "longevity",
     "startups",
     "investing",
+    "cybersecurity",
     "artificial",
     "nutrition",
-    "Futurology",
     "LocalLLaMA",
     "hardware",
+    "science",
     "bodyweightfitness",
     "singularity",
     "SkincareAddiction",
@@ -25,9 +26,9 @@
     "Robotics": 4,
     "Science": 7,
     "Startups & Funding": 3,
-    "Security": 2,
+    "Security": 3,
     "AI / ML": 7,
-    "Fitness": 7,
+    "Fitness": 6,
     "Hardware & Gadgets": 3,
     "Skincare": 1,
     "Coding & Dev Tools": 2
@@ -1137,6 +1138,45 @@
       }
     },
     {
+      "id": "reddit_1urrw3w",
+      "title": "Suspected Russian Threat Actor Impersonates Legitimate Crypto Wallets to Deploy Remote Utilities",
+      "link": "https://www.reddit.com/r/netsec/comments/1urrw3w/suspected_russian_threat_actor_impersonates/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/netsec · community knowledge",
+      "content_type": "post",
+      "author": "u/CyberMasterV · r/netsec",
+      "handle": "netsec",
+      "org": "r/netsec",
+      "platform": "reddit",
+      "published": "2026-07-09T14:28:00.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/netsec"
+      ],
+      "summary": "Suspected Russian Threat Actor Impersonates Legitimate Crypto Wallets to Deploy Remote Utilities",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/netsec this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1urrro7",
       "title": "An analysis of survey data covering the last five U.S. presidential election years found that ideological differences between races have decreased sharply, while differences by education have grown substantially. Less educated Americans now tend to be more conservative.",
       "link": "https://www.reddit.com/r/science/comments/1urrro7/an_analysis_of_survey_data_covering_the_last_five/",
@@ -1405,45 +1445,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/gadgets this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1urde6f",
-      "title": "Problem with AI generated workouts",
-      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1urde6f/problem_with_ai_generated_workouts/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/bodyweightfitness · community knowledge",
-      "content_type": "post",
-      "author": "u/Malk25 · r/bodyweightfitness",
-      "handle": "bodyweightfitness",
-      "org": "r/bodyweightfitness",
-      "platform": "reddit",
-      "published": "2026-07-09T02:30:04.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/bodyweightfitness"
-      ],
-      "summary": "Tons of folks come here posting a workout prompted by ChatGPT or similar AI service asking for feedback. Almost every single one of these suffers from a lack of understanding regarding exercise sequence and relative intensity. My guess is that AI takes a standard gym workout, say: bench press incline bench overhead…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/bodyweightfitness this week"
       ],
       "metrics": {
         "likes": 0,
