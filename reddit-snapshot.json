@@ -1,39 +1,77 @@
 {
-  "generated_at": "2026-07-14T01:00:01.421Z",
+  "generated_at": "2026-07-14T04:10:10.509Z",
   "subs": [
     "MachineLearning",
-    "artificial",
-    "nutrition",
-    "investing",
+    "LocalLLaMA",
+    "bodyweightfitness",
+    "startups",
     "robotics",
     "Futurology",
     "longevity",
-    "startups",
+    "investing",
     "cybersecurity",
     "SkincareAddiction",
-    "LocalLLaMA",
+    "artificial",
+    "nutrition",
     "hardware",
     "science",
     "gadgets",
-    "bodyweightfitness",
     "singularity",
-    "programming",
-    "running",
-    "netsec"
+    "programming"
   ],
   "count": 36,
   "by_category": {
+    "AI / ML": 9,
     "Robotics": 5,
-    "AI / ML": 7,
     "Science": 7,
     "Startups & Funding": 2,
-    "Security": 3,
+    "Security": 2,
     "Skincare": 2,
     "Fitness": 4,
     "Hardware & Gadgets": 4,
-    "Coding & Dev Tools": 2
+    "Coding & Dev Tools": 1
   },
   "articles": [
+    {
+      "id": "reddit_1uvlwz0",
+      "title": "This is why we need local models and opensource harnesses",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1uvlwz0/this_is_why_we_need_local_models_and_opensource/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/LocalLLaMA · community knowledge",
+      "content_type": "post",
+      "author": "u/Comfortable-Rock-498 · r/LocalLLaMA",
+      "handle": "LocalLLaMA",
+      "org": "r/LocalLLaMA",
+      "platform": "reddit",
+      "published": "2026-07-13T19:41:33.000Z",
+      "image": "https://preview.redd.it/4o8n4hjmv1dh1.png?width=640&crop=smart&auto=webp&s=1e39fd9fcdb436fd4d0760c942176ede35f788b5",
+      "thumbnail": "https://preview.redd.it/4o8n4hjmv1dh1.png?width=640&crop=smart&auto=webp&s=1e39fd9fcdb436fd4d0760c942176ede35f788b5",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/LocalLLaMA"
+      ],
+      "summary": "This is why we need local models and opensource harnesses",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/LocalLLaMA this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1uvcoey",
       "title": "Robotics researcher argues LLMs may be the wrong foundation for robot intelligence",
@@ -66,6 +104,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/robotics this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uvbzul",
+      "title": "Apple M7 Ultra Chip Planned With Up to 1.5 TB of Unified Memory",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1uvbzul/apple_m7_ultra_chip_planned_with_up_to_15_tb_of/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/LocalLLaMA · community knowledge",
+      "content_type": "post",
+      "author": "u/Mochila-Mochila · r/LocalLLaMA",
+      "handle": "LocalLLaMA",
+      "org": "r/LocalLLaMA",
+      "platform": "reddit",
+      "published": "2026-07-13T13:44:24.000Z",
+      "image": "https://external-preview.redd.it/RS7pWzXd3pBCG1TcQBhnLQEcaQ3NdPhcqihuR6r3TfE.jpeg?width=640&crop=smart&auto=webp&s=47100358520b383a66e2b9bd69169c5a19cf649e",
+      "thumbnail": "https://external-preview.redd.it/RS7pWzXd3pBCG1TcQBhnLQEcaQ3NdPhcqihuR6r3TfE.jpeg?width=640&crop=smart&auto=webp&s=47100358520b383a66e2b9bd69169c5a19cf649e",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/LocalLLaMA"
+      ],
+      "summary": "Apple M7 Ultra Chip Planned With Up to 1.5 TB of Unified Memory",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/LocalLLaMA this week"
       ],
       "metrics": {
         "likes": 0,
@@ -901,6 +979,45 @@
       }
     },
     {
+      "id": "reddit_1usnkca",
+      "title": "What do you tell yourself when you dont feel like working out?",
+      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1usnkca/what_do_you_tell_yourself_when_you_dont_feel_like/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/bodyweightfitness · community knowledge",
+      "content_type": "post",
+      "author": "u/ArmadilloChance3778 · r/bodyweightfitness",
+      "handle": "bodyweightfitness",
+      "org": "r/bodyweightfitness",
+      "platform": "reddit",
+      "published": "2026-07-10T13:22:07.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/bodyweightfitness"
+      ],
+      "summary": "I never used to have problems with working out consistently for years before. Nowadays, Im on a weight loss journey again bc I gained weight on zyprexa (still on it bc otherwise my depression spirals) and I find myself unmotivated and looking fir excuses (mainly too tired, too lethargic) to not exercise. I tell myself…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/bodyweightfitness this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1usk7vu",
       "title": "Modern human-made environments with striped patterns, cluttered interiors, high-contrast colours, flickering lights and densely packed supermarket shelves can overload the brain, increasing visual discomfort, eyestrain, stress and feelings of being overwhelmed in some people",
       "link": "https://www.reddit.com/r/science/comments/1usk7vu/modern_humanmade_environments_with_striped/",
@@ -1326,123 +1443,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/robotics this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1urvw65",
-      "title": "What running books have had the biggest impact on how you understand training, physiology, and injury prevention?",
-      "link": "https://www.reddit.com/r/running/comments/1urvw65/what_running_books_have_had_the_biggest_impact_on/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/running · community knowledge",
-      "content_type": "post",
-      "author": "u/Melodic-Wolverine-80 · r/running",
-      "handle": "running",
-      "org": "r/running",
-      "platform": "reddit",
-      "published": "2026-07-09T16:50:52.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/running"
-      ],
-      "summary": "I’ve searched through previous recommendation threads, but most seem geared toward beginners or general training plans. I’m hoping to find books that dive deeper into the science behind endurance training. I’m a collegiate distance runner who is also planning to become a physical therapist, so I’m especially…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/running this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1urt5ib",
-      "title": "Google pays $250K for Linux vulnerability allowing guest VM escapes",
-      "link": "https://www.reddit.com/r/programming/comments/1urt5ib/google_pays_250k_for_linux_vulnerability_allowing/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/programming · community knowledge",
-      "content_type": "post",
-      "author": "u/CircumspectCapybara · r/programming",
-      "handle": "programming",
-      "org": "r/programming",
-      "platform": "reddit",
-      "published": "2026-07-09T15:13:50.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Coding & Dev Tools",
-      "category": "Coding & Dev Tools",
-      "genre": "Coding & Dev Tools",
-      "categories": [
-        "Reddit",
-        "Coding & Dev Tools",
-        "r/programming"
-      ],
-      "summary": "Google pays $250K for Linux vulnerability allowing guest VM escapes",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/programming this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1urrw3w",
-      "title": "Suspected Russian Threat Actor Impersonates Legitimate Crypto Wallets to Deploy Remote Utilities",
-      "link": "https://www.reddit.com/r/netsec/comments/1urrw3w/suspected_russian_threat_actor_impersonates/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/netsec · community knowledge",
-      "content_type": "post",
-      "author": "u/CyberMasterV · r/netsec",
-      "handle": "netsec",
-      "org": "r/netsec",
-      "platform": "reddit",
-      "published": "2026-07-09T14:28:00.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/netsec"
-      ],
-      "summary": "Suspected Russian Threat Actor Impersonates Legitimate Crypto Wallets to Deploy Remote Utilities",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/netsec this week"
       ],
       "metrics": {
         "likes": 0,
