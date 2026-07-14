@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-14T22:00:43.931Z",
+  "generated_at": "2026-07-14T23:26:11.637Z",
   "model": "nvidia/nemotron-3-super-120b-a12b",
-  "count": 4285,
+  "count": 4298,
   "items": {
     "719737": {
       "title": "OpenAI wins US clearance for a broad GPT-5.6 rollout after weeks of government testing",
@@ -322,30 +322,6 @@
       "media_kind": "stock",
       "media_credit": "Photo: tompagenet / BY-SA 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/73422480@N00/6795878196"
-    },
-    "wae684": {
-      "title": "The “Father of the Internet” is finally retiring",
-      "t": 1782882418183,
-      "media_url": "https://live.staticflickr.com/5806/30466646812_ef581bf8de_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: ITU Pictures / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/42121221@N07/30466646812"
-    },
-    "md9vu1": {
-      "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
-      "t": 1782882418708,
-      "media_url": "https://live.staticflickr.com/8664/30466627572_6ab18c4125_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: ITU Pictures / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/42121221@N07/30466627572"
-    },
-    "1vc33py": {
-      "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
-      "t": 1782882418721,
-      "media_url": "https://live.staticflickr.com/1/625533_9379b86613.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: cohærence * / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/61034561@N00/625533"
     },
     "1g54f7v": {
       "title": "The Orbital Data Center Hype Machine Is Already in Orbit",
@@ -814,65 +790,6 @@
       "media_kind": "stock",
       "media_credit": "Photo: ITU Pictures / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/42121221@N07/33721186053"
-    },
-    "1qyjtn3": {
-      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-      "t": 1783204131769,
-      "image": "https://opengraph.githubassets.com/a5d6c4d003a2626f4266714ca382f0703c2db3b9e282b6ddf3033c244b663526/openai/codex/issues/30364",
-      "media_url": "https://live.staticflickr.com/2669/4140191319_7dc49ddca2.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140191319"
-    },
-    "pkfo50": {
-      "title": "Protocol Prying: Vulnerability Research in AirDrop and Quick Share",
-      "t": 1783204131769,
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "media_url": "https://live.staticflickr.com/2723/4140951044_cebe112a5b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140951044"
-    },
-    "d12yim": {
-      "title": "Better Models: Worse Tools",
-      "t": 1783204131769,
-      "image": "https://lucumr.pocoo.org/social/2026-07-04-better-models-worse-tools-social.png",
-      "media_url": "https://live.staticflickr.com/2681/4140950940_186aec55ba.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950940"
-    },
-    "l3qhmd": {
-      "title": "Quote of the day by Microsoft CEO Satya Nadella on women asking for a raise: 'It’s about knowing and having faith in the system' — a controversial gaffe that led to an immediate reversal",
-      "t": 1783204132287,
-      "media_url": "https://live.staticflickr.com/1926/31638570178_bc714958fd_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Janitors / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/65265630@N03/31638570178"
-    },
-    "xzryj0": {
-      "title": "Planned 1.7 million satellites 'devastating' for astronomy: Study",
-      "t": 1783204132364,
-      "media_url": "https://live.staticflickr.com/182/472416913_88a4f60b71_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: pingnews.com / PDM 1.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/39735679@N00/472416913"
-    },
-    "3s40g5": {
-      "title": "Chinese firm's fiber trial hits staggering 51.3 Tb/s over 128 miles without signal regeneration —  could this be an end to bandwidth bottlenecks?",
-      "t": 1783204132820,
-      "media_url": "https://live.staticflickr.com/3195/2795336383_3716963cc0.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: _Tophee_ / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/64667396@N00/2795336383"
-    },
-    "reddit_1umg5i9": {
-      "title": "Moonshots to Rewrite Aging - ARPA-H and XPrize Healthspan Approaches to Medically Targeting Aging",
-      "t": 1783204133261,
-      "media_url": "https://live.staticflickr.com/8637/15913350497_5048b48dff_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/15913350497"
     },
     "u77uzu": {
       "title": "New bacterial species discovered in NASA's cleanrooms",
@@ -34618,6 +34535,193 @@
       "media_kind": "stock",
       "media_credit": "Photo: Eva Blue / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/74669477@N00/5282805183"
+    },
+    "m2gv4s": {
+      "title": "QR-Swastika-Avoider",
+      "t": 1784071569243,
+      "image": "https://static.crates.io/og-images/qr-swastika-avoider.png",
+      "media_url": "https://live.staticflickr.com/2762/4140950690_e8e7fa21f4.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950690"
+    },
+    "1pu7bju": {
+      "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
+      "t": 1784071569243,
+      "image": "https://www.benjamin-bai.com/project-assets/lemario/architecture.png",
+      "media_url": "https://live.staticflickr.com/2681/4140950940_186aec55ba.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950940"
+    },
+    "1w74bnr": {
+      "title": "Microsoft deleted my account and OneDrive",
+      "t": 1784071569243,
+      "image": "https://pbs.twimg.com/media/HNKyVOFXYAARxLL.jpg:large",
+      "media_url": "https://live.staticflickr.com/2762/4140950690_e8e7fa21f4.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950690"
+    },
+    "1m6d8g3": {
+      "title": "Lorde says AI glasses are “not sexy”",
+      "t": 1784071569548,
+      "media_url": "https://live.staticflickr.com/65535/51918050245_2ac4e700b0_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Wendelin Jacober / CC0 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/91619724@N04/51918050245"
+    },
+    "e6u2o0": {
+      "title": "New technique for building ultra-thin material stacks promises quantum breakthrough",
+      "t": 1784071569722,
+      "media_url": "https://live.staticflickr.com/2942/15321600236_5b12b9874a_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: U.S. Army Combat Capabilities Development Command / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/34402227@N03/15321600236"
+    },
+    "uffedr": {
+      "title": "Astronomers uncover the earliest known signs of galaxy-building in action",
+      "t": 1784071569867,
+      "media_url": "https://live.staticflickr.com/4876/46653516871_fa91b16ce6.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: NASA Hubble / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/144614754@N02/46653516871"
+    },
+    "9m2hbf": {
+      "title": "More than 50% of Australian university assignments used AI. How should universities respond?",
+      "t": 1784071570113,
+      "media_url": "https://live.staticflickr.com/2941/15101234827_55e674775d_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: DFID - UK Department for International Development / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/14214150@N02/15101234827"
+    },
+    "18754ag": {
+      "title": "Europe's last pagan state was already diverse: Medieval Vilnius drew migrants from Christian lands",
+      "t": 1784071570114,
+      "media_url": "https://live.staticflickr.com/3922/15022848341_b0bc16f37b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: James St. John / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/47445767@N05/15022848341"
+    },
+    "1mn6scs": {
+      "title": "Quordle hints and answers for Wednesday, July 15 (game #1633)",
+      "t": 1784071570253,
+      "media_url": "https://live.staticflickr.com/6147/5921557529_0a1427652e_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Pink Poppy Photography / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/64620837@N05/5921557529"
+    },
+    "1r1g0xr": {
+      "title": "NYT Strands hints and answers for Wednesday, July 15 (game #864)",
+      "t": 1784071570281,
+      "media_url": "https://live.staticflickr.com/1304/5185128545_039ffbfe0b_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: rogorno / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/22963605@N05/5185128545"
+    },
+    "107xyxg": {
+      "title": "NYT Connections hints and answers for Wednesday, July 15 (game #1130)",
+      "t": 1784071570303,
+      "media_url": "https://live.staticflickr.com/5329/9512594023_cc23848025_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: origamiguy1971 / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/94246383@N00/9512594023"
+    },
+    "bsky_yeo3te": {
+      "title": "Made myself a custom Codex pet today (you'll never guess what it was), and had some fun reverse-engineering how the feature works - it generates animated sprite sheets using gpt-image-2…",
+      "t": 1784071570495,
+      "media_url": "https://live.staticflickr.com/2062/1819305798_8368ca5db4_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: 顔なし / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/55262442@N00/1819305798"
+    },
+    "atszle": {
+      "title": "Inside Samsung Display's secret labs, where it builds and stress-tests next-gen displays — and says it's ready for Apple to launch a foldable: 'We mean it, we love other companies to join this market'",
+      "t": 1784071570657,
+      "media_url": "https://live.staticflickr.com/5156/7216783336_f623927eb2_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: garryknight / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/8176740@N05/7216783336"
+    },
+    "1sj8ecp": {
+      "title": "Samsung's free storage upgrade is reportedly about to disappear, but here's what could be replacing it",
+      "t": 1784071570801,
+      "media_url": "https://live.staticflickr.com/5218/5385424361_d3ab48dfe1_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Patrick Hoesly / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/60057912@N00/5385424361"
+    },
+    "1inflgi": {
+      "title": "Samsung has a 16TB PCIe 6.0 SSD coming soon with read/write speeds of 28.4GBps and 21.9GBps respectively — but you won't be able to use it anyway",
+      "t": 1784071570824,
+      "media_url": "https://live.staticflickr.com/4132/4989727256_dbfc2bcce1_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: superstrikertwo / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/14876067@N00/4989727256"
+    },
+    "1si6eny": {
+      "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+      "t": 1784071570827,
+      "media_url": "https://live.staticflickr.com/5567/14696937320_c76e4b8646_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: theglobalpanorama / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/121483302@N02/14696937320"
+    },
+    "2s2x2i": {
+      "title": "The UK Is Planning a Social Media Curfew for 16- and 17-Year-Olds",
+      "t": 1784071571186,
+      "media_url": "https://live.staticflickr.com/5043/5351414772_d52cf35d9c_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: cambodia4kidsorg / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/58428285@N00/5351414772"
+    },
+    "74gzjb": {
+      "title": "Microsoft’s Secure Boot has been broken for a decade and no one noticed until now",
+      "t": 1784071571199,
+      "media_url": "https://live.staticflickr.com/1364/1155965622_fc8ff5f32d_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: torres21 / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/30864080@N00/1155965622"
+    },
+    "1sxf8o1": {
+      "title": "OpenAI pushes back on Apple trade secret lawsuit",
+      "t": 1784071571298,
+      "media_url": "https://live.staticflickr.com/5672/29949919183_74ebb78def_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: ITU Pictures / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/42121221@N07/29949919183"
+    },
+    "x0njax": {
+      "title": "Quote of the day by Linux creator Linus Torvalds: 'Nvidia has been the single worst company we've ever dealt with' — airing frustrations at walled gardens",
+      "t": 1784071571356,
+      "media_url": "https://live.staticflickr.com/1431/5182252161_6eeef1ee34_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: blakespot / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/35448539@N00/5182252161"
+    },
+    "yftulm": {
+      "title": "Financing the AI boom: from cash flows to debt [pdf]",
+      "t": 1784071571519,
+      "media_url": "https://live.staticflickr.com/2723/4140951044_cebe112a5b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140951044"
+    },
+    "p6rw1r": {
+      "title": "Trump admin puts Americans in Congo on \"do-not-board\" list, barring return",
+      "t": 1784071571553,
+      "media_url": "https://live.staticflickr.com/8060/8220290245_40c9fc243f_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: MDGovpics / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/64018555@N03/8220290245"
+    },
+    "1urmpgo": {
+      "title": "Don't forget, you can save 50% on Criterion 4K Blu-rays at Amazon and Barnes & Noble right now — the sale is for a limited time, so don't miss it if you're looking to add to your collection",
+      "t": 1784071571634,
+      "media_url": "https://live.staticflickr.com/2572/4117666507_b7ef3b1631_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Jordanhill School D&T Dept / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/42042252@N02/4117666507"
     }
   }
 }

@@ -1,35 +1,113 @@
 {
-  "generated_at": "2026-07-14T22:04:56.633Z",
+  "generated_at": "2026-07-14T23:30:24.191Z",
   "subs": [
     "MachineLearning",
-    "singularity",
-    "nutrition",
     "longevity",
+    "hardware",
+    "nutrition",
     "LocalLLaMA",
     "Futurology",
     "robotics",
     "netsec",
+    "singularity",
     "startups",
     "gadgets",
     "investing",
     "cybersecurity",
     "SkincareAddiction",
-    "artificial",
-    "hardware",
-    "science"
+    "artificial"
   ],
   "count": 36,
   "by_category": {
-    "Science": 9,
+    "Science": 8,
+    "Hardware & Gadgets": 4,
     "Fitness": 2,
     "AI / ML": 11,
     "Robotics": 3,
     "Security": 4,
     "Startups & Funding": 3,
-    "Hardware & Gadgets": 3,
     "Skincare": 1
   },
   "articles": [
+    {
+      "id": "reddit_1uwgxdh",
+      "title": "Reversal of protein chemical aging by enzymatic deglycation",
+      "link": "https://www.reddit.com/r/longevity/comments/1uwgxdh/reversal_of_protein_chemical_aging_by_enzymatic/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/longevity · community knowledge",
+      "content_type": "post",
+      "author": "u/kpfleger · r/longevity",
+      "handle": "longevity",
+      "org": "r/longevity",
+      "platform": "reddit",
+      "published": "2026-07-14T18:24:30.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Science",
+      "category": "Science",
+      "genre": "Longevity",
+      "categories": [
+        "Reddit",
+        "Science",
+        "Longevity",
+        "r/longevity"
+      ],
+      "summary": "Abstract The accumulation of advanced glycation end products (AGEs) in long-lived proteins is a hallmark of mammalian aging and implicated as a driver of metabolic dysfunction. Among these adducts, N ε -carboxymethyl-lysine (CML) is particularly abundant in aging tissues, where it modifies proteins and acts as a…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/longevity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uw8j07",
+      "title": "Valve confirms Steam Machine red light overheating warning is showing earlier than it should; BIOS fix on the way — will raise temperature warning threshold to 100 Degrees Celsius",
+      "link": "https://www.reddit.com/r/hardware/comments/1uw8j07/valve_confirms_steam_machine_red_light/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/hardware · community knowledge",
+      "content_type": "post",
+      "author": "u/ControlCAD · r/hardware",
+      "handle": "hardware",
+      "org": "r/hardware",
+      "platform": "reddit",
+      "published": "2026-07-14T13:20:38.000Z",
+      "image": "https://external-preview.redd.it/Foir6xTdqoYkfhqVfp9RTVFPxs8RiEMH7TnuYMTAEmM.jpeg?width=640&crop=smart&auto=webp&s=27be08a8b68f60c0a0e296135eb905663ec074b6",
+      "thumbnail": "https://external-preview.redd.it/Foir6xTdqoYkfhqVfp9RTVFPxs8RiEMH7TnuYMTAEmM.jpeg?width=640&crop=smart&auto=webp&s=27be08a8b68f60c0a0e296135eb905663ec074b6",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/hardware"
+      ],
+      "summary": "Valve confirms Steam Machine red light overheating warning is showing earlier than it should; BIOS fix on the way — will raise temperature warning threshold to 100 Degrees Celsius",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/hardware this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1uw1m0r",
       "title": "Aging-associated decline of phosphatidylcholine synthesis is a malleable trigger of natural mitochondrial agingAging-associated decline of phosphatidylcholine synthesis is a malleable trigger of natural mitochondrial aging",
@@ -539,6 +617,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/gadgets this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uuva8m",
+      "title": "[Gamers Nexus] The Hard Drive Cartel | Criminal Conspiracy & Price Fixing",
+      "link": "https://www.reddit.com/r/hardware/comments/1uuva8m/gamers_nexus_the_hard_drive_cartel_criminal/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/hardware · community knowledge",
+      "content_type": "post",
+      "author": "u/wickedplayer494 · r/hardware",
+      "handle": "hardware",
+      "org": "r/hardware",
+      "platform": "reddit",
+      "published": "2026-07-12T23:41:47.000Z",
+      "image": "https://external-preview.redd.it/eaZpX-mL5JokC4HKDqOD30V_iKrmw2Jg1Mz64sMU_gw.jpeg?width=320&crop=smart&auto=webp&s=520118e2a84e9e821d6869e21416619aba26c553",
+      "thumbnail": "https://external-preview.redd.it/eaZpX-mL5JokC4HKDqOD30V_iKrmw2Jg1Mz64sMU_gw.jpeg?width=320&crop=smart&auto=webp&s=520118e2a84e9e821d6869e21416619aba26c553",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/hardware"
+      ],
+      "summary": "[Gamers Nexus] The Hard Drive Cartel | Criminal Conspiracy & Price Fixing",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/hardware this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1329,124 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/hardware this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ut05kh",
-      "title": "A new study shows that a decision by RFK Jr.'s advisory panel to strip federal recommendations for the MMRV vaccine disproportionately harms low-income and minority toddlers, who rely on the combination shot to overcome healthcare barriers",
-      "link": "https://www.reddit.com/r/science/comments/1ut05kh/a_new_study_shows_that_a_decision_by_rfk_jrs/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/science · community knowledge",
-      "content_type": "post",
-      "author": "u/HeinieKaboobler · r/science",
-      "handle": "science",
-      "org": "r/science",
-      "platform": "reddit",
-      "published": "2026-07-10T21:04:05.000Z",
-      "image": "https://external-preview.redd.it/eE55Iy6zNzoJiPmpY4Ym2sxxJRWutmM_PZirWeQDM2o.jpeg?width=640&crop=smart&auto=webp&s=0b2ee23dc2a696a87a2721b5f2d8d3cbd022c551",
-      "thumbnail": "https://external-preview.redd.it/eE55Iy6zNzoJiPmpY4Ym2sxxJRWutmM_PZirWeQDM2o.jpeg?width=640&crop=smart&auto=webp&s=0b2ee23dc2a696a87a2721b5f2d8d3cbd022c551",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/science"
-      ],
-      "summary": "A new study shows that a decision by RFK Jr.'s advisory panel to strip federal recommendations for the MMRV vaccine disproportionately harms low-income and minority toddlers, who rely on the combination shot to overcome healthcare barriers",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/science this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1usvhgb",
-      "title": "The open-source, DRM-free Open Printer shows off a working prototype",
-      "link": "https://www.reddit.com/r/gadgets/comments/1usvhgb/the_opensource_drmfree_open_printer_shows_off_a/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/gadgets · community knowledge",
-      "content_type": "post",
-      "author": "u/diacewrb · r/gadgets",
-      "handle": "gadgets",
-      "org": "r/gadgets",
-      "platform": "reddit",
-      "published": "2026-07-10T18:12:04.000Z",
-      "image": "https://external-preview.redd.it/4mfevN9UHXF7udBa2dLzYF2G4l4jRORxAsimxSh4MFA.jpeg?width=640&crop=smart&auto=webp&s=f7eb07be77647c86069f1654e9e4e5786207e70c",
-      "thumbnail": "https://external-preview.redd.it/4mfevN9UHXF7udBa2dLzYF2G4l4jRORxAsimxSh4MFA.jpeg?width=640&crop=smart&auto=webp&s=f7eb07be77647c86069f1654e9e4e5786207e70c",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/gadgets"
-      ],
-      "summary": "The open-source, DRM-free Open Printer shows off a working prototype",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/gadgets this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1usujlo",
-      "title": "Biological Clocks with Luigi Ferrucci, Head of National Institute on Aging",
-      "link": "https://www.reddit.com/r/longevity/comments/1usujlo/biological_clocks_with_luigi_ferrucci_head_of/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/longevity · community knowledge",
-      "content_type": "post",
-      "author": "u/towngrizzlytown · r/longevity",
-      "handle": "longevity",
-      "org": "r/longevity",
-      "platform": "reddit",
-      "published": "2026-07-10T17:38:57.000Z",
-      "image": "https://external-preview.redd.it/cMJVph25Ry-lAAg6xVbhSWRkKKg6bTJpBZTXBcPw9Wo.jpeg?width=640&crop=smart&auto=webp&s=486f99b92f8481f8b78c146c28e32093cbde9675",
-      "thumbnail": "https://external-preview.redd.it/cMJVph25Ry-lAAg6xVbhSWRkKKg6bTJpBZTXBcPw9Wo.jpeg?width=640&crop=smart&auto=webp&s=486f99b92f8481f8b78c146c28e32093cbde9675",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Longevity",
-      "categories": [
-        "Reddit",
-        "Science",
-        "Longevity",
-        "r/longevity"
-      ],
-      "summary": "Ferrucci and others recently published a paper with data indicating the rate of change in a person&#39;s epigenetic clock measurements is more important than the results in isolation: https://www.nature.com/articles/s43587-026-01066-6 &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/longevity this week"
       ],
       "metrics": {
         "likes": 0,
