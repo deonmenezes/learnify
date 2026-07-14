@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-07-14T09:10:39.253Z",
+  "generated_at": "2026-07-14T11:12:10.254Z",
   "subs": [
     "MachineLearning",
-    "science",
-    "netsec",
     "LocalLLaMA",
+    "bodyweightfitness",
+    "startups",
     "Futurology",
     "robotics",
+    "netsec",
     "gadgets",
     "longevity",
-    "startups",
     "investing",
     "cybersecurity",
     "SkincareAddiction",
     "artificial",
     "nutrition",
     "hardware",
-    "bodyweightfitness",
+    "science",
     "singularity"
   ],
   "count": 36,
@@ -25,9 +25,9 @@
     "Science": 7,
     "Robotics": 4,
     "Security": 4,
+    "Startups & Funding": 3,
     "Hardware & Gadgets": 5,
-    "Startups & Funding": 2,
-    "Skincare": 2,
+    "Skincare": 1,
     "Fitness": 4
   },
   "articles": [
@@ -301,6 +301,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uuywvo",
+      "title": "What is a good way to validate your startup idea? I will not promote",
+      "link": "https://www.reddit.com/r/startups/comments/1uuywvo/what_is_a_good_way_to_validate_your_startup_idea/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/startups · community knowledge",
+      "content_type": "post",
+      "author": "u/TheDividendBug · r/startups",
+      "handle": "startups",
+      "org": "r/startups",
+      "platform": "reddit",
+      "published": "2026-07-13T02:28:47.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/startups"
+      ],
+      "summary": "I’ve built many products throughout my career, but one challenge I continue to struggle with is properly validating my ideas before investing significant time into building them. I often find myself getting excited about a problem, jumping straight into designing and developing a solution, and only later realizing…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/startups this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1402,45 +1442,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/gadgets this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1usffox",
-      "title": "[PSA] - CERAVE LAUNCHES PAULA'S CHOICE BHA TONER DUPE",
-      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1usffox/psa_cerave_launches_paulas_choice_bha_toner_dupe/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/SkincareAddiction · community knowledge",
-      "content_type": "post",
-      "author": "u/Far-Shift-1962 · r/SkincareAddiction",
-      "handle": "SkincareAddiction",
-      "org": "r/SkincareAddiction",
-      "platform": "reddit",
-      "published": "2026-07-10T06:22:09.000Z",
-      "image": "https://preview.redd.it/e662fiieicch1.jpeg?width=640&crop=smart&auto=webp&s=6b29eef1df87943a081cc5f7c9295720d77a244f",
-      "thumbnail": "https://preview.redd.it/e662fiieicch1.jpeg?width=640&crop=smart&auto=webp&s=6b29eef1df87943a081cc5f7c9295720d77a244f",
-      "section": "Skincare",
-      "category": "Skincare",
-      "genre": "Skincare",
-      "categories": [
-        "Reddit",
-        "Skincare",
-        "r/SkincareAddiction"
-      ],
-      "summary": "Inci Active: Salicylic Acid 2%. Inactive: Water, Pentylene Glycol, Triethyl Citrate, Butylene Glycol, Glycerin, Ceramide Np, Ceramide Ap, Ceramide Eop, Carbomer, Glycolipids, Niacinamide, Sodium Hydroxide, Sodium Citrate, Sodium Benzoate, Sodium Lauroyl Lactylate, Sodium Phosphate, Cholesterol, Disodium Phosphate,…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/SkincareAddiction this week"
       ],
       "metrics": {
         "likes": 0,
