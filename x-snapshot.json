@@ -1,15 +1,262 @@
 {
-  "generated_at": "2026-07-13T23:30:46.984Z",
+  "generated_at": "2026-07-14T00:57:48.448Z",
   "handles": [
-    "nvidia",
+    "AnthropicAI",
     "OpenAI",
+    "nvidia",
     "GoogleDeepMind",
     "elonmusk",
-    "AnthropicAI",
     "AIatMeta"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2076796336200954047",
+      "title": "Open source multiplies the full-stack advantage. PyTorch has surpassed 700 million PyPI downloads with CUDA support — co-evolved with a decade of NVIDIA architecture advances.. Open source frameworks…",
+      "link": "https://x.com/nvidia/status/2076796336200954047",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-07-13T22:30:06.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Funding & deals",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Funding & deals"
+      ],
+      "summary": "Open source multiplies the full-stack advantage. PyTorch has surpassed 700 million PyPI downloads with CUDA support — co-evolved with a decade of NVIDIA architecture advances.. Open source frameworks built on CUDA mean every AI breakthrough runs on NVIDIA from day one. NVIDIA",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 63,
+      "sentiment": "positive",
+      "sentiment_score": 1,
+      "reasons": [
+        "report-worthy",
+        "reply / conversation",
+        "tech substance (open source, cuda)",
+        "business signal (million)",
+        "concrete metrics"
+      ],
+      "metrics": {
+        "likes": 5,
+        "retweets": 0,
+        "replies": 3,
+        "likes_h": "5"
+      },
+      "engagement": 8,
+      "hot": false
+    },
+    {
+      "id": "x_2076796314306617590",
+      "title": "As organizations move from AI pilots to production, infrastructure decisions have shifted from peak chip specs to cost per token: how many useful tokens they can deliver per dollar, per watt, and…",
+      "link": "https://x.com/nvidia/status/2076796314306617590",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-07-13T22:30:00.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "As organizations move from AI pilots to production, infrastructure decisions have shifted from peak chip specs to cost per token: how many useful tokens they can deliver per dollar, per watt, and within required latency targets. NVIDIA's full-stack inference software",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 82,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (tokens, inference, chip)"
+      ],
+      "metrics": {
+        "likes": 78,
+        "retweets": 15,
+        "replies": 19,
+        "likes_h": "78"
+      },
+      "engagement": 127,
+      "hot": false
+    },
+    {
+      "id": "x_2076719544727716287",
+      "title": "While the differences between models are modest overall, we find that each Claude model sits at a different point along these value axes. Sonnet 4.6, for example, is more playful and affirming, while…",
+      "link": "https://x.com/AnthropicAI/status/2076719544727716287",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Anthropic · @AnthropicAI",
+      "handle": "AnthropicAI",
+      "org": "Anthropic",
+      "published": "2026-07-13T17:24:57.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "Anthropic",
+        "Product"
+      ],
+      "summary": "While the differences between models are modest overall, we find that each Claude model sits at a different point along these value axes. Sonnet 4.6, for example, is more playful and affirming, while Opus 4.7 is more likely to give candid critiques.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 66,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "reply / conversation",
+        "tech substance (model, models, claude)"
+      ],
+      "metrics": {
+        "likes": 192,
+        "retweets": 12,
+        "replies": 9,
+        "likes_h": "192"
+      },
+      "engagement": 225,
+      "hot": false
+    },
+    {
+      "id": "x_2076719540785012872",
+      "title": "In previous research, we found that Claude expresses over 3,000 values, like honesty and warmth. In new work, we asked how the values Claude expresses vary between Claude models and across languages.…",
+      "link": "https://x.com/AnthropicAI/status/2076719540785012872",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Anthropic · @AnthropicAI",
+      "handle": "AnthropicAI",
+      "org": "Anthropic",
+      "published": "2026-07-13T17:24:56.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "Anthropic",
+        "Research"
+      ],
+      "summary": "In previous research, we found that Claude expresses over 3,000 values, like honesty and warmth. In new work, we asked how the values Claude expresses vary between Claude models and across languages. We analyzed 300K+ anonymized conversations to find out.https://www.anthropic.com/research/claude-values-models-languages",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 100,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (models, claude, research)",
+        "links to a source",
+        "high engagement (2.4K likes)",
+        "concrete metrics"
+      ],
+      "metrics": {
+        "likes": 2430,
+        "retweets": 242,
+        "replies": 255,
+        "likes_h": "2.4K"
+      },
+      "engagement": 3169,
+      "hot": false
+    },
+    {
+      "id": "x_2076690662196490454",
+      "title": "What’s the saying about the early bird and the worm? 🐦🪱 #NVIDIAGTC Berlin discounted pricing is available for a limited time only - join us for the latest in AI, accelerated computing, robotics,…",
+      "link": "https://x.com/nvidia/status/2076690662196490454",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-07-13T15:30:11.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product",
+        "NVIDIAGTC"
+      ],
+      "summary": "What’s the saying about the early bird and the worm? 🐦🪱 #NVIDIAGTC Berlin discounted pricing is available for a limited time only - join us for the latest in AI, accelerated computing, robotics, simulation, and more.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 74,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "tech substance (robotics)"
+      ],
+      "metrics": {
+        "likes": 220,
+        "retweets": 31,
+        "replies": 43,
+        "likes_h": "220"
+      },
+      "engagement": 325,
+      "hot": false
+    },
+    {
+      "id": "x_2076686114631340046",
+      "title": "Here’s how we used the Predicting the Past Skill in Google @Antigravity to track down a Roman ring thief, map an ancient cult across Europe, and reconstruct the networks of people visiting a Greek…",
+      "link": "https://x.com/GoogleDeepMind/status/2076686114631340046",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Google DeepMind · @GoogleDeepMind",
+      "handle": "GoogleDeepMind",
+      "org": "Google",
+      "published": "2026-07-13T15:12:07.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "Google",
+        "Commentary"
+      ],
+      "summary": "Here’s how we used the Predicting the Past Skill in Google @Antigravity to track down a Roman ring thief, map an ancient cult across Europe, and reconstruct the networks of people visiting a Greek oracle. 🧵",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 58,
+      "sentiment": "negative",
+      "sentiment_score": -0.5,
+      "reasons": [
+        "report-worthy"
+      ],
+      "metrics": {
+        "likes": 298,
+        "retweets": 36,
+        "replies": 31,
+        "likes_h": "298"
+      },
+      "engagement": 401,
+      "hot": false
+    },
     {
       "id": "x_2075724298841387291",
       "title": "AI factories don’t have to be a strain on the grid. Instead, they can be an energy supplier⚡ Emerald AI's Conductor platform, developed using the NVIDIA Vera Rubin DSX AI Factory reference design, is…",
@@ -42,12 +289,12 @@
         "tech substance (platform)"
       ],
       "metrics": {
-        "likes": 363,
-        "retweets": 68,
-        "replies": 50,
-        "likes_h": "363"
+        "likes": 368,
+        "retweets": 73,
+        "replies": 55,
+        "likes_h": "368"
       },
-      "engagement": 549,
+      "engagement": 569,
       "hot": false
     },
     {
@@ -80,16 +327,16 @@
       "reasons": [
         "report-worthy",
         "tech substance (gpt, reasoning)",
-        "high engagement (5.4K likes)",
+        "high engagement (5.8K likes)",
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 5392,
-        "retweets": 437,
-        "replies": 295,
-        "likes_h": "5.4K"
+        "likes": 5751,
+        "retweets": 468,
+        "replies": 337,
+        "likes_h": "5.8K"
       },
-      "engagement": 6561,
+      "engagement": 7024,
       "hot": true
     },
     {
@@ -121,16 +368,16 @@
       "sentiment_score": -0.5,
       "reasons": [
         "report-worthy",
-        "high engagement (1.9K likes)",
+        "high engagement (2K likes)",
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 1922,
-        "retweets": 139,
-        "replies": 186,
-        "likes_h": "1.9K"
+        "likes": 1971,
+        "retweets": 148,
+        "replies": 196,
+        "likes_h": "2K"
       },
-      "engagement": 2386,
+      "engagement": 2463,
       "hot": false
     },
     {
@@ -163,15 +410,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (model, reasoning)",
-        "high engagement (748 likes)"
+        "high engagement (762 likes)"
       ],
       "metrics": {
-        "likes": 748,
-        "retweets": 100,
-        "replies": 68,
-        "likes_h": "748"
+        "likes": 762,
+        "retweets": 105,
+        "replies": 83,
+        "likes_h": "762"
       },
-      "engagement": 1016,
+      "engagement": 1055,
       "hot": false
     },
     {
@@ -204,15 +451,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (models, chips, data center)",
-        "high engagement (792 likes)"
+        "high engagement (793 likes)"
       ],
       "metrics": {
-        "likes": 792,
-        "retweets": 130,
-        "replies": 88,
-        "likes_h": "792"
+        "likes": 793,
+        "retweets": 129,
+        "replies": 90,
+        "likes_h": "793"
       },
-      "engagement": 1140,
+      "engagement": 1141,
       "hot": false
     },
     {
@@ -245,15 +492,15 @@
       "reasons": [
         "report-worthy",
         "links to a source",
-        "high engagement (13.1K likes)"
+        "high engagement (14K likes)"
       ],
       "metrics": {
-        "likes": 13127,
-        "retweets": 3571,
-        "replies": 3938,
-        "likes_h": "13.1K"
+        "likes": 14025,
+        "retweets": 4018,
+        "replies": 4569,
+        "likes_h": "14K"
       },
-      "engagement": 24207,
+      "engagement": 26630,
       "hot": true
     },
     {
@@ -289,12 +536,12 @@
         "high engagement (6.8K likes)"
       ],
       "metrics": {
-        "likes": 6778,
+        "likes": 6803,
         "retweets": 690,
-        "replies": 219,
+        "replies": 221,
         "likes_h": "6.8K"
       },
-      "engagement": 8377,
+      "engagement": 8404,
       "hot": true
     },
     {
@@ -328,12 +575,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 246,
+        "likes": 247,
         "retweets": 26,
         "replies": 22,
-        "likes_h": "246"
+        "likes_h": "247"
       },
-      "engagement": 320,
+      "engagement": 321,
       "hot": false
     },
     {
@@ -410,15 +657,15 @@
         "reply / conversation",
         "announcement language (rolling out)",
         "business signal (enterprise)",
-        "high engagement (974 likes)"
+        "high engagement (986 likes)"
       ],
       "metrics": {
-        "likes": 974,
-        "retweets": 60,
-        "replies": 80,
-        "likes_h": "974"
+        "likes": 986,
+        "retweets": 61,
+        "replies": 82,
+        "likes_h": "986"
       },
-      "engagement": 1174,
+      "engagement": 1190,
       "hot": false
     },
     {
@@ -455,12 +702,12 @@
         "high engagement (1.1K likes)"
       ],
       "metrics": {
-        "likes": 1132,
+        "likes": 1137,
         "retweets": 50,
         "replies": 48,
         "likes_h": "1.1K"
       },
-      "engagement": 1280,
+      "engagement": 1285,
       "hot": false
     },
     {
@@ -494,15 +741,15 @@
         "report-worthy",
         "announcement language (introducing)",
         "tech substance (gpt, agent)",
-        "high engagement (20.8K likes)"
+        "high engagement (21.2K likes)"
       ],
       "metrics": {
-        "likes": 20816,
-        "retweets": 2132,
-        "replies": 985,
-        "likes_h": "20.8K"
+        "likes": 21196,
+        "retweets": 2179,
+        "replies": 1071,
+        "likes_h": "21.2K"
       },
-      "engagement": 26065,
+      "engagement": 26625,
       "hot": true
     },
     {
@@ -625,12 +872,12 @@
         "high engagement (1.5K likes)"
       ],
       "metrics": {
-        "likes": 1527,
-        "retweets": 135,
-        "replies": 178,
+        "likes": 1549,
+        "retweets": 136,
+        "replies": 182,
         "likes_h": "1.5K"
       },
-      "engagement": 1975,
+      "engagement": 2003,
       "hot": false
     },
     {
@@ -668,12 +915,12 @@
         "high engagement (5K likes)"
       ],
       "metrics": {
-        "likes": 4980,
-        "retweets": 584,
-        "replies": 273,
+        "likes": 4988,
+        "retweets": 587,
+        "replies": 277,
         "likes_h": "5K"
       },
-      "engagement": 6421,
+      "engagement": 6439,
       "hot": true
     },
     {
@@ -708,15 +955,15 @@
         "casual tone (this)",
         "tech substance (research)",
         "links to a source",
-        "high engagement (1.6K likes)"
+        "high engagement (1.7K likes)"
       ],
       "metrics": {
-        "likes": 1649,
+        "likes": 1660,
         "retweets": 143,
-        "replies": 108,
-        "likes_h": "1.6K"
+        "replies": 109,
+        "likes_h": "1.7K"
       },
-      "engagement": 2043,
+      "engagement": 2055,
       "hot": false
     },
     {
@@ -1092,252 +1339,6 @@
         "likes_h": "487"
       },
       "engagement": 668,
-      "hot": false
-    },
-    {
-      "id": "x_2074740539874775163",
-      "title": "Based on strong positive feedback from customers in our beta test program, @SpaceXAI will make Grok 4.5 available to the public tomorrow. It is an Opus-class model, but faster, more token-efficient…",
-      "link": "https://x.com/elonmusk/status/2074740539874775163",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Elon Musk · @elonmusk",
-      "handle": "elonmusk",
-      "org": "xAI/Tesla",
-      "published": "2026-07-08T06:21:06.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "xAI/Tesla",
-        "Product"
-      ],
-      "summary": "Based on strong positive feedback from customers in our beta test program, @SpaceXAI will make Grok 4.5 available to the public tomorrow. It is an Opus-class model, but faster, more token-efficient and lower cost.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 79,
-      "sentiment": "positive",
-      "sentiment_score": 1,
-      "reasons": [
-        "report-worthy",
-        "casual tone (based)",
-        "tech substance (model, grok, opus)",
-        "business signal (customers)",
-        "high engagement (56.4K likes)"
-      ],
-      "metrics": {
-        "likes": 56381,
-        "retweets": 6573,
-        "replies": 6385,
-        "likes_h": "56.4K"
-      },
-      "engagement": 75912,
-      "hot": true
-    },
-    {
-      "id": "x_2074584281662300649",
-      "title": "Join NVIDIA for AI in Production Day at SIGGRAPH 2026. 🎥 On Thursday, July 23, explore how generative and agentic AI are moving into real-world creative pipelines through a full day of sessions…",
-      "link": "https://x.com/nvidia/status/2074584281662300649",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-07-07T20:00:11.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Commentary"
-      ],
-      "summary": "Join NVIDIA for AI in Production Day at SIGGRAPH 2026. 🎥 On Thursday, July 23, explore how generative and agentic AI are moving into real-world creative pipelines through a full day of sessions focused on film, animation, storytelling, and production workflows. Hear from",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 57,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy"
-      ],
-      "metrics": {
-        "likes": 259,
-        "retweets": 31,
-        "replies": 27,
-        "likes_h": "259"
-      },
-      "engagement": 348,
-      "hot": false
-    },
-    {
-      "id": "x_2074577662840832382",
-      "title": "Introducing Muse Image and Muse Video, the first media generation models developed by Meta Superintelligence Labs. Muse Image is our most advanced image generation model yet. It follows instructions…",
-      "link": "https://x.com/AIatMeta/status/2074577662840832382",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "AI at Meta · @AIatMeta",
-      "handle": "AIatMeta",
-      "org": "Meta",
-      "published": "2026-07-07T19:33:53.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product launch",
-      "categories": [
-        "X",
-        "Meta",
-        "Product launch"
-      ],
-      "summary": "Introducing Muse Image and Muse Video, the first media generation models developed by Meta Superintelligence Labs. Muse Image is our most advanced image generation model yet. It follows instructions faithfully, edits with precision, composes from multiple references, and draws",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 100,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "announcement language (introducing)",
-        "tech substance (model, models)",
-        "high engagement (2.4K likes)"
-      ],
-      "metrics": {
-        "likes": 2381,
-        "retweets": 366,
-        "replies": 164,
-        "likes_h": "2.4K"
-      },
-      "engagement": 3277,
-      "hot": true
-    },
-    {
-      "id": "x_2074554037509185674",
-      "title": "🌍 20 million lives impacted every single year. That is the power of technology when it is purposefully engineered to serve humanity. In many low and middle-income countries, healthcare professionals…",
-      "link": "https://x.com/nvidia/status/2074554037509185674",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-07-07T18:00:00.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Funding & deals",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Funding & deals"
-      ],
-      "summary": "🌍 20 million lives impacted every single year. That is the power of technology when it is purposefully engineered to serve humanity. In many low and middle-income countries, healthcare professionals face immense barriers such as unreliable internet, a lack of localized",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 86,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "business signal (million)",
-        "concrete metrics"
-      ],
-      "metrics": {
-        "likes": 221,
-        "retweets": 27,
-        "replies": 26,
-        "likes_h": "221"
-      },
-      "engagement": 301,
-      "hot": false
-    },
-    {
-      "id": "x_2074513661750546762",
-      "title": "🏛️ We’re unveiling a new way to converse with the ancient world. By grounding Gemini directly in our expert models Aeneas and Ithaca, our Predicting the Past Skill in Google @antigravity lets…",
-      "link": "https://x.com/GoogleDeepMind/status/2074513661750546762",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Google DeepMind · @GoogleDeepMind",
-      "handle": "GoogleDeepMind",
-      "org": "Google",
-      "published": "2026-07-07T15:19:34.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "Google",
-        "Product"
-      ],
-      "summary": "🏛️ We’re unveiling a new way to converse with the ancient world. By grounding Gemini directly in our expert models Aeneas and Ithaca, our Predicting the Past Skill in Google @antigravity lets historians study Greek and Latin texts using plain English. 🧵",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 82,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (models, gemini)"
-      ],
-      "metrics": {
-        "likes": 602,
-        "retweets": 94,
-        "replies": 53,
-        "likes_h": "602"
-      },
-      "engagement": 843,
-      "hot": false
-    },
-    {
-      "id": "x_2074510027897844105",
-      "title": "NVIDIA Vera: The Max Single-Threaded CPU at Scale. Agentic AI systems run sequentially, each reasoning step, tool call, and code execution happens one at a time on the CPU. When that CPU slows under…",
-      "link": "https://x.com/nvidia/status/2074510027897844105",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-07-07T15:05:07.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Research"
-      ],
-      "summary": "NVIDIA Vera: The Max Single-Threaded CPU at Scale. Agentic AI systems run sequentially, each reasoning step, tool call, and code execution happens one at a time on the CPU. When that CPU slows under load, the entire agentic loop slows and valuable GPUs go underutilized. A max",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 82,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (gpus, reasoning)",
-        "high engagement (895 likes)"
-      ],
-      "metrics": {
-        "likes": 895,
-        "retweets": 103,
-        "replies": 65,
-        "likes_h": "895"
-      },
-      "engagement": 1166,
       "hot": false
     }
   ]
