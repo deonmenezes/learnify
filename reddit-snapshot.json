@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-07-14T19:28:13.888Z",
+  "generated_at": "2026-07-14T20:42:58.753Z",
   "subs": [
     "MachineLearning",
-    "LocalLLaMA",
-    "bodyweightfitness",
-    "startups",
+    "singularity",
+    "nutrition",
     "longevity",
+    "LocalLLaMA",
     "Futurology",
     "robotics",
     "netsec",
+    "startups",
     "gadgets",
     "investing",
     "cybersecurity",
     "SkincareAddiction",
     "artificial",
-    "nutrition",
     "hardware",
     "science"
   ],
   "count": 36,
   "by_category": {
-    "Science": 10,
-    "AI / ML": 8,
-    "Robotics": 4,
+    "Science": 9,
+    "Fitness": 2,
+    "AI / ML": 11,
+    "Robotics": 3,
     "Security": 4,
     "Startups & Funding": 3,
     "Hardware & Gadgets": 3,
-    "Skincare": 1,
-    "Fitness": 3
+    "Skincare": 1
   },
   "articles": [
     {
@@ -63,6 +63,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/longevity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uvszbj",
+      "title": "Coffee with butter?",
+      "link": "https://www.reddit.com/r/nutrition/comments/1uvszbj/coffee_with_butter/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/nutrition · community knowledge",
+      "content_type": "post",
+      "author": "u/0URD4YSAR3NUM83RED · r/nutrition",
+      "handle": "nutrition",
+      "org": "r/nutrition",
+      "platform": "reddit",
+      "published": "2026-07-14T00:16:04.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Nutrition",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "Nutrition",
+        "r/nutrition"
+      ],
+      "summary": "Read a post about people putting butter in their black coffee, why?? What’s the benefits and how does this affect your macros if worrying about that? &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/nutrition this week"
       ],
       "metrics": {
         "likes": 0,
@@ -348,6 +388,46 @@
       }
     },
     {
+      "id": "reddit_1uv399n",
+      "title": "Yuji Tachikawa, one of the world’s leading theoretical physicists, reports Claude Fable solved a problem that he and his collaborators had gotten stuck on for the past 6 months",
+      "link": "https://www.reddit.com/r/singularity/comments/1uv399n/yuji_tachikawa_one_of_the_worlds_leading/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/singularity · community knowledge",
+      "content_type": "post",
+      "author": "u/socoolandawesome · r/singularity",
+      "handle": "singularity",
+      "org": "r/singularity",
+      "platform": "reddit",
+      "published": "2026-07-13T06:12:03.000Z",
+      "image": "https://preview.redd.it/opgu0t0cvxch1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=d086806a4291f1a5ad4e11d767ef05362153c72d",
+      "thumbnail": "https://preview.redd.it/opgu0t0cvxch1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=d086806a4291f1a5ad4e11d767ef05362153c72d",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/singularity"
+      ],
+      "summary": "Link to tweet: https://x.com/yujitach/status/2076327681562644709?s=20 Edit: He has since deleted his tweet, not because he takes back what he said or anything like that, but because he didn’t like the type of attention he was getting: https://x.com/yujitach/status/2076682201626992776?s=20 &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/singularity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1uv1xb3",
       "title": "Prompt-engineering paper accepted to ICML [R]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1uv1xb3/promptengineering_paper_accepted_to_icml_r/",
@@ -537,6 +617,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/robotics this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uu8vjo",
+      "title": "The worst people are fighting",
+      "link": "https://www.reddit.com/r/singularity/comments/1uu8vjo/the_worst_people_are_fighting/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/singularity · community knowledge",
+      "content_type": "post",
+      "author": "u/VariationLivid3193 · r/singularity",
+      "handle": "singularity",
+      "org": "r/singularity",
+      "platform": "reddit",
+      "published": "2026-07-12T07:41:00.000Z",
+      "image": "https://preview.redd.it/yfvv02la6rch1.jpeg?width=640&crop=smart&auto=webp&s=0dc6d33b4eed1238edbc83c289a876738e8c830d",
+      "thumbnail": "https://preview.redd.it/yfvv02la6rch1.jpeg?width=640&crop=smart&auto=webp&s=0dc6d33b4eed1238edbc83c289a876738e8c830d",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/singularity"
+      ],
+      "summary": "The worst people are fighting",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/singularity this week"
       ],
       "metrics": {
         "likes": 0,
@@ -782,6 +902,46 @@
       }
     },
     {
+      "id": "reddit_1utq7zm",
+      "title": "Sam Altman showing signs of singularity",
+      "link": "https://www.reddit.com/r/singularity/comments/1utq7zm/sam_altman_showing_signs_of_singularity/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/singularity · community knowledge",
+      "content_type": "post",
+      "author": "u/Fearless-Elephant-81 · r/singularity",
+      "handle": "singularity",
+      "org": "r/singularity",
+      "platform": "reddit",
+      "published": "2026-07-11T17:30:41.000Z",
+      "image": "https://preview.redd.it/vj30ao2lymch1.jpeg?width=640&crop=smart&auto=webp&s=19959724bd202f04aa3d1bd83e48db9c2be94fcc",
+      "thumbnail": "https://preview.redd.it/vj30ao2lymch1.jpeg?width=640&crop=smart&auto=webp&s=19959724bd202f04aa3d1bd83e48db9c2be94fcc",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/singularity"
+      ],
+      "summary": "It’s quite interesting to me how (relatively) cheap it is. That’s the headline for me. Combined with the recent math finding it’s also starting to show how general models are the way even for frontier intelligence. I would also say small/medium coding tasks is pretty much solved too (not engineering/system design etc,…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/singularity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1utpuci",
       "title": "First full-body movements of my DIY robot lamp",
       "link": "https://www.reddit.com/r/robotics/comments/1utpuci/first_fullbody_movements_of_my_diy_robot_lamp/",
@@ -932,6 +1092,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/artificial this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1utjtok",
+      "title": "Tim cook writes to sam altman",
+      "link": "https://www.reddit.com/r/singularity/comments/1utjtok/tim_cook_writes_to_sam_altman/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/singularity · community knowledge",
+      "content_type": "post",
+      "author": "u/VariationLivid3193 · r/singularity",
+      "handle": "singularity",
+      "org": "r/singularity",
+      "platform": "reddit",
+      "published": "2026-07-11T13:14:20.000Z",
+      "image": "https://preview.redd.it/zhpzespuolch1.png?width=640&crop=smart&auto=webp&s=75cec1c9a8a17ed271b61ef1b3993b41d045aaa4",
+      "thumbnail": "https://preview.redd.it/zhpzespuolch1.png?width=640&crop=smart&auto=webp&s=75cec1c9a8a17ed271b61ef1b3993b41d045aaa4",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/singularity"
+      ],
+      "summary": "Tim cook writes to sam altman",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/singularity this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1247,202 +1447,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/longevity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ustmvg",
-      "title": "Built an open-source 5-axis desktop robot arm with ESP32 for under $100 in parts",
-      "link": "https://www.reddit.com/r/robotics/comments/1ustmvg/built_an_opensource_5axis_desktop_robot_arm_with/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/robotics · community knowledge",
-      "content_type": "post",
-      "author": "u/ConferenceFew7697 · r/robotics",
-      "handle": "robotics",
-      "org": "r/robotics",
-      "platform": "reddit",
-      "published": "2026-07-10T17:06:39.000Z",
-      "image": "https://preview.redd.it/1md06s1epfch1.jpeg?width=640&crop=smart&auto=webp&s=cdff7c52c21b8a3a1401cb91a310e8b68c595461",
-      "thumbnail": "https://preview.redd.it/1md06s1epfch1.jpeg?width=640&crop=smart&auto=webp&s=cdff7c52c21b8a3a1401cb91a310e8b68c595461",
-      "section": "Robotics",
-      "category": "Robotics",
-      "genre": "Robotics",
-      "categories": [
-        "Reddit",
-        "Robotics",
-        "r/robotics"
-      ],
-      "summary": "Hey r/robotics ! After months of design and testing, I finally have a working 5-axis robot arm fully printable in PLA or PETG — no CNC, no laser cutter, just your printer. Here&#39;s what makes it different: - 5 axes (shoulder, elbow, wrist, gripper + base stepper motor) - ESP32 brain — totally open-source firmware -…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/robotics this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1usqil9",
-      "title": "Are pushups, rows and dips enough?",
-      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1usqil9/are_pushups_rows_and_dips_enough/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/bodyweightfitness · community knowledge",
-      "content_type": "post",
-      "author": "u/newnukeuser · r/bodyweightfitness",
-      "handle": "bodyweightfitness",
-      "org": "r/bodyweightfitness",
-      "platform": "reddit",
-      "published": "2026-07-10T15:13:54.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/bodyweightfitness"
-      ],
-      "summary": "&#x200B; Are just pushups, inverted rows, and dips enough for the upper body? I don&#39;t really want to get any more equipment right now or workout outside the house, so I&#39;m not doing any pull-ups. (And truthfully I&#39;m probably a long way off from accomplishing pull-ups anyways.) Does the combination of rows…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/bodyweightfitness this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1usq43t",
-      "title": "Why doesn't the ML research community limit the number of submissions per author? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1usq43t/why_doesnt_the_ml_research_community_limit_the/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/MachineLearning · community knowledge",
-      "content_type": "post",
-      "author": "u/alafaya101 · r/MachineLearning",
-      "handle": "MachineLearning",
-      "org": "r/MachineLearning",
-      "platform": "reddit",
-      "published": "2026-07-10T14:59:23.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/MachineLearning"
-      ],
-      "summary": "I am currently working across multiple research communities, and I&#39;ve noticed that the ML community is struggling with a massive volume of submissions, which is affecting review quality (as we are seeing in the recent ARR cycles). I am wondering what the reasoning is for not limiting the number of submissions per…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/MachineLearning this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1usnkca",
-      "title": "What do you tell yourself when you dont feel like working out?",
-      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1usnkca/what_do_you_tell_yourself_when_you_dont_feel_like/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/bodyweightfitness · community knowledge",
-      "content_type": "post",
-      "author": "u/ArmadilloChance3778 · r/bodyweightfitness",
-      "handle": "bodyweightfitness",
-      "org": "r/bodyweightfitness",
-      "platform": "reddit",
-      "published": "2026-07-10T13:22:07.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/bodyweightfitness"
-      ],
-      "summary": "I never used to have problems with working out consistently for years before. Nowadays, Im on a weight loss journey again bc I gained weight on zyprexa (still on it bc otherwise my depression spirals) and I find myself unmotivated and looking fir excuses (mainly too tired, too lethargic) to not exercise. I tell myself…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/bodyweightfitness this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1usk7vu",
-      "title": "Modern human-made environments with striped patterns, cluttered interiors, high-contrast colours, flickering lights and densely packed supermarket shelves can overload the brain, increasing visual discomfort, eyestrain, stress and feelings of being overwhelmed in some people",
-      "link": "https://www.reddit.com/r/science/comments/1usk7vu/modern_humanmade_environments_with_striped/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/science · community knowledge",
-      "content_type": "post",
-      "author": "u/sr_local · r/science",
-      "handle": "science",
-      "org": "r/science",
-      "platform": "reddit",
-      "published": "2026-07-10T10:52:53.000Z",
-      "image": "https://external-preview.redd.it/nEVhcgclloGQuGZbpKg8ztJVadbEcJPhEbxz1gIsrXs.jpeg?width=640&crop=smart&auto=webp&s=510c5f6d6c492179da9e822b96c5e23bbdafdceb",
-      "thumbnail": "https://external-preview.redd.it/nEVhcgclloGQuGZbpKg8ztJVadbEcJPhEbxz1gIsrXs.jpeg?width=640&crop=smart&auto=webp&s=510c5f6d6c492179da9e822b96c5e23bbdafdceb",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/science"
-      ],
-      "summary": "Modern human-made environments with striped patterns, cluttered interiors, high-contrast colours, flickering lights and densely packed supermarket shelves can overload the brain, increasing visual discomfort, eyestrain, stress and feelings of being overwhelmed in some people",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/science this week"
       ],
       "metrics": {
         "likes": 0,
