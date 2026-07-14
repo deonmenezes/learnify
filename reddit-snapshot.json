@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-14T04:10:10.509Z",
+  "generated_at": "2026-07-14T06:39:33.183Z",
   "subs": [
     "MachineLearning",
-    "LocalLLaMA",
-    "bodyweightfitness",
-    "startups",
-    "robotics",
     "Futurology",
+    "gadgets",
+    "LocalLLaMA",
+    "robotics",
     "longevity",
+    "startups",
     "investing",
     "cybersecurity",
     "SkincareAddiction",
@@ -15,20 +15,20 @@
     "nutrition",
     "hardware",
     "science",
-    "gadgets",
+    "bodyweightfitness",
     "singularity",
     "programming"
   ],
   "count": 36,
   "by_category": {
     "AI / ML": 9,
-    "Robotics": 5,
     "Science": 7,
+    "Robotics": 4,
+    "Hardware & Gadgets": 5,
     "Startups & Funding": 2,
     "Security": 2,
     "Skincare": 2,
     "Fitness": 4,
-    "Hardware & Gadgets": 4,
     "Coding & Dev Tools": 1
   },
   "articles": [
@@ -65,6 +65,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/LocalLLaMA this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uvk2vv",
+      "title": "Scientists found a bacterium in the gut of a Japanese tree frog that eliminated colorectal tumors in 100% of treated mice with a single intravenous dose, outperforming standard chemotherapy and immunotherapy. The results are preclinical, published in Gut Microbes, and human trials are the next step.",
+      "link": "https://www.reddit.com/r/Futurology/comments/1uvk2vv/scientists_found_a_bacterium_in_the_gut_of_a/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/Futurology · community knowledge",
+      "content_type": "post",
+      "author": "u/ElectronicBuy8105 · r/Futurology",
+      "handle": "Futurology",
+      "org": "r/Futurology",
+      "platform": "reddit",
+      "published": "2026-07-13T18:36:41.000Z",
+      "image": "https://external-preview.redd.it/uAI8fXGYXA1UnSLjMo7ZIgICreRv30Azf7p1QWuOFn0.jpeg?width=640&crop=smart&auto=webp&s=3013f98bc73b390a4b5ff599982296b05ecfb6ae",
+      "thumbnail": "https://external-preview.redd.it/uAI8fXGYXA1UnSLjMo7ZIgICreRv30Azf7p1QWuOFn0.jpeg?width=640&crop=smart&auto=webp&s=3013f98bc73b390a4b5ff599982296b05ecfb6ae",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/Futurology"
+      ],
+      "summary": "Scientists found a bacterium in the gut of a Japanese tree frog that eliminated colorectal tumors in 100% of treated mice with a single intravenous dose, outperforming standard chemotherapy and immunotherapy. The results are preclinical, published in Gut Microbes, and human trials are the next step.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/Futurology this week"
       ],
       "metrics": {
         "likes": 0,
@@ -184,6 +223,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uuvbwa",
+      "title": "Special Microsoft Flight Simulator controller is coming to Xbox",
+      "link": "https://www.reddit.com/r/gadgets/comments/1uuvbwa/special_microsoft_flight_simulator_controller_is/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/gadgets · community knowledge",
+      "content_type": "post",
+      "author": "u/dapperlemon · r/gadgets",
+      "handle": "gadgets",
+      "org": "r/gadgets",
+      "platform": "reddit",
+      "published": "2026-07-12T23:43:49.000Z",
+      "image": "https://external-preview.redd.it/IKR7ftKWZtV9F604xnHLXXrFY7O72SLwXNQFMR2U3qk.jpeg?width=640&crop=smart&auto=webp&s=79cd0dc092bc7ee2fbfab75f1de9a81aad511419",
+      "thumbnail": "https://external-preview.redd.it/IKR7ftKWZtV9F604xnHLXXrFY7O72SLwXNQFMR2U3qk.jpeg?width=640&crop=smart&auto=webp&s=79cd0dc092bc7ee2fbfab75f1de9a81aad511419",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/gadgets"
+      ],
+      "summary": "Special Microsoft Flight Simulator controller is coming to Xbox",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/gadgets this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1365,84 +1443,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/singularity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1urwlds",
-      "title": "Execs Confused and Horrified by the Huge AI Bills After Thinking They Could Replace Workers for Free",
-      "link": "https://www.reddit.com/r/Futurology/comments/1urwlds/execs_confused_and_horrified_by_the_huge_ai_bills/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/Futurology · community knowledge",
-      "content_type": "post",
-      "author": "u/hgwelz · r/Futurology",
-      "handle": "Futurology",
-      "org": "r/Futurology",
-      "platform": "reddit",
-      "published": "2026-07-09T17:15:19.000Z",
-      "image": "https://external-preview.redd.it/wnnWZXxtlcv15naVRDGppCOrkroGjwIzaPXNh6ph00s.jpeg?width=640&crop=smart&auto=webp&s=68e3d55779fec563fdd12276e2ab5476412f9d44",
-      "thumbnail": "https://external-preview.redd.it/wnnWZXxtlcv15naVRDGppCOrkroGjwIzaPXNh6ph00s.jpeg?width=640&crop=smart&auto=webp&s=68e3d55779fec563fdd12276e2ab5476412f9d44",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/Futurology"
-      ],
-      "summary": "Execs Confused and Horrified by the Huge AI Bills After Thinking They Could Replace Workers for Free",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/Futurology this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1urw006",
-      "title": "After many iterations, my quadruped robot finally climbed stairs!",
-      "link": "https://www.reddit.com/r/robotics/comments/1urw006/after_many_iterations_my_quadruped_robot_finally/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/robotics · community knowledge",
-      "content_type": "post",
-      "author": "u/yoggi56 · r/robotics",
-      "handle": "robotics",
-      "org": "r/robotics",
-      "platform": "reddit",
-      "published": "2026-07-09T16:54:45.000Z",
-      "image": "https://external-preview.redd.it/Y3d2ZmtnNzZpOGNoMWQUeccw-ScAeL_BtVFJBkPnYM54QEoW_BhiO84VelCg.png?width=640&crop=smart&auto=webp&s=2bedd0c88c4c5a0a722ecf250f287c3fc0df2989",
-      "thumbnail": "https://external-preview.redd.it/Y3d2ZmtnNzZpOGNoMWQUeccw-ScAeL_BtVFJBkPnYM54QEoW_BhiO84VelCg.png?width=640&crop=smart&auto=webp&s=2bedd0c88c4c5a0a722ecf250f287c3fc0df2989",
-      "section": "Robotics",
-      "category": "Robotics",
-      "genre": "Robotics",
-      "categories": [
-        "Reddit",
-        "Robotics",
-        "r/robotics"
-      ],
-      "summary": "I’m continuing to improve the locomotion algorithm for my quadruped robot. The current control stack uses MPC and WBC for body posture and motion control. Footholds are selected based on a height map built from depth camera data In this experiment, the robot successfully climbs stairs with a step height of 5 cm and a…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/robotics this week"
       ],
       "metrics": {
         "likes": 0,
