@@ -1,15 +1,56 @@
 {
-  "generated_at": "2026-07-14T06:37:20.180Z",
+  "generated_at": "2026-07-14T09:08:24.654Z",
   "handles": [
     "nvidia",
-    "AnthropicAI",
     "GoogleDeepMind",
+    "AIatMeta",
+    "AnthropicAI",
     "OpenAI",
-    "elonmusk",
-    "AIatMeta"
+    "elonmusk"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2076796351241728218",
+      "title": "Leading companies are already compounding value with full-stack open inference software on NVIDIA Blackwell: Baseten used TensorRT LLM to serve DeepSeek V4 Pro on Blackwell, applying proprietary…",
+      "link": "https://x.com/nvidia/status/2076796351241728218",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-07-13T22:30:09.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Research"
+      ],
+      "summary": "Leading companies are already compounding value with full-stack open inference software on NVIDIA Blackwell: Baseten used TensorRT LLM to serve DeepSeek V4 Pro on Blackwell, applying proprietary runtime optimizations to deliver up to 50% more tokens per second for reasoning,",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 56,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "reply / conversation",
+        "tech substance (tokens, inference, blackwell)"
+      ],
+      "metrics": {
+        "likes": 28,
+        "retweets": 5,
+        "replies": 4,
+        "likes_h": "28"
+      },
+      "engagement": 42,
+      "hot": false
+    },
     {
       "id": "x_2076796336200954047",
       "title": "Open source multiplies the full-stack advantage. PyTorch has surpassed 700 million PyPI downloads with CUDA support — co-evolved with a decade of NVIDIA architecture advances.. Open source frameworks…",
@@ -34,7 +75,7 @@
       "summary": "Open source multiplies the full-stack advantage. PyTorch has surpassed 700 million PyPI downloads with CUDA support — co-evolved with a decade of NVIDIA architecture advances.. Open source frameworks built on CUDA mean every AI breakthrough runs on NVIDIA from day one. NVIDIA",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 63,
+      "worthiness_score": 65,
       "sentiment": "positive",
       "sentiment_score": 1,
       "reasons": [
@@ -45,12 +86,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 5,
+        "likes": 13,
         "retweets": 0,
-        "replies": 3,
-        "likes_h": "5"
+        "replies": 4,
+        "likes_h": "13"
       },
-      "engagement": 8,
+      "engagement": 17,
       "hot": false
     },
     {
@@ -77,7 +118,7 @@
       "summary": "As organizations move from AI pilots to production, infrastructure decisions have shifted from peak chip specs to cost per token: how many useful tokens they can deliver per dollar, per watt, and within required latency targets. NVIDIA's full-stack inference software",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 82,
+      "worthiness_score": 84,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -85,12 +126,12 @@
         "tech substance (tokens, inference, chip)"
       ],
       "metrics": {
-        "likes": 78,
-        "retweets": 15,
-        "replies": 19,
-        "likes_h": "78"
+        "likes": 173,
+        "retweets": 35,
+        "replies": 24,
+        "likes_h": "173"
       },
-      "engagement": 127,
+      "engagement": 267,
       "hot": false
     },
     {
@@ -202,7 +243,7 @@
       "summary": "What’s the saying about the early bird and the worm? 🐦🪱 #NVIDIAGTC Berlin discounted pricing is available for a limited time only - join us for the latest in AI, accelerated computing, robotics, simulation, and more.",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 74,
+      "worthiness_score": 75,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -210,12 +251,12 @@
         "tech substance (robotics)"
       ],
       "metrics": {
-        "likes": 220,
-        "retweets": 31,
-        "replies": 43,
-        "likes_h": "220"
+        "likes": 304,
+        "retweets": 42,
+        "replies": 49,
+        "likes_h": "304"
       },
-      "engagement": 325,
+      "engagement": 437,
       "hot": false
     },
     {
@@ -249,12 +290,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 298,
-        "retweets": 36,
-        "replies": 31,
-        "likes_h": "298"
+        "likes": 343,
+        "retweets": 41,
+        "replies": 39,
+        "likes_h": "343"
       },
-      "engagement": 401,
+      "engagement": 464,
       "hot": false
     },
     {
@@ -289,12 +330,12 @@
         "tech substance (platform)"
       ],
       "metrics": {
-        "likes": 368,
-        "retweets": 73,
+        "likes": 371,
+        "retweets": 70,
         "replies": 55,
-        "likes_h": "368"
+        "likes_h": "371"
       },
-      "engagement": 569,
+      "engagement": 566,
       "hot": false
     },
     {
@@ -410,15 +451,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (model, reasoning)",
-        "high engagement (762 likes)"
+        "high engagement (767 likes)"
       ],
       "metrics": {
-        "likes": 762,
-        "retweets": 105,
-        "replies": 83,
-        "likes_h": "762"
+        "likes": 767,
+        "retweets": 107,
+        "replies": 86,
+        "likes_h": "767"
       },
-      "engagement": 1055,
+      "engagement": 1067,
       "hot": false
     },
     {
@@ -451,15 +492,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (models, chips, data center)",
-        "high engagement (793 likes)"
+        "high engagement (792 likes)"
       ],
       "metrics": {
-        "likes": 793,
+        "likes": 792,
         "retweets": 129,
         "replies": 90,
-        "likes_h": "793"
+        "likes_h": "792"
       },
-      "engagement": 1141,
+      "engagement": 1140,
       "hot": false
     },
     {
@@ -915,12 +956,12 @@
         "high engagement (5K likes)"
       ],
       "metrics": {
-        "likes": 4988,
-        "retweets": 587,
+        "likes": 4993,
+        "retweets": 580,
         "replies": 277,
         "likes_h": "5K"
       },
-      "engagement": 6439,
+      "engagement": 6430,
       "hot": true
     },
     {
@@ -1298,47 +1339,6 @@
         "likes_h": "1.3K"
       },
       "engagement": 1490,
-      "hot": false
-    },
-    {
-      "id": "x_2074872091388903774",
-      "title": "Enterprises don’t just need agents that perform. They need agents they can shape, govern and improve as their business evolves. That’s the idea behind our work with LangChain. Read more:…",
-      "link": "https://x.com/nvidia/status/2074872091388903774",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-07-08T15:03:50.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product"
-      ],
-      "summary": "Enterprises don’t just need agents that perform. They need agents they can shape, govern and improve as their business evolves. That’s the idea behind our work with LangChain. Read more: https://nvda.ws/4p6tDjg",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 82,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (agents)",
-        "links to a source"
-      ],
-      "metrics": {
-        "likes": 487,
-        "retweets": 71,
-        "replies": 39,
-        "likes_h": "487"
-      },
-      "engagement": 668,
       "hot": false
     }
   ]

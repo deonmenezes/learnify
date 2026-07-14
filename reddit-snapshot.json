@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-07-14T06:39:33.183Z",
+  "generated_at": "2026-07-14T09:10:39.253Z",
   "subs": [
     "MachineLearning",
-    "Futurology",
-    "gadgets",
+    "science",
+    "netsec",
     "LocalLLaMA",
+    "Futurology",
     "robotics",
+    "gadgets",
     "longevity",
     "startups",
     "investing",
@@ -14,22 +16,19 @@
     "artificial",
     "nutrition",
     "hardware",
-    "science",
     "bodyweightfitness",
-    "singularity",
-    "programming"
+    "singularity"
   ],
   "count": 36,
   "by_category": {
-    "AI / ML": 9,
+    "AI / ML": 8,
     "Science": 7,
     "Robotics": 4,
+    "Security": 4,
     "Hardware & Gadgets": 5,
     "Startups & Funding": 2,
-    "Security": 2,
     "Skincare": 2,
-    "Fitness": 4,
-    "Coding & Dev Tools": 1
+    "Fitness": 4
   },
   "articles": [
     {
@@ -104,6 +103,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Futurology this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uviru5",
+      "title": "Chain of Thought is a scaling trap. the next wave is latent reasoning (Coconut / HRM / RecrusiveMAS)... but then we hit the black box wall. Where does BDH fit? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uviru5/chain_of_thought_is_a_scaling_trap_the_next_wave/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/MachineLearning · community knowledge",
+      "content_type": "post",
+      "author": "u/meowsterpieces · r/MachineLearning",
+      "handle": "MachineLearning",
+      "org": "r/MachineLearning",
+      "platform": "reddit",
+      "published": "2026-07-13T17:50:49.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/MachineLearning"
+      ],
+      "summary": "Read a long piece on the future of LLM reasoning that makes a provocative claim: Chain of Thought is a useful hack but we&#39;ve started to confuse a readable trace with the actual computation. All in all, &quot;generating text is not the same as thinking.&quot; There are two practical problems here: Faithfulness: CoT…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/MachineLearning this week"
       ],
       "metrics": {
         "likes": 0,
@@ -191,6 +230,45 @@
       }
     },
     {
+      "id": "reddit_1uv6qbn",
+      "title": "Dell BIOS Passwords: Weak XOR Encryption Allows Recovery from SPI Flash (CVE-2026-40639)",
+      "link": "https://www.reddit.com/r/netsec/comments/1uv6qbn/dell_bios_passwords_weak_xor_encryption_allows/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/netsec · community knowledge",
+      "content_type": "post",
+      "author": "u/sajkoterrapefft · r/netsec",
+      "handle": "netsec",
+      "org": "r/netsec",
+      "platform": "reddit",
+      "published": "2026-07-13T09:33:49.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/netsec"
+      ],
+      "summary": "Dell BIOS Passwords: Weak XOR Encryption Allows Recovery from SPI Flash (CVE-2026-40639)",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/netsec this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1uv1xb3",
       "title": "Prompt-engineering paper accepted to ICML [R]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1uv1xb3/promptengineering_paper_accepted_to_icml_r/",
@@ -262,6 +340,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/gadgets this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uuquzx",
+      "title": "Vulnerability in Realtek driver allows DMA controller abuse from user mode with no additional hardware or driver",
+      "link": "https://www.reddit.com/r/netsec/comments/1uuquzx/vulnerability_in_realtek_driver_allows_dma/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/netsec · community knowledge",
+      "content_type": "post",
+      "author": "u/zwclose · r/netsec",
+      "handle": "netsec",
+      "org": "r/netsec",
+      "platform": "reddit",
+      "published": "2026-07-12T20:39:14.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/netsec"
+      ],
+      "summary": "The vulnerability allows non-privileged users to program the DMA controller, enabling arbitrary physical memory reads and writes. &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/netsec this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1324,125 +1441,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/SkincareAddiction this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1us5m0g",
-      "title": "GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1us5m0g/glm52_744b_moe_on_a_25gbram_consumer_machine/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/LocalLLaMA · community knowledge",
-      "content_type": "post",
-      "author": "u/yogthos · r/LocalLLaMA",
-      "handle": "LocalLLaMA",
-      "org": "r/LocalLLaMA",
-      "platform": "reddit",
-      "published": "2026-07-09T22:43:02.000Z",
-      "image": "https://external-preview.redd.it/NNWlLPxzyXhbyIUMuz2mW9zvetk56LAOcSGVs0rdPqY.png?width=640&crop=smart&auto=webp&s=4bc51d0f9ad167529370a7eb4ee3d62194c80a9c",
-      "thumbnail": "https://external-preview.redd.it/NNWlLPxzyXhbyIUMuz2mW9zvetk56LAOcSGVs0rdPqY.png?width=640&crop=smart&auto=webp&s=4bc51d0f9ad167529370a7eb4ee3d62194c80a9c",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/LocalLLaMA"
-      ],
-      "summary": "GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/LocalLLaMA this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1us129c",
-      "title": "Postgres is enough for more than we admit",
-      "link": "https://www.reddit.com/r/programming/comments/1us129c/postgres_is_enough_for_more_than_we_admit/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/programming · community knowledge",
-      "content_type": "post",
-      "author": "u/danieltabrizian · r/programming",
-      "handle": "programming",
-      "org": "r/programming",
-      "platform": "reddit",
-      "published": "2026-07-09T19:52:08.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Coding & Dev Tools",
-      "category": "Coding & Dev Tools",
-      "genre": "Coding & Dev Tools",
-      "categories": [
-        "Reddit",
-        "Coding & Dev Tools",
-        "r/programming"
-      ],
-      "summary": "I came across this on Hacker News and felt like I needed to share it with the dev community. The main point is simple: a lot of teams reach for extra databases, queues, search engines, caches, and services before they actually need them. This page lays out where Postgres is usually enough, and where you may actually…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/programming this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1us0av5",
-      "title": "1X unveils NEO's new robotics hands",
-      "link": "https://www.reddit.com/r/singularity/comments/1us0av5/1x_unveils_neos_new_robotics_hands/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/singularity · community knowledge",
-      "content_type": "post",
-      "author": "u/Distinct-Question-16 · r/singularity",
-      "handle": "singularity",
-      "org": "r/singularity",
-      "platform": "reddit",
-      "published": "2026-07-09T19:24:25.000Z",
-      "image": "https://external-preview.redd.it/Mm90aGx6eXI4OWNoMdQn4QsXAlhiLsidsmIOwoqP4Xb8ztcCMsxHuCM1C3wr.png?width=320&crop=smart&auto=webp&s=c3194fa6088c4d6032a46292f92517be6f240b19",
-      "thumbnail": "https://external-preview.redd.it/Mm90aGx6eXI4OWNoMdQn4QsXAlhiLsidsmIOwoqP4Xb8ztcCMsxHuCM1C3wr.png?width=320&crop=smart&auto=webp&s=c3194fa6088c4d6032a46292f92517be6f240b19",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/singularity"
-      ],
-      "summary": "- 25 degrees of freedom: 22 fully actuated in the fingers and palm, plus 3 at the wrist. - The DoF are distributed anatomically rather than evenly, deliberately biased toward a thumb that genuinely opposes the fingers. - In-house tendon-driven, quasi-direct-drive running low gear ratios of ~5:1 to 15:1 vs the typical…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/singularity this week"
       ],
       "metrics": {
         "likes": 0,
