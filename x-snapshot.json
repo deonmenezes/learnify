@@ -1,15 +1,94 @@
 {
-  "generated_at": "2026-07-14T17:43:15.624Z",
+  "generated_at": "2026-07-14T19:25:59.105Z",
   "handles": [
     "nvidia",
-    "AnthropicAI",
     "GoogleDeepMind",
+    "AIatMeta",
+    "AnthropicAI",
     "OpenAI",
-    "elonmusk",
-    "AIatMeta"
+    "elonmusk"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2077075654210695537",
+      "title": "Enterprises need AI they can trust, control and customize. Open models give teams the visibility and ownership to evaluate AI against their standards, specialize AI with domain knowledge, and improve…",
+      "link": "https://x.com/nvidia/status/2077075654210695537",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-07-14T17:00:00.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "Enterprises need AI they can trust, control and customize. Open models give teams the visibility and ownership to evaluate AI against their standards, specialize AI with domain knowledge, and improve accuracy and efficiency.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 72,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "tech substance (models)"
+      ],
+      "metrics": {
+        "likes": 101,
+        "retweets": 14,
+        "replies": 26,
+        "likes_h": "101"
+      },
+      "engagement": 155,
+      "hot": false
+    },
+    {
+      "id": "x_2077060563666866491",
+      "title": "⚡ Performance per watt is the foundational metric for every AI factory today operating in a power-constrained environment. 🧵",
+      "link": "https://x.com/nvidia/status/2077060563666866491",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-07-14T16:00:02.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Commentary"
+      ],
+      "summary": "⚡ Performance per watt is the foundational metric for every AI factory today operating in a power-constrained environment. 🧵",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 56,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy"
+      ],
+      "metrics": {
+        "likes": 176,
+        "retweets": 18,
+        "replies": 17,
+        "likes_h": "176"
+      },
+      "engagement": 229,
+      "hot": false
+    },
     {
       "id": "x_2076796351241728218",
       "title": "Leading companies are already compounding value with full-stack open inference software on NVIDIA Blackwell: Baseten used TensorRT LLM to serve DeepSeek V4 Pro on Blackwell, applying proprietary…",
@@ -44,11 +123,11 @@
       ],
       "metrics": {
         "likes": 28,
-        "retweets": 5,
+        "retweets": 6,
         "replies": 4,
         "likes_h": "28"
       },
-      "engagement": 42,
+      "engagement": 44,
       "hot": false
     },
     {
@@ -126,12 +205,12 @@
         "tech substance (tokens, inference, chip)"
       ],
       "metrics": {
-        "likes": 213,
-        "retweets": 37,
-        "replies": 33,
-        "likes_h": "213"
+        "likes": 225,
+        "retweets": 40,
+        "replies": 34,
+        "likes_h": "225"
       },
-      "engagement": 320,
+      "engagement": 339,
       "hot": false
     },
     {
@@ -251,12 +330,12 @@
         "tech substance (robotics)"
       ],
       "metrics": {
-        "likes": 347,
+        "likes": 355,
         "retweets": 43,
-        "replies": 53,
-        "likes_h": "347"
+        "replies": 54,
+        "likes_h": "355"
       },
-      "engagement": 486,
+      "engagement": 495,
       "hot": false
     },
     {
@@ -290,12 +369,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 368,
-        "retweets": 44,
+        "likes": 377,
+        "retweets": 45,
         "replies": 44,
-        "likes_h": "368"
+        "likes_h": "377"
       },
-      "engagement": 500,
+      "engagement": 511,
       "hot": false
     },
     {
@@ -451,15 +530,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (model, reasoning)",
-        "high engagement (777 likes)"
+        "high engagement (781 likes)"
       ],
       "metrics": {
-        "likes": 777,
-        "retweets": 111,
+        "likes": 781,
+        "retweets": 113,
         "replies": 87,
-        "likes_h": "777"
+        "likes_h": "781"
       },
-      "engagement": 1086,
+      "engagement": 1094,
       "hot": false
     },
     {
@@ -1252,93 +1331,6 @@
         "likes_h": "386"
       },
       "engagement": 415,
-      "hot": false
-    },
-    {
-      "id": "x_2074907025537224840",
-      "title": "Introducing GPT-Live, a new generation of voice models for natural human-AI interaction. Rolling out in ChatGPT starting today. You’ll want to turn the sound on for this one.",
-      "link": "https://x.com/OpenAI/status/2074907025537224840",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-07-08T17:22:39.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product launch",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Product launch"
-      ],
-      "summary": "Introducing GPT-Live, a new generation of voice models for natural human-AI interaction. Rolling out in ChatGPT starting today. You’ll want to turn the sound on for this one.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 100,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "casual tone (this)",
-        "announcement language (introducing, rolling out, starting today)",
-        "tech substance (models, gpt, voice mode)",
-        "high engagement (12.5K likes)"
-      ],
-      "metrics": {
-        "likes": 12494,
-        "retweets": 1014,
-        "replies": 680,
-        "likes_h": "12.5K"
-      },
-      "engagement": 15202,
-      "hot": true
-    },
-    {
-      "id": "x_2074907027378511884",
-      "title": "GPT-Live makes talking with AI feel like having a real conversation. It’s also our smartest voice model yet. https://openai.com/index/introducing-gpt-live/",
-      "link": "https://x.com/OpenAI/status/2074907027378511884",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-07-08T17:22:39.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product launch",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Product launch"
-      ],
-      "summary": "GPT-Live makes talking with AI feel like having a real conversation. It’s also our smartest voice model yet. https://openai.com/index/introducing-gpt-live/",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 88,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "reply / conversation",
-        "announcement language (introducing)",
-        "tech substance (model, gpt, voice mode)",
-        "links to a source",
-        "high engagement (1.3K likes)"
-      ],
-      "metrics": {
-        "likes": 1256,
-        "retweets": 87,
-        "replies": 60,
-        "likes_h": "1.3K"
-      },
-      "engagement": 1490,
       "hot": false
     }
   ]
