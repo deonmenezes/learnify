@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-07-15T17:52:49.731Z",
+  "generated_at": "2026-07-15T19:20:29.065Z",
   "subs": [
     "MachineLearning",
-    "programming",
-    "SkincareAddiction",
+    "longevity",
+    "gadgets",
     "Fitness",
     "Futurology",
-    "longevity",
     "hardware",
     "robotics",
     "cybersecurity",
+    "programming",
     "nutrition",
     "LocalLLaMA",
     "netsec",
     "singularity",
+    "SkincareAddiction",
     "startups",
-    "gadgets",
     "science",
     "investing"
   ],
   "count": 36,
   "by_category": {
     "Fitness": 2,
-    "AI / ML": 8,
-    "Science": 8,
+    "Science": 10,
+    "AI / ML": 7,
     "Hardware & Gadgets": 3,
-    "Robotics": 4,
+    "Robotics": 3,
     "Security": 5,
     "Coding & Dev Tools": 1,
     "Skincare": 2,
@@ -64,6 +64,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Fitness this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uwzbuw",
+      "title": "Lawnmower-like Enzyme Rewinds Decades of Molecular Aging in Human Tissue",
+      "link": "https://www.reddit.com/r/longevity/comments/1uwzbuw/lawnmowerlike_enzyme_rewinds_decades_of_molecular/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/longevity · community knowledge",
+      "content_type": "post",
+      "author": "u/jimofoz · r/longevity",
+      "handle": "longevity",
+      "org": "r/longevity",
+      "platform": "reddit",
+      "published": "2026-07-15T07:59:00.000Z",
+      "image": "https://external-preview.redd.it/Dd7DEER3WfuMzOzvGThOZ9CK10Ns0-iz3_5fbF2nbpM.jpeg?width=640&crop=smart&auto=webp&s=0fb28236aa4175f7cb04854aa21a76f0d4e3881f",
+      "thumbnail": "https://external-preview.redd.it/Dd7DEER3WfuMzOzvGThOZ9CK10Ns0-iz3_5fbF2nbpM.jpeg?width=640&crop=smart&auto=webp&s=0fb28236aa4175f7cb04854aa21a76f0d4e3881f",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Longevity",
+      "categories": [
+        "Reddit",
+        "Science",
+        "Longevity",
+        "r/longevity"
+      ],
+      "summary": "Lawnmower-like Enzyme Rewinds Decades of Molecular Aging in Human Tissue",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/longevity this week"
       ],
       "metrics": {
         "likes": 0,
@@ -143,6 +183,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Futurology this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uwm04y",
+      "title": "Could this mysterious disappearing organ hold the key to longevity? | Researchers are racing to regrow the thymus, an ephemeral immune organ, in the hope that it will slow ageing.",
+      "link": "https://www.reddit.com/r/longevity/comments/1uwm04y/could_this_mysterious_disappearing_organ_hold_the/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/longevity · community knowledge",
+      "content_type": "post",
+      "author": "u/UltraNooob · r/longevity",
+      "handle": "longevity",
+      "org": "r/longevity",
+      "platform": "reddit",
+      "published": "2026-07-14T21:32:10.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Science",
+      "category": "Science",
+      "genre": "Longevity",
+      "categories": [
+        "Reddit",
+        "Science",
+        "Longevity",
+        "r/longevity"
+      ],
+      "summary": "Could this mysterious disappearing organ hold the key to longevity? | Researchers are racing to regrow the thymus, an ephemeral immune organ, in the hope that it will slow ageing.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/longevity this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1366,85 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/cybersecurity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1utq7zm",
-      "title": "Sam Altman showing signs of singularity",
-      "link": "https://www.reddit.com/r/singularity/comments/1utq7zm/sam_altman_showing_signs_of_singularity/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/singularity · community knowledge",
-      "content_type": "post",
-      "author": "u/Fearless-Elephant-81 · r/singularity",
-      "handle": "singularity",
-      "org": "r/singularity",
-      "platform": "reddit",
-      "published": "2026-07-11T17:30:41.000Z",
-      "image": "https://preview.redd.it/vj30ao2lymch1.jpeg?width=640&crop=smart&auto=webp&s=19959724bd202f04aa3d1bd83e48db9c2be94fcc",
-      "thumbnail": "https://preview.redd.it/vj30ao2lymch1.jpeg?width=640&crop=smart&auto=webp&s=19959724bd202f04aa3d1bd83e48db9c2be94fcc",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/singularity"
-      ],
-      "summary": "It’s quite interesting to me how (relatively) cheap it is. That’s the headline for me. Combined with the recent math finding it’s also starting to show how general models are the way even for frontier intelligence. I would also say small/medium coding tasks is pretty much solved too (not engineering/system design etc,…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/singularity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1utpuci",
-      "title": "First full-body movements of my DIY robot lamp",
-      "link": "https://www.reddit.com/r/robotics/comments/1utpuci/first_fullbody_movements_of_my_diy_robot_lamp/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/robotics · community knowledge",
-      "content_type": "post",
-      "author": "u/Ok_Stress3654 · r/robotics",
-      "handle": "robotics",
-      "org": "r/robotics",
-      "platform": "reddit",
-      "published": "2026-07-11T17:16:30.000Z",
-      "image": "https://external-preview.redd.it/MHY1YXNlcXp2bWNoMSUzXUmRTl_Uum9IIJETwwKHJlox5-wwIw1gfVX6HbwV.png?width=320&crop=smart&auto=webp&s=dd613a7842e6e60e8e765d6d691a1c0b7872c887",
-      "thumbnail": "https://external-preview.redd.it/MHY1YXNlcXp2bWNoMSUzXUmRTl_Uum9IIJETwwKHJlox5-wwIw1gfVX6HbwV.png?width=320&crop=smart&auto=webp&s=dd613a7842e6e60e8e765d6d691a1c0b7872c887",
-      "section": "Robotics",
-      "category": "Robotics",
-      "genre": "Robotics",
-      "categories": [
-        "Reddit",
-        "Robotics",
-        "r/robotics"
-      ],
-      "summary": "This is the first movement test with the assembled prototype. The motion is still rough and the wiring is currently a complete mess, but all the connected joints are finally moving — so naturally, I made it dance. Next: smoother trajectories, control tuning, and proper cable management. UPD: In this project I use…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/robotics this week"
       ],
       "metrics": {
         "likes": 0,
