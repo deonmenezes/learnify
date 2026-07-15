@@ -1,37 +1,118 @@
 {
-  "generated_at": "2026-07-15T19:20:29.065Z",
+  "generated_at": "2026-07-15T20:39:06.285Z",
   "subs": [
     "MachineLearning",
-    "longevity",
-    "gadgets",
+    "LocalLLaMA",
+    "running",
+    "investing",
     "Fitness",
+    "longevity",
     "Futurology",
     "hardware",
     "robotics",
     "cybersecurity",
     "programming",
     "nutrition",
-    "LocalLLaMA",
     "netsec",
     "singularity",
     "SkincareAddiction",
     "startups",
-    "science",
-    "investing"
+    "gadgets",
+    "science"
   ],
   "count": 36,
   "by_category": {
-    "Fitness": 2,
-    "Science": 10,
-    "AI / ML": 7,
+    "Startups & Funding": 3,
+    "AI / ML": 8,
+    "Fitness": 4,
+    "Science": 9,
     "Hardware & Gadgets": 3,
     "Robotics": 3,
-    "Security": 5,
+    "Security": 3,
     "Coding & Dev Tools": 1,
-    "Skincare": 2,
-    "Startups & Funding": 3
+    "Skincare": 2
   },
   "articles": [
+    {
+      "id": "reddit_1uxecz8",
+      "title": "SpaceX falls below IPO price for first time",
+      "link": "https://www.reddit.com/r/investing/comments/1uxecz8/spacex_falls_below_ipo_price_for_first_time/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/investing · community knowledge",
+      "content_type": "post",
+      "author": "u/valbolt · r/investing",
+      "handle": "investing",
+      "org": "r/investing",
+      "platform": "reddit",
+      "published": "2026-07-15T18:30:33.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/investing"
+      ],
+      "summary": "What are your thoughts on this news? https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-15-2026 &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/investing this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uxbrw4",
+      "title": "Linus Torvalds tells people to stop attacking others for using AI",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1uxbrw4/linus_torvalds_tells_people_to_stop_attacking/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/LocalLLaMA · community knowledge",
+      "content_type": "post",
+      "author": "u/Illustrious_Car344 · r/LocalLLaMA",
+      "handle": "LocalLLaMA",
+      "org": "r/LocalLLaMA",
+      "platform": "reddit",
+      "published": "2026-07-15T16:59:48.000Z",
+      "image": "https://external-preview.redd.it/b3ekTIlx6R3geklbLb4RUZ2PO4tVgbJWbQdl7cAJV0M.jpeg?width=640&crop=smart&auto=webp&s=d6dc2cefc6e727a731735519348bd7a59db133fd",
+      "thumbnail": "https://external-preview.redd.it/b3ekTIlx6R3geklbLb4RUZ2PO4tVgbJWbQdl7cAJV0M.jpeg?width=640&crop=smart&auto=webp&s=d6dc2cefc6e727a731735519348bd7a59db133fd",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/LocalLLaMA"
+      ],
+      "summary": "The full quote: I realize that some people really dislike AI, but this is an area where I&#39;m willing to absolutely put my foot down as the top-level maintainer. Linux is not one of those anti-AI projects, and if somebody has issues with that, they can do the open-source thing and fork it. Or just walk away. AI is a…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/LocalLLaMA this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1ux0e0i",
       "title": "Rant Wednesday - July 15, 2026",
@@ -223,6 +304,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/longevity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uwhil6",
+      "title": "Anyone else think Anthropic’s valuation is going to plummet?",
+      "link": "https://www.reddit.com/r/investing/comments/1uwhil6/anyone_else_think_anthropics_valuation_is_going/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/investing · community knowledge",
+      "content_type": "post",
+      "author": "u/Clean-Yogurtcloset94 · r/investing",
+      "handle": "investing",
+      "org": "r/investing",
+      "platform": "reddit",
+      "published": "2026-07-14T18:45:32.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/investing"
+      ],
+      "summary": "I know this is probably an unpopular take, but I think the market is massively overestimating Anthropic’s moat. Bloomberg is reporting that DeepSeek is already preparing for an IPO after reportedly raising at around a $71B valuation, and they got there by showing you don’t necessarily need insane compute budgets to…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/investing this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1099,6 +1220,45 @@
       }
     },
     {
+      "id": "reddit_1uun7cq",
+      "title": "Feeling a bit deflated due to hot race day",
+      "link": "https://www.reddit.com/r/running/comments/1uun7cq/feeling_a_bit_deflated_due_to_hot_race_day/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/running · community knowledge",
+      "content_type": "post",
+      "author": "u/Ok_University_5022 · r/running",
+      "handle": "running",
+      "org": "r/running",
+      "platform": "reddit",
+      "published": "2026-07-12T18:21:31.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/running"
+      ],
+      "summary": "I’m 53 and ran my first half at about 2:30 with little training. I then trained and was shooting for 2:20 but felt great and hit 2:06 with some left in the tank. Weather was perfect and course was super flat and shady, so it was ideal. That was February. I signed up for a June half in South Dakota and trained very…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/running this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1uuetqz",
       "title": "Trump’s 2020 pivot on face masks changed Republican behavior but not their medical beliefs. By tracking reactions to President Donald Trump’s unexpected endorsement of face masks in 2020, a study found that his supporters readily adopted the behavior without altering their private beliefs.",
       "link": "https://www.reddit.com/r/science/comments/1uuetqz/trumps_2020_pivot_on_face_masks_changed/",
@@ -1256,196 +1416,37 @@
       }
     },
     {
-      "id": "reddit_1uu0keh",
-      "title": "MIT: Injectable “satellite livers” could offer an alternative to liver transplantation",
-      "link": "https://www.reddit.com/r/longevity/comments/1uu0keh/mit_injectable_satellite_livers_could_offer_an/",
+      "id": "reddit_1uu5yj4",
+      "title": "Achievements for Sunday, July 12, 2026",
+      "link": "https://www.reddit.com/r/running/comments/1uu5yj4/achievements_for_sunday_july_12_2026/",
       "source": "Reddit",
       "source_id": "reddit",
       "region": "Community",
-      "focus": "r/longevity · community knowledge",
+      "focus": "r/running · community knowledge",
       "content_type": "post",
-      "author": "u/barrel_master · r/longevity",
-      "handle": "longevity",
-      "org": "r/longevity",
+      "author": "u/AutoModerator · r/running",
+      "handle": "running",
+      "org": "r/running",
       "platform": "reddit",
-      "published": "2026-07-12T00:37:09.000Z",
-      "image": "https://external-preview.redd.it/z4r6_3cAcaIMsebKiAQxYLYDbdLY3M7Ogm-X_ZkvyQQ.jpeg?width=640&crop=smart&auto=webp&s=16d528cd44a53233cb12f37ea3ca12be13b889c8",
-      "thumbnail": "https://external-preview.redd.it/z4r6_3cAcaIMsebKiAQxYLYDbdLY3M7Ogm-X_ZkvyQQ.jpeg?width=640&crop=smart&auto=webp&s=16d528cd44a53233cb12f37ea3ca12be13b889c8",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Longevity",
-      "categories": [
-        "Reddit",
-        "Science",
-        "Longevity",
-        "r/longevity"
-      ],
-      "summary": "MIT: Injectable “satellite livers” could offer an alternative to liver transplantation",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/longevity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1utyazk",
-      "title": "Has a16z become the devil incarnate? (I will not promote)",
-      "link": "https://www.reddit.com/r/startups/comments/1utyazk/has_a16z_become_the_devil_incarnate_i_will_not/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/startups · community knowledge",
-      "content_type": "post",
-      "author": "u/SuperSaiyan1010 · r/startups",
-      "handle": "startups",
-      "org": "r/startups",
-      "platform": "reddit",
-      "published": "2026-07-11T22:58:46.000Z",
+      "published": "2026-07-12T05:02:13.000Z",
       "image": null,
       "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
       "categories": [
         "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/startups"
+        "Fitness",
+        "r/running"
       ],
-      "summary": "Not a hater, but they backed Cluely (eh), then this AI slop, &quot;let&#39;s make the dead internet come true&quot;, then now an investor is telling young founders to go to Japan because they are 5-10 years ahead... because Japan has virtual boy/girlfirends (Josh Lu, a partner). Idk I&#39;m getting the feeling of an…",
+      "summary": "Hey runners, it&#39;s another day and it is time to post your accomplishments you&#39;d like to share - big or small. Note: No need to preface YOUR accomplishments with something like, &quot;this may not be an accomplishment to most of you...&quot;. Be proud of your achievement. &#32;",
       "is_social": true,
       "report_worthy": true,
       "worthiness_score": 62,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
-        "top of r/startups this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1utxyy9",
-      "title": "Section 530A \"Trump\" accounts usually have worse tax benefits than even Traditional IRA and normal taxable accounts UNLESS they're converted to a Roth IRA later on",
-      "link": "https://www.reddit.com/r/investing/comments/1utxyy9/section_530a_trump_accounts_usually_have_worse/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/investing · community knowledge",
-      "content_type": "post",
-      "author": "u/HSuke · r/investing",
-      "handle": "investing",
-      "org": "r/investing",
-      "platform": "reddit",
-      "published": "2026-07-11T22:43:21.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/investing"
-      ],
-      "summary": "Section 530A &quot;Trump&quot; accounts have fewer tax-benefits (unless converted to Roth IRA) in most situations compared to normal taxable accounts. They&#39;re somewhat similar to really, really shitty Traditional IRA accounts where even the initial deposits are already taxed. So you don&#39;t even get the initial…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/investing this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1utwvzj",
-      "title": "Ransomware negotiator hired to represent victims was working for the attackers",
-      "link": "https://www.reddit.com/r/cybersecurity/comments/1utwvzj/ransomware_negotiator_hired_to_represent_victims/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/cybersecurity · community knowledge",
-      "content_type": "post",
-      "author": "u/DerBootsMann · r/cybersecurity",
-      "handle": "cybersecurity",
-      "org": "r/cybersecurity",
-      "platform": "reddit",
-      "published": "2026-07-11T21:56:42.000Z",
-      "image": "https://external-preview.redd.it/NSvKZFJR4y73x6oY6GGTwDsBJBoS7IhuffVJZTjc9aM.jpeg?width=640&crop=smart&auto=webp&s=0e3ac9f7e727bf2f5373b6a94e76237874235cfd",
-      "thumbnail": "https://external-preview.redd.it/NSvKZFJR4y73x6oY6GGTwDsBJBoS7IhuffVJZTjc9aM.jpeg?width=640&crop=smart&auto=webp&s=0e3ac9f7e727bf2f5373b6a94e76237874235cfd",
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/cybersecurity"
-      ],
-      "summary": "Ransomware negotiator hired to represent victims was working for the attackers",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/cybersecurity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1utqhu4",
-      "title": "Microsoft admits Windows 11 has a GDID tracker with no off switch, first documented publicly in an FBI hacker complaint",
-      "link": "https://www.reddit.com/r/cybersecurity/comments/1utqhu4/microsoft_admits_windows_11_has_a_gdid_tracker/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/cybersecurity · community knowledge",
-      "content_type": "post",
-      "author": "u/Dash-Courageous · r/cybersecurity",
-      "handle": "cybersecurity",
-      "org": "r/cybersecurity",
-      "platform": "reddit",
-      "published": "2026-07-11T17:40:59.000Z",
-      "image": "https://external-preview.redd.it/k_fLTUJsX4Ij27duxYghYcfq7VLlP64BC1PZia7Lz4s.jpeg?width=640&crop=smart&auto=webp&s=07cea1303f9af664a48bcc90b4d0bd13a3b7ea62",
-      "thumbnail": "https://external-preview.redd.it/k_fLTUJsX4Ij27duxYghYcfq7VLlP64BC1PZia7Lz4s.jpeg?width=640&crop=smart&auto=webp&s=07cea1303f9af664a48bcc90b4d0bd13a3b7ea62",
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/cybersecurity"
-      ],
-      "summary": "Microsoft admits Windows 11 has a GDID tracker with no off switch, first documented publicly in an FBI hacker complaint",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/cybersecurity this week"
+        "top of r/running this week"
       ],
       "metrics": {
         "likes": 0,
