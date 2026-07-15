@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-14T23:30:24.191Z",
+  "generated_at": "2026-07-15T00:56:31.445Z",
   "subs": [
     "MachineLearning",
+    "Futurology",
+    "gadgets",
     "longevity",
     "hardware",
     "nutrition",
     "LocalLLaMA",
-    "Futurology",
     "robotics",
     "netsec",
     "singularity",
     "startups",
-    "gadgets",
     "investing",
     "cybersecurity",
     "SkincareAddiction",
@@ -19,8 +19,8 @@
   ],
   "count": 36,
   "by_category": {
-    "Science": 8,
-    "Hardware & Gadgets": 4,
+    "Science": 9,
+    "Hardware & Gadgets": 3,
     "Fitness": 2,
     "AI / ML": 11,
     "Robotics": 3,
@@ -29,6 +29,45 @@
     "Skincare": 1
   },
   "articles": [
+    {
+      "id": "reddit_1uwn0pf",
+      "title": "American Communities Are Coming Together to Destroy Flock Surveillance Cameras",
+      "link": "https://www.reddit.com/r/Futurology/comments/1uwn0pf/american_communities_are_coming_together_to/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/Futurology · community knowledge",
+      "content_type": "post",
+      "author": "u/Sgt_Gram · r/Futurology",
+      "handle": "Futurology",
+      "org": "r/Futurology",
+      "platform": "reddit",
+      "published": "2026-07-14T22:10:35.000Z",
+      "image": "https://external-preview.redd.it/fLdPtlo8anwWDydqu4nA5qMlRgaDsMqsZnOXAJ2gtPw.jpeg?width=640&crop=smart&auto=webp&s=594b05e6f14154fa4a460d3d4bca9786c652f81d",
+      "thumbnail": "https://external-preview.redd.it/fLdPtlo8anwWDydqu4nA5qMlRgaDsMqsZnOXAJ2gtPw.jpeg?width=640&crop=smart&auto=webp&s=594b05e6f14154fa4a460d3d4bca9786c652f81d",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/Futurology"
+      ],
+      "summary": "American Communities Are Coming Together to Destroy Flock Surveillance Cameras",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/Futurology this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1uwgxdh",
       "title": "Reversal of protein chemical aging by enzymatic deglycation",
@@ -1407,45 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/LocalLLaMA this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ut5edj",
-      "title": "Wired headphone sales are exploding. What's with the Bluetooth backlash?",
-      "link": "https://www.reddit.com/r/hardware/comments/1ut5edj/wired_headphone_sales_are_exploding_whats_with/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/hardware · community knowledge",
-      "content_type": "post",
-      "author": "u/pdp10 · r/hardware",
-      "handle": "hardware",
-      "org": "r/hardware",
-      "platform": "reddit",
-      "published": "2026-07-11T00:39:16.000Z",
-      "image": "https://external-preview.redd.it/6qbmTRKiSIr6QDi6f5tp0sGfbv7TcSPtzkdSQKYVfu8.jpeg?width=320&crop=smart&auto=webp&s=1feb1e9326d8113d5f3db8dbeae4dfe22770be69",
-      "thumbnail": "https://external-preview.redd.it/6qbmTRKiSIr6QDi6f5tp0sGfbv7TcSPtzkdSQKYVfu8.jpeg?width=320&crop=smart&auto=webp&s=1feb1e9326d8113d5f3db8dbeae4dfe22770be69",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/hardware"
-      ],
-      "summary": "Wired headphone sales are exploding. What's with the Bluetooth backlash?",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/hardware this week"
       ],
       "metrics": {
         "likes": 0,
