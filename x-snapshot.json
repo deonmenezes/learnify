@@ -1,16 +1,95 @@
 {
-  "generated_at": "2026-07-15T22:06:40.179Z",
+  "generated_at": "2026-07-15T23:32:20.742Z",
   "handles": [
-    "gdb",
-    "elonmusk",
-    "GoogleDeepMind",
     "nvidia",
+    "GoogleDeepMind",
+    "elonmusk",
+    "gdb",
     "AnthropicAI",
     "OpenAI",
     "AIatMeta"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2077528638505861566",
+      "title": "Japan’s enterprises, startups and research institutions are building industry-specialized AI with NVIDIA Nemotron open models, data and libraries, helping advance AI tailored to the country’s…",
+      "link": "https://x.com/nvidia/status/2077528638505861566",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-07-15T23:00:00.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Research"
+      ],
+      "summary": "Japan’s enterprises, startups and research institutions are building industry-specialized AI with NVIDIA Nemotron open models, data and libraries, helping advance AI tailored to the country’s language, industries and workforce.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 81,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "tech substance (models, nemotron, research)"
+      ],
+      "metrics": {
+        "likes": 53,
+        "retweets": 10,
+        "replies": 7,
+        "likes_h": "53"
+      },
+      "engagement": 80,
+      "hot": false
+    },
+    {
+      "id": "x_2077460228350546173",
+      "title": "Any single performance number only tells part of the story. AI Infrastructure performance is a Pareto Curve 🧵",
+      "link": "https://x.com/nvidia/status/2077460228350546173",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-07-15T18:28:10.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Commentary"
+      ],
+      "summary": "Any single performance number only tells part of the story. AI Infrastructure performance is a Pareto Curve 🧵",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 55,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy"
+      ],
+      "metrics": {
+        "likes": 108,
+        "retweets": 17,
+        "replies": 16,
+        "likes_h": "108"
+      },
+      "engagement": 158,
+      "hot": false
+    },
     {
       "id": "x_2077424882502263081",
       "title": "our models are built to provide the best price for any given task. if you're able to get better price/perf on any workload, would love to hear the details and look at it together — gdb@openai.com.",
@@ -41,15 +120,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (models)",
-        "high engagement (1.3K likes)"
+        "high engagement (1.7K likes)"
       ],
       "metrics": {
-        "likes": 1307,
-        "retweets": 38,
-        "replies": 121,
-        "likes_h": "1.3K"
+        "likes": 1726,
+        "retweets": 48,
+        "replies": 141,
+        "likes_h": "1.7K"
       },
-      "engagement": 1504,
+      "engagement": 1963,
       "hot": false
     },
     {
@@ -81,15 +160,15 @@
       "sentiment_score": 0,
       "reasons": [
         "report-worthy",
-        "high engagement (9.9K likes)"
+        "high engagement (12.3K likes)"
       ],
       "metrics": {
-        "likes": 9895,
-        "retweets": 1283,
-        "replies": 2093,
-        "likes_h": "9.9K"
+        "likes": 12316,
+        "retweets": 1667,
+        "replies": 2436,
+        "likes_h": "12.3K"
       },
-      "engagement": 14554,
+      "engagement": 18086,
       "hot": true
     },
     {
@@ -124,12 +203,12 @@
         "tech substance (agents)"
       ],
       "metrics": {
-        "likes": 513,
-        "retweets": 63,
-        "replies": 46,
-        "likes_h": "513"
+        "likes": 575,
+        "retweets": 75,
+        "replies": 49,
+        "likes_h": "575"
       },
-      "engagement": 685,
+      "engagement": 774,
       "hot": false
     },
     {
@@ -164,12 +243,12 @@
         "tech substance (models)"
       ],
       "metrics": {
-        "likes": 314,
-        "retweets": 37,
-        "replies": 45,
-        "likes_h": "314"
+        "likes": 318,
+        "retweets": 38,
+        "replies": 46,
+        "likes_h": "318"
       },
-      "engagement": 433,
+      "engagement": 440,
       "hot": false
     },
     {
@@ -206,12 +285,12 @@
         "business signal (revenue)"
       ],
       "metrics": {
-        "likes": 31,
-        "retweets": 3,
+        "likes": 32,
+        "retweets": 4,
         "replies": 1,
-        "likes_h": "31"
+        "likes_h": "32"
       },
-      "engagement": 38,
+      "engagement": 41,
       "hot": false
     },
     {
@@ -245,12 +324,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 369,
-        "retweets": 42,
-        "replies": 31,
-        "likes_h": "369"
+        "likes": 374,
+        "retweets": 44,
+        "replies": 33,
+        "likes_h": "374"
       },
-      "engagement": 484,
+      "engagement": 495,
       "hot": false
     },
     {
@@ -286,12 +365,12 @@
         "tech substance (tokens, inference, blackwell)"
       ],
       "metrics": {
-        "likes": 30,
-        "retweets": 6,
+        "likes": 31,
+        "retweets": 7,
         "replies": 4,
-        "likes_h": "30"
+        "likes_h": "31"
       },
-      "engagement": 46,
+      "engagement": 49,
       "hot": false
     },
     {
@@ -533,12 +612,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 395,
+        "likes": 396,
         "retweets": 46,
         "replies": 47,
-        "likes_h": "395"
+        "likes_h": "396"
       },
-      "engagement": 534,
+      "engagement": 535,
       "hot": false
     },
     {
@@ -694,15 +773,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (model, reasoning)",
-        "high engagement (789 likes)"
+        "high engagement (792 likes)"
       ],
       "metrics": {
-        "likes": 789,
-        "retweets": 118,
-        "replies": 87,
-        "likes_h": "789"
+        "likes": 792,
+        "retweets": 120,
+        "replies": 88,
+        "likes_h": "792"
       },
-      "engagement": 1112,
+      "engagement": 1120,
       "hot": false
     },
     {
@@ -1248,87 +1327,6 @@
         "likes_h": "1.7K"
       },
       "engagement": 2055,
-      "hot": false
-    },
-    {
-      "id": "x_2074961724164214951",
-      "title": "Every company has specialized intelligence that sets it apart. With @langchain, we’re helping enterprises turn that knowledge into specialized agents they can customize, secure and improve over time.",
-      "link": "https://x.com/nvidia/status/2074961724164214951",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-07-08T21:00:00.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product"
-      ],
-      "summary": "Every company has specialized intelligence that sets it apart. With @langchain, we’re helping enterprises turn that knowledge into specialized agents they can customize, secure and improve over time.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 77,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (agents)"
-      ],
-      "metrics": {
-        "likes": 728,
-        "retweets": 89,
-        "replies": 47,
-        "likes_h": "728"
-      },
-      "engagement": 953,
-      "hot": false
-    },
-    {
-      "id": "x_2074958149426241894",
-      "title": "We audited SWE-Bench Pro, one of the most widely used AI coding benchmarks, and found it no longer reliably measures frontier coding capability. We find the eval to be saturated at a ~70% noise…",
-      "link": "https://x.com/OpenAI/status/2074958149426241894",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-07-08T20:45:48.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Research"
-      ],
-      "summary": "We audited SWE-Bench Pro, one of the most widely used AI coding benchmarks, and found it no longer reliably measures frontier coding capability. We find the eval to be saturated at a ~70% noise ceiling, and are retracting our previous recommendation that the research community",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 79,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (benchmarks, research)",
-        "high engagement (1.2K likes)"
-      ],
-      "metrics": {
-        "likes": 1192,
-        "retweets": 82,
-        "replies": 91,
-        "likes_h": "1.2K"
-      },
-      "engagement": 1447,
       "hot": false
     }
   ]
