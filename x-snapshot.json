@@ -1,15 +1,96 @@
 {
-  "generated_at": "2026-07-15T14:56:30.634Z",
+  "generated_at": "2026-07-15T16:28:04.172Z",
   "handles": [
-    "GoogleDeepMind",
     "nvidia",
-    "AnthropicAI",
-    "OpenAI",
+    "GoogleDeepMind",
     "elonmusk",
-    "AIatMeta"
+    "gdb",
+    "AIatMeta",
+    "AnthropicAI",
+    "OpenAI"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2077424882502263081",
+      "title": "our models are built to provide the best price for any given task. if you're able to get better price/perf on any workload, would love to hear the details and look at it together — gdb@openai.com.",
+      "link": "https://x.com/gdb/status/2077424882502263081",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Greg Brockman · @gdb",
+      "handle": "gdb",
+      "org": "OpenAI",
+      "published": "2026-07-15T16:07:43.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Product"
+      ],
+      "summary": "our models are built to provide the best price for any given task. if you're able to get better price/perf on any workload, would love to hear the details and look at it together — gdb@openai.com.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 67,
+      "sentiment": "positive",
+      "sentiment_score": 1,
+      "reasons": [
+        "report-worthy",
+        "tech substance (models)"
+      ],
+      "metrics": {
+        "likes": 235,
+        "retweets": 10,
+        "replies": 37,
+        "likes_h": "235"
+      },
+      "engagement": 292,
+      "hot": false
+    },
+    {
+      "id": "x_2077380458996773192",
+      "title": "Showing more content from people you follow has been one of the fixes. The algorithm not barraging you with similar content due to a few likes is another.",
+      "link": "https://x.com/elonmusk/status/2077380458996773192",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Elon Musk · @elonmusk",
+      "handle": "elonmusk",
+      "org": "xAI/Tesla",
+      "published": "2026-07-15T13:11:11.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "xAI/Tesla",
+        "Commentary"
+      ],
+      "summary": "Showing more content from people you follow has been one of the fixes. The algorithm not barraging you with similar content due to a few likes is another.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 56,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "high engagement (7.6K likes)"
+      ],
+      "metrics": {
+        "likes": 7587,
+        "retweets": 961,
+        "replies": 1691,
+        "likes_h": "7.6K"
+      },
+      "engagement": 11200,
+      "hot": true
+    },
     {
       "id": "x_2077372568143642972",
       "title": "From proposing hypotheses to designing experiments, AI agents are starting to reshape scientific discovery. But the hardest part is testing these ideas in the real world. Our essay explores the…",
@@ -34,7 +115,7 @@
       "summary": "From proposing hypotheses to designing experiments, AI agents are starting to reshape scientific discovery. But the hardest part is testing these ideas in the real world. Our essay explores the growing validation bottleneck and outlines four priorities for policymakers and",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 70,
+      "worthiness_score": 75,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -42,12 +123,12 @@
         "tech substance (agents)"
       ],
       "metrics": {
-        "likes": 51,
-        "retweets": 6,
-        "replies": 11,
-        "likes_h": "51"
+        "likes": 399,
+        "retweets": 49,
+        "replies": 39,
+        "likes_h": "399"
       },
-      "engagement": 74,
+      "engagement": 536,
       "hot": false
     },
     {
@@ -74,7 +155,7 @@
       "summary": "Enterprises need AI they can trust, control and customize. Open models give teams the visibility and ownership to evaluate AI against their standards, specialize AI with domain knowledge, and improve accuracy and efficiency.",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 74,
+      "worthiness_score": 75,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -82,12 +163,12 @@
         "tech substance (models)"
       ],
       "metrics": {
-        "likes": 278,
-        "retweets": 33,
-        "replies": 42,
-        "likes_h": "278"
+        "likes": 302,
+        "retweets": 34,
+        "replies": 45,
+        "likes_h": "302"
       },
-      "engagement": 386,
+      "engagement": 415,
       "hot": false
     },
     {
@@ -163,12 +244,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 337,
-        "retweets": 40,
-        "replies": 28,
-        "likes_h": "337"
+        "likes": 361,
+        "retweets": 42,
+        "replies": 31,
+        "likes_h": "361"
       },
-      "engagement": 445,
+      "engagement": 476,
       "hot": false
     },
     {
@@ -287,12 +368,12 @@
         "tech substance (tokens, inference, chip)"
       ],
       "metrics": {
-        "likes": 242,
+        "likes": 246,
         "retweets": 43,
         "replies": 36,
-        "likes_h": "242"
+        "likes_h": "246"
       },
-      "engagement": 364,
+      "engagement": 368,
       "hot": false
     },
     {
@@ -451,12 +532,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 390,
+        "likes": 394,
         "retweets": 46,
-        "replies": 45,
-        "likes_h": "390"
+        "replies": 47,
+        "likes_h": "394"
       },
-      "engagement": 527,
+      "engagement": 533,
       "hot": false
     },
     {
@@ -612,15 +693,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (model, reasoning)",
-        "high engagement (784 likes)"
+        "high engagement (788 likes)"
       ],
       "metrics": {
-        "likes": 784,
-        "retweets": 115,
+        "likes": 788,
+        "retweets": 117,
         "replies": 87,
-        "likes_h": "784"
+        "likes_h": "788"
       },
-      "engagement": 1101,
+      "engagement": 1109,
       "hot": false
     },
     {
@@ -1117,12 +1198,12 @@
         "high engagement (5K likes)"
       ],
       "metrics": {
-        "likes": 5003,
-        "retweets": 586,
-        "replies": 279,
+        "likes": 5005,
+        "retweets": 587,
+        "replies": 283,
         "likes_h": "5K"
       },
-      "engagement": 6454,
+      "engagement": 6462,
       "hot": true
     },
     {
@@ -1166,7 +1247,7 @@
         "likes_h": "1.7K"
       },
       "engagement": 2055,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2074961724164214951",
@@ -1247,90 +1328,6 @@
         "likes_h": "1.2K"
       },
       "engagement": 1447,
-      "hot": false
-    },
-    {
-      "id": "x_2074935713444081710",
-      "title": "See how we’re working with LangChain to pair benchmark-leading agent performance with an open stack enterprises can own, customize and run anywhere:…",
-      "link": "https://x.com/nvidia/status/2074935713444081710",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-07-08T19:16:39.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Research"
-      ],
-      "summary": "See how we’re working with LangChain to pair benchmark-leading agent performance with an open stack enterprises can own, customize and run anywhere: https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack?ncid=so-link-913402",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 61,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "reply / conversation",
-        "tech substance (nemotron, agent, agents)",
-        "links to a source"
-      ],
-      "metrics": {
-        "likes": 26,
-        "retweets": 3,
-        "replies": 5,
-        "likes_h": "26"
-      },
-      "engagement": 37,
-      "hot": false
-    },
-    {
-      "id": "x_2074907035225981169",
-      "title": "These new models are rolling out to everyone over the next few days, starting today. They’ll be available in ChatGPT across iOS, Android, and web. Coming soon to the API. Just tap the Voice button to…",
-      "link": "https://x.com/OpenAI/status/2074907035225981169",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-07-08T17:22:41.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product launch",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Product launch"
-      ],
-      "summary": "These new models are rolling out to everyone over the next few days, starting today. They’ll be available in ChatGPT across iOS, Android, and web. Coming soon to the API. Just tap the Voice button to talk with ChatGPT, and you’ll feel the magic of GPT-Live.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 97,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "reply / conversation",
-        "announcement language (rolling out, starting today, coming soon)",
-        "tech substance (models, gpt, api)"
-      ],
-      "metrics": {
-        "likes": 645,
-        "retweets": 30,
-        "replies": 29,
-        "likes_h": "645"
-      },
-      "engagement": 734,
       "hot": false
     }
   ]

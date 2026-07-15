@@ -1,37 +1,116 @@
 {
-  "generated_at": "2026-07-15T14:58:43.978Z",
+  "generated_at": "2026-07-15T16:30:17.655Z",
   "subs": [
     "MachineLearning",
-    "science",
-    "cybersecurity",
+    "Fitness",
+    "robotics",
     "Futurology",
     "longevity",
     "hardware",
+    "cybersecurity",
     "programming",
     "nutrition",
     "LocalLLaMA",
-    "robotics",
     "netsec",
     "singularity",
     "SkincareAddiction",
     "startups",
     "gadgets",
-    "investing",
-    "artificial"
+    "science",
+    "investing"
   ],
   "count": 36,
   "by_category": {
+    "Fitness": 2,
+    "AI / ML": 8,
     "Science": 8,
     "Hardware & Gadgets": 3,
+    "Robotics": 4,
     "Security": 5,
     "Coding & Dev Tools": 1,
-    "Fitness": 1,
-    "AI / ML": 9,
-    "Robotics": 3,
-    "Skincare": 3,
+    "Skincare": 2,
     "Startups & Funding": 3
   },
   "articles": [
+    {
+      "id": "reddit_1ux0e0i",
+      "title": "Rant Wednesday - July 15, 2026",
+      "link": "https://www.reddit.com/r/Fitness/comments/1ux0e0i/rant_wednesday_july_15_2026/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/Fitness · community knowledge",
+      "content_type": "post",
+      "author": "u/AutoModerator · r/Fitness",
+      "handle": "Fitness",
+      "org": "r/Fitness",
+      "platform": "reddit",
+      "published": "2026-07-15T09:00:26.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/Fitness"
+      ],
+      "summary": "Welcome to Rant Wednesday: It’s your time to let your gym/fitness/nutrition related frustrations out! There is no guiding question to help stir up some rage-feels, feel free to fire at will, ranting about anything and everything that’s been pissing you off or getting on your nerves. Just don&#39;t forget that other…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/Fitness this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uwya70",
+      "title": "Mechanistic interpretability: a first paper on disentangling a convolutional neuron [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uwya70/mechanistic_interpretability_a_first_paper_on/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/MachineLearning · community knowledge",
+      "content_type": "post",
+      "author": "u/narang_27 · r/MachineLearning",
+      "handle": "MachineLearning",
+      "org": "r/MachineLearning",
+      "platform": "reddit",
+      "published": "2026-07-15T06:59:41.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/MachineLearning"
+      ],
+      "summary": "I have recently started working in mechanistic interpretability independently, starting with distill circuits thread My work is on disentangling and closely studying a single neuron, a 1x1 convolution in inceptionv1 model (and applying the method to other neurons in the same layer). The key insight was that the…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1uwn0pf",
       "title": "American Communities Are Coming Together to Destroy Flock Surveillance Cameras",
@@ -143,6 +222,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/hardware this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uw4dji",
+      "title": "A soft floating robot for indoor interaction. It uses helium and flapping fins. It can follow people, give reminders, and act as a study buddy (paper)",
+      "link": "https://www.reddit.com/r/robotics/comments/1uw4dji/a_soft_floating_robot_for_indoor_interaction_it/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/robotics · community knowledge",
+      "content_type": "post",
+      "author": "u/Nunki08 · r/robotics",
+      "handle": "robotics",
+      "org": "r/robotics",
+      "platform": "reddit",
+      "published": "2026-07-14T10:04:50.000Z",
+      "image": "https://external-preview.redd.it/YWI3bjE0NjYzNmRoMa-m38dygsfSf9pCSjr3UyQOk7IxdzuyBiBkCITHOkjx.png?width=640&crop=smart&auto=webp&s=ff12795d6777033e7dd72915f47143defc16da67",
+      "thumbnail": "https://external-preview.redd.it/YWI3bjE0NjYzNmRoMa-m38dygsfSf9pCSjr3UyQOk7IxdzuyBiBkCITHOkjx.png?width=640&crop=smart&auto=webp&s=ff12795d6777033e7dd72915f47143defc16da67",
+      "section": "Robotics",
+      "category": "Robotics",
+      "genre": "Robotics",
+      "categories": [
+        "Reddit",
+        "Robotics",
+        "r/robotics"
+      ],
+      "summary": "From clankr on 𝕏: https://x.com/clankrmedia/status/2076593164744376707 Paper: Floating Companion: Exploring Design Space for Soft Floating Robots in Indoor Environments: https://dl.acm.org/doi/10.1145/3800645.3813051 Published at ACM DIS 2026: https://dis.acm.org/2026/dis-2026-awards-and-recognition/ ACM Designing…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/robotics this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1327,125 +1445,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/robotics this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1utplzc",
-      "title": "Public Library Find [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1utplzc/public_library_find_d/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/MachineLearning · community knowledge",
-      "content_type": "post",
-      "author": "u/ai_hedge_fund · r/MachineLearning",
-      "handle": "MachineLearning",
-      "org": "r/MachineLearning",
-      "platform": "reddit",
-      "published": "2026-07-11T17:07:33.000Z",
-      "image": "https://preview.redd.it/uzpazzheumch1.jpeg?width=640&crop=smart&auto=webp&s=1c018f959360112c2ff6eb459bd3853cd7a3953a",
-      "thumbnail": "https://preview.redd.it/uzpazzheumch1.jpeg?width=640&crop=smart&auto=webp&s=1c018f959360112c2ff6eb459bd3853cd7a3953a",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/MachineLearning"
-      ],
-      "summary": "Pleasantly surprised to find O’Reilly books on ML at a public library &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/MachineLearning this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1utkvxq",
-      "title": "[misc] Accidentally dropped my phone on my pimple yesterday and woke up to this monstrosity",
-      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1utkvxq/misc_accidentally_dropped_my_phone_on_my_pimple/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/SkincareAddiction · community knowledge",
-      "content_type": "post",
-      "author": "u/stuffedoranges · r/SkincareAddiction",
-      "handle": "SkincareAddiction",
-      "org": "r/SkincareAddiction",
-      "platform": "reddit",
-      "published": "2026-07-11T13:59:31.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Skincare",
-      "category": "Skincare",
-      "genre": "Skincare",
-      "categories": [
-        "Reddit",
-        "Skincare",
-        "r/SkincareAddiction"
-      ],
-      "summary": "It was only a cyst yesterday with no white head and bam 😭😭😭 Slathering it with clindamycin and benzoyl peroxide but it feels like it’s going to ooze out any moment &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/SkincareAddiction this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1utkdha",
-      "title": "Apple just sued OpenAI. And the details are wild.",
-      "link": "https://www.reddit.com/r/artificial/comments/1utkdha/apple_just_sued_openai_and_the_details_are_wild/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/artificial · community knowledge",
-      "content_type": "post",
-      "author": "u/Direct-Attention8597 · r/artificial",
-      "handle": "artificial",
-      "org": "r/artificial",
-      "platform": "reddit",
-      "published": "2026-07-11T13:37:36.000Z",
-      "image": "https://preview.redd.it/shkrct50tlch1.jpeg?width=640&crop=smart&auto=webp&s=cf7582e482e46fde3d9a87002283f4253a7c3666",
-      "thumbnail": "https://preview.redd.it/shkrct50tlch1.jpeg?width=640&crop=smart&auto=webp&s=cf7582e482e46fde3d9a87002283f4253a7c3666",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/artificial"
-      ],
-      "summary": "This isn’t a generic IP dispute. Apple’s hardware chief at OpenAI is Tang Tan. Former Apple VP. 24 years at the company. He now runs OpenAI’s device ambitions. Apple alleges he was coaching Apple employees interviewing at OpenAI to bring actual hardware parts – batteries, logic boards, SIPs – to their interviews for…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/artificial this week"
       ],
       "metrics": {
         "likes": 0,
