@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-07-15T04:11:23.340Z",
+  "generated_at": "2026-07-15T06:40:44.517Z",
   "subs": [
     "MachineLearning",
-    "Fitness",
-    "hardware",
+    "programming",
+    "cybersecurity",
     "Futurology",
     "longevity",
+    "hardware",
     "nutrition",
     "LocalLLaMA",
     "robotics",
@@ -14,18 +15,18 @@
     "startups",
     "gadgets",
     "investing",
-    "cybersecurity",
     "SkincareAddiction",
     "artificial"
   ],
   "count": 36,
   "by_category": {
-    "Science": 9,
+    "Science": 8,
     "Hardware & Gadgets": 3,
+    "Security": 5,
+    "Coding & Dev Tools": 1,
     "Fitness": 2,
-    "AI / ML": 11,
+    "AI / ML": 10,
     "Robotics": 3,
-    "Security": 4,
     "Startups & Funding": 3,
     "Skincare": 1
   },
@@ -149,6 +150,45 @@
       }
     },
     {
+      "id": "reddit_1uw2f7e",
+      "title": "Nightmare Eclipse could be dropping his big promised exploit today",
+      "link": "https://www.reddit.com/r/cybersecurity/comments/1uw2f7e/nightmare_eclipse_could_be_dropping_his_big/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/cybersecurity · community knowledge",
+      "content_type": "post",
+      "author": "u/ILikeNoodlesXOXO · r/cybersecurity",
+      "handle": "cybersecurity",
+      "org": "r/cybersecurity",
+      "platform": "reddit",
+      "published": "2026-07-14T08:10:46.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/cybersecurity"
+      ],
+      "summary": "New repo just went up: git.projectnightcrawler.dev/NightmareEclipse/LegacyHive , created about 2 hours ago. Right now it&#39;s empty — just an MIT license and a README that says &quot;N/A,&quot; 2 commits total. He&#39;d spoken about his big drop happening today, July 14th, saying he&#39;d make sure Microsoft&#39;s…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/cybersecurity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1uw1m0r",
       "title": "Aging-associated decline of phosphatidylcholine synthesis is a malleable trigger of natural mitochondrial agingAging-associated decline of phosphatidylcholine synthesis is a malleable trigger of natural mitochondrial aging",
       "link": "https://www.reddit.com/r/longevity/comments/1uw1m0r/agingassociated_decline_of_phosphatidylcholine/",
@@ -181,6 +221,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/longevity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uvszuq",
+      "title": "HTTP gets a QUERY method so complex searches can stop pretending to be POST",
+      "link": "https://www.reddit.com/r/programming/comments/1uvszuq/http_gets_a_query_method_so_complex_searches_can/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/programming · community knowledge",
+      "content_type": "post",
+      "author": "u/stronghup · r/programming",
+      "handle": "programming",
+      "org": "r/programming",
+      "platform": "reddit",
+      "published": "2026-07-14T00:16:42.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Coding & Dev Tools",
+      "category": "Coding & Dev Tools",
+      "genre": "Coding & Dev Tools",
+      "categories": [
+        "Reddit",
+        "Coding & Dev Tools",
+        "r/programming"
+      ],
+      "summary": "HTTP gets a QUERY method so complex searches can stop pretending to be POST",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/programming this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1368,85 +1447,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Futurology this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1utbrsv",
-      "title": "County With 37 Data Centers Asks Schools to ‘Conserve Electricity’",
-      "link": "https://www.reddit.com/r/Futurology/comments/1utbrsv/county_with_37_data_centers_asks_schools_to/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/Futurology · community knowledge",
-      "content_type": "post",
-      "author": "u/EchoOfOppenheimer · r/Futurology",
-      "handle": "Futurology",
-      "org": "r/Futurology",
-      "platform": "reddit",
-      "published": "2026-07-11T05:57:10.000Z",
-      "image": "https://external-preview.redd.it/k2oAGlPQxeXhsKc6PI8yyvLaijtajDpnIUupJasxjBg.jpeg?width=640&crop=smart&auto=webp&s=bdd1f414efd0031253609c51776ea3cebb627c16",
-      "thumbnail": "https://external-preview.redd.it/k2oAGlPQxeXhsKc6PI8yyvLaijtajDpnIUupJasxjBg.jpeg?width=640&crop=smart&auto=webp&s=bdd1f414efd0031253609c51776ea3cebb627c16",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/Futurology"
-      ],
-      "summary": "County With 37 Data Centers Asks Schools to ‘Conserve Electricity’",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/Futurology this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1utb6io",
-      "title": "Qwen3.6 35B-A3B (Q8_0, no KV quant) single prompt in opencode: \"Create a beautiful, relaxing flight simulator in a single html file with mountains, clouds, and endless procedural terrain\"",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1utb6io/qwen36_35ba3b_q8_0_no_kv_quant_single_prompt_in/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/LocalLLaMA · community knowledge",
-      "content_type": "post",
-      "author": "u/_TheWolfOfWalmart_ · r/LocalLLaMA",
-      "handle": "LocalLLaMA",
-      "org": "r/LocalLLaMA",
-      "platform": "reddit",
-      "published": "2026-07-11T05:24:45.000Z",
-      "image": "https://external-preview.redd.it/d3l1ZmsyejFkamNoMR41q_JY9arhzAsDGVyxE-EG9Cujgm23y3BFoqauh3sX.png?width=640&crop=smart&auto=webp&s=8d930e5cd7ee8ab6ecf51edec806cbaf9a4044fc",
-      "thumbnail": "https://external-preview.redd.it/d3l1ZmsyejFkamNoMR41q_JY9arhzAsDGVyxE-EG9Cujgm23y3BFoqauh3sX.png?width=640&crop=smart&auto=webp&s=8d930e5cd7ee8ab6ecf51edec806cbaf9a4044fc",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/LocalLLaMA"
-      ],
-      "summary": "Told it that in plan mode, then told it to implement with no changes to the plan. This model punches far, far above its weight. I wasn&#39;t impressed until I switched from Q4_K_M on GPU to Q8_0 on CPU. It matters. It&#39;s worth the slowdown. &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/LocalLLaMA this week"
       ],
       "metrics": {
         "likes": 0,
