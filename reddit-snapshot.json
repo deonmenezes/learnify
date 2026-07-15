@@ -1,18 +1,19 @@
 {
-  "generated_at": "2026-07-15T12:56:53.885Z",
+  "generated_at": "2026-07-15T14:58:43.978Z",
   "subs": [
     "MachineLearning",
-    "singularity",
-    "SkincareAddiction",
+    "science",
+    "cybersecurity",
     "Futurology",
     "longevity",
     "hardware",
-    "cybersecurity",
     "programming",
     "nutrition",
     "LocalLLaMA",
     "robotics",
     "netsec",
+    "singularity",
+    "SkincareAddiction",
     "startups",
     "gadgets",
     "investing",
@@ -20,12 +21,12 @@
   ],
   "count": 36,
   "by_category": {
-    "Science": 7,
+    "Science": 8,
     "Hardware & Gadgets": 3,
     "Security": 5,
     "Coding & Dev Tools": 1,
     "Fitness": 1,
-    "AI / ML": 10,
+    "AI / ML": 9,
     "Robotics": 3,
     "Skincare": 3,
     "Startups & Funding": 3
@@ -900,6 +901,45 @@
       }
     },
     {
+      "id": "reddit_1uuetqz",
+      "title": "Trump’s 2020 pivot on face masks changed Republican behavior but not their medical beliefs. By tracking reactions to President Donald Trump’s unexpected endorsement of face masks in 2020, a study found that his supporters readily adopted the behavior without altering their private beliefs.",
+      "link": "https://www.reddit.com/r/science/comments/1uuetqz/trumps_2020_pivot_on_face_masks_changed/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/science · community knowledge",
+      "content_type": "post",
+      "author": "u/mvea · r/science",
+      "handle": "science",
+      "org": "r/science",
+      "platform": "reddit",
+      "published": "2026-07-12T12:59:08.000Z",
+      "image": "https://external-preview.redd.it/lPefTCZGMJZZ2_dOwTXyQt-gpc-fuj9s-SE58XaGtrU.jpeg?width=640&crop=smart&auto=webp&s=dfc05c6b12d266a601c6ab7cb3f76ecbe2ba207c",
+      "thumbnail": "https://external-preview.redd.it/lPefTCZGMJZZ2_dOwTXyQt-gpc-fuj9s-SE58XaGtrU.jpeg?width=640&crop=smart&auto=webp&s=dfc05c6b12d266a601c6ab7cb3f76ecbe2ba207c",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/science"
+      ],
+      "summary": "Trump’s 2020 pivot on face masks changed Republican behavior but not their medical beliefs. By tracking reactions to President Donald Trump’s unexpected endorsement of face masks in 2020, a study found that his supporters readily adopted the behavior without altering their private beliefs.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/science this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1uubs2y",
       "title": "Wheelchair Made Based on a Quadruped Robot",
       "link": "https://www.reddit.com/r/robotics/comments/1uubs2y/wheelchair_made_based_on_a_quadruped_robot/",
@@ -1406,46 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/artificial this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1utjtok",
-      "title": "Tim cook writes to sam altman",
-      "link": "https://www.reddit.com/r/singularity/comments/1utjtok/tim_cook_writes_to_sam_altman/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/singularity · community knowledge",
-      "content_type": "post",
-      "author": "u/VariationLivid3193 · r/singularity",
-      "handle": "singularity",
-      "org": "r/singularity",
-      "platform": "reddit",
-      "published": "2026-07-11T13:14:20.000Z",
-      "image": "https://preview.redd.it/zhpzespuolch1.png?width=640&crop=smart&auto=webp&s=75cec1c9a8a17ed271b61ef1b3993b41d045aaa4",
-      "thumbnail": "https://preview.redd.it/zhpzespuolch1.png?width=640&crop=smart&auto=webp&s=75cec1c9a8a17ed271b61ef1b3993b41d045aaa4",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/singularity"
-      ],
-      "summary": "Tim cook writes to sam altman",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/singularity this week"
       ],
       "metrics": {
         "likes": 0,
