@@ -1,15 +1,55 @@
 {
-  "generated_at": "2026-07-15T11:11:40.485Z",
+  "generated_at": "2026-07-15T12:54:38.369Z",
   "handles": [
     "nvidia",
-    "AnthropicAI",
     "GoogleDeepMind",
+    "AIatMeta",
+    "AnthropicAI",
     "OpenAI",
-    "elonmusk",
-    "AIatMeta"
+    "elonmusk"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2077372568143642972",
+      "title": "From proposing hypotheses to designing experiments, AI agents are starting to reshape scientific discovery. But the hardest part is testing these ideas in the real world. Our essay explores the…",
+      "link": "https://x.com/GoogleDeepMind/status/2077372568143642972",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Google DeepMind · @GoogleDeepMind",
+      "handle": "GoogleDeepMind",
+      "org": "Google",
+      "published": "2026-07-15T12:39:50.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "Google",
+        "Product"
+      ],
+      "summary": "From proposing hypotheses to designing experiments, AI agents are starting to reshape scientific discovery. But the hardest part is testing these ideas in the real world. Our essay explores the growing validation bottleneck and outlines four priorities for policymakers and",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 70,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (agents)"
+      ],
+      "metrics": {
+        "likes": 51,
+        "retweets": 6,
+        "replies": 11,
+        "likes_h": "51"
+      },
+      "engagement": 74,
+      "hot": false
+    },
     {
       "id": "x_2077075654210695537",
       "title": "Enterprises need AI they can trust, control and customize. Open models give teams the visibility and ownership to evaluate AI against their standards, specialize AI with domain knowledge, and improve…",
@@ -42,12 +82,12 @@
         "tech substance (models)"
       ],
       "metrics": {
-        "likes": 254,
+        "likes": 278,
         "retweets": 33,
-        "replies": 41,
-        "likes_h": "254"
+        "replies": 42,
+        "likes_h": "278"
       },
-      "engagement": 361,
+      "engagement": 386,
       "hot": false
     },
     {
@@ -86,10 +126,10 @@
       "metrics": {
         "likes": 31,
         "retweets": 3,
-        "replies": 0,
+        "replies": 1,
         "likes_h": "31"
       },
-      "engagement": 37,
+      "engagement": 38,
       "hot": false
     },
     {
@@ -123,12 +163,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 310,
-        "retweets": 38,
-        "replies": 27,
-        "likes_h": "310"
+        "likes": 337,
+        "retweets": 40,
+        "replies": 28,
+        "likes_h": "337"
       },
-      "engagement": 413,
+      "engagement": 445,
       "hot": false
     },
     {
@@ -247,12 +287,12 @@
         "tech substance (tokens, inference, chip)"
       ],
       "metrics": {
-        "likes": 241,
+        "likes": 242,
         "retweets": 43,
         "replies": 36,
-        "likes_h": "241"
+        "likes_h": "242"
       },
-      "engagement": 363,
+      "engagement": 364,
       "hot": false
     },
     {
@@ -411,12 +451,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 389,
-        "retweets": 45,
+        "likes": 390,
+        "retweets": 46,
         "replies": 45,
-        "likes_h": "389"
+        "likes_h": "390"
       },
-      "engagement": 524,
+      "engagement": 527,
       "hot": false
     },
     {
@@ -572,15 +612,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (model, reasoning)",
-        "high engagement (783 likes)"
+        "high engagement (784 likes)"
       ],
       "metrics": {
-        "likes": 783,
-        "retweets": 113,
+        "likes": 784,
+        "retweets": 115,
         "replies": 87,
-        "likes_h": "783"
+        "likes_h": "784"
       },
-      "engagement": 1096,
+      "engagement": 1101,
       "hot": false
     },
     {
@@ -1077,12 +1117,12 @@
         "high engagement (5K likes)"
       ],
       "metrics": {
-        "likes": 5002,
-        "retweets": 585,
+        "likes": 5003,
+        "retweets": 586,
         "replies": 279,
         "likes_h": "5K"
       },
-      "engagement": 6451,
+      "engagement": 6454,
       "hot": true
     },
     {
@@ -1289,47 +1329,6 @@
         "retweets": 30,
         "replies": 29,
         "likes_h": "645"
-      },
-      "engagement": 734,
-      "hot": false
-    },
-    {
-      "id": "x_2074907033577693636",
-      "title": "For questions that require web search, deeper reasoning, or more complex work, GPT-Live can delegate to our latest frontier model behind the scenes, and brings the result back into the conversation…",
-      "link": "https://x.com/OpenAI/status/2074907033577693636",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-07-08T17:22:41.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Research"
-      ],
-      "summary": "For questions that require web search, deeper reasoning, or more complex work, GPT-Live can delegate to our latest frontier model behind the scenes, and brings the result back into the conversation when it's ready.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 59,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "reply / conversation",
-        "tech substance (model, gpt, reasoning)"
-      ],
-      "metrics": {
-        "likes": 652,
-        "retweets": 33,
-        "replies": 16,
-        "likes_h": "652"
       },
       "engagement": 734,
       "hot": false
