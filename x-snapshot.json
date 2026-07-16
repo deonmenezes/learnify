@@ -1,15 +1,55 @@
 {
-  "generated_at": "2026-07-16T21:35:41.141Z",
+  "generated_at": "2026-07-16T23:01:45.041Z",
   "handles": [
+    "OpenAI",
     "GoogleDeepMind",
     "nvidia",
-    "OpenAI",
     "AnthropicAI",
     "gdb",
     "elonmusk"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2077807977193714080",
+      "title": "In racing, tiny margins matter. AI can help teams find them. OpenAI’s Joyce Ruffell and @RaceTekSystems co-founder @GarageGuyChase discuss with @AndrewMayne how racing teams use AI to turn track data…",
+      "link": "https://x.com/OpenAI/status/2077807977193714080",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-07-16T17:30:00.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Research"
+      ],
+      "summary": "In racing, tiny margins matter. AI can help teams find them. OpenAI’s Joyce Ruffell and @RaceTekSystems co-founder @GarageGuyChase discuss with @AndrewMayne how racing teams use AI to turn track data into faster decisions—from our research collaboration with Chip Ganassi Racing",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 82,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "tech substance (research, chip)"
+      ],
+      "metrics": {
+        "likes": 651,
+        "retweets": 40,
+        "replies": 96,
+        "likes_h": "651"
+      },
+      "engagement": 827,
+      "hot": false
+    },
     {
       "id": "x_2077721122116640969",
       "title": "The biosecurity landscape is rapidly evolving. To stay ahead of future outbreaks, we’re partnering with @IsomorphicLabs to outline our approach to bioresilience. Here’s how we’re deploying frontier…",
@@ -241,15 +281,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (model, gpt)",
-        "high engagement (1.2K likes)"
+        "high engagement (1.9K likes)"
       ],
       "metrics": {
-        "likes": 1227,
-        "retweets": 78,
-        "replies": 124,
-        "likes_h": "1.2K"
+        "likes": 1888,
+        "retweets": 118,
+        "replies": 174,
+        "likes_h": "1.9K"
       },
-      "engagement": 1507,
+      "engagement": 2298,
       "hot": false
     },
     {
@@ -407,15 +447,15 @@
         "announcement language (introducing)",
         "tech substance (models, gpt)",
         "links to a source",
-        "high engagement (6.4K likes)"
+        "high engagement (8.1K likes)"
       ],
       "metrics": {
-        "likes": 6406,
-        "retweets": 577,
-        "replies": 356,
-        "likes_h": "6.4K"
+        "likes": 8094,
+        "retweets": 759,
+        "replies": 468,
+        "likes_h": "8.1K"
       },
-      "engagement": 7916,
+      "engagement": 10080,
       "hot": true
     },
     {
@@ -450,15 +490,15 @@
         "casual tone (merch)",
         "tech substance (research)",
         "links to a source",
-        "high engagement (2.7K likes)"
+        "high engagement (3.2K likes)"
       ],
       "metrics": {
-        "likes": 2726,
-        "retweets": 105,
-        "replies": 279,
-        "likes_h": "2.7K"
+        "likes": 3169,
+        "retweets": 120,
+        "replies": 309,
+        "likes_h": "3.2K"
       },
-      "engagement": 3215,
+      "engagement": 3718,
       "hot": true
     },
     {
@@ -1110,12 +1150,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 5824,
-        "retweets": 481,
-        "replies": 355,
+        "likes": 5831,
+        "retweets": 482,
+        "replies": 359,
         "likes_h": "5.8K"
       },
-      "engagement": 7141,
+      "engagement": 7154,
       "hot": true
     },
     {
@@ -1151,12 +1191,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 1985,
+        "likes": 1991,
         "retweets": 153,
-        "replies": 197,
+        "replies": 198,
         "likes_h": "2K"
       },
-      "engagement": 2488,
+      "engagement": 2495,
       "hot": false
     },
     {
@@ -1280,47 +1320,6 @@
         "likes_h": "14K"
       },
       "engagement": 26630,
-      "hot": true
-    },
-    {
-      "id": "x_2075310019185389913",
-      "title": "Meet Hiroki (@tomiyasu16). A broccoli farmer running his farm with GPT-5.6.",
-      "link": "https://x.com/OpenAI/status/2075310019185389913",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-07-09T20:04:00.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Product"
-      ],
-      "summary": "Meet Hiroki (@tomiyasu16). A broccoli farmer running his farm with GPT-5.6.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 72,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (gpt)",
-        "high engagement (6.9K likes)"
-      ],
-      "metrics": {
-        "likes": 6941,
-        "retweets": 707,
-        "replies": 224,
-        "likes_h": "6.9K"
-      },
-      "engagement": 8579,
       "hot": true
     }
   ]
