@@ -1,12 +1,13 @@
 {
-  "generated_at": "2026-07-16T01:04:45.522Z",
+  "generated_at": "2026-07-16T04:42:09.133Z",
   "handles": [
+    "AnthropicAI",
+    "OpenAI",
     "nvidia",
     "GoogleDeepMind",
     "elonmusk",
     "gdb",
-    "AnthropicAI",
-    "OpenAI"
+    "AIatMeta"
   ],
   "count": 32,
   "articles": [
@@ -34,19 +35,20 @@
       "summary": "Jensen. @SEGA. Akihabara. 🎮 Some collabs are just meant to be. We stepped into the heart of Tokyo's most legendary gaming district to celebrate decades of shared history, and the next era with @NVIDIARTXSpark.",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 57,
+      "worthiness_score": 60,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
-        "report-worthy"
+        "report-worthy",
+        "high engagement (1.4K likes)"
       ],
       "metrics": {
-        "likes": 186,
-        "retweets": 56,
-        "replies": 12,
-        "likes_h": "186"
+        "likes": 1428,
+        "retweets": 407,
+        "replies": 20,
+        "likes_h": "1.4K"
       },
-      "engagement": 310,
+      "engagement": 2262,
       "hot": false
     },
     {
@@ -73,7 +75,7 @@
       "summary": "Japan's biggest banks spent the last few years evaluating AI. Now they're building the infrastructure for it. 🏭 We're working with Mizuho, SMFG, Rakuten Bank, and MUFG NICOS to build the AI factories making that possible — using NVIDIA Nemotron open models and Agent Toolkit to",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 82,
+      "worthiness_score": 85,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -81,12 +83,12 @@
         "tech substance (models, nemotron, agent)"
       ],
       "metrics": {
-        "likes": 98,
-        "retweets": 18,
-        "replies": 10,
-        "likes_h": "98"
+        "likes": 242,
+        "retweets": 49,
+        "replies": 15,
+        "likes_h": "242"
       },
-      "engagement": 144,
+      "engagement": 355,
       "hot": false
     },
     {
@@ -113,7 +115,7 @@
       "summary": "Building a production-ready vision AI agent no longer takes thousands of developer hours. NVIDIA Metropolis offers 80+ open agent skills for generating synthetic data, fine-tuning models, deploying applications and unlocking real-time insights, all through natural-language",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 81,
+      "worthiness_score": 83,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -121,12 +123,12 @@
         "tech substance (models, agent, fine-tuning)"
       ],
       "metrics": {
-        "likes": 62,
-        "retweets": 9,
-        "replies": 12,
-        "likes_h": "62"
+        "likes": 124,
+        "retweets": 19,
+        "replies": 18,
+        "likes_h": "124"
       },
-      "engagement": 92,
+      "engagement": 180,
       "hot": false
     },
     {
@@ -153,7 +155,7 @@
       "summary": "Japan’s enterprises, startups and research institutions are building industry-specialized AI with NVIDIA Nemotron open models, data and libraries, helping advance AI tailored to the country’s language, industries and workforce.",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 83,
+      "worthiness_score": 86,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -161,12 +163,53 @@
         "tech substance (models, nemotron, research)"
       ],
       "metrics": {
-        "likes": 118,
-        "retweets": 20,
-        "replies": 7,
-        "likes_h": "118"
+        "likes": 380,
+        "retweets": 67,
+        "replies": 14,
+        "likes_h": "380"
       },
-      "engagement": 165,
+      "engagement": 528,
+      "hot": false
+    },
+    {
+      "id": "x_2077501603050033634",
+      "title": "A closer look at improved intelligence in GPT-Live: the model can keep a conversation going while helping with multiple tasks at once, like checking flights, pulling up local weather, and shaping an…",
+      "link": "https://x.com/OpenAI/status/2077501603050033634",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-07-15T21:12:34.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Product"
+      ],
+      "summary": "A closer look at improved intelligence in GPT-Live: the model can keep a conversation going while helping with multiple tasks at once, like checking flights, pulling up local weather, and shaping an itinerary in real time.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 83,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "tech substance (model, gpt)",
+        "high engagement (1.2K likes)"
+      ],
+      "metrics": {
+        "likes": 1227,
+        "retweets": 78,
+        "replies": 124,
+        "likes_h": "1.2K"
+      },
+      "engagement": 1507,
       "hot": false
     },
     {
@@ -193,19 +236,189 @@
       "summary": "Any single performance number only tells part of the story. AI Infrastructure performance is a Pareto Curve 🧵",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 55,
+      "worthiness_score": 56,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
         "report-worthy"
       ],
       "metrics": {
-        "likes": 122,
-        "retweets": 17,
-        "replies": 17,
-        "likes_h": "122"
+        "likes": 150,
+        "retweets": 19,
+        "replies": 19,
+        "likes_h": "150"
       },
-      "engagement": 173,
+      "engagement": 207,
+      "hot": false
+    },
+    {
+      "id": "x_2077452649000042614",
+      "title": "We tested many AI models, including Claude, in the four scenarios. Even though these weren’t real incidents, they demonstrate clear misaligned behavior that should be studied further and mitigated.…",
+      "link": "https://x.com/AnthropicAI/status/2077452649000042614",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Anthropic · @AnthropicAI",
+      "handle": "AnthropicAI",
+      "org": "Anthropic",
+      "published": "2026-07-15T17:58:03.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "Anthropic",
+        "Product"
+      ],
+      "summary": "We tested many AI models, including Claude, in the four scenarios. Even though these weren’t real incidents, they demonstrate clear misaligned behavior that should be studied further and mitigated. Find all the transcripts from the scenarios here: https://www.aenguslynch.com/portfolio-transcript-viewer/",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 57,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "reply / conversation",
+        "tech substance (models, claude)",
+        "links to a source"
+      ],
+      "metrics": {
+        "likes": 181,
+        "retweets": 7,
+        "replies": 20,
+        "likes_h": "181"
+      },
+      "engagement": 215,
+      "hot": false
+    },
+    {
+      "id": "x_2077452646303006927",
+      "title": "New Anthropic research: Agentic misalignment in Summer 2026. A year after our blackmail experiments, we found four more ways that today’s autonomous AI agents misbehave in simulations. Read more:…",
+      "link": "https://x.com/AnthropicAI/status/2077452646303006927",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Anthropic · @AnthropicAI",
+      "handle": "AnthropicAI",
+      "org": "Anthropic",
+      "published": "2026-07-15T17:58:02.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "Anthropic",
+        "Research"
+      ],
+      "summary": "New Anthropic research: Agentic misalignment in Summer 2026. A year after our blackmail experiments, we found four more ways that today’s autonomous AI agents misbehave in simulations. Read more: https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 93,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (agents, research)",
+        "links to a source",
+        "high engagement (2.2K likes)"
+      ],
+      "metrics": {
+        "likes": 2152,
+        "retweets": 250,
+        "replies": 194,
+        "likes_h": "2.2K"
+      },
+      "engagement": 2846,
+      "hot": false
+    },
+    {
+      "id": "x_2077446718728425686",
+      "title": "Introducing GPT-Red An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment.…",
+      "link": "https://x.com/OpenAI/status/2077446718728425686",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-07-15T17:34:29.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product launch",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Product launch"
+      ],
+      "summary": "Introducing GPT-Red An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment. https://openai.com/index/unlocking-self-improvement-gpt-red/",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 100,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "announcement language (introducing)",
+        "tech substance (models, gpt)",
+        "links to a source",
+        "high engagement (6.4K likes)"
+      ],
+      "metrics": {
+        "likes": 6406,
+        "retweets": 577,
+        "replies": 356,
+        "likes_h": "6.4K"
+      },
+      "engagement": 7916,
+      "hot": true
+    },
+    {
+      "id": "x_2077430470510526635",
+      "title": "You don’t have to wait. Merch inspired by research &amp; deployment. Available until sold out. https://openai.com/supply/",
+      "link": "https://x.com/OpenAI/status/2077430470510526635",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-07-15T16:29:55.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Research"
+      ],
+      "summary": "You don’t have to wait. Merch inspired by research &amp; deployment. Available until sold out. https://openai.com/supply/",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 72,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "casual tone (merch)",
+        "tech substance (research)",
+        "links to a source",
+        "high engagement (2.7K likes)"
+      ],
+      "metrics": {
+        "likes": 2726,
+        "retweets": 105,
+        "replies": 279,
+        "likes_h": "2.7K"
+      },
+      "engagement": 3215,
       "hot": false
     },
     {
@@ -238,15 +451,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (models)",
-        "high engagement (1.8K likes)"
+        "high engagement (2.1K likes)"
       ],
       "metrics": {
-        "likes": 1805,
-        "retweets": 48,
-        "replies": 145,
-        "likes_h": "1.8K"
+        "likes": 2077,
+        "retweets": 51,
+        "replies": 158,
+        "likes_h": "2.1K"
       },
-      "engagement": 2046,
+      "engagement": 2337,
       "hot": false
     },
     {
@@ -278,15 +491,15 @@
       "sentiment_score": 0,
       "reasons": [
         "report-worthy",
-        "high engagement (12.9K likes)"
+        "high engagement (14.2K likes)"
       ],
       "metrics": {
-        "likes": 12896,
-        "retweets": 1804,
-        "replies": 2515,
-        "likes_h": "12.9K"
+        "likes": 14226,
+        "retweets": 2041,
+        "replies": 2776,
+        "likes_h": "14.2K"
       },
-      "engagement": 19019,
+      "engagement": 21084,
       "hot": true
     },
     {
@@ -313,7 +526,7 @@
       "summary": "From proposing hypotheses to designing experiments, AI agents are starting to reshape scientific discovery. But the hardest part is testing these ideas in the real world. Our essay explores the growing validation bottleneck and outlines four priorities for policymakers and",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 76,
+      "worthiness_score": 77,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -321,12 +534,12 @@
         "tech substance (agents)"
       ],
       "metrics": {
-        "likes": 587,
-        "retweets": 77,
-        "replies": 50,
-        "likes_h": "587"
+        "likes": 629,
+        "retweets": 82,
+        "replies": 52,
+        "likes_h": "629"
       },
-      "engagement": 791,
+      "engagement": 845,
       "hot": false
     },
     {
@@ -361,12 +574,12 @@
         "tech substance (models)"
       ],
       "metrics": {
-        "likes": 319,
+        "likes": 322,
         "retweets": 38,
         "replies": 46,
-        "likes_h": "319"
+        "likes_h": "322"
       },
-      "engagement": 441,
+      "engagement": 444,
       "hot": false
     },
     {
@@ -448,6 +661,50 @@
         "likes_h": "374"
       },
       "engagement": 495,
+      "hot": false
+    },
+    {
+      "id": "x_2077026346375540870",
+      "title": "We’re committing $10 million CAD and partnering with leading AI institutions in Canada to help fund new AI research. https://www.anthropic.com/news/canadian-ai-research",
+      "link": "https://x.com/AnthropicAI/status/2077026346375540870",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Anthropic · @AnthropicAI",
+      "handle": "AnthropicAI",
+      "org": "Anthropic",
+      "published": "2026-07-14T13:44:04.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Funding & deals",
+      "categories": [
+        "X",
+        "Anthropic",
+        "Funding & deals"
+      ],
+      "summary": "We’re committing $10 million CAD and partnering with leading AI institutions in Canada to help fund new AI research. https://www.anthropic.com/news/canadian-ai-research",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 100,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (research)",
+        "business signal (million, partnering)",
+        "links to a source",
+        "high engagement (2.5K likes)",
+        "concrete metrics"
+      ],
+      "metrics": {
+        "likes": 2491,
+        "retweets": 226,
+        "replies": 207,
+        "likes_h": "2.5K"
+      },
+      "engagement": 3150,
       "hot": false
     },
     {
@@ -598,7 +855,7 @@
       "summary": "While the differences between models are modest overall, we find that each Claude model sits at a different point along these value axes. Sonnet 4.6, for example, is more playful and affirming, while Opus 4.7 is more likely to give candid critiques.",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 66,
+      "worthiness_score": 67,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -607,12 +864,12 @@
         "tech substance (model, models, claude)"
       ],
       "metrics": {
-        "likes": 192,
-        "retweets": 12,
-        "replies": 9,
-        "likes_h": "192"
+        "likes": 309,
+        "retweets": 18,
+        "replies": 12,
+        "likes_h": "309"
       },
-      "engagement": 225,
+      "engagement": 357,
       "hot": false
     },
     {
@@ -646,16 +903,16 @@
         "report-worthy",
         "tech substance (models, claude, research)",
         "links to a source",
-        "high engagement (2.4K likes)",
+        "high engagement (3.7K likes)",
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 2430,
-        "retweets": 242,
-        "replies": 255,
-        "likes_h": "2.4K"
+        "likes": 3669,
+        "retweets": 363,
+        "replies": 369,
+        "likes_h": "3.7K"
       },
-      "engagement": 3169,
+      "engagement": 4764,
       "hot": true
     },
     {
@@ -812,12 +1069,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 5751,
-        "retweets": 468,
-        "replies": 337,
+        "likes": 5824,
+        "retweets": 481,
+        "replies": 355,
         "likes_h": "5.8K"
       },
-      "engagement": 7024,
+      "engagement": 7141,
       "hot": true
     },
     {
@@ -853,13 +1110,13 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 1971,
-        "retweets": 148,
-        "replies": 196,
+        "likes": 1985,
+        "retweets": 153,
+        "replies": 197,
         "likes_h": "2K"
       },
-      "engagement": 2463,
-      "hot": true
+      "engagement": 2488,
+      "hot": false
     },
     {
       "id": "x_2075620281515929716",
@@ -891,15 +1148,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (model, reasoning)",
-        "high engagement (792 likes)"
+        "high engagement (795 likes)"
       ],
       "metrics": {
-        "likes": 792,
-        "retweets": 121,
+        "likes": 795,
+        "retweets": 122,
         "replies": 88,
-        "likes_h": "792"
+        "likes_h": "795"
       },
-      "engagement": 1122,
+      "engagement": 1127,
       "hot": false
     },
     {
@@ -1014,15 +1271,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (gpt)",
-        "high engagement (6.8K likes)"
+        "high engagement (6.9K likes)"
       ],
       "metrics": {
-        "likes": 6803,
-        "retweets": 690,
-        "replies": 221,
-        "likes_h": "6.8K"
+        "likes": 6941,
+        "retweets": 707,
+        "replies": 224,
+        "likes_h": "6.9K"
       },
-      "engagement": 8404,
+      "engagement": 8579,
       "hot": true
     },
     {
@@ -1062,262 +1319,6 @@
         "likes_h": "247"
       },
       "engagement": 321,
-      "hot": false
-    },
-    {
-      "id": "x_2075283846657175683",
-      "title": "NVIDIA teams run ChatGPT Work to automate workflows, surface insights faster, and cut operation costs. Our full-stack collaboration continues to scale. GPT-5.6 builds on GPT-5.5, trained and run on…",
-      "link": "https://x.com/nvidia/status/2075283846657175683",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-07-09T18:20:00.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product"
-      ],
-      "summary": "NVIDIA teams run ChatGPT Work to automate workflows, surface insights faster, and cut operation costs. Our full-stack collaboration continues to scale. GPT-5.6 builds on GPT-5.5, trained and run on NVIDIA GB200 and GB300 NVL72 rack-scale systems. Congratulations to the @OpenAI",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 61,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "casual tone (congratulations)",
-        "tech substance (gpt)",
-        "high engagement (1.2K likes)"
-      ],
-      "metrics": {
-        "likes": 1164,
-        "retweets": 110,
-        "replies": 66,
-        "likes_h": "1.2K"
-      },
-      "engagement": 1450,
-      "hot": false
-    },
-    {
-      "id": "x_2075274276849226204",
-      "title": "On web and mobile, ChatGPT Work is rolling out today for Pro, Enterprise, and Edu plans. It will roll out to Plus and Business plans over the next few days. In the ChatGPT desktop app, Chat, Work,…",
-      "link": "https://x.com/OpenAI/status/2075274276849226204",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-07-09T17:41:58.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Announcement",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Announcement"
-      ],
-      "summary": "On web and mobile, ChatGPT Work is rolling out today for Pro, Enterprise, and Edu plans. It will roll out to Plus and Business plans over the next few days. In the ChatGPT desktop app, Chat, Work, and Codex are available on every plan, including Free, and is available globally",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 72,
-      "sentiment": "positive",
-      "sentiment_score": 1,
-      "reasons": [
-        "report-worthy",
-        "reply / conversation",
-        "announcement language (rolling out)",
-        "business signal (enterprise)",
-        "high engagement (986 likes)"
-      ],
-      "metrics": {
-        "likes": 986,
-        "retweets": 61,
-        "replies": 82,
-        "likes_h": "986"
-      },
-      "engagement": 1190,
-      "hot": false
-    },
-    {
-      "id": "x_2075274275104399670",
-      "title": "ChatGPT Work is powered by GPT-5.6. GPT-5.6 makes ChatGPT state of the art at reasoning through complex tasks and creating materials that match your templates, reference files, and preferred style.…",
-      "link": "https://x.com/OpenAI/status/2075274275104399670",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-07-09T17:41:58.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Research"
-      ],
-      "summary": "ChatGPT Work is powered by GPT-5.6. GPT-5.6 makes ChatGPT state of the art at reasoning through complex tasks and creating materials that match your templates, reference files, and preferred style. Just describe the outcome you want, without having to spell out every step to",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 56,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "reply / conversation",
-        "tech substance (gpt, state of the art, reasoning)",
-        "high engagement (1.1K likes)"
-      ],
-      "metrics": {
-        "likes": 1137,
-        "retweets": 50,
-        "replies": 48,
-        "likes_h": "1.1K"
-      },
-      "engagement": 1285,
-      "hot": false
-    },
-    {
-      "id": "x_2075274271845404744",
-      "title": "Introducing ChatGPT Work, a new agent in ChatGPT powered by Codex and GPT-5.6. It can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished…",
-      "link": "https://x.com/OpenAI/status/2075274271845404744",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-07-09T17:41:57.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product launch",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Product launch"
-      ],
-      "summary": "Introducing ChatGPT Work, a new agent in ChatGPT powered by Codex and GPT-5.6. It can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work. It’s a whole new way to get work done.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 100,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "announcement language (introducing)",
-        "tech substance (gpt, agent)",
-        "high engagement (21.2K likes)"
-      ],
-      "metrics": {
-        "likes": 21196,
-        "retweets": 2179,
-        "replies": 1071,
-        "likes_h": "21.2K"
-      },
-      "engagement": 26625,
-      "hot": true
-    },
-    {
-      "id": "x_2075271435573244008",
-      "title": "GPT‑5.6 is available starting today across ChatGPT, Codex, and the OpenAI API. The rollout is starting globally now and will continue gradually toward full availability over the next 24 hours. In…",
-      "link": "https://x.com/OpenAI/status/2075271435573244008",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-07-09T17:30:41.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product launch",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Product launch"
-      ],
-      "summary": "GPT‑5.6 is available starting today across ChatGPT, Codex, and the OpenAI API. The rollout is starting globally now and will continue gradually toward full availability over the next 24 hours. In ChatGPT, Plus, Pro, Business, and Enterprise users access GPT-5.6 Sol through",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 95,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "reply / conversation",
-        "announcement language (starting today)",
-        "tech substance (gpt, api)",
-        "business signal (enterprise)",
-        "high engagement (1.1K likes)",
-        "concrete metrics"
-      ],
-      "metrics": {
-        "likes": 1137,
-        "retweets": 154,
-        "replies": 42,
-        "likes_h": "1.1K"
-      },
-      "engagement": 1487,
-      "hot": false
-    },
-    {
-      "id": "x_2075271432041545782",
-      "title": "GPT‑5.6 improves artifact quality across presentations, documents, and spreadsheets, and works better with your templates. These editable artifacts can be exported to the tools professionals already…",
-      "link": "https://x.com/OpenAI/status/2075271432041545782",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-07-09T17:30:40.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Product"
-      ],
-      "summary": "GPT‑5.6 improves artifact quality across presentations, documents, and spreadsheets, and works better with your templates. These editable artifacts can be exported to the tools professionals already use and refined as part of real enterprise workflows.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 63,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "reply / conversation",
-        "tech substance (gpt)",
-        "business signal (enterprise)"
-      ],
-      "metrics": {
-        "likes": 593,
-        "retweets": 33,
-        "replies": 8,
-        "likes_h": "593"
-      },
-      "engagement": 667,
       "hot": false
     }
   ]
