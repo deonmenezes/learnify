@@ -1,37 +1,75 @@
 {
-  "generated_at": "2026-07-16T17:25:17.178Z",
+  "generated_at": "2026-07-16T18:46:13.765Z",
   "subs": [
     "MachineLearning",
-    "Fitness",
-    "robotics",
+    "LocalLLaMA",
+    "bodyweightfitness",
+    "startups",
     "artificial",
     "investing",
-    "LocalLLaMA",
     "hardware",
     "nutrition",
+    "Fitness",
     "netsec",
     "longevity",
     "cybersecurity",
     "Futurology",
+    "robotics",
     "programming",
-    "singularity",
-    "SkincareAddiction",
-    "startups",
-    "gadgets"
+    "singularity"
   ],
   "count": 36,
   "by_category": {
+    "Startups & Funding": 4,
     "AI / ML": 9,
-    "Startups & Funding": 3,
-    "Hardware & Gadgets": 5,
-    "Fitness": 3,
+    "Hardware & Gadgets": 3,
+    "Fitness": 5,
     "Security": 5,
     "Science": 7,
     "Robotics": 2,
-    "Coding & Dev Tools": 1,
-    "Skincare": 1
+    "Coding & Dev Tools": 1
   },
   "articles": [
+    {
+      "id": "reddit_1uxtfmh",
+      "title": "Found the market, found customers, but they all want certs I cannot afford. I will not promote",
+      "link": "https://www.reddit.com/r/startups/comments/1uxtfmh/found_the_market_found_customers_but_they_all/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/startups · community knowledge",
+      "content_type": "post",
+      "author": "u/jeremyStover · r/startups",
+      "handle": "startups",
+      "org": "r/startups",
+      "platform": "reddit",
+      "published": "2026-07-16T05:15:39.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/startups"
+      ],
+      "summary": "Says it all on the title. I put a SaaS wrapper around a tool I built a couple years ago, and started to expand it over the last 2 months. I have now had talks with 3 separate investors, all who have said basically the same thing. Investors are looking for proof of life, not a proof of concept. Get 3-4 big clients, and…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/startups this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1uxg3p4",
       "title": "American Communities Are Coming Together To Destroy Flock Surveillance Cameras",
@@ -192,6 +230,46 @@
       }
     },
     {
+      "id": "reddit_1ux9xze",
+      "title": "The best model is the one you can actually run",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1ux9xze/the_best_model_is_the_one_you_can_actually_run/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/LocalLLaMA · community knowledge",
+      "content_type": "post",
+      "author": "u/OneFanFare · r/LocalLLaMA",
+      "handle": "LocalLLaMA",
+      "org": "r/LocalLLaMA",
+      "platform": "reddit",
+      "published": "2026-07-15T15:57:25.000Z",
+      "image": "https://preview.redd.it/dyi11adk1fdh1.png?width=640&crop=smart&auto=webp&s=3e0807880b61178da540f9851f1d5f46cbe368da",
+      "thumbnail": "https://preview.redd.it/dyi11adk1fdh1.png?width=640&crop=smart&auto=webp&s=3e0807880b61178da540f9851f1d5f46cbe368da",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/LocalLLaMA"
+      ],
+      "summary": "Don&#39;t get me wrong, all the big models are amazing, and every contribution to open source models is great. But I&#39;m GPU poor and I can&#39;t use them locally. I&#39;m currently running gemma-4-12b-it-qat-GGUF:UD-Q4_K_XL as my personal chat assistant, and I am so so happy with it! I still can&#39;t believe I can…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/LocalLLaMA this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1ux9ol7",
       "title": "Fortified soy milk is part of the USDA's dairy group due to its nutritional similarities with cow's milk, such as its protein, calcium, vitamin A, and vitamin D content. For those who've transitioned to soy: how's it going? For those who haven't: what's holding you back?",
       "link": "https://www.reddit.com/r/nutrition/comments/1ux9ol7/fortified_soy_milk_is_part_of_the_usdas_dairy/",
@@ -224,6 +302,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/nutrition this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1ux4ro3",
+      "title": "Are push ups, squats and pull ups enough?",
+      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1ux4ro3/are_push_ups_squats_and_pull_ups_enough/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/bodyweightfitness · community knowledge",
+      "content_type": "post",
+      "author": "u/Exciting-Fill2373 · r/bodyweightfitness",
+      "handle": "bodyweightfitness",
+      "org": "r/bodyweightfitness",
+      "platform": "reddit",
+      "published": "2026-07-15T12:42:06.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/bodyweightfitness"
+      ],
+      "summary": "Hi I am 18 yo 183cm tall guy. I am about 87kg, fat, no muscle, and I aim to get to 78 and become lean and I am wondering will this workout with calorie deficit be good enough. I never started because I could never stick to any workouts because they were all so complicated. I just finished watching a video of a guy…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/bodyweightfitness this week"
       ],
       "metrics": {
         "likes": 0,
@@ -421,6 +538,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uwtexx",
+      "title": "Built something that demonstrably works. Nobody cares. What do I do? i will not promote",
+      "link": "https://www.reddit.com/r/startups/comments/1uwtexx/built_something_that_demonstrably_works_nobody/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/startups · community knowledge",
+      "content_type": "post",
+      "author": "u/dorynz · r/startups",
+      "handle": "startups",
+      "org": "r/startups",
+      "platform": "reddit",
+      "published": "2026-07-15T02:48:27.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/startups"
+      ],
+      "summary": "5 years. A LOT of my own cash, few other shareholders that im not wanting to f over and walk away from, a product that speeds up data transfers over the internet. Im not gonna link it or name it here, not the point of this post. I&#39;m losing my mind and need some reality checks from people who&#39;ve been here.…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/startups this week"
       ],
       "metrics": {
         "likes": 0,
@@ -815,6 +972,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/longevity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uvzhq2",
+      "title": "My mobility is completely shot from sitting at a desk all day, and it's ruining my form. Where do I start?",
+      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1uvzhq2/my_mobility_is_completely_shot_from_sitting_at_a/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/bodyweightfitness · community knowledge",
+      "content_type": "post",
+      "author": "u/Sweaty-Noise696 · r/bodyweightfitness",
+      "handle": "bodyweightfitness",
+      "org": "r/bodyweightfitness",
+      "platform": "reddit",
+      "published": "2026-07-14T05:24:38.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/bodyweightfitness"
+      ],
+      "summary": "I could really use some advice because I feel like I’m hitting a massive wall before I&#39;ve even made any real progress. Between my day job and unwinding with Steam games in the evening, I spend an embarrassingly large portion of my day glued to a chair. I’m trying to take my fitness more seriously now, but my body…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/bodyweightfitness this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1251,203 +1447,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uv0x3j",
-      "title": "[Review] asian girls!!! - avene cicalfate is my holygrail",
-      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1uv0x3j/review_asian_girls_avene_cicalfate_is_my_holygrail/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/SkincareAddiction · community knowledge",
-      "content_type": "post",
-      "author": "u/InstanceNo8023 · r/SkincareAddiction",
-      "handle": "SkincareAddiction",
-      "org": "r/SkincareAddiction",
-      "platform": "reddit",
-      "published": "2026-07-13T04:07:03.000Z",
-      "image": "https://preview.redd.it/c7mcna919xch1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=72b366153a93f70a69103f4b0f9003552d272e94",
-      "thumbnail": "https://preview.redd.it/c7mcna919xch1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=72b366153a93f70a69103f4b0f9003552d272e94",
-      "section": "Skincare",
-      "category": "Skincare",
-      "genre": "Skincare",
-      "categories": [
-        "Reddit",
-        "Skincare",
-        "r/SkincareAddiction"
-      ],
-      "summary": "hi everybody, i just want to share my extreme new found love i grew for avene cicalfate repairing protective cream recently because look at the progress and the results; im so amazed because at first i was skeptical to buy avene cicalfate due to mixed reviews about it- especially as an oily dehydrated girl w hormonal…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/SkincareAddiction this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uuywvo",
-      "title": "What is a good way to validate your startup idea? I will not promote",
-      "link": "https://www.reddit.com/r/startups/comments/1uuywvo/what_is_a_good_way_to_validate_your_startup_idea/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/startups · community knowledge",
-      "content_type": "post",
-      "author": "u/TheDividendBug · r/startups",
-      "handle": "startups",
-      "org": "r/startups",
-      "platform": "reddit",
-      "published": "2026-07-13T02:28:47.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/startups"
-      ],
-      "summary": "I’ve built many products throughout my career, but one challenge I continue to struggle with is properly validating my ideas before investing significant time into building them. I often find myself getting excited about a problem, jumping straight into designing and developing a solution, and only later realizing…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/startups this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uuyhce",
-      "title": "The Most Famous AI Writing Tic Is Also the Most Mysterious",
-      "link": "https://www.reddit.com/r/artificial/comments/1uuyhce/the_most_famous_ai_writing_tic_is_also_the_most/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/artificial · community knowledge",
-      "content_type": "post",
-      "author": "u/TrespassersWilliam · r/artificial",
-      "handle": "artificial",
-      "org": "r/artificial",
-      "platform": "reddit",
-      "published": "2026-07-13T02:08:09.000Z",
-      "image": "https://external-preview.redd.it/lBEXzfLvl3XuTK9BHsht8fVSiyj6YDTqgZkevSSu91M.jpeg?width=640&crop=smart&auto=webp&s=a91a32c72e7a0605b1a92f25b4543e02fa21f85f",
-      "thumbnail": "https://external-preview.redd.it/lBEXzfLvl3XuTK9BHsht8fVSiyj6YDTqgZkevSSu91M.jpeg?width=640&crop=smart&auto=webp&s=a91a32c72e7a0605b1a92f25b4543e02fa21f85f",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/artificial"
-      ],
-      "summary": "The Most Famous AI Writing Tic Is Also the Most Mysterious",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/artificial this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uuvbwa",
-      "title": "Special Microsoft Flight Simulator controller is coming to Xbox",
-      "link": "https://www.reddit.com/r/gadgets/comments/1uuvbwa/special_microsoft_flight_simulator_controller_is/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/gadgets · community knowledge",
-      "content_type": "post",
-      "author": "u/dapperlemon · r/gadgets",
-      "handle": "gadgets",
-      "org": "r/gadgets",
-      "platform": "reddit",
-      "published": "2026-07-12T23:43:49.000Z",
-      "image": "https://external-preview.redd.it/IKR7ftKWZtV9F604xnHLXXrFY7O72SLwXNQFMR2U3qk.jpeg?width=640&crop=smart&auto=webp&s=79cd0dc092bc7ee2fbfab75f1de9a81aad511419",
-      "thumbnail": "https://external-preview.redd.it/IKR7ftKWZtV9F604xnHLXXrFY7O72SLwXNQFMR2U3qk.jpeg?width=640&crop=smart&auto=webp&s=79cd0dc092bc7ee2fbfab75f1de9a81aad511419",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/gadgets"
-      ],
-      "summary": "Special Microsoft Flight Simulator controller is coming to Xbox",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/gadgets this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uuva8m",
-      "title": "[Gamers Nexus] The Hard Drive Cartel | Criminal Conspiracy & Price Fixing",
-      "link": "https://www.reddit.com/r/hardware/comments/1uuva8m/gamers_nexus_the_hard_drive_cartel_criminal/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/hardware · community knowledge",
-      "content_type": "post",
-      "author": "u/wickedplayer494 · r/hardware",
-      "handle": "hardware",
-      "org": "r/hardware",
-      "platform": "reddit",
-      "published": "2026-07-12T23:41:47.000Z",
-      "image": "https://external-preview.redd.it/eaZpX-mL5JokC4HKDqOD30V_iKrmw2Jg1Mz64sMU_gw.jpeg?width=320&crop=smart&auto=webp&s=520118e2a84e9e821d6869e21416619aba26c553",
-      "thumbnail": "https://external-preview.redd.it/eaZpX-mL5JokC4HKDqOD30V_iKrmw2Jg1Mz64sMU_gw.jpeg?width=320&crop=smart&auto=webp&s=520118e2a84e9e821d6869e21416619aba26c553",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/hardware"
-      ],
-      "summary": "[Gamers Nexus] The Hard Drive Cartel | Criminal Conspiracy & Price Fixing",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/hardware this week"
       ],
       "metrics": {
         "likes": 0,
