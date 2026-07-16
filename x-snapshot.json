@@ -1,15 +1,57 @@
 {
-  "generated_at": "2026-07-16T09:37:36.008Z",
+  "generated_at": "2026-07-16T11:46:27.964Z",
   "handles": [
     "nvidia",
+    "GoogleDeepMind",
+    "AIatMeta",
     "OpenAI",
     "AnthropicAI",
     "gdb",
-    "elonmusk",
-    "GoogleDeepMind"
+    "elonmusk"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2077721122116640969",
+      "title": "The biosecurity landscape is rapidly evolving. To stay ahead of future outbreaks, we’re partnering with @IsomorphicLabs to outline our approach to bioresilience. Here’s how we’re deploying frontier…",
+      "link": "https://x.com/GoogleDeepMind/status/2077721122116640969",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Google DeepMind · @GoogleDeepMind",
+      "handle": "GoogleDeepMind",
+      "org": "Google",
+      "published": "2026-07-16T11:44:52.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "Google",
+        "Commentary"
+      ],
+      "summary": "The biosecurity landscape is rapidly evolving. To stay ahead of future outbreaks, we’re partnering with @IsomorphicLabs to outline our approach to bioresilience. Here’s how we’re deploying frontier AI to build proactive defenses for global health → https://goo.gle/4wKHXk2",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 75,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "business signal (partnering)",
+        "links to a source"
+      ],
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 0,
+        "likes_h": "1"
+      },
+      "engagement": 1,
+      "hot": false
+    },
     {
       "id": "x_2077545044752429330",
       "title": "Jensen. @SEGA. Akihabara. 🎮 Some collabs are just meant to be. We stepped into the heart of Tokyo's most legendary gaming district to celebrate decades of shared history, and the next era with…",
@@ -39,16 +81,16 @@
       "sentiment_score": 0,
       "reasons": [
         "report-worthy",
-        "high engagement (1.4K likes)"
+        "high engagement (2.5K likes)"
       ],
       "metrics": {
-        "likes": 1428,
-        "retweets": 407,
-        "replies": 20,
-        "likes_h": "1.4K"
+        "likes": 2549,
+        "retweets": 674,
+        "replies": 34,
+        "likes_h": "2.5K"
       },
-      "engagement": 2262,
-      "hot": false
+      "engagement": 3931,
+      "hot": true
     },
     {
       "id": "x_2077540972422946823",
@@ -74,7 +116,7 @@
       "summary": "Japan's biggest banks spent the last few years evaluating AI. Now they're building the infrastructure for it. 🏭 We're working with Mizuho, SMFG, Rakuten Bank, and MUFG NICOS to build the AI factories making that possible — using NVIDIA Nemotron open models and Agent Toolkit to",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 85,
+      "worthiness_score": 86,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -82,12 +124,12 @@
         "tech substance (models, nemotron, agent)"
       ],
       "metrics": {
-        "likes": 242,
-        "retweets": 49,
-        "replies": 15,
-        "likes_h": "242"
+        "likes": 332,
+        "retweets": 78,
+        "replies": 16,
+        "likes_h": "332"
       },
-      "engagement": 355,
+      "engagement": 504,
       "hot": false
     },
     {
@@ -114,7 +156,7 @@
       "summary": "Building a production-ready vision AI agent no longer takes thousands of developer hours. NVIDIA Metropolis offers 80+ open agent skills for generating synthetic data, fine-tuning models, deploying applications and unlocking real-time insights, all through natural-language",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 83,
+      "worthiness_score": 84,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -122,12 +164,12 @@
         "tech substance (models, agent, fine-tuning)"
       ],
       "metrics": {
-        "likes": 124,
-        "retweets": 19,
-        "replies": 18,
-        "likes_h": "124"
+        "likes": 203,
+        "retweets": 28,
+        "replies": 19,
+        "likes_h": "203"
       },
-      "engagement": 180,
+      "engagement": 278,
       "hot": false
     },
     {
@@ -162,12 +204,12 @@
         "tech substance (models, nemotron, research)"
       ],
       "metrics": {
-        "likes": 380,
-        "retweets": 67,
-        "replies": 14,
-        "likes_h": "380"
+        "likes": 515,
+        "retweets": 88,
+        "replies": 25,
+        "likes_h": "515"
       },
-      "engagement": 528,
+      "engagement": 716,
       "hot": false
     },
     {
@@ -242,12 +284,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 150,
-        "retweets": 19,
-        "replies": 19,
-        "likes_h": "150"
+        "likes": 188,
+        "retweets": 21,
+        "replies": 22,
+        "likes_h": "188"
       },
-      "engagement": 207,
+      "engagement": 252,
       "hot": false
     },
     {
@@ -418,7 +460,7 @@
         "likes_h": "2.7K"
       },
       "engagement": 3215,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2077424882502263081",
@@ -533,12 +575,12 @@
         "tech substance (agents)"
       ],
       "metrics": {
-        "likes": 629,
-        "retweets": 82,
-        "replies": 52,
-        "likes_h": "629"
+        "likes": 694,
+        "retweets": 91,
+        "replies": 59,
+        "likes_h": "694"
       },
-      "engagement": 845,
+      "engagement": 935,
       "hot": false
     },
     {
@@ -573,12 +615,12 @@
         "tech substance (models)"
       ],
       "metrics": {
-        "likes": 322,
-        "retweets": 38,
-        "replies": 46,
-        "likes_h": "322"
+        "likes": 329,
+        "retweets": 39,
+        "replies": 47,
+        "likes_h": "329"
       },
-      "engagement": 444,
+      "engagement": 454,
       "hot": false
     },
     {
@@ -704,7 +746,7 @@
         "likes_h": "2.5K"
       },
       "engagement": 3150,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2076796351241728218",
@@ -986,12 +1028,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 396,
-        "retweets": 46,
+        "likes": 397,
+        "retweets": 45,
         "replies": 47,
-        "likes_h": "396"
+        "likes_h": "397"
       },
-      "engagement": 535,
+      "engagement": 534,
       "hot": false
     },
     {
@@ -1147,15 +1189,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (model, reasoning)",
-        "high engagement (795 likes)"
+        "high engagement (799 likes)"
       ],
       "metrics": {
-        "likes": 795,
+        "likes": 799,
         "retweets": 122,
         "replies": 88,
-        "likes_h": "795"
+        "likes_h": "799"
       },
-      "engagement": 1127,
+      "engagement": 1131,
       "hot": false
     },
     {
@@ -1280,45 +1322,6 @@
       },
       "engagement": 8579,
       "hot": true
-    },
-    {
-      "id": "x_2075293913213018544",
-      "title": "The classroom is being reimagined — and NVIDIA is bringing together the people building what's next. At SIGGRAPH 2026, join an expert panel for How AI Is Changing Education — a candid look at how AI…",
-      "link": "https://x.com/nvidia/status/2075293913213018544",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-07-09T19:00:00.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Commentary"
-      ],
-      "summary": "The classroom is being reimagined — and NVIDIA is bringing together the people building what's next. At SIGGRAPH 2026, join an expert panel for How AI Is Changing Education — a candid look at how AI is reshaping the way students learn, educators teach, and institutions deliver",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 57,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy"
-      ],
-      "metrics": {
-        "likes": 247,
-        "retweets": 26,
-        "replies": 22,
-        "likes_h": "247"
-      },
-      "engagement": 321,
-      "hot": false
     }
   ]
 }
