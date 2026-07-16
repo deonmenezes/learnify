@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-16T14:04:36.099Z",
+  "generated_at": "2026-07-16T15:48:22.238Z",
   "subs": [
     "MachineLearning",
-    "Futurology",
-    "netsec",
+    "Fitness",
+    "hardware",
     "artificial",
     "investing",
     "LocalLLaMA",
     "nutrition",
-    "Fitness",
+    "netsec",
     "longevity",
     "cybersecurity",
-    "hardware",
+    "Futurology",
     "robotics",
     "programming",
     "singularity",
@@ -23,10 +23,10 @@
   "by_category": {
     "AI / ML": 9,
     "Startups & Funding": 3,
+    "Hardware & Gadgets": 5,
     "Fitness": 3,
-    "Security": 6,
+    "Security": 5,
     "Science": 7,
-    "Hardware & Gadgets": 4,
     "Robotics": 2,
     "Coding & Dev Tools": 1,
     "Skincare": 1
@@ -145,6 +145,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/LocalLLaMA this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uxblcw",
+      "title": "Smart TVs are cheap partly because manufacturers collect and sell viewing data through ACR. You can opt out, but that choice is often hard to find and easy to misunderstand.",
+      "link": "https://www.reddit.com/r/hardware/comments/1uxblcw/smart_tvs_are_cheap_partly_because_manufacturers/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/hardware · community knowledge",
+      "content_type": "post",
+      "author": "u/sp_RTINGS · r/hardware",
+      "handle": "hardware",
+      "org": "r/hardware",
+      "platform": "reddit",
+      "published": "2026-07-15T16:53:28.000Z",
+      "image": "https://external-preview.redd.it/zJNd8xvgHImMPyIPNtitWca8BHqyeEzjTn70OGVD8qQ.jpeg?width=640&crop=smart&auto=webp&s=7ba21c789d6dea7435b795c9aa4537a5362a174a",
+      "thumbnail": "https://external-preview.redd.it/zJNd8xvgHImMPyIPNtitWca8BHqyeEzjTn70OGVD8qQ.jpeg?width=640&crop=smart&auto=webp&s=7ba21c789d6dea7435b795c9aa4537a5362a174a",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/hardware"
+      ],
+      "summary": "Disclosure: I work at RTINGS.com and led this investigation. ACR stands for Automatic Content Recognition. It lets TV manufacturers identify what content is playing on your screen without needing cooperation from the app itself. This means your TV has a really global view of your viewing habits across built-in apps…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/hardware this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1409,45 +1448,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/hardware this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uuquzx",
-      "title": "Vulnerability in Realtek driver allows DMA controller abuse from user mode with no additional hardware or driver",
-      "link": "https://www.reddit.com/r/netsec/comments/1uuquzx/vulnerability_in_realtek_driver_allows_dma/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/netsec · community knowledge",
-      "content_type": "post",
-      "author": "u/zwclose · r/netsec",
-      "handle": "netsec",
-      "org": "r/netsec",
-      "platform": "reddit",
-      "published": "2026-07-12T20:39:14.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/netsec"
-      ],
-      "summary": "The vulnerability allows non-privileged users to program the DMA controller, enabling arbitrary physical memory reads and writes. &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/netsec this week"
       ],
       "metrics": {
         "likes": 0,
