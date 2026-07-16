@@ -1,38 +1,78 @@
 {
-  "generated_at": "2026-07-15T23:34:35.832Z",
+  "generated_at": "2026-07-16T01:07:00.023Z",
   "subs": [
     "MachineLearning",
-    "Futurology",
-    "netsec",
+    "artificial",
+    "nutrition",
     "investing",
     "LocalLLaMA",
     "Fitness",
+    "netsec",
     "longevity",
+    "Futurology",
     "hardware",
     "robotics",
     "cybersecurity",
     "programming",
-    "nutrition",
     "singularity",
     "SkincareAddiction",
     "startups",
     "gadgets",
-    "running",
-    "science"
+    "running"
   ],
   "count": 36,
   "by_category": {
+    "AI / ML": 9,
     "Startups & Funding": 3,
-    "AI / ML": 8,
-    "Fitness": 3,
+    "Fitness": 4,
     "Security": 5,
-    "Science": 8,
+    "Science": 7,
     "Hardware & Gadgets": 3,
-    "Robotics": 3,
+    "Robotics": 2,
     "Coding & Dev Tools": 1,
     "Skincare": 2
   },
   "articles": [
+    {
+      "id": "reddit_1uxg3p4",
+      "title": "American Communities Are Coming Together To Destroy Flock Surveillance Cameras",
+      "link": "https://www.reddit.com/r/artificial/comments/1uxg3p4/american_communities_are_coming_together_to/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/artificial · community knowledge",
+      "content_type": "post",
+      "author": "u/Sgt_Gram · r/artificial",
+      "handle": "artificial",
+      "org": "r/artificial",
+      "platform": "reddit",
+      "published": "2026-07-15T19:36:57.000Z",
+      "image": "https://external-preview.redd.it/fLdPtlo8anwWDydqu4nA5qMlRgaDsMqsZnOXAJ2gtPw.jpeg?width=640&crop=smart&auto=webp&s=594b05e6f14154fa4a460d3d4bca9786c652f81d",
+      "thumbnail": "https://external-preview.redd.it/fLdPtlo8anwWDydqu4nA5qMlRgaDsMqsZnOXAJ2gtPw.jpeg?width=640&crop=smart&auto=webp&s=594b05e6f14154fa4a460d3d4bca9786c652f81d",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/artificial"
+      ],
+      "summary": "American Communities Are Coming Together To Destroy Flock Surveillance Cameras",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/artificial this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1uxecz8",
       "title": "SpaceX falls below IPO price for first time",
@@ -106,6 +146,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/LocalLLaMA this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1ux9ol7",
+      "title": "Fortified soy milk is part of the USDA's dairy group due to its nutritional similarities with cow's milk, such as its protein, calcium, vitamin A, and vitamin D content. For those who've transitioned to soy: how's it going? For those who haven't: what's holding you back?",
+      "link": "https://www.reddit.com/r/nutrition/comments/1ux9ol7/fortified_soy_milk_is_part_of_the_usdas_dairy/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/nutrition · community knowledge",
+      "content_type": "post",
+      "author": "u/James_Fortis · r/nutrition",
+      "handle": "nutrition",
+      "org": "r/nutrition",
+      "platform": "reddit",
+      "published": "2026-07-15T15:48:47.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Nutrition",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "Nutrition",
+        "r/nutrition"
+      ],
+      "summary": "The USDA lists fortified soy milk as dairy. Most cow&#39;s milk in the USA is also fortified. Soy milk has a comparable amount of protein, calcium, vitamin A, and vitamin D. Notably, soy milk has fiber and other beneficial phytonutrients. 1 and 2% cow&#39;s milk has more saturated fat and trans fat, whereas skim milk…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/nutrition this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1142,6 +1222,46 @@
       }
     },
     {
+      "id": "reddit_1uuyhce",
+      "title": "The Most Famous AI Writing Tic Is Also the Most Mysterious",
+      "link": "https://www.reddit.com/r/artificial/comments/1uuyhce/the_most_famous_ai_writing_tic_is_also_the_most/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/artificial · community knowledge",
+      "content_type": "post",
+      "author": "u/TrespassersWilliam · r/artificial",
+      "handle": "artificial",
+      "org": "r/artificial",
+      "platform": "reddit",
+      "published": "2026-07-13T02:08:09.000Z",
+      "image": "https://external-preview.redd.it/lBEXzfLvl3XuTK9BHsht8fVSiyj6YDTqgZkevSSu91M.jpeg?width=640&crop=smart&auto=webp&s=a91a32c72e7a0605b1a92f25b4543e02fa21f85f",
+      "thumbnail": "https://external-preview.redd.it/lBEXzfLvl3XuTK9BHsht8fVSiyj6YDTqgZkevSSu91M.jpeg?width=640&crop=smart&auto=webp&s=a91a32c72e7a0605b1a92f25b4543e02fa21f85f",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/artificial"
+      ],
+      "summary": "The Most Famous AI Writing Tic Is Also the Most Mysterious",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/artificial this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1uuvbwa",
       "title": "Special Microsoft Flight Simulator controller is coming to Xbox",
       "link": "https://www.reddit.com/r/gadgets/comments/1uuvbwa/special_microsoft_flight_simulator_controller_is/",
@@ -1329,124 +1449,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/running this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uuetqz",
-      "title": "Trump’s 2020 pivot on face masks changed Republican behavior but not their medical beliefs. By tracking reactions to President Donald Trump’s unexpected endorsement of face masks in 2020, a study found that his supporters readily adopted the behavior without altering their private beliefs.",
-      "link": "https://www.reddit.com/r/science/comments/1uuetqz/trumps_2020_pivot_on_face_masks_changed/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/science · community knowledge",
-      "content_type": "post",
-      "author": "u/mvea · r/science",
-      "handle": "science",
-      "org": "r/science",
-      "platform": "reddit",
-      "published": "2026-07-12T12:59:08.000Z",
-      "image": "https://external-preview.redd.it/lPefTCZGMJZZ2_dOwTXyQt-gpc-fuj9s-SE58XaGtrU.jpeg?width=640&crop=smart&auto=webp&s=dfc05c6b12d266a601c6ab7cb3f76ecbe2ba207c",
-      "thumbnail": "https://external-preview.redd.it/lPefTCZGMJZZ2_dOwTXyQt-gpc-fuj9s-SE58XaGtrU.jpeg?width=640&crop=smart&auto=webp&s=dfc05c6b12d266a601c6ab7cb3f76ecbe2ba207c",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/science"
-      ],
-      "summary": "Trump’s 2020 pivot on face masks changed Republican behavior but not their medical beliefs. By tracking reactions to President Donald Trump’s unexpected endorsement of face masks in 2020, a study found that his supporters readily adopted the behavior without altering their private beliefs.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/science this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uubs2y",
-      "title": "Wheelchair Made Based on a Quadruped Robot",
-      "link": "https://www.reddit.com/r/robotics/comments/1uubs2y/wheelchair_made_based_on_a_quadruped_robot/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/robotics · community knowledge",
-      "content_type": "post",
-      "author": "u/Nunki08 · r/robotics",
-      "handle": "robotics",
-      "org": "r/robotics",
-      "platform": "reddit",
-      "published": "2026-07-12T10:29:36.000Z",
-      "image": "https://external-preview.redd.it/a3AxMzl5eTd6cmNoMepcoB_Xc0ge5X0L08t5WhlHplvaSsp1mTKWrV6mr4RC.png?width=640&crop=smart&auto=webp&s=9db70ad38244d9162fa903d2c0607ab1a864dfe0",
-      "thumbnail": "https://external-preview.redd.it/a3AxMzl5eTd6cmNoMepcoB_Xc0ge5X0L08t5WhlHplvaSsp1mTKWrV6mr4RC.png?width=640&crop=smart&auto=webp&s=9db70ad38244d9162fa903d2c0607ab1a864dfe0",
-      "section": "Robotics",
-      "category": "Robotics",
-      "genre": "Robotics",
-      "categories": [
-        "Reddit",
-        "Robotics",
-        "r/robotics"
-      ],
-      "summary": "Full video: YouTube: JLaservideo: I Built My Dad Bionic Legs!: https://www.youtube.com/watch?v=ZyHrKD3SE-M It&#39;s an Unitree B2: https://shop.unitree.com/products/unitree-b2 &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/robotics this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uu8vjo",
-      "title": "The worst people are fighting",
-      "link": "https://www.reddit.com/r/singularity/comments/1uu8vjo/the_worst_people_are_fighting/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/singularity · community knowledge",
-      "content_type": "post",
-      "author": "u/VariationLivid3193 · r/singularity",
-      "handle": "singularity",
-      "org": "r/singularity",
-      "platform": "reddit",
-      "published": "2026-07-12T07:41:00.000Z",
-      "image": "https://preview.redd.it/yfvv02la6rch1.jpeg?width=640&crop=smart&auto=webp&s=0dc6d33b4eed1238edbc83c289a876738e8c830d",
-      "thumbnail": "https://preview.redd.it/yfvv02la6rch1.jpeg?width=640&crop=smart&auto=webp&s=0dc6d33b4eed1238edbc83c289a876738e8c830d",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/singularity"
-      ],
-      "summary": "The worst people are fighting",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/singularity this week"
       ],
       "metrics": {
         "likes": 0,

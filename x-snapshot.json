@@ -1,16 +1,134 @@
 {
-  "generated_at": "2026-07-15T23:32:20.742Z",
+  "generated_at": "2026-07-16T01:04:45.522Z",
   "handles": [
     "nvidia",
     "GoogleDeepMind",
     "elonmusk",
     "gdb",
     "AnthropicAI",
-    "OpenAI",
-    "AIatMeta"
+    "OpenAI"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2077545044752429330",
+      "title": "Jensen. @SEGA. Akihabara. 🎮 Some collabs are just meant to be. We stepped into the heart of Tokyo's most legendary gaming district to celebrate decades of shared history, and the next era with…",
+      "link": "https://x.com/nvidia/status/2077545044752429330",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-07-16T00:05:12.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Commentary"
+      ],
+      "summary": "Jensen. @SEGA. Akihabara. 🎮 Some collabs are just meant to be. We stepped into the heart of Tokyo's most legendary gaming district to celebrate decades of shared history, and the next era with @NVIDIARTXSpark.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 57,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy"
+      ],
+      "metrics": {
+        "likes": 186,
+        "retweets": 56,
+        "replies": 12,
+        "likes_h": "186"
+      },
+      "engagement": 310,
+      "hot": false
+    },
+    {
+      "id": "x_2077540972422946823",
+      "title": "Japan's biggest banks spent the last few years evaluating AI. Now they're building the infrastructure for it. 🏭 We're working with Mizuho, SMFG, Rakuten Bank, and MUFG NICOS to build the AI…",
+      "link": "https://x.com/nvidia/status/2077540972422946823",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-07-15T23:49:01.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "Japan's biggest banks spent the last few years evaluating AI. Now they're building the infrastructure for it. 🏭 We're working with Mizuho, SMFG, Rakuten Bank, and MUFG NICOS to build the AI factories making that possible — using NVIDIA Nemotron open models and Agent Toolkit to",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 82,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "tech substance (models, nemotron, agent)"
+      ],
+      "metrics": {
+        "likes": 98,
+        "retweets": 18,
+        "replies": 10,
+        "likes_h": "98"
+      },
+      "engagement": 144,
+      "hot": false
+    },
+    {
+      "id": "x_2077540620394958889",
+      "title": "Building a production-ready vision AI agent no longer takes thousands of developer hours. NVIDIA Metropolis offers 80+ open agent skills for generating synthetic data, fine-tuning models, deploying…",
+      "link": "https://x.com/nvidia/status/2077540620394958889",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-07-15T23:47:37.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "Building a production-ready vision AI agent no longer takes thousands of developer hours. NVIDIA Metropolis offers 80+ open agent skills for generating synthetic data, fine-tuning models, deploying applications and unlocking real-time insights, all through natural-language",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 81,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "tech substance (models, agent, fine-tuning)"
+      ],
+      "metrics": {
+        "likes": 62,
+        "retweets": 9,
+        "replies": 12,
+        "likes_h": "62"
+      },
+      "engagement": 92,
+      "hot": false
+    },
     {
       "id": "x_2077528638505861566",
       "title": "Japan’s enterprises, startups and research institutions are building industry-specialized AI with NVIDIA Nemotron open models, data and libraries, helping advance AI tailored to the country’s…",
@@ -35,7 +153,7 @@
       "summary": "Japan’s enterprises, startups and research institutions are building industry-specialized AI with NVIDIA Nemotron open models, data and libraries, helping advance AI tailored to the country’s language, industries and workforce.",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 81,
+      "worthiness_score": 83,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -43,12 +161,12 @@
         "tech substance (models, nemotron, research)"
       ],
       "metrics": {
-        "likes": 53,
-        "retweets": 10,
+        "likes": 118,
+        "retweets": 20,
         "replies": 7,
-        "likes_h": "53"
+        "likes_h": "118"
       },
-      "engagement": 80,
+      "engagement": 165,
       "hot": false
     },
     {
@@ -82,12 +200,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 108,
+        "likes": 122,
         "retweets": 17,
-        "replies": 16,
-        "likes_h": "108"
+        "replies": 17,
+        "likes_h": "122"
       },
-      "engagement": 158,
+      "engagement": 173,
       "hot": false
     },
     {
@@ -120,15 +238,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (models)",
-        "high engagement (1.7K likes)"
+        "high engagement (1.8K likes)"
       ],
       "metrics": {
-        "likes": 1726,
+        "likes": 1805,
         "retweets": 48,
-        "replies": 141,
-        "likes_h": "1.7K"
+        "replies": 145,
+        "likes_h": "1.8K"
       },
-      "engagement": 1963,
+      "engagement": 2046,
       "hot": false
     },
     {
@@ -160,15 +278,15 @@
       "sentiment_score": 0,
       "reasons": [
         "report-worthy",
-        "high engagement (12.3K likes)"
+        "high engagement (12.9K likes)"
       ],
       "metrics": {
-        "likes": 12316,
-        "retweets": 1667,
-        "replies": 2436,
-        "likes_h": "12.3K"
+        "likes": 12896,
+        "retweets": 1804,
+        "replies": 2515,
+        "likes_h": "12.9K"
       },
-      "engagement": 18086,
+      "engagement": 19019,
       "hot": true
     },
     {
@@ -203,12 +321,12 @@
         "tech substance (agents)"
       ],
       "metrics": {
-        "likes": 575,
-        "retweets": 75,
-        "replies": 49,
-        "likes_h": "575"
+        "likes": 587,
+        "retweets": 77,
+        "replies": 50,
+        "likes_h": "587"
       },
-      "engagement": 774,
+      "engagement": 791,
       "hot": false
     },
     {
@@ -243,12 +361,12 @@
         "tech substance (models)"
       ],
       "metrics": {
-        "likes": 318,
+        "likes": 319,
         "retweets": 38,
         "replies": 46,
-        "likes_h": "318"
+        "likes_h": "319"
       },
-      "engagement": 440,
+      "engagement": 441,
       "hot": false
     },
     {
@@ -777,11 +895,11 @@
       ],
       "metrics": {
         "likes": 792,
-        "retweets": 120,
+        "retweets": 121,
         "replies": 88,
         "likes_h": "792"
       },
-      "engagement": 1120,
+      "engagement": 1122,
       "hot": false
     },
     {
@@ -1200,133 +1318,6 @@
         "likes_h": "593"
       },
       "engagement": 667,
-      "hot": false
-    },
-    {
-      "id": "x_2075257492716879967",
-      "title": "Our Long-Term Benefit Trust has appointed Dr. Ben Bernanke as its newest member. Read more: https://www.anthropic.com/news/ben-bernanke",
-      "link": "https://x.com/AnthropicAI/status/2075257492716879967",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Anthropic · @AnthropicAI",
-      "handle": "AnthropicAI",
-      "org": "Anthropic",
-      "published": "2026-07-09T16:35:17.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "Anthropic",
-        "Commentary"
-      ],
-      "summary": "Our Long-Term Benefit Trust has appointed Dr. Ben Bernanke as its newest member. Read more: https://www.anthropic.com/news/ben-bernanke",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 66,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "links to a source",
-        "high engagement (1.5K likes)"
-      ],
-      "metrics": {
-        "likes": 1549,
-        "retweets": 136,
-        "replies": 182,
-        "likes_h": "1.5K"
-      },
-      "engagement": 2003,
-      "hot": false
-    },
-    {
-      "id": "x_2075221088821518394",
-      "title": "We’re excited to introduce Muse Spark 1.1, a significant upgrade from the first Muse Spark model we released earlier this year. Along with this release, we are launching a public preview of the new…",
-      "link": "https://x.com/AIatMeta/status/2075221088821518394",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "AI at Meta · @AIatMeta",
-      "handle": "AIatMeta",
-      "org": "Meta",
-      "published": "2026-07-09T14:10:37.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product launch",
-      "categories": [
-        "X",
-        "Meta",
-        "Product launch"
-      ],
-      "summary": "We’re excited to introduce Muse Spark 1.1, a significant upgrade from the first Muse Spark model we released earlier this year. Along with this release, we are launching a public preview of the new Meta Model API where developers can access Muse Spark 1.1. The model is also",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 100,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "casual tone (this)",
-        "announcement language (launching, release, released)",
-        "tech substance (model, api)",
-        "high engagement (5K likes)"
-      ],
-      "metrics": {
-        "likes": 5005,
-        "retweets": 587,
-        "replies": 283,
-        "likes_h": "5K"
-      },
-      "engagement": 6462,
-      "hot": true
-    },
-    {
-      "id": "x_2075005777522172146",
-      "title": "We’re pleased to have collaborated with AE Studio on this research. Read more here: https://www.anthropic.com/research/off-switch-dual-use",
-      "link": "https://x.com/AnthropicAI/status/2075005777522172146",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Anthropic · @AnthropicAI",
-      "handle": "AnthropicAI",
-      "org": "Anthropic",
-      "published": "2026-07-08T23:55:03.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "Anthropic",
-        "Research"
-      ],
-      "summary": "We’re pleased to have collaborated with AE Studio on this research. Read more here: https://www.anthropic.com/research/off-switch-dual-use",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 72,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "casual tone (this)",
-        "tech substance (research)",
-        "links to a source",
-        "high engagement (1.7K likes)"
-      ],
-      "metrics": {
-        "likes": 1660,
-        "retweets": 143,
-        "replies": 109,
-        "likes_h": "1.7K"
-      },
-      "engagement": 2055,
       "hot": false
     }
   ]
