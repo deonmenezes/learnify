@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-16T07:28:00.533Z",
+  "generated_at": "2026-07-16T09:39:46.998Z",
   "subs": [
     "MachineLearning",
+    "programming",
+    "cybersecurity",
     "artificial",
-    "nutrition",
     "investing",
     "LocalLLaMA",
+    "nutrition",
     "Fitness",
     "netsec",
     "longevity",
     "Futurology",
     "hardware",
     "robotics",
-    "cybersecurity",
-    "programming",
     "singularity",
     "SkincareAddiction",
     "startups",
@@ -24,12 +24,12 @@
     "AI / ML": 9,
     "Startups & Funding": 3,
     "Fitness": 3,
-    "Security": 5,
+    "Security": 6,
     "Science": 7,
     "Hardware & Gadgets": 4,
     "Robotics": 2,
     "Coding & Dev Tools": 1,
-    "Skincare": 2
+    "Skincare": 1
   },
   "articles": [
     {
@@ -303,6 +303,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/longevity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uwz3b1",
+      "title": "Microsoft’s Secure Boot has been broken for a decade and no one noticed until now",
+      "link": "https://www.reddit.com/r/cybersecurity/comments/1uwz3b1/microsofts_secure_boot_has_been_broken_for_a/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/cybersecurity · community knowledge",
+      "content_type": "post",
+      "author": "u/rkhunter_ · r/cybersecurity",
+      "handle": "cybersecurity",
+      "org": "r/cybersecurity",
+      "platform": "reddit",
+      "published": "2026-07-15T07:44:55.000Z",
+      "image": "https://external-preview.redd.it/1mI9XiwuPE_zgYXa4PHULah8zNPW01OW740VRFgmdcA.jpeg?width=640&crop=smart&auto=webp&s=188cc9c5a01c301659c04b680b59cad72e7bc2ef",
+      "thumbnail": "https://external-preview.redd.it/1mI9XiwuPE_zgYXa4PHULah8zNPW01OW740VRFgmdcA.jpeg?width=640&crop=smart&auto=webp&s=188cc9c5a01c301659c04b680b59cad72e7bc2ef",
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/cybersecurity"
+      ],
+      "summary": "An industry-wide standard Microsoft invented to protect Windows, and later Linux, devices from firmware infections has been trivial to bypass for 13 of its 14 years of existence. The discovery was made by researchers at security firm ESET after identifying 11 firmware images, at least one from 2013, that were known to…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/cybersecurity this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1409,45 +1448,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/netsec this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uunaoo",
-      "title": "[MISC] i cannot believe myself. please laugh with/at me",
-      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1uunaoo/misc_i_cannot_believe_myself_please_laugh_withat/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/SkincareAddiction · community knowledge",
-      "content_type": "post",
-      "author": "u/Unusual_Diver1973 · r/SkincareAddiction",
-      "handle": "SkincareAddiction",
-      "org": "r/SkincareAddiction",
-      "platform": "reddit",
-      "published": "2026-07-12T18:24:53.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Skincare",
-      "category": "Skincare",
-      "genre": "Skincare",
-      "categories": [
-        "Reddit",
-        "Skincare",
-        "r/SkincareAddiction"
-      ],
-      "summary": "i’ve been using this cleanser as a toner for almost an entire week 😭😭 TWICE daily!! i thought it was the milky toner!!! i went to ulta to treat myself after a rough day at work, and i stared at the byoma shelf trying to find the milky toner. i swore this was it but i should’ve known the color was wrong 😭 i needed…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/SkincareAddiction this week"
       ],
       "metrics": {
         "likes": 0,
