@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-17T14:17:03.543Z",
+  "generated_at": "2026-07-17T16:01:01.329Z",
   "subs": [
     "MachineLearning",
     "artificial",
-    "running",
+    "nutrition",
     "investing",
     "SkincareAddiction",
     "netsec",
@@ -13,7 +13,6 @@
     "science",
     "LocalLLaMA",
     "hardware",
-    "nutrition",
     "bodyweightfitness",
     "Fitness",
     "longevity",
@@ -23,17 +22,97 @@
   ],
   "count": 36,
   "by_category": {
+    "Fitness": 5,
+    "AI / ML": 6,
     "Startups & Funding": 5,
     "Skincare": 1,
     "Security": 6,
-    "Coding & Dev Tools": 3,
-    "AI / ML": 5,
+    "Coding & Dev Tools": 2,
     "Science": 6,
     "Hardware & Gadgets": 4,
-    "Fitness": 5,
     "Robotics": 1
   },
   "articles": [
+    {
+      "id": "reddit_1uyuwy4",
+      "title": "Hazelnut Spread Has Got Worse - 14x the Glycemic Load of its Origins",
+      "link": "https://www.reddit.com/r/nutrition/comments/1uyuwy4/hazelnut_spread_has_got_worse_14x_the_glycemic/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/nutrition · community knowledge",
+      "content_type": "post",
+      "author": "u/melt_chocolates_lnd · r/nutrition",
+      "handle": "nutrition",
+      "org": "r/nutrition",
+      "platform": "reddit",
+      "published": "2026-07-17T09:35:19.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Nutrition",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "Nutrition",
+        "r/nutrition"
+      ],
+      "summary": "So the Original hazelnut spread - is Gianduja from the 1800s. It contained 50% roasted hazlenuts 50% cacao mass. The Current Supermarket Hazelnut spreads are - 140g roasted hazelnuts 500g Sugar 170g Palm Oil Cacao Powder Skimmed Milk . So that&#39;s 60% sugar. The Nutrient Density is 25x higher in the original. The…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/nutrition this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uyuka8",
+      "title": "Linus Torvalds says Linux is not an anti-AI project, and if you don't like that, then \"fork it or just walk away\"",
+      "link": "https://www.reddit.com/r/artificial/comments/1uyuka8/linus_torvalds_says_linux_is_not_an_antiai/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/artificial · community knowledge",
+      "content_type": "post",
+      "author": "u/Dapper_Order7182 · r/artificial",
+      "handle": "artificial",
+      "org": "r/artificial",
+      "platform": "reddit",
+      "published": "2026-07-17T09:14:27.000Z",
+      "image": "https://external-preview.redd.it/J0EyWc8FocLmLzGCWF-fhk8XqCmO6IasOYedV4AoQ8M.jpeg?width=640&crop=smart&auto=webp&s=3ecf40fac976624b80c8a4f9b9e204fa82336371",
+      "thumbnail": "https://external-preview.redd.it/J0EyWc8FocLmLzGCWF-fhk8XqCmO6IasOYedV4AoQ8M.jpeg?width=640&crop=smart&auto=webp&s=3ecf40fac976624b80c8a4f9b9e204fa82336371",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/artificial"
+      ],
+      "summary": "Linus Torvalds says Linux is not an anti-AI project, and if you don't like that, then \"fork it or just walk away\"",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/artificial this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1uyejki",
       "title": "Trump Media Sells Faster Access to Trump's Posts for Wall Street Traders",
@@ -1368,85 +1447,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/bodyweightfitness this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uvszuq",
-      "title": "HTTP gets a QUERY method so complex searches can stop pretending to be POST",
-      "link": "https://www.reddit.com/r/programming/comments/1uvszuq/http_gets_a_query_method_so_complex_searches_can/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/programming · community knowledge",
-      "content_type": "post",
-      "author": "u/stronghup · r/programming",
-      "handle": "programming",
-      "org": "r/programming",
-      "platform": "reddit",
-      "published": "2026-07-14T00:16:42.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Coding & Dev Tools",
-      "category": "Coding & Dev Tools",
-      "genre": "Coding & Dev Tools",
-      "categories": [
-        "Reddit",
-        "Coding & Dev Tools",
-        "r/programming"
-      ],
-      "summary": "HTTP gets a QUERY method so complex searches can stop pretending to be POST",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/programming this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uvszbj",
-      "title": "Coffee with butter?",
-      "link": "https://www.reddit.com/r/nutrition/comments/1uvszbj/coffee_with_butter/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/nutrition · community knowledge",
-      "content_type": "post",
-      "author": "u/0URD4YSAR3NUM83RED · r/nutrition",
-      "handle": "nutrition",
-      "org": "r/nutrition",
-      "platform": "reddit",
-      "published": "2026-07-14T00:16:04.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Nutrition",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "Nutrition",
-        "r/nutrition"
-      ],
-      "summary": "Read a post about people putting butter in their black coffee, why?? What’s the benefits and how does this affect your macros if worrying about that? &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/nutrition this week"
       ],
       "metrics": {
         "likes": 0,
