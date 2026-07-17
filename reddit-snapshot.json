@@ -1,13 +1,15 @@
 {
-  "generated_at": "2026-07-17T10:53:45.975Z",
+  "generated_at": "2026-07-17T12:16:34.392Z",
   "subs": [
     "MachineLearning",
-    "programming",
-    "cybersecurity",
+    "Futurology",
+    "gadgets",
     "investing",
     "SkincareAddiction",
     "netsec",
+    "cybersecurity",
     "startups",
+    "programming",
     "artificial",
     "science",
     "LocalLLaMA",
@@ -16,7 +18,6 @@
     "bodyweightfitness",
     "Fitness",
     "longevity",
-    "Futurology",
     "robotics"
   ],
   "count": 36,
@@ -25,9 +26,9 @@
     "Skincare": 1,
     "Security": 6,
     "Coding & Dev Tools": 3,
-    "AI / ML": 6,
+    "AI / ML": 5,
     "Science": 6,
-    "Hardware & Gadgets": 3,
+    "Hardware & Gadgets": 4,
     "Fitness": 5,
     "Robotics": 1
   },
@@ -783,6 +784,45 @@
       }
     },
     {
+      "id": "reddit_1uwu1f4",
+      "title": "Samsung's slower version of the 990 Pro SSD costs way more than the original",
+      "link": "https://www.reddit.com/r/gadgets/comments/1uwu1f4/samsungs_slower_version_of_the_990_pro_ssd_costs/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/gadgets · community knowledge",
+      "content_type": "post",
+      "author": "u/dapperlemon · r/gadgets",
+      "handle": "gadgets",
+      "org": "r/gadgets",
+      "platform": "reddit",
+      "published": "2026-07-15T03:17:57.000Z",
+      "image": "https://external-preview.redd.it/EY_RRpg5Amb5X5KWUFuR8w7UUY_Ox8_vRpO2rsM9_4s.jpeg?width=640&crop=smart&auto=webp&s=58d3d33509ee6be1101d1d4b8fb5703faa623f10",
+      "thumbnail": "https://external-preview.redd.it/EY_RRpg5Amb5X5KWUFuR8w7UUY_Ox8_vRpO2rsM9_4s.jpeg?width=640&crop=smart&auto=webp&s=58d3d33509ee6be1101d1d4b8fb5703faa623f10",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/gadgets"
+      ],
+      "summary": "Samsung's slower version of the 990 Pro SSD costs way more than the original",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/gadgets this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1uwtexx",
       "title": "Built something that demonstrably works. Nobody cares. What do I do? i will not promote",
       "link": "https://www.reddit.com/r/startups/comments/1uwtexx/built_something_that_demonstrably_works_nobody/",
@@ -1406,46 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/nutrition this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uvlwz0",
-      "title": "This is why we need local models and opensource harnesses",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1uvlwz0/this_is_why_we_need_local_models_and_opensource/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/LocalLLaMA · community knowledge",
-      "content_type": "post",
-      "author": "u/Comfortable-Rock-498 · r/LocalLLaMA",
-      "handle": "LocalLLaMA",
-      "org": "r/LocalLLaMA",
-      "platform": "reddit",
-      "published": "2026-07-13T19:41:33.000Z",
-      "image": "https://preview.redd.it/4o8n4hjmv1dh1.png?width=640&crop=smart&auto=webp&s=1e39fd9fcdb436fd4d0760c942176ede35f788b5",
-      "thumbnail": "https://preview.redd.it/4o8n4hjmv1dh1.png?width=640&crop=smart&auto=webp&s=1e39fd9fcdb436fd4d0760c942176ede35f788b5",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/LocalLLaMA"
-      ],
-      "summary": "This is why we need local models and opensource harnesses",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/LocalLLaMA this week"
       ],
       "metrics": {
         "likes": 0,
