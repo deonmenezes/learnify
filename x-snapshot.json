@@ -1,15 +1,55 @@
 {
-  "generated_at": "2026-07-16T23:01:45.041Z",
+  "generated_at": "2026-07-17T00:10:12.440Z",
   "handles": [
-    "OpenAI",
-    "GoogleDeepMind",
     "nvidia",
+    "GoogleDeepMind",
+    "AIatMeta",
+    "OpenAI",
     "AnthropicAI",
     "gdb",
     "elonmusk"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2077830629568205266",
+      "title": "Nations have always invested in critical infrastructure to grow their economies and improve citizens’ lives, from transportation and communications to commerce, entertainment and healthcare. Today,…",
+      "link": "https://x.com/nvidia/status/2077830629568205266",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-07-16T19:00:00.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Commentary"
+      ],
+      "summary": "Nations have always invested in critical infrastructure to grow their economies and improve citizens’ lives, from transportation and communications to commerce, entertainment and healthcare. Today, AI is the most important layer of that infrastructure. It is turbocharging",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 56,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy"
+      ],
+      "metrics": {
+        "likes": 141,
+        "retweets": 17,
+        "replies": 14,
+        "likes_h": "141"
+      },
+      "engagement": 189,
+      "hot": false
+    },
     {
       "id": "x_2077807977193714080",
       "title": "In racing, tiny margins matter. AI can help teams find them. OpenAI’s Joyce Ruffell and @RaceTekSystems co-founder @GarageGuyChase discuss with @AndrewMayne how racing teams use AI to turn track data…",
@@ -83,12 +123,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 352,
-        "retweets": 48,
-        "replies": 37,
-        "likes_h": "352"
+        "likes": 397,
+        "retweets": 53,
+        "replies": 40,
+        "likes_h": "397"
       },
-      "engagement": 485,
+      "engagement": 543,
       "hot": false
     },
     {
@@ -120,15 +160,15 @@
       "sentiment_score": 0,
       "reasons": [
         "report-worthy",
-        "high engagement (3.1K likes)"
+        "high engagement (3.2K likes)"
       ],
       "metrics": {
-        "likes": 3071,
-        "retweets": 771,
-        "replies": 43,
-        "likes_h": "3.1K"
+        "likes": 3235,
+        "retweets": 796,
+        "replies": 46,
+        "likes_h": "3.2K"
       },
-      "engagement": 4656,
+      "engagement": 4873,
       "hot": true
     },
     {
@@ -163,12 +203,12 @@
         "tech substance (models, nemotron, agent)"
       ],
       "metrics": {
-        "likes": 379,
-        "retweets": 90,
+        "likes": 394,
+        "retweets": 91,
         "replies": 21,
-        "likes_h": "379"
+        "likes_h": "394"
       },
-      "engagement": 580,
+      "engagement": 597,
       "hot": false
     },
     {
@@ -203,12 +243,12 @@
         "tech substance (models, agent, fine-tuning)"
       ],
       "metrics": {
-        "likes": 246,
-        "retweets": 32,
+        "likes": 266,
+        "retweets": 34,
         "replies": 22,
-        "likes_h": "246"
+        "likes_h": "266"
       },
-      "engagement": 332,
+      "engagement": 356,
       "hot": false
     },
     {
@@ -243,12 +283,12 @@
         "tech substance (models, nemotron, research)"
       ],
       "metrics": {
-        "likes": 578,
-        "retweets": 95,
+        "likes": 602,
+        "retweets": 101,
         "replies": 28,
-        "likes_h": "578"
+        "likes_h": "602"
       },
-      "engagement": 796,
+      "engagement": 832,
       "hot": false
     },
     {
@@ -323,12 +363,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 211,
+        "likes": 216,
         "retweets": 26,
         "replies": 22,
-        "likes_h": "211"
+        "likes_h": "216"
       },
-      "engagement": 285,
+      "engagement": 290,
       "hot": false
     },
     {
@@ -612,15 +652,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (agents)",
-        "high engagement (727 likes)"
+        "high engagement (744 likes)"
       ],
       "metrics": {
-        "likes": 727,
-        "retweets": 94,
+        "likes": 744,
+        "retweets": 96,
         "replies": 63,
-        "likes_h": "727"
+        "likes_h": "744"
       },
-      "engagement": 978,
+      "engagement": 999,
       "hot": false
     },
     {
@@ -1068,12 +1108,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 399,
-        "retweets": 46,
+        "likes": 400,
+        "retweets": 47,
         "replies": 47,
-        "likes_h": "399"
+        "likes_h": "400"
       },
-      "engagement": 538,
+      "engagement": 541,
       "hot": false
     },
     {
@@ -1229,15 +1269,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (model, reasoning)",
-        "high engagement (802 likes)"
+        "high engagement (804 likes)"
       ],
       "metrics": {
-        "likes": 802,
-        "retweets": 125,
-        "replies": 90,
-        "likes_h": "802"
+        "likes": 804,
+        "retweets": 128,
+        "replies": 91,
+        "likes_h": "804"
       },
-      "engagement": 1142,
+      "engagement": 1151,
       "hot": false
     },
     {
@@ -1280,47 +1320,6 @@
       },
       "engagement": 1148,
       "hot": false
-    },
-    {
-      "id": "x_2075367885438890134",
-      "title": "Starmind https://www.spacex.com/spacexai/starmind#power-generation",
-      "link": "https://x.com/elonmusk/status/2075367885438890134",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Elon Musk · @elonmusk",
-      "handle": "elonmusk",
-      "org": "xAI/Tesla",
-      "published": "2026-07-09T23:53:57.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "xAI/Tesla",
-        "Commentary"
-      ],
-      "summary": "Starmind https://www.spacex.com/spacexai/starmind#power-generation",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 60,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "links to a source",
-        "high engagement (14K likes)"
-      ],
-      "metrics": {
-        "likes": 14025,
-        "retweets": 4018,
-        "replies": 4569,
-        "likes_h": "14K"
-      },
-      "engagement": 26630,
-      "hot": true
     }
   ]
 }
