@@ -1,35 +1,74 @@
 {
-  "generated_at": "2026-07-17T00:12:26.051Z",
+  "generated_at": "2026-07-17T03:51:40.431Z",
   "subs": [
     "MachineLearning",
-    "longevity",
-    "hardware",
+    "science",
+    "netsec",
     "startups",
     "artificial",
     "investing",
     "LocalLLaMA",
+    "hardware",
     "nutrition",
     "bodyweightfitness",
     "Fitness",
-    "netsec",
+    "longevity",
     "cybersecurity",
     "Futurology",
     "robotics",
-    "programming",
-    "singularity"
+    "programming"
   ],
   "count": 36,
   "by_category": {
+    "Security": 6,
     "Startups & Funding": 4,
-    "AI / ML": 9,
+    "AI / ML": 7,
+    "Science": 8,
     "Hardware & Gadgets": 3,
     "Fitness": 5,
-    "Security": 5,
-    "Science": 7,
     "Robotics": 2,
     "Coding & Dev Tools": 1
   },
   "articles": [
+    {
+      "id": "reddit_1uy4iyq",
+      "title": "No Shark is Safe: Millions of Shark Vacuums are Vulnerable to RCE",
+      "link": "https://www.reddit.com/r/netsec/comments/1uy4iyq/no_shark_is_safe_millions_of_shark_vacuums_are/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/netsec · community knowledge",
+      "content_type": "post",
+      "author": "u/an0n9021O · r/netsec",
+      "handle": "netsec",
+      "org": "r/netsec",
+      "platform": "reddit",
+      "published": "2026-07-16T14:30:53.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/netsec"
+      ],
+      "summary": "No Shark is Safe: Millions of Shark Vacuums are Vulnerable to RCE",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/netsec this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1uxtfmh",
       "title": "Found the market, found customers, but they all want certs I cannot afford. I will not promote",
@@ -143,6 +182,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/investing this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uxe8tw",
+      "title": "Horses recognize a predator on a video screen with no sounds or smells for context, a study finds. Sensors showed horse heart rates increased when they viewed wolves, but they kept a poker face – overall displaying an unexpectedly high level of cognitive processing for prey animals, researchers say.",
+      "link": "https://www.reddit.com/r/science/comments/1uxe8tw/horses_recognize_a_predator_on_a_video_screen/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/science · community knowledge",
+      "content_type": "post",
+      "author": "u/memorialmonorail · r/science",
+      "handle": "science",
+      "org": "r/science",
+      "platform": "reddit",
+      "published": "2026-07-15T18:26:24.000Z",
+      "image": "https://external-preview.redd.it/6KmIcxOadlfBfpm7fiJZsm9CHpSHIIcU1Pi3DoKgBWc.jpeg?width=640&crop=smart&auto=webp&s=0034c7a56baaadc59d5185fb6aed68ee8c2304c2",
+      "thumbnail": "https://external-preview.redd.it/6KmIcxOadlfBfpm7fiJZsm9CHpSHIIcU1Pi3DoKgBWc.jpeg?width=640&crop=smart&auto=webp&s=0034c7a56baaadc59d5185fb6aed68ee8c2304c2",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/science"
+      ],
+      "summary": "Horses recognize a predator on a video screen with no sounds or smells for context, a study finds. Sensors showed horse heart rates increased when they viewed wolves, but they kept a poker face – overall displaying an unexpectedly high level of cognitive processing for prey animals, researchers say.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/science this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1367,86 +1445,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/netsec this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uv399n",
-      "title": "Yuji Tachikawa, one of the world’s leading theoretical physicists, reports Claude Fable solved a problem that he and his collaborators had gotten stuck on for the past 6 months",
-      "link": "https://www.reddit.com/r/singularity/comments/1uv399n/yuji_tachikawa_one_of_the_worlds_leading/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/singularity · community knowledge",
-      "content_type": "post",
-      "author": "u/socoolandawesome · r/singularity",
-      "handle": "singularity",
-      "org": "r/singularity",
-      "platform": "reddit",
-      "published": "2026-07-13T06:12:03.000Z",
-      "image": "https://preview.redd.it/opgu0t0cvxch1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=d086806a4291f1a5ad4e11d767ef05362153c72d",
-      "thumbnail": "https://preview.redd.it/opgu0t0cvxch1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=d086806a4291f1a5ad4e11d767ef05362153c72d",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/singularity"
-      ],
-      "summary": "Link to tweet: https://x.com/yujitach/status/2076327681562644709?s=20 Edit: He has since deleted his tweet, not because he takes back what he said or anything like that, but because he didn’t like the type of attention he was getting: https://x.com/yujitach/status/2076682201626992776?s=20 &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/singularity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uv1xb3",
-      "title": "Prompt-engineering paper accepted to ICML [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1uv1xb3/promptengineering_paper_accepted_to_icml_r/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/MachineLearning · community knowledge",
-      "content_type": "post",
-      "author": "u/Mean_Revolution1490 · r/MachineLearning",
-      "handle": "MachineLearning",
-      "org": "r/MachineLearning",
-      "platform": "reddit",
-      "published": "2026-07-13T05:00:07.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/MachineLearning"
-      ],
-      "summary": "&quot; Verbalized Sampling: How to Mitigate Mode Collapse and Unlock LLM Diversity &quot; This paper was accepted to ICML this year. Its main idea is a very simple prompt-engineering trick: &quot;changing the prompt this way led to more diverse sampling&quot;. Naturally, it is difficult to provide a rigorous…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/MachineLearning this week"
       ],
       "metrics": {
         "likes": 0,
