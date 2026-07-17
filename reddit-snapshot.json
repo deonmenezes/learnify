@@ -1,15 +1,16 @@
 {
-  "generated_at": "2026-07-17T18:38:47.145Z",
+  "generated_at": "2026-07-17T20:11:52.006Z",
   "subs": [
     "MachineLearning",
-    "programming",
-    "cybersecurity",
+    "singularity",
+    "SkincareAddiction",
     "nutrition",
     "artificial",
     "investing",
-    "SkincareAddiction",
     "netsec",
+    "cybersecurity",
     "startups",
+    "programming",
     "science",
     "LocalLLaMA",
     "hardware",
@@ -22,10 +23,10 @@
   ],
   "count": 36,
   "by_category": {
-    "Fitness": 5,
+    "Fitness": 4,
     "AI / ML": 6,
+    "Skincare": 2,
     "Startups & Funding": 5,
-    "Skincare": 1,
     "Security": 6,
     "Coding & Dev Tools": 2,
     "Science": 6,
@@ -106,6 +107,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/artificial this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uyo0o3",
+      "title": "[Acne] Before and after Nizoral shampoo on SF",
+      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1uyo0o3/acne_before_and_after_nizoral_shampoo_on_sf/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/SkincareAddiction · community knowledge",
+      "content_type": "post",
+      "author": "u/HeatDifferent3190 · r/SkincareAddiction",
+      "handle": "SkincareAddiction",
+      "org": "r/SkincareAddiction",
+      "platform": "reddit",
+      "published": "2026-07-17T03:17:30.000Z",
+      "image": "https://preview.redd.it/78x9x78ujpdh1.jpeg?width=640&crop=smart&auto=webp&s=f9ae7cd92a4ba64cd00114c566cdb001f60a125c",
+      "thumbnail": "https://preview.redd.it/78x9x78ujpdh1.jpeg?width=640&crop=smart&auto=webp&s=f9ae7cd92a4ba64cd00114c566cdb001f60a125c",
+      "section": "Skincare",
+      "category": "Skincare",
+      "genre": "Skincare",
+      "categories": [
+        "Reddit",
+        "Skincare",
+        "r/SkincareAddiction"
+      ],
+      "summary": "Top is before , bottom is after. Okay I don’t know if this is a “before and befive” situation but I washed my face with nizoral shampoo and my Sebaceous filaments are a little less noticeable. I bought it for some fungal acne on my forehead 2 days ago but I’m pretty impressed. Also I realize my SF weren’t bad to start…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/SkincareAddiction this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1408,45 +1448,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/longevity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uvzhq2",
-      "title": "My mobility is completely shot from sitting at a desk all day, and it's ruining my form. Where do I start?",
-      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1uvzhq2/my_mobility_is_completely_shot_from_sitting_at_a/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/bodyweightfitness · community knowledge",
-      "content_type": "post",
-      "author": "u/Sweaty-Noise696 · r/bodyweightfitness",
-      "handle": "bodyweightfitness",
-      "org": "r/bodyweightfitness",
-      "platform": "reddit",
-      "published": "2026-07-14T05:24:38.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/bodyweightfitness"
-      ],
-      "summary": "I could really use some advice because I feel like I’m hitting a massive wall before I&#39;ve even made any real progress. Between my day job and unwinding with Steam games in the evening, I spend an embarrassingly large portion of my day glued to a chair. I’m trying to take my fitness more seriously now, but my body…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/bodyweightfitness this week"
       ],
       "metrics": {
         "likes": 0,
