@@ -1,13 +1,15 @@
 {
-  "generated_at": "2026-07-17T21:26:05.007Z",
+  "generated_at": "2026-07-17T22:27:33.517Z",
   "subs": [
     "MachineLearning",
-    "LocalLLaMA",
-    "running",
-    "investing",
+    "Futurology",
+    "gadgets",
     "nutrition",
     "artificial",
+    "running",
     "SkincareAddiction",
+    "investing",
+    "LocalLLaMA",
     "netsec",
     "cybersecurity",
     "startups",
@@ -16,22 +18,18 @@
     "hardware",
     "bodyweightfitness",
     "Fitness",
-    "longevity",
-    "gadgets",
-    "Futurology",
-    "robotics"
+    "longevity"
   ],
   "count": 36,
   "by_category": {
     "Fitness": 5,
     "AI / ML": 7,
     "Skincare": 2,
+    "Hardware & Gadgets": 5,
     "Startups & Funding": 5,
     "Security": 5,
     "Coding & Dev Tools": 2,
-    "Science": 5,
-    "Hardware & Gadgets": 4,
-    "Robotics": 1
+    "Science": 5
   },
   "articles": [
     {
@@ -185,6 +183,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/SkincareAddiction this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uyg6vw",
+      "title": "Vital Signals puts continuous blood pressure monitoring into a ring",
+      "link": "https://www.reddit.com/r/gadgets/comments/1uyg6vw/vital_signals_puts_continuous_blood_pressure/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/gadgets · community knowledge",
+      "content_type": "post",
+      "author": "u/dapperlemon · r/gadgets",
+      "handle": "gadgets",
+      "org": "r/gadgets",
+      "platform": "reddit",
+      "published": "2026-07-16T21:39:16.000Z",
+      "image": "https://external-preview.redd.it/pp_ACxFg_ACoyWBakEkISwIlsu0Ts8dJkeBv4D59sDw.jpeg?width=640&crop=smart&auto=webp&s=acdd8ebde81c8b63057fbc006a07f0a751fb623e",
+      "thumbnail": "https://external-preview.redd.it/pp_ACxFg_ACoyWBakEkISwIlsu0Ts8dJkeBv4D59sDw.jpeg?width=640&crop=smart&auto=webp&s=acdd8ebde81c8b63057fbc006a07f0a751fb623e",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/gadgets"
+      ],
+      "summary": "Vital Signals puts continuous blood pressure monitoring into a ring",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/gadgets this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1409,45 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/netsec this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uw4dji",
-      "title": "A soft floating robot for indoor interaction. It uses helium and flapping fins. It can follow people, give reminders, and act as a study buddy (paper)",
-      "link": "https://www.reddit.com/r/robotics/comments/1uw4dji/a_soft_floating_robot_for_indoor_interaction_it/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/robotics · community knowledge",
-      "content_type": "post",
-      "author": "u/Nunki08 · r/robotics",
-      "handle": "robotics",
-      "org": "r/robotics",
-      "platform": "reddit",
-      "published": "2026-07-14T10:04:50.000Z",
-      "image": "https://external-preview.redd.it/YWI3bjE0NjYzNmRoMa-m38dygsfSf9pCSjr3UyQOk7IxdzuyBiBkCITHOkjx.png?width=640&crop=smart&auto=webp&s=ff12795d6777033e7dd72915f47143defc16da67",
-      "thumbnail": "https://external-preview.redd.it/YWI3bjE0NjYzNmRoMa-m38dygsfSf9pCSjr3UyQOk7IxdzuyBiBkCITHOkjx.png?width=640&crop=smart&auto=webp&s=ff12795d6777033e7dd72915f47143defc16da67",
-      "section": "Robotics",
-      "category": "Robotics",
-      "genre": "Robotics",
-      "categories": [
-        "Reddit",
-        "Robotics",
-        "r/robotics"
-      ],
-      "summary": "From clankr on 𝕏: https://x.com/clankrmedia/status/2076593164744376707 Paper: Floating Companion: Exploring Design Space for Soft Floating Robots in Indoor Environments: https://dl.acm.org/doi/10.1145/3800645.3813051 Published at ACM DIS 2026: https://dis.acm.org/2026/dis-2026-awards-and-recognition/ ACM Designing…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/robotics this week"
       ],
       "metrics": {
         "likes": 0,
