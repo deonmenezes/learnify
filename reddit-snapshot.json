@@ -1,12 +1,13 @@
 {
-  "generated_at": "2026-07-17T03:51:40.431Z",
+  "generated_at": "2026-07-17T06:24:03.317Z",
   "subs": [
     "MachineLearning",
-    "science",
+    "artificial",
+    "running",
+    "investing",
     "netsec",
     "startups",
-    "artificial",
-    "investing",
+    "science",
     "LocalLLaMA",
     "hardware",
     "nutrition",
@@ -20,8 +21,8 @@
   ],
   "count": 36,
   "by_category": {
-    "Security": 6,
-    "Startups & Funding": 4,
+    "Startups & Funding": 5,
+    "Security": 5,
     "AI / ML": 7,
     "Science": 8,
     "Hardware & Gadgets": 3,
@@ -30,6 +31,46 @@
     "Coding & Dev Tools": 1
   },
   "articles": [
+    {
+      "id": "reddit_1uyejki",
+      "title": "Trump Media Sells Faster Access to Trump's Posts for Wall Street Traders",
+      "link": "https://www.reddit.com/r/investing/comments/1uyejki/trump_media_sells_faster_access_to_trumps_posts/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/investing · community knowledge",
+      "content_type": "post",
+      "author": "u/Resident_Caramel763 · r/investing",
+      "handle": "investing",
+      "org": "r/investing",
+      "platform": "reddit",
+      "published": "2026-07-16T20:36:09.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/investing"
+      ],
+      "summary": "Is this legal or how SEC will handle this? https://cryip.co/trump-media-unveils-truth-api-for-wall-street-as-trumps-truth-social-posts-move-markets/ &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/investing this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1uy4iyq",
       "title": "No Shark is Safe: Millions of Shark Vacuums are Vulnerable to RCE",
@@ -822,6 +863,46 @@
       }
     },
     {
+      "id": "reddit_1uwh06x",
+      "title": "Apple just sued OpenAI for trade secret theft. And Google quietly rewrote how the internet works.",
+      "link": "https://www.reddit.com/r/artificial/comments/1uwh06x/apple_just_sued_openai_for_trade_secret_theft_and/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/artificial · community knowledge",
+      "content_type": "post",
+      "author": "u/Dapper-Tale-4021 · r/artificial",
+      "handle": "artificial",
+      "org": "r/artificial",
+      "platform": "reddit",
+      "published": "2026-07-14T18:27:15.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/artificial"
+      ],
+      "summary": "Two things happened this week that change something concrete for every business. Apple filed a lawsuit on July 10 accusing OpenAI of coordinated industrial espionage. This isn&#39;t abstract. According to the complaint, OpenAI&#39;s chief hardware officer Tang Tan, a 24-year Apple veteran, instructed job candidates…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/artificial this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1uwgxdh",
       "title": "Reversal of protein chemical aging by enzymatic deglycation",
       "link": "https://www.reddit.com/r/longevity/comments/1uwgxdh/reversal_of_protein_chemical_aging_by_enzymatic/",
@@ -1366,85 +1447,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/robotics this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uvbzul",
-      "title": "Apple M7 Ultra Chip Planned With Up to 1.5 TB of Unified Memory",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1uvbzul/apple_m7_ultra_chip_planned_with_up_to_15_tb_of/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/LocalLLaMA · community knowledge",
-      "content_type": "post",
-      "author": "u/Mochila-Mochila · r/LocalLLaMA",
-      "handle": "LocalLLaMA",
-      "org": "r/LocalLLaMA",
-      "platform": "reddit",
-      "published": "2026-07-13T13:44:24.000Z",
-      "image": "https://external-preview.redd.it/RS7pWzXd3pBCG1TcQBhnLQEcaQ3NdPhcqihuR6r3TfE.jpeg?width=640&crop=smart&auto=webp&s=47100358520b383a66e2b9bd69169c5a19cf649e",
-      "thumbnail": "https://external-preview.redd.it/RS7pWzXd3pBCG1TcQBhnLQEcaQ3NdPhcqihuR6r3TfE.jpeg?width=640&crop=smart&auto=webp&s=47100358520b383a66e2b9bd69169c5a19cf649e",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/LocalLLaMA"
-      ],
-      "summary": "Apple M7 Ultra Chip Planned With Up to 1.5 TB of Unified Memory",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/LocalLLaMA this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uv6qbn",
-      "title": "Dell BIOS Passwords: Weak XOR Encryption Allows Recovery from SPI Flash (CVE-2026-40639)",
-      "link": "https://www.reddit.com/r/netsec/comments/1uv6qbn/dell_bios_passwords_weak_xor_encryption_allows/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/netsec · community knowledge",
-      "content_type": "post",
-      "author": "u/sajkoterrapefft · r/netsec",
-      "handle": "netsec",
-      "org": "r/netsec",
-      "platform": "reddit",
-      "published": "2026-07-13T09:33:49.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/netsec"
-      ],
-      "summary": "Dell BIOS Passwords: Weak XOR Encryption Allows Recovery from SPI Flash (CVE-2026-40639)",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/netsec this week"
       ],
       "metrics": {
         "likes": 0,
