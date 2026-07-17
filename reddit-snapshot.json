@@ -1,13 +1,14 @@
 {
-  "generated_at": "2026-07-17T22:27:33.517Z",
+  "generated_at": "2026-07-17T23:29:27.600Z",
   "subs": [
     "MachineLearning",
-    "Futurology",
-    "gadgets",
+    "longevity",
+    "hardware",
     "nutrition",
     "artificial",
     "running",
     "SkincareAddiction",
+    "gadgets",
     "investing",
     "LocalLLaMA",
     "netsec",
@@ -15,21 +16,20 @@
     "startups",
     "programming",
     "science",
-    "hardware",
     "bodyweightfitness",
     "Fitness",
-    "longevity"
+    "Futurology"
   ],
   "count": 36,
   "by_category": {
     "Fitness": 5,
     "AI / ML": 7,
-    "Skincare": 2,
     "Hardware & Gadgets": 5,
+    "Science": 6,
+    "Skincare": 2,
     "Startups & Funding": 5,
-    "Security": 5,
-    "Coding & Dev Tools": 2,
-    "Science": 5
+    "Security": 4,
+    "Coding & Dev Tools": 2
   },
   "articles": [
     {
@@ -144,6 +144,85 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/running this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uypn3g",
+      "title": "[Gamers Nexus] DO NOT BUY: LG’s Spyware TVs, Monitors, and Wiretapping Concerns",
+      "link": "https://www.reddit.com/r/hardware/comments/1uypn3g/gamers_nexus_do_not_buy_lgs_spyware_tvs_monitors/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/hardware · community knowledge",
+      "content_type": "post",
+      "author": "u/This-is_CMGRI · r/hardware",
+      "handle": "hardware",
+      "org": "r/hardware",
+      "platform": "reddit",
+      "published": "2026-07-17T04:37:57.000Z",
+      "image": "https://external-preview.redd.it/Ee4DsjGHq40yzrnRdBJouH99coBWQxzRlhwQ_SlJsrM.jpeg?width=320&crop=smart&auto=webp&s=15bc4cbd4d16a7ed7eaf642f30132587e0babff2",
+      "thumbnail": "https://external-preview.redd.it/Ee4DsjGHq40yzrnRdBJouH99coBWQxzRlhwQ_SlJsrM.jpeg?width=320&crop=smart&auto=webp&s=15bc4cbd4d16a7ed7eaf642f30132587e0babff2",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/hardware"
+      ],
+      "summary": "This video covers adware, spyware and possible wiretapping concerns with LG displays, as well as straight-up changing terms of use or lose security updates. Also McAfee. Somehow. And if LG does this, doubtless every other TV manufacturer does this. It&#39;s a damnable things, so LTT&#39;s quest for a dumb TV might not…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/hardware this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uyo5gk",
+      "title": "Breakdown of immune cells' interaction is key driver in aging, study finds",
+      "link": "https://www.reddit.com/r/longevity/comments/1uyo5gk/breakdown_of_immune_cells_interaction_is_key/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/longevity · community knowledge",
+      "content_type": "post",
+      "author": "u/Orugan972 · r/longevity",
+      "handle": "longevity",
+      "org": "r/longevity",
+      "platform": "reddit",
+      "published": "2026-07-17T03:23:48.000Z",
+      "image": "https://external-preview.redd.it/4INCTeU8ny7tTRDyc8aHTuV6LW4o7WwY6AbCWstSTL4.jpeg?width=640&crop=smart&auto=webp&s=2d70204f67f2c25d23bcf557c50a1c0d71b83c81",
+      "thumbnail": "https://external-preview.redd.it/4INCTeU8ny7tTRDyc8aHTuV6LW4o7WwY6AbCWstSTL4.jpeg?width=640&crop=smart&auto=webp&s=2d70204f67f2c25d23bcf557c50a1c0d71b83c81",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Longevity",
+      "categories": [
+        "Reddit",
+        "Science",
+        "Longevity",
+        "r/longevity"
+      ],
+      "summary": "Increased inflammation is associated with aging and is implicated in decreased function in aging tissues. Tan et al . explored changes in older tissue-resident macrophages and investigated how these cells may contribute to aging phenotypes in mice (see the Perspective by FitzGerald). They found that signaling by the…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/longevity this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1368,84 +1447,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/programming this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uw8j07",
-      "title": "Valve confirms Steam Machine red light overheating warning is showing earlier than it should; BIOS fix on the way — will raise temperature warning threshold to 100 Degrees Celsius",
-      "link": "https://www.reddit.com/r/hardware/comments/1uw8j07/valve_confirms_steam_machine_red_light/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/hardware · community knowledge",
-      "content_type": "post",
-      "author": "u/ControlCAD · r/hardware",
-      "handle": "hardware",
-      "org": "r/hardware",
-      "platform": "reddit",
-      "published": "2026-07-14T13:20:38.000Z",
-      "image": "https://external-preview.redd.it/Foir6xTdqoYkfhqVfp9RTVFPxs8RiEMH7TnuYMTAEmM.jpeg?width=640&crop=smart&auto=webp&s=27be08a8b68f60c0a0e296135eb905663ec074b6",
-      "thumbnail": "https://external-preview.redd.it/Foir6xTdqoYkfhqVfp9RTVFPxs8RiEMH7TnuYMTAEmM.jpeg?width=640&crop=smart&auto=webp&s=27be08a8b68f60c0a0e296135eb905663ec074b6",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/hardware"
-      ],
-      "summary": "Valve confirms Steam Machine red light overheating warning is showing earlier than it should; BIOS fix on the way — will raise temperature warning threshold to 100 Degrees Celsius",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/hardware this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uw5msa",
-      "title": "Smashing the ServiceNow Sandbox – Pre Authentication RCE",
-      "link": "https://www.reddit.com/r/netsec/comments/1uw5msa/smashing_the_servicenow_sandbox_pre/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/netsec · community knowledge",
-      "content_type": "post",
-      "author": "u/Mempodipper · r/netsec",
-      "handle": "netsec",
-      "org": "r/netsec",
-      "platform": "reddit",
-      "published": "2026-07-14T11:10:47.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/netsec"
-      ],
-      "summary": "Smashing the ServiceNow Sandbox – Pre Authentication RCE",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/netsec this week"
       ],
       "metrics": {
         "likes": 0,
