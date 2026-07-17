@@ -1,10 +1,11 @@
 {
-  "generated_at": "2026-07-17T08:39:49.128Z",
+  "generated_at": "2026-07-17T10:53:45.975Z",
   "subs": [
     "MachineLearning",
     "programming",
-    "SkincareAddiction",
+    "cybersecurity",
     "investing",
+    "SkincareAddiction",
     "netsec",
     "startups",
     "artificial",
@@ -15,7 +16,6 @@
     "bodyweightfitness",
     "Fitness",
     "longevity",
-    "cybersecurity",
     "Futurology",
     "robotics"
   ],
@@ -23,10 +23,10 @@
   "by_category": {
     "Startups & Funding": 5,
     "Skincare": 1,
-    "Security": 5,
+    "Security": 6,
     "Coding & Dev Tools": 3,
     "AI / ML": 6,
-    "Science": 7,
+    "Science": 6,
     "Hardware & Gadgets": 3,
     "Fitness": 5,
     "Robotics": 1
@@ -143,6 +143,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/netsec this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uy2ddg",
+      "title": "The British teenager who hacked into Vegas casinos from an east London flat",
+      "link": "https://www.reddit.com/r/cybersecurity/comments/1uy2ddg/the_british_teenager_who_hacked_into_vegas/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/cybersecurity · community knowledge",
+      "content_type": "post",
+      "author": "u/theipaper · r/cybersecurity",
+      "handle": "cybersecurity",
+      "org": "r/cybersecurity",
+      "platform": "reddit",
+      "published": "2026-07-16T13:06:31.000Z",
+      "image": "https://external-preview.redd.it/W-ghUeacU4o3lhk0ppSSlYFH-_2rjFYVSbRUu4mx2ks.jpeg?width=640&crop=smart&auto=webp&s=9b5aeecf63daadc8f342e425401b53bcc97bb60a",
+      "thumbnail": "https://external-preview.redd.it/W-ghUeacU4o3lhk0ppSSlYFH-_2rjFYVSbRUu4mx2ks.jpeg?width=640&crop=smart&auto=webp&s=9b5aeecf63daadc8f342e425401b53bcc97bb60a",
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/cybersecurity"
+      ],
+      "summary": "The British teenager who hacked into Vegas casinos from an east London flat",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/cybersecurity this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1407,46 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/LocalLLaMA this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uvkoxv",
-      "title": "Life-Extension Frontiers: Conquer Aging In 2026! | Michael Lustgarten",
-      "link": "https://www.reddit.com/r/longevity/comments/1uvkoxv/lifeextension_frontiers_conquer_aging_in_2026/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/longevity · community knowledge",
-      "content_type": "post",
-      "author": "u/mlhnrca · r/longevity",
-      "handle": "longevity",
-      "org": "r/longevity",
-      "platform": "reddit",
-      "published": "2026-07-13T18:58:11.000Z",
-      "image": "https://external-preview.redd.it/Meq-arcus1mzUhga2rWr4UcZrIeEQMD8HXXm0QU_X0g.jpeg?width=320&crop=smart&auto=webp&s=ae9cfae2147d589fac2e6b8171a26243331f59a5",
-      "thumbnail": "https://external-preview.redd.it/Meq-arcus1mzUhga2rWr4UcZrIeEQMD8HXXm0QU_X0g.jpeg?width=320&crop=smart&auto=webp&s=ae9cfae2147d589fac2e6b8171a26243331f59a5",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Longevity",
-      "categories": [
-        "Reddit",
-        "Science",
-        "Longevity",
-        "r/longevity"
-      ],
-      "summary": "Life-Extension Frontiers: Conquer Aging In 2026! | Michael Lustgarten, PhD &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/longevity this week"
       ],
       "metrics": {
         "likes": 0,
