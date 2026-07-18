@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-18T16:31:50.015Z",
+  "generated_at": "2026-07-18T17:37:39.905Z",
   "subs": [
     "MachineLearning",
+    "science",
+    "netsec",
     "programming",
-    "SkincareAddiction",
     "artificial",
     "nutrition",
     "running",
     "hardware",
     "longevity",
-    "science",
+    "SkincareAddiction",
     "gadgets",
     "investing",
     "LocalLLaMA",
-    "netsec",
     "cybersecurity",
     "startups",
     "bodyweightfitness",
@@ -23,13 +23,13 @@
   "count": 36,
   "by_category": {
     "Coding & Dev Tools": 2,
-    "AI / ML": 7,
+    "AI / ML": 8,
     "Fitness": 6,
-    "Hardware & Gadgets": 5,
-    "Science": 6,
+    "Hardware & Gadgets": 4,
+    "Science": 5,
     "Skincare": 2,
     "Startups & Funding": 4,
-    "Security": 4
+    "Security": 5
   },
   "articles": [
     {
@@ -625,6 +625,45 @@
       }
     },
     {
+      "id": "reddit_1uy44c4",
+      "title": "[$13337] Confused Deputy: Google IdP Universal Account Takeover via Device Code Flow Hijacking",
+      "link": "https://www.reddit.com/r/netsec/comments/1uy44c4/13337_confused_deputy_google_idp_universal/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/netsec · community knowledge",
+      "content_type": "post",
+      "author": "u/swinglr · r/netsec",
+      "handle": "netsec",
+      "org": "r/netsec",
+      "platform": "reddit",
+      "published": "2026-07-16T14:15:21.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/netsec"
+      ],
+      "summary": "RFC 8628&#39;s device authorization grant lets a TV or CLI &quot;poll&quot; for login on a second screen. On Google&#39;s implementation, the entire session was transferable across browsers, the authorization server never checked that the client_id and scope in the consent URL matched the ones the device_code was…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/netsec this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1uy2ddg",
       "title": "The British teenager who hacked into Vegas casinos from an east London flat",
       "link": "https://www.reddit.com/r/cybersecurity/comments/1uy2ddg/the_british_teenager_who_hacked_into_vegas/",
@@ -854,6 +893,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/science this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uxcryc",
+      "title": "Looking for JEPA devil advocates [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uxcryc/looking_for_jepa_devil_advocates_r/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/MachineLearning · community knowledge",
+      "content_type": "post",
+      "author": "u/Amazing-Coat5160 · r/MachineLearning",
+      "handle": "MachineLearning",
+      "org": "r/MachineLearning",
+      "platform": "reddit",
+      "published": "2026-07-15T17:34:44.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/MachineLearning"
+      ],
+      "summary": "I am currently doing research on world models, specially in tje field of robot learning, and, as probably most of you alredy know, JEPA-like models are mentioned over and over. I read the main recent papers from lecun as well as other research groups, and I personally think the whole approach is very promising and can…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/MachineLearning this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1367,85 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Futurology this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uwm04y",
-      "title": "Could this mysterious disappearing organ hold the key to longevity? | Researchers are racing to regrow the thymus, an ephemeral immune organ, in the hope that it will slow ageing.",
-      "link": "https://www.reddit.com/r/longevity/comments/1uwm04y/could_this_mysterious_disappearing_organ_hold_the/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/longevity · community knowledge",
-      "content_type": "post",
-      "author": "u/UltraNooob · r/longevity",
-      "handle": "longevity",
-      "org": "r/longevity",
-      "platform": "reddit",
-      "published": "2026-07-14T21:32:10.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Science",
-      "category": "Science",
-      "genre": "Longevity",
-      "categories": [
-        "Reddit",
-        "Science",
-        "Longevity",
-        "r/longevity"
-      ],
-      "summary": "Could this mysterious disappearing organ hold the key to longevity? | Researchers are racing to regrow the thymus, an ephemeral immune organ, in the hope that it will slow ageing.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/longevity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uwlmvg",
-      "title": "Chinese CXMT to Match Micron's DRAM Manufacturing Capacity This Year",
-      "link": "https://www.reddit.com/r/hardware/comments/1uwlmvg/chinese_cxmt_to_match_microns_dram_manufacturing/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/hardware · community knowledge",
-      "content_type": "post",
-      "author": "u/Umr_at_Tawil · r/hardware",
-      "handle": "hardware",
-      "org": "r/hardware",
-      "platform": "reddit",
-      "published": "2026-07-14T21:18:34.000Z",
-      "image": "https://external-preview.redd.it/TS6JDkg99gdIxVtXIuCM3Q3W0JErJRzT0z_1NEpTf4s.jpeg?width=640&crop=smart&auto=webp&s=10f9d4e0455e8ee196a29ffb35c81ed11c6edb5b",
-      "thumbnail": "https://external-preview.redd.it/TS6JDkg99gdIxVtXIuCM3Q3W0JErJRzT0z_1NEpTf4s.jpeg?width=640&crop=smart&auto=webp&s=10f9d4e0455e8ee196a29ffb35c81ed11c6edb5b",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/hardware"
-      ],
-      "summary": "Chinese CXMT to Match Micron's DRAM Manufacturing Capacity This Year",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/hardware this week"
       ],
       "metrics": {
         "likes": 0,
