@@ -1,9 +1,10 @@
 {
-  "generated_at": "2026-07-18T14:03:44.558Z",
+  "generated_at": "2026-07-18T15:10:42.952Z",
   "subs": [
     "MachineLearning",
-    "programming",
+    "science",
     "cybersecurity",
+    "programming",
     "artificial",
     "nutrition",
     "running",
@@ -15,7 +16,6 @@
     "LocalLLaMA",
     "netsec",
     "startups",
-    "science",
     "bodyweightfitness",
     "Fitness",
     "Futurology"
@@ -26,9 +26,9 @@
     "AI / ML": 7,
     "Fitness": 6,
     "Hardware & Gadgets": 5,
-    "Science": 5,
+    "Science": 6,
     "Skincare": 2,
-    "Startups & Funding": 5,
+    "Startups & Funding": 4,
     "Security": 4
   },
   "articles": [
@@ -381,6 +381,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/SkincareAddiction this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uyi650",
+      "title": "A vaccine to prevent pancreatic cancer in high-risk individuals was safe and elicited durable immune responses. After a median follow-up of 16.5 months, none of the participants developed pancreatic cancer, and some of the precancerous lesions shrank or stopped growing.",
+      "link": "https://www.reddit.com/r/science/comments/1uyi650/a_vaccine_to_prevent_pancreatic_cancer_in/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/science · community knowledge",
+      "content_type": "post",
+      "author": "u/mvea · r/science",
+      "handle": "science",
+      "org": "r/science",
+      "platform": "reddit",
+      "published": "2026-07-16T22:55:03.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/science"
+      ],
+      "summary": "A vaccine to prevent pancreatic cancer in high-risk individuals was safe and elicited durable immune responses. After a median follow-up of 16.5 months, none of the participants developed pancreatic cancer, and some of the precancerous lesions shrank or stopped growing.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/science this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1407,46 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/hardware this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uwhil6",
-      "title": "Anyone else think Anthropic’s valuation is going to plummet?",
-      "link": "https://www.reddit.com/r/investing/comments/1uwhil6/anyone_else_think_anthropics_valuation_is_going/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/investing · community knowledge",
-      "content_type": "post",
-      "author": "u/Clean-Yogurtcloset94 · r/investing",
-      "handle": "investing",
-      "org": "r/investing",
-      "platform": "reddit",
-      "published": "2026-07-14T18:45:32.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/investing"
-      ],
-      "summary": "I know this is probably an unpopular take, but I think the market is massively overestimating Anthropic’s moat. Bloomberg is reporting that DeepSeek is already preparing for an IPO after reportedly raising at around a $71B valuation, and they got there by showing you don’t necessarily need insane compute budgets to…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/investing this week"
       ],
       "metrics": {
         "likes": 0,
