@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-18T11:16:23.864Z",
+  "generated_at": "2026-07-18T12:32:01.310Z",
   "subs": [
     "MachineLearning",
-    "longevity",
-    "hardware",
     "artificial",
     "nutrition",
+    "investing",
     "running",
+    "hardware",
+    "longevity",
     "SkincareAddiction",
     "gadgets",
-    "investing",
     "LocalLLaMA",
     "netsec",
     "cybersecurity",
@@ -23,9 +23,9 @@
   "count": 36,
   "by_category": {
     "AI / ML": 8,
-    "Fitness": 5,
+    "Fitness": 6,
     "Hardware & Gadgets": 5,
-    "Science": 6,
+    "Science": 5,
     "Skincare": 2,
     "Startups & Funding": 5,
     "Security": 4,
@@ -145,6 +145,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/artificial this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uys95a",
+      "title": "Is it okay to eat one (nutritionally complete) dish per day?",
+      "link": "https://www.reddit.com/r/nutrition/comments/1uys95a/is_it_okay_to_eat_one_nutritionally_complete_dish/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/nutrition · community knowledge",
+      "content_type": "post",
+      "author": "u/iovoko · r/nutrition",
+      "handle": "nutrition",
+      "org": "r/nutrition",
+      "platform": "reddit",
+      "published": "2026-07-17T06:59:59.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Nutrition",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "Nutrition",
+        "r/nutrition"
+      ],
+      "summary": "For example a stew with 3+ different vegetables, a fat source, protein, carbs etc. If it is a complete meal on its own, would it be okay to just eat that for every meal one day? Would changing the dish every day provide enough diversity in the diet? Imagine there&#39;s a few other snacks throughout the day if that…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/nutrition this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1408,46 +1448,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/artificial this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uwgxdh",
-      "title": "Reversal of protein chemical aging by enzymatic deglycation",
-      "link": "https://www.reddit.com/r/longevity/comments/1uwgxdh/reversal_of_protein_chemical_aging_by_enzymatic/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/longevity · community knowledge",
-      "content_type": "post",
-      "author": "u/kpfleger · r/longevity",
-      "handle": "longevity",
-      "org": "r/longevity",
-      "platform": "reddit",
-      "published": "2026-07-14T18:24:30.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Science",
-      "category": "Science",
-      "genre": "Longevity",
-      "categories": [
-        "Reddit",
-        "Science",
-        "Longevity",
-        "r/longevity"
-      ],
-      "summary": "Abstract The accumulation of advanced glycation end products (AGEs) in long-lived proteins is a hallmark of mammalian aging and implicated as a driver of metabolic dysfunction. Among these adducts, N ε -carboxymethyl-lysine (CML) is particularly abundant in aging tissues, where it modifies proteins and acts as a…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/longevity this week"
       ],
       "metrics": {
         "likes": 0,
