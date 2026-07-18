@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-07-18T08:27:05.536Z",
+  "generated_at": "2026-07-18T10:01:58.168Z",
   "subs": [
     "MachineLearning",
-    "LocalLLaMA",
-    "running",
-    "investing",
-    "nutrition",
     "artificial",
+    "nutrition",
+    "running",
     "hardware",
     "longevity",
     "SkincareAddiction",
     "gadgets",
+    "investing",
+    "LocalLLaMA",
     "netsec",
     "cybersecurity",
     "startups",
@@ -22,16 +22,56 @@
   ],
   "count": 36,
   "by_category": {
+    "AI / ML": 8,
     "Fitness": 5,
-    "AI / ML": 7,
     "Hardware & Gadgets": 5,
     "Science": 6,
     "Skincare": 2,
     "Startups & Funding": 5,
     "Security": 4,
-    "Coding & Dev Tools": 2
+    "Coding & Dev Tools": 1
   },
   "articles": [
+    {
+      "id": "reddit_1uz66nv",
+      "title": "Tesla's AI can be defeated by a simple doll",
+      "link": "https://www.reddit.com/r/artificial/comments/1uz66nv/teslas_ai_can_be_defeated_by_a_simple_doll/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/artificial · community knowledge",
+      "content_type": "post",
+      "author": "u/ImaginaryRea1ity · r/artificial",
+      "handle": "artificial",
+      "org": "r/artificial",
+      "platform": "reddit",
+      "published": "2026-07-17T17:24:49.000Z",
+      "image": "https://external-preview.redd.it/dzVxMnBpZXhxdGRoMdgxtX1n2fgECCfmpIcZnaxxLJ4Tt8wnyCcbjfrbbwPJ.png?width=640&crop=smart&auto=webp&s=de4da846e5120b155cbb935d65831f993122984d",
+      "thumbnail": "https://external-preview.redd.it/dzVxMnBpZXhxdGRoMdgxtX1n2fgECCfmpIcZnaxxLJ4Tt8wnyCcbjfrbbwPJ.png?width=640&crop=smart&auto=webp&s=de4da846e5120b155cbb935d65831f993122984d",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/artificial"
+      ],
+      "summary": "If you want an AI app which actually works, try AI Desktop 98 . &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/artificial this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1uyuwy4",
       "title": "Hazelnut Spread Has Got Worse - 14x the Glycemic Load of its Origins",
@@ -1408,45 +1448,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/longevity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uwbmr0",
-      "title": "git rebase -i is not that scary",
-      "link": "https://www.reddit.com/r/programming/comments/1uwbmr0/git_rebase_i_is_not_that_scary/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/programming · community knowledge",
-      "content_type": "post",
-      "author": "u/cachebags · r/programming",
-      "handle": "programming",
-      "org": "r/programming",
-      "platform": "reddit",
-      "published": "2026-07-14T15:17:44.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Coding & Dev Tools",
-      "category": "Coding & Dev Tools",
-      "genre": "Coding & Dev Tools",
-      "categories": [
-        "Reddit",
-        "Coding & Dev Tools",
-        "r/programming"
-      ],
-      "summary": "git rebase -i is not that scary",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/programming this week"
       ],
       "metrics": {
         "likes": 0,
