@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-07-18T22:28:48.341Z",
+  "generated_at": "2026-07-18T23:32:05.207Z",
   "subs": [
     "MachineLearning",
+    "LocalLLaMA",
+    "running",
+    "investing",
     "programming",
-    "cybersecurity",
     "artificial",
     "nutrition",
-    "running",
     "hardware",
     "longevity",
     "SkincareAddiction",
     "science",
     "gadgets",
-    "investing",
-    "LocalLLaMA",
     "netsec",
+    "cybersecurity",
     "startups",
     "bodyweightfitness",
     "Fitness"
@@ -578,6 +578,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/LocalLLaMA this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uy61eo",
+      "title": "Why S&P hasn't moved since war re-escalated",
+      "link": "https://www.reddit.com/r/investing/comments/1uy61eo/why_sp_hasnt_moved_since_war_reescalated/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/investing · community knowledge",
+      "content_type": "post",
+      "author": "u/clintron_abc · r/investing",
+      "handle": "investing",
+      "org": "r/investing",
+      "platform": "reddit",
+      "published": "2026-07-16T15:26:08.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/investing"
+      ],
+      "summary": "TBH, I really don&#39;t understand what&#39;s happening with the market right now. It feels like all the war-related news isn&#39;t having much of an impact anymore. At best, it seems to prevent the market from moving higher for a while, but it doesn&#39;t seem to trigger the kind of sell-off we saw before. What…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/investing this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1406,46 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/gadgets this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uwtexx",
-      "title": "Built something that demonstrably works. Nobody cares. What do I do? i will not promote",
-      "link": "https://www.reddit.com/r/startups/comments/1uwtexx/built_something_that_demonstrably_works_nobody/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/startups · community knowledge",
-      "content_type": "post",
-      "author": "u/dorynz · r/startups",
-      "handle": "startups",
-      "org": "r/startups",
-      "platform": "reddit",
-      "published": "2026-07-15T02:48:27.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/startups"
-      ],
-      "summary": "5 years. A LOT of my own cash, few other shareholders that im not wanting to f over and walk away from, a product that speeds up data transfers over the internet. Im not gonna link it or name it here, not the point of this post. I&#39;m losing my mind and need some reality checks from people who&#39;ve been here.…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/startups this week"
       ],
       "metrics": {
         "likes": 0,
