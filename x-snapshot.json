@@ -1,15 +1,55 @@
 {
-  "generated_at": "2026-07-18T00:58:56.844Z",
+  "generated_at": "2026-07-18T04:08:19.963Z",
   "handles": [
-    "OpenAI",
     "nvidia",
     "GoogleDeepMind",
+    "OpenAI",
     "AnthropicAI",
     "gdb",
     "elonmusk"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2078244664751104293",
+      "title": "Agents are becoming specialized, using reinforcement learning post-training to develop domain-specific skills 🛠️ Every post-training rollout is an inference call, so a lower cost per token flows…",
+      "link": "https://x.com/nvidia/status/2078244664751104293",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-07-17T22:25:14.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Research"
+      ],
+      "summary": "Agents are becoming specialized, using reinforcement learning post-training to develop domain-specific skills 🛠️ Every post-training rollout is an inference call, so a lower cost per token flows straight into a higher Intelligence per Dollar on every run. That is what the",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 83,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (agents, inference, training)"
+      ],
+      "metrics": {
+        "likes": 182,
+        "retweets": 19,
+        "replies": 22,
+        "likes_h": "182"
+      },
+      "engagement": 242,
+      "hot": false
+    },
     {
       "id": "x_2078243667081617826",
       "title": "GPT-5.6 Sol sets a new state of the art in cybersecurity on “The Last Ones” cyber range. We’re already seeing that capability translate into defensive outcomes: helping teams find, validate, and fix…",
@@ -48,6 +88,47 @@
         "likes_h": "704"
       },
       "engagement": 905,
+      "hot": false
+    },
+    {
+      "id": "x_2078228046465655279",
+      "title": "Still building your #SIGGRAPH2026 agenda? We've got you covered. 🤝 👉 Learn the latest research breakthroughs at the NVIDIA keynote. 👉 Build new skills in hands-on labs. 👉 Explore a full lineup of…",
+      "link": "https://x.com/nvidia/status/2078228046465655279",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-07-17T21:19:12.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Research",
+        "SIGGRAPH2026"
+      ],
+      "summary": "Still building your #SIGGRAPH2026 agenda? We've got you covered. 🤝 👉 Learn the latest research breakthroughs at the NVIDIA keynote. 👉 Build new skills in hands-on labs. 👉 Explore a full lineup of sessions covering physical AI, RTX, AI in production &amp; more. Learn more:",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 71,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (research)"
+      ],
+      "metrics": {
+        "likes": 73,
+        "retweets": 5,
+        "replies": 9,
+        "likes_h": "73"
+      },
+      "engagement": 92,
       "hot": false
     },
     {
@@ -115,19 +196,19 @@
       "summary": "Nations have always invested in critical infrastructure to grow their economies and improve citizens’ lives, from transportation and communications to commerce, entertainment and healthcare. Today, AI is the most important layer of that infrastructure. It is turbocharging",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 57,
+      "worthiness_score": 58,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
         "report-worthy"
       ],
       "metrics": {
-        "likes": 279,
-        "retweets": 34,
-        "replies": 30,
-        "likes_h": "279"
+        "likes": 313,
+        "retweets": 41,
+        "replies": 34,
+        "likes_h": "313"
       },
-      "engagement": 377,
+      "engagement": 429,
       "hot": false
     },
     {
@@ -204,12 +285,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 523,
-        "retweets": 71,
-        "replies": 55,
-        "likes_h": "523"
+        "likes": 553,
+        "retweets": 74,
+        "replies": 59,
+        "likes_h": "553"
       },
-      "engagement": 720,
+      "engagement": 760,
       "hot": false
     },
     {
@@ -241,15 +322,15 @@
       "sentiment_score": 0,
       "reasons": [
         "report-worthy",
-        "high engagement (3.4K likes)"
+        "high engagement (3.5K likes)"
       ],
       "metrics": {
-        "likes": 3427,
-        "retweets": 832,
-        "replies": 51,
-        "likes_h": "3.4K"
+        "likes": 3500,
+        "retweets": 849,
+        "replies": 54,
+        "likes_h": "3.5K"
       },
-      "engagement": 5142,
+      "engagement": 5252,
       "hot": true
     },
     {
@@ -284,12 +365,12 @@
         "tech substance (models, nemotron, agent)"
       ],
       "metrics": {
-        "likes": 420,
-        "retweets": 91,
+        "likes": 431,
+        "retweets": 95,
         "replies": 23,
-        "likes_h": "420"
+        "likes_h": "431"
       },
-      "engagement": 625,
+      "engagement": 644,
       "hot": false
     },
     {
@@ -324,12 +405,12 @@
         "tech substance (models, agent, fine-tuning)"
       ],
       "metrics": {
-        "likes": 283,
-        "retweets": 35,
+        "likes": 295,
+        "retweets": 38,
         "replies": 22,
-        "likes_h": "283"
+        "likes_h": "295"
       },
-      "engagement": 375,
+      "engagement": 393,
       "hot": false
     },
     {
@@ -733,15 +814,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (agents)",
-        "high engagement (768 likes)"
+        "high engagement (786 likes)"
       ],
       "metrics": {
-        "likes": 768,
-        "retweets": 100,
-        "replies": 67,
-        "likes_h": "768"
+        "likes": 786,
+        "retweets": 102,
+        "replies": 68,
+        "likes_h": "786"
       },
-      "engagement": 1035,
+      "engagement": 1058,
       "hot": false
     },
     {
@@ -1189,12 +1270,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 403,
+        "likes": 404,
         "retweets": 48,
         "replies": 47,
-        "likes_h": "403"
+        "likes_h": "404"
       },
-      "engagement": 546,
+      "engagement": 547,
       "hot": false
     },
     {
@@ -1235,89 +1316,6 @@
         "likes_h": "372"
       },
       "engagement": 569,
-      "hot": false
-    },
-    {
-      "id": "x_2075686461693898868",
-      "title": "GPT-5.6 is a major step forward for health intelligence. Across the lineup, we’re delivering stronger performance at lower cost: GPT-5.6 Luna outperforms GPT-5.5 at its highest reasoning setting…",
-      "link": "https://x.com/OpenAI/status/2075686461693898868",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-07-10T20:59:51.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Research"
-      ],
-      "summary": "GPT-5.6 is a major step forward for health intelligence. Across the lineup, we’re delivering stronger performance at lower cost: GPT-5.6 Luna outperforms GPT-5.5 at its highest reasoning setting while costing 25x less. Together, these advances raise quality while making",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 91,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (gpt, reasoning)",
-        "high engagement (5.8K likes)",
-        "concrete metrics"
-      ],
-      "metrics": {
-        "likes": 5831,
-        "retweets": 482,
-        "replies": 359,
-        "likes_h": "5.8K"
-      },
-      "engagement": 7154,
-      "hot": true
-    },
-    {
-      "id": "x_2075647722766614733",
-      "title": "As part of our ongoing efforts to strengthen our safeguards for advanced AI capabilities in biology, we’re evolving our Bio Bug Bounty into an ongoing private program, known as the OpenAI Bio Bug…",
-      "link": "https://x.com/OpenAI/status/2075647722766614733",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-07-10T18:25:55.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Commentary"
-      ],
-      "summary": "As part of our ongoing efforts to strengthen our safeguards for advanced AI capabilities in biology, we’re evolving our Bio Bug Bounty into an ongoing private program, known as the OpenAI Bio Bug Bounty program and doubling rewards to $50K. We’re inviting researchers with",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 64,
-      "sentiment": "negative",
-      "sentiment_score": -0.5,
-      "reasons": [
-        "report-worthy",
-        "high engagement (2K likes)",
-        "concrete metrics"
-      ],
-      "metrics": {
-        "likes": 1991,
-        "retweets": 153,
-        "replies": 198,
-        "likes_h": "2K"
-      },
-      "engagement": 2495,
       "hot": false
     }
   ]
