@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-07-18T12:32:01.310Z",
+  "generated_at": "2026-07-18T14:03:44.558Z",
   "subs": [
     "MachineLearning",
+    "programming",
+    "cybersecurity",
     "artificial",
     "nutrition",
-    "investing",
     "running",
     "hardware",
     "longevity",
     "SkincareAddiction",
     "gadgets",
+    "investing",
     "LocalLLaMA",
     "netsec",
-    "cybersecurity",
     "startups",
-    "programming",
     "science",
     "bodyweightfitness",
     "Fitness",
@@ -22,16 +22,55 @@
   ],
   "count": 36,
   "by_category": {
-    "AI / ML": 8,
+    "Coding & Dev Tools": 2,
+    "AI / ML": 7,
     "Fitness": 6,
     "Hardware & Gadgets": 5,
     "Science": 5,
     "Skincare": 2,
     "Startups & Funding": 5,
-    "Security": 4,
-    "Coding & Dev Tools": 1
+    "Security": 4
   },
   "articles": [
+    {
+      "id": "reddit_1uzadz5",
+      "title": "Maintaining the code of the man who wrote \"How To Write Unmaintainable Code\"",
+      "link": "https://www.reddit.com/r/programming/comments/1uzadz5/maintaining_the_code_of_the_man_who_wrote_how_to/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/programming · community knowledge",
+      "content_type": "post",
+      "author": "u/Odd-Flamingo-6211 · r/programming",
+      "handle": "programming",
+      "org": "r/programming",
+      "platform": "reddit",
+      "published": "2026-07-17T19:57:00.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Coding & Dev Tools",
+      "category": "Coding & Dev Tools",
+      "genre": "Coding & Dev Tools",
+      "categories": [
+        "Reddit",
+        "Coding & Dev Tools",
+        "r/programming"
+      ],
+      "summary": "Today I accidentally became the maintainer of software that was already almost three decades old: reviving a 1990s Java utility to keep the last PAD submitter alive in 2026. I was looking for a way to submit my AI app RiverScript to old desktop software directories and ended up digging through the long-forgotten world…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/programming this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1uz66nv",
       "title": "Tesla's AI can be defeated by a simple doll",
@@ -1408,46 +1447,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/investing this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uwh06x",
-      "title": "Apple just sued OpenAI for trade secret theft. And Google quietly rewrote how the internet works.",
-      "link": "https://www.reddit.com/r/artificial/comments/1uwh06x/apple_just_sued_openai_for_trade_secret_theft_and/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/artificial · community knowledge",
-      "content_type": "post",
-      "author": "u/Dapper-Tale-4021 · r/artificial",
-      "handle": "artificial",
-      "org": "r/artificial",
-      "platform": "reddit",
-      "published": "2026-07-14T18:27:15.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/artificial"
-      ],
-      "summary": "Two things happened this week that change something concrete for every business. Apple filed a lawsuit on July 10 accusing OpenAI of coordinated industrial espionage. This isn&#39;t abstract. According to the complaint, OpenAI&#39;s chief hardware officer Tang Tan, a 24-year Apple veteran, instructed job candidates…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/artificial this week"
       ],
       "metrics": {
         "likes": 0,
