@@ -1,37 +1,76 @@
 {
-  "generated_at": "2026-07-18T20:25:38.573Z",
+  "generated_at": "2026-07-18T21:29:49.223Z",
   "subs": [
     "MachineLearning",
-    "science",
-    "netsec",
     "programming",
+    "cybersecurity",
     "artificial",
     "nutrition",
     "running",
     "hardware",
     "longevity",
     "SkincareAddiction",
+    "science",
     "gadgets",
     "investing",
     "LocalLLaMA",
-    "cybersecurity",
+    "netsec",
     "startups",
     "bodyweightfitness",
-    "Fitness",
-    "Futurology"
+    "Fitness"
   ],
   "count": 36,
   "by_category": {
+    "AI / ML": 9,
     "Coding & Dev Tools": 2,
-    "AI / ML": 8,
     "Fitness": 6,
     "Hardware & Gadgets": 4,
-    "Science": 5,
+    "Science": 4,
     "Skincare": 2,
     "Startups & Funding": 4,
     "Security": 5
   },
   "articles": [
+    {
+      "id": "reddit_1uzyf66",
+      "title": "Did blatant AI Slop just win a 25K USD Deepmind / Kaggle Grand Prize? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1uzyf66/did_blatant_ai_slop_just_win_a_25k_usd_deepmind/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/MachineLearning · community knowledge",
+      "content_type": "post",
+      "author": "u/TheWerkmeister · r/MachineLearning",
+      "handle": "MachineLearning",
+      "org": "r/MachineLearning",
+      "platform": "reddit",
+      "published": "2026-07-18T15:10:52.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/MachineLearning"
+      ],
+      "summary": "The Google DeepMind-sponsored Kaggle challenge &quot;Measuring Progress Toward AGI - Cognitive Abilities&quot; asked participants to design new cognitive-science-based AI benchmarks and they just announced the results this week. In my two posts I present evidence that deepmind &amp; kaggle rewarded a nonsensical…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1uzadz5",
       "title": "Maintaining the code of the man who wrote \"How To Write Unmaintainable Code\"",
@@ -1407,45 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/startups this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uwn0pf",
-      "title": "American Communities Are Coming Together to Destroy Flock Surveillance Cameras",
-      "link": "https://www.reddit.com/r/Futurology/comments/1uwn0pf/american_communities_are_coming_together_to/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/Futurology · community knowledge",
-      "content_type": "post",
-      "author": "u/Sgt_Gram · r/Futurology",
-      "handle": "Futurology",
-      "org": "r/Futurology",
-      "platform": "reddit",
-      "published": "2026-07-14T22:10:35.000Z",
-      "image": "https://external-preview.redd.it/fLdPtlo8anwWDydqu4nA5qMlRgaDsMqsZnOXAJ2gtPw.jpeg?width=640&crop=smart&auto=webp&s=594b05e6f14154fa4a460d3d4bca9786c652f81d",
-      "thumbnail": "https://external-preview.redd.it/fLdPtlo8anwWDydqu4nA5qMlRgaDsMqsZnOXAJ2gtPw.jpeg?width=640&crop=smart&auto=webp&s=594b05e6f14154fa4a460d3d4bca9786c652f81d",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/Futurology"
-      ],
-      "summary": "American Communities Are Coming Together to Destroy Flock Surveillance Cameras",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/Futurology this week"
       ],
       "metrics": {
         "likes": 0,
