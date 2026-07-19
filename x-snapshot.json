@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-19T10:58:04.197Z",
+  "generated_at": "2026-07-19T12:03:54.349Z",
   "handles": [
-    "nvidia",
     "OpenAI",
+    "nvidia",
     "GoogleDeepMind",
     "AnthropicAI",
     "gdb",
@@ -79,16 +79,17 @@
       "sentiment_score": 0,
       "reasons": [
         "report-worthy",
-        "tech substance (gpt, state of the art)"
+        "tech substance (gpt, state of the art)",
+        "high engagement (3.6K likes)"
       ],
       "metrics": {
-        "likes": 704,
-        "retweets": 66,
-        "replies": 69,
-        "likes_h": "704"
+        "likes": 3597,
+        "retweets": 324,
+        "replies": 200,
+        "likes_h": "3.6K"
       },
-      "engagement": 905,
-      "hot": false
+      "engagement": 4445,
+      "hot": true
     },
     {
       "id": "x_2078228046465655279",
@@ -161,15 +162,16 @@
       "reasons": [
         "report-worthy",
         "tech substance (gpt)",
-        "links to a source"
+        "links to a source",
+        "high engagement (2.1K likes)"
       ],
       "metrics": {
-        "likes": 842,
-        "retweets": 51,
-        "replies": 122,
-        "likes_h": "842"
+        "likes": 2145,
+        "retweets": 150,
+        "replies": 267,
+        "likes_h": "2.1K"
       },
-      "engagement": 1066,
+      "engagement": 2712,
       "hot": false
     },
     {
@@ -241,15 +243,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (research, chip)",
-        "high engagement (941 likes)"
+        "high engagement (1K likes)"
       ],
       "metrics": {
-        "likes": 941,
-        "retweets": 67,
-        "replies": 144,
-        "likes_h": "941"
+        "likes": 1002,
+        "retweets": 69,
+        "replies": 148,
+        "likes_h": "1K"
       },
-      "engagement": 1219,
+      "engagement": 1288,
       "hot": false
     },
     {
@@ -486,13 +488,13 @@
         "high engagement (2K likes)"
       ],
       "metrics": {
-        "likes": 1988,
+        "likes": 2002,
         "retweets": 130,
-        "replies": 186,
+        "replies": 192,
         "likes_h": "2K"
       },
-      "engagement": 2434,
-      "hot": true
+      "engagement": 2454,
+      "hot": false
     },
     {
       "id": "x_2077460228350546173",
@@ -652,12 +654,12 @@
         "high engagement (8.4K likes)"
       ],
       "metrics": {
-        "likes": 8381,
+        "likes": 8416,
         "retweets": 795,
-        "replies": 490,
+        "replies": 496,
         "likes_h": "8.4K"
       },
-      "engagement": 10461,
+      "engagement": 10502,
       "hot": true
     },
     {
@@ -695,12 +697,12 @@
         "high engagement (3.2K likes)"
       ],
       "metrics": {
-        "likes": 3228,
+        "likes": 3242,
         "retweets": 121,
-        "replies": 315,
+        "replies": 313,
         "likes_h": "3.2K"
       },
-      "engagement": 3785,
+      "engagement": 3797,
       "hot": true
     },
     {

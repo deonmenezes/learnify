@@ -1,37 +1,35 @@
 {
-  "generated_at": "2026-07-19T11:00:16.876Z",
+  "generated_at": "2026-07-19T12:06:05.682Z",
   "subs": [
     "MachineLearning",
-    "Fitness",
+    "LocalLLaMA",
+    "running",
+    "investing",
     "robotics",
     "cybersecurity",
     "programming",
     "artificial",
     "singularity",
     "nutrition",
-    "running",
     "hardware",
     "longevity",
     "SkincareAddiction",
     "science",
     "gadgets",
-    "investing",
-    "LocalLLaMA",
     "netsec",
-    "startups",
-    "bodyweightfitness"
+    "startups"
   ],
   "count": 36,
   "by_category": {
     "Robotics": 2,
     "Security": 4,
-    "AI / ML": 10,
+    "AI / ML": 11,
+    "Startups & Funding": 5,
+    "Fitness": 4,
     "Coding & Dev Tools": 2,
-    "Fitness": 6,
     "Hardware & Gadgets": 3,
     "Science": 3,
-    "Skincare": 2,
-    "Startups & Funding": 4
+    "Skincare": 2
   },
   "articles": [
     {
@@ -145,6 +143,125 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uzqspl",
+      "title": "What kind of dark magic is Deepseek using?",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1uzqspl/what_kind_of_dark_magic_is_deepseek_using/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/LocalLLaMA · community knowledge",
+      "content_type": "post",
+      "author": "u/Fuckinglivemealone · r/LocalLLaMA",
+      "handle": "LocalLLaMA",
+      "org": "r/LocalLLaMA",
+      "platform": "reddit",
+      "published": "2026-07-18T08:58:03.000Z",
+      "image": "https://preview.redd.it/9eofhmo4cydh1.png?width=640&crop=smart&auto=webp&s=aa6be328defc088b38effe810fe80d9e3b58944f",
+      "thumbnail": "https://preview.redd.it/9eofhmo4cydh1.png?width=640&crop=smart&auto=webp&s=aa6be328defc088b38effe810fe80d9e3b58944f",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/LocalLLaMA"
+      ],
+      "summary": "I was taking a look at Kimi K3 scores on the Artificial analysis leaderboard and was quite baffled when I saw this chart. Granted, Deepseek has always been the king of price to performance, but this is still incredible. Is it just API subsidization or have they optimized their models truly this much? &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/LocalLLaMA this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uzno5c",
+      "title": "Micron will peak and leave all you retail with heavy bags",
+      "link": "https://www.reddit.com/r/investing/comments/1uzno5c/micron_will_peak_and_leave_all_you_retail_with/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/investing · community knowledge",
+      "content_type": "post",
+      "author": "u/OilAny787 · r/investing",
+      "handle": "investing",
+      "org": "r/investing",
+      "platform": "reddit",
+      "published": "2026-07-18T05:59:00.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/investing"
+      ],
+      "summary": "Micron has been the single greatest beneficiary of the memory shortage, and the numbers are genuinely difficult to argue with. The May quarter produced $41.5 billion of revenue at an 84.9% gross margin, with the current quarter guided to $50 billion and roughly 86%, which is a level of profitability no memory…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/investing this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uzmllf",
+      "title": "Achievements for Saturday, July 18, 2026",
+      "link": "https://www.reddit.com/r/running/comments/1uzmllf/achievements_for_saturday_july_18_2026/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/running · community knowledge",
+      "content_type": "post",
+      "author": "u/AutoModerator · r/running",
+      "handle": "running",
+      "org": "r/running",
+      "platform": "reddit",
+      "published": "2026-07-18T05:02:06.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/running"
+      ],
+      "summary": "Hey runners, it&#39;s another day and it is time to post your accomplishments you&#39;d like to share - big or small. Note: No need to preface YOUR accomplishments with something like, &quot;this may not be an accomplishment to most of you...&quot;. Be proud of your achievement. &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/running this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1331,124 +1448,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/LocalLLaMA this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ux9ol7",
-      "title": "Fortified soy milk is part of the USDA's dairy group due to its nutritional similarities with cow's milk, such as its protein, calcium, vitamin A, and vitamin D content. For those who've transitioned to soy: how's it going? For those who haven't: what's holding you back?",
-      "link": "https://www.reddit.com/r/nutrition/comments/1ux9ol7/fortified_soy_milk_is_part_of_the_usdas_dairy/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/nutrition · community knowledge",
-      "content_type": "post",
-      "author": "u/James_Fortis · r/nutrition",
-      "handle": "nutrition",
-      "org": "r/nutrition",
-      "platform": "reddit",
-      "published": "2026-07-15T15:48:47.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Nutrition",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "Nutrition",
-        "r/nutrition"
-      ],
-      "summary": "The USDA lists fortified soy milk as dairy. Most cow&#39;s milk in the USA is also fortified. Soy milk has a comparable amount of protein, calcium, vitamin A, and vitamin D. Notably, soy milk has fiber and other beneficial phytonutrients. 1 and 2% cow&#39;s milk has more saturated fat and trans fat, whereas skim milk…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/nutrition this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ux4ro3",
-      "title": "Are push ups, squats and pull ups enough?",
-      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1ux4ro3/are_push_ups_squats_and_pull_ups_enough/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/bodyweightfitness · community knowledge",
-      "content_type": "post",
-      "author": "u/Exciting-Fill2373 · r/bodyweightfitness",
-      "handle": "bodyweightfitness",
-      "org": "r/bodyweightfitness",
-      "platform": "reddit",
-      "published": "2026-07-15T12:42:06.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/bodyweightfitness"
-      ],
-      "summary": "Hi I am 18 yo 183cm tall guy. I am about 87kg, fat, no muscle, and I aim to get to 78 and become lean and I am wondering will this workout with calorie deficit be good enough. I never started because I could never stick to any workouts because they were all so complicated. I just finished watching a video of a guy…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/bodyweightfitness this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ux0e0i",
-      "title": "Rant Wednesday - July 15, 2026",
-      "link": "https://www.reddit.com/r/Fitness/comments/1ux0e0i/rant_wednesday_july_15_2026/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/Fitness · community knowledge",
-      "content_type": "post",
-      "author": "u/AutoModerator · r/Fitness",
-      "handle": "Fitness",
-      "org": "r/Fitness",
-      "platform": "reddit",
-      "published": "2026-07-15T09:00:26.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/Fitness"
-      ],
-      "summary": "Welcome to Rant Wednesday: It’s your time to let your gym/fitness/nutrition related frustrations out! There is no guiding question to help stir up some rage-feels, feel free to fire at will, ranting about anything and everything that’s been pissing you off or getting on your nerves. Just don&#39;t forget that other…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/Fitness this week"
       ],
       "metrics": {
         "likes": 0,
