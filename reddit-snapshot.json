@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-19T22:00:27.044Z",
+  "generated_at": "2026-07-19T23:01:50.688Z",
   "subs": [
     "MachineLearning",
-    "longevity",
-    "hardware",
+    "programming",
+    "SkincareAddiction",
     "bodyweightfitness",
     "Futurology",
     "running",
@@ -14,26 +14,65 @@
     "startups",
     "LocalLLaMA",
     "investing",
-    "programming",
     "artificial",
     "singularity",
-    "SkincareAddiction",
+    "hardware",
+    "longevity",
     "science",
     "netsec"
   ],
   "count": 36,
   "by_category": {
+    "Skincare": 3,
     "Fitness": 8,
     "Science": 4,
     "Robotics": 2,
     "Security": 4,
-    "AI / ML": 8,
+    "AI / ML": 7,
     "Hardware & Gadgets": 3,
     "Startups & Funding": 4,
-    "Coding & Dev Tools": 1,
-    "Skincare": 2
+    "Coding & Dev Tools": 1
   },
   "articles": [
+    {
+      "id": "reddit_1v0p6bv",
+      "title": "[PSA] ChatGPT recommendations may be influenced by L'Oréal's advertising partnership with OpenAI",
+      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1v0p6bv/psa_chatgpt_recommendations_may_be_influenced_by/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/SkincareAddiction · community knowledge",
+      "content_type": "post",
+      "author": "u/No-Layer3215 · r/SkincareAddiction",
+      "handle": "SkincareAddiction",
+      "org": "r/SkincareAddiction",
+      "platform": "reddit",
+      "published": "2026-07-19T12:21:44.000Z",
+      "image": "https://preview.redd.it/uadwhrnpi6eh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=c9d6fe27fb5dd07729d68836beac9df3a294057a",
+      "thumbnail": "https://preview.redd.it/uadwhrnpi6eh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=c9d6fe27fb5dd07729d68836beac9df3a294057a",
+      "section": "Skincare",
+      "category": "Skincare",
+      "genre": "Skincare",
+      "categories": [
+        "Reddit",
+        "Skincare",
+        "r/SkincareAddiction"
+      ],
+      "summary": "Source: dija_ayodele (Instagram) &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/SkincareAddiction this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1v0o0lc",
       "title": "I Need Help Explaining Things to My Fiancé",
@@ -1407,46 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/cybersecurity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uxwzi4",
-      "title": "George Lucas says rejecting AI is like rejecting cars in favour of horses: 'There's nothing you can do about it… it's the future'",
-      "link": "https://www.reddit.com/r/singularity/comments/1uxwzi4/george_lucas_says_rejecting_ai_is_like_rejecting/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/singularity · community knowledge",
-      "content_type": "post",
-      "author": "u/Anen-o-me · r/singularity",
-      "handle": "singularity",
-      "org": "r/singularity",
-      "platform": "reddit",
-      "published": "2026-07-16T08:36:42.000Z",
-      "image": "https://external-preview.redd.it/5MrTuv1P4tf-6MJTV1UtK7V0X1nq1Lx7LrO7HJMheNo.jpeg?width=640&crop=smart&auto=webp&s=ba15fb0f132f2d2a82c6dbe623f3f344ed425813",
-      "thumbnail": "https://external-preview.redd.it/5MrTuv1P4tf-6MJTV1UtK7V0X1nq1Lx7LrO7HJMheNo.jpeg?width=640&crop=smart&auto=webp&s=ba15fb0f132f2d2a82c6dbe623f3f344ed425813",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/singularity"
-      ],
-      "summary": "George Lucas says rejecting AI is like rejecting cars in favour of horses: 'There's nothing you can do about it… it's the future'",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/singularity this week"
       ],
       "metrics": {
         "likes": 0,
