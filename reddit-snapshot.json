@@ -1,9 +1,8 @@
 {
-  "generated_at": "2026-07-19T09:33:22.265Z",
+  "generated_at": "2026-07-19T11:00:16.876Z",
   "subs": [
     "MachineLearning",
     "Fitness",
-    "hardware",
     "robotics",
     "cybersecurity",
     "programming",
@@ -11,6 +10,7 @@
     "singularity",
     "nutrition",
     "running",
+    "hardware",
     "longevity",
     "SkincareAddiction",
     "science",
@@ -23,8 +23,8 @@
   ],
   "count": 36,
   "by_category": {
-    "Robotics": 1,
-    "Security": 5,
+    "Robotics": 2,
+    "Security": 4,
     "AI / ML": 10,
     "Coding & Dev Tools": 2,
     "Fitness": 6,
@@ -264,6 +264,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/singularity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uz2hsj",
+      "title": "Interchangeable gripper",
+      "link": "https://www.reddit.com/r/robotics/comments/1uz2hsj/interchangeable_gripper/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/robotics · community knowledge",
+      "content_type": "post",
+      "author": "u/Wing-Realistic · r/robotics",
+      "handle": "robotics",
+      "org": "r/robotics",
+      "platform": "reddit",
+      "published": "2026-07-17T15:10:35.000Z",
+      "image": "https://external-preview.redd.it/ZXU5NGVodjEzdGRoMdnBjmh9qowocKxe9RRvCmtyDOubnlWsoebkVE2X_QxA.png?width=640&crop=smart&auto=webp&s=adbf6026e6a72959d98ea92e3abfafc5c6537d15",
+      "thumbnail": "https://external-preview.redd.it/ZXU5NGVodjEzdGRoMdnBjmh9qowocKxe9RRvCmtyDOubnlWsoebkVE2X_QxA.png?width=640&crop=smart&auto=webp&s=adbf6026e6a72959d98ea92e3abfafc5c6537d15",
+      "section": "Robotics",
+      "category": "Robotics",
+      "genre": "Robotics",
+      "categories": [
+        "Reddit",
+        "Robotics",
+        "r/robotics"
+      ],
+      "summary": "Hi! Our general-purpose robot can now use tools. Humanoid hands, and especially the models controlling them reliably, aren’t available yet, so we’re focusing on making the options we can use right now and actually work. &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/robotics this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1410,45 +1449,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Fitness this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ux00pn",
-      "title": "The Memory Heist - How I tricked Claude into leaking your deepest, darkest secrets",
-      "link": "https://www.reddit.com/r/netsec/comments/1ux00pn/the_memory_heist_how_i_tricked_claude_into/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/netsec · community knowledge",
-      "content_type": "post",
-      "author": "u/_vavkamil_ · r/netsec",
-      "handle": "netsec",
-      "org": "r/netsec",
-      "platform": "reddit",
-      "published": "2026-07-15T08:38:40.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/netsec"
-      ],
-      "summary": "The Memory Heist - How I tricked Claude into leaking your deepest, darkest secrets",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/netsec this week"
       ],
       "metrics": {
         "likes": 0,
