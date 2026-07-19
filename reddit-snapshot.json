@@ -1,9 +1,11 @@
 {
-  "generated_at": "2026-07-19T04:53:48.159Z",
+  "generated_at": "2026-07-19T07:32:17.634Z",
   "subs": [
     "MachineLearning",
-    "programming",
+    "Fitness",
+    "robotics",
     "cybersecurity",
+    "programming",
     "artificial",
     "singularity",
     "nutrition",
@@ -17,21 +19,60 @@
     "LocalLLaMA",
     "netsec",
     "startups",
-    "bodyweightfitness",
-    "Fitness"
+    "bodyweightfitness"
   ],
   "count": 36,
   "by_category": {
+    "Robotics": 1,
     "Security": 5,
     "AI / ML": 10,
     "Coding & Dev Tools": 2,
     "Fitness": 6,
     "Hardware & Gadgets": 3,
-    "Science": 4,
+    "Science": 3,
     "Skincare": 2,
     "Startups & Funding": 4
   },
   "articles": [
+    {
+      "id": "reddit_1v05s4o",
+      "title": "Check out my 3D printed, 18 servo, Self balancing Hexapod.",
+      "link": "https://www.reddit.com/r/robotics/comments/1v05s4o/check_out_my_3d_printed_18_servo_self_balancing/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/robotics · community knowledge",
+      "content_type": "post",
+      "author": "u/Safe_Tone1529 · r/robotics",
+      "handle": "robotics",
+      "org": "r/robotics",
+      "platform": "reddit",
+      "published": "2026-07-18T20:00:34.000Z",
+      "image": "https://external-preview.redd.it/ZDFpazJjOHFpMWVoMfJ-_YWlY6sOu5R3XkKQuTUX5eKp-bbVMr3PipRE-xao.png?width=640&crop=smart&auto=webp&s=c6a091d5f16c7419a09287591b442ad2d45710fe",
+      "thumbnail": "https://external-preview.redd.it/ZDFpazJjOHFpMWVoMfJ-_YWlY6sOu5R3XkKQuTUX5eKp-bbVMr3PipRE-xao.png?width=640&crop=smart&auto=webp&s=c6a091d5f16c7419a09287591b442ad2d45710fe",
+      "section": "Robotics",
+      "category": "Robotics",
+      "genre": "Robotics",
+      "categories": [
+        "Reddit",
+        "Robotics",
+        "r/robotics"
+      ],
+      "summary": "I&#39;m 15 years old and this is my hexapod project I have been working on for the past year, I learned a ton from it. Here are its specs: -Build: Mostly 3D printed, I used a model from Aecert Robotics from youtube , I made some changes and improvements to the model such as the femur joints that connect to the servos.…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/robotics this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1v03ao4",
       "title": "Trump Has Systematically Dismantled Election Security Efforts. Here’s How.",
@@ -1408,46 +1449,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/netsec this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uwzbuw",
-      "title": "Lawnmower-like Enzyme Rewinds Decades of Molecular Aging in Human Tissue",
-      "link": "https://www.reddit.com/r/longevity/comments/1uwzbuw/lawnmowerlike_enzyme_rewinds_decades_of_molecular/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/longevity · community knowledge",
-      "content_type": "post",
-      "author": "u/jimofoz · r/longevity",
-      "handle": "longevity",
-      "org": "r/longevity",
-      "platform": "reddit",
-      "published": "2026-07-15T07:59:00.000Z",
-      "image": "https://external-preview.redd.it/Dd7DEER3WfuMzOzvGThOZ9CK10Ns0-iz3_5fbF2nbpM.jpeg?width=640&crop=smart&auto=webp&s=0fb28236aa4175f7cb04854aa21a76f0d4e3881f",
-      "thumbnail": "https://external-preview.redd.it/Dd7DEER3WfuMzOzvGThOZ9CK10Ns0-iz3_5fbF2nbpM.jpeg?width=640&crop=smart&auto=webp&s=0fb28236aa4175f7cb04854aa21a76f0d4e3881f",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Longevity",
-      "categories": [
-        "Reddit",
-        "Science",
-        "Longevity",
-        "r/longevity"
-      ],
-      "summary": "Lawnmower-like Enzyme Rewinds Decades of Molecular Aging in Human Tissue",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/longevity this week"
       ],
       "metrics": {
         "likes": 0,
