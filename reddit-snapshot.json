@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-07-19T14:06:44.896Z",
+  "generated_at": "2026-07-19T15:35:57.203Z",
   "subs": [
     "MachineLearning",
-    "programming",
-    "cybersecurity",
+    "singularity",
+    "nutrition",
     "robotics",
+    "cybersecurity",
     "LocalLLaMA",
     "investing",
     "running",
+    "programming",
     "artificial",
-    "singularity",
-    "nutrition",
     "hardware",
     "longevity",
     "SkincareAddiction",
@@ -23,11 +23,11 @@
   "by_category": {
     "Robotics": 2,
     "Security": 4,
+    "Fitness": 5,
     "AI / ML": 11,
     "Startups & Funding": 5,
-    "Fitness": 4,
     "Coding & Dev Tools": 2,
-    "Hardware & Gadgets": 3,
+    "Hardware & Gadgets": 2,
     "Science": 3,
     "Skincare": 2
   },
@@ -103,6 +103,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/cybersecurity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v014qg",
+      "title": "Are gums bad for you (xanthan, guar, locust etc)",
+      "link": "https://www.reddit.com/r/nutrition/comments/1v014qg/are_gums_bad_for_you_xanthan_guar_locust_etc/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/nutrition · community knowledge",
+      "content_type": "post",
+      "author": "u/Iceeez1 · r/nutrition",
+      "handle": "nutrition",
+      "org": "r/nutrition",
+      "platform": "reddit",
+      "published": "2026-07-18T16:58:47.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Nutrition",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "Nutrition",
+        "r/nutrition"
+      ],
+      "summary": "Are gums bad for you (xanthan, guar, locust etc)",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/nutrition this week"
       ],
       "metrics": {
         "likes": 0,
@@ -374,6 +414,46 @@
         "r/singularity"
       ],
       "summary": "Moonshot AI (Kimi) office (presumably 2 days before the K3 launch). A $20B valuation startup. Not as flashy as SF rivals",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/singularity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uz31zl",
+      "title": "This is the most cyberpunk thing I've seen lately, drone swarm returning to base. The past would be stunned and confused.",
+      "link": "https://www.reddit.com/r/singularity/comments/1uz31zl/this_is_the_most_cyberpunk_thing_ive_seen_lately/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/singularity · community knowledge",
+      "content_type": "post",
+      "author": "u/Anen-o-me · r/singularity",
+      "handle": "singularity",
+      "org": "r/singularity",
+      "platform": "reddit",
+      "published": "2026-07-17T15:31:25.000Z",
+      "image": "https://external-preview.redd.it/dmJiaHA1enI2dGRoMeLyYn1IBRoZcam0UfTGdfp87V2ZADuKcOKxdfNR-_C2.png?width=320&crop=smart&auto=webp&s=459d89aedc2d520f39913cdaa76311f8d0371a06",
+      "thumbnail": "https://external-preview.redd.it/dmJiaHA1enI2dGRoMeLyYn1IBRoZcam0UfTGdfp87V2ZADuKcOKxdfNR-_C2.png?width=320&crop=smart&auto=webp&s=459d89aedc2d520f39913cdaa76311f8d0371a06",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/singularity"
+      ],
+      "summary": "Something about that sight of a flying cube with all those angular intersections is extremely unsettling. &#32;",
       "is_social": true,
       "report_worthy": true,
       "worthiness_score": 62,
@@ -1362,85 +1442,6 @@
         "r/LocalLLaMA"
       ],
       "summary": "The full quote: I realize that some people really dislike AI, but this is an area where I&#39;m willing to absolutely put my foot down as the top-level maintainer. Linux is not one of those anti-AI projects, and if somebody has issues with that, they can do the open-source thing and fork it. Or just walk away. AI is a…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/LocalLLaMA this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uxblcw",
-      "title": "Smart TVs are cheap partly because manufacturers collect and sell viewing data through ACR. You can opt out, but that choice is often hard to find and easy to misunderstand.",
-      "link": "https://www.reddit.com/r/hardware/comments/1uxblcw/smart_tvs_are_cheap_partly_because_manufacturers/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/hardware · community knowledge",
-      "content_type": "post",
-      "author": "u/sp_RTINGS · r/hardware",
-      "handle": "hardware",
-      "org": "r/hardware",
-      "platform": "reddit",
-      "published": "2026-07-15T16:53:28.000Z",
-      "image": "https://external-preview.redd.it/zJNd8xvgHImMPyIPNtitWca8BHqyeEzjTn70OGVD8qQ.jpeg?width=640&crop=smart&auto=webp&s=7ba21c789d6dea7435b795c9aa4537a5362a174a",
-      "thumbnail": "https://external-preview.redd.it/zJNd8xvgHImMPyIPNtitWca8BHqyeEzjTn70OGVD8qQ.jpeg?width=640&crop=smart&auto=webp&s=7ba21c789d6dea7435b795c9aa4537a5362a174a",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/hardware"
-      ],
-      "summary": "Disclosure: I work at RTINGS.com and led this investigation. ACR stands for Automatic Content Recognition. It lets TV manufacturers identify what content is playing on your screen without needing cooperation from the app itself. This means your TV has a really global view of your viewing habits across built-in apps…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/hardware this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ux9xze",
-      "title": "The best model is the one you can actually run",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1ux9xze/the_best_model_is_the_one_you_can_actually_run/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/LocalLLaMA · community knowledge",
-      "content_type": "post",
-      "author": "u/OneFanFare · r/LocalLLaMA",
-      "handle": "LocalLLaMA",
-      "org": "r/LocalLLaMA",
-      "platform": "reddit",
-      "published": "2026-07-15T15:57:25.000Z",
-      "image": "https://preview.redd.it/dyi11adk1fdh1.png?width=640&crop=smart&auto=webp&s=3e0807880b61178da540f9851f1d5f46cbe368da",
-      "thumbnail": "https://preview.redd.it/dyi11adk1fdh1.png?width=640&crop=smart&auto=webp&s=3e0807880b61178da540f9851f1d5f46cbe368da",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/LocalLLaMA"
-      ],
-      "summary": "Don&#39;t get me wrong, all the big models are amazing, and every contribution to open source models is great. But I&#39;m GPU poor and I can&#39;t use them locally. I&#39;m currently running gemma-4-12b-it-qat-GGUF:UD-Q4_K_XL as my personal chat assistant, and I am so so happy with it! I still can&#39;t believe I can…",
       "is_social": true,
       "report_worthy": true,
       "worthiness_score": 62,
