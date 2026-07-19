@@ -1,37 +1,76 @@
 {
-  "generated_at": "2026-07-19T01:08:55.069Z",
+  "generated_at": "2026-07-19T04:53:48.159Z",
   "subs": [
     "MachineLearning",
-    "singularity",
-    "SkincareAddiction",
     "programming",
+    "cybersecurity",
     "artificial",
+    "singularity",
     "nutrition",
     "running",
     "hardware",
     "longevity",
+    "SkincareAddiction",
     "science",
     "gadgets",
     "investing",
     "LocalLLaMA",
     "netsec",
-    "cybersecurity",
     "startups",
     "bodyweightfitness",
     "Fitness"
   ],
   "count": 36,
   "by_category": {
+    "Security": 5,
     "AI / ML": 10,
     "Coding & Dev Tools": 2,
     "Fitness": 6,
     "Hardware & Gadgets": 3,
     "Science": 4,
     "Skincare": 2,
-    "Startups & Funding": 4,
-    "Security": 5
+    "Startups & Funding": 4
   },
   "articles": [
+    {
+      "id": "reddit_1v03ao4",
+      "title": "Trump Has Systematically Dismantled Election Security Efforts. Here’s How.",
+      "link": "https://www.reddit.com/r/cybersecurity/comments/1v03ao4/trump_has_systematically_dismantled_election/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/cybersecurity · community knowledge",
+      "content_type": "post",
+      "author": "u/CutSenior4977 · r/cybersecurity",
+      "handle": "cybersecurity",
+      "org": "r/cybersecurity",
+      "platform": "reddit",
+      "published": "2026-07-18T18:22:21.000Z",
+      "image": "https://external-preview.redd.it/jq1enyTh5PdPJeo5OcDxV-yWCFYgub2G6WHv3Ojr5ro.jpeg?width=640&crop=smart&auto=webp&s=cf1196d55faf72ed0b5528abd1b2bd5e52c8e16e",
+      "thumbnail": "https://external-preview.redd.it/jq1enyTh5PdPJeo5OcDxV-yWCFYgub2G6WHv3Ojr5ro.jpeg?width=640&crop=smart&auto=webp&s=cf1196d55faf72ed0b5528abd1b2bd5e52c8e16e",
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/cybersecurity"
+      ],
+      "summary": "I feel as though this news fits this sub, due to a massive amount of election security being cybersecurity. &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/cybersecurity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1uzyf66",
       "title": "Did blatant AI Slop just win a 25K USD Deepmind / Kaggle Grand Prize? [D]",
@@ -1409,45 +1448,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/longevity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uwz3b1",
-      "title": "Microsoft’s Secure Boot has been broken for a decade and no one noticed until now",
-      "link": "https://www.reddit.com/r/cybersecurity/comments/1uwz3b1/microsofts_secure_boot_has_been_broken_for_a/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/cybersecurity · community knowledge",
-      "content_type": "post",
-      "author": "u/rkhunter_ · r/cybersecurity",
-      "handle": "cybersecurity",
-      "org": "r/cybersecurity",
-      "platform": "reddit",
-      "published": "2026-07-15T07:44:55.000Z",
-      "image": "https://external-preview.redd.it/1mI9XiwuPE_zgYXa4PHULah8zNPW01OW740VRFgmdcA.jpeg?width=640&crop=smart&auto=webp&s=188cc9c5a01c301659c04b680b59cad72e7bc2ef",
-      "thumbnail": "https://external-preview.redd.it/1mI9XiwuPE_zgYXa4PHULah8zNPW01OW740VRFgmdcA.jpeg?width=640&crop=smart&auto=webp&s=188cc9c5a01c301659c04b680b59cad72e7bc2ef",
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/cybersecurity"
-      ],
-      "summary": "An industry-wide standard Microsoft invented to protect Windows, and later Linux, devices from firmware infections has been trivial to bypass for 13 of its 14 years of existence. The discovery was made by researchers at security firm ESET after identifying 11 firmware images, at least one from 2013, that were known to…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/cybersecurity this week"
       ],
       "metrics": {
         "likes": 0,
