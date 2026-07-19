@@ -1,18 +1,19 @@
 {
-  "generated_at": "2026-07-18T23:32:05.207Z",
+  "generated_at": "2026-07-19T01:08:55.069Z",
   "subs": [
     "MachineLearning",
-    "LocalLLaMA",
-    "running",
-    "investing",
+    "singularity",
+    "SkincareAddiction",
     "programming",
     "artificial",
     "nutrition",
+    "running",
     "hardware",
     "longevity",
-    "SkincareAddiction",
     "science",
     "gadgets",
+    "investing",
+    "LocalLLaMA",
     "netsec",
     "cybersecurity",
     "startups",
@@ -21,10 +22,10 @@
   ],
   "count": 36,
   "by_category": {
-    "AI / ML": 9,
+    "AI / ML": 10,
     "Coding & Dev Tools": 2,
     "Fitness": 6,
-    "Hardware & Gadgets": 4,
+    "Hardware & Gadgets": 3,
     "Science": 4,
     "Skincare": 2,
     "Startups & Funding": 4,
@@ -143,6 +144,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/artificial this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uz3ff6",
+      "title": "Moonshot AI (Kimi) office (presumably 2 days before the K3 launch). A $20B valuation startup. Not as flashy as SF rivals",
+      "link": "https://www.reddit.com/r/singularity/comments/1uz3ff6/moonshot_ai_kimi_office_presumably_2_days_before/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/singularity · community knowledge",
+      "content_type": "post",
+      "author": "u/RetiredApostle · r/singularity",
+      "handle": "singularity",
+      "org": "r/singularity",
+      "platform": "reddit",
+      "published": "2026-07-17T15:45:15.000Z",
+      "image": "https://preview.redd.it/adcjbvn98tdh1.png?width=640&crop=smart&auto=webp&s=e16dbda822bbf5825c14a203dccec4a50f34628a",
+      "thumbnail": "https://preview.redd.it/adcjbvn98tdh1.png?width=640&crop=smart&auto=webp&s=e16dbda822bbf5825c14a203dccec4a50f34628a",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/singularity"
+      ],
+      "summary": "Moonshot AI (Kimi) office (presumably 2 days before the K3 launch). A $20B valuation startup. Not as flashy as SF rivals",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/singularity this week"
       ],
       "metrics": {
         "likes": 0,
@@ -782,6 +823,46 @@
       }
     },
     {
+      "id": "reddit_1uxwzi4",
+      "title": "George Lucas says rejecting AI is like rejecting cars in favour of horses: 'There's nothing you can do about it… it's the future'",
+      "link": "https://www.reddit.com/r/singularity/comments/1uxwzi4/george_lucas_says_rejecting_ai_is_like_rejecting/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/singularity · community knowledge",
+      "content_type": "post",
+      "author": "u/Anen-o-me · r/singularity",
+      "handle": "singularity",
+      "org": "r/singularity",
+      "platform": "reddit",
+      "published": "2026-07-16T08:36:42.000Z",
+      "image": "https://external-preview.redd.it/5MrTuv1P4tf-6MJTV1UtK7V0X1nq1Lx7LrO7HJMheNo.jpeg?width=640&crop=smart&auto=webp&s=ba15fb0f132f2d2a82c6dbe623f3f344ed425813",
+      "thumbnail": "https://external-preview.redd.it/5MrTuv1P4tf-6MJTV1UtK7V0X1nq1Lx7LrO7HJMheNo.jpeg?width=640&crop=smart&auto=webp&s=ba15fb0f132f2d2a82c6dbe623f3f344ed425813",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/singularity"
+      ],
+      "summary": "George Lucas says rejecting AI is like rejecting cars in favour of horses: 'There's nothing you can do about it… it's the future'",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/singularity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1uxtfmh",
       "title": "Found the market, found customers, but they all want certs I cannot afford. I will not promote",
       "link": "https://www.reddit.com/r/startups/comments/1uxtfmh/found_the_market_found_customers_but_they_all/",
@@ -1367,85 +1448,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/cybersecurity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uwya70",
-      "title": "Mechanistic interpretability: a first paper on disentangling a convolutional neuron [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1uwya70/mechanistic_interpretability_a_first_paper_on/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/MachineLearning · community knowledge",
-      "content_type": "post",
-      "author": "u/narang_27 · r/MachineLearning",
-      "handle": "MachineLearning",
-      "org": "r/MachineLearning",
-      "platform": "reddit",
-      "published": "2026-07-15T06:59:41.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/MachineLearning"
-      ],
-      "summary": "I have recently started working in mechanistic interpretability independently, starting with distill circuits thread My work is on disentangling and closely studying a single neuron, a 1x1 convolution in inceptionv1 model (and applying the method to other neurons in the same layer). The key insight was that the…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/MachineLearning this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uwu1f4",
-      "title": "Samsung's slower version of the 990 Pro SSD costs way more than the original",
-      "link": "https://www.reddit.com/r/gadgets/comments/1uwu1f4/samsungs_slower_version_of_the_990_pro_ssd_costs/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/gadgets · community knowledge",
-      "content_type": "post",
-      "author": "u/dapperlemon · r/gadgets",
-      "handle": "gadgets",
-      "org": "r/gadgets",
-      "platform": "reddit",
-      "published": "2026-07-15T03:17:57.000Z",
-      "image": "https://external-preview.redd.it/EY_RRpg5Amb5X5KWUFuR8w7UUY_Ox8_vRpO2rsM9_4s.jpeg?width=640&crop=smart&auto=webp&s=58d3d33509ee6be1101d1d4b8fb5703faa623f10",
-      "thumbnail": "https://external-preview.redd.it/EY_RRpg5Amb5X5KWUFuR8w7UUY_Ox8_vRpO2rsM9_4s.jpeg?width=640&crop=smart&auto=webp&s=58d3d33509ee6be1101d1d4b8fb5703faa623f10",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/gadgets"
-      ],
-      "summary": "Samsung's slower version of the 990 Pro SSD costs way more than the original",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/gadgets this week"
       ],
       "metrics": {
         "likes": 0,
