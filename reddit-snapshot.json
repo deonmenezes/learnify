@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-19T19:49:17.338Z",
+  "generated_at": "2026-07-19T20:58:15.282Z",
   "subs": [
     "MachineLearning",
-    "Fitness",
+    "bodyweightfitness",
     "robotics",
     "Futurology",
     "running",
@@ -23,17 +23,56 @@
   ],
   "count": 36,
   "by_category": {
+    "Fitness": 8,
     "Science": 4,
-    "Fitness": 6,
     "Robotics": 2,
     "Security": 4,
     "AI / ML": 8,
     "Hardware & Gadgets": 3,
-    "Startups & Funding": 5,
-    "Coding & Dev Tools": 2,
+    "Startups & Funding": 4,
+    "Coding & Dev Tools": 1,
     "Skincare": 2
   },
   "articles": [
+    {
+      "id": "reddit_1v0o0lc",
+      "title": "I Need Help Explaining Things to My Fiancé",
+      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1v0o0lc/i_need_help_explaining_things_to_my_fiancé/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/bodyweightfitness · community knowledge",
+      "content_type": "post",
+      "author": "u/ViperMom149 · r/bodyweightfitness",
+      "handle": "bodyweightfitness",
+      "org": "r/bodyweightfitness",
+      "platform": "reddit",
+      "published": "2026-07-19T11:24:13.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/bodyweightfitness"
+      ],
+      "summary": "My fiancé (41M) is a lifetime athlete. He started playing soccer when he was 4 or 5 years old and played all the way until high school graduation. He then joined the Army and became Airborne Infantry where (I’ve heard stories from his Army buddies) of him being the guy to catch when it came to all their athletic…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/bodyweightfitness this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1v0mnqa",
       "title": "The AI Slop Purge has arrived. So far Youtube has deleted 130,000 channels, and it's bad news for Youtube's biggest creators.",
@@ -263,6 +302,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uzxdvv",
+      "title": "100 bodyweight squats every day for 30 days. Join the challenge!",
+      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1uzxdvv/100_bodyweight_squats_every_day_for_30_days_join/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/bodyweightfitness · community knowledge",
+      "content_type": "post",
+      "author": "u/Vikistra · r/bodyweightfitness",
+      "handle": "bodyweightfitness",
+      "org": "r/bodyweightfitness",
+      "platform": "reddit",
+      "published": "2026-07-18T14:29:19.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/bodyweightfitness"
+      ],
+      "summary": "My lower body has always been much weaker than my upper body. I dislocated my left knee cap 9 times and no matter how much stretching I do, I can&#39;t seem to get more ankle mobility. My left ankle is about 20% less flexible compared to the right. At least that&#39;s what I think the issue is, my left foot&#39;s heel…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/bodyweightfitness this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1369,85 +1447,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/singularity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uxtfmh",
-      "title": "Found the market, found customers, but they all want certs I cannot afford. I will not promote",
-      "link": "https://www.reddit.com/r/startups/comments/1uxtfmh/found_the_market_found_customers_but_they_all/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/startups · community knowledge",
-      "content_type": "post",
-      "author": "u/jeremyStover · r/startups",
-      "handle": "startups",
-      "org": "r/startups",
-      "platform": "reddit",
-      "published": "2026-07-16T05:15:39.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/startups"
-      ],
-      "summary": "Says it all on the title. I put a SaaS wrapper around a tool I built a couple years ago, and started to expand it over the last 2 months. I have now had talks with 3 separate investors, all who have said basically the same thing. Investors are looking for proof of life, not a proof of concept. Get 3-4 big clients, and…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/startups this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uxjm12",
-      "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-      "link": "https://www.reddit.com/r/programming/comments/1uxjm12/cursor_0day_when_full_disclosure_becomes_the_only/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/programming · community knowledge",
-      "content_type": "post",
-      "author": "u/alexeyr · r/programming",
-      "handle": "programming",
-      "org": "r/programming",
-      "platform": "reddit",
-      "published": "2026-07-15T21:52:37.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Coding & Dev Tools",
-      "category": "Coding & Dev Tools",
-      "genre": "Coding & Dev Tools",
-      "categories": [
-        "Reddit",
-        "Coding & Dev Tools",
-        "r/programming"
-      ],
-      "summary": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/programming this week"
       ],
       "metrics": {
         "likes": 0,
