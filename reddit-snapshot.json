@@ -1,8 +1,9 @@
 {
-  "generated_at": "2026-07-19T23:01:50.688Z",
+  "generated_at": "2026-07-20T00:08:40.921Z",
   "subs": [
     "MachineLearning",
-    "programming",
+    "science",
+    "netsec",
     "SkincareAddiction",
     "bodyweightfitness",
     "Futurology",
@@ -14,26 +15,64 @@
     "startups",
     "LocalLLaMA",
     "investing",
+    "programming",
     "artificial",
     "singularity",
     "hardware",
-    "longevity",
-    "science",
-    "netsec"
+    "longevity"
   ],
   "count": 36,
   "by_category": {
+    "Science": 6,
     "Skincare": 3,
     "Fitness": 8,
-    "Science": 4,
     "Robotics": 2,
-    "Security": 4,
+    "Security": 2,
     "AI / ML": 7,
     "Hardware & Gadgets": 3,
     "Startups & Funding": 4,
     "Coding & Dev Tools": 1
   },
   "articles": [
+    {
+      "id": "reddit_1v0pwub",
+      "title": "A 65-year-old woman ended up in the ER with \"Happy Heart Syndrome\" after her daughter's wedding, a rare case where overwhelming joy temporarily weakened her heart muscle",
+      "link": "https://www.reddit.com/r/science/comments/1v0pwub/a_65yearold_woman_ended_up_in_the_er_with_happy/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/science · community knowledge",
+      "content_type": "post",
+      "author": "u/Jxntb733 · r/science",
+      "handle": "science",
+      "org": "r/science",
+      "platform": "reddit",
+      "published": "2026-07-19T12:56:43.000Z",
+      "image": "https://external-preview.redd.it/jd_niWaJ0DnTn08hbFaKJFo922luIrC4m-t_tvZciEU.png?width=640&crop=smart&auto=webp&s=7eec3dd0bc5a9e02bf8e33fffc353ace070b590b",
+      "thumbnail": "https://external-preview.redd.it/jd_niWaJ0DnTn08hbFaKJFo922luIrC4m-t_tvZciEU.png?width=640&crop=smart&auto=webp&s=7eec3dd0bc5a9e02bf8e33fffc353ace070b590b",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/science"
+      ],
+      "summary": "A 65-year-old woman ended up in the ER with \"Happy Heart Syndrome\" after her daughter's wedding, a rare case where overwhelming joy temporarily weakened her heart muscle",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/science this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1v0p6bv",
       "title": "[PSA] ChatGPT recommendations may be influenced by L'Oréal's advertising partnership with OpenAI",
@@ -380,6 +419,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/bodyweightfitness this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uzwugq",
+      "title": "Desire for attention, control makes narcissists more likely to favour in-person work, researchers hypothesize | Why narcissistic leaders resist remote work",
+      "link": "https://www.reddit.com/r/science/comments/1uzwugq/desire_for_attention_control_makes_narcissists/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/science · community knowledge",
+      "content_type": "post",
+      "author": "u/Hrmbee · r/science",
+      "handle": "science",
+      "org": "r/science",
+      "platform": "reddit",
+      "published": "2026-07-18T14:07:15.000Z",
+      "image": "https://external-preview.redd.it/xpjjkjZa4tPfRFN0vGRaG78AGKp1TTJyJG-foBXo_X0.jpeg?width=320&crop=smart&auto=webp&s=8f597789b0a93046028e84d6730d62bb6d15eeee",
+      "thumbnail": "https://external-preview.redd.it/xpjjkjZa4tPfRFN0vGRaG78AGKp1TTJyJG-foBXo_X0.jpeg?width=320&crop=smart&auto=webp&s=8f597789b0a93046028e84d6730d62bb6d15eeee",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/science"
+      ],
+      "summary": "Desire for attention, control makes narcissists more likely to favour in-person work, researchers hypothesize | Why narcissistic leaders resist remote work",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/science this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1368,84 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/netsec this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uy44c4",
-      "title": "[$13337] Confused Deputy: Google IdP Universal Account Takeover via Device Code Flow Hijacking",
-      "link": "https://www.reddit.com/r/netsec/comments/1uy44c4/13337_confused_deputy_google_idp_universal/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/netsec · community knowledge",
-      "content_type": "post",
-      "author": "u/swinglr · r/netsec",
-      "handle": "netsec",
-      "org": "r/netsec",
-      "platform": "reddit",
-      "published": "2026-07-16T14:15:21.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/netsec"
-      ],
-      "summary": "RFC 8628&#39;s device authorization grant lets a TV or CLI &quot;poll&quot; for login on a second screen. On Google&#39;s implementation, the entire session was transferable across browsers, the authorization server never checked that the client_id and scope in the consent URL matched the ones the device_code was…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/netsec this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uy2ddg",
-      "title": "The British teenager who hacked into Vegas casinos from an east London flat",
-      "link": "https://www.reddit.com/r/cybersecurity/comments/1uy2ddg/the_british_teenager_who_hacked_into_vegas/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/cybersecurity · community knowledge",
-      "content_type": "post",
-      "author": "u/theipaper · r/cybersecurity",
-      "handle": "cybersecurity",
-      "org": "r/cybersecurity",
-      "platform": "reddit",
-      "published": "2026-07-16T13:06:31.000Z",
-      "image": "https://external-preview.redd.it/W-ghUeacU4o3lhk0ppSSlYFH-_2rjFYVSbRUu4mx2ks.jpeg?width=640&crop=smart&auto=webp&s=9b5aeecf63daadc8f342e425401b53bcc97bb60a",
-      "thumbnail": "https://external-preview.redd.it/W-ghUeacU4o3lhk0ppSSlYFH-_2rjFYVSbRUu4mx2ks.jpeg?width=640&crop=smart&auto=webp&s=9b5aeecf63daadc8f342e425401b53bcc97bb60a",
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/cybersecurity"
-      ],
-      "summary": "The British teenager who hacked into Vegas casinos from an east London flat",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/cybersecurity this week"
       ],
       "metrics": {
         "likes": 0,
