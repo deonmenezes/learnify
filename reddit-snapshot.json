@@ -1,22 +1,21 @@
 {
-  "generated_at": "2026-07-20T00:08:40.921Z",
+  "generated_at": "2026-07-20T04:27:00.631Z",
   "subs": [
     "MachineLearning",
+    "artificial",
+    "nutrition",
+    "investing",
     "science",
-    "netsec",
     "SkincareAddiction",
     "bodyweightfitness",
     "Futurology",
     "running",
     "robotics",
     "cybersecurity",
-    "nutrition",
     "gadgets",
     "startups",
     "LocalLLaMA",
-    "investing",
     "programming",
-    "artificial",
     "singularity",
     "hardware",
     "longevity"
@@ -24,11 +23,11 @@
   "count": 36,
   "by_category": {
     "Science": 6,
-    "Skincare": 3,
+    "Skincare": 2,
     "Fitness": 8,
     "Robotics": 2,
-    "Security": 2,
-    "AI / ML": 7,
+    "Security": 1,
+    "AI / ML": 9,
     "Hardware & Gadgets": 3,
     "Startups & Funding": 4,
     "Coding & Dev Tools": 1
@@ -703,6 +702,86 @@
       }
     },
     {
+      "id": "reddit_1uze14i",
+      "title": "update on the browser extension that fact checks YouTube videos AS YOU WATCH",
+      "link": "https://www.reddit.com/r/artificial/comments/1uze14i/update_on_the_browser_extension_that_fact_checks/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/artificial · community knowledge",
+      "content_type": "post",
+      "author": "u/userpostingcontent · r/artificial",
+      "handle": "artificial",
+      "org": "r/artificial",
+      "platform": "reddit",
+      "published": "2026-07-17T22:19:46.000Z",
+      "image": "https://external-preview.redd.it/NzJuZmdzM2E2dmRoMXMQCCyeFjD0o4S8k9KRHeLITaCK6ZIGE2pGZgDvsKdb.png?width=640&crop=smart&auto=webp&s=1535c27cd5e3f4dc2cfbeee846043d203847c3bc",
+      "thumbnail": "https://external-preview.redd.it/NzJuZmdzM2E2dmRoMXMQCCyeFjD0o4S8k9KRHeLITaCK6ZIGE2pGZgDvsKdb.png?width=640&crop=smart&auto=webp&s=1535c27cd5e3f4dc2cfbeee846043d203847c3bc",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/artificial"
+      ],
+      "summary": "HI all, First, thank you so much for your feedback and interest in my project PopUpFactCheck. When I first posted about this July 1 , I did not expect the reception it would get and I am so thankful to y&#39;all. Some updates. You asked for Firefox, and it is now a Firefox add-on . It has new features. For example,…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/artificial this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1uzcgiq",
+      "title": "Xi Jinping calls for more open-source AI: 'China is ready to be more open'",
+      "link": "https://www.reddit.com/r/artificial/comments/1uzcgiq/xi_jinping_calls_for_more_opensource_ai_china_is/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/artificial · community knowledge",
+      "content_type": "post",
+      "author": "u/esporx · r/artificial",
+      "handle": "artificial",
+      "org": "r/artificial",
+      "platform": "reddit",
+      "published": "2026-07-17T21:15:30.000Z",
+      "image": "https://external-preview.redd.it/BC3I1dIOwfTWYqQpkriRV_PyISzwx-Nu1XTDK1A04k4.jpeg?width=640&crop=smart&auto=webp&s=e5f51b4c9f0a238f79b7e378e04654dc69991130",
+      "thumbnail": "https://external-preview.redd.it/BC3I1dIOwfTWYqQpkriRV_PyISzwx-Nu1XTDK1A04k4.jpeg?width=640&crop=smart&auto=webp&s=e5f51b4c9f0a238f79b7e378e04654dc69991130",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/artificial"
+      ],
+      "summary": "Xi Jinping calls for more open-source AI: 'China is ready to be more open'",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/artificial this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1uzadz5",
       "title": "Maintaining the code of the man who wrote \"How To Write Unmaintainable Code\"",
       "link": "https://www.reddit.com/r/programming/comments/1uzadz5/maintaining_the_code_of_the_man_who_wrote_how_to/",
@@ -1368,84 +1447,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/investing this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uy5luz",
-      "title": "[Sun Care] You know you're into skincare when your entire family gets you sunscreen for your birthday...",
-      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1uy5luz/sun_care_you_know_youre_into_skincare_when_your/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/SkincareAddiction · community knowledge",
-      "content_type": "post",
-      "author": "u/robotscantrecaptcha · r/SkincareAddiction",
-      "handle": "SkincareAddiction",
-      "org": "r/SkincareAddiction",
-      "platform": "reddit",
-      "published": "2026-07-16T15:10:04.000Z",
-      "image": "https://preview.redd.it/rjsdxec0yldh1.jpeg?width=640&crop=smart&auto=webp&s=84788fea25c166e50b29bd1d049a5b2daf6a8aa1",
-      "thumbnail": "https://preview.redd.it/rjsdxec0yldh1.jpeg?width=640&crop=smart&auto=webp&s=84788fea25c166e50b29bd1d049a5b2daf6a8aa1",
-      "section": "Skincare",
-      "category": "Skincare",
-      "genre": "Skincare",
-      "categories": [
-        "Reddit",
-        "Skincare",
-        "r/SkincareAddiction"
-      ],
-      "summary": "After having skin cancer removed last year, I&#39;ve gotten very into sunscreen (for good reason!). My birthday was recently and my family coordinated to each get me a different sunscreen. I&#39;ve never felt so seen! From left to right: Beauty of Joseon Day Dew Drunk Elephant Umbra Tinte Mineral tinted cream Bioderma…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/SkincareAddiction this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uy4iyq",
-      "title": "No Shark is Safe: Millions of Shark Vacuums are Vulnerable to RCE",
-      "link": "https://www.reddit.com/r/netsec/comments/1uy4iyq/no_shark_is_safe_millions_of_shark_vacuums_are/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/netsec · community knowledge",
-      "content_type": "post",
-      "author": "u/an0n9021O · r/netsec",
-      "handle": "netsec",
-      "org": "r/netsec",
-      "platform": "reddit",
-      "published": "2026-07-16T14:30:53.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/netsec"
-      ],
-      "summary": "No Shark is Safe: Millions of Shark Vacuums are Vulnerable to RCE",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/netsec this week"
       ],
       "metrics": {
         "likes": 0,
