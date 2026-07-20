@@ -1,13 +1,14 @@
 {
-  "generated_at": "2026-07-20T07:45:28.155Z",
+  "generated_at": "2026-07-20T10:59:40.798Z",
   "subs": [
     "MachineLearning",
-    "longevity",
-    "gadgets",
     "science",
+    "netsec",
+    "longevity",
     "SkincareAddiction",
     "bodyweightfitness",
     "Futurology",
+    "gadgets",
     "running",
     "robotics",
     "cybersecurity",
@@ -27,9 +28,9 @@
     "Fitness": 8,
     "Hardware & Gadgets": 4,
     "Robotics": 2,
-    "Security": 1,
+    "Security": 2,
     "AI / ML": 8,
-    "Startups & Funding": 3,
+    "Startups & Funding": 2,
     "Coding & Dev Tools": 1
   },
   "articles": [
@@ -781,6 +782,45 @@
       }
     },
     {
+      "id": "reddit_1uzhzbu",
+      "title": "wp2shell: Pre Authentication RCE in WordPress Core",
+      "link": "https://www.reddit.com/r/netsec/comments/1uzhzbu/wp2shell_pre_authentication_rce_in_wordpress_core/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/netsec · community knowledge",
+      "content_type": "post",
+      "author": "u/Mempodipper · r/netsec",
+      "handle": "netsec",
+      "org": "r/netsec",
+      "platform": "reddit",
+      "published": "2026-07-18T01:13:16.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/netsec"
+      ],
+      "summary": "wp2shell: Pre Authentication RCE in WordPress Core",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/netsec this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1uze14i",
       "title": "update on the browser extension that fact checks YouTube videos AS YOU WATCH",
       "link": "https://www.reddit.com/r/artificial/comments/1uze14i/update_on_the_browser_extension_that_fact_checks/",
@@ -1406,46 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/gadgets this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uyejki",
-      "title": "Trump Media Sells Faster Access to Trump's Posts for Wall Street Traders",
-      "link": "https://www.reddit.com/r/investing/comments/1uyejki/trump_media_sells_faster_access_to_trumps_posts/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/investing · community knowledge",
-      "content_type": "post",
-      "author": "u/Resident_Caramel763 · r/investing",
-      "handle": "investing",
-      "org": "r/investing",
-      "platform": "reddit",
-      "published": "2026-07-16T20:36:09.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/investing"
-      ],
-      "summary": "Is this legal or how SEC will handle this? https://cryip.co/trump-media-unveils-truth-api-for-wall-street-as-trumps-truth-social-posts-move-markets/ &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/investing this week"
       ],
       "metrics": {
         "likes": 0,
