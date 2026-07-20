@@ -1,39 +1,78 @@
 {
-  "generated_at": "2026-07-20T17:07:50.385Z",
+  "generated_at": "2026-07-20T19:18:04.560Z",
   "subs": [
     "MachineLearning",
-    "programming",
-    "SkincareAddiction",
+    "LocalLLaMA",
+    "running",
+    "investing",
     "longevity",
     "science",
     "Futurology",
+    "SkincareAddiction",
     "bodyweightfitness",
     "gadgets",
-    "running",
     "robotics",
     "cybersecurity",
     "nutrition",
     "startups",
-    "LocalLLaMA",
-    "investing",
     "netsec",
     "artificial",
-    "singularity",
-    "hardware"
+    "programming",
+    "singularity"
   ],
   "count": 36,
   "by_category": {
-    "Science": 7,
-    "Skincare": 3,
-    "Fitness": 8,
-    "Hardware & Gadgets": 3,
+    "Startups & Funding": 3,
+    "Science": 6,
+    "Skincare": 2,
+    "Fitness": 9,
+    "AI / ML": 9,
+    "Hardware & Gadgets": 2,
     "Robotics": 2,
     "Security": 2,
-    "AI / ML": 8,
-    "Startups & Funding": 2,
     "Coding & Dev Tools": 1
   },
   "articles": [
+    {
+      "id": "reddit_1v1dvdr",
+      "title": "Read NVIDIA's 10-Q last night. The earnings call skipped over some stuff.",
+      "link": "https://www.reddit.com/r/investing/comments/1v1dvdr/read_nvidias_10q_last_night_the_earnings_call/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/investing · community knowledge",
+      "content_type": "post",
+      "author": "u/ng_logic · r/investing",
+      "handle": "investing",
+      "org": "r/investing",
+      "platform": "reddit",
+      "published": "2026-07-20T06:48:31.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/investing"
+      ],
+      "summary": "So I went through the filing. The call was all &quot;parabolic demand&quot; and everything sounds amazing. Then you actually read the numbers. $58 billion in net income, but $13.4 billion of that was just unrealized gains from stocks they own. Intel went up so they booked a gain. That has nothing to do with selling…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/investing this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1v0xomp",
       "title": "Exercise Erased More Than Half the Molecular Signature of Muscle Aging. A New Study Maps Exactly Which Half.",
@@ -270,6 +309,46 @@
       }
     },
     {
+      "id": "reddit_1v0lewq",
+      "title": "Prepare your (v)ram - Qwen3.8 is coming!",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1v0lewq/prepare_your_vram_qwen38_is_coming/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/LocalLLaMA · community knowledge",
+      "content_type": "post",
+      "author": "u/xw1y · r/LocalLLaMA",
+      "handle": "LocalLLaMA",
+      "org": "r/LocalLLaMA",
+      "platform": "reddit",
+      "published": "2026-07-19T08:52:53.000Z",
+      "image": "https://preview.redd.it/c9vs0w2ih5eh1.jpeg?width=640&crop=smart&auto=webp&s=11f644bfda1965b970529be98561e59bb5718002",
+      "thumbnail": "https://preview.redd.it/c9vs0w2ih5eh1.jpeg?width=640&crop=smart&auto=webp&s=11f644bfda1965b970529be98561e59bb5718002",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/LocalLLaMA"
+      ],
+      "summary": "Prepare your (v)ram - Qwen3.8 is coming!",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/LocalLLaMA this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1v0hsfn",
       "title": "Google might not kneecap the Pixel 11a with an old processor",
       "link": "https://www.reddit.com/r/gadgets/comments/1v0hsfn/google_might_not_kneecap_the_pixel_11a_with_an/",
@@ -333,6 +412,84 @@
         "r/running"
       ],
       "summary": "Hey runners, it&#39;s another day and it is time to post your accomplishments you&#39;d like to share - big or small. Note: No need to preface YOUR accomplishments with something like, &quot;this may not be an accomplishment to most of you...&quot;. Be proud of your achievement. &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/running this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v08al8",
+      "title": "How long does it realistically take to build a good base? I keep getting sick!",
+      "link": "https://www.reddit.com/r/running/comments/1v08al8/how_long_does_it_realistically_take_to_build_a/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/running · community knowledge",
+      "content_type": "post",
+      "author": "u/BADCrotalinae · r/running",
+      "handle": "running",
+      "org": "r/running",
+      "platform": "reddit",
+      "published": "2026-07-18T21:44:44.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/running"
+      ],
+      "summary": "I started running last year late October early November ish. I was putting in 25~40 miles a week, and did my first marathon on new years eve. It took me out completely for a week, but I came back strong and was able to slowly(over the course of a month) up my mileage to ~60 a week. I did my first ultra in late…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/running this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v075y8",
+      "title": "What do you use to prevent chafing?",
+      "link": "https://www.reddit.com/r/running/comments/1v075y8/what_do_you_use_to_prevent_chafing/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/running · community knowledge",
+      "content_type": "post",
+      "author": "u/ActuatorDisastrous29 · r/running",
+      "handle": "running",
+      "org": "r/running",
+      "platform": "reddit",
+      "published": "2026-07-18T20:56:44.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/running"
+      ],
+      "summary": "I just got back from a 14.5 mile run and when I looked at my inner thighs they were like bright red almost like I burnt them. I’m obviously not gonna post the pic but you get the idea. I sweat like a lot even if I’m running a short distance like 3 miles I think it’s just sweaty genetics but idk. Is there anyway to…",
       "is_social": true,
       "report_worthy": true,
       "worthiness_score": 62,
@@ -1289,163 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/nutrition this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uyq3sr",
-      "title": "Official Q&A for Friday, July 17, 2026",
-      "link": "https://www.reddit.com/r/running/comments/1uyq3sr/official_qa_for_friday_july_17_2026/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/running · community knowledge",
-      "content_type": "post",
-      "author": "u/AutoModerator · r/running",
-      "handle": "running",
-      "org": "r/running",
-      "platform": "reddit",
-      "published": "2026-07-17T05:02:05.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/running"
-      ],
-      "summary": "With over 4,200,000 subscribers, there are a lot of posts that come in everyday that are often repeats of questions previously asked or covered in the FAQ. With that in mind, this post can be a place for any questions (especially those that may not deserve their own thread). Hopefully this is successful and helps to…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/running this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uypn3g",
-      "title": "[Gamers Nexus] DO NOT BUY: LG’s Spyware TVs, Monitors, and Wiretapping Concerns",
-      "link": "https://www.reddit.com/r/hardware/comments/1uypn3g/gamers_nexus_do_not_buy_lgs_spyware_tvs_monitors/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/hardware · community knowledge",
-      "content_type": "post",
-      "author": "u/This-is_CMGRI · r/hardware",
-      "handle": "hardware",
-      "org": "r/hardware",
-      "platform": "reddit",
-      "published": "2026-07-17T04:37:57.000Z",
-      "image": "https://external-preview.redd.it/Ee4DsjGHq40yzrnRdBJouH99coBWQxzRlhwQ_SlJsrM.jpeg?width=320&crop=smart&auto=webp&s=15bc4cbd4d16a7ed7eaf642f30132587e0babff2",
-      "thumbnail": "https://external-preview.redd.it/Ee4DsjGHq40yzrnRdBJouH99coBWQxzRlhwQ_SlJsrM.jpeg?width=320&crop=smart&auto=webp&s=15bc4cbd4d16a7ed7eaf642f30132587e0babff2",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/hardware"
-      ],
-      "summary": "This video covers adware, spyware and possible wiretapping concerns with LG displays, as well as straight-up changing terms of use or lose security updates. Also McAfee. Somehow. And if LG does this, doubtless every other TV manufacturer does this. It&#39;s a damnable things, so LTT&#39;s quest for a dumb TV might not…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/hardware this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uyo5gk",
-      "title": "Breakdown of immune cells' interaction is key driver in aging, study finds",
-      "link": "https://www.reddit.com/r/longevity/comments/1uyo5gk/breakdown_of_immune_cells_interaction_is_key/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/longevity · community knowledge",
-      "content_type": "post",
-      "author": "u/Orugan972 · r/longevity",
-      "handle": "longevity",
-      "org": "r/longevity",
-      "platform": "reddit",
-      "published": "2026-07-17T03:23:48.000Z",
-      "image": "https://external-preview.redd.it/4INCTeU8ny7tTRDyc8aHTuV6LW4o7WwY6AbCWstSTL4.jpeg?width=640&crop=smart&auto=webp&s=2d70204f67f2c25d23bcf557c50a1c0d71b83c81",
-      "thumbnail": "https://external-preview.redd.it/4INCTeU8ny7tTRDyc8aHTuV6LW4o7WwY6AbCWstSTL4.jpeg?width=640&crop=smart&auto=webp&s=2d70204f67f2c25d23bcf557c50a1c0d71b83c81",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Longevity",
-      "categories": [
-        "Reddit",
-        "Science",
-        "Longevity",
-        "r/longevity"
-      ],
-      "summary": "Increased inflammation is associated with aging and is implicated in decreased function in aging tissues. Tan et al . explored changes in older tissue-resident macrophages and investigated how these cells may contribute to aging phenotypes in mice (see the Perspective by FitzGerald). They found that signaling by the…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/longevity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uyo0o3",
-      "title": "[Acne] Before and after Nizoral shampoo on SF",
-      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1uyo0o3/acne_before_and_after_nizoral_shampoo_on_sf/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/SkincareAddiction · community knowledge",
-      "content_type": "post",
-      "author": "u/HeatDifferent3190 · r/SkincareAddiction",
-      "handle": "SkincareAddiction",
-      "org": "r/SkincareAddiction",
-      "platform": "reddit",
-      "published": "2026-07-17T03:17:30.000Z",
-      "image": "https://preview.redd.it/78x9x78ujpdh1.jpeg?width=640&crop=smart&auto=webp&s=f9ae7cd92a4ba64cd00114c566cdb001f60a125c",
-      "thumbnail": "https://preview.redd.it/78x9x78ujpdh1.jpeg?width=640&crop=smart&auto=webp&s=f9ae7cd92a4ba64cd00114c566cdb001f60a125c",
-      "section": "Skincare",
-      "category": "Skincare",
-      "genre": "Skincare",
-      "categories": [
-        "Reddit",
-        "Skincare",
-        "r/SkincareAddiction"
-      ],
-      "summary": "Top is before , bottom is after. Okay I don’t know if this is a “before and befive” situation but I washed my face with nizoral shampoo and my Sebaceous filaments are a little less noticeable. I bought it for some fungal acne on my forehead 2 days ago but I’m pretty impressed. Also I realize my SF weren’t bad to start…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/SkincareAddiction this week"
       ],
       "metrics": {
         "likes": 0,
