@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-20T10:59:40.798Z",
+  "generated_at": "2026-07-20T13:13:35.475Z",
   "subs": [
     "MachineLearning",
-    "science",
+    "Futurology",
     "netsec",
     "longevity",
+    "science",
     "SkincareAddiction",
     "bodyweightfitness",
-    "Futurology",
     "gadgets",
     "running",
     "robotics",
@@ -23,10 +23,10 @@
   ],
   "count": 36,
   "by_category": {
-    "Science": 7,
+    "Science": 8,
     "Skincare": 2,
     "Fitness": 8,
-    "Hardware & Gadgets": 4,
+    "Hardware & Gadgets": 3,
     "Robotics": 2,
     "Security": 2,
     "AI / ML": 8,
@@ -106,6 +106,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/science this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v0pgns",
+      "title": "A Majority of Americans Now Support Seizing Wealth From AI Industry",
+      "link": "https://www.reddit.com/r/Futurology/comments/1v0pgns/a_majority_of_americans_now_support_seizing/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/Futurology · community knowledge",
+      "content_type": "post",
+      "author": "u/EchoOfOppenheimer · r/Futurology",
+      "handle": "Futurology",
+      "org": "r/Futurology",
+      "platform": "reddit",
+      "published": "2026-07-19T12:35:32.000Z",
+      "image": "https://external-preview.redd.it/rG_h9XwEl_fAeOCfE3biG64UVvcxyNz4gAcYSSIBtvE.jpeg?width=640&crop=smart&auto=webp&s=1709760f3ae638c91c9834b7d7b3399e3e719f8b",
+      "thumbnail": "https://external-preview.redd.it/rG_h9XwEl_fAeOCfE3biG64UVvcxyNz4gAcYSSIBtvE.jpeg?width=640&crop=smart&auto=webp&s=1709760f3ae638c91c9834b7d7b3399e3e719f8b",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/Futurology"
+      ],
+      "summary": "A Majority of Americans Now Support Seizing Wealth From AI Industry",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/Futurology this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1407,45 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/science this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uyg6vw",
-      "title": "Vital Signals puts continuous blood pressure monitoring into a ring",
-      "link": "https://www.reddit.com/r/gadgets/comments/1uyg6vw/vital_signals_puts_continuous_blood_pressure/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/gadgets · community knowledge",
-      "content_type": "post",
-      "author": "u/dapperlemon · r/gadgets",
-      "handle": "gadgets",
-      "org": "r/gadgets",
-      "platform": "reddit",
-      "published": "2026-07-16T21:39:16.000Z",
-      "image": "https://external-preview.redd.it/pp_ACxFg_ACoyWBakEkISwIlsu0Ts8dJkeBv4D59sDw.jpeg?width=640&crop=smart&auto=webp&s=acdd8ebde81c8b63057fbc006a07f0a751fb623e",
-      "thumbnail": "https://external-preview.redd.it/pp_ACxFg_ACoyWBakEkISwIlsu0Ts8dJkeBv4D59sDw.jpeg?width=640&crop=smart&auto=webp&s=acdd8ebde81c8b63057fbc006a07f0a751fb623e",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/gadgets"
-      ],
-      "summary": "Vital Signals puts continuous blood pressure monitoring into a ring",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/gadgets this week"
       ],
       "metrics": {
         "likes": 0,
