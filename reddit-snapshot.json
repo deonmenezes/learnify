@@ -1,10 +1,9 @@
 {
-  "generated_at": "2026-07-20T04:27:00.631Z",
+  "generated_at": "2026-07-20T07:45:28.155Z",
   "subs": [
     "MachineLearning",
-    "artificial",
-    "nutrition",
-    "investing",
+    "longevity",
+    "gadgets",
     "science",
     "SkincareAddiction",
     "bodyweightfitness",
@@ -12,27 +11,68 @@
     "running",
     "robotics",
     "cybersecurity",
-    "gadgets",
+    "nutrition",
     "startups",
     "LocalLLaMA",
+    "investing",
+    "artificial",
     "programming",
     "singularity",
-    "hardware",
-    "longevity"
+    "hardware"
   ],
   "count": 36,
   "by_category": {
-    "Science": 6,
+    "Science": 7,
     "Skincare": 2,
     "Fitness": 8,
+    "Hardware & Gadgets": 4,
     "Robotics": 2,
     "Security": 1,
-    "AI / ML": 9,
-    "Hardware & Gadgets": 3,
-    "Startups & Funding": 4,
+    "AI / ML": 8,
+    "Startups & Funding": 3,
     "Coding & Dev Tools": 1
   },
   "articles": [
+    {
+      "id": "reddit_1v0xomp",
+      "title": "Exercise Erased More Than Half the Molecular Signature of Muscle Aging. A New Study Maps Exactly Which Half.",
+      "link": "https://www.reddit.com/r/longevity/comments/1v0xomp/exercise_erased_more_than_half_the_molecular/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/longevity · community knowledge",
+      "content_type": "post",
+      "author": "u/dan_in_ca · r/longevity",
+      "handle": "longevity",
+      "org": "r/longevity",
+      "platform": "reddit",
+      "published": "2026-07-19T18:11:16.000Z",
+      "image": "https://external-preview.redd.it/NhgW9sYA3OR_GoSWcX2vR5GbmSaju0eF6Tf3eBaP7M0.jpeg?width=640&crop=smart&auto=webp&s=1acaf1cdd7c187bdb0505d7e907d315ad10fc2c9",
+      "thumbnail": "https://external-preview.redd.it/NhgW9sYA3OR_GoSWcX2vR5GbmSaju0eF6Tf3eBaP7M0.jpeg?width=640&crop=smart&auto=webp&s=1acaf1cdd7c187bdb0505d7e907d315ad10fc2c9",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Longevity",
+      "categories": [
+        "Reddit",
+        "Science",
+        "Longevity",
+        "r/longevity"
+      ],
+      "summary": "Exercise Erased More Than Half the Molecular Signature of Muscle Aging. A New Study Maps Exactly Which Half.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/longevity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1v0pwub",
       "title": "A 65-year-old woman ended up in the ER with \"Happy Heart Syndrome\" after her daughter's wedding, a rare case where overwhelming joy temporarily weakened her heart muscle",
@@ -182,6 +222,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Futurology this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v0hsfn",
+      "title": "Google might not kneecap the Pixel 11a with an old processor",
+      "link": "https://www.reddit.com/r/gadgets/comments/1v0hsfn/google_might_not_kneecap_the_pixel_11a_with_an/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/gadgets · community knowledge",
+      "content_type": "post",
+      "author": "u/dapperlemon · r/gadgets",
+      "handle": "gadgets",
+      "org": "r/gadgets",
+      "platform": "reddit",
+      "published": "2026-07-19T05:23:48.000Z",
+      "image": "https://external-preview.redd.it/7XRA1lG7GRRMbBt70GFNlZ6cFoiiFBSH3WMfQB-h5Rw.jpeg?width=640&crop=smart&auto=webp&s=6f046416e5b7c05d19489f3f3152c9f31f06f0d5",
+      "thumbnail": "https://external-preview.redd.it/7XRA1lG7GRRMbBt70GFNlZ6cFoiiFBSH3WMfQB-h5Rw.jpeg?width=640&crop=smart&auto=webp&s=6f046416e5b7c05d19489f3f3152c9f31f06f0d5",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/gadgets"
+      ],
+      "summary": "Google might not kneecap the Pixel 11a with an old processor",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/gadgets this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1360,86 +1439,6 @@
         "r/investing"
       ],
       "summary": "Is this legal or how SEC will handle this? https://cryip.co/trump-media-unveils-truth-api-for-wall-street-as-trumps-truth-social-posts-move-markets/ &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/investing this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uydii0",
-      "title": "KIMI K3 Beats Claude Fable and GPT 5.6 sol in arena.ai!!!",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1uydii0/kimi_k3_beats_claude_fable_and_gpt_56_sol_in/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/LocalLLaMA · community knowledge",
-      "content_type": "post",
-      "author": "u/Gohab2001 · r/LocalLLaMA",
-      "handle": "LocalLLaMA",
-      "org": "r/LocalLLaMA",
-      "platform": "reddit",
-      "published": "2026-07-16T19:57:29.000Z",
-      "image": "https://preview.redd.it/sry915x7dndh1.png?width=640&crop=smart&auto=webp&s=199108b8dc430e7d008acd4565c675641a43e085",
-      "thumbnail": "https://preview.redd.it/sry915x7dndh1.png?width=640&crop=smart&auto=webp&s=199108b8dc430e7d008acd4565c675641a43e085",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/LocalLLaMA"
-      ],
-      "summary": "Unbelievable to see kimi k3 beat frontier models that were &#39;too dangerous&#39; for public use. &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/LocalLLaMA this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uy61eo",
-      "title": "Why S&P hasn't moved since war re-escalated",
-      "link": "https://www.reddit.com/r/investing/comments/1uy61eo/why_sp_hasnt_moved_since_war_reescalated/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/investing · community knowledge",
-      "content_type": "post",
-      "author": "u/clintron_abc · r/investing",
-      "handle": "investing",
-      "org": "r/investing",
-      "platform": "reddit",
-      "published": "2026-07-16T15:26:08.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/investing"
-      ],
-      "summary": "TBH, I really don&#39;t understand what&#39;s happening with the market right now. It feels like all the war-related news isn&#39;t having much of an impact anymore. At best, it seems to prevent the market from moving higher for a while, but it doesn&#39;t seem to trigger the kind of sell-off we saw before. What…",
       "is_social": true,
       "report_worthy": true,
       "worthiness_score": 62,
