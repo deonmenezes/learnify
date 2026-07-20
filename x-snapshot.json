@@ -1,15 +1,59 @@
 {
-  "generated_at": "2026-07-20T19:15:53.748Z",
+  "generated_at": "2026-07-20T20:51:09.836Z",
   "handles": [
+    "gdb",
     "nvidia",
     "OpenAI",
     "GoogleDeepMind",
     "AnthropicAI",
-    "gdb",
     "elonmusk"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2079289658622738481",
+      "title": "Was very cool to hear about the reasons people love Sol. We're doing the promotion again, except this time for ChatGPT Work: Tweet what you love about ChatGPT Work, claim $100 in free credits, get…",
+      "link": "https://x.com/gdb/status/2079289658622738481",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Greg Brockman · @gdb",
+      "handle": "gdb",
+      "org": "OpenAI",
+      "published": "2026-07-20T19:37:40.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Product"
+      ],
+      "summary": "Was very cool to hear about the reasons people love Sol. We're doing the promotion again, except this time for ChatGPT Work: Tweet what you love about ChatGPT Work, claim $100 in free credits, get more work done. First 10k get the free tokens: https://share-chatgpt-work.openai.chatgpt.site/",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 76,
+      "sentiment": "positive",
+      "sentiment_score": 1,
+      "reasons": [
+        "report-worthy",
+        "casual tone (this)",
+        "tech substance (tokens)",
+        "links to a source",
+        "high engagement (927 likes)",
+        "concrete metrics"
+      ],
+      "metrics": {
+        "likes": 927,
+        "retweets": 77,
+        "replies": 846,
+        "likes_h": "927"
+      },
+      "engagement": 1927,
+      "hot": false
+    },
     {
       "id": "x_2078244664751104293",
       "title": "Agents are becoming specialized, using reinforcement learning post-training to develop domain-specific skills 🛠️ Every post-training rollout is an inference call, so a lower cost per token flows…",
@@ -1278,46 +1322,6 @@
         "likes_h": "411"
       },
       "engagement": 555,
-      "hot": false
-    },
-    {
-      "id": "x_2075724298841387291",
-      "title": "AI factories don’t have to be a strain on the grid. Instead, they can be an energy supplier⚡ Emerald AI's Conductor platform, developed using the NVIDIA Vera Rubin DSX AI Factory reference design, is…",
-      "link": "https://x.com/nvidia/status/2075724298841387291",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-07-10T23:30:12.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product"
-      ],
-      "summary": "AI factories don’t have to be a strain on the grid. Instead, they can be an energy supplier⚡ Emerald AI's Conductor platform, developed using the NVIDIA Vera Rubin DSX AI Factory reference design, is leading the way for power-flexible AI factories — built to come onto the grid",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 76,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (platform)"
-      ],
-      "metrics": {
-        "likes": 372,
-        "retweets": 71,
-        "replies": 55,
-        "likes_h": "372"
-      },
-      "engagement": 569,
       "hot": false
     }
   ]
