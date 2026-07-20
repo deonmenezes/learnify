@@ -1,12 +1,11 @@
 {
-  "generated_at": "2026-07-20T20:53:23.720Z",
+  "generated_at": "2026-07-20T22:06:42.342Z",
   "subs": [
     "MachineLearning",
-    "Fitness",
-    "hardware",
+    "science",
+    "cybersecurity",
     "investing",
     "longevity",
-    "science",
     "Futurology",
     "SkincareAddiction",
     "bodyweightfitness",
@@ -14,7 +13,6 @@
     "gadgets",
     "running",
     "robotics",
-    "cybersecurity",
     "nutrition",
     "startups",
     "netsec",
@@ -24,10 +22,10 @@
   ],
   "count": 36,
   "by_category": {
+    "Science": 7,
     "Startups & Funding": 3,
-    "Science": 6,
     "Skincare": 2,
-    "Fitness": 9,
+    "Fitness": 8,
     "AI / ML": 9,
     "Hardware & Gadgets": 2,
     "Robotics": 2,
@@ -35,6 +33,45 @@
     "Coding & Dev Tools": 1
   },
   "articles": [
+    {
+      "id": "reddit_1v1e7os",
+      "title": "Researchers quantitatively assessed for the first time that somatic mutations alone cap human lifespan at 146–194 years. Brain and heart cells are the main bottleneck, while the liver could last millennia.",
+      "link": "https://www.reddit.com/r/science/comments/1v1e7os/researchers_quantitatively_assessed_for_the_first/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/science · community knowledge",
+      "content_type": "post",
+      "author": "u/Skoltech_ · r/science",
+      "handle": "science",
+      "org": "r/science",
+      "platform": "reddit",
+      "published": "2026-07-20T07:07:55.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/science"
+      ],
+      "summary": "Researchers quantitatively assessed for the first time that somatic mutations alone cap human lifespan at 146–194 years. Brain and heart cells are the main bottleneck, while the liver could last millennia.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/science this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1v1dvdr",
       "title": "Read NVIDIA's 10-Q last night. The earnings call skipped over some stuff.",
@@ -1408,46 +1445,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/SkincareAddiction this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uys95a",
-      "title": "Is it okay to eat one (nutritionally complete) dish per day?",
-      "link": "https://www.reddit.com/r/nutrition/comments/1uys95a/is_it_okay_to_eat_one_nutritionally_complete_dish/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/nutrition · community knowledge",
-      "content_type": "post",
-      "author": "u/iovoko · r/nutrition",
-      "handle": "nutrition",
-      "org": "r/nutrition",
-      "platform": "reddit",
-      "published": "2026-07-17T06:59:59.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Nutrition",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "Nutrition",
-        "r/nutrition"
-      ],
-      "summary": "For example a stew with 3+ different vegetables, a fat source, protein, carbs etc. If it is a complete meal on its own, would it be okay to just eat that for every meal one day? Would changing the dish every day provide enough diversity in the diet? Imagine there&#39;s a few other snacks throughout the day if that…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/nutrition this week"
       ],
       "metrics": {
         "likes": 0,
