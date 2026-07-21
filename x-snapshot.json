@@ -1,15 +1,57 @@
 {
-  "generated_at": "2026-07-21T08:35:46.616Z",
+  "generated_at": "2026-07-21T11:13:14.377Z",
   "handles": [
+    "nvidia",
+    "GoogleDeepMind",
+    "elonmusk",
     "gdb",
     "AnthropicAI",
-    "nvidia",
-    "OpenAI",
-    "GoogleDeepMind",
-    "elonmusk"
+    "OpenAI"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2079430412837757338",
+      "title": "Try Grok Build, it’s awesome! http://X.ai/cli",
+      "link": "https://x.com/elonmusk/status/2079430412837757338",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Elon Musk · @elonmusk",
+      "handle": "elonmusk",
+      "org": "xAI/Tesla",
+      "published": "2026-07-21T04:56:59.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "xAI/Tesla",
+        "Product"
+      ],
+      "summary": "Try Grok Build, it’s awesome! http://X.ai/cli",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 71,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (grok)",
+        "links to a source",
+        "high engagement (6.9K likes)"
+      ],
+      "metrics": {
+        "likes": 6872,
+        "retweets": 1030,
+        "replies": 1451,
+        "likes_h": "6.9K"
+      },
+      "engagement": 10383,
+      "hot": true
+    },
     {
       "id": "x_2079289658622738481",
       "title": "Was very cool to hear about the reasons people love Sol. We're doing the promotion again, except this time for ChatGPT Work: Tweet what you love about ChatGPT Work, claim $100 in free credits, get…",
@@ -98,6 +140,90 @@
       "hot": true
     },
     {
+      "id": "x_2079240931337965928",
+      "title": "Frontier world models now run on edge GPUs. ⚡ Now openly available, NVIDIA Cosmos 3 Edge brings advanced world-model capabilities to local devices. The 4-billion-parameter omnimodel can understand…",
+      "link": "https://x.com/nvidia/status/2079240931337965928",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-07-20T16:24:03.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Funding & deals",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Funding & deals"
+      ],
+      "summary": "Frontier world models now run on edge GPUs. ⚡ Now openly available, NVIDIA Cosmos 3 Edge brings advanced world-model capabilities to local devices. The 4-billion-parameter omnimodel can understand and generate text, image, video, ambient sound and action for physical AI across",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 66,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "reply / conversation",
+        "tech substance (model, models, gpus)",
+        "business signal (billion)"
+      ],
+      "metrics": {
+        "likes": 38,
+        "retweets": 6,
+        "replies": 5,
+        "likes_h": "38"
+      },
+      "engagement": 55,
+      "hot": false
+    },
+    {
+      "id": "x_2079221588705099788",
+      "title": "NVIDIA is advancing graphics and simulation with agentic and physical AI at #SIGGRAPH2026. From open models to real-time simulation, AI and graphics breakthroughs are transforming media, content…",
+      "link": "https://x.com/nvidia/status/2079221588705099788",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-07-20T15:07:11.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product",
+        "SIGGRAPH2026"
+      ],
+      "summary": "NVIDIA is advancing graphics and simulation with agentic and physical AI at #SIGGRAPH2026. From open models to real-time simulation, AI and graphics breakthroughs are transforming media, content creation, and robotics. Read the latest announcements. 👇 https://vist.ly/5bt2j",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 91,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "tech substance (models, robotics)",
+        "links to a source"
+      ],
+      "metrics": {
+        "likes": 454,
+        "retweets": 75,
+        "replies": 42,
+        "likes_h": "454"
+      },
+      "engagement": 646,
+      "hot": false
+    },
+    {
       "id": "x_2078244664751104293",
       "title": "Agents are becoming specialized, using reinforcement learning post-training to develop domain-specific skills 🛠️ Every post-training rollout is an inference call, so a lower cost per token flows…",
       "link": "https://x.com/nvidia/status/2078244664751104293",
@@ -129,12 +255,12 @@
         "tech substance (agents, inference, training)"
       ],
       "metrics": {
-        "likes": 457,
-        "retweets": 44,
-        "replies": 48,
-        "likes_h": "457"
+        "likes": 463,
+        "retweets": 46,
+        "replies": 50,
+        "likes_h": "463"
       },
-      "engagement": 593,
+      "engagement": 605,
       "hot": false
     },
     {
@@ -211,12 +337,12 @@
         "tech substance (research)"
       ],
       "metrics": {
-        "likes": 165,
-        "retweets": 13,
+        "likes": 167,
+        "retweets": 15,
         "replies": 16,
-        "likes_h": "165"
+        "likes_h": "167"
       },
-      "engagement": 207,
+      "engagement": 213,
       "hot": false
     },
     {
@@ -292,12 +418,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 340,
-        "retweets": 44,
+        "likes": 341,
+        "retweets": 47,
         "replies": 35,
-        "likes_h": "340"
+        "likes_h": "341"
       },
-      "engagement": 463,
+      "engagement": 470,
       "hot": false
     },
     {
@@ -374,12 +500,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 591,
-        "retweets": 92,
-        "replies": 67,
-        "likes_h": "591"
+        "likes": 602,
+        "retweets": 95,
+        "replies": 68,
+        "likes_h": "602"
       },
-      "engagement": 842,
+      "engagement": 860,
       "hot": false
     },
     {
@@ -414,12 +540,12 @@
         "high engagement (3.6K likes)"
       ],
       "metrics": {
-        "likes": 3561,
-        "retweets": 871,
+        "likes": 3566,
+        "retweets": 872,
         "replies": 55,
         "likes_h": "3.6K"
       },
-      "engagement": 5358,
+      "engagement": 5365,
       "hot": true
     },
     {
@@ -790,7 +916,7 @@
         "likes_h": "3.2K"
       },
       "engagement": 3801,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2077424882502263081",
@@ -903,15 +1029,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (agents)",
-        "high engagement (820 likes)"
+        "high engagement (821 likes)"
       ],
       "metrics": {
-        "likes": 820,
-        "retweets": 115,
-        "replies": 74,
-        "likes_h": "820"
+        "likes": 821,
+        "retweets": 116,
+        "replies": 76,
+        "likes_h": "821"
       },
-      "engagement": 1124,
+      "engagement": 1129,
       "hot": false
     },
     {
@@ -1201,131 +1327,6 @@
         "likes_h": "246"
       },
       "engagement": 368,
-      "hot": false
-    },
-    {
-      "id": "x_2076719544727716287",
-      "title": "While the differences between models are modest overall, we find that each Claude model sits at a different point along these value axes. Sonnet 4.6, for example, is more playful and affirming, while…",
-      "link": "https://x.com/AnthropicAI/status/2076719544727716287",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Anthropic · @AnthropicAI",
-      "handle": "AnthropicAI",
-      "org": "Anthropic",
-      "published": "2026-07-13T17:24:57.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "Anthropic",
-        "Product"
-      ],
-      "summary": "While the differences between models are modest overall, we find that each Claude model sits at a different point along these value axes. Sonnet 4.6, for example, is more playful and affirming, while Opus 4.7 is more likely to give candid critiques.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 67,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "reply / conversation",
-        "tech substance (model, models, claude)"
-      ],
-      "metrics": {
-        "likes": 315,
-        "retweets": 19,
-        "replies": 12,
-        "likes_h": "315"
-      },
-      "engagement": 365,
-      "hot": false
-    },
-    {
-      "id": "x_2076719540785012872",
-      "title": "In previous research, we found that Claude expresses over 3,000 values, like honesty and warmth. In new work, we asked how the values Claude expresses vary between Claude models and across languages.…",
-      "link": "https://x.com/AnthropicAI/status/2076719540785012872",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Anthropic · @AnthropicAI",
-      "handle": "AnthropicAI",
-      "org": "Anthropic",
-      "published": "2026-07-13T17:24:56.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "Anthropic",
-        "Research"
-      ],
-      "summary": "In previous research, we found that Claude expresses over 3,000 values, like honesty and warmth. In new work, we asked how the values Claude expresses vary between Claude models and across languages. We analyzed 300K+ anonymized conversations to find out.https://www.anthropic.com/research/claude-values-models-languages",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 100,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (models, claude, research)",
-        "links to a source",
-        "high engagement (3.7K likes)",
-        "concrete metrics"
-      ],
-      "metrics": {
-        "likes": 3697,
-        "retweets": 370,
-        "replies": 375,
-        "likes_h": "3.7K"
-      },
-      "engagement": 4812,
-      "hot": true
-    },
-    {
-      "id": "x_2076690662196490454",
-      "title": "What’s the saying about the early bird and the worm? 🐦🪱 #NVIDIAGTC Berlin discounted pricing is available for a limited time only - join us for the latest in AI, accelerated computing, robotics,…",
-      "link": "https://x.com/nvidia/status/2076690662196490454",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-07-13T15:30:11.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product",
-        "NVIDIAGTC"
-      ],
-      "summary": "What’s the saying about the early bird and the worm? 🐦🪱 #NVIDIAGTC Berlin discounted pricing is available for a limited time only - join us for the latest in AI, accelerated computing, robotics, simulation, and more.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 75,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "tech substance (robotics)"
-      ],
-      "metrics": {
-        "likes": 356,
-        "retweets": 43,
-        "replies": 54,
-        "likes_h": "356"
-      },
-      "engagement": 496,
       "hot": false
     }
   ]

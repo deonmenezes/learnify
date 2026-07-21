@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-07-21T08:37:58.592Z",
+  "generated_at": "2026-07-21T11:15:28.717Z",
   "subs": [
     "MachineLearning",
-    "artificial",
-    "nutrition",
+    "longevity",
+    "gadgets",
     "startups",
     "bodyweightfitness",
     "science",
     "investing",
-    "longevity",
+    "nutrition",
     "singularity",
     "Futurology",
     "SkincareAddiction",
     "LocalLLaMA",
-    "gadgets",
     "running",
     "robotics",
     "cybersecurity",
     "netsec",
+    "artificial",
     "programming"
   ],
   "count": 36,
   "by_category": {
     "Startups & Funding": 4,
     "Fitness": 9,
+    "AI / ML": 8,
     "Science": 7,
-    "AI / ML": 9,
+    "Hardware & Gadgets": 3,
     "Skincare": 1,
-    "Hardware & Gadgets": 2,
     "Robotics": 1,
     "Security": 2,
     "Coding & Dev Tools": 1
@@ -105,6 +105,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/bodyweightfitness this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v1i26p",
+      "title": "I just read LeCun’s recent thoughts on world models. Thoughts on JEPA as a path forward? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v1i26p/i_just_read_lecuns_recent_thoughts_on_world/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/MachineLearning · community knowledge",
+      "content_type": "post",
+      "author": "u/ConsciousGreenPepper · r/MachineLearning",
+      "handle": "MachineLearning",
+      "org": "r/MachineLearning",
+      "platform": "reddit",
+      "published": "2026-07-20T10:50:04.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/MachineLearning"
+      ],
+      "summary": "So, I just read LeCun&#39;s interview with Nebius Science. I feel he had some cool points about LLMs being able to answer things, but not literally understand the physics of the physical world. (Like, being able to explain a task and actually performing it are two completely different things.) But I wanted to get…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/MachineLearning this week"
       ],
       "metrics": {
         "likes": 0,
@@ -224,6 +264,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/nutrition this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v1733s",
+      "title": "Kodak EC35 is a dirt-cheap point-and-shoot film camera",
+      "link": "https://www.reddit.com/r/gadgets/comments/1v1733s/kodak_ec35_is_a_dirtcheap_pointandshoot_film/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/gadgets · community knowledge",
+      "content_type": "post",
+      "author": "u/dapperlemon · r/gadgets",
+      "handle": "gadgets",
+      "org": "r/gadgets",
+      "platform": "reddit",
+      "published": "2026-07-20T00:55:20.000Z",
+      "image": "https://external-preview.redd.it/_4qHGb498UdSwiqhS96sESzKC3Xa3ru-Il3oYoUYfrc.jpeg?width=640&crop=smart&auto=webp&s=6f94e4a9bb88dbca81c9544e27520b86bc06744f",
+      "thumbnail": "https://external-preview.redd.it/_4qHGb498UdSwiqhS96sESzKC3Xa3ru-Il3oYoUYfrc.jpeg?width=640&crop=smart&auto=webp&s=6f94e4a9bb88dbca81c9544e27520b86bc06744f",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/gadgets"
+      ],
+      "summary": "Kodak EC35 is a dirt-cheap point-and-shoot film camera",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/gadgets this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1366,86 +1445,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/artificial this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uz3ff6",
-      "title": "Moonshot AI (Kimi) office (presumably 2 days before the K3 launch). A $20B valuation startup. Not as flashy as SF rivals",
-      "link": "https://www.reddit.com/r/singularity/comments/1uz3ff6/moonshot_ai_kimi_office_presumably_2_days_before/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/singularity · community knowledge",
-      "content_type": "post",
-      "author": "u/RetiredApostle · r/singularity",
-      "handle": "singularity",
-      "org": "r/singularity",
-      "platform": "reddit",
-      "published": "2026-07-17T15:45:15.000Z",
-      "image": "https://preview.redd.it/adcjbvn98tdh1.png?width=640&crop=smart&auto=webp&s=e16dbda822bbf5825c14a203dccec4a50f34628a",
-      "thumbnail": "https://preview.redd.it/adcjbvn98tdh1.png?width=640&crop=smart&auto=webp&s=e16dbda822bbf5825c14a203dccec4a50f34628a",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/singularity"
-      ],
-      "summary": "Moonshot AI (Kimi) office (presumably 2 days before the K3 launch). A $20B valuation startup. Not as flashy as SF rivals",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/singularity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uz31zl",
-      "title": "This is the most cyberpunk thing I've seen lately, drone swarm returning to base. The past would be stunned and confused.",
-      "link": "https://www.reddit.com/r/singularity/comments/1uz31zl/this_is_the_most_cyberpunk_thing_ive_seen_lately/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/singularity · community knowledge",
-      "content_type": "post",
-      "author": "u/Anen-o-me · r/singularity",
-      "handle": "singularity",
-      "org": "r/singularity",
-      "platform": "reddit",
-      "published": "2026-07-17T15:31:25.000Z",
-      "image": "https://external-preview.redd.it/dmJiaHA1enI2dGRoMeLyYn1IBRoZcam0UfTGdfp87V2ZADuKcOKxdfNR-_C2.png?width=320&crop=smart&auto=webp&s=459d89aedc2d520f39913cdaa76311f8d0371a06",
-      "thumbnail": "https://external-preview.redd.it/dmJiaHA1enI2dGRoMeLyYn1IBRoZcam0UfTGdfp87V2ZADuKcOKxdfNR-_C2.png?width=320&crop=smart&auto=webp&s=459d89aedc2d520f39913cdaa76311f8d0371a06",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/singularity"
-      ],
-      "summary": "Something about that sight of a flying cube with all those angular intersections is extremely unsettling. &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/singularity this week"
       ],
       "metrics": {
         "likes": 0,
