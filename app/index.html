@@ -8,6 +8,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
 <link rel="stylesheet" href="/app/app.css" />
+<script type="module" src="/app/analytics.js"></script>
 </head>
 <body>
 <header id="nav" class="nav"></header>
@@ -158,6 +159,7 @@
   let pool = withImg.concat(arts.filter(a=>!withImg.includes(a)));
   const catFilter = params.get("cat");
   if (catFilter) { const full = window.TS.catFor; pool = arts.filter(a => T.catMeta(T.catFor(a)).short.toLowerCase() === catFilter.toLowerCase()); }
+  if (catFilter) T.track("filter_applied", { filter_kind: "category", surface: "latest" });
   T.$("#topStories").innerHTML = pool.slice(catFilter?0:1, catFilter?8:9).map((a,i)=>storyCard(a,i)).join("");
   T.$("#reels").innerHTML = pool.slice(9,13).map((a,i)=>`<a class="story" href="/app/article.html?id=${encodeURIComponent(T.articleId(a))}" style="background:#17171A">
     <div class="thumb-wrap"><img class="thumb" loading="lazy" src="${esc((a.media_url&&a.media_kind!=='poster')?a.media_url:'')}" onerror="this.remove()" style="aspect-ratio:9/12">
@@ -167,6 +169,7 @@
     <span class="muted" style="font-size:11px;font-weight:700">arXiv · ${T.timeAgo(a.published)||'recent'}</span>
     <h3>${esc(a.title)}</h3><p>${esc(a.ai_summary||a.summary||'')}</p>
     <div class="meta">📈 ${T.readMins(a)+6} min <span class="xp" style="margin-left:auto">+${25} XP</span></div></div></a>`).join("");
+  document.querySelectorAll("a.story").forEach(link => link.addEventListener("click", () => T.track("article_selected", { surface: "latest" })));
 
   // save buttons
   const saved = await T.savedIds(u?.id);
@@ -175,9 +178,10 @@
     e.preventDefault(); e.stopPropagation();
     const a = pool[parseInt(b.dataset.i) + (catFilter?0:1)] || pool.find(x=>T.articleId(x)===b.dataset.id);
     const on = await T.toggleSave(u?.id, a); b.classList.toggle("on", on); T.toast(on ? "Saved to your Brain Bank ✓" : "Removed");
+    if (u) T.track("article_save_toggled", { surface: "latest", action: on ? "saved" : "removed", auth_state: u ? "signed_in" : "guest" });
   });
 
-  T.$("#brief") && (T.$("#brief").onclick = () => { if (top) location.href = "/app/article.html?id=" + encodeURIComponent(T.articleId(top)); });
+  T.$("#brief") && (T.$("#brief").onclick = () => { if (top) { T.track("briefing_started", { surface: "latest" }); location.href = "/app/article.html?id=" + encodeURIComponent(T.articleId(top)); } });
 })();
 </script>
 <style>@media(max-width:760px){.hero-grid{grid-template-columns:1fr!important}.hero h1{font-size:34px}}</style>

@@ -47,6 +47,7 @@
   .rel b{font-size:13.5px;font-weight:700;line-height:1.3;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
   .rel span{font-size:11.5px;color:var(--ink-4);font-weight:600}
 </style>
+<script type="module" src="/app/analytics.js"></script>
 </head>
 <body>
 <header id="nav" class="nav"></header>
@@ -87,6 +88,7 @@
   const c = T.catMeta(T.catFor(a));
   const sum = a.ai_summary || a.summary || "";
   const img = (a.media_url && a.media_kind !== "poster") ? a.media_url : "";
+  T.track("article_opened", { source_id: a.source_id || a.source || "unknown", category: T.catFor(a), content_kind: a.content_type || "article", auth_state: u ? "signed_in" : "guest" });
 
   // sections derived from the article — accent colours from Learnify token set
   const sects = [
@@ -120,6 +122,8 @@
       </div>
     </div>`;
 
+  document.querySelectorAll("a[target=\"_blank\"]").forEach(link => link.addEventListener("click", () => T.track("article_link_out", { surface: "article_detail", source_id: a.source_id || a.source || "unknown" })));
+
   // sidebar progress
   function paintProgress(){
     const lv=T.levelForXP(profile.xp||0), into=(profile.xp||0)-T.xpFloor(lv), span=T.xpFloor(lv+1)-T.xpFloor(lv);
@@ -139,11 +143,13 @@
     return `<a class="rel" href="/app/article.html?id=${encodeURIComponent(T.articleId(r))}"><img src="${esc(ri)}" onerror="this.style.visibility='hidden'"><div><b>${esc(r.title)}</b><br><span>${T.readMins(r)} min · ${rc.short}</span></div></a>`;
   }).join("");
 
+  document.querySelectorAll("#related a.rel").forEach(link => link.addEventListener("click", () => T.track("article_selected", { surface: "related" })));
   // save — null-safe: T.savedIds(null) returns empty Set; T.toggleSave(null,a) redirects to sign-in
   const savedSet = await T.savedIds(u ? u.id : null);
   const sb_ = T.$("#saveBtn"); if (savedSet.has(T.articleId(a))) sb_.innerHTML = "✓ Saved";
   sb_.onclick = async () => {
     const on = await T.toggleSave(u ? u.id : null, a);
+    if (u) T.track("article_save_toggled", { surface: "article_detail", action: on ? "saved" : "removed", auth_state: u ? "signed_in" : "guest" });
     // toggleSave(null, …) already redirects to sign-in; if we get here the user is signed in
     sb_.innerHTML = on ? "✓ Saved" : "<svg width='15' height='15' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2'><path d='M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z'/></svg> Save";
     T.toast(on ? "Saved to your Brain Bank ✓" : "Removed");
@@ -153,6 +159,7 @@
   T.$("#opts").querySelectorAll(".opt").forEach(o => o.onclick = async () => {
     if (T.$("#opts").dataset.done) return; T.$("#opts").dataset.done = "1";
     const ok = o.dataset.ok === "true"; o.classList.add(ok ? "correct" : "wrong");
+    T.track("quiz_answered", { surface: "article_detail", correct: ok, auth_state: u ? "signed_in" : "guest" });
     if (!ok) T.$("#opts").querySelector('[data-ok="true"]').classList.add("correct");
     if (ok) {
       if (u) {

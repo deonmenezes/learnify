@@ -51,6 +51,15 @@
     el.textContent = msg; el.classList.add("show"); clearTimeout(toastT); toastT = setTimeout(() => el.classList.remove("show"), 2200);
   }
 
+  function track(event, properties) {
+    if (window.LearnifyAnalytics) { window.LearnifyAnalytics.track(event, properties || {}); return; }
+    try {
+      if (localStorage.getItem("learnify.analytics.consent.v1") !== "granted") return;
+      const queue = window.learnifyAnalyticsQueue = window.learnifyAnalyticsQueue || [];
+      if (queue.length < 20) queue.push([event, properties || {}]);
+    } catch (_) {}
+  }
+
   // ---- auth + profile ----
   async function getUser() { const { data } = await sb.auth.getUser(); return data.user || null; }
   // Soft-auth: never redirects — returns the user or null so pages render for guests.
@@ -59,7 +68,7 @@
   // Kept for any page that genuinely needs a gate; de-gated pages use getUserOptional instead.
   async function requireAuth() {
     const u = await getUser();
-    if (!u) { location.href = signInUrl(); return null; }
+    if (!u) { track("sign_in_prompted", { feature: "required_page" }); location.href = signInUrl(); return null; }
     return u;
   }
   async function loadProfile(u) {
@@ -98,7 +107,7 @@
   async function savedIds(uid) { if (!uid) return new Set(); const { data } = await sb.from("ts_saved_articles").select("article_id").eq("user_id", uid); return new Set((data || []).map((r) => r.article_id)); }
   async function savedList(uid) { if (!uid) return []; const { data } = await sb.from("ts_saved_articles").select("*").eq("user_id", uid).order("saved_at", { ascending: false }); return data || []; }
   async function toggleSave(uid, a) {
-    if (!uid) { location.href = signInUrl(); return false; } // guests are invited to sign in to save
+    if (!uid) { track("sign_in_prompted", { feature: "save" }); location.href = signInUrl(); return false; } // guests are invited to sign in to save
     const id = articleId(a);
     const ex = await sb.from("ts_saved_articles").select("id").eq("user_id", uid).eq("article_id", id).maybeSingle();
     if (ex.data) { await sb.from("ts_saved_articles").delete().eq("id", ex.data.id); return false; }
@@ -154,10 +163,10 @@
           <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M6 9l6 6 6-6"/></svg>
         </span>`}
       </div></div>`;
-    if (guest) { const b = $("#navSignin"); if (b) b.onclick = () => location.href = signInUrl(); }
+    if (guest) { const b = $("#navSignin"); if (b) b.onclick = () => { track("sign_in_prompted", { feature: "navigation" }); location.href = signInUrl(); }; }
     else { $("#navUser").onclick = async () => { if (confirm("Sign out of Learnify?")) { await sb.auth.signOut(); location.href = "/app/"; } }; }
   }
 
   window.TS = { sb, getUser, getUserOptional, signInUrl, requireAuth, loadProfile, leaderboard, articles, articleId, savedIds, savedList,
-    toggleSave, recordOpen, renderNav, catFor, catMeta, xpFloor, levelForXP, levelTitle, timeAgo, readMins, esc, toast, $ };
+    toggleSave, recordOpen, renderNav, catFor, catMeta, xpFloor, levelForXP, levelTitle, timeAgo, readMins, esc, toast, track, $ };
 })();

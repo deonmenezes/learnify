@@ -329,6 +329,7 @@
     article.card { opacity: 1 !important; transform: none !important; }
   }
 </style>
+<script type="module" src="/app/analytics.js"></script>
 </head>
 <body>
 <div class="topbar"></div>
@@ -457,6 +458,7 @@
 <script>
 const state = { all: [], activeKw: new Set(), source: "", q: "", sort: "new", social: "" };
 const $ = (id) => document.getElementById(id);
+const track = (event, properties) => { if (window.LearnifyAnalytics) window.LearnifyAnalytics.track(event, properties || {}); };
 
 const SOURCE_COLORS = {
   "techcrunch": "#00d26a",
@@ -624,7 +626,7 @@ function render() {
     }
 
     return `
-    <article class="card${feat}${social ? " social" : ""}" style="--i:${Math.min(i, 14)}">
+    <article data-source="${escapeHtml(a.source || "unknown")}" class="card${feat}${social ? " social" : ""}" style="--i:${Math.min(i, 14)}">
       <a class="media${img ? "" : " media--fallback"}" style="--c:${col}" href="${escapeHtml(a.link)}" target="_blank" rel="noopener noreferrer" aria-label="${escapeHtml(a.title)} — ${social ? "view on X" : "read on " + escapeHtml(a.source || "source")}">
         ${img ? `<img loading="lazy" decoding="async" alt="${escapeHtml(a.title)}" src="${escapeHtml(img)}" onerror="this.closest('.media').classList.add('media--fallback'); this.remove();" />` : ""}
         ${isVideo ? `<span class="play"><span><svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></span></span>` : ""}
@@ -679,6 +681,7 @@ async function load() {
   }
   $("skeleton").style.display = "none";
   if (!data || !data.articles) {
+    track("content_load_failed", { resource: "public_feed", fallback: "none" });
     $("state").style.display = "block";
     $("state").innerHTML = "Could not load articles. Run <code>python3 scrape.py</code> to build the cache.";
     return;
@@ -709,10 +712,17 @@ $("skeleton").innerHTML = Array.from({ length: 6 }).map(() => `
   </div>`).join("");
 
 $("q").addEventListener("input", (e) => { state.q = e.target.value; render(); });
-$("sort").addEventListener("change", (e) => { state.sort = e.target.value; render(); });
-$("socialSel").addEventListener("change", (e) => { state.social = e.target.value; render(); });
-$("srcSel").addEventListener("change", (e) => { state.source = e.target.value; syncSourceChips(); render(); });
+$("q").addEventListener("change", () => { if (state.q) track("filter_applied", { filter_kind: "search", surface: "public_feed" }); });
+$("sort").addEventListener("change", (e) => { state.sort = e.target.value; track("filter_applied", { filter_kind: "sort", surface: "public_feed" }); render(); });
+$("socialSel").addEventListener("change", (e) => { state.social = e.target.value; track("filter_applied", { filter_kind: "content_type", surface: "public_feed" }); render(); });
+$("srcSel").addEventListener("change", (e) => { state.source = e.target.value; track("filter_applied", { filter_kind: "source", surface: "public_feed" }); syncSourceChips(); render(); });
 $("clear").addEventListener("click", resetAll);
+$("cards").addEventListener("click", (event) => {
+  const link = event.target.closest("a[target=\"_blank\"]");
+  if (!link) return;
+  const card = link.closest("article[data-source]");
+  track("article_link_out", { surface: "public_feed", source_id: card ? card.dataset.source : "unknown" });
+});
 
 // "/" focuses search
 document.addEventListener("keydown", (e) => {

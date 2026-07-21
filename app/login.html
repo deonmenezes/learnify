@@ -33,6 +33,7 @@
   .guest{display:block;text-align:center;margin-top:14px;font-size:13.5px;color:rgba(255,255,255,.5);font-weight:600;cursor:pointer;text-decoration:none;transition:.15s}
   .guest:hover{color:#F7F7FA}
 </style>
+<script type="module" src="/app/analytics.js"></script>
 </head>
 <body>
 <div class="auth card">
@@ -70,7 +71,7 @@
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 <script src="/app/app.js"></script>
 <script>
-const { sb, toast } = window.TS;
+const { sb, toast, track } = window.TS;
 const params = new URLSearchParams(location.search);
 const next = params.get("next") || "/app/";
 let mode = "login";
@@ -81,6 +82,7 @@ const F = (id) => document.getElementById(id);
 F("toggle").onclick = () => {
   mode = mode === "login" ? "signup" : "login";
   const su = mode === "signup";
+  track("auth_mode_selected", { mode });
   F("title").textContent = su ? "Create your account" : "Welcome back";
   F("subtitle").textContent = su ? "Start building your Brain Bank — save, learn, and level up." : "Sign in to your Brain Bank — your saved knowledge, streaks & XP.";
   F("submit").textContent = su ? "Create account" : "Sign in";
@@ -97,6 +99,7 @@ F("form").onsubmit = async (e) => {
   const password = F("password").value;
   const name = F("name").value.trim();
   F("submit").disabled = true; F("submit").textContent = "…";
+  track("auth_attempted", { mode, method: "password" });
   try {
     if (mode === "signup") {
       if (password.length < 8 || !/\d/.test(password)) throw new Error("Password needs 8+ characters and a number.");
@@ -104,23 +107,26 @@ F("form").onsubmit = async (e) => {
       if (error) throw error;
       if (!data.session) { // email confirmation on → try immediate login
         const r = await sb.auth.signInWithPassword({ email, password });
-        if (r.error) { toast("Check your email to confirm your account."); F("submit").disabled = false; F("submit").textContent = "Create account"; return; }
+        if (r.error) { track("auth_completed", { mode: "signup", method: "password" }); toast("Check your email to confirm your account."); F("submit").disabled = false; F("submit").textContent = "Create account"; return; }
       }
     } else {
       const { error } = await sb.auth.signInWithPassword({ email, password });
       if (error) throw error;
     }
+    track("auth_completed", { mode, method: "password" });
     location.href = next;
   } catch (err) {
     F("err").textContent = (err && err.message) || "Something went wrong.";
+    track("auth_failed", { mode, method: "password", error_kind: err && err.message && err.message.startsWith("Password needs") ? "validation" : "provider" });
     F("submit").disabled = false; F("submit").textContent = mode === "signup" ? "Create account" : "Sign in";
   }
 };
 
 F("google").onclick = async () => {
+  track("auth_attempted", { mode: "login", method: "google" });
   const { error } = await sb.auth.signInWithOAuth({ provider: "google",
     options: { redirectTo: location.origin + next } });
-  if (error) F("err").textContent = error.message;
+  if (error) { track("auth_failed", { mode: "login", method: "google", error_kind: "provider" }); F("err").textContent = error.message; }
 };
 
 F("guest").onclick = () => { location.href = "/app/"; }; // public reader, no account needed

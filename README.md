@@ -65,6 +65,10 @@ A small open JSON API powers the site and is ready for native apps (iOS/Android)
 See **[API.md](API.md)** for the full reference plus a copy-paste **Swift
 `Codable` + SwiftUI** example.
 
+## Product analytics
+
+Privacy-gated, aggregate product analytics is available through the existing Vercel host and is disabled by default. See **[ANALYTICS.md](ANALYTICS.md)** for setup, the event dictionary, consent behavior, verification, suggested reports, and session-duration interpretation. Run `npm test` to validate the event/property privacy allowlist.
+
 ## Deploy
 
 Pushed to GitHub and deployed on Vercel (git-connected — every push auto-deploys).

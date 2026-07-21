@@ -33,6 +33,7 @@
   .guest-empty .btn-primary{display:inline-block;background:#F7F7FA;color:#0D0D0F;font-weight:800;font-size:14.5px;padding:11px 28px;border-radius:999px;text-decoration:none;letter-spacing:.01em}
   .guest-empty .btn-primary:hover{opacity:.88}
 </style>
+<script type="module" src="/app/analytics.js"></script>
 </head>
 <body>
 <header id="nav" class="nav"></header>
@@ -141,6 +142,7 @@
 
   // saved articles
   if (!u) {
+    T.track("brain_bank_viewed", { items_bucket: "0", auth_state: "guest" });
     // guest: show sign-in prompt in place of the saved grid
     T.$("#savedGrid").innerHTML = `<div class="guest-empty">
       <p>Sign in to start your Brain Bank — save any lesson to read later.</p>
@@ -150,6 +152,8 @@
     T.$("#flashGrid").innerHTML = `<div class="card pad" style="grid-column:1/-1;text-align:center;color:var(--ink-3)">🗂 No flashcards yet — sign in and create one to start reviewing.</div>`;
   } else {
     const saved = await T.savedList(u.id);
+    const itemsBucket = saved.length === 0 ? "0" : saved.length <= 3 ? "1_3" : saved.length <= 10 ? "4_10" : "11_plus";
+    T.track("brain_bank_viewed", { items_bucket: itemsBucket, auth_state: "signed_in" });
     T.$("#nSaved").textContent = saved.length; T.$("#savedCount").textContent = saved.length; T.$("#ovTotal").textContent = saved.length;
     T.$("#ovRead").textContent = profile.total_read||0;
     if (saved.length) {
@@ -209,6 +213,10 @@
     <div class="s-body"><h3>${esc(a.title)}</h3><div class="meta">${T.readMins(a)} min <span class="xp" style="margin-left:auto">+${15+i*5} XP</span></div></div></a>`;
   }).join("");
 
+  document.addEventListener("click", event => {
+    if (event.target.closest("#savedGrid a[target=\"_blank\"]")) T.track("article_link_out", { surface: "brain_bank", source_id: "saved" });
+    if (event.target.closest("#recGrid a.story")) T.track("article_selected", { surface: "brain_bank" });
+  });
   // badges (earned from real stats)
   const BADGES=[["🤖","AI Scout","Read 10 AI articles","#7c3aed",(byCat["AI / ML"]||0)>=10],
     ["🛡️","Security Brain","Read 10 security articles","#e11d48",(byCat["Security"]||0)>=10],
@@ -219,9 +227,9 @@
 
   // create flashcard (sign-in required)
   async function addFlash(){
-    if(!u){ location.href=T.signInUrl(); return; }
+    if(!u){ T.track("sign_in_prompted", { feature: "flashcard" }); location.href=T.signInUrl(); return; }
     const q=prompt("Flashcard question?"); if(!q)return; const a=prompt("Answer / note?")||"";
-    await T.sb.from("ts_flashcards").insert({user_id:u.id,question:q,answer:a,topic:"AI / ML"}); T.toast("Flashcard saved ✓"); location.reload();
+    await T.sb.from("ts_flashcards").insert({user_id:u.id,question:q,answer:a,topic:"AI / ML"}); T.track("flashcard_created", { category: "ai_ml" }); T.toast("Flashcard saved ✓"); location.reload();
   }
   T.$("#addFlash").onclick=addFlash; T.$("#qaFlash").onclick=addFlash;
 })();

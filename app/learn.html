@@ -40,6 +40,7 @@
   .ach .h{width:30px;height:30px;display:grid;place-items:center;color:#fff;font-size:14px;clip-path:polygon(50% 0,93% 25%,93% 75%,50% 100%,7% 75%,7% 25%)}
   @media(max-width:760px){.featured{grid-template-columns:1fr}.cb{grid-template-columns:1fr}}
 </style>
+<script type="module" src="/app/analytics.js"></script>
 </head>
 <body>
 <header id="nav" class="nav"></header>
@@ -152,6 +153,7 @@
   // reels
   T.$("#reels").innerHTML=withImg.slice(1,5).map(a=>{const c=T.catMeta(T.catFor(a));
     return `<a class="reel" href="/app/article.html?id=${encodeURIComponent(T.articleId(a))}"><img src="${esc(a.media_url)}" onerror="this.remove()"><span class="cat" style="background:${c.color}">${c.short}</span><span class="dur">+${10}XP</span><span class="t">${esc(a.title.slice(0,56))}</span></a>`;}).join("");
+  document.querySelectorAll("#featured a, #reels a").forEach(link => link.addEventListener("click", () => T.track("article_selected", { surface: "learn" })));
 
   // concept breakdown from the featured article
   if(f){const s=f.ai_summary||f.summary||f.title;
@@ -164,12 +166,13 @@
   T.$("#quizOpts").querySelectorAll(".opt").forEach(o=>o.onclick=async()=>{
     if(T.$("#quizOpts").dataset.done)return; T.$("#quizOpts").dataset.done="1";
     const ok=o.dataset.ok==="true"; o.classList.add(ok?"correct":"wrong");
+    T.track("quiz_answered", { surface: "learn", correct: ok, auth_state: u ? "signed_in" : "guest" });
     if(!ok)T.$("#quizOpts").querySelector('[data-ok="true"]').classList.add("correct");
     if(u){
       if(ok){await T.sb.from("ts_profiles").update({xp:(profile.xp||0)+10,level:T.levelForXP((profile.xp||0)+10)}).eq("user_id",u.id);T.toast("Correct! +10 XP 🎉");}
       await T.sb.from("ts_quiz_attempts").insert({user_id:u.id,question:"retain",topic:"Learning & Career",correct:ok});
     } else {
-      if(ok){T.toast("Correct! Sign in to save your XP 🎉"); location.href=T.signInUrl(location.href);}
+      if(ok){T.toast("Correct! Sign in to save your XP 🎉"); T.track("sign_in_prompted", { feature: "quiz_xp" }); location.href=T.signInUrl(location.href);}
     }
   });
 

@@ -171,6 +171,7 @@
 
   @media(prefers-reduced-motion:reduce){*{animation-duration:.001ms!important;transition-duration:.001ms!important;scroll-behavior:auto!important}}
 </style>
+<script type="module" src="/app/analytics.js"></script>
 </head>
 <body>
 
@@ -353,6 +354,12 @@
 
 <script>
 (function(){
+  document.querySelectorAll("a[href^=\"/app/\"], a[href*=\"apps.apple.com/us/app/learnify\"]").forEach(function(link){
+    link.addEventListener("click", function(){
+      var destination = link.href.indexOf("apps.apple.com") >= 0 ? "app_store" : "web_app";
+      if(window.LearnifyAnalytics) window.LearnifyAnalytics.track("acquisition_cta_clicked", { destination: destination });
+    });
+  });
   var reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
   // ---- captions for the carousel (montage anchor first, then c1..c10) ----
