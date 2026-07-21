@@ -1,8 +1,9 @@
 {
-  "generated_at": "2026-07-21T18:22:08.500Z",
+  "generated_at": "2026-07-21T20:05:32.313Z",
   "subs": [
     "MachineLearning",
-    "LocalLLaMA",
+    "Futurology",
+    "gadgets",
     "running",
     "startups",
     "bodyweightfitness",
@@ -12,24 +13,62 @@
     "investing",
     "singularity",
     "nutrition",
-    "gadgets",
     "longevity",
-    "Futurology",
+    "LocalLLaMA",
     "robotics",
     "cybersecurity"
   ],
   "count": 36,
   "by_category": {
+    "Hardware & Gadgets": 4,
     "Fitness": 10,
     "Startups & Funding": 4,
     "Skincare": 2,
     "AI / ML": 6,
-    "Security": 3,
+    "Security": 2,
     "Science": 7,
-    "Hardware & Gadgets": 3,
     "Robotics": 1
   },
   "articles": [
+    {
+      "id": "reddit_1v2k4fx",
+      "title": "Nintendo's Official Response To Tariff Refunds Class Action Lawsuit - Tells Customers They \"Got What They Bargained For\"",
+      "link": "https://www.reddit.com/r/gadgets/comments/1v2k4fx/nintendos_official_response_to_tariff_refunds/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/gadgets · community knowledge",
+      "content_type": "post",
+      "author": "u/ReaddittiddeR · r/gadgets",
+      "handle": "gadgets",
+      "org": "r/gadgets",
+      "platform": "reddit",
+      "published": "2026-07-21T14:30:33.000Z",
+      "image": "https://external-preview.redd.it/xcysyvh8GS4pksTUS-k1OwJgWbrssbbQU4l2pB1HIDk.jpeg?width=640&crop=smart&auto=webp&s=db1c85c1078f958d0a52abea15017f1f88050a52",
+      "thumbnail": "https://external-preview.redd.it/xcysyvh8GS4pksTUS-k1OwJgWbrssbbQU4l2pB1HIDk.jpeg?width=640&crop=smart&auto=webp&s=db1c85c1078f958d0a52abea15017f1f88050a52",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/gadgets"
+      ],
+      "summary": "Nintendo's Official Response To Tariff Refunds Class Action Lawsuit - Tells Customers They \"Got What They Bargained For\"",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/gadgets this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1v24ouo",
       "title": "Any solutions for long term air quality concerns when outdoor running?",
@@ -1401,45 +1440,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/running this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uzhzbu",
-      "title": "wp2shell: Pre Authentication RCE in WordPress Core",
-      "link": "https://www.reddit.com/r/netsec/comments/1uzhzbu/wp2shell_pre_authentication_rce_in_wordpress_core/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/netsec · community knowledge",
-      "content_type": "post",
-      "author": "u/Mempodipper · r/netsec",
-      "handle": "netsec",
-      "org": "r/netsec",
-      "platform": "reddit",
-      "published": "2026-07-18T01:13:16.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/netsec"
-      ],
-      "summary": "wp2shell: Pre Authentication RCE in WordPress Core",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/netsec this week"
       ],
       "metrics": {
         "likes": 0,

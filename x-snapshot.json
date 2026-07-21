@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T18:19:53.225Z",
+  "generated_at": "2026-07-21T20:03:17.819Z",
   "handles": [
     "nvidia",
     "GoogleDeepMind",
@@ -10,6 +10,129 @@
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2079653801502380543",
+      "title": "It even outperforms 3 Flash on many agentic and coding benchmarks. 3.5 Flash-Lite is rolling out in the @GeminiApp and @Google Search, with API access in @GoogleAIStudio and @AndroidStudio. Find out…",
+      "link": "https://x.com/GoogleDeepMind/status/2079653801502380543",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Google DeepMind · @GoogleDeepMind",
+      "handle": "GoogleDeepMind",
+      "org": "Google",
+      "published": "2026-07-21T19:44:39.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product launch",
+      "categories": [
+        "X",
+        "Google",
+        "Product launch"
+      ],
+      "summary": "It even outperforms 3 Flash on many agentic and coding benchmarks. 3.5 Flash-Lite is rolling out in the @GeminiApp and @Google Search, with API access in @GoogleAIStudio and @AndroidStudio. Find out more → https://goo.gle/4yyNkoi",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 76,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "reply / conversation",
+        "announcement language (rolling out)",
+        "tech substance (api, benchmarks)",
+        "links to a source"
+      ],
+      "metrics": {
+        "likes": 14,
+        "retweets": 3,
+        "replies": 3,
+        "likes_h": "14"
+      },
+      "engagement": 23,
+      "hot": false
+    },
+    {
+      "id": "x_2079653799602368604",
+      "title": "Gemini 3.5 Flash-Lite is our fast, cost-effective model for scaling repetitive use cases like sorting tickets and extracting data. Watch how it performs against 3.5 Flash on a series of high volume…",
+      "link": "https://x.com/GoogleDeepMind/status/2079653799602368604",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Google DeepMind · @GoogleDeepMind",
+      "handle": "GoogleDeepMind",
+      "org": "Google",
+      "published": "2026-07-21T19:44:38.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "Google",
+        "Product"
+      ],
+      "summary": "Gemini 3.5 Flash-Lite is our fast, cost-effective model for scaling repetitive use cases like sorting tickets and extracting data. Watch how it performs against 3.5 Flash on a series of high volume tasks ↓",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 76,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "tech substance (model, gemini)"
+      ],
+      "metrics": {
+        "likes": 76,
+        "retweets": 10,
+        "replies": 15,
+        "likes_h": "76"
+      },
+      "engagement": 111,
+      "hot": false
+    },
+    {
+      "id": "x_2079633231629144565",
+      "title": "NVIDIA Spectrum-6, a 102.4-terabit-per-second Ethernet switch built for the Vera Rubin platform, is now arriving across the world's gigascale AI factories. @CoreWeave, @Microsoft, @NebiusAI @SpaceXAI…",
+      "link": "https://x.com/nvidia/status/2079633231629144565",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-07-21T18:22:54.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "NVIDIA Spectrum-6, a 102.4-terabit-per-second Ethernet switch built for the Vera Rubin platform, is now arriving across the world's gigascale AI factories. @CoreWeave, @Microsoft, @NebiusAI @SpaceXAI and @Tesla are among the first to bring in Spectrum-6 to accelerate their AI",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 73,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (platform)"
+      ],
+      "metrics": {
+        "likes": 183,
+        "retweets": 16,
+        "replies": 19,
+        "likes_h": "183"
+      },
+      "engagement": 234,
+      "hot": false
+    },
     {
       "id": "x_2079619127560556869",
       "title": "🚀 The NVIDIA Vera Rubin platform is here, with 10x better performance per watt. ➡️ The NVIDIA ecosystem, including @CoreWeave, @GoogleCloud, @Microsoft, and @Oracle Cloud, are standing up NVIDIA…",
@@ -34,7 +157,7 @@
       "summary": "🚀 The NVIDIA Vera Rubin platform is here, with 10x better performance per watt. ➡️ The NVIDIA ecosystem, including @CoreWeave, @GoogleCloud, @Microsoft, and @Oracle Cloud, are standing up NVIDIA Vera Rubin NVL72 to deliver the lowest token cost for the agentic era. ➡️ NVIDIA",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 79,
+      "worthiness_score": 81,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -43,12 +166,94 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 82,
-        "retweets": 9,
-        "replies": 11,
-        "likes_h": "82"
+        "likes": 151,
+        "retweets": 15,
+        "replies": 16,
+        "likes_h": "151"
       },
-      "engagement": 111,
+      "engagement": 197,
+      "hot": false
+    },
+    {
+      "id": "x_2079615468294320365",
+      "title": "It’s much better at writing production-ready code faster without getting stuck in loops. Plus, it excels at multimodal tasks like analyzing charts, understanding documents, and report drafting. 3.6…",
+      "link": "https://x.com/GoogleDeepMind/status/2079615468294320365",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Google DeepMind · @GoogleDeepMind",
+      "handle": "GoogleDeepMind",
+      "org": "Google",
+      "published": "2026-07-21T17:12:19.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product launch",
+      "categories": [
+        "X",
+        "Google",
+        "Product launch"
+      ],
+      "summary": "It’s much better at writing production-ready code faster without getting stuck in loops. Plus, it excels at multimodal tasks like analyzing charts, understanding documents, and report drafting. 3.6 Flash is rolling out in the @GeminiApp and developers can start building in",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 64,
+      "sentiment": "positive",
+      "sentiment_score": 1,
+      "reasons": [
+        "report-worthy",
+        "reply / conversation",
+        "announcement language (rolling out)",
+        "tech substance (multimodal)"
+      ],
+      "metrics": {
+        "likes": 57,
+        "retweets": 5,
+        "replies": 6,
+        "likes_h": "57"
+      },
+      "engagement": 73,
+      "hot": false
+    },
+    {
+      "id": "x_2079615466356580535",
+      "title": "Gemini 3.6 Flash builds directly on feedback from 3.5 Flash. Watch how it compares on quality and token usage ↓",
+      "link": "https://x.com/GoogleDeepMind/status/2079615466356580535",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Google DeepMind · @GoogleDeepMind",
+      "handle": "GoogleDeepMind",
+      "org": "Google",
+      "published": "2026-07-21T17:12:19.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "Google",
+        "Product"
+      ],
+      "summary": "Gemini 3.6 Flash builds directly on feedback from 3.5 Flash. Watch how it compares on quality and token usage ↓",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 75,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (gemini)"
+      ],
+      "metrics": {
+        "likes": 356,
+        "retweets": 34,
+        "replies": 35,
+        "likes_h": "356"
+      },
+      "engagement": 459,
       "hot": false
     },
     {
@@ -75,7 +280,7 @@
       "summary": "10x more tokens per megawatt. CoreWeave has the first measured performance of NVIDIA Vera Rubin NVL72, showing 10x improvement in tokens per second per megawatt on DeepSeek-R1 compared to Blackwell.",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 83,
+      "worthiness_score": 85,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -84,12 +289,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 194,
-        "retweets": 28,
-        "replies": 16,
-        "likes_h": "194"
+        "likes": 431,
+        "retweets": 53,
+        "replies": 24,
+        "likes_h": "431"
       },
-      "engagement": 266,
+      "engagement": 561,
       "hot": false
     },
     {
@@ -116,7 +321,7 @@
       "summary": "Gemini 3.6 Flash and 3.5 Flash-Lite are rolling out now in the @GeminiApp. Developers can start building via the API in @GoogleAIStudio and @AndroidStudio. Gemini 3.5 Flash Cyber will be exclusively available via CodeMender soon as part of a limited-access pilot program. Find",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 79,
+      "worthiness_score": 80,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -126,12 +331,12 @@
         "tech substance (gemini, api)"
       ],
       "metrics": {
-        "likes": 132,
-        "retweets": 10,
-        "replies": 10,
-        "likes_h": "132"
+        "likes": 196,
+        "retweets": 18,
+        "replies": 11,
+        "likes_h": "196"
       },
-      "engagement": 162,
+      "engagement": 243,
       "hot": false
     },
     {
@@ -165,15 +370,15 @@
         "report-worthy",
         "announcement language (rolling out)",
         "tech substance (models, gemini, agents)",
-        "high engagement (1K likes)"
+        "high engagement (1.9K likes)"
       ],
       "metrics": {
-        "likes": 1012,
-        "retweets": 182,
-        "replies": 119,
-        "likes_h": "1K"
+        "likes": 1941,
+        "retweets": 301,
+        "replies": 181,
+        "likes_h": "1.9K"
       },
-      "engagement": 1495,
+      "engagement": 2724,
       "hot": false
     },
     {
@@ -379,12 +584,12 @@
         "business signal (billion)"
       ],
       "metrics": {
-        "likes": 46,
-        "retweets": 8,
+        "likes": 49,
+        "retweets": 9,
         "replies": 5,
-        "likes_h": "46"
+        "likes_h": "49"
       },
-      "engagement": 67,
+      "engagement": 72,
       "hot": false
     },
     {
@@ -421,12 +626,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 518,
+        "likes": 521,
         "retweets": 84,
         "replies": 50,
-        "likes_h": "518"
+        "likes_h": "521"
       },
-      "engagement": 736,
+      "engagement": 739,
       "hot": false
     },
     {
@@ -1123,210 +1328,6 @@
       },
       "engagement": 3801,
       "hot": true
-    },
-    {
-      "id": "x_2077424882502263081",
-      "title": "our models are built to provide the best price for any given task. if you're able to get better price/perf on any workload, would love to hear the details and look at it together — gdb@openai.com.",
-      "link": "https://x.com/gdb/status/2077424882502263081",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Greg Brockman · @gdb",
-      "handle": "gdb",
-      "org": "OpenAI",
-      "published": "2026-07-15T16:07:43.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Product"
-      ],
-      "summary": "our models are built to provide the best price for any given task. if you're able to get better price/perf on any workload, would love to hear the details and look at it together — gdb@openai.com.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 70,
-      "sentiment": "positive",
-      "sentiment_score": 1,
-      "reasons": [
-        "report-worthy",
-        "tech substance (models)",
-        "high engagement (2.1K likes)"
-      ],
-      "metrics": {
-        "likes": 2077,
-        "retweets": 51,
-        "replies": 158,
-        "likes_h": "2.1K"
-      },
-      "engagement": 2337,
-      "hot": false
-    },
-    {
-      "id": "x_2077380458996773192",
-      "title": "Showing more content from people you follow has been one of the fixes. The algorithm not barraging you with similar content due to a few likes is another.",
-      "link": "https://x.com/elonmusk/status/2077380458996773192",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Elon Musk · @elonmusk",
-      "handle": "elonmusk",
-      "org": "xAI/Tesla",
-      "published": "2026-07-15T13:11:11.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "xAI/Tesla",
-        "Commentary"
-      ],
-      "summary": "Showing more content from people you follow has been one of the fixes. The algorithm not barraging you with similar content due to a few likes is another.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 56,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "high engagement (14.2K likes)"
-      ],
-      "metrics": {
-        "likes": 14226,
-        "retweets": 2041,
-        "replies": 2776,
-        "likes_h": "14.2K"
-      },
-      "engagement": 21084,
-      "hot": true
-    },
-    {
-      "id": "x_2077372568143642972",
-      "title": "From proposing hypotheses to designing experiments, AI agents are starting to reshape scientific discovery. But the hardest part is testing these ideas in the real world. Our essay explores the…",
-      "link": "https://x.com/GoogleDeepMind/status/2077372568143642972",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Google DeepMind · @GoogleDeepMind",
-      "handle": "GoogleDeepMind",
-      "org": "Google",
-      "published": "2026-07-15T12:39:50.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "Google",
-        "Product"
-      ],
-      "summary": "From proposing hypotheses to designing experiments, AI agents are starting to reshape scientific discovery. But the hardest part is testing these ideas in the real world. Our essay explores the growing validation bottleneck and outlines four priorities for policymakers and",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 77,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (agents)",
-        "high engagement (824 likes)"
-      ],
-      "metrics": {
-        "likes": 824,
-        "retweets": 117,
-        "replies": 79,
-        "likes_h": "824"
-      },
-      "engagement": 1137,
-      "hot": false
-    },
-    {
-      "id": "x_2077075654210695537",
-      "title": "Enterprises need AI they can trust, control and customize. Open models give teams the visibility and ownership to evaluate AI against their standards, specialize AI with domain knowledge, and improve…",
-      "link": "https://x.com/nvidia/status/2077075654210695537",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-07-14T17:00:00.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product"
-      ],
-      "summary": "Enterprises need AI they can trust, control and customize. Open models give teams the visibility and ownership to evaluate AI against their standards, specialize AI with domain knowledge, and improve accuracy and efficiency.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 75,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "tech substance (models)"
-      ],
-      "metrics": {
-        "likes": 340,
-        "retweets": 41,
-        "replies": 47,
-        "likes_h": "340"
-      },
-      "engagement": 469,
-      "hot": false
-    },
-    {
-      "id": "x_2077060583556251825",
-      "title": "From benchmark to production, NVIDIA GB300 NVL72 delivers industry-leading performance per watt to maximize revenue and deliver the lowest token cost to improve profit margins, providing a reliable…",
-      "link": "https://x.com/nvidia/status/2077060583556251825",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-07-14T16:00:07.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Research"
-      ],
-      "summary": "From benchmark to production, NVIDIA GB300 NVL72 delivers industry-leading performance per watt to maximize revenue and deliver the lowest token cost to improve profit margins, providing a reliable foundation for production inference used by leading AI labs and enterprises.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 56,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "reply / conversation",
-        "tech substance (benchmark, inference)",
-        "business signal (revenue)"
-      ],
-      "metrics": {
-        "likes": 32,
-        "retweets": 4,
-        "replies": 1,
-        "likes_h": "32"
-      },
-      "engagement": 41,
-      "hot": false
     }
   ]
 }
