@@ -1,38 +1,117 @@
 {
-  "generated_at": "2026-07-21T02:58:54.346Z",
+  "generated_at": "2026-07-21T05:58:09.847Z",
   "subs": [
     "MachineLearning",
-    "singularity",
-    "SkincareAddiction",
+    "LocalLLaMA",
+    "bodyweightfitness",
+    "startups",
     "science",
     "investing",
     "longevity",
+    "singularity",
     "Futurology",
-    "bodyweightfitness",
-    "LocalLLaMA",
+    "SkincareAddiction",
     "gadgets",
     "running",
     "robotics",
     "cybersecurity",
     "nutrition",
-    "startups",
     "netsec",
     "artificial",
     "programming"
   ],
   "count": 36,
   "by_category": {
-    "Science": 7,
-    "Startups & Funding": 3,
-    "AI / ML": 10,
-    "Skincare": 1,
+    "Startups & Funding": 4,
     "Fitness": 8,
+    "Science": 7,
+    "AI / ML": 9,
+    "Skincare": 1,
     "Hardware & Gadgets": 2,
     "Robotics": 2,
     "Security": 2,
     "Coding & Dev Tools": 1
   },
   "articles": [
+    {
+      "id": "reddit_1v21dpg",
+      "title": "Girlfriend expecting equal equity in a startup which I started even before knowing her. I will not promote.",
+      "link": "https://www.reddit.com/r/startups/comments/1v21dpg/girlfriend_expecting_equal_equity_in_a_startup/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/startups · community knowledge",
+      "content_type": "post",
+      "author": "u/Dry_Support9531 · r/startups",
+      "handle": "startups",
+      "org": "r/startups",
+      "platform": "reddit",
+      "published": "2026-07-20T23:20:31.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/startups"
+      ],
+      "summary": "So here’s the picture. I started with an idea in 2023. States dating her in 2024. Until then I haven’t really worked in the idea. I started working on it since April 2025 and it started making money since July 2025. Till then she has no idea about it. After I started making money from it, i worked more and invested my…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/startups this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v1pkrb",
+      "title": "Push up = pushing ~70% of bodyweight. Does that mean when I can bench 70% (or more) of my bw I can break my push up plateau?",
+      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1v1pkrb/push_up_pushing_70_of_bodyweight_does_that_mean/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/bodyweightfitness · community knowledge",
+      "content_type": "post",
+      "author": "u/Phoenix2879 · r/bodyweightfitness",
+      "handle": "bodyweightfitness",
+      "org": "r/bodyweightfitness",
+      "platform": "reddit",
+      "published": "2026-07-20T15:59:45.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/bodyweightfitness"
+      ],
+      "summary": "I&#39;ve been doing bodyweight training at home for 6 months and then started going to the gym (it&#39;s been a month until now). Now I&#39;m doing dumbbell bench press around 50% of my bodyweight. I&#39;ve heard that push up equals moving 6 - 70% of BW, so I don&#39;t know if I can bench press the same amount of…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/bodyweightfitness this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1v1e7os",
       "title": "Researchers quantitatively assessed for the first time that somatic mutations alone cap human lifespan at 146–194 years. Brain and heart cells are the main bottleneck, while the liver could last millennia.",
@@ -1366,86 +1445,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/robotics this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uyuwy4",
-      "title": "Hazelnut Spread Has Got Worse - 14x the Glycemic Load of its Origins",
-      "link": "https://www.reddit.com/r/nutrition/comments/1uyuwy4/hazelnut_spread_has_got_worse_14x_the_glycemic/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/nutrition · community knowledge",
-      "content_type": "post",
-      "author": "u/melt_chocolates_lnd · r/nutrition",
-      "handle": "nutrition",
-      "org": "r/nutrition",
-      "platform": "reddit",
-      "published": "2026-07-17T09:35:19.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Nutrition",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "Nutrition",
-        "r/nutrition"
-      ],
-      "summary": "So the Original hazelnut spread - is Gianduja from the 1800s. It contained 50% roasted hazlenuts 50% cacao mass. The Current Supermarket Hazelnut spreads are - 140g roasted hazelnuts 500g Sugar 170g Palm Oil Cacao Powder Skimmed Milk . So that&#39;s 60% sugar. The Nutrient Density is 25x higher in the original. The…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/nutrition this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uyuka8",
-      "title": "Linus Torvalds says Linux is not an anti-AI project, and if you don't like that, then \"fork it or just walk away\"",
-      "link": "https://www.reddit.com/r/artificial/comments/1uyuka8/linus_torvalds_says_linux_is_not_an_antiai/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/artificial · community knowledge",
-      "content_type": "post",
-      "author": "u/Dapper_Order7182 · r/artificial",
-      "handle": "artificial",
-      "org": "r/artificial",
-      "platform": "reddit",
-      "published": "2026-07-17T09:14:27.000Z",
-      "image": "https://external-preview.redd.it/J0EyWc8FocLmLzGCWF-fhk8XqCmO6IasOYedV4AoQ8M.jpeg?width=640&crop=smart&auto=webp&s=3ecf40fac976624b80c8a4f9b9e204fa82336371",
-      "thumbnail": "https://external-preview.redd.it/J0EyWc8FocLmLzGCWF-fhk8XqCmO6IasOYedV4AoQ8M.jpeg?width=640&crop=smart&auto=webp&s=3ecf40fac976624b80c8a4f9b9e204fa82336371",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/artificial"
-      ],
-      "summary": "Linus Torvalds says Linux is not an anti-AI project, and if you don't like that, then \"fork it or just walk away\"",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/artificial this week"
       ],
       "metrics": {
         "likes": 0,
