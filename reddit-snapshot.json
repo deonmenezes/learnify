@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-07-21T15:10:30.660Z",
+  "generated_at": "2026-07-21T17:00:41.208Z",
   "subs": [
     "MachineLearning",
-    "Futurology",
-    "gadgets",
+    "science",
+    "netsec",
     "startups",
     "bodyweightfitness",
     "SkincareAddiction",
-    "science",
     "investing",
     "singularity",
     "nutrition",
+    "gadgets",
     "longevity",
+    "Futurology",
     "LocalLLaMA",
     "running",
     "robotics",
     "cybersecurity",
-    "netsec",
     "artificial"
   ],
   "count": 36,
@@ -24,11 +24,11 @@
     "Startups & Funding": 4,
     "Fitness": 9,
     "Skincare": 2,
-    "AI / ML": 8,
+    "AI / ML": 7,
+    "Security": 3,
     "Science": 7,
     "Hardware & Gadgets": 3,
-    "Robotics": 1,
-    "Security": 2
+    "Robotics": 1
   },
   "articles": [
     {
@@ -182,6 +182,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v1fbe1",
+      "title": "Exploit brokers pay $500,000 for a WordPress RCE. I found one with GPT5.6 Sol Ultra and $25",
+      "link": "https://www.reddit.com/r/netsec/comments/1v1fbe1/exploit_brokers_pay_500000_for_a_wordpress_rce_i/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/netsec · community knowledge",
+      "content_type": "post",
+      "author": "u/Mempodipper · r/netsec",
+      "handle": "netsec",
+      "org": "r/netsec",
+      "platform": "reddit",
+      "published": "2026-07-20T08:12:31.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/netsec"
+      ],
+      "summary": "Exploit brokers pay $500,000 for a WordPress RCE. I found one with GPT5.6 Sol Ultra and $25",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/netsec this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1396,46 +1435,6 @@
         "r/artificial"
       ],
       "summary": "HI all, First, thank you so much for your feedback and interest in my project PopUpFactCheck. When I first posted about this July 1 , I did not expect the reception it would get and I am so thankful to y&#39;all. Some updates. You asked for Firefox, and it is now a Firefox add-on . It has new features. For example,…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/artificial this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uzcgiq",
-      "title": "Xi Jinping calls for more open-source AI: 'China is ready to be more open'",
-      "link": "https://www.reddit.com/r/artificial/comments/1uzcgiq/xi_jinping_calls_for_more_opensource_ai_china_is/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/artificial · community knowledge",
-      "content_type": "post",
-      "author": "u/esporx · r/artificial",
-      "handle": "artificial",
-      "org": "r/artificial",
-      "platform": "reddit",
-      "published": "2026-07-17T21:15:30.000Z",
-      "image": "https://external-preview.redd.it/BC3I1dIOwfTWYqQpkriRV_PyISzwx-Nu1XTDK1A04k4.jpeg?width=640&crop=smart&auto=webp&s=e5f51b4c9f0a238f79b7e378e04654dc69991130",
-      "thumbnail": "https://external-preview.redd.it/BC3I1dIOwfTWYqQpkriRV_PyISzwx-Nu1XTDK1A04k4.jpeg?width=640&crop=smart&auto=webp&s=e5f51b4c9f0a238f79b7e378e04654dc69991130",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/artificial"
-      ],
-      "summary": "Xi Jinping calls for more open-source AI: 'China is ready to be more open'",
       "is_social": true,
       "report_worthy": true,
       "worthiness_score": 62,

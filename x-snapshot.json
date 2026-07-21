@@ -1,15 +1,180 @@
 {
-  "generated_at": "2026-07-21T15:08:19.459Z",
+  "generated_at": "2026-07-21T16:58:27.303Z",
   "handles": [
+    "nvidia",
+    "GoogleDeepMind",
     "elonmusk",
     "gdb",
     "AnthropicAI",
-    "nvidia",
-    "OpenAI",
-    "GoogleDeepMind"
+    "OpenAI"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2079601314234032474",
+      "title": "10x more tokens per megawatt. CoreWeave has the first measured performance of NVIDIA Vera Rubin NVL72, showing 10x improvement in tokens per second per megawatt on DeepSeek-R1 compared to Blackwell.",
+      "link": "https://x.com/nvidia/status/2079601314234032474",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-07-21T16:16:05.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "10x more tokens per megawatt. CoreWeave has the first measured performance of NVIDIA Vera Rubin NVL72, showing 10x improvement in tokens per second per megawatt on DeepSeek-R1 compared to Blackwell.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 80,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "tech substance (tokens, blackwell)",
+        "concrete metrics"
+      ],
+      "metrics": {
+        "likes": 74,
+        "retweets": 14,
+        "replies": 12,
+        "likes_h": "74"
+      },
+      "engagement": 114,
+      "hot": false
+    },
+    {
+      "id": "x_2079589701795627317",
+      "title": "Gemini 3.6 Flash and 3.5 Flash-Lite are rolling out now in the @GeminiApp. Developers can start building via the API in @GoogleAIStudio and @AndroidStudio. Gemini 3.5 Flash Cyber will be exclusively…",
+      "link": "https://x.com/GoogleDeepMind/status/2079589701795627317",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Google DeepMind · @GoogleDeepMind",
+      "handle": "GoogleDeepMind",
+      "org": "Google",
+      "published": "2026-07-21T15:29:56.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product launch",
+      "categories": [
+        "X",
+        "Google",
+        "Product launch"
+      ],
+      "summary": "Gemini 3.6 Flash and 3.5 Flash-Lite are rolling out now in the @GeminiApp. Developers can start building via the API in @GoogleAIStudio and @AndroidStudio. Gemini 3.5 Flash Cyber will be exclusively available via CodeMender soon as part of a limited-access pilot program. Find",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 79,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "reply / conversation",
+        "announcement language (rolling out, out now)",
+        "tech substance (gemini, api)"
+      ],
+      "metrics": {
+        "likes": 132,
+        "retweets": 10,
+        "replies": 10,
+        "likes_h": "132"
+      },
+      "engagement": 162,
+      "hot": false
+    },
+    {
+      "id": "x_2079589698490572961",
+      "title": "We’re rolling out three new models to make AI agents faster, smarter, and cheaper at scale: 🔵 Gemini 3.6 Flash: It uses fewer tokens than 3.5 Flash to deliver higher quality work at the exact same…",
+      "link": "https://x.com/GoogleDeepMind/status/2079589698490572961",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Google DeepMind · @GoogleDeepMind",
+      "handle": "GoogleDeepMind",
+      "org": "Google",
+      "published": "2026-07-21T15:29:55.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product launch",
+      "categories": [
+        "X",
+        "Google",
+        "Product launch"
+      ],
+      "summary": "We’re rolling out three new models to make AI agents faster, smarter, and cheaper at scale: 🔵 Gemini 3.6 Flash: It uses fewer tokens than 3.5 Flash to deliver higher quality work at the exact same cost. 🔵 Gemini 3.5 Flash-Lite: A fast, cost-effective option for everyday tasks",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 100,
+      "sentiment": "positive",
+      "sentiment_score": 1,
+      "reasons": [
+        "report-worthy",
+        "announcement language (rolling out)",
+        "tech substance (models, gemini, agents)",
+        "high engagement (1K likes)"
+      ],
+      "metrics": {
+        "likes": 1012,
+        "retweets": 182,
+        "replies": 119,
+        "likes_h": "1K"
+      },
+      "engagement": 1495,
+      "hot": false
+    },
+    {
+      "id": "x_2079584667284418896",
+      "title": "NVIDIA Spectrum-6, a 102.4-terabit-per-second Ethernet switch built for the Vera Rubin platform, is now arriving across the world's gigascale AI factories. @CoreWeave, @Microsoft, @Nebius, @SpaceXAI…",
+      "link": "https://x.com/nvidia/status/2079584667284418896",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-07-21T15:09:56.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "NVIDIA Spectrum-6, a 102.4-terabit-per-second Ethernet switch built for the Vera Rubin platform, is now arriving across the world's gigascale AI factories. @CoreWeave, @Microsoft, @Nebius, @SpaceXAI and @Tesla are among the first to bring in Spectrum-6 to accelerate their AI",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 75,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (platform)"
+      ],
+      "metrics": {
+        "likes": 309,
+        "retweets": 35,
+        "replies": 28,
+        "likes_h": "309"
+      },
+      "engagement": 407,
+      "hot": false
+    },
     {
       "id": "x_2079430412837757338",
       "title": "Try Grok Build, it’s awesome! http://X.ai/cli",
@@ -41,15 +206,15 @@
         "report-worthy",
         "tech substance (grok)",
         "links to a source",
-        "high engagement (6.9K likes)"
+        "high engagement (8.4K likes)"
       ],
       "metrics": {
-        "likes": 6872,
-        "retweets": 1030,
-        "replies": 1451,
-        "likes_h": "6.9K"
+        "likes": 8437,
+        "retweets": 1540,
+        "replies": 1876,
+        "likes_h": "8.4K"
       },
-      "engagement": 10383,
+      "engagement": 13393,
       "hot": true
     },
     {
@@ -173,12 +338,12 @@
         "business signal (billion)"
       ],
       "metrics": {
-        "likes": 38,
-        "retweets": 6,
+        "likes": 45,
+        "retweets": 8,
         "replies": 5,
-        "likes_h": "38"
+        "likes_h": "45"
       },
-      "engagement": 55,
+      "engagement": 66,
       "hot": false
     },
     {
@@ -215,12 +380,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 454,
-        "retweets": 75,
-        "replies": 42,
-        "likes_h": "454"
+        "likes": 506,
+        "retweets": 84,
+        "replies": 48,
+        "likes_h": "506"
       },
-      "engagement": 646,
+      "engagement": 722,
       "hot": false
     },
     {
@@ -255,12 +420,12 @@
         "tech substance (agents, inference, training)"
       ],
       "metrics": {
-        "likes": 463,
+        "likes": 465,
         "retweets": 46,
         "replies": 50,
-        "likes_h": "463"
+        "likes_h": "465"
       },
-      "engagement": 605,
+      "engagement": 607,
       "hot": false
     },
     {
@@ -337,12 +502,12 @@
         "tech substance (research)"
       ],
       "metrics": {
-        "likes": 167,
+        "likes": 171,
         "retweets": 15,
         "replies": 16,
-        "likes_h": "167"
+        "likes_h": "171"
       },
-      "engagement": 213,
+      "engagement": 217,
       "hot": false
     },
     {
@@ -500,12 +665,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 602,
-        "retweets": 95,
-        "replies": 68,
-        "likes_h": "602"
+        "likes": 608,
+        "retweets": 97,
+        "replies": 69,
+        "likes_h": "608"
       },
-      "engagement": 860,
+      "engagement": 871,
       "hot": false
     },
     {
@@ -1029,15 +1194,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (agents)",
-        "high engagement (821 likes)"
+        "high engagement (824 likes)"
       ],
       "metrics": {
-        "likes": 821,
-        "retweets": 116,
-        "replies": 76,
-        "likes_h": "821"
+        "likes": 824,
+        "retweets": 117,
+        "replies": 79,
+        "likes_h": "824"
       },
-      "engagement": 1129,
+      "engagement": 1137,
       "hot": false
     },
     {
@@ -1159,174 +1324,6 @@
         "likes_h": "374"
       },
       "engagement": 495,
-      "hot": false
-    },
-    {
-      "id": "x_2077026346375540870",
-      "title": "We’re committing $10 million CAD and partnering with leading AI institutions in Canada to help fund new AI research. https://www.anthropic.com/news/canadian-ai-research",
-      "link": "https://x.com/AnthropicAI/status/2077026346375540870",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Anthropic · @AnthropicAI",
-      "handle": "AnthropicAI",
-      "org": "Anthropic",
-      "published": "2026-07-14T13:44:04.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Funding & deals",
-      "categories": [
-        "X",
-        "Anthropic",
-        "Funding & deals"
-      ],
-      "summary": "We’re committing $10 million CAD and partnering with leading AI institutions in Canada to help fund new AI research. https://www.anthropic.com/news/canadian-ai-research",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 100,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (research)",
-        "business signal (million, partnering)",
-        "links to a source",
-        "high engagement (2.6K likes)",
-        "concrete metrics"
-      ],
-      "metrics": {
-        "likes": 2559,
-        "retweets": 230,
-        "replies": 223,
-        "likes_h": "2.6K"
-      },
-      "engagement": 3242,
-      "hot": false
-    },
-    {
-      "id": "x_2076796351241728218",
-      "title": "Leading companies are already compounding value with full-stack open inference software on NVIDIA Blackwell: Baseten used TensorRT LLM to serve DeepSeek V4 Pro on Blackwell, applying proprietary…",
-      "link": "https://x.com/nvidia/status/2076796351241728218",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-07-13T22:30:09.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Research"
-      ],
-      "summary": "Leading companies are already compounding value with full-stack open inference software on NVIDIA Blackwell: Baseten used TensorRT LLM to serve DeepSeek V4 Pro on Blackwell, applying proprietary runtime optimizations to deliver up to 50% more tokens per second for reasoning,",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 56,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "reply / conversation",
-        "tech substance (tokens, inference, blackwell)"
-      ],
-      "metrics": {
-        "likes": 31,
-        "retweets": 7,
-        "replies": 4,
-        "likes_h": "31"
-      },
-      "engagement": 49,
-      "hot": false
-    },
-    {
-      "id": "x_2076796336200954047",
-      "title": "Open source multiplies the full-stack advantage. PyTorch has surpassed 700 million PyPI downloads with CUDA support — co-evolved with a decade of NVIDIA architecture advances.. Open source frameworks…",
-      "link": "https://x.com/nvidia/status/2076796336200954047",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-07-13T22:30:06.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Funding & deals",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Funding & deals"
-      ],
-      "summary": "Open source multiplies the full-stack advantage. PyTorch has surpassed 700 million PyPI downloads with CUDA support — co-evolved with a decade of NVIDIA architecture advances.. Open source frameworks built on CUDA mean every AI breakthrough runs on NVIDIA from day one. NVIDIA",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 65,
-      "sentiment": "positive",
-      "sentiment_score": 1,
-      "reasons": [
-        "report-worthy",
-        "reply / conversation",
-        "tech substance (open source, cuda)",
-        "business signal (million)",
-        "concrete metrics"
-      ],
-      "metrics": {
-        "likes": 14,
-        "retweets": 0,
-        "replies": 5,
-        "likes_h": "14"
-      },
-      "engagement": 19,
-      "hot": false
-    },
-    {
-      "id": "x_2076796314306617590",
-      "title": "As organizations move from AI pilots to production, infrastructure decisions have shifted from peak chip specs to cost per token: how many useful tokens they can deliver per dollar, per watt, and…",
-      "link": "https://x.com/nvidia/status/2076796314306617590",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-07-13T22:30:00.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product"
-      ],
-      "summary": "As organizations move from AI pilots to production, infrastructure decisions have shifted from peak chip specs to cost per token: how many useful tokens they can deliver per dollar, per watt, and within required latency targets. NVIDIA's full-stack inference software",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 84,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (tokens, inference, chip)"
-      ],
-      "metrics": {
-        "likes": 246,
-        "retweets": 43,
-        "replies": 36,
-        "likes_h": "246"
-      },
-      "engagement": 368,
       "hot": false
     }
   ]
