@@ -1,34 +1,34 @@
 {
-  "generated_at": "2026-07-21T05:58:09.847Z",
+  "generated_at": "2026-07-21T08:37:58.592Z",
   "subs": [
     "MachineLearning",
-    "LocalLLaMA",
-    "bodyweightfitness",
+    "artificial",
+    "nutrition",
     "startups",
+    "bodyweightfitness",
     "science",
     "investing",
     "longevity",
     "singularity",
     "Futurology",
     "SkincareAddiction",
+    "LocalLLaMA",
     "gadgets",
     "running",
     "robotics",
     "cybersecurity",
-    "nutrition",
     "netsec",
-    "artificial",
     "programming"
   ],
   "count": 36,
   "by_category": {
     "Startups & Funding": 4,
-    "Fitness": 8,
+    "Fitness": 9,
     "Science": 7,
     "AI / ML": 9,
     "Skincare": 1,
     "Hardware & Gadgets": 2,
-    "Robotics": 2,
+    "Robotics": 1,
     "Security": 2,
     "Coding & Dev Tools": 1
   },
@@ -184,6 +184,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/investing this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v19gzu",
+      "title": "Why do processed foods use blends of multiple oils (sunflower, canola, soybean, etc) instead of just one?",
+      "link": "https://www.reddit.com/r/nutrition/comments/1v19gzu/why_do_processed_foods_use_blends_of_multiple/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/nutrition · community knowledge",
+      "content_type": "post",
+      "author": "u/clearwater-orchid · r/nutrition",
+      "handle": "nutrition",
+      "org": "r/nutrition",
+      "platform": "reddit",
+      "published": "2026-07-20T02:51:28.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Nutrition",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "Nutrition",
+        "r/nutrition"
+      ],
+      "summary": "I keep seeing ingredient labels that list something like “contains one or more of: soybean, canola, sunflower, and/or palm oil”.. instead of a single one, and I’m curious what’s actually driving that in those cases. Is it due to flavor profile? &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/nutrition this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1406,45 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/singularity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uz2hsj",
-      "title": "Interchangeable gripper",
-      "link": "https://www.reddit.com/r/robotics/comments/1uz2hsj/interchangeable_gripper/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/robotics · community knowledge",
-      "content_type": "post",
-      "author": "u/Wing-Realistic · r/robotics",
-      "handle": "robotics",
-      "org": "r/robotics",
-      "platform": "reddit",
-      "published": "2026-07-17T15:10:35.000Z",
-      "image": "https://external-preview.redd.it/ZXU5NGVodjEzdGRoMdnBjmh9qowocKxe9RRvCmtyDOubnlWsoebkVE2X_QxA.png?width=640&crop=smart&auto=webp&s=adbf6026e6a72959d98ea92e3abfafc5c6537d15",
-      "thumbnail": "https://external-preview.redd.it/ZXU5NGVodjEzdGRoMdnBjmh9qowocKxe9RRvCmtyDOubnlWsoebkVE2X_QxA.png?width=640&crop=smart&auto=webp&s=adbf6026e6a72959d98ea92e3abfafc5c6537d15",
-      "section": "Robotics",
-      "category": "Robotics",
-      "genre": "Robotics",
-      "categories": [
-        "Reddit",
-        "Robotics",
-        "r/robotics"
-      ],
-      "summary": "Hi! Our general-purpose robot can now use tools. Humanoid hands, and especially the models controlling them reliably, aren’t available yet, so we’re focusing on making the options we can use right now and actually work. &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/robotics this week"
       ],
       "metrics": {
         "likes": 0,
