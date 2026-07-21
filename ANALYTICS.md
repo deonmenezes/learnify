@@ -64,7 +64,7 @@ This is a conservative lower bound with less than one minute of rounding loss pe
 
 ## Verification
 
-1. Leave `LEARNIFY_ANALYTICS_ENABLED` unset: no consent UI and no request to `/_vercel/insights/script.js` should occur.
+1. Leave `LEARNIFY_ANALYTICS_ENABLED` unset: no consent UI and no request to `https://va.vercel-scripts.com/v1/script.js` should occur.
 2. Set it to `true` in a preview deployment with Vercel Web Analytics enabled.
 3. Choose **No thanks**: confirm the Vercel script is not requested and events do not appear.
 4. Clear `learnify.analytics.consent.v1`, reload, choose **Allow**, navigate through Latest → Article → publisher, save, and answer a quiz.

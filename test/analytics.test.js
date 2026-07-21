@@ -64,6 +64,10 @@ test("duration and count buckets avoid high-cardinality metrics", () => {
 });
 
 
+test("provider runtime is loaded only from the official Vercel script host", () => {
+  const source = fs.readFileSync(new URL("../app/analytics.js", import.meta.url), "utf8");
+  assert.match(source, /https:\/\/va\.vercel-scripts\.com\/v1\/script\.js/);
+});
 
 test("every instrumented event is allowlisted", () => {
   const files = ["app/analytics.js", "app/app.js", "app/index.html", "app/learn.html", "app/saved.html", "app/article.html", "app/login.html", "index.html", "feed.html"];

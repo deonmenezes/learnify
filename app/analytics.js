@@ -232,7 +232,7 @@ function loadVercelProvider() {
   const script = document.createElement("script");
   script.defer = true;
   script.dataset.learnifyAnalytics = "vercel";
-  script.src = "/_vercel/insights/script.js";
+  script.src = "https://va.vercel-scripts.com/v1/script.js";
   document.head.appendChild(script);
   providerReady = true;
   pendingEvents.splice(0).forEach(send);
