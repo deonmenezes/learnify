@@ -269,3 +269,13 @@ struct FeedView: View {
 - **Attribution**: all content/images belong to their respective outlets; link
   back to `link`.
 ```
+
+---
+
+## `GET /api/research`
+
+Returns normalized research-paper metadata from arXiv/OpenAlex. Add `topic` using one exact label advertised in `topics`, `limit` (1–50), and `sort=recent|trending|citations`. Unknown topics return HTTP 400.
+
+Exact-topic requests use focused OpenAlex searches restricted to DOI-bearing core-journal articles and return `topic`, `published`, `provider`, `publisher`, `source_label`, `content_type=paper`, `content_type_label=Research paper`, `canonical_url`, and `freshness_verified`. The response also returns the dynamic inclusive `cutoff`, provider status, and all 23 labels.
+
+The server rejects missing, malformed, stale, future, retracted, paratext, non-article, and off-topic provider records at normalization time. Topic-provider failure returns HTTP 502 and never falls back to bundled or mock research. See [DATA_SOURCES.md](DATA_SOURCES.md).

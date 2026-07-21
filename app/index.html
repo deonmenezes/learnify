@@ -45,8 +45,8 @@
 
     <!-- RESEARCH -->
     <section style="margin-top:26px">
-      <div class="section-head"><h2>🔬 Research, Without the Headache</h2><a class="see" href="/app/?cat=Research">See all ›</a></div>
-      <div class="grid3" id="research"></div>
+      <div class="section-head"><h2>🔬 Research, Without the Headache</h2><a class="see" href="/app/research.html">See all topics ›</a></div>
+      <div class="grid3" id="research"><div class="card pad" style="grid-column:1/-1">Loading recent papers…</div></div>
     </section>
   </div>
 
@@ -165,10 +165,20 @@
     <div class="thumb-wrap"><img class="thumb" loading="lazy" src="${esc((a.media_url&&a.media_kind!=='poster')?a.media_url:'')}" onerror="this.remove()" style="aspect-ratio:9/12">
     <span class="cat" style="background:${T.catMeta(T.catFor(a)).color}">${T.catMeta(T.catFor(a)).short}</span>
     <span style="position:absolute;left:0;right:0;bottom:0;padding:10px;background:linear-gradient(transparent,#000);color:#fff;font-size:12.5px;font-weight:700;line-height:1.3">${esc(a.title.slice(0,60))}</span></div></a>`).join("");
-  T.$("#research").innerHTML = pool.slice(13,16).map(a=>`<a class="story" href="/app/article.html?id=${encodeURIComponent(T.articleId(a))}"><div class="s-body">
-    <span class="muted" style="font-size:11px;font-weight:700">arXiv · ${T.timeAgo(a.published)||'recent'}</span>
-    <h3>${esc(a.title)}</h3><p>${esc(a.ai_summary||a.summary||'')}</p>
-    <div class="meta">📈 ${T.readMins(a)+6} min <span class="xp" style="margin-left:auto">+${25} XP</span></div></div></a>`).join("");
+  try {
+    const response = await fetch("/api/research?topic=AI%20%2F%20ML&limit=3&sort=recent");
+    if (!response.ok) throw new Error("research_request");
+    const data = await response.json();
+    const papers = (data.papers || []).filter((paper) => paper.topic === "AI / ML" && paper.freshness_verified === true);
+    T.$("#research").innerHTML = papers.length ? papers.map((paper) => `<a class="story" href="${esc(paper.canonical_url || paper.url)}" target="_blank" rel="noopener noreferrer"><div class="s-body">
+      <span class="muted" style="font-size:11px;font-weight:700">${esc(paper.content_type_label || "Research paper")} · ${esc(paper.source_label || paper.provider || "OpenAlex")}</span>
+      <h3>${esc(paper.title)}</h3><p>${esc(paper.summary || "Open the source for details.")}</p>
+      <div class="meta">${esc(new Date(paper.published).toLocaleDateString())}<span class="xp" style="margin-left:auto">Source ↗</span></div></div></a>`).join("")
+      : `<div class="card pad" style="grid-column:1/-1"><b>No recent AI / ML papers found.</b><br><span class="muted">OpenAlex returned no eligible, verified dates.</span></div>`;
+  } catch (_) {
+    T.track("content_load_failed", { resource: "research", fallback: "none" });
+    T.$("#research").innerHTML = `<div class="card pad" style="grid-column:1/-1"><b>Research could not be loaded.</b><br><span class="muted">Try the topic feed again shortly.</span></div>`;
+  }
   document.querySelectorAll("a.story").forEach(link => link.addEventListener("click", () => T.track("article_selected", { surface: "latest" })));
 
   // save buttons

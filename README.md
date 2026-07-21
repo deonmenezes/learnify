@@ -69,6 +69,10 @@ See **[API.md](API.md)** for the full reference plus a copy-paste **Swift
 
 Privacy-gated, aggregate product analytics is available through the existing Vercel host and is disabled by default. See **[ANALYTICS.md](ANALYTICS.md)** for setup, the event dictionary, consent behavior, verification, suggested reports, and session-duration interpretation. Run `npm test` to validate the event/property privacy allowlist.
 
+## Research topics
+
+Learnify provides 23 exact research-topic feeds backed by OpenAlex and enforced by a server-side rolling two-year freshness gate. Topic cards are labeled as research papers, identify the indexed journal/publisher when available, and link to the canonical source; Learnify does not render full paper bodies in this milestone. See **[DATA_SOURCES.md](DATA_SOURCES.md)** for the complete frontend-to-provider path, query mappings, exclusions, freshness semantics, limitations, environment variables, and verification steps.
+
 ## Deploy
 
 Pushed to GitHub and deployed on Vercel (git-connected — every push auto-deploys).

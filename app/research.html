@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Research topics · Learnify</title>
+<meta name="description" content="Recent credible research across 23 exact Learnify topics.">
+<link rel="stylesheet" href="/app/app.css">
+<style>
+  .research-wrap{max-width:1120px;margin:0 auto;padding:34px 24px 80px}.research-head{max-width:760px}
+  .research-head h1{font-size:42px;margin:0 0 8px}.research-head p{color:var(--ink-3);margin:0 0 22px}
+  .topic-list{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:30px}.topic-list button{border:1px solid var(--line);background:var(--surface);color:var(--ink-2);border-radius:999px;padding:8px 13px;font:inherit;font-size:13px;font-weight:700;cursor:pointer}
+  .topic-list button:hover,.topic-list button.active{background:var(--accent);color:var(--cta-ink);border-color:var(--accent)}
+  .feed-state{padding:34px;text-align:center;color:var(--ink-3)}.feed-state b{color:var(--ink)}
+  .paper-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+  .paper{padding:18px;display:flex;flex-direction:column;gap:10px;min-height:250px}.paper h2{font-size:17px;line-height:1.35;margin:0}.paper p{font-size:13.5px;color:var(--ink-3);margin:0}
+  .paper-meta{font-size:12px;color:var(--ink-4);font-weight:700}.source-link{font-size:12px;font-weight:800;color:var(--blue);margin-top:auto}.provider-note{display:block;margin:4px 0 12px;color:var(--amber)}
+  .retry{margin-top:14px}@media(max-width:820px){.paper-grid{grid-template-columns:1fr}.research-head h1{font-size:32px}}
+</style>
+<script type="module" src="/app/analytics.js"></script>
+</head>
+<body>
+<header id="nav" class="nav"></header>
+<main class="research-wrap">
+  <section class="research-head">
+    <h1>Research by topic</h1>
+    <p>OpenAlex-indexed research papers from reputable journals and publishers, limited to a verified rolling two-year window. Learnify shows metadata and abstracts, then links to the source.</p>
+  </section>
+  <nav id="topics" class="topic-list" aria-label="Research topics"></nav>
+  <section>
+    <div class="section-head"><h2 id="feedTitle">Latest research</h2><span id="cutoff" class="muted"></span></div><span id="notice" class="provider-note" aria-live="polite"></span>
+    <div id="state" class="card feed-state">Loading recent papers…</div>
+    <div id="papers" class="paper-grid" hidden></div>
+  </section>
+</main>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="/app/app.js"></script>
+<script type="module">
+import { TOPIC_NAMES, isWithinRollingWindow } from "/lib/topics.js";
+
+const T = window.TS;
+const esc = T.esc;
+const params = new URLSearchParams(location.search);
+let selected = TOPIC_NAMES.includes(params.get("topic")) ? params.get("topic") : TOPIC_NAMES[0];
+const user = await T.getUserOptional();
+const profile = await T.loadProfile(user);
+T.renderNav("Research", profile);
+
+function paintTopics() {
+  const host = document.getElementById("topics");
+  host.innerHTML = TOPIC_NAMES.map((topic) => `<button type="button" class="${topic === selected ? "active" : ""}" aria-pressed="${topic === selected}" data-topic="${esc(topic)}">${esc(topic)}</button>`).join("");
+  host.querySelectorAll("button").forEach((button) => button.onclick = () => {
+    selected = button.dataset.topic;
+    const url = new URL(location.href);
+    url.searchParams.set("topic", selected);
+    history.replaceState(null, "", url);
+    T.track("filter_applied", { filter_kind: "topic", surface: "research" });
+    paintTopics();
+    loadFeed();
+  });
+}
+
+function paperCard(paper) {
+  let target = "#";
+  try { const url = new URL(paper.canonical_url || paper.url); if (["http:", "https:"].includes(url.protocol)) target = url.href; } catch (_) {}
+  const provider = paper.source_label || paper.publisher || paper.provider || "OpenAlex";
+  return `<a class="card paper" href="${esc(target)}" target="_blank" rel="noopener noreferrer">
+    <div class="paper-meta">${esc(paper.content_type_label || "Research paper")} · ${esc(provider)}</div>
+    <h2>${esc(paper.title)}</h2>
+    <p>${esc(paper.summary || "No abstract is available; open the source for details.")}</p>
+    <div class="paper-meta">${paper.published ? esc(new Date(paper.published).toLocaleDateString()) : ""}${paper.citations ? ` · ${paper.citations} citations` : ""}</div>
+    <div class="source-link">Open paper at source ↗</div>
+  </a>`;
+}
+
+async function loadFeed() {
+  const state = document.getElementById("state");
+  const grid = document.getElementById("papers");
+  const notice = document.getElementById("notice");
+  document.getElementById("feedTitle").textContent = selected;
+  state.hidden = false;
+  state.textContent = "Loading recent papers…";
+  notice.textContent = "";
+  grid.hidden = true;
+  try {
+    const response = await fetch(`/api/research?topic=${encodeURIComponent(selected)}&limit=24&sort=recent`);
+    if (!response.ok) throw new Error("request");
+    const data = await response.json();
+    if (data.topic !== selected) throw new Error("topic_mismatch");
+    if (data.cutoff) document.getElementById("cutoff").textContent = `Since ${new Date(data.cutoff).toLocaleDateString()}`;
+    if (data.provider_status === "partial") notice.textContent = "OpenAlex returned a partial response; results may be incomplete.";
+    const papers = (Array.isArray(data.papers) ? data.papers : []).filter((paper) =>
+      paper.topic === selected && paper.content_type === "paper" && paper.freshness_verified === true &&
+      isWithinRollingWindow(paper.published)
+    );
+    if (!papers.length) {
+      state.innerHTML = `<b>No recent papers found.</b><br>The provider returned no eligible, dated results for this topic. Try another topic or check again later.`;
+      return;
+    }
+    grid.innerHTML = papers.map(paperCard).join("");
+    grid.hidden = false;
+    state.hidden = true;
+    grid.querySelectorAll("a").forEach((link) => link.addEventListener("click", () => T.track("article_link_out", { surface: "research", source_id: "openalex" })));
+  } catch {
+    T.track("content_load_failed", { resource: "research", fallback: "none" });
+    state.innerHTML = `<b>Research could not be loaded.</b><br>The provider may be temporarily unavailable.<br><button type="button" class="btn retry">Try again</button>`;
+    state.querySelector("button").onclick = loadFeed;
+  }
+}
+
+paintTopics();
+loadFeed();
+</script>
+</body>
+</html>

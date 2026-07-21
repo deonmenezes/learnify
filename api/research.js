@@ -24,8 +24,9 @@
 // CORS open. Edge-cached ~30m with stale-while-revalidate so it stays fresh + fast.
 
 import { readFileSync } from "node:fs";
-import { collectPapers } from "../lib/papers.js";
+import { collectPapers, collectTopicPapers } from "../lib/papers.js";
 import { isRelevantRaw } from "../lib/research-shared.js";
+import { TOPIC_NAMES, findTopic, rollingCutoff } from "../lib/topics.js";
 
 // Precomputed per-paper enrichment (headline/hook/cover) from scripts/enrich.mjs.
 // Same readFileSync-try/catch convention as the enriched.json article cache —
@@ -175,6 +176,17 @@ function toResearch(p, enr, base) {
     url: String(p.link || "").trim(),
     original_title: rawTitle,
     image: cover ? `${base}${cover}` : null,
+    published: p.published || null,
+    topic: p.topic || null,
+    source: p.source || "Research",
+    source_id: p.source_id || "research",
+    source_label: p.source_label || p.source || "Research",
+    provider: p.provider || p.source || "Research",
+    publisher: p.publisher || null,
+    content_type: "paper",
+    content_type_label: p.content_type_label || "Research paper",
+    canonical_url: p.canonical_url || String(p.link || "").trim(),
+    freshness_verified: p.freshness_verified === true,
   };
 }
 
@@ -186,13 +198,22 @@ export default async function handler(req, res) {
   res.setHeader("Access-Control-Allow-Headers", "Content-Type");
   res.setHeader("Cache-Control", "public, s-maxage=1800, stale-while-revalidate=3600");
   if (req.method === "OPTIONS") { res.status(204).end(); return; }
+  const topicValue = str(req.query?.topic);
+  const topic = topicValue ? findTopic(topicValue) : null;
+  if (topicValue && !topic) {
+    res.setHeader("Cache-Control", "no-store");
+    return res.status(400).json({ error: "Unknown topic", topics: TOPIC_NAMES });
+  }
+  const requestedLimit = parseInt(str(req.query?.limit), 10);
+  const topicLimit = Number.isNaN(requestedLimit) ? 24 : Math.max(1, Math.min(50, requestedLimit));
+  const now = new Date();
 
   const category = str(req.query?.category).toLowerCase();
   const genre = str(req.query?.genre).toLowerCase();
   // Default to FRESH (newest-first). The app requests sort=recent; "trending"
   // (most-cited) is opt-in only, since most-cited skews old + medical.
   const sort = str(req.query?.sort) || "recent";
-  const limit = parseInt(str(req.query?.limit), 10);
+  const limit = topic ? topicLimit : requestedLimit;
 
   // Absolute origin for cover-image URLs — built exactly like api/articles.js.
   const proto = (req.headers["x-forwarded-proto"] || "https").split(",")[0];
@@ -200,13 +221,24 @@ export default async function handler(req, res) {
   const base = host ? `${proto}://${host}` : "";
 
   let papers = [];
+  let providerStatus = "ok";
   try {
-    const raw = await collectPapers();
-    const enriched = loadPapersEnriched();
-    papers = raw.filter(isRelevantRaw).map((p) => toResearch(p, enriched[p.id], base)).filter((p) => p.title && p.url);
-  } catch (err) {
-    // Never 500 the tab — the app has its own bundled-sample fallback.
-    return res.status(200).json({ generated_at: new Date().toISOString(), count: 0, papers: [], error: String(err) });
+    if (topic) {
+      const result = await collectTopicPapers(topic.name, { now, limit: topicLimit });
+      providerStatus = result.providerStatus;
+      papers = result.papers.map((paper) => toResearch(paper, null, base));
+    } else {
+      const raw = await collectPapers();
+      const enriched = loadPapersEnriched();
+      papers = raw.filter(isRelevantRaw).map((paper) => toResearch(paper, enriched[paper.id], base));
+    }
+    papers = papers.filter((paper) => paper.title && paper.url);
+  } catch (_) {
+    if (topic) {
+      res.setHeader("Cache-Control", "no-store");
+      return res.status(502).json({ error: "Research provider unavailable", topic: topic.name, topics: TOPIC_NAMES });
+    }
+    return res.status(200).json({ generated_at: new Date().toISOString(), count: 0, papers: [], error: "Research provider unavailable" });
   }
 
   if (category) papers = papers.filter((p) => p.category.toLowerCase() === category);
@@ -214,7 +246,7 @@ export default async function handler(req, res) {
   papers.sort((a, b) => {
     if (sort === "citations") return b.citations - a.citations;
     if (sort === "trending") return b.trend - a.trend;
-    return 0; // "recent"/"fresh" (default): collectPapers already newest-first
+    return (b.published || "").localeCompare(a.published || "");
   });
   if (!Number.isNaN(limit)) papers = papers.slice(0, Math.max(0, limit));
 
@@ -222,5 +254,10 @@ export default async function handler(req, res) {
     generated_at: new Date().toISOString(),
     count: papers.length,
     papers,
+    topic: topic?.name || null,
+    topics: TOPIC_NAMES,
+    cutoff: rollingCutoff(now).toISOString(),
+    provider: topic ? "OpenAlex" : "arXiv and OpenAlex",
+    provider_status: providerStatus,
   });
 }

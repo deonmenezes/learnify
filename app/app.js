@@ -146,7 +146,7 @@
   function renderNav(active, profile) {
     const el = $("#nav"); if (!el) return;
     const links = [["Latest", "/app/"], ["AI", "/app/?cat=AI"], ["Startups", "/app/?cat=Startups"],
-      ["DevTools", "/app/?cat=DevTools"], ["Research", "/app/?cat=Research"], ["Saved", "/app/saved.html"], ["Learn", "/app/learn.html"]];
+      ["DevTools", "/app/?cat=DevTools"], ["Research", "/app/research.html"], ["Saved", "/app/saved.html"], ["Learn", "/app/learn.html"]];
     const av = profile && profile.avatar_url;
     const guest = !profile || profile.guest;
     el.className = "nav";
