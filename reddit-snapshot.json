@@ -1,36 +1,34 @@
 {
-  "generated_at": "2026-07-21T11:15:28.717Z",
+  "generated_at": "2026-07-21T12:59:53.807Z",
   "subs": [
     "MachineLearning",
-    "longevity",
-    "gadgets",
+    "singularity",
+    "SkincareAddiction",
     "startups",
     "bodyweightfitness",
     "science",
     "investing",
     "nutrition",
-    "singularity",
+    "gadgets",
+    "longevity",
     "Futurology",
-    "SkincareAddiction",
     "LocalLLaMA",
     "running",
     "robotics",
     "cybersecurity",
     "netsec",
-    "artificial",
-    "programming"
+    "artificial"
   ],
   "count": 36,
   "by_category": {
     "Startups & Funding": 4,
     "Fitness": 9,
+    "Skincare": 2,
     "AI / ML": 8,
     "Science": 7,
     "Hardware & Gadgets": 3,
-    "Skincare": 1,
     "Robotics": 1,
-    "Security": 2,
-    "Coding & Dev Tools": 1
+    "Security": 2
   },
   "articles": [
     {
@@ -105,6 +103,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/bodyweightfitness this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v1kp4t",
+      "title": "[Misc] I’m never buying cleansing oil again",
+      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1v1kp4t/misc_im_never_buying_cleansing_oil_again/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/SkincareAddiction · community knowledge",
+      "content_type": "post",
+      "author": "u/Fun-Internal9671 · r/SkincareAddiction",
+      "handle": "SkincareAddiction",
+      "org": "r/SkincareAddiction",
+      "platform": "reddit",
+      "published": "2026-07-20T12:53:22.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Skincare",
+      "category": "Skincare",
+      "genre": "Skincare",
+      "categories": [
+        "Reddit",
+        "Skincare",
+        "r/SkincareAddiction"
+      ],
+      "summary": "I ran out of cleansing oil and took my makeup off with my moisturizer instead. I thought it was going to do nothing or leave me greasy but it melted everything off so well that I don’t think I’m buying cleansing oil again. The one I like is expensive and I’m broke so when I ran out I really didn’t want to replace it.…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/SkincareAddiction this week"
       ],
       "metrics": {
         "likes": 0,
@@ -224,6 +261,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/investing this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v1aie6",
+      "title": "Apparently the Jacobian conjecture was just proven false by Fable",
+      "link": "https://www.reddit.com/r/singularity/comments/1v1aie6/apparently_the_jacobian_conjecture_was_just/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/singularity · community knowledge",
+      "content_type": "post",
+      "author": "u/TFenrir · r/singularity",
+      "handle": "singularity",
+      "org": "r/singularity",
+      "platform": "reddit",
+      "published": "2026-07-20T03:44:03.000Z",
+      "image": "https://preview.redd.it/7q16nwbb3beh1.png?width=140&height=100&auto=webp&s=30a7702f7ed983e62b882291556c31a81f02d1d0",
+      "thumbnail": "https://preview.redd.it/7q16nwbb3beh1.png?width=140&height=100&auto=webp&s=30a7702f7ed983e62b882291556c31a81f02d1d0",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/singularity"
+      ],
+      "summary": "https://x.com/i/status/2079028340955197566 &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/singularity this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1359,85 +1436,6 @@
         "r/artificial"
       ],
       "summary": "Xi Jinping calls for more open-source AI: 'China is ready to be more open'",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/artificial this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uzadz5",
-      "title": "Maintaining the code of the man who wrote \"How To Write Unmaintainable Code\"",
-      "link": "https://www.reddit.com/r/programming/comments/1uzadz5/maintaining_the_code_of_the_man_who_wrote_how_to/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/programming · community knowledge",
-      "content_type": "post",
-      "author": "u/Odd-Flamingo-6211 · r/programming",
-      "handle": "programming",
-      "org": "r/programming",
-      "platform": "reddit",
-      "published": "2026-07-17T19:57:00.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Coding & Dev Tools",
-      "category": "Coding & Dev Tools",
-      "genre": "Coding & Dev Tools",
-      "categories": [
-        "Reddit",
-        "Coding & Dev Tools",
-        "r/programming"
-      ],
-      "summary": "Today I accidentally became the maintainer of software that was already almost three decades old: reviving a 1990s Java utility to keep the last PAD submitter alive in 2026. I was looking for a way to submit my AI app RiverScript to old desktop software directories and ended up digging through the long-forgotten world…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/programming this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uz66nv",
-      "title": "Tesla's AI can be defeated by a simple doll",
-      "link": "https://www.reddit.com/r/artificial/comments/1uz66nv/teslas_ai_can_be_defeated_by_a_simple_doll/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/artificial · community knowledge",
-      "content_type": "post",
-      "author": "u/ImaginaryRea1ity · r/artificial",
-      "handle": "artificial",
-      "org": "r/artificial",
-      "platform": "reddit",
-      "published": "2026-07-17T17:24:49.000Z",
-      "image": "https://external-preview.redd.it/dzVxMnBpZXhxdGRoMdgxtX1n2fgECCfmpIcZnaxxLJ4Tt8wnyCcbjfrbbwPJ.png?width=640&crop=smart&auto=webp&s=de4da846e5120b155cbb935d65831f993122984d",
-      "thumbnail": "https://external-preview.redd.it/dzVxMnBpZXhxdGRoMdgxtX1n2fgECCfmpIcZnaxxLJ4Tt8wnyCcbjfrbbwPJ.png?width=640&crop=smart&auto=webp&s=de4da846e5120b155cbb935d65831f993122984d",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/artificial"
-      ],
-      "summary": "If you want an AI app which actually works, try AI Desktop 98 . &#32;",
       "is_social": true,
       "report_worthy": true,
       "worthiness_score": 62,
