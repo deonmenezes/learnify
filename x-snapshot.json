@@ -1,15 +1,58 @@
 {
-  "generated_at": "2026-07-21T20:03:17.819Z",
+  "generated_at": "2026-07-21T21:42:21.419Z",
   "handles": [
+    "AnthropicAI",
+    "OpenAI",
     "nvidia",
     "GoogleDeepMind",
     "elonmusk",
     "gdb",
-    "AnthropicAI",
-    "OpenAI"
+    "AIatMeta"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2079658951264920020",
+      "title": "We're partnering with @huggingface to investigate an unprecedented security incident. Cyber-capable OpenAI models compromised Hugging Face production during a benchmark evaluation. Sharing…",
+      "link": "https://x.com/OpenAI/status/2079658951264920020",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-07-21T20:05:06.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Research"
+      ],
+      "summary": "We're partnering with @huggingface to investigate an unprecedented security incident. Cyber-capable OpenAI models compromised Hugging Face production during a benchmark evaluation. Sharing preliminary findings to help defenders understand emerging risks:",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 93,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (models, benchmark)",
+        "business signal (partnering)",
+        "high engagement (2.6K likes)"
+      ],
+      "metrics": {
+        "likes": 2649,
+        "retweets": 287,
+        "replies": 308,
+        "likes_h": "2.6K"
+      },
+      "engagement": 3531,
+      "hot": false
+    },
     {
       "id": "x_2079653801502380543",
       "title": "It even outperforms 3 Flash on many agentic and coding benchmarks. 3.5 Flash-Lite is rolling out in the @GeminiApp and @Google Search, with API access in @GoogleAIStudio and @AndroidStudio. Find out…",
@@ -34,7 +77,7 @@
       "summary": "It even outperforms 3 Flash on many agentic and coding benchmarks. 3.5 Flash-Lite is rolling out in the @GeminiApp and @Google Search, with API access in @GoogleAIStudio and @AndroidStudio. Find out more → https://goo.gle/4yyNkoi",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 76,
+      "worthiness_score": 78,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -45,12 +88,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 14,
-        "retweets": 3,
-        "replies": 3,
-        "likes_h": "14"
+        "likes": 28,
+        "retweets": 4,
+        "replies": 4,
+        "likes_h": "28"
       },
-      "engagement": 23,
+      "engagement": 40,
       "hot": false
     },
     {
@@ -77,7 +120,7 @@
       "summary": "Gemini 3.5 Flash-Lite is our fast, cost-effective model for scaling repetitive use cases like sorting tickets and extracting data. Watch how it performs against 3.5 Flash on a series of high volume tasks ↓",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 76,
+      "worthiness_score": 78,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -85,12 +128,53 @@
         "tech substance (model, gemini)"
       ],
       "metrics": {
-        "likes": 76,
-        "retweets": 10,
-        "replies": 15,
-        "likes_h": "76"
+        "likes": 189,
+        "retweets": 18,
+        "replies": 29,
+        "likes_h": "189"
       },
-      "engagement": 111,
+      "engagement": 254,
+      "hot": false
+    },
+    {
+      "id": "x_2079647251677536324",
+      "title": "We’re sharing new research with @apolloaievals on reward-seeking—when models follow what they believe a grader rewards rather than what users or developers want—and a new method, Contrastive SDF, for…",
+      "link": "https://x.com/OpenAI/status/2079647251677536324",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-07-21T19:18:37.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Research"
+      ],
+      "summary": "We’re sharing new research with @apolloaievals on reward-seeking—when models follow what they believe a grader rewards rather than what users or developers want—and a new method, Contrastive SDF, for measuring how strongly such beliefs shape behavior. https://alignment.openai.com/measuring-reward-seeking/",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 89,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (models, research)",
+        "links to a source"
+      ],
+      "metrics": {
+        "likes": 742,
+        "retweets": 77,
+        "replies": 61,
+        "likes_h": "742"
+      },
+      "engagement": 957,
       "hot": false
     },
     {
@@ -117,7 +201,7 @@
       "summary": "NVIDIA Spectrum-6, a 102.4-terabit-per-second Ethernet switch built for the Vera Rubin platform, is now arriving across the world's gigascale AI factories. @CoreWeave, @Microsoft, @NebiusAI @SpaceXAI and @Tesla are among the first to bring in Spectrum-6 to accelerate their AI",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 73,
+      "worthiness_score": 74,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -125,12 +209,12 @@
         "tech substance (platform)"
       ],
       "metrics": {
-        "likes": 183,
-        "retweets": 16,
-        "replies": 19,
-        "likes_h": "183"
+        "likes": 224,
+        "retweets": 25,
+        "replies": 21,
+        "likes_h": "224"
       },
-      "engagement": 234,
+      "engagement": 295,
       "hot": false
     },
     {
@@ -157,7 +241,7 @@
       "summary": "🚀 The NVIDIA Vera Rubin platform is here, with 10x better performance per watt. ➡️ The NVIDIA ecosystem, including @CoreWeave, @GoogleCloud, @Microsoft, and @Oracle Cloud, are standing up NVIDIA Vera Rubin NVL72 to deliver the lowest token cost for the agentic era. ➡️ NVIDIA",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 81,
+      "worthiness_score": 82,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -166,12 +250,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 151,
-        "retweets": 15,
-        "replies": 16,
-        "likes_h": "151"
+        "likes": 242,
+        "retweets": 26,
+        "replies": 19,
+        "likes_h": "242"
       },
-      "engagement": 197,
+      "engagement": 313,
       "hot": false
     },
     {
@@ -198,7 +282,7 @@
       "summary": "It’s much better at writing production-ready code faster without getting stuck in loops. Plus, it excels at multimodal tasks like analyzing charts, understanding documents, and report drafting. 3.6 Flash is rolling out in the @GeminiApp and developers can start building in",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 64,
+      "worthiness_score": 65,
       "sentiment": "positive",
       "sentiment_score": 1,
       "reasons": [
@@ -208,12 +292,12 @@
         "tech substance (multimodal)"
       ],
       "metrics": {
-        "likes": 57,
-        "retweets": 5,
+        "likes": 67,
+        "retweets": 6,
         "replies": 6,
-        "likes_h": "57"
+        "likes_h": "67"
       },
-      "engagement": 73,
+      "engagement": 85,
       "hot": false
     },
     {
@@ -248,12 +332,12 @@
         "tech substance (gemini)"
       ],
       "metrics": {
-        "likes": 356,
-        "retweets": 34,
-        "replies": 35,
-        "likes_h": "356"
+        "likes": 408,
+        "retweets": 40,
+        "replies": 38,
+        "likes_h": "408"
       },
-      "engagement": 459,
+      "engagement": 526,
       "hot": false
     },
     {
@@ -280,7 +364,7 @@
       "summary": "10x more tokens per megawatt. CoreWeave has the first measured performance of NVIDIA Vera Rubin NVL72, showing 10x improvement in tokens per second per megawatt on DeepSeek-R1 compared to Blackwell.",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 85,
+      "worthiness_score": 86,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -289,12 +373,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 431,
-        "retweets": 53,
-        "replies": 24,
-        "likes_h": "431"
+        "likes": 607,
+        "retweets": 76,
+        "replies": 27,
+        "likes_h": "607"
       },
-      "engagement": 561,
+      "engagement": 786,
       "hot": false
     },
     {
@@ -321,7 +405,7 @@
       "summary": "Gemini 3.6 Flash and 3.5 Flash-Lite are rolling out now in the @GeminiApp. Developers can start building via the API in @GoogleAIStudio and @AndroidStudio. Gemini 3.5 Flash Cyber will be exclusively available via CodeMender soon as part of a limited-access pilot program. Find",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 80,
+      "worthiness_score": 81,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -331,12 +415,12 @@
         "tech substance (gemini, api)"
       ],
       "metrics": {
-        "likes": 196,
-        "retweets": 18,
-        "replies": 11,
-        "likes_h": "196"
+        "likes": 220,
+        "retweets": 23,
+        "replies": 12,
+        "likes_h": "220"
       },
-      "engagement": 243,
+      "engagement": 278,
       "hot": false
     },
     {
@@ -370,15 +454,15 @@
         "report-worthy",
         "announcement language (rolling out)",
         "tech substance (models, gemini, agents)",
-        "high engagement (1.9K likes)"
+        "high engagement (2.2K likes)"
       ],
       "metrics": {
-        "likes": 1941,
-        "retweets": 301,
-        "replies": 181,
-        "likes_h": "1.9K"
+        "likes": 2159,
+        "retweets": 359,
+        "replies": 201,
+        "likes_h": "2.2K"
       },
-      "engagement": 2724,
+      "engagement": 3078,
       "hot": false
     },
     {
@@ -452,15 +536,15 @@
         "report-worthy",
         "tech substance (grok)",
         "links to a source",
-        "high engagement (8.4K likes)"
+        "high engagement (9.2K likes)"
       ],
       "metrics": {
-        "likes": 8437,
-        "retweets": 1540,
-        "replies": 1876,
-        "likes_h": "8.4K"
+        "likes": 9202,
+        "retweets": 1843,
+        "replies": 2123,
+        "likes_h": "9.2K"
       },
-      "engagement": 13393,
+      "engagement": 15011,
       "hot": true
     },
     {
@@ -495,17 +579,17 @@
         "casual tone (this)",
         "tech substance (tokens)",
         "links to a source",
-        "high engagement (927 likes)",
+        "high engagement (4.1K likes)",
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 927,
-        "retweets": 77,
-        "replies": 846,
-        "likes_h": "927"
+        "likes": 4144,
+        "retweets": 1028,
+        "replies": 5637,
+        "likes_h": "4.1K"
       },
-      "engagement": 1927,
-      "hot": false
+      "engagement": 11837,
+      "hot": true
     },
     {
       "id": "x_2079256626771665098",
@@ -539,15 +623,15 @@
         "casual tone (this)",
         "tech substance (claude, research)",
         "links to a source",
-        "high engagement (3.2K likes)"
+        "high engagement (7.6K likes)"
       ],
       "metrics": {
-        "likes": 3222,
-        "retweets": 370,
-        "replies": 298,
-        "likes_h": "3.2K"
+        "likes": 7588,
+        "retweets": 912,
+        "replies": 630,
+        "likes_h": "7.6K"
       },
-      "engagement": 4260,
+      "engagement": 10042,
       "hot": true
     },
     {
@@ -626,12 +710,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 521,
-        "retweets": 84,
+        "likes": 527,
+        "retweets": 86,
         "replies": 50,
-        "likes_h": "521"
+        "likes_h": "527"
       },
-      "engagement": 739,
+      "engagement": 749,
       "hot": false
     },
     {
@@ -666,12 +750,12 @@
         "tech substance (agents, inference, training)"
       ],
       "metrics": {
-        "likes": 464,
+        "likes": 465,
         "retweets": 46,
         "replies": 50,
-        "likes_h": "464"
+        "likes_h": "465"
       },
-      "engagement": 606,
+      "engagement": 607,
       "hot": false
     },
     {
@@ -707,12 +791,12 @@
         "high engagement (3.9K likes)"
       ],
       "metrics": {
-        "likes": 3907,
-        "retweets": 372,
-        "replies": 239,
+        "likes": 3928,
+        "retweets": 374,
+        "replies": 251,
         "likes_h": "3.9K"
       },
-      "engagement": 4890,
+      "engagement": 4927,
       "hot": true
     },
     {
@@ -787,15 +871,15 @@
         "report-worthy",
         "tech substance (gpt)",
         "links to a source",
-        "high engagement (2.2K likes)"
+        "high engagement (2.3K likes)"
       ],
       "metrics": {
-        "likes": 2247,
-        "retweets": 166,
-        "replies": 311,
-        "likes_h": "2.2K"
+        "likes": 2283,
+        "retweets": 178,
+        "replies": 341,
+        "likes_h": "2.3K"
       },
-      "engagement": 2890,
+      "engagement": 2980,
       "hot": false
     },
     {
@@ -870,12 +954,12 @@
         "high engagement (1K likes)"
       ],
       "metrics": {
-        "likes": 1017,
-        "retweets": 71,
-        "replies": 150,
+        "likes": 1028,
+        "retweets": 74,
+        "replies": 153,
         "likes_h": "1K"
       },
-      "engagement": 1309,
+      "engagement": 1329,
       "hot": false
     },
     {
@@ -1112,12 +1196,12 @@
         "high engagement (2K likes)"
       ],
       "metrics": {
-        "likes": 2011,
-        "retweets": 129,
-        "replies": 195,
+        "likes": 2022,
+        "retweets": 132,
+        "replies": 198,
         "likes_h": "2K"
       },
-      "engagement": 2464,
+      "engagement": 2484,
       "hot": false
     },
     {
@@ -1193,12 +1277,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 265,
-        "retweets": 15,
-        "replies": 33,
-        "likes_h": "265"
+        "likes": 270,
+        "retweets": 16,
+        "replies": 35,
+        "likes_h": "270"
       },
-      "engagement": 328,
+      "engagement": 337,
       "hot": false
     },
     {
@@ -1235,99 +1319,13 @@
         "high engagement (3.1K likes)"
       ],
       "metrics": {
-        "likes": 3054,
-        "retweets": 365,
-        "replies": 343,
+        "likes": 3079,
+        "retweets": 367,
+        "replies": 348,
         "likes_h": "3.1K"
       },
-      "engagement": 4127,
-      "hot": true
-    },
-    {
-      "id": "x_2077446718728425686",
-      "title": "Introducing GPT-Red An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment.…",
-      "link": "https://x.com/OpenAI/status/2077446718728425686",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-07-15T17:34:29.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product launch",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Product launch"
-      ],
-      "summary": "Introducing GPT-Red An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment. https://openai.com/index/unlocking-self-improvement-gpt-red/",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 100,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "announcement language (introducing)",
-        "tech substance (models, gpt)",
-        "links to a source",
-        "high engagement (8.4K likes)"
-      ],
-      "metrics": {
-        "likes": 8431,
-        "retweets": 799,
-        "replies": 500,
-        "likes_h": "8.4K"
-      },
-      "engagement": 10529,
-      "hot": true
-    },
-    {
-      "id": "x_2077430470510526635",
-      "title": "You don’t have to wait. Merch inspired by research &amp; deployment. Available until sold out. https://openai.com/supply/",
-      "link": "https://x.com/OpenAI/status/2077430470510526635",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-07-15T16:29:55.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Research"
-      ],
-      "summary": "You don’t have to wait. Merch inspired by research &amp; deployment. Available until sold out. https://openai.com/supply/",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 72,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "casual tone (merch)",
-        "tech substance (research)",
-        "links to a source",
-        "high engagement (3.2K likes)"
-      ],
-      "metrics": {
-        "likes": 3245,
-        "retweets": 121,
-        "replies": 314,
-        "likes_h": "3.2K"
-      },
-      "engagement": 3801,
-      "hot": true
+      "engagement": 4161,
+      "hot": false
     }
   ]
 }
