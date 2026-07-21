@@ -1,36 +1,74 @@
 {
-  "generated_at": "2026-07-21T17:00:41.208Z",
+  "generated_at": "2026-07-21T18:22:08.500Z",
   "subs": [
     "MachineLearning",
-    "science",
-    "netsec",
+    "LocalLLaMA",
+    "running",
     "startups",
     "bodyweightfitness",
     "SkincareAddiction",
+    "netsec",
+    "science",
     "investing",
     "singularity",
     "nutrition",
     "gadgets",
     "longevity",
     "Futurology",
-    "LocalLLaMA",
-    "running",
     "robotics",
-    "cybersecurity",
-    "artificial"
+    "cybersecurity"
   ],
   "count": 36,
   "by_category": {
+    "Fitness": 10,
     "Startups & Funding": 4,
-    "Fitness": 9,
     "Skincare": 2,
-    "AI / ML": 7,
+    "AI / ML": 6,
     "Security": 3,
     "Science": 7,
     "Hardware & Gadgets": 3,
     "Robotics": 1
   },
   "articles": [
+    {
+      "id": "reddit_1v24ouo",
+      "title": "Any solutions for long term air quality concerns when outdoor running?",
+      "link": "https://www.reddit.com/r/running/comments/1v24ouo/any_solutions_for_long_term_air_quality_concerns/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/running · community knowledge",
+      "content_type": "post",
+      "author": "u/addicted_2_oil · r/running",
+      "handle": "running",
+      "org": "r/running",
+      "platform": "reddit",
+      "published": "2026-07-21T01:48:00.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/running"
+      ],
+      "summary": "Hey everyone! I&#39;m located in a major US city and prefer running outdoors. Local gyms have limited hours and I quite frankly just hate treadmills. There are no indoor tracks nearby for some reason. That said, over the years air quality has gotten consistently worse. Summer is of course an extra bad for air…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/running this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1v21dpg",
       "title": "Girlfriend expecting equal equity in a startup which I started even before knowing her. I will not promote.",
@@ -1402,46 +1440,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/netsec this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uze14i",
-      "title": "update on the browser extension that fact checks YouTube videos AS YOU WATCH",
-      "link": "https://www.reddit.com/r/artificial/comments/1uze14i/update_on_the_browser_extension_that_fact_checks/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/artificial · community knowledge",
-      "content_type": "post",
-      "author": "u/userpostingcontent · r/artificial",
-      "handle": "artificial",
-      "org": "r/artificial",
-      "platform": "reddit",
-      "published": "2026-07-17T22:19:46.000Z",
-      "image": "https://external-preview.redd.it/NzJuZmdzM2E2dmRoMXMQCCyeFjD0o4S8k9KRHeLITaCK6ZIGE2pGZgDvsKdb.png?width=640&crop=smart&auto=webp&s=1535c27cd5e3f4dc2cfbeee846043d203847c3bc",
-      "thumbnail": "https://external-preview.redd.it/NzJuZmdzM2E2dmRoMXMQCCyeFjD0o4S8k9KRHeLITaCK6ZIGE2pGZgDvsKdb.png?width=640&crop=smart&auto=webp&s=1535c27cd5e3f4dc2cfbeee846043d203847c3bc",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/artificial"
-      ],
-      "summary": "HI all, First, thank you so much for your feedback and interest in my project PopUpFactCheck. When I first posted about this July 1 , I did not expect the reception it would get and I am so thankful to y&#39;all. Some updates. You asked for Firefox, and it is now a Firefox add-on . It has new features. For example,…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/artificial this week"
       ],
       "metrics": {
         "likes": 0,

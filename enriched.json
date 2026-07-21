@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-21T16:56:14.229Z",
+  "generated_at": "2026-07-21T18:17:41.177Z",
   "model": "nvidia/nemotron-3-super-120b-a12b",
-  "count": 4210,
+  "count": 4255,
   "items": {
     "78530": {
       "title": "Thinner wires, faster electrons: Quantum material challenges copper at chip scale",
@@ -480,14 +480,6 @@
       "media_credit": "Photo: ITU Pictures / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/42121221@N07/30495671441"
     },
-    "1c518n8": {
-      "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
-      "t": 1783611705253,
-      "media_url": "https://live.staticflickr.com/2284/2263161375_820c5a83c2_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: deltaMike / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/86078640@N00/2263161375"
-    },
     "maq2y5": {
       "title": "How to stop Meta’s AI image generator from using your Instagram photos",
       "t": 1783619934996,
@@ -575,22 +567,6 @@
       "media_kind": "stock",
       "media_credit": "Photo: Ministerie van Buitenlandse Zaken / BY-SA 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/78392295@N06/52690864614"
-    },
-    "vz233a": {
-      "title": "Character.AI enters the microdrama arena with its own productions, but there’s a twist",
-      "t": 1783633050473,
-      "media_url": "https://live.staticflickr.com/5806/30466646812_ef581bf8de_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: ITU Pictures / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/42121221@N07/30466646812"
-    },
-    "12d9udp": {
-      "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
-      "t": 1783633050474,
-      "media_url": "https://live.staticflickr.com/3013/2302010811_df064e3d44_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: brewbooks / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/93452909@N00/2302010811"
     },
     "f3hybn": {
       "title": "OpenAI launches its new family of models with GPT-5.6",
@@ -850,146 +826,6 @@
       "media_kind": "stock",
       "media_credit": "Photo: cohærence * / BY-SA 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/61034561@N00/625533"
-    },
-    "1pa30gr": {
-      "title": "We scaled PgBouncer to 4x throughput",
-      "t": 1783789259942,
-      "image": "https://clickhouse.com/_next/image?url=%2Fuploads%2FScaling_Pgbouncer_in_Click_House_ed1f77793f.jpg&w=1200&h=630&q=75",
-      "media_url": "https://live.staticflickr.com/2681/4140950940_186aec55ba.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950940"
-    },
-    "bfh0al": {
-      "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
-      "t": 1783789259942,
-      "image": "https://shipthatcode.com/opengraph-image?e5981ff808b13a14",
-      "media_url": "https://live.staticflickr.com/2762/4140950690_e8e7fa21f4.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950690"
-    },
-    "1bcdx4m": {
-      "title": "FCC approves test of space mirror to light night sky",
-      "t": 1783789259942,
-      "image": "https://images.theconversation.com/files/747250/original/file-20260710-57-3s3smh.jpg?ixlib=rb-4.1.0&rect=0%2C134%2C2400%2C1200&q=45&auto=format&w=1356&h=668&fit=crop",
-      "media_url": "https://live.staticflickr.com/2762/4140950690_e8e7fa21f4.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950690"
-    },
-    "sp6q6z": {
-      "title": "Ghost Font: A font that humans can read but AI cannot",
-      "t": 1783789259942,
-      "image": "https://static.mixfont.com/assets/20260711-092742-ghostfont-og-j3qj8h8p.webp",
-      "media_url": "https://live.staticflickr.com/1061/686562697_5d86ba6d67.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Wesley Clouden / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/40622964@N00/686562697"
-    },
-    "16kvx3m": {
-      "title": "My phone doesn't go anywhere without this $10 accessory; it's better than a headphone jack",
-      "t": 1783789260645,
-      "media_url": "https://live.staticflickr.com/1230/688744553_2d8ec1ac97.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: DefeatEd2k4 / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/91104597@N00/688744553"
-    },
-    "1864tic": {
-      "title": "A robot that reads bacteria by touch, without staining or chemical labels",
-      "t": 1783789260737,
-      "media_url": "https://live.staticflickr.com/7146/6715813905_5cef3c3aa9_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: umseas / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/26835854@N07/6715813905"
-    },
-    "1ywpnrk": {
-      "title": "Hotspot temperature sensor on Nvidia's Blackwell gaming GPUs is still accessible if you have access to Nvidia's internal MODS tool — Nvidia RTX 5070 Ti caught throttling at 107°C over poor TIM application",
-      "t": 1783789260787,
-      "media_url": "https://live.staticflickr.com/2590/3706444821_e124c0b6c7_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: ChrisDag / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/8558461@N08/3706444821"
-    },
-    "xl5iyf": {
-      "title": "World's largest whale graveyard discovered by Chinese sub",
-      "t": 1783789260939,
-      "media_url": "https://live.staticflickr.com/2776/5719882299_57851fd0cf_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Vegetarian-Vegan-Bodybuilding-Info / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/62819552@N04/5719882299"
-    },
-    "audv12": {
-      "title": "Tiny worms reveal backup circuits that keep survival reflexes from failing",
-      "t": 1783789261159,
-      "media_url": "https://live.staticflickr.com/8188/8122512954_fa3b46670d_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: SFU - Communications & Marketing / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/45160304@N02/8122512954"
-    },
-    "5u23a8": {
-      "title": "The upcoming Googlebook is a quiet confession that Chromebooks never truly worked",
-      "t": 1783789261194,
-      "media_url": "https://live.staticflickr.com/7286/8741529633_1cc853b6e9_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: osde8info / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/8764442@N07/8741529633"
-    },
-    "z7f8k8": {
-      "title": "How to watch Argentina vs Wales for FREE: Live streams and TV channels for Nations Championship 2026",
-      "t": 1783789261403,
-      "media_url": "https://live.staticflickr.com/1157/1133336556_86789fa560_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: HenryLeongHimWoh / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/19517908@N00/1133336556"
-    },
-    "10o5vb3": {
-      "title": "How to watch Married at First Sight US season 20 from anywhere in the world – stream dating series online",
-      "t": 1783789261443,
-      "media_url": "https://live.staticflickr.com/7089/6948506506_f592db1546_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: P.O. Arnäs / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/94988625@N00/6948506506"
-    },
-    "1a3lymj": {
-      "title": "SANDISK Phone Drive for iPhone is a great solution to low storage",
-      "t": 1783789261859,
-      "media_url": "https://live.staticflickr.com/3221/3008375479_64400c7826_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: maczter / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/66215925@N00/3008375479"
-    },
-    "ymjc49": {
-      "title": "OpenAI's head of safety is reportedly leaving as part of company reorganization",
-      "t": 1783789261894,
-      "media_url": "https://live.staticflickr.com/65535/52305393563_5c5d829a03_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: chris-hayes / PDM 1.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/162244249@N03/52305393563"
-    },
-    "cwpyuz": {
-      "title": "‘Our brains were not necessarily meant to be this stimulated first thing in the morning’: psychologists explain why you reach for your phone as soon as you wake up — and what you can do to stop it",
-      "t": 1783789262034,
-      "media_url": "https://live.staticflickr.com/2617/4019962199_052770f807_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: mrbill78636 / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/88611824@N00/4019962199"
-    },
-    "1x9qtks": {
-      "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
-      "t": 1783789262281,
-      "media_url": "https://live.staticflickr.com/2762/4140950690_e8e7fa21f4.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950690"
-    },
-    "1pptuor": {
-      "title": "Tropical forests facing increasing risks of exposure to critical temp thresholds",
-      "t": 1783789262307,
-      "media_url": "https://live.staticflickr.com/2649/4140191397_a0e3b5d99f.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140191397"
     },
     "177om69": {
       "title": "Who manages the agents?",
@@ -33534,12 +33370,20 @@
     "1cz8jhk": {
       "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
       "t": 1784652942036,
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5_3-6_3-5-Cyber__key-art__statement_.width-1300.jpg"
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5_3-6_3-5-Cyber__key-art__statement_.width-1300.jpg",
+      "media_url": "https://live.staticflickr.com/2681/4140950940_186aec55ba.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950940"
     },
     "uc7skl": {
       "title": "Claude Is Not a Compiler",
       "t": 1784652942209,
-      "image": "https://blog.exe.dev/static/og-card.png"
+      "image": "https://blog.exe.dev/static/og-card.png",
+      "media_url": "https://live.staticflickr.com/2649/4140191397_a0e3b5d99f.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140191397"
     },
     "1q2y45m": {
       "title": "Apple Shares Apple Watch SOS Success Story",
@@ -33553,17 +33397,29 @@
     "2stid4": {
       "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
       "t": 1784652942451,
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5_3-6_3-5-Cyber__key-art__statement_.width-1300.jpg"
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5_3-6_3-5-Cyber__key-art__statement_.width-1300.jpg",
+      "media_url": "https://live.staticflickr.com/7594/28799579322_f9e3ce8511_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/28799579322"
     },
     "196odxo": {
       "title": "Apple Defeats Liability for Not Scanning iCloud for CSAM",
       "t": 1784652942472,
-      "image": "https://blog.ericgoldman.org/wp-content/uploads/2026/02/IMG_2022-1024x1020.jpg"
+      "image": "https://blog.ericgoldman.org/wp-content/uploads/2026/02/IMG_2022-1024x1020.jpg",
+      "media_url": "https://live.staticflickr.com/3402/4646054291_13d1773717_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: cincodenada06 / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/14506798@N00/4646054291"
     },
     "wdy4qz": {
       "title": "Why Are There No Empires in Age of Empires? (2019)",
       "t": 1784652942531,
-      "image": "https://i0.wp.com/acoup.blog/wp-content/uploads/2019/11/aoe-title-screen.png?fit=707%2C464&#038;ssl=1"
+      "image": "https://i0.wp.com/acoup.blog/wp-content/uploads/2019/11/aoe-title-screen.png?fit=707%2C464&#038;ssl=1",
+      "media_url": "https://live.staticflickr.com/2762/4140950690_e8e7fa21f4.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950690"
     },
     "1r8jr0i": {
       "title": "When a SpaceX rocket crashes into the moon, scientists will be watching",
@@ -34052,6 +33908,532 @@
       "media_kind": "stock",
       "media_credit": "Photo: Richard Allaway / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/16287002@N00/6606527695"
+    },
+    "15qnguj": {
+      "title": "Show HN: Imagin Raw – A 9MB Open-Source Alternative to Adobe Bridge for Mac",
+      "t": 1784657844392,
+      "image": "https://opengraph.githubassets.com/f83388610daa996465d4e3eed283bb559e9d032305fb0d645460db243f832bb5/cristibaluta/Imagin-Raw",
+      "media_url": "https://live.staticflickr.com/2649/4140191397_a0e3b5d99f.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140191397"
+    },
+    "4se67h": {
+      "title": "Firefox Containers Preview",
+      "t": 1784657844392,
+      "image": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2026/03/Cursor_Green_1920x1080-1080x720.jpeg",
+      "media_url": "https://live.staticflickr.com/2649/4140191397_a0e3b5d99f.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140191397"
+    },
+    "1lc6ce2": {
+      "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+      "t": 1784657844392,
+      "image": "https://runtimewire.com/og/jack-dorsey-block-buzz-team-chat-ai-agents-git.jpg",
+      "media_url": "https://live.staticflickr.com/1061/686562697_5d86ba6d67.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Wesley Clouden / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/40622964@N00/686562697"
+    },
+    "w6bz1t": {
+      "title": "Show HN: CodeAlmanac – Karpathy-style codebase wiki from your conversations",
+      "t": 1784657844392,
+      "image": "https://opengraph.githubassets.com/a9aa594a09901f6b35b802dc695e2f012ca6cc2a9f03d55b0a11e5d5e820e0fb/AlmanacCode/codealmanac",
+      "media_url": "https://live.staticflickr.com/2663/4140950816_e131180c13.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950816"
+    },
+    "gtreec": {
+      "title": "Uhubctl – control USB power per-port on smart USB hubs",
+      "t": 1784657844392,
+      "image": "https://opengraph.githubassets.com/430cfaa4834a82db6bd68193f111a12fbd0baabc66a4496ab68f6641f652f612/mvp/uhubctl",
+      "media_url": "https://live.staticflickr.com/2723/4140951044_cebe112a5b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140951044"
+    },
+    "bndkke": {
+      "title": "Show HN: OSS Cross-Harness self hosted registry and analytics for AI Agents",
+      "t": 1784657844392,
+      "image": "https://repository-images.githubusercontent.com/1196352488/663ef0e8-035f-4b62-b04f-dc85457501b7",
+      "media_url": "https://live.staticflickr.com/2681/4140950940_186aec55ba.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950940"
+    },
+    "1lildhs": {
+      "title": "Evals are the new PRD, Expedia’s AI chief tells VB Transform 2026",
+      "t": 1784657844951,
+      "media_url": "https://live.staticflickr.com/3679/13856199984_4667251db8_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: aag_photos / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/120360673@N04/13856199984"
+    },
+    "4vh519": {
+      "title": "New insights into how DNA, the body's instruction manual for life, is regulated",
+      "t": 1784657845083,
+      "media_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/7e2y_putty_outline_and_ribbon.png",
+      "media_kind": "stock",
+      "media_credit": "Photo: Towelbin / CC0 1.0 via wikimedia",
+      "media_credit_url": "https://commons.wikimedia.org/w/index.php?curid=107406246"
+    },
+    "lhx1l4": {
+      "title": "Trump’s head of AI safety agency just resigned, but he was only on the job for three months",
+      "t": 1784657845565,
+      "media_url": "https://live.staticflickr.com/5442/16921483254_35cd055b6f_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Michael Vadon / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/80038275@N00/16921483254"
+    },
+    "1cgtjky": {
+      "title": "Apple TV’s new comedy from Ben Stiller is almost here, and reviews are in",
+      "t": 1784657845709,
+      "media_url": "https://live.staticflickr.com/8469/8364458936_02d9c854c4_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Eva Rinaldi Celebrity Photographer / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/58820009@N05/8364458936"
+    },
+    "1qfnhgb": {
+      "title": "Greenland meltwater will drive a 'strong weakening, but not a shutdown' of key Atlantic currents, study finds",
+      "t": 1784657846132,
+      "media_url": "https://live.staticflickr.com/3356/3192682787_951f12989c_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Suzi Rosenberg / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/24541732@N05/3192682787"
+    },
+    "uceenj": {
+      "title": "Data centers expected to use 4x more electricity by 2035",
+      "t": 1784657846242,
+      "media_url": "https://live.staticflickr.com/5698/21465778345_168af25556_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: itsc2015 / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/136150275@N07/21465778345"
+    },
+    "1utyiv": {
+      "title": "A new compact instrument enables high-fidelity measurements of energetic particles on CubeSats",
+      "t": 1784657846933,
+      "media_url": "https://live.staticflickr.com/8452/7973022132_9fdd58f4b8_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: NASA Goddard Photo and Video / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/24662369@N07/7973022132"
+    },
+    "16y8dep": {
+      "title": "Tesla spins up robotaxi pilots in Orlando and Tampa ahead of Q2 earnings",
+      "t": 1784657847272,
+      "media_url": "https://live.staticflickr.com/3626/5797051148_f88c9ae3cd_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Louis K. / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/49644719@N06/5797051148"
+    },
+    "10f04i9": {
+      "title": "Frozen fiber couples light and sound 1,000 times more strongly than standard glass fibers",
+      "t": 1784657847429,
+      "media_url": "https://live.staticflickr.com/3193/2414878972_8d3decc905_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/2414878972"
+    },
+    "1r5b4i4": {
+      "title": "The Xteink X4 Pro is a tiny ereader with more features than you might expect",
+      "t": 1784657847840,
+      "media_url": "https://live.staticflickr.com/8520/8540084839_907c017fc7.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Bellafaye Garden / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/51796626@N03/8540084839"
+    },
+    "u4mk1w": {
+      "title": "This new flip phone could be exactly what the world needs right now",
+      "t": 1784657847883,
+      "media_url": "https://live.staticflickr.com/3939/18900398280_bde63741c5_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: john.purvis / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/16271433@N02/18900398280"
+    },
+    "ya1xqk": {
+      "title": "Japanese market with DIY ramen bar readies grand opening in downtown San Jose with free giveaways",
+      "t": 1784657848228,
+      "media_url": "https://live.staticflickr.com/2400/2192342788_6d26f128d5.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: keepon / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/44124364575@N01/2192342788"
+    },
+    "3534bs": {
+      "title": "Study shows nutrient loss in vineyards can be attributed to factors beyond fruit harvest",
+      "t": 1784657848483,
+      "media_url": "https://live.staticflickr.com/4055/4647159387_697e6e033d_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: NASA Goddard Photo and Video / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/24662369@N07/4647159387"
+    },
+    "1q4l367": {
+      "title": "Nvidia shows off DLSS 5 with three AI modes for different levels of detail — upscaler can switch between models in real-time",
+      "t": 1784657848561,
+      "media_url": "https://live.staticflickr.com/65535/32884630297_ce44e85677_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: FritzchensFritz / CC0 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/130561288@N04/32884630297"
+    },
+    "67i67x": {
+      "title": "UK government says plug-in solar panels will be legal from August 27 — opening the door for Amazon, Lidl, Currys and more to help save you £110 a year",
+      "t": 1784657849133,
+      "media_url": "https://live.staticflickr.com/4174/34792103435_446d38e47f_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: archer10 (Dennis) / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/22490717@N02/34792103435"
+    },
+    "2wvkgf": {
+      "title": "Apple may unveil a new device subscription service as soon as next week",
+      "t": 1784657849222,
+      "media_url": "https://live.staticflickr.com/3722/9716690093_9d0f98de89.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: cwnewserpics / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/96604491@N02/9716690093"
+    },
+    "wmsx34": {
+      "title": "New exhibition reveals 10,000 years of prehistoric life in the Trent Valley",
+      "t": 1784657849825,
+      "media_url": "https://live.staticflickr.com/65535/49346890808_edbefea6b3_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: MumblerJamie / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/184393744@N06/49346890808"
+    },
+    "x8yvk": {
+      "title": "Why AI Needs a “Genie Coefficient”",
+      "t": 1784657850248,
+      "media_url": "https://live.staticflickr.com/3163/2304726226_5f8a63e0d6_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: brewbooks / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/93452909@N00/2304726226"
+    },
+    "9die43": {
+      "title": "OpenAI launches small business program as it touts 10M ChatGPT Work and Codex users",
+      "t": 1784657850306,
+      "media_url": "https://live.staticflickr.com/6152/6228332031_ab487ca907.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Eva Rinaldi Celebrity Photographer / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/58820009@N05/6228332031"
+    },
+    "1scmd6a": {
+      "title": "Zoo elephant survival has improved substantially over 6 decades, international study finds",
+      "t": 1784657850319,
+      "media_url": "https://live.staticflickr.com/1254/4606913480_57136fabfe_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: thezenderagenda.com / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/92402750@N00/4606913480"
+    },
+    "1p8bwpi": {
+      "title": "Apple fixes iCloud+ vulnerability that exposed ‘hidden’ user emails",
+      "t": 1784657850770,
+      "media_url": "https://live.staticflickr.com/2666/4162843598_4c95f0f3de_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Thoth, God of Knowledge / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/62025628@N00/4162843598"
+    },
+    "14wrf8x": {
+      "title": "Amazon is making a Robocop TV show with the showrunner from Lodge 49",
+      "t": 1784657850813,
+      "media_url": "https://live.staticflickr.com/1314/860984859_244d3f7cb3.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Matthew Simoneau / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/52123602@N00/860984859"
+    },
+    "vj3qil": {
+      "title": "GM beats Q2 earnings and announces gas-powered Cadillacs as nearly $11 billion EV retreat nears completion",
+      "t": 1784657851359,
+      "media_url": "https://live.staticflickr.com/8765/17307631842_973aa3d4f9_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: free pictures of money / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/126278138@N03/17307631842"
+    },
+    "1ejd652": {
+      "title": "Here's what that trash can with an X icon means on your electronics",
+      "t": 1784657851827,
+      "media_url": "https://live.staticflickr.com/65535/53500270793_1340f3932c_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Ekō / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/72132190@N08/53500270793"
+    },
+    "188p9mv": {
+      "title": "Antarctic 12-m Terahertz Telescope project to uncover hidden galaxy formation",
+      "t": 1784657852425,
+      "media_url": "https://live.staticflickr.com/2399/2249822184_8e45523045_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Audrey Posl / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/14837516@N04/2249822184"
+    },
+    "l1rkzj": {
+      "title": "Urgent action is needed to protect Somalia from a potentially unprecedented weather event, experts warn",
+      "t": 1784657852863,
+      "media_url": "https://live.staticflickr.com/3845/15030702559_04af427ccb_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: woodleywonderworks / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/73645804@N00/15030702559"
+    },
+    "1q12cv1": {
+      "title": "Steam Deck sales are losing steam since May's price hike",
+      "t": 1784657853012,
+      "media_url": "https://live.staticflickr.com/6230/6217138679_c5cf2f4cc7_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: ▓▒░ TORLEY ░▒▓ / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/70285332@N00/6217138679"
+    },
+    "zro2sk": {
+      "title": "Apple’s rumored ‘Upgrade’ program brings lease-to-own pricing for iPhones, Macs, and iPads",
+      "t": 1784657853124,
+      "media_url": "https://live.staticflickr.com/6075/6150222354_8d58ab0729_m.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: .,. Fashion my phone .,. Qatar / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/67539924@N06/6150222354"
+    },
+    "1c2fqxk": {
+      "title": "Google releases three new Gemini models — but no 3.5 Pro",
+      "t": 1784657853349,
+      "media_url": "https://live.staticflickr.com/65535/51917430076_f988efa3bd_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Wendelin Jacober / CC0 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/91619724@N04/51917430076"
+    },
+    "1h58su5": {
+      "title": "Apple Patches Hide My Email Flaw More Than a Year After It Was Reported",
+      "t": 1784657854004,
+      "media_url": "https://live.staticflickr.com/3906/14891009380_28b6a0c909_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: slgckgc / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/14771153@N04/14891009380"
+    },
+    "hqu6sr": {
+      "title": "Low cloud-cover has helped mute warming for the last 47 years, but models predict this will change",
+      "t": 1784657854088,
+      "media_url": "https://live.staticflickr.com/576/22548231495_a319fb0ef1_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: NASA Goddard Photo and Video / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/24662369@N07/22548231495"
+    },
+    "11sdn58": {
+      "title": "London robotics startup Humanoid raises $152M Series A, with Bosch set to manufacture its wheeled robots at scale",
+      "t": 1784657854194,
+      "media_url": "https://live.staticflickr.com/24/96601739_444032d6fa_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: 416style / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/20532289@N00/96601739"
+    },
+    "ebgyjd": {
+      "title": "The biggest data-centre deal in history just closed, then got $5bn bigger",
+      "t": 1784657854326,
+      "media_url": "https://live.staticflickr.com/65535/51918050245_2ac4e700b0_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Wendelin Jacober / CC0 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/91619724@N04/51918050245"
+    },
+    "g2ajrg": {
+      "title": "Experts warn hackers could shut down entire power grids by hijacking cloud accounts",
+      "t": 1784657854403,
+      "media_url": "https://live.staticflickr.com/4488/36689855164_a71bd87568_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Hawaii Air National Guard / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/50409497@N05/36689855164"
+    },
+    "1fc1qve": {
+      "title": "Meta's AI Models Are Powering the First Wave of Genesis Mission Projects",
+      "t": 1784657854621,
+      "media_url": "https://live.staticflickr.com/2649/4140191397_a0e3b5d99f.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140191397"
+    },
+    "1f2m2pj": {
+      "title": "Bloomy (YC S26) is hiring a founding engineer",
+      "t": 1784657854729,
+      "media_url": "https://live.staticflickr.com/2663/4140950816_e131180c13.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140950816"
+    },
+    "t5ux3n": {
+      "title": "Record fires killed nearly 1 in 5 mature giant sequoias, but controlled burns can boost survival",
+      "t": 1784657855011,
+      "media_url": "https://live.staticflickr.com/1295/4606915748_27d3b4c691_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: thezenderagenda.com / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/92402750@N00/4606915748"
+    },
+    "12rpvr6": {
+      "title": "Is there really a global loneliness epidemic? Research reveals a more complex picture",
+      "t": 1784657855314,
+      "media_url": "https://live.staticflickr.com/175/434304482_9a1ac04fd5_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Furryscaly / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/98528214@N00/434304482"
+    },
+    "1wvgfgm": {
+      "title": "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
+      "t": 1784657855751,
+      "media_url": "https://live.staticflickr.com/65535/53721295018_9eab3e2882_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/53721295018"
+    },
+    "cilsho": {
+      "title": "'Can't fault the HEDDphone D1 in any meaningful way': HEDD's progeny are emphatically excellent wired headphones at a not-unreasonable price",
+      "t": 1784657855753,
+      "media_url": "https://live.staticflickr.com/7455/8921102852_e27c5ef954_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: nSeika / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/33542052@N07/8921102852"
+    },
+    "scz2of": {
+      "title": "Twitch will let parents stop their teens going live",
+      "t": 1784657855845,
+      "media_url": "https://live.staticflickr.com/8718/16945430932_c89e8f4555_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: reXraXon / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/88269222@N08/16945430932"
+    },
+    "1h6sakb": {
+      "title": "‘Wild West’ of untested peptides has Americans paying in crypto to get their fix",
+      "t": 1784657856489,
+      "media_url": "https://live.staticflickr.com/7346/8730769199_3378168ea6_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Jack W. Pearce / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/52021147@N03/8730769199"
+    },
+    "f03k60": {
+      "title": "Five tech giants are hiding $1.65tn in AI debt, using the trick that toppled Enron",
+      "t": 1784657856791,
+      "media_url": "https://live.staticflickr.com/7031/6768706505_173bc9e8f2_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Marc_Smith / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/49503165485@N01/6768706505"
+    },
+    "1dsn9as": {
+      "title": "Intel Foundry lands its first named outside customer: Fortinet",
+      "t": 1784657856869,
+      "media_url": "https://live.staticflickr.com/3800/10153714035_751c64e948.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: JustABoy / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/39298920@N00/10153714035"
+    },
+    "7ycgl3": {
+      "title": "Eight NATO allies launch HALO, a plan to link military satellites into one networked mega-constellation",
+      "t": 1784657856956,
+      "media_url": "https://live.staticflickr.com/3955/33803012505_bd6ffd8103_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/33803012505"
+    },
+    "1saa4vp": {
+      "title": "TreeSize won't renew perpetual-license support unless users subscribe",
+      "t": 1784657857769,
+      "media_url": "https://live.staticflickr.com/7358/9981076425_f0213d5006_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: kevin dooley / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/12836528@N00/9981076425"
+    },
+    "pjycgp": {
+      "title": "Samsung can’t afford to play it safe with Apple’s first foldable looming",
+      "t": 1784657857910,
+      "media_url": "https://live.staticflickr.com/2049/1536834878_57baf143a5_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: tobiashm / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/27993902@N00/1536834878"
+    },
+    "82uk6u": {
+      "title": "Behind the scenes at Nvidia's Engineering SuperLab — Vera Rubin NVL72 running OpenAI workloads, 800VDC demonstrated, and more",
+      "t": 1784657858368,
+      "media_url": "https://live.staticflickr.com/65535/55362482583_d48d2ac1eb_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: ₡ґǘșϯγ Ɗᶏ Ⱪᶅṏⱳդ / CC0 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/148598741@N02/55362482583"
+    },
+    "26v34n": {
+      "title": "This macOS 27 change is my top quality-of-life improvement",
+      "t": 1784657858391,
+      "media_url": "https://live.staticflickr.com/4031/4309671313_d3c1b608cd_m.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Anastasiy Safari / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/51767011@N00/4309671313"
+    },
+    "x_2079584667284418896": {
+      "title": "NVIDIA Spectrum-6, a 102.4-terabit-per-second Ethernet switch built for the Vera Rubin platform, is now arriving across the world's gigascale AI factories. @CoreWeave, @Microsoft, @Nebius, @SpaceXAI…",
+      "t": 1784657858826,
+      "media_url": "https://live.staticflickr.com/65535/48116463082_4a65259a7e.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: FritzchensFritz / CC0 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/130561288@N04/48116463082"
+    },
+    "1d29yup": {
+      "title": "Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities",
+      "t": 1784657858916,
+      "media_url": "https://live.staticflickr.com/5065/5659934401_6d3021f1d2_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: USAFRICOM / PDM 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/44606090@N06/5659934401"
+    },
+    "wcne2r": {
+      "title": "Samsung aims to help you make more sense of health data with a new AI-powered assistant",
+      "t": 1784657859043,
+      "media_url": "https://live.staticflickr.com/3337/3275241958_6703aab6f7_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: AFGE / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/79684288@N00/3275241958"
+    },
+    "1v08co": {
+      "title": "Is your college laptop struggling? This Intel i5 and 16GB RAM-powered Lenovo IdeaPad Slim 5 will get you back up and running for £499.99",
+      "t": 1784657859101,
+      "media_url": "https://live.staticflickr.com/8424/7658230838_6774410577_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: CollegeDegrees360 / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/83633410@N07/7658230838"
+    },
+    "1rbcgh": {
+      "title": "AI-assisted heat-detector providing early warning to Southern California community about wildfire threats",
+      "t": 1784657859665,
+      "media_url": "https://live.staticflickr.com/6115/6233306398_aedb65fa08_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: USDAgov / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/41284017@N08/6233306398"
+    },
+    "1i5g3xr": {
+      "title": "Tesla’s problem is opposite of big tech: Not enough AI spending",
+      "t": 1784657859911,
+      "media_url": "https://live.staticflickr.com/1096/5136928274_243b576cc7.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Sean MacEntee / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/18090920@N07/5136928274"
+    },
+    "1m3t5bv": {
+      "title": "Experts warn millions of WordPress websites could be at risk following reveal of worrying bugs",
+      "t": 1784657860144,
+      "media_url": "https://live.staticflickr.com/5063/5876995333_223c8a387e.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Magharebia / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/29324474@N02/5876995333"
+    },
+    "9e1ude": {
+      "title": "Snap nears settlement of addiction case ahead of California jury trial",
+      "t": 1784657860271,
+      "media_url": "https://live.staticflickr.com/5526/10512802393_7401fe8df5_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: AMISOM Public Information / CC0 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/61765479@N08/10512802393"
+    },
+    "1cgqqnx": {
+      "title": "5 desk gadgets that can make your workday better",
+      "t": 1784657860569,
+      "media_url": "https://live.staticflickr.com/109/256418424_5ea3bea15a_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Ian D / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/85714479@N00/256418424"
+    },
+    "1pagtow": {
+      "title": "Tesla teases Cybercab with a built-in Starlink V5 antenna",
+      "t": 1784657861173,
+      "media_url": "https://live.staticflickr.com/3292/2780731492_ed6e72b93b_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/2780731492"
     }
   }
 }

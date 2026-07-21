@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T16:58:27.303Z",
+  "generated_at": "2026-07-21T18:19:53.225Z",
   "handles": [
     "nvidia",
     "GoogleDeepMind",
@@ -10,6 +10,47 @@
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2079619127560556869",
+      "title": "🚀 The NVIDIA Vera Rubin platform is here, with 10x better performance per watt. ➡️ The NVIDIA ecosystem, including @CoreWeave, @GoogleCloud, @Microsoft, and @Oracle Cloud, are standing up NVIDIA…",
+      "link": "https://x.com/nvidia/status/2079619127560556869",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-07-21T17:26:52.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "🚀 The NVIDIA Vera Rubin platform is here, with 10x better performance per watt. ➡️ The NVIDIA ecosystem, including @CoreWeave, @GoogleCloud, @Microsoft, and @Oracle Cloud, are standing up NVIDIA Vera Rubin NVL72 to deliver the lowest token cost for the agentic era. ➡️ NVIDIA",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 79,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "tech substance (platform)",
+        "concrete metrics"
+      ],
+      "metrics": {
+        "likes": 82,
+        "retweets": 9,
+        "replies": 11,
+        "likes_h": "82"
+      },
+      "engagement": 111,
+      "hot": false
+    },
     {
       "id": "x_2079601314234032474",
       "title": "10x more tokens per megawatt. CoreWeave has the first measured performance of NVIDIA Vera Rubin NVL72, showing 10x improvement in tokens per second per megawatt on DeepSeek-R1 compared to Blackwell.",
@@ -34,7 +75,7 @@
       "summary": "10x more tokens per megawatt. CoreWeave has the first measured performance of NVIDIA Vera Rubin NVL72, showing 10x improvement in tokens per second per megawatt on DeepSeek-R1 compared to Blackwell.",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 80,
+      "worthiness_score": 83,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -43,12 +84,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 74,
-        "retweets": 14,
-        "replies": 12,
-        "likes_h": "74"
+        "likes": 194,
+        "retweets": 28,
+        "replies": 16,
+        "likes_h": "194"
       },
-      "engagement": 114,
+      "engagement": 266,
       "hot": false
     },
     {
@@ -338,12 +379,12 @@
         "business signal (billion)"
       ],
       "metrics": {
-        "likes": 45,
+        "likes": 46,
         "retweets": 8,
         "replies": 5,
-        "likes_h": "45"
+        "likes_h": "46"
       },
-      "engagement": 66,
+      "engagement": 67,
       "hot": false
     },
     {
@@ -380,12 +421,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 506,
+        "likes": 518,
         "retweets": 84,
-        "replies": 48,
-        "likes_h": "506"
+        "replies": 50,
+        "likes_h": "518"
       },
-      "engagement": 722,
+      "engagement": 736,
       "hot": false
     },
     {
@@ -420,12 +461,12 @@
         "tech substance (agents, inference, training)"
       ],
       "metrics": {
-        "likes": 465,
+        "likes": 464,
         "retweets": 46,
         "replies": 50,
-        "likes_h": "465"
+        "likes_h": "464"
       },
-      "engagement": 607,
+      "engagement": 606,
       "hot": false
     },
     {
@@ -1285,45 +1326,6 @@
         "likes_h": "32"
       },
       "engagement": 41,
-      "hot": false
-    },
-    {
-      "id": "x_2077060563666866491",
-      "title": "⚡ Performance per watt is the foundational metric for every AI factory today operating in a power-constrained environment. 🧵",
-      "link": "https://x.com/nvidia/status/2077060563666866491",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-07-14T16:00:02.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Commentary"
-      ],
-      "summary": "⚡ Performance per watt is the foundational metric for every AI factory today operating in a power-constrained environment. 🧵",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 58,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy"
-      ],
-      "metrics": {
-        "likes": 374,
-        "retweets": 44,
-        "replies": 33,
-        "likes_h": "374"
-      },
-      "engagement": 495,
       "hot": false
     }
   ]
