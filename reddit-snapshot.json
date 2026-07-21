@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-07-20T23:35:47.748Z",
+  "generated_at": "2026-07-21T02:58:54.346Z",
   "subs": [
     "MachineLearning",
-    "programming",
-    "cybersecurity",
+    "singularity",
+    "SkincareAddiction",
     "science",
     "investing",
     "longevity",
     "Futurology",
-    "SkincareAddiction",
     "bodyweightfitness",
     "LocalLLaMA",
     "gadgets",
     "running",
     "robotics",
+    "cybersecurity",
     "nutrition",
     "startups",
     "netsec",
     "artificial",
-    "singularity"
+    "programming"
   ],
   "count": 36,
   "by_category": {
     "Science": 7,
     "Startups & Funding": 3,
-    "Skincare": 2,
+    "AI / ML": 10,
+    "Skincare": 1,
     "Fitness": 8,
-    "AI / ML": 9,
     "Hardware & Gadgets": 2,
     "Robotics": 2,
     "Security": 2,
@@ -145,6 +145,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/longevity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v0uqm4",
+      "title": "Kimi is temporarily pausing new subscriptions and prioritizing compute for current members due to surging demand.",
+      "link": "https://www.reddit.com/r/singularity/comments/1v0uqm4/kimi_is_temporarily_pausing_new_subscriptions_and/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/singularity · community knowledge",
+      "content_type": "post",
+      "author": "u/SuggestionMission516 · r/singularity",
+      "handle": "singularity",
+      "org": "r/singularity",
+      "platform": "reddit",
+      "published": "2026-07-19T16:16:33.000Z",
+      "image": "https://preview.redd.it/k8zbvfjgo7eh1.png?width=640&crop=smart&auto=webp&s=4b374ff817e1fda6a383ee27aced9ee031f79d4a",
+      "thumbnail": "https://preview.redd.it/k8zbvfjgo7eh1.png?width=640&crop=smart&auto=webp&s=4b374ff817e1fda6a383ee27aced9ee031f79d4a",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/singularity"
+      ],
+      "summary": "Kimi is temporarily pausing new subscriptions and prioritizing compute for current members due to surging demand.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/singularity this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1406,45 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/artificial this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uysqdj",
-      "title": "[Before & After] Dark Armpits Two Month Progress",
-      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1uysqdj/before_after_dark_armpits_two_month_progress/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/SkincareAddiction · community knowledge",
-      "content_type": "post",
-      "author": "u/Unfair_Sense_567 · r/SkincareAddiction",
-      "handle": "SkincareAddiction",
-      "org": "r/SkincareAddiction",
-      "platform": "reddit",
-      "published": "2026-07-17T07:27:08.000Z",
-      "image": "https://preview.redd.it/rdmlrwhdsqdh1.jpeg?width=640&crop=smart&auto=webp&s=08a11765029bc15c1ed44f5dbfbf0cd24866fc48",
-      "thumbnail": "https://preview.redd.it/rdmlrwhdsqdh1.jpeg?width=640&crop=smart&auto=webp&s=08a11765029bc15c1ed44f5dbfbf0cd24866fc48",
-      "section": "Skincare",
-      "category": "Skincare",
-      "genre": "Skincare",
-      "categories": [
-        "Reddit",
-        "Skincare",
-        "r/SkincareAddiction"
-      ],
-      "summary": "I’m so shocked by how much brighter my armpits got! I&#39;ve been super insecure about my dark underarms since I was a little kid, and I never thought I’d actually be able to lighten them this much. Just wanted to share what worked for me in case it helps anyone else! Here what I did: 1. I stopped using deodorant I…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/SkincareAddiction this week"
       ],
       "metrics": {
         "likes": 0,
