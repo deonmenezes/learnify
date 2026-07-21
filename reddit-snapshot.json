@@ -1,27 +1,29 @@
 {
-  "generated_at": "2026-07-21T21:44:36.323Z",
+  "generated_at": "2026-07-21T23:04:21.258Z",
   "subs": [
     "MachineLearning",
-    "Futurology",
-    "netsec",
+    "Fitness",
+    "hardware",
     "gadgets",
     "running",
     "startups",
     "bodyweightfitness",
     "SkincareAddiction",
+    "netsec",
     "science",
     "investing",
     "singularity",
     "nutrition",
     "longevity",
+    "Futurology",
     "LocalLLaMA",
     "robotics",
     "cybersecurity"
   ],
   "count": 36,
   "by_category": {
-    "Hardware & Gadgets": 4,
-    "Fitness": 10,
+    "Hardware & Gadgets": 5,
+    "Fitness": 9,
     "Startups & Funding": 4,
     "Skincare": 2,
     "AI / ML": 6,
@@ -141,6 +143,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/startups this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v20pcq",
+      "title": "The DRAM Crisis: 600% Price Increases by Micron, SK Hynix, & Samsung",
+      "link": "https://www.reddit.com/r/hardware/comments/1v20pcq/the_dram_crisis_600_price_increases_by_micron_sk/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/hardware · community knowledge",
+      "content_type": "post",
+      "author": "u/cokula333 · r/hardware",
+      "handle": "hardware",
+      "org": "r/hardware",
+      "platform": "reddit",
+      "published": "2026-07-20T22:52:55.000Z",
+      "image": "https://external-preview.redd.it/6_sgkePKAM2iuZXrUeXgy-YzoT5SwaAZMsW7BykPQuk.jpeg?width=320&crop=smart&auto=webp&s=1becddd9bfe4256dce7dfc7902a871379004841c",
+      "thumbnail": "https://external-preview.redd.it/6_sgkePKAM2iuZXrUeXgy-YzoT5SwaAZMsW7BykPQuk.jpeg?width=320&crop=smart&auto=webp&s=1becddd9bfe4256dce7dfc7902a871379004841c",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/hardware"
+      ],
+      "summary": "Class-action lawsuit filed, pending court confirmation. What’s your take, will it be approved or dismissed outright? &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/hardware this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1401,45 +1442,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/investing this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uzmllf",
-      "title": "Achievements for Saturday, July 18, 2026",
-      "link": "https://www.reddit.com/r/running/comments/1uzmllf/achievements_for_saturday_july_18_2026/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/running · community knowledge",
-      "content_type": "post",
-      "author": "u/AutoModerator · r/running",
-      "handle": "running",
-      "org": "r/running",
-      "platform": "reddit",
-      "published": "2026-07-18T05:02:06.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/running"
-      ],
-      "summary": "Hey runners, it&#39;s another day and it is time to post your accomplishments you&#39;d like to share - big or small. Note: No need to preface YOUR accomplishments with something like, &quot;this may not be an accomplishment to most of you...&quot;. Be proud of your achievement. &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/running this week"
       ],
       "metrics": {
         "likes": 0,
