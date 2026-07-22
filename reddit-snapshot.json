@@ -1,8 +1,9 @@
 {
-  "generated_at": "2026-07-22T06:42:33.648Z",
+  "generated_at": "2026-07-22T09:32:59.507Z",
   "subs": [
     "MachineLearning",
-    "Futurology",
+    "singularity",
+    "nutrition",
     "gadgets",
     "LocalLLaMA",
     "running",
@@ -13,24 +14,63 @@
     "netsec",
     "science",
     "investing",
-    "singularity",
-    "nutrition",
     "longevity",
+    "Futurology",
     "robotics",
     "cybersecurity"
   ],
   "count": 36,
   "by_category": {
+    "AI / ML": 8,
     "Hardware & Gadgets": 5,
-    "AI / ML": 7,
     "Fitness": 9,
     "Startups & Funding": 3,
     "Skincare": 2,
     "Security": 2,
-    "Science": 7,
+    "Science": 6,
     "Robotics": 1
   },
   "articles": [
+    {
+      "id": "reddit_1v2ng7a",
+      "title": "in a not so distance future",
+      "link": "https://www.reddit.com/r/singularity/comments/1v2ng7a/in_a_not_so_distance_future/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/singularity · community knowledge",
+      "content_type": "post",
+      "author": "u/Crazyscientist1024 · r/singularity",
+      "handle": "singularity",
+      "org": "r/singularity",
+      "platform": "reddit",
+      "published": "2026-07-21T16:29:56.000Z",
+      "image": "https://preview.redd.it/jjj3qrub0meh1.png?width=640&crop=smart&auto=webp&s=4928a9bdf28154391092367fbac231eb5269f565",
+      "thumbnail": "https://preview.redd.it/jjj3qrub0meh1.png?width=640&crop=smart&auto=webp&s=4928a9bdf28154391092367fbac231eb5269f565",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/singularity"
+      ],
+      "summary": "in a not so distance future",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/singularity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1v2k4fx",
       "title": "Nintendo's Official Response To Tariff Refunds Class Action Lawsuit - Tells Customers They \"Got What They Bargained For\"",
@@ -742,6 +782,46 @@
       }
     },
     {
+      "id": "reddit_1v0pc9u",
+      "title": "Am I focusing on the wrong skills as a CS student in the AI era? (Need brutally honest advice) [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v0pc9u/am_i_focusing_on_the_wrong_skills_as_a_cs_student/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/MachineLearning · community knowledge",
+      "content_type": "post",
+      "author": "u/Few-Pilot7575 · r/MachineLearning",
+      "handle": "MachineLearning",
+      "org": "r/MachineLearning",
+      "platform": "reddit",
+      "published": "2026-07-19T12:29:44.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/MachineLearning"
+      ],
+      "summary": "I&#39;m a Computer Science student about to start my 4th semester this September in Pakistan. My long-term goals are: - Maintain a high GPA because I want to pursue a fully funded Master&#39;s abroad. - Eventually work at a top tech company (FAANG or similar). - Become a genuinely good software engineer rather than…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1v0p6bv",
       "title": "[PSA] ChatGPT recommendations may be influenced by L'Oréal's advertising partnership with OpenAI",
       "link": "https://www.reddit.com/r/SkincareAddiction/comments/1v0p6bv/psa_chatgpt_recommendations_may_be_influenced_by/",
@@ -1362,85 +1442,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/startups this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uzsgxq",
-      "title": "Meta used AI to tag workers who took leave to be laid off, lawsuit claims. Lawsuit filed by dozens of employees says people who took maternity or disability leave were disproportionately selected for layoffs",
-      "link": "https://www.reddit.com/r/Futurology/comments/1uzsgxq/meta_used_ai_to_tag_workers_who_took_leave_to_be/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/Futurology · community knowledge",
-      "content_type": "post",
-      "author": "u/EchoOfOppenheimer · r/Futurology",
-      "handle": "Futurology",
-      "org": "r/Futurology",
-      "platform": "reddit",
-      "published": "2026-07-18T10:36:28.000Z",
-      "image": "https://external-preview.redd.it/sfzZgy-O3kgZObYg5gAKagbgBF_QNW1ooANYHpkqYYE.jpeg?width=640&crop=smart&auto=webp&s=58ae701c75c93f6d1d8727993f8f1007e29fde42",
-      "thumbnail": "https://external-preview.redd.it/sfzZgy-O3kgZObYg5gAKagbgBF_QNW1ooANYHpkqYYE.jpeg?width=640&crop=smart&auto=webp&s=58ae701c75c93f6d1d8727993f8f1007e29fde42",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/Futurology"
-      ],
-      "summary": "Meta used AI to tag workers who took leave to be laid off, lawsuit claims. Lawsuit filed by dozens of employees says people who took maternity or disability leave were disproportionately selected for layoffs",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/Futurology this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uzqspl",
-      "title": "What kind of dark magic is Deepseek using?",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1uzqspl/what_kind_of_dark_magic_is_deepseek_using/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/LocalLLaMA · community knowledge",
-      "content_type": "post",
-      "author": "u/Fuckinglivemealone · r/LocalLLaMA",
-      "handle": "LocalLLaMA",
-      "org": "r/LocalLLaMA",
-      "platform": "reddit",
-      "published": "2026-07-18T08:58:03.000Z",
-      "image": "https://preview.redd.it/9eofhmo4cydh1.png?width=640&crop=smart&auto=webp&s=aa6be328defc088b38effe810fe80d9e3b58944f",
-      "thumbnail": "https://preview.redd.it/9eofhmo4cydh1.png?width=640&crop=smart&auto=webp&s=aa6be328defc088b38effe810fe80d9e3b58944f",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/LocalLLaMA"
-      ],
-      "summary": "I was taking a look at Kimi K3 scores on the Artificial analysis leaderboard and was quite baffled when I saw this chart. Granted, Deepseek has always been the king of price to performance, but this is still incredible. Is it just API subsidization or have they optimized their models truly this much? &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/LocalLLaMA this week"
       ],
       "metrics": {
         "likes": 0,
