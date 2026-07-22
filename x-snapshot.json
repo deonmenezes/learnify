@@ -1,15 +1,137 @@
 {
-  "generated_at": "2026-07-21T23:02:09.792Z",
+  "generated_at": "2026-07-22T00:04:09.239Z",
   "handles": [
-    "OpenAI",
-    "GoogleDeepMind",
     "nvidia",
+    "GoogleDeepMind",
+    "OpenAI",
     "elonmusk",
     "gdb",
     "AnthropicAI"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2079715060197310935",
+      "title": "Missed the NVIDIA keynote at #SIGGRAPH2026? Catch up on the latest breakthroughs in neural rendering, world models and simulation for robotics, presented by NVIDIA research and engineering leaders…",
+      "link": "https://x.com/nvidia/status/2079715060197310935",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-07-21T23:48:04.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Research",
+        "SIGGRAPH2026"
+      ],
+      "summary": "Missed the NVIDIA keynote at #SIGGRAPH2026? Catch up on the latest breakthroughs in neural rendering, world models and simulation for robotics, presented by NVIDIA research and engineering leaders Neil Ashton, Edward Liu and Ming-Yu Liu. Watch on demand 🎥",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 79,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (models, research, robotics)"
+      ],
+      "metrics": {
+        "likes": 22,
+        "retweets": 6,
+        "replies": 3,
+        "likes_h": "22"
+      },
+      "engagement": 37,
+      "hot": false
+    },
+    {
+      "id": "x_2079709298784088470",
+      "title": "Already at #SIGGRAPH2026? Keep your camera handy. Check out the giveaway below for your chance to take home an NVIDIA RTX PRO 6000 Workstation Edition GPU.",
+      "link": "https://x.com/nvidia/status/2079709298784088470",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-07-21T23:25:10.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product",
+        "SIGGRAPH2026"
+      ],
+      "summary": "Already at #SIGGRAPH2026? Keep your camera handy. Check out the giveaway below for your chance to take home an NVIDIA RTX PRO 6000 Workstation Edition GPU.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 64,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (gpu)"
+      ],
+      "metrics": {
+        "likes": 21,
+        "retweets": 2,
+        "replies": 6,
+        "likes_h": "21"
+      },
+      "engagement": 31,
+      "hot": false
+    },
+    {
+      "id": "x_2079699527888404973",
+      "title": "The AI era runs on servers. More of those servers are built in Texas. Today, NVIDIA CEO Jensen Huang joined Wistron Chairman Simon Lin in Fort Worth to open Wistron’s first U.S. facility, producing…",
+      "link": "https://x.com/nvidia/status/2079699527888404973",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-07-21T22:46:21.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "The AI era runs on servers. More of those servers are built in Texas. Today, NVIDIA CEO Jensen Huang joined Wistron Chairman Simon Lin in Fort Worth to open Wistron’s first U.S. facility, producing Grace Blackwell compute boards, with Vera Rubin next.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 70,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "tech substance (blackwell)"
+      ],
+      "metrics": {
+        "likes": 62,
+        "retweets": 6,
+        "replies": 7,
+        "likes_h": "62"
+      },
+      "engagement": 81,
+      "hot": false
+    },
     {
       "id": "x_2079658951264920020",
       "title": "We're partnering with @huggingface to investigate an unprecedented security incident. Cyber-capable OpenAI models compromised Hugging Face production during a benchmark evaluation. Sharing…",
@@ -87,12 +209,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 28,
+        "likes": 34,
         "retweets": 4,
         "replies": 4,
-        "likes_h": "28"
+        "likes_h": "34"
       },
-      "engagement": 40,
+      "engagement": 46,
       "hot": false
     },
     {
@@ -119,7 +241,7 @@
       "summary": "Gemini 3.5 Flash-Lite is our fast, cost-effective model for scaling repetitive use cases like sorting tickets and extracting data. Watch how it performs against 3.5 Flash on a series of high volume tasks ↓",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 78,
+      "worthiness_score": 79,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -127,12 +249,12 @@
         "tech substance (model, gemini)"
       ],
       "metrics": {
-        "likes": 189,
-        "retweets": 18,
-        "replies": 29,
-        "likes_h": "189"
+        "likes": 260,
+        "retweets": 22,
+        "replies": 33,
+        "likes_h": "260"
       },
-      "engagement": 254,
+      "engagement": 337,
       "hot": false
     },
     {
@@ -208,12 +330,12 @@
         "tech substance (platform)"
       ],
       "metrics": {
-        "likes": 224,
-        "retweets": 25,
-        "replies": 21,
-        "likes_h": "224"
+        "likes": 277,
+        "retweets": 29,
+        "replies": 22,
+        "likes_h": "277"
       },
-      "engagement": 295,
+      "engagement": 357,
       "hot": false
     },
     {
@@ -240,7 +362,7 @@
       "summary": "🚀 The NVIDIA Vera Rubin platform is here, with 10x better performance per watt. ➡️ The NVIDIA ecosystem, including @CoreWeave, @GoogleCloud, @Microsoft, and @Oracle Cloud, are standing up NVIDIA Vera Rubin NVL72 to deliver the lowest token cost for the agentic era. ➡️ NVIDIA",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 82,
+      "worthiness_score": 83,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -249,12 +371,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 242,
-        "retweets": 26,
-        "replies": 19,
-        "likes_h": "242"
+        "likes": 379,
+        "retweets": 44,
+        "replies": 24,
+        "likes_h": "379"
       },
-      "engagement": 313,
+      "engagement": 491,
       "hot": false
     },
     {
@@ -291,12 +413,12 @@
         "tech substance (multimodal)"
       ],
       "metrics": {
-        "likes": 67,
+        "likes": 71,
         "retweets": 6,
-        "replies": 6,
-        "likes_h": "67"
+        "replies": 7,
+        "likes_h": "71"
       },
-      "engagement": 85,
+      "engagement": 90,
       "hot": false
     },
     {
@@ -323,7 +445,7 @@
       "summary": "Gemini 3.6 Flash builds directly on feedback from 3.5 Flash. Watch how it compares on quality and token usage ↓",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 75,
+      "worthiness_score": 76,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -331,12 +453,12 @@
         "tech substance (gemini)"
       ],
       "metrics": {
-        "likes": 408,
-        "retweets": 40,
-        "replies": 38,
-        "likes_h": "408"
+        "likes": 474,
+        "retweets": 43,
+        "replies": 39,
+        "likes_h": "474"
       },
-      "engagement": 526,
+      "engagement": 599,
       "hot": false
     },
     {
@@ -369,15 +491,16 @@
       "reasons": [
         "report-worthy",
         "tech substance (tokens, blackwell)",
+        "high engagement (1.3K likes)",
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 607,
-        "retweets": 76,
-        "replies": 27,
-        "likes_h": "607"
+        "likes": 1349,
+        "retweets": 128,
+        "replies": 41,
+        "likes_h": "1.3K"
       },
-      "engagement": 786,
+      "engagement": 1646,
       "hot": false
     },
     {
@@ -414,12 +537,12 @@
         "tech substance (gemini, api)"
       ],
       "metrics": {
-        "likes": 220,
-        "retweets": 23,
-        "replies": 12,
-        "likes_h": "220"
+        "likes": 236,
+        "retweets": 27,
+        "replies": 13,
+        "likes_h": "236"
       },
-      "engagement": 278,
+      "engagement": 303,
       "hot": false
     },
     {
@@ -453,15 +576,15 @@
         "report-worthy",
         "announcement language (rolling out)",
         "tech substance (models, gemini, agents)",
-        "high engagement (2.2K likes)"
+        "high engagement (2.4K likes)"
       ],
       "metrics": {
-        "likes": 2159,
-        "retweets": 359,
-        "replies": 201,
-        "likes_h": "2.2K"
+        "likes": 2421,
+        "retweets": 413,
+        "replies": 208,
+        "likes_h": "2.4K"
       },
-      "engagement": 3078,
+      "engagement": 3455,
       "hot": true
     },
     {
@@ -1202,129 +1325,6 @@
       },
       "engagement": 2484,
       "hot": false
-    },
-    {
-      "id": "x_2077460228350546173",
-      "title": "Any single performance number only tells part of the story. AI Infrastructure performance is a Pareto Curve 🧵",
-      "link": "https://x.com/nvidia/status/2077460228350546173",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-07-15T18:28:10.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Commentary"
-      ],
-      "summary": "Any single performance number only tells part of the story. AI Infrastructure performance is a Pareto Curve 🧵",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 57,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy"
-      ],
-      "metrics": {
-        "likes": 231,
-        "retweets": 30,
-        "replies": 24,
-        "likes_h": "231"
-      },
-      "engagement": 315,
-      "hot": false
-    },
-    {
-      "id": "x_2077452649000042614",
-      "title": "We tested many AI models, including Claude, in the four scenarios. Even though these weren’t real incidents, they demonstrate clear misaligned behavior that should be studied further and mitigated.…",
-      "link": "https://x.com/AnthropicAI/status/2077452649000042614",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Anthropic · @AnthropicAI",
-      "handle": "AnthropicAI",
-      "org": "Anthropic",
-      "published": "2026-07-15T17:58:03.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "Anthropic",
-        "Product"
-      ],
-      "summary": "We tested many AI models, including Claude, in the four scenarios. Even though these weren’t real incidents, they demonstrate clear misaligned behavior that should be studied further and mitigated. Find all the transcripts from the scenarios here: https://www.aenguslynch.com/portfolio-transcript-viewer/",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 58,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "reply / conversation",
-        "tech substance (models, claude)",
-        "links to a source"
-      ],
-      "metrics": {
-        "likes": 270,
-        "retweets": 16,
-        "replies": 35,
-        "likes_h": "270"
-      },
-      "engagement": 337,
-      "hot": false
-    },
-    {
-      "id": "x_2077452646303006927",
-      "title": "New Anthropic research: Agentic misalignment in Summer 2026. A year after our blackmail experiments, we found four more ways that today’s autonomous AI agents misbehave in simulations. Read more:…",
-      "link": "https://x.com/AnthropicAI/status/2077452646303006927",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Anthropic · @AnthropicAI",
-      "handle": "AnthropicAI",
-      "org": "Anthropic",
-      "published": "2026-07-15T17:58:02.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "Anthropic",
-        "Research"
-      ],
-      "summary": "New Anthropic research: Agentic misalignment in Summer 2026. A year after our blackmail experiments, we found four more ways that today’s autonomous AI agents misbehave in simulations. Read more: https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 93,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (agents, research)",
-        "links to a source",
-        "high engagement (3.1K likes)"
-      ],
-      "metrics": {
-        "likes": 3079,
-        "retweets": 367,
-        "replies": 348,
-        "likes_h": "3.1K"
-      },
-      "engagement": 4161,
-      "hot": true
     }
   ]
 }
