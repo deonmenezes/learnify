@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-22T00:06:22.861Z",
+  "generated_at": "2026-07-22T04:02:11.832Z",
   "subs": [
     "MachineLearning",
-    "Fitness",
-    "hardware",
+    "LocalLLaMA",
+    "bodyweightfitness",
+    "startups",
     "gadgets",
     "running",
-    "startups",
-    "bodyweightfitness",
+    "hardware",
     "SkincareAddiction",
     "netsec",
     "science",
@@ -16,17 +16,16 @@
     "nutrition",
     "longevity",
     "Futurology",
-    "LocalLLaMA",
     "robotics",
     "cybersecurity"
   ],
   "count": 36,
   "by_category": {
     "Hardware & Gadgets": 5,
+    "AI / ML": 7,
     "Fitness": 9,
-    "Startups & Funding": 4,
+    "Startups & Funding": 3,
     "Skincare": 2,
-    "AI / ML": 6,
     "Security": 2,
     "Science": 7,
     "Robotics": 1
@@ -64,6 +63,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/gadgets this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v2g9bc",
+      "title": "CEO of Hugging Face: Banning open-source AI would hurt defenders 10x more than attackers, which would make the world 10x more dangerous and this is a good example why!",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1v2g9bc/ceo_of_hugging_face_banning_opensource_ai_would/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/LocalLLaMA · community knowledge",
+      "content_type": "post",
+      "author": "u/Nunki08 · r/LocalLLaMA",
+      "handle": "LocalLLaMA",
+      "org": "r/LocalLLaMA",
+      "platform": "reddit",
+      "published": "2026-07-21T11:55:30.000Z",
+      "image": "https://preview.redd.it/6f0yaje2nkeh1.jpeg?width=640&crop=smart&auto=webp&s=ec6a8584661e6211c6805ca5dd54e6853d65370d",
+      "thumbnail": "https://preview.redd.it/6f0yaje2nkeh1.jpeg?width=640&crop=smart&auto=webp&s=ec6a8584661e6211c6805ca5dd54e6853d65370d",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/LocalLLaMA"
+      ],
+      "summary": "From clem 🤗 on 𝕏: https://x.com/ClementDelangue/status/2079301434357456931 Fortune: Hugging Face says it resorted to a Chinese AI model to battle a fully autonomous cyberattack because U.S. model guardrails stymied its defense:…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/LocalLLaMA this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1402,46 +1441,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Futurology this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uzno5c",
-      "title": "Micron will peak and leave all you retail with heavy bags",
-      "link": "https://www.reddit.com/r/investing/comments/1uzno5c/micron_will_peak_and_leave_all_you_retail_with/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/investing · community knowledge",
-      "content_type": "post",
-      "author": "u/OilAny787 · r/investing",
-      "handle": "investing",
-      "org": "r/investing",
-      "platform": "reddit",
-      "published": "2026-07-18T05:59:00.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/investing"
-      ],
-      "summary": "Micron has been the single greatest beneficiary of the memory shortage, and the numbers are genuinely difficult to argue with. The May quarter produced $41.5 billion of revenue at an 84.9% gross margin, with the current quarter guided to $50 billion and roughly 86%, which is a level of profitability no memory…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/investing this week"
       ],
       "metrics": {
         "likes": 0,

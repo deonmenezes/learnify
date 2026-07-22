@@ -1,15 +1,57 @@
 {
-  "generated_at": "2026-07-22T00:04:09.239Z",
+  "generated_at": "2026-07-22T03:59:58.351Z",
   "handles": [
+    "OpenAI",
     "nvidia",
     "GoogleDeepMind",
-    "OpenAI",
     "elonmusk",
     "gdb",
     "AnthropicAI"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2079758604656316619",
+      "title": "Before this year ends, Grok Imagine will make a full-length movie of The Odyssey that is historically accurate and true to the art of Homer",
+      "link": "https://x.com/elonmusk/status/2079758604656316619",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Elon Musk · @elonmusk",
+      "handle": "elonmusk",
+      "org": "xAI/Tesla",
+      "published": "2026-07-22T02:41:06.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "xAI/Tesla",
+        "Product"
+      ],
+      "summary": "Before this year ends, Grok Imagine will make a full-length movie of The Odyssey that is historically accurate and true to the art of Homer",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 55,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "casual tone (this)",
+        "tech substance (grok)",
+        "high engagement (15K likes)"
+      ],
+      "metrics": {
+        "likes": 14964,
+        "retweets": 1699,
+        "replies": 1819,
+        "likes_h": "15K"
+      },
+      "engagement": 20181,
+      "hot": true
+    },
     {
       "id": "x_2079715060197310935",
       "title": "Missed the NVIDIA keynote at #SIGGRAPH2026? Catch up on the latest breakthroughs in neural rendering, world models and simulation for robotics, presented by NVIDIA research and engineering leaders…",
@@ -35,7 +77,7 @@
       "summary": "Missed the NVIDIA keynote at #SIGGRAPH2026? Catch up on the latest breakthroughs in neural rendering, world models and simulation for robotics, presented by NVIDIA research and engineering leaders Neil Ashton, Edward Liu and Ming-Yu Liu. Watch on demand 🎥",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 79,
+      "worthiness_score": 82,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -43,12 +85,12 @@
         "tech substance (models, research, robotics)"
       ],
       "metrics": {
-        "likes": 22,
-        "retweets": 6,
-        "replies": 3,
-        "likes_h": "22"
+        "likes": 95,
+        "retweets": 12,
+        "replies": 9,
+        "likes_h": "95"
       },
-      "engagement": 37,
+      "engagement": 128,
       "hot": false
     },
     {
@@ -76,7 +118,7 @@
       "summary": "Already at #SIGGRAPH2026? Keep your camera handy. Check out the giveaway below for your chance to take home an NVIDIA RTX PRO 6000 Workstation Edition GPU.",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 64,
+      "worthiness_score": 66,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -84,12 +126,12 @@
         "tech substance (gpu)"
       ],
       "metrics": {
-        "likes": 21,
-        "retweets": 2,
-        "replies": 6,
-        "likes_h": "21"
+        "likes": 58,
+        "retweets": 7,
+        "replies": 9,
+        "likes_h": "58"
       },
-      "engagement": 31,
+      "engagement": 81,
       "hot": false
     },
     {
@@ -116,7 +158,7 @@
       "summary": "The AI era runs on servers. More of those servers are built in Texas. Today, NVIDIA CEO Jensen Huang joined Wistron Chairman Simon Lin in Fort Worth to open Wistron’s first U.S. facility, producing Grace Blackwell compute boards, with Vera Rubin next.",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 70,
+      "worthiness_score": 73,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -124,12 +166,12 @@
         "tech substance (blackwell)"
       ],
       "metrics": {
-        "likes": 62,
-        "retweets": 6,
-        "replies": 7,
-        "likes_h": "62"
+        "likes": 120,
+        "retweets": 19,
+        "replies": 9,
+        "likes_h": "120"
       },
-      "engagement": 81,
+      "engagement": 167,
       "hot": false
     },
     {
@@ -163,15 +205,15 @@
         "report-worthy",
         "tech substance (models, benchmark)",
         "business signal (partnering)",
-        "high engagement (2.6K likes)"
+        "high engagement (8.3K likes)"
       ],
       "metrics": {
-        "likes": 2649,
-        "retweets": 287,
-        "replies": 308,
-        "likes_h": "2.6K"
+        "likes": 8293,
+        "retweets": 1081,
+        "replies": 742,
+        "likes_h": "8.3K"
       },
-      "engagement": 3531,
+      "engagement": 11197,
       "hot": true
     },
     {
@@ -209,12 +251,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 34,
+        "likes": 38,
         "retweets": 4,
         "replies": 4,
-        "likes_h": "34"
+        "likes_h": "38"
       },
-      "engagement": 46,
+      "engagement": 50,
       "hot": false
     },
     {
@@ -241,7 +283,7 @@
       "summary": "Gemini 3.5 Flash-Lite is our fast, cost-effective model for scaling repetitive use cases like sorting tickets and extracting data. Watch how it performs against 3.5 Flash on a series of high volume tasks ↓",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 79,
+      "worthiness_score": 80,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -249,12 +291,12 @@
         "tech substance (model, gemini)"
       ],
       "metrics": {
-        "likes": 260,
-        "retweets": 22,
-        "replies": 33,
-        "likes_h": "260"
+        "likes": 320,
+        "retweets": 30,
+        "replies": 39,
+        "likes_h": "320"
       },
-      "engagement": 337,
+      "engagement": 419,
       "hot": false
     },
     {
@@ -287,15 +329,16 @@
       "reasons": [
         "report-worthy",
         "tech substance (models, research)",
-        "links to a source"
+        "links to a source",
+        "high engagement (1.1K likes)"
       ],
       "metrics": {
-        "likes": 742,
-        "retweets": 77,
-        "replies": 61,
-        "likes_h": "742"
+        "likes": 1135,
+        "retweets": 124,
+        "replies": 78,
+        "likes_h": "1.1K"
       },
-      "engagement": 957,
+      "engagement": 1461,
       "hot": false
     },
     {
@@ -322,7 +365,7 @@
       "summary": "NVIDIA Spectrum-6, a 102.4-terabit-per-second Ethernet switch built for the Vera Rubin platform, is now arriving across the world's gigascale AI factories. @CoreWeave, @Microsoft, @NebiusAI @SpaceXAI and @Tesla are among the first to bring in Spectrum-6 to accelerate their AI",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 74,
+      "worthiness_score": 75,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -330,12 +373,12 @@
         "tech substance (platform)"
       ],
       "metrics": {
-        "likes": 277,
-        "retweets": 29,
-        "replies": 22,
-        "likes_h": "277"
+        "likes": 368,
+        "retweets": 43,
+        "replies": 25,
+        "likes_h": "368"
       },
-      "engagement": 357,
+      "engagement": 479,
       "hot": false
     },
     {
@@ -362,7 +405,7 @@
       "summary": "🚀 The NVIDIA Vera Rubin platform is here, with 10x better performance per watt. ➡️ The NVIDIA ecosystem, including @CoreWeave, @GoogleCloud, @Microsoft, and @Oracle Cloud, are standing up NVIDIA Vera Rubin NVL72 to deliver the lowest token cost for the agentic era. ➡️ NVIDIA",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 83,
+      "worthiness_score": 84,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -371,12 +414,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 379,
-        "retweets": 44,
-        "replies": 24,
-        "likes_h": "379"
+        "likes": 546,
+        "retweets": 61,
+        "replies": 26,
+        "likes_h": "546"
       },
-      "engagement": 491,
+      "engagement": 694,
       "hot": false
     },
     {
@@ -413,12 +456,12 @@
         "tech substance (multimodal)"
       ],
       "metrics": {
-        "likes": 71,
+        "likes": 77,
         "retweets": 6,
         "replies": 7,
-        "likes_h": "71"
+        "likes_h": "77"
       },
-      "engagement": 90,
+      "engagement": 96,
       "hot": false
     },
     {
@@ -453,12 +496,12 @@
         "tech substance (gemini)"
       ],
       "metrics": {
-        "likes": 474,
-        "retweets": 43,
-        "replies": 39,
-        "likes_h": "474"
+        "likes": 525,
+        "retweets": 46,
+        "replies": 40,
+        "likes_h": "525"
       },
-      "engagement": 599,
+      "engagement": 657,
       "hot": false
     },
     {
@@ -491,16 +534,16 @@
       "reasons": [
         "report-worthy",
         "tech substance (tokens, blackwell)",
-        "high engagement (1.3K likes)",
+        "high engagement (2.2K likes)",
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 1349,
-        "retweets": 128,
-        "replies": 41,
-        "likes_h": "1.3K"
+        "likes": 2215,
+        "retweets": 194,
+        "replies": 61,
+        "likes_h": "2.2K"
       },
-      "engagement": 1646,
+      "engagement": 2664,
       "hot": false
     },
     {
@@ -537,12 +580,12 @@
         "tech substance (gemini, api)"
       ],
       "metrics": {
-        "likes": 236,
-        "retweets": 27,
-        "replies": 13,
-        "likes_h": "236"
+        "likes": 251,
+        "retweets": 30,
+        "replies": 14,
+        "likes_h": "251"
       },
-      "engagement": 303,
+      "engagement": 325,
       "hot": false
     },
     {
@@ -576,15 +619,15 @@
         "report-worthy",
         "announcement language (rolling out)",
         "tech substance (models, gemini, agents)",
-        "high engagement (2.4K likes)"
+        "high engagement (2.7K likes)"
       ],
       "metrics": {
-        "likes": 2421,
-        "retweets": 413,
-        "replies": 208,
-        "likes_h": "2.4K"
+        "likes": 2684,
+        "retweets": 451,
+        "replies": 220,
+        "likes_h": "2.7K"
       },
-      "engagement": 3455,
+      "engagement": 3806,
       "hot": true
     },
     {
@@ -913,12 +956,12 @@
         "high engagement (3.9K likes)"
       ],
       "metrics": {
-        "likes": 3928,
-        "retweets": 374,
-        "replies": 251,
+        "likes": 3934,
+        "retweets": 375,
+        "replies": 252,
         "likes_h": "3.9K"
       },
-      "engagement": 4927,
+      "engagement": 4936,
       "hot": true
     },
     {
@@ -996,12 +1039,12 @@
         "high engagement (2.3K likes)"
       ],
       "metrics": {
-        "likes": 2283,
-        "retweets": 178,
-        "replies": 341,
+        "likes": 2298,
+        "retweets": 179,
+        "replies": 346,
         "likes_h": "2.3K"
       },
-      "engagement": 2980,
+      "engagement": 3002,
       "hot": false
     },
     {
@@ -1076,12 +1119,12 @@
         "high engagement (1K likes)"
       ],
       "metrics": {
-        "likes": 1028,
+        "likes": 1031,
         "retweets": 74,
-        "replies": 153,
+        "replies": 151,
         "likes_h": "1K"
       },
-      "engagement": 1329,
+      "engagement": 1330,
       "hot": false
     },
     {
@@ -1283,47 +1326,6 @@
         "likes_h": "657"
       },
       "engagement": 903,
-      "hot": false
-    },
-    {
-      "id": "x_2077501603050033634",
-      "title": "A closer look at improved intelligence in GPT-Live: the model can keep a conversation going while helping with multiple tasks at once, like checking flights, pulling up local weather, and shaping an…",
-      "link": "https://x.com/OpenAI/status/2077501603050033634",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-07-15T21:12:34.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Product"
-      ],
-      "summary": "A closer look at improved intelligence in GPT-Live: the model can keep a conversation going while helping with multiple tasks at once, like checking flights, pulling up local weather, and shaping an itinerary in real time.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 83,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "tech substance (model, gpt)",
-        "high engagement (2K likes)"
-      ],
-      "metrics": {
-        "likes": 2022,
-        "retweets": 132,
-        "replies": 198,
-        "likes_h": "2K"
-      },
-      "engagement": 2484,
       "hot": false
     }
   ]
