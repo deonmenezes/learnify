@@ -1,10 +1,9 @@
 {
-  "generated_at": "2026-07-22T11:31:00.473Z",
+  "generated_at": "2026-07-22T13:08:19.470Z",
   "subs": [
     "MachineLearning",
-    "artificial",
-    "nutrition",
-    "investing",
+    "Fitness",
+    "robotics",
     "singularity",
     "gadgets",
     "LocalLLaMA",
@@ -15,23 +14,142 @@
     "SkincareAddiction",
     "netsec",
     "science",
+    "investing",
+    "nutrition",
     "longevity",
     "Futurology",
-    "robotics",
     "cybersecurity"
   ],
   "count": 36,
   "by_category": {
-    "AI / ML": 8,
-    "Hardware & Gadgets": 5,
     "Fitness": 9,
-    "Startups & Funding": 3,
+    "Robotics": 3,
+    "AI / ML": 9,
+    "Hardware & Gadgets": 4,
+    "Startups & Funding": 2,
     "Skincare": 2,
     "Security": 2,
-    "Science": 6,
-    "Robotics": 1
+    "Science": 5
   },
   "articles": [
+    {
+      "id": "reddit_1v3alex",
+      "title": "Rant Wednesday - July 22, 2026",
+      "link": "https://www.reddit.com/r/Fitness/comments/1v3alex/rant_wednesday_july_22_2026/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/Fitness · community knowledge",
+      "content_type": "post",
+      "author": "u/AutoModerator · r/Fitness",
+      "handle": "Fitness",
+      "org": "r/Fitness",
+      "platform": "reddit",
+      "published": "2026-07-22T09:00:23.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/Fitness"
+      ],
+      "summary": "Welcome to Rant Wednesday: It’s your time to let your gym/fitness/nutrition related frustrations out! There is no guiding question to help stir up some rage-feels, feel free to fire at will, ranting about anything and everything that’s been pissing you off or getting on your nerves. Just don&#39;t forget that other…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/Fitness this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v3907d",
+      "title": "What Finally Helped Me Understand Inverse Kinematics After Building a 6-Axis Robot Arm",
+      "link": "https://www.reddit.com/r/robotics/comments/1v3907d/what_finally_helped_me_understand_inverse/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/robotics · community knowledge",
+      "content_type": "post",
+      "author": "u/SynriaRobotics_01 · r/robotics",
+      "handle": "robotics",
+      "org": "r/robotics",
+      "platform": "reddit",
+      "published": "2026-07-22T07:29:54.000Z",
+      "image": "https://preview.redd.it/mx801kf9hqeh1.jpeg?width=640&crop=smart&auto=webp&s=1186c3e403f67bc9c40128bc53526798dafe52c4",
+      "thumbnail": "https://preview.redd.it/mx801kf9hqeh1.jpeg?width=640&crop=smart&auto=webp&s=1186c3e403f67bc9c40128bc53526798dafe52c4",
+      "section": "Robotics",
+      "category": "Robotics",
+      "genre": "Robotics",
+      "categories": [
+        "Reddit",
+        "Robotics",
+        "r/robotics"
+      ],
+      "summary": "I spent the last year building a 6-axis desktop robot arm from scratch, and inverse kinematics was the hardest concept for me to internalize. Here’s what finally helped. Forward kinematics felt relatively straightforward. Given the joint angles, I could compute the end-effector pose by chaining homogeneous…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/robotics this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v38k1m",
+      "title": "SkewAdam: A tiered optimizer that cuts MoE state memory by 97% (fits a 6.7B MoE on a 40GB GPU) [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v38k1m/skewadam_a_tiered_optimizer_that_cuts_moe_state/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/MachineLearning · community knowledge",
+      "content_type": "post",
+      "author": "u/Kooky-Ad-4124 · r/MachineLearning",
+      "handle": "MachineLearning",
+      "org": "r/MachineLearning",
+      "platform": "reddit",
+      "published": "2026-07-22T07:04:40.000Z",
+      "image": "https://preview.redd.it/1457xi9fcqeh1.jpg?width=140&height=90&auto=webp&s=879aad6df9e51a2735d91112d01518ff76ba3cbe",
+      "thumbnail": "https://preview.redd.it/1457xi9fcqeh1.jpg?width=140&height=90&auto=webp&s=879aad6df9e51a2735d91112d01518ff76ba3cbe",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/MachineLearning"
+      ],
+      "summary": "Paper: https://arxiv.org/abs/2607.19058 Code (GitHub): https://github.com/nuemaan/skewadam Hi everyone, I just published a preprint on a new optimizer designed to tackle the massive VRAM bottleneck in Mixture-of-Experts (MoE) training. If you&#39;ve trained MoEs, you know that optimizer state is usually the largest…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1v2ng7a",
       "title": "in a not so distance future",
@@ -380,6 +498,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v1fvzm",
+      "title": "What do you think of ton-class robotic horses?",
+      "link": "https://www.reddit.com/r/robotics/comments/1v1fvzm/what_do_you_think_of_tonclass_robotic_horses/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/robotics · community knowledge",
+      "content_type": "post",
+      "author": "u/D1n0saurMecha · r/robotics",
+      "handle": "robotics",
+      "org": "r/robotics",
+      "platform": "reddit",
+      "published": "2026-07-20T08:46:47.000Z",
+      "image": "https://external-preview.redd.it/NHNjMmF4NnJqY2VoMZTHnodeGcL9ntwfwLlfmWAI-WgIDGzOwKYXn65uH-ut.png?width=640&crop=smart&auto=webp&s=f13180cf6a1495e8b339ec0c9658069c8b4002ee",
+      "thumbnail": "https://external-preview.redd.it/NHNjMmF4NnJqY2VoMZTHnodeGcL9ntwfwLlfmWAI-WgIDGzOwKYXn65uH-ut.png?width=640&crop=smart&auto=webp&s=f13180cf6a1495e8b339ec0c9658069c8b4002ee",
+      "section": "Robotics",
+      "category": "Robotics",
+      "genre": "Robotics",
+      "categories": [
+        "Reddit",
+        "Robotics",
+        "r/robotics"
+      ],
+      "summary": "Four-legged robots can reach many places that wheeled vehicles cannot. Isn’t it a bit of a waste to treat them as mere means of transportation when they can carry loads weighing several metric tons? Their current speed is still a bit too slow—is this due to safety restrictions, or are the hardware limitations—such as…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/robotics this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1286,163 +1443,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uzxdvv",
-      "title": "100 bodyweight squats every day for 30 days. Join the challenge!",
-      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1uzxdvv/100_bodyweight_squats_every_day_for_30_days_join/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/bodyweightfitness · community knowledge",
-      "content_type": "post",
-      "author": "u/Vikistra · r/bodyweightfitness",
-      "handle": "bodyweightfitness",
-      "org": "r/bodyweightfitness",
-      "platform": "reddit",
-      "published": "2026-07-18T14:29:19.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/bodyweightfitness"
-      ],
-      "summary": "My lower body has always been much weaker than my upper body. I dislocated my left knee cap 9 times and no matter how much stretching I do, I can&#39;t seem to get more ankle mobility. My left ankle is about 20% less flexible compared to the right. At least that&#39;s what I think the issue is, my left foot&#39;s heel…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/bodyweightfitness this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uzwugq",
-      "title": "Desire for attention, control makes narcissists more likely to favour in-person work, researchers hypothesize | Why narcissistic leaders resist remote work",
-      "link": "https://www.reddit.com/r/science/comments/1uzwugq/desire_for_attention_control_makes_narcissists/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/science · community knowledge",
-      "content_type": "post",
-      "author": "u/Hrmbee · r/science",
-      "handle": "science",
-      "org": "r/science",
-      "platform": "reddit",
-      "published": "2026-07-18T14:07:15.000Z",
-      "image": "https://external-preview.redd.it/xpjjkjZa4tPfRFN0vGRaG78AGKp1TTJyJG-foBXo_X0.jpeg?width=320&crop=smart&auto=webp&s=8f597789b0a93046028e84d6730d62bb6d15eeee",
-      "thumbnail": "https://external-preview.redd.it/xpjjkjZa4tPfRFN0vGRaG78AGKp1TTJyJG-foBXo_X0.jpeg?width=320&crop=smart&auto=webp&s=8f597789b0a93046028e84d6730d62bb6d15eeee",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/science"
-      ],
-      "summary": "Desire for attention, control makes narcissists more likely to favour in-person work, researchers hypothesize | Why narcissistic leaders resist remote work",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/science this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uzuz4k",
-      "title": "Japan now has human refrigerators inspired by Japanese vending machines",
-      "link": "https://www.reddit.com/r/gadgets/comments/1uzuz4k/japan_now_has_human_refrigerators_inspired_by/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/gadgets · community knowledge",
-      "content_type": "post",
-      "author": "u/diacewrb · r/gadgets",
-      "handle": "gadgets",
-      "org": "r/gadgets",
-      "platform": "reddit",
-      "published": "2026-07-18T12:46:08.000Z",
-      "image": "https://external-preview.redd.it/On373v1dQSuFfP-SX-nVAjnAlHp9gaJPiRHXwhbXsD4.jpeg?width=320&crop=smart&auto=webp&s=5b9d716580c83a483d612662c4f1e9077945198b",
-      "thumbnail": "https://external-preview.redd.it/On373v1dQSuFfP-SX-nVAjnAlHp9gaJPiRHXwhbXsD4.jpeg?width=320&crop=smart&auto=webp&s=5b9d716580c83a483d612662c4f1e9077945198b",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/gadgets"
-      ],
-      "summary": "Japan now has human refrigerators inspired by Japanese vending machines",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/gadgets this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1uztn1m",
-      "title": "Is it sexism or age? I will not promote",
-      "link": "https://www.reddit.com/r/startups/comments/1uztn1m/is_it_sexism_or_age_i_will_not_promote/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/startups · community knowledge",
-      "content_type": "post",
-      "author": "u/Slightly_unhinged_ · r/startups",
-      "handle": "startups",
-      "org": "r/startups",
-      "platform": "reddit",
-      "published": "2026-07-18T11:41:21.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/startups"
-      ],
-      "summary": "I’m a 30 year old woman. I built a very cool product, I’m very proud of it. For someone who didn’t major in software engineering, I banged my head on my desk until I figured it out and now it works. I have a business partner, they are a middle age man. To be clear, I need him, he’s a wonderful business partner. He…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/startups this week"
       ],
       "metrics": {
         "likes": 0,
