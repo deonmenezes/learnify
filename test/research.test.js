@@ -120,6 +120,32 @@ test("representative OpenAlex normalization labels the paper/provider/publisher 
   assert.equal(paper.canonical_url, "https://doi.org/10.1000/example");
   assert.equal(paper.published, "2024-07-21T00:00:00.000Z");
   assert.equal(paper.freshness_verified, true);
+  assert.equal(paper.rights_status, "unknown_or_restricted");
+  assert.equal(paper.full_text_status, "unknown");
+  assert.equal(paper.full_text_available, false);
+});
+
+test("PMCID-bearing OpenAlex records expose only an unverified fixed-provider candidate", () => {
+  const paper = mapOpenAlexTopicWork(work({
+    ids: { pmcid: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC777" },
+    best_oa_location: { license: "cc-by-4.0" },
+  }), { topicName: "Fitness", now: NOW });
+  assert.equal(paper.rights_status, "verification_required");
+  assert.equal(paper.full_text_status, "unchecked");
+  assert.equal(paper.full_text_available, false);
+  assert.equal(paper.license_id, "CC-BY-4.0");
+  assert.equal(paper.body_source, "Europe PMC");
+  assert.equal(paper.content_endpoint, "/api/content?pmcid=PMC777");
+});
+
+test("PubMed identifiers expose a bounded Europe PMC resolution candidate", () => {
+  const paper = mapOpenAlexTopicWork(work({ ids: { pmid: "https://pubmed.ncbi.nlm.nih.gov/39966355" } }), { topicName: "Fitness", now: NOW });
+  assert.equal(paper.rights_status, "verification_required");
+  assert.equal(paper.full_text_status, "unchecked");
+  assert.equal(paper.full_text_available, false);
+  assert.equal(paper.pmid, "39966355");
+  assert.equal(paper.pmcid, null);
+  assert.equal(paper.content_endpoint, "/api/content?pmid=39966355");
 });
 
 test("trusted normalization rejects every unverifiable or ineligible provider record", () => {
@@ -173,16 +199,16 @@ test("unknown topic API requests fail closed with the complete canonical list", 
   assert.deepEqual(response.body.topics, EXPECTED_TOPICS);
 });
 
-test("research UI exposes honest states and no in-app full-text route", () => {
+test("research UI exposes honest states and routes papers through the in-app detail view", () => {
   const html = readFileSync(new URL("../app/research.html", import.meta.url), "utf8");
-  for (const phrase of ["Loading recent papers", "Research could not be loaded", "No recent papers found", "Open paper at source"]) {
+  for (const phrase of ["Loading recent papers", "Research could not be loaded", "No recent papers found", "Read in Learnify"]) {
     assert.ok(html.includes(phrase), phrase);
   }
   assert.ok(html.includes("TOPIC_NAMES"));
   assert.ok(html.includes("isWithinRollingWindow"));
   assert.ok(html.includes("/api/research?topic="));
   assert.ok(!html.includes("/api/content"));
-  assert.ok(!html.includes("article.html?paper"));
+  assert.ok(html.includes("article.html?paper"));
 
   const app = readFileSync(new URL("../app/app.js", import.meta.url), "utf8");
   assert.ok(app.includes("[\"Research\", \"/app/research.html\"]"));

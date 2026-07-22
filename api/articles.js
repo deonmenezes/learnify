@@ -25,6 +25,7 @@
 
 import { collectArticles } from "../lib/feeds.js";
 import { attachMedia } from "../lib/media.js";
+import { normalizedRightsMetadata } from "../lib/content-rights.js";
 
 function pickInt(v, dflt, min, max) {
   const n = parseInt(Array.isArray(v) ? v[0] : v, 10);
@@ -90,7 +91,12 @@ export default async function handler(req, res) {
     const proto = (req.headers["x-forwarded-proto"] || "https").split(",")[0];
     const host = req.headers["x-forwarded-host"] || req.headers.host || "";
     const base = host ? `${proto}://${host}` : "";
-    const out = await attachMedia(slice, base); // license-clean media_url per article (PRD §6)
+    const withMedia = await attachMedia(slice, base); // license-clean media_url per article (PRD §6)
+    const rightsProvenanceAt = new Date().toISOString();
+    const out = withMedia.map((article) => ({
+      ...article,
+      ...normalizedRightsMetadata(article, { checkedAt: rightsProvenanceAt }),
+    }));
 
     res.setHeader("Content-Type", "application/json; charset=utf-8");
     // Near-real-time: serve instantly from edge, refresh in the background.

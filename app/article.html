@@ -38,7 +38,8 @@
   .opt.correct{border-color:var(--green,#45DB6B);background:var(--green-bg)}
   .opt.wrong{border-color:var(--red,#F5545E);background:var(--red-bg)}
   .opt .k{width:24px;height:24px;border-radius:7px;background:var(--line-2,#2A2A30);display:grid;place-items:center;font-weight:800;font-size:12px;flex:0 0 auto}
-  .read-full{display:inline-flex;align-items:center;gap:8px;margin-top:8px;color:var(--accent,#F7F7FA);font-weight:700;font-size:15px}
+  .read-full{display:inline-flex;align-items:center;gap:8px;margin:0 0 28px;color:var(--accent,#F7F7FA);font-weight:700;font-size:15px}
+  .reader{margin:0 0 28px;padding:22px;background:var(--surface);border:1px solid var(--line);border-radius:16px}.reader h2{font-size:21px;margin:0 0 8px}.reader-status{font-size:14px;line-height:1.55;color:var(--ink-3);margin:0}.reader-meta{font-size:12px;line-height:1.55;color:var(--ink-4);margin:0 0 18px}.reader-meta a{color:var(--accent)}.reader-body{max-width:760px}.reader-body h3{font-size:18px;line-height:1.35;margin:26px 0 10px}.reader-body p,.reader-body blockquote{font-family:Georgia,serif;font-size:17px;line-height:1.78;color:var(--ink-2);margin:0 0 18px}.reader-body blockquote{border-left:3px solid var(--line);padding-left:14px;color:var(--ink-3)}
   .takeaway{display:flex;gap:9px;margin-bottom:11px;font-size:14px;color:var(--ink-2);line-height:1.45}
   .takeaway svg{color:var(--green,#45DB6B);flex:0 0 auto;margin-top:2px}
   .rel{display:flex;gap:11px;padding:9px 0;border-bottom:1px solid var(--line-2,#2A2A30)}
@@ -81,10 +82,33 @@
   let profile = await T.loadProfile(u);
   T.renderNav("Latest", profile);
 
-  const id = new URLSearchParams(location.search).get("id");
-  const arts = await T.articles();
-  const a = arts.find(x => T.articleId(x) === id) || arts[0];
+  const params = new URLSearchParams(location.search);
+  const id = params.get("id");
+  const paperId = params.get("paper");
+  const paperTopic = params.get("topic");
+  let arts = [];
+  let a = null;
+  if (paperId && paperTopic) {
+    try {
+      const response = await fetch(`/api/research?topic=${encodeURIComponent(paperTopic)}&limit=50&sort=recent`);
+      if (!response.ok) throw new Error("research_unavailable");
+      const data = await response.json();
+      if (data.topic !== paperTopic) throw new Error("topic_mismatch");
+      arts = (Array.isArray(data.papers) ? data.papers : []).map((paper) => ({ ...paper, link: paper.canonical_url || paper.url, ai_summary: paper.summary, categories: [paper.category, paper.topic].filter(Boolean) }));
+      a = arts.find((paper) => T.articleId(paper) === paperId) || null;
+    } catch (_) {}
+  } else {
+    arts = await T.articles();
+    a = arts.find((article) => T.articleId(article) === id) || arts[0];
+  }
   if (!a) { document.getElementById("content").innerHTML = "<p>Article not found.</p>"; return; }
+  function safeExternalUrl(value) {
+    try {
+      const url = new URL(value);
+      return ["http:", "https:"].includes(url.protocol) && !url.username && !url.password ? url.href : "#";
+    } catch (_) { return "#"; }
+  }
+  const canonicalUrl = safeExternalUrl(a.canonical_url || a.link || a.url);
   const c = T.catMeta(T.catFor(a));
   const sum = a.ai_summary || a.summary || "";
   const img = (a.media_url && a.media_kind !== "poster") ? a.media_url : "";
@@ -104,16 +128,17 @@
     <h1 class="a-title" style="margin-top:10px">${esc(a.title)}</h1>
     <div class="a-sub">${esc(sum.slice(0,160))}</div>
     <div class="a-meta">
-      <span class="a-src"><span class="av">${esc((a.source||'?')[0])}</span> ${esc(a.source||'')}</span>
+      <span class="a-src"><span class="av">${esc((a.source_label||a.source||"?")[0])}</span> ${esc(a.source_label||a.source||"")}</span>
       <span class="sep">·</span><span class="muted">${T.timeAgo(a.published)||''}</span>
       <span class="sep">·</span><span class="muted">${T.readMins(a)} min read</span>
       <span class="a-actions"><button class="btn" id="saveBtn"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg> Save</button>
-      <a class="btn" href="${esc(a.link||a.url||'#')}" target="_blank" rel="noopener">Share ↗</a></span>
+      <a class="btn" href="${esc(canonicalUrl)}" target="_blank" rel="noopener">Share ↗</a></span>
     </div>
     ${img ? `<img class="a-hero" src="${esc(img)}" onerror="this.style.display='none'">` : `<div class="a-hero"></div>`}
-    <div class="a30"><span class="ic"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg></span><div><b>⚡ In 30 Seconds</b><p>${esc(sum || a.title)}</p></div></div>
+    <div class="a30"><span class="ic"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg></span><div><b>⚡ AI Summary</b><p>${esc(sum || a.title)}</p></div></div>
+    <section id="reader" class="reader" aria-labelledby="readerHeading"><h2 id="readerHeading">Read in Learnify</h2><p id="readerStatus" class="reader-status" aria-live="polite">Checking whether licensed full text is available…</p><div id="readerContent" class="reader-body"></div></section>
+    <a class="read-full" href="${esc(canonicalUrl)}" target="_blank" rel="noopener noreferrer">Read on ${esc(a.publisher||a.source_label||a.source||"the source")} ↗</a>
     ${sects.map(([col,ic,h,p])=>`<div class="sect"><span class="ic" style="background:${col};color:#0D0D0F">${ic}</span><div><h3>${h}</h3><p>${esc(p)}</p></div></div>`).join("")}
-    <a class="read-full" href="${esc(a.link||a.url||'#')}" target="_blank" rel="noopener">Read the full article at ${esc(a.source||'the source')} ↗</a>
     <div class="quizbox">
       <h3>🧠 Quick Quiz <span class="xp" style="margin-left:auto">+10 XP</span></h3>
       <p style="margin:0 0 12px;font-weight:600">What's the best next step after reading this?</p>
@@ -123,6 +148,72 @@
     </div>`;
 
   document.querySelectorAll("a[target=\"_blank\"]").forEach(link => link.addEventListener("click", () => T.track("article_link_out", { surface: "article_detail", source_id: a.source_id || a.source || "unknown" })));
+  await renderReader(a);
+
+  async function renderReader(item) {
+    const heading = document.getElementById("readerHeading");
+    const status = document.getElementById("readerStatus");
+    const content = document.getElementById("readerContent");
+    const fallback = item.content_type === "paper"
+      ? "Learnify can show a paper body only after its open license is verified. The abstract or summary above and the source link remain available."
+      : "This publisher article is not republished here because redistribution permission was not verified. The summary above and the source link remain available.";
+    const pmcid = typeof item.pmcid === "string" && /^PMC\d+$/.test(item.pmcid) ? item.pmcid : null;
+    const pmid = typeof item.pmid === "string" && /^\d{5,12}$/.test(item.pmid) ? item.pmid : null;
+    if ((!pmcid && !pmid) || item.rights_status !== "verification_required" || item.full_text_status !== "unchecked") {
+      status.textContent = fallback;
+      return;
+    }
+    status.textContent = "Verifying the license and loading full text from Europe PMC…";
+    try {
+      const endpoint = pmcid ? `/api/content?pmcid=${encodeURIComponent(pmcid)}` : `/api/content?pmid=${encodeURIComponent(pmid)}`;
+      const response = await fetch(endpoint, { headers: { Accept: "application/json" } });
+      const data = await response.json();
+      if (!response.ok || data.rights_status !== "verified_open_access" || data.full_text_available !== true || !Array.isArray(data.blocks)) throw new Error("unavailable");
+      const licenseUrl = safeExternalUrl(data.license_url);
+      let licenseAllowed = false;
+      try {
+        const licenseHost = new URL(licenseUrl).hostname;
+        licenseAllowed = licenseHost === "creativecommons.org" || licenseHost.endsWith(".creativecommons.org");
+      } catch (_) {}
+      if (!licenseAllowed || !data.license_id || !data.blocks.length) throw new Error("invalid_rights");
+      heading.textContent = "Full text";
+      status.remove();
+      const meta = document.createElement("p");
+      meta.className = "reader-meta";
+      meta.append(document.createTextNode(`${data.attribution} `));
+      const licenseLink = document.createElement("a");
+      licenseLink.href = licenseUrl;
+      licenseLink.target = "_blank";
+      licenseLink.rel = "noopener noreferrer";
+      licenseLink.textContent = "License";
+      meta.append(licenseLink);
+      const verified = data.rights_provenance_at ? ` · Rights checked ${new Date(data.rights_provenance_at).toLocaleDateString()}` : "";
+      meta.append(document.createTextNode(verified));
+      if (data.copyright_notice) meta.append(document.createTextNode(` · ${String(data.copyright_notice).slice(0, 1000)}`));
+      if (data.adaptation_notice) meta.append(document.createTextNode(` · ${String(data.adaptation_notice).slice(0, 500)}`));
+      if (data.content_truncated) meta.append(document.createTextNode(" · This bounded reader is truncated; use the canonical copy for the complete article."));
+      const sourceUrl = safeExternalUrl(data.canonical_url);
+      if (sourceUrl !== "#") {
+        meta.append(document.createTextNode(" · "));
+        const canonicalLink = document.createElement("a");
+        canonicalLink.href = sourceUrl;
+        canonicalLink.target = "_blank";
+        canonicalLink.rel = "noopener noreferrer";
+        canonicalLink.textContent = "Canonical copy";
+        meta.append(canonicalLink);
+      }
+      content.append(meta);
+      for (const block of data.blocks.slice(0, 160)) {
+        if (!block || !["heading", "paragraph", "citation"].includes(block.type) || typeof block.text !== "string") continue;
+        const node = document.createElement(block.type === "heading" ? "h3" : block.type === "citation" ? "blockquote" : "p");
+        node.textContent = block.text.slice(0, 8000);
+        content.append(node);
+      }
+    } catch (_) {
+      status.textContent = "Licensed full text could not be verified or loaded right now. Use Read on source for the canonical copy.";
+    }
+  }
+
 
   // sidebar progress
   function paintProgress(){
@@ -140,7 +231,8 @@
   // related
   T.$("#related").innerHTML = arts.filter(x=>T.articleId(x)!==T.articleId(a)).slice(0,4).map(r=>{
     const ri=(r.media_url&&r.media_kind!=="poster")?r.media_url:""; const rc=T.catMeta(T.catFor(r));
-    return `<a class="rel" href="/app/article.html?id=${encodeURIComponent(T.articleId(r))}"><img src="${esc(ri)}" onerror="this.style.visibility='hidden'"><div><b>${esc(r.title)}</b><br><span>${T.readMins(r)} min · ${rc.short}</span></div></a>`;
+    const detailHref = paperId ? `/app/article.html?paper=${encodeURIComponent(T.articleId(r))}&topic=${encodeURIComponent(paperTopic)}` : `/app/article.html?id=${encodeURIComponent(T.articleId(r))}`;
+    return `<a class="rel" href="${detailHref}"><img src="${esc(ri)}" onerror="this.style.visibility='hidden'"><div><b>${esc(r.title)}</b><br><span>${T.readMins(r)} min · ${rc.short}</span></div></a>`;
   }).join("");
 
   document.querySelectorAll("#related a.rel").forEach(link => link.addEventListener("click", () => T.track("article_selected", { surface: "related" })));

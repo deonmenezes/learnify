@@ -71,7 +71,7 @@ Privacy-gated, aggregate product analytics is available through the existing Ver
 
 ## Research topics
 
-Learnify provides 23 exact research-topic feeds backed by OpenAlex and enforced by a server-side rolling two-year freshness gate. Topic cards are labeled as research papers, identify the indexed journal/publisher when available, and link to the canonical source; Learnify does not render full paper bodies in this milestone. See **[DATA_SOURCES.md](DATA_SOURCES.md)** for the complete frontend-to-provider path, query mappings, exclusions, freshness semantics, limitations, environment variables, and verification steps.
+Learnify provides 23 exact research-topic feeds backed by OpenAlex and enforced by a server-side rolling two-year freshness gate. Topic cards are labeled as research papers and identify the indexed journal/publisher. PubMed/PMC-identified papers can be checked against Europe PMC and rendered only after an exact supported open license is verified server-side; all other records remain abstract/summary plus source link. See **[DATA_SOURCES.md](DATA_SOURCES.md)** for the complete frontend-to-provider path, query mappings, exclusions, freshness semantics, limitations, environment variables, and verification steps.
 
 ## Deploy
 
@@ -90,7 +90,7 @@ Technica, or their owners. All article headlines, summaries, images, content and
 trademarks belong to their respective publishers and are referenced here only
 under nominative/fair-use aggregation.
 
-This project does **not** republish full articles. It indexes public
+Publisher articles are **not** republished in full. Europe PMC paper text is shown only after the server verifies CC0 1.0, Public Domain Mark 1.0, CC BY 3.0, or CC BY 4.0 in the provider XML. All other content remains limited to public
 headlines, short summaries/excerpts and thumbnails from each outlet's own public
 RSS feed or WordPress REST API (channels intended for syndication) and always
 links back to the original source. Source names are used descriptively to

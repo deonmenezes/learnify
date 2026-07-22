@@ -279,3 +279,14 @@ Returns normalized research-paper metadata from arXiv/OpenAlex. Add `topic` usin
 Exact-topic requests use focused OpenAlex searches restricted to DOI-bearing core-journal articles and return `topic`, `published`, `provider`, `publisher`, `source_label`, `content_type=paper`, `content_type_label=Research paper`, `canonical_url`, and `freshness_verified`. The response also returns the dynamic inclusive `cutoff`, provider status, and all 23 labels.
 
 The server rejects missing, malformed, stale, future, retracted, paratext, non-article, and off-topic provider records at normalization time. Topic-provider failure returns HTTP 502 and never falls back to bundled or mock research. See [DATA_SOURCES.md](DATA_SOURCES.md).
+
+
+---
+
+## `GET /api/content`
+
+Accepts exactly one strict `pmcid=PMC…` or numeric `pmid=…` parameter. A PMID is resolved to a PMCID through Europe PMC’s bounded JSON search endpoint. The server constructs a fixed Europe PMC `fullTextXML` URL; arbitrary URLs and hosts are not accepted. A body is returned only when the XML contains an exact supported license URL for CC0 1.0, Public Domain Mark 1.0, CC BY 3.0, or CC BY 4.0.
+
+Success returns `content_type=paper`, `rights_status=verified_open_access`, `full_text_status=available`, `full_text_available=true`, `license_id`, `license_url`, `canonical_url`, `attribution`, `copyright_notice`, `adaptation_notice`, `body_source`, `body_source_url`, `rights_provenance_at`, `content_format=structured_plain_text`, `content_truncated`, and bounded `blocks[]` of type `heading`, `paragraph`, or `citation`. XML/HTML is never returned.
+
+Invalid identifiers return 400; unverified rights return 403; missing bodies return 404; unsupported content types return 415; oversized provider responses return 413; rate limiting returns 429; timeouts return 504. Rights failures and provider errors fail closed and are not cached.

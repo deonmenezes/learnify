@@ -24,7 +24,7 @@
 <main class="research-wrap">
   <section class="research-head">
     <h1>Research by topic</h1>
-    <p>OpenAlex-indexed research papers from reputable journals and publishers, limited to a verified rolling two-year window. Learnify shows metadata and abstracts, then links to the source.</p>
+    <p>OpenAlex-indexed research papers from reputable journals and publishers, limited to a verified rolling two-year window. OpenAlex supplies metadata and abstracts. When Europe PMC verifies a supported open license, Learnify can also show the paper body; the source link always remains available.</p>
   </section>
   <nav id="topics" class="topic-list" aria-label="Research topics"></nav>
   <section>
@@ -61,15 +61,14 @@ function paintTopics() {
 }
 
 function paperCard(paper) {
-  let target = "#";
-  try { const url = new URL(paper.canonical_url || paper.url); if (["http:", "https:"].includes(url.protocol)) target = url.href; } catch (_) {}
+  const target = `/app/article.html?paper=${encodeURIComponent(paper.id)}&topic=${encodeURIComponent(selected)}`;
   const provider = paper.source_label || paper.publisher || paper.provider || "OpenAlex";
-  return `<a class="card paper" href="${esc(target)}" target="_blank" rel="noopener noreferrer">
+  return `<a class="card paper" href="${esc(target)}">
     <div class="paper-meta">${esc(paper.content_type_label || "Research paper")} · ${esc(provider)}</div>
     <h2>${esc(paper.title)}</h2>
     <p>${esc(paper.summary || "No abstract is available; open the source for details.")}</p>
     <div class="paper-meta">${paper.published ? esc(new Date(paper.published).toLocaleDateString()) : ""}${paper.citations ? ` · ${paper.citations} citations` : ""}</div>
-    <div class="source-link">Open paper at source ↗</div>
+    <div class="source-link">Read in Learnify →</div>
   </a>`;
 }
 
@@ -100,7 +99,7 @@ async function loadFeed() {
     grid.innerHTML = papers.map(paperCard).join("");
     grid.hidden = false;
     state.hidden = true;
-    grid.querySelectorAll("a").forEach((link) => link.addEventListener("click", () => T.track("article_link_out", { surface: "research", source_id: "openalex" })));
+    grid.querySelectorAll("a").forEach((link) => link.addEventListener("click", () => T.track("article_selected", { surface: "research" })));
   } catch {
     T.track("content_load_failed", { resource: "research", fallback: "none" });
     state.innerHTML = `<b>Research could not be loaded.</b><br>The provider may be temporarily unavailable.<br><button type="button" class="btn retry">Try again</button>`;

@@ -187,6 +187,18 @@ function toResearch(p, enr, base) {
     content_type_label: p.content_type_label || "Research paper",
     canonical_url: p.canonical_url || String(p.link || "").trim(),
     freshness_verified: p.freshness_verified === true,
+    rights_status: p.rights_status || "unknown_or_restricted",
+    full_text_status: p.full_text_status || "unknown",
+    full_text_available: p.full_text_available === true,
+    license_id: p.license_id || null,
+    license_url: p.license_url || null,
+    attribution: p.attribution || `Source: ${p.source_label || p.source || "Research"}`,
+    body_source: p.body_source || null,
+    body_source_url: p.body_source_url || null,
+    rights_provenance_at: p.rights_provenance_at || null,
+    content_endpoint: p.content_endpoint || null,
+    pmcid: p.pmcid || null,
+    pmid: p.pmid || null,
   };
 }
 
