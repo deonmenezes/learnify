@@ -60,17 +60,21 @@
   <div class="sheet">
     <span class="pill"><span class="pill-dot"></span>Learnify</span>
     <h1>Privacy Policy</h1>
-    <div class="sub">Last updated: July 21, 2026</div>
+    <div class="sub">Last updated: July 22, 2026</div>
 
     <p>Learnify ("the app", "we") is a tech-news reader that shows headlines from public sources and links you out to read the full article on the publisher's own website. This policy explains what data the app handles.</p>
 
     <h2>Data we collect</h2>
-    <p>Learnify is designed to collect as little as possible. We do <strong>not</strong> use advertising SDKs, cross-site trackers, or session replay, and we do <strong>not</strong> sell your personal data. Optional aggregate product analytics is described below.</p>
+    <p>Learnify is designed to collect as little as possible. We do <strong>not</strong> use advertising SDKs, cross-app or cross-site trackers, or session replay, and we do <strong>not</strong> sell your personal data. Optional aggregate product analytics is described below.</p>
     <ul>
-      <li><strong>Account details</strong> (email address and optional display name) and your <strong>topic interests</strong> are stored <strong>locally on your device</strong> to power sign-in and personalize your feed.</li>
-      <li><strong>Saved articles</strong> are stored locally on your device.</li>
+      <li><strong>Account details:</strong> if you create an account, we process your email address, optional display name, account identifier, and topic interests to authenticate you and personalize Learnify.</li>
+      <li><strong>Library and learning progress:</strong> saved and liked items, reading activity, streaks, and related learning progress are kept on your device for speed and offline use. For signed-in users, these records are also stored in Supabase so they can follow you across devices and reinstalls.</li>
+      <li><strong>Leaderboard profile:</strong> your display name, interests, level, XP, streak, longest streak, and total-read count may be visible to other Learnify users on public leaderboard and profile screens. Your email address and private library are not public.</li>
       <li><strong>Marketing (opt-in only):</strong> if — and only if — you tick the optional "updates" box at sign-up, we collect your <strong>email address</strong> and, if you choose to provide it, your <strong>phone number</strong>, in order to send you product updates and tech-news digests. This is <strong>off by default</strong>, is never required to use the app, and you can unsubscribe at any time. We do not sell this information.</li>
     </ul>
+
+    <h2>Where data is processed</h2>
+    <p>Supabase provides account authentication and cloud synchronization. Apple processes App Store purchases. Google processes sign-in information only if you choose Sign in with Google. Our subscription provider may process subscription status, and our marketing endpoint processes contact details only after an explicit opt-in. These providers process information under their own privacy terms and only for the features you use.</p>
 
     <h2>Marketing communications</h2>
     <p>If you opt in, we use your email (and optional phone number) only to send you Learnify updates and digests. Every message includes a way to unsubscribe, and you can also email <a href="mailto:privacy@techscroll.app">privacy@techscroll.app</a> to be removed at any time.</p>
@@ -78,14 +82,20 @@
     <h2>News content</h2>
     <p>To populate your feed, the app requests public news metadata (headlines, source names, categories, links) from our content endpoint. These requests do not include your account information or any personal identifiers. Article headlines and links belong to their respective publishers; Learnify links you out to read full articles at the source.</p>
 
+    <h2>AI-generated summaries</h2>
+    <p>The short summaries shown in Learnify are generated or assisted by automated systems using publicly available article and research-paper metadata. No private account information, library data, or learning progress is sent to summary processing.</p>
+
     <h2>Tracking</h2>
     <p>Learnify does not track you across apps or websites and does not request the App Tracking Transparency permission. On the website, anonymous Vercel Web Analytics is disabled unless you explicitly choose <strong>Allow anonymous analytics</strong>. It records only allowlisted aggregate events such as screen views, coarse feature actions, and foreground engagement-minute counts. We do not send article titles or URLs, searches, form or flashcard contents, email addresses, account IDs, raw error messages, or session recordings. You can change your choice at any time using <em>Analytics preferences</em>.</p>
+
+    <h2>Your choices</h2>
+    <p>You can use Learnify as a guest, update your interests, disable optional notifications, unsubscribe from marketing messages, sign out, or permanently delete your account from inside the app.</p>
 
     <h2>Children</h2>
     <p>Learnify is not directed to children under 13 and does not knowingly collect personal information from children.</p>
 
     <h2>Data deletion</h2>
-    <p>You can delete your account and all locally stored data at any time from <em>Settings → Delete Account</em> inside the app. Uninstalling the app also removes all locally stored data.</p>
+    <p>You can permanently delete your account from <em>Account &amp; Privacy</em> on the subscription screen or from <em>Settings → Delete Account</em>. Deletion removes the account and associated synchronized data from our servers and clears saved items, likes, and learning progress from the device. If your session has expired, Learnify may ask you to sign in again before it can authorize deletion. Uninstalling the app removes device-only data but does not by itself delete a signed-in account or its synchronized data.</p>
 
     <h2>Changes</h2>
     <p>We may update this policy from time to time. Material changes will be reflected on this page with a new "Last updated" date.</p>
@@ -93,7 +103,7 @@
     <h2>Contact</h2>
     <p>Questions about this policy? Email <a href="mailto:privacy@techscroll.app">privacy@techscroll.app</a>.</p>
 
-    <footer>© 2026 Learnify · Article headlines, images, and content are the property of their respective publishers.</footer>
+    <footer>© 2026 Learnify · Third-party article headlines and content remain the property of their respective publishers.</footer>
   </div>
 </main>
 </body>
