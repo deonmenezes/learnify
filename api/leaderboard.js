@@ -20,12 +20,13 @@ import { sbSelect } from "../lib/supabase.js";
 
 // The real-users leaderboard ("top scrollers & learners") — ranks ts_profiles
 // through the privacy-safe public view. Every row uses a deterministic Learner
-// alias and aggregate stats; account names, avatars, and interests never leave
-// this endpoint. Empty array (never fake users) when no one has read yet.
+// alias, opaque public lookup id, and aggregate stats; account UUIDs, names,
+// avatars, and interests never leave this endpoint. Empty array (never fake
+// users) when no one has read yet.
 async function usersLeaderboard(res) {
   res.setHeader("Cache-Control", "public, s-maxage=60, stale-while-revalidate=300");
   const rows = await sbSelect("ts_leaderboard", {
-    select: "user_id,xp,streak,longest_streak,level,total_read,rank",
+    select: "user_id,display_name,xp,streak,longest_streak,level,total_read,rank",
     order: "rank.asc",
     limit: "100",
   });

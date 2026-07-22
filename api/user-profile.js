@@ -1,6 +1,7 @@
 // GET /api/user-profile?id=<user_id> — a single user's PUBLIC profile for the
 // leaderboard's tap-through profile view. Reads the privacy-safe ts_leaderboard
-// view and returns a deterministic Learner alias plus aggregate stats only.
+// view and returns an opaque public lookup id, deterministic Learner alias, and
+// aggregate stats only. The account UUID is never accepted or returned.
 //
 // Response: { user_id, display_name, avatar_url, xp, streak, longest_streak,
 //             level, total_read, interests:[String], last_activity, rank }
@@ -18,9 +19,10 @@ export default async function handler(req, res) {
 
   const id = String(req.query.id || "").trim();
   if (!id) return res.status(400).json({ error: "missing id" });
+  if (!/^[a-f0-9]{32}$/.test(id)) return res.status(400).json({ error: "invalid id" });
 
   const rows = await sbSelect("ts_leaderboard", {
-    select: "user_id,xp,streak,longest_streak,level,total_read,rank",
+    select: "user_id,display_name,xp,streak,longest_streak,level,total_read,rank",
     user_id: `eq.${id}`,
     limit: "1",
   });
