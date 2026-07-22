@@ -127,11 +127,12 @@
 
   // ----- leaderboard (REAL) -----
   const lb = await T.leaderboard(5);
-  T.$("#leaderboard").innerHTML = (lb.length ? lb : [{display_name:profile.display_name,xp:profile.xp,streak:profile.streak}]).map((r,i)=>`
+  T.$("#leaderboard").innerHTML = lb.length ? lb.map((r,i)=>`
     <div class="lb-row"><span class="lb-rank ${i<3?'g'+(i+1):''}">${i+1}</span>
       <span class="lb-av" style="display:grid;place-items:center;font-weight:800;color:#1d4ed8;font-size:12px">${esc((r.display_name||'U')[0].toUpperCase())}</span>
       <span class="lb-name">${esc(r.display_name||'Reader')}</span>
-      <span class="lb-xp"><span class="st">🔥 ${r.streak||0}</span> ${(r.xp||0).toLocaleString()} XP</span></div>`).join("");
+      <span class="lb-xp"><span class="st">🔥 ${r.streak||0}</span> ${(r.xp||0).toLocaleString()} XP</span></div>`).join("")
+    : `<div class="muted" style="padding:12px 0">No leaderboard activity yet.</div>`;
 
   // ----- articles -----
   const arts = await T.articles();

@@ -86,8 +86,12 @@
     return data;
   }
   async function leaderboard(limit = 5) {
-    const { data } = await sb.from("ts_leaderboard").select("*").limit(limit);
-    return data || [];
+    try {
+      const r = await fetch("/api/leaderboard?type=users", { cache: "no-store" });
+      if (!r.ok) return [];
+      const body = await r.json();
+      return Array.isArray(body.users) ? body.users.slice(0, limit) : [];
+    } catch (_) { return []; }
   }
 
   // ---- articles ----

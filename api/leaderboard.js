@@ -15,34 +15,21 @@
 //    a cleaner-licensed primary when ready.
 
 import { collectNewReleases } from "../lib/openrouter.js";
+import { anonymousLeaderboardEntry } from "../lib/learner-alias.js";
 import { sbSelect } from "../lib/supabase.js";
 
-// Derive a level from xp when a row hasn't stored one (keeps the board honest if
-// an older client wrote a profile without a level). Mirrors the app's 500xp/level.
-const levelFromXp = (xp) => Math.max(1, Math.floor((xp || 0) / 500) + 1);
-
 // The real-users leaderboard ("top scrollers & learners") — ranks ts_profiles
-// through the RLS-bypassing public view (migration 0004). Returns ONLY non-PII
-// public fields. Empty array (never fake users) when no one has read yet.
+// through the privacy-safe public view. Every row uses a deterministic Learner
+// alias and aggregate stats; account names, avatars, and interests never leave
+// this endpoint. Empty array (never fake users) when no one has read yet.
 async function usersLeaderboard(res) {
   res.setHeader("Cache-Control", "public, s-maxage=60, stale-while-revalidate=300");
   const rows = await sbSelect("ts_leaderboard", {
-    select: "user_id,display_name,avatar_url,xp,streak,longest_streak,level,total_read,last_activity,rank",
+    select: "user_id,xp,streak,longest_streak,level,total_read,rank",
     order: "rank.asc",
     limit: "100",
   });
-  const users = rows.map((r) => ({
-    rank: r.rank,
-    user_id: r.user_id,
-    display_name: r.display_name || null,
-    avatar_url: r.avatar_url || null,
-    xp: r.xp || 0,
-    streak: r.streak || 0,
-    longest_streak: r.longest_streak || 0,
-    level: r.level || levelFromXp(r.xp),
-    total_read: r.total_read || 0,
-    last_activity: r.last_activity || null,
-  }));
+  const users = rows.map(anonymousLeaderboardEntry);
   return res.status(200).json({
     source: "users",
     generated_at: new Date().toISOString(),
