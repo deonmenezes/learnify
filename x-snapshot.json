@@ -1,15 +1,98 @@
 {
-  "generated_at": "2026-07-23T21:38:02.094Z",
+  "generated_at": "2026-07-23T23:01:10.406Z",
   "handles": [
-    "GoogleDeepMind",
-    "elonmusk",
     "nvidia",
-    "OpenAI",
+    "GoogleDeepMind",
     "gdb",
+    "elonmusk",
+    "OpenAI",
     "AnthropicAI"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2080351159638704615",
+      "title": "Launching Health in ChatGPT to U.S. users. 300 million people use ChatGPT each week for health queries (and my wife and I are among those!). You can now securely connect supported medical records so…",
+      "link": "https://x.com/gdb/status/2080351159638704615",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Greg Brockman · @gdb",
+      "handle": "gdb",
+      "org": "OpenAI",
+      "published": "2026-07-23T17:55:42.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Funding & deals",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Funding & deals"
+      ],
+      "summary": "Launching Health in ChatGPT to U.S. users. 300 million people use ChatGPT each week for health queries (and my wife and I are among those!). You can now securely connect supported medical records so ChatGPT can understand your personal context and be more helpful to you.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 100,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "announcement language (launching, you can now)",
+        "business signal (million)",
+        "high engagement (1.1K likes)",
+        "concrete metrics"
+      ],
+      "metrics": {
+        "likes": 1141,
+        "retweets": 59,
+        "replies": 131,
+        "likes_h": "1.1K"
+      },
+      "engagement": 1390,
+      "hot": false
+    },
+    {
+      "id": "x_2080326297260072992",
+      "title": "What a moment for @NPS_Monterey and the public sector. At Converge @ NPS, our CEO Jensen Huang joined federal leaders and ecosystem partners to commission the #NVIDIADGX GB300 system, providing 1,500…",
+      "link": "https://x.com/nvidia/status/2080326297260072992",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-07-23T16:16:54.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Commentary",
+        "NVIDIADGX"
+      ],
+      "summary": "What a moment for @NPS_Monterey and the public sector. At Converge @ NPS, our CEO Jensen Huang joined federal leaders and ecosystem partners to commission the #NVIDIADGX GB300 system, providing 1,500 students and 600 faculty with on-premises access to large-scale AI computing",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 56,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy"
+      ],
+      "metrics": {
+        "likes": 155,
+        "retweets": 22,
+        "replies": 18,
+        "likes_h": "155"
+      },
+      "engagement": 217,
+      "hot": false
+    },
     {
       "id": "x_2080321516814647630",
       "title": "Gemini 3.5 Flash Cyber is our specialized, lightweight model built to help security teams spot and patch vulnerabilities before they can be exploited. 🧵",
@@ -34,7 +117,7 @@
       "summary": "Gemini 3.5 Flash Cyber is our specialized, lightweight model built to help security teams spot and patch vulnerabilities before they can be exploited. 🧵",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 79,
+      "worthiness_score": 81,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -42,12 +125,12 @@
         "tech substance (model, gemini)"
       ],
       "metrics": {
-        "likes": 241,
-        "retweets": 24,
-        "replies": 26,
-        "likes_h": "241"
+        "likes": 575,
+        "retweets": 47,
+        "replies": 43,
+        "likes_h": "575"
       },
-      "engagement": 315,
+      "engagement": 712,
       "hot": false
     },
     {
@@ -83,12 +166,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 361,
-        "retweets": 55,
-        "replies": 36,
-        "likes_h": "361"
+        "likes": 377,
+        "retweets": 57,
+        "replies": 38,
+        "likes_h": "377"
       },
-      "engagement": 507,
+      "engagement": 529,
       "hot": false
     },
     {
@@ -166,12 +249,12 @@
         "tech substance (models, research, robotics)"
       ],
       "metrics": {
-        "likes": 271,
-        "retweets": 32,
+        "likes": 278,
+        "retweets": 33,
         "replies": 22,
-        "likes_h": "271"
+        "likes_h": "278"
       },
-      "engagement": 357,
+      "engagement": 366,
       "hot": false
     },
     {
@@ -207,12 +290,12 @@
         "tech substance (gpu)"
       ],
       "metrics": {
-        "likes": 167,
-        "retweets": 13,
+        "likes": 171,
+        "retweets": 14,
         "replies": 13,
-        "likes_h": "167"
+        "likes_h": "171"
       },
-      "engagement": 206,
+      "engagement": 212,
       "hot": false
     },
     {
@@ -247,12 +330,12 @@
         "tech substance (blackwell)"
       ],
       "metrics": {
-        "likes": 263,
-        "retweets": 44,
+        "likes": 268,
+        "retweets": 46,
         "replies": 12,
-        "likes_h": "263"
+        "likes_h": "268"
       },
-      "engagement": 363,
+      "engagement": 372,
       "hot": false
     },
     {
@@ -372,12 +455,12 @@
         "tech substance (model, gemini)"
       ],
       "metrics": {
-        "likes": 532,
+        "likes": 545,
         "retweets": 47,
         "replies": 49,
-        "likes_h": "532"
+        "likes_h": "545"
       },
-      "engagement": 675,
+      "engagement": 688,
       "hot": false
     },
     {
@@ -454,12 +537,12 @@
         "tech substance (platform)"
       ],
       "metrics": {
-        "likes": 639,
+        "likes": 642,
         "retweets": 69,
         "replies": 32,
-        "likes_h": "639"
+        "likes_h": "642"
       },
-      "engagement": 809,
+      "engagement": 812,
       "hot": false
     },
     {
@@ -496,12 +579,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 1032,
-        "retweets": 123,
+        "likes": 1037,
+        "retweets": 126,
         "replies": 44,
         "likes_h": "1K"
       },
-      "engagement": 1322,
+      "engagement": 1333,
       "hot": false
     },
     {
@@ -578,12 +661,12 @@
         "tech substance (gemini)"
       ],
       "metrics": {
-        "likes": 704,
+        "likes": 705,
         "retweets": 55,
         "replies": 47,
-        "likes_h": "704"
+        "likes_h": "705"
       },
-      "engagement": 861,
+      "engagement": 862,
       "hot": false
     },
     {
@@ -1248,86 +1331,6 @@
         "likes_h": "608"
       },
       "engagement": 871,
-      "hot": false
-    },
-    {
-      "id": "x_2077545044752429330",
-      "title": "Jensen. @SEGA. Akihabara. 🎮 Some collabs are just meant to be. We stepped into the heart of Tokyo's most legendary gaming district to celebrate decades of shared history, and the next era with…",
-      "link": "https://x.com/nvidia/status/2077545044752429330",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-07-16T00:05:12.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Commentary"
-      ],
-      "summary": "Jensen. @SEGA. Akihabara. 🎮 Some collabs are just meant to be. We stepped into the heart of Tokyo's most legendary gaming district to celebrate decades of shared history, and the next era with @NVIDIARTXSpark.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 60,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "high engagement (3.6K likes)"
-      ],
-      "metrics": {
-        "likes": 3566,
-        "retweets": 872,
-        "replies": 55,
-        "likes_h": "3.6K"
-      },
-      "engagement": 5365,
-      "hot": true
-    },
-    {
-      "id": "x_2077540972422946823",
-      "title": "Japan's biggest banks spent the last few years evaluating AI. Now they're building the infrastructure for it. 🏭 We're working with Mizuho, SMFG, Rakuten Bank, and MUFG NICOS to build the AI…",
-      "link": "https://x.com/nvidia/status/2077540972422946823",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-07-15T23:49:01.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product"
-      ],
-      "summary": "Japan's biggest banks spent the last few years evaluating AI. Now they're building the infrastructure for it. 🏭 We're working with Mizuho, SMFG, Rakuten Bank, and MUFG NICOS to build the AI factories making that possible — using NVIDIA Nemotron open models and Agent Toolkit to",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 86,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "tech substance (models, nemotron, agent)"
-      ],
-      "metrics": {
-        "likes": 432,
-        "retweets": 96,
-        "replies": 23,
-        "likes_h": "432"
-      },
-      "engagement": 647,
       "hot": false
     }
   ]

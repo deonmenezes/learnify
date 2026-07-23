@@ -1,13 +1,14 @@
 {
-  "generated_at": "2026-07-23T21:40:15.248Z",
+  "generated_at": "2026-07-23T23:03:25.338Z",
   "subs": [
     "MachineLearning",
-    "bodyweightfitness",
-    "robotics",
+    "longevity",
+    "hardware",
     "artificial",
     "Futurology",
     "Fitness",
-    "longevity",
+    "robotics",
+    "bodyweightfitness",
     "nutrition",
     "running",
     "startups",
@@ -17,19 +18,17 @@
     "netsec",
     "gadgets",
     "programming",
-    "hardware",
-    "SkincareAddiction",
-    "science"
+    "SkincareAddiction"
   ],
   "count": 36,
   "by_category": {
     "AI / ML": 9,
+    "Hardware & Gadgets": 4,
     "Science": 5,
     "Fitness": 7,
-    "Robotics": 2,
+    "Robotics": 1,
     "Startups & Funding": 3,
-    "Security": 5,
-    "Hardware & Gadgets": 2,
+    "Security": 4,
     "Coding & Dev Tools": 2,
     "Skincare": 1
   },
@@ -67,6 +66,124 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/artificial this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v4b5lf",
+      "title": "Microsoft is cracking down on Windows 11 bloatware ads, forces LG to pull McAfee popup",
+      "link": "https://www.reddit.com/r/hardware/comments/1v4b5lf/microsoft_is_cracking_down_on_windows_11/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/hardware · community knowledge",
+      "content_type": "post",
+      "author": "u/Quantum-Coconut · r/hardware",
+      "handle": "hardware",
+      "org": "r/hardware",
+      "platform": "reddit",
+      "published": "2026-07-23T11:27:10.000Z",
+      "image": "https://external-preview.redd.it/ghVkwcSDUrl1merh7N5RuGNpLCiLmadYfTuC1gkY4Ts.jpeg?width=640&crop=smart&auto=webp&s=d6039198925a9890e250a6389c2b1dbad88245d4",
+      "thumbnail": "https://external-preview.redd.it/ghVkwcSDUrl1merh7N5RuGNpLCiLmadYfTuC1gkY4Ts.jpeg?width=640&crop=smart&auto=webp&s=d6039198925a9890e250a6389c2b1dbad88245d4",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/hardware"
+      ],
+      "summary": "Microsoft is cracking down on Windows 11 bloatware ads, forces LG to pull McAfee popup",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/hardware this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v49rku",
+      "title": "Framework nearly doubles memory pricing for 32GB, 64GB Laptop 13 Pro overnight — CEO says absorbing LPCAMM2 supplier hikes would put 'our ability to operate at real financial risk' | Tom's Hardware",
+      "link": "https://www.reddit.com/r/hardware/comments/1v49rku/framework_nearly_doubles_memory_pricing_for_32gb/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/hardware · community knowledge",
+      "content_type": "post",
+      "author": "u/sr_local · r/hardware",
+      "handle": "hardware",
+      "org": "r/hardware",
+      "platform": "reddit",
+      "published": "2026-07-23T10:17:37.000Z",
+      "image": "https://external-preview.redd.it/mMATiTjDJjl30229xR_SGDjTzuxRxHQuiAS_mBONMGM.jpeg?width=640&crop=smart&auto=webp&s=74bdd91efd1ed29fefddbc2ddaaf78cebe551396",
+      "thumbnail": "https://external-preview.redd.it/mMATiTjDJjl30229xR_SGDjTzuxRxHQuiAS_mBONMGM.jpeg?width=640&crop=smart&auto=webp&s=74bdd91efd1ed29fefddbc2ddaaf78cebe551396",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/hardware"
+      ],
+      "summary": "Framework nearly doubles memory pricing for 32GB, 64GB Laptop 13 Pro overnight — CEO says absorbing LPCAMM2 supplier hikes would put 'our ability to operate at real financial risk' | Tom's Hardware",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/hardware this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v3o5tm",
+      "title": "Dr. Rhonda Patrick here. My new episode with immunologist Dr. Derya Unutmaz explores why the next 10 years of may be the most consequential longevity window in human history. His prediction: longevity escape velocity within 8–10 years, followed by the possibility of complete age reversal within 15.",
+      "link": "https://www.reddit.com/r/longevity/comments/1v3o5tm/dr_rhonda_patrick_here_my_new_episode_with/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/longevity · community knowledge",
+      "content_type": "post",
+      "author": "u/rperciav · r/longevity",
+      "handle": "longevity",
+      "org": "r/longevity",
+      "platform": "reddit",
+      "published": "2026-07-22T18:11:14.000Z",
+      "image": "https://external-preview.redd.it/2a_X3DqYhbvVBdiVeUsY3DEe_kZhyfNDJ3e7yJ52lyk.jpeg?width=320&crop=smart&auto=webp&s=81eae6e8865d01aea04059a9794ec8fc60f03b57",
+      "thumbnail": "https://external-preview.redd.it/2a_X3DqYhbvVBdiVeUsY3DEe_kZhyfNDJ3e7yJ52lyk.jpeg?width=320&crop=smart&auto=webp&s=81eae6e8865d01aea04059a9794ec8fc60f03b57",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Longevity",
+      "categories": [
+        "Reddit",
+        "Science",
+        "Longevity",
+        "r/longevity"
+      ],
+      "summary": "Dr. Rhonda Patrick here. My new episode with immunologist Dr. Derya Unutmaz explores why the next 10 years of may be the most consequential longevity window in human history. His prediction: longevity escape velocity within 8–10 years, followed by the possibility of complete age reversal within 15.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/longevity this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1329,123 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v1fvzm",
-      "title": "What do you think of ton-class robotic horses?",
-      "link": "https://www.reddit.com/r/robotics/comments/1v1fvzm/what_do_you_think_of_tonclass_robotic_horses/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/robotics · community knowledge",
-      "content_type": "post",
-      "author": "u/D1n0saurMecha · r/robotics",
-      "handle": "robotics",
-      "org": "r/robotics",
-      "platform": "reddit",
-      "published": "2026-07-20T08:46:47.000Z",
-      "image": "https://external-preview.redd.it/NHNjMmF4NnJqY2VoMZTHnodeGcL9ntwfwLlfmWAI-WgIDGzOwKYXn65uH-ut.png?width=640&crop=smart&auto=webp&s=f13180cf6a1495e8b339ec0c9658069c8b4002ee",
-      "thumbnail": "https://external-preview.redd.it/NHNjMmF4NnJqY2VoMZTHnodeGcL9ntwfwLlfmWAI-WgIDGzOwKYXn65uH-ut.png?width=640&crop=smart&auto=webp&s=f13180cf6a1495e8b339ec0c9658069c8b4002ee",
-      "section": "Robotics",
-      "category": "Robotics",
-      "genre": "Robotics",
-      "categories": [
-        "Reddit",
-        "Robotics",
-        "r/robotics"
-      ],
-      "summary": "Four-legged robots can reach many places that wheeled vehicles cannot. Isn’t it a bit of a waste to treat them as mere means of transportation when they can carry loads weighing several metric tons? Their current speed is still a bit too slow—is this due to safety restrictions, or are the hardware limitations—such as…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/robotics this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v1fbe1",
-      "title": "Exploit brokers pay $500,000 for a WordPress RCE. I found one with GPT5.6 Sol Ultra and $25",
-      "link": "https://www.reddit.com/r/netsec/comments/1v1fbe1/exploit_brokers_pay_500000_for_a_wordpress_rce_i/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/netsec · community knowledge",
-      "content_type": "post",
-      "author": "u/Mempodipper · r/netsec",
-      "handle": "netsec",
-      "org": "r/netsec",
-      "platform": "reddit",
-      "published": "2026-07-20T08:12:31.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/netsec"
-      ],
-      "summary": "Exploit brokers pay $500,000 for a WordPress RCE. I found one with GPT5.6 Sol Ultra and $25",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/netsec this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v1e7os",
-      "title": "Researchers quantitatively assessed for the first time that somatic mutations alone cap human lifespan at 146–194 years. Brain and heart cells are the main bottleneck, while the liver could last millennia.",
-      "link": "https://www.reddit.com/r/science/comments/1v1e7os/researchers_quantitatively_assessed_for_the_first/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/science · community knowledge",
-      "content_type": "post",
-      "author": "u/Skoltech_ · r/science",
-      "handle": "science",
-      "org": "r/science",
-      "platform": "reddit",
-      "published": "2026-07-20T07:07:55.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/science"
-      ],
-      "summary": "Researchers quantitatively assessed for the first time that somatic mutations alone cap human lifespan at 146–194 years. Brain and heart cells are the main bottleneck, while the liver could last millennia.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/science this week"
       ],
       "metrics": {
         "likes": 0,
