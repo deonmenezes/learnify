@@ -1,16 +1,17 @@
 {
-  "generated_at": "2026-07-23T18:52:11.435Z",
+  "generated_at": "2026-07-23T20:20:04.038Z",
   "subs": [
     "MachineLearning",
-    "bodyweightfitness",
-    "startups",
     "artificial",
+    "running",
+    "investing",
     "Futurology",
     "Fitness",
     "longevity",
     "robotics",
+    "bodyweightfitness",
     "nutrition",
-    "running",
+    "startups",
     "cybersecurity",
     "LocalLLaMA",
     "singularity",
@@ -19,22 +20,61 @@
     "programming",
     "hardware",
     "SkincareAddiction",
-    "science",
-    "investing"
+    "science"
   ],
   "count": 36,
   "by_category": {
-    "AI / ML": 8,
+    "AI / ML": 9,
     "Science": 5,
     "Fitness": 7,
     "Robotics": 2,
-    "Startups & Funding": 4,
+    "Startups & Funding": 3,
     "Security": 5,
     "Hardware & Gadgets": 2,
     "Coding & Dev Tools": 2,
     "Skincare": 1
   },
   "articles": [
+    {
+      "id": "reddit_1v4j8rn",
+      "title": "We can live without AI, but we can’t live without water. “I have a jar right here. This is the current drinking water in Morgan Country, Georgia, right after a data center was constructed.” This is what the drinking water now looks like next to that data center” Protect our environment",
+      "link": "https://www.reddit.com/r/artificial/comments/1v4j8rn/we_can_live_without_ai_but_we_cant_live_without/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/artificial · community knowledge",
+      "content_type": "post",
+      "author": "u/Livid_Violinist7259 · r/artificial",
+      "handle": "artificial",
+      "org": "r/artificial",
+      "platform": "reddit",
+      "published": "2026-07-23T16:41:17.000Z",
+      "image": "https://preview.redd.it/mlotb8ipc0fh1.jpeg?width=640&crop=smart&auto=webp&s=62b790222f2fc8cae849dfa28c1b09207aa62651",
+      "thumbnail": "https://preview.redd.it/mlotb8ipc0fh1.jpeg?width=640&crop=smart&auto=webp&s=62b790222f2fc8cae849dfa28c1b09207aa62651",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/artificial"
+      ],
+      "summary": "We can live without AI, but we can’t live without water. “I have a jar right here. This is the current drinking water in Morgan Country, Georgia, right after a data center was constructed.” This is what the drinking water now looks like next to that data center” Protect our environment",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/artificial this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1v3mxzb",
       "title": "An AI broke out of its sandbox yesterday. Then it hacked a company. Nobody told it to do either of those things.",
@@ -1407,46 +1447,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/science this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v1dvdr",
-      "title": "Read NVIDIA's 10-Q last night. The earnings call skipped over some stuff.",
-      "link": "https://www.reddit.com/r/investing/comments/1v1dvdr/read_nvidias_10q_last_night_the_earnings_call/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/investing · community knowledge",
-      "content_type": "post",
-      "author": "u/ng_logic · r/investing",
-      "handle": "investing",
-      "org": "r/investing",
-      "platform": "reddit",
-      "published": "2026-07-20T06:48:31.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/investing"
-      ],
-      "summary": "So I went through the filing. The call was all &quot;parabolic demand&quot; and everything sounds amazing. Then you actually read the numbers. $58 billion in net income, but $13.4 billion of that was just unrealized gains from stocks they own. Intel went up so they booked a gain. That has nothing to do with selling…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/investing this week"
       ],
       "metrics": {
         "likes": 0,
