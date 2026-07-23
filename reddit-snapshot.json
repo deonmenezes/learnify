@@ -1,10 +1,11 @@
 {
-  "generated_at": "2026-07-23T15:36:33.278Z",
+  "generated_at": "2026-07-23T17:29:47.682Z",
   "subs": [
     "MachineLearning",
-    "Futurology",
-    "gadgets",
+    "programming",
+    "cybersecurity",
     "artificial",
+    "Futurology",
     "Fitness",
     "longevity",
     "robotics",
@@ -14,6 +15,7 @@
     "LocalLLaMA",
     "singularity",
     "netsec",
+    "gadgets",
     "hardware",
     "bodyweightfitness",
     "SkincareAddiction",
@@ -22,13 +24,14 @@
   ],
   "count": 36,
   "by_category": {
-    "AI / ML": 10,
-    "Science": 8,
+    "AI / ML": 9,
+    "Science": 5,
     "Fitness": 7,
     "Robotics": 2,
     "Startups & Funding": 3,
-    "Security": 2,
-    "Hardware & Gadgets": 3,
+    "Security": 5,
+    "Hardware & Gadgets": 2,
+    "Coding & Dev Tools": 2,
     "Skincare": 1
   },
   "articles": [
@@ -548,6 +551,45 @@
       }
     },
     {
+      "id": "reddit_1v2zpfk",
+      "title": "Oracle Releases 1235 CVEs today.",
+      "link": "https://www.reddit.com/r/cybersecurity/comments/1v2zpfk/oracle_releases_1235_cves_today/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/cybersecurity · community knowledge",
+      "content_type": "post",
+      "author": "u/scooterthetroll · r/cybersecurity",
+      "handle": "cybersecurity",
+      "org": "r/cybersecurity",
+      "platform": "reddit",
+      "published": "2026-07-22T00:01:08.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/cybersecurity"
+      ],
+      "summary": "Oracle Releases 1235 CVEs today.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/cybersecurity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1v2w7jl",
       "title": "OpenAI admits responsibility for HuggingFace Attack - an agent from an internal evaluation is reportedly the cause.",
       "link": "https://www.reddit.com/r/LocalLLaMA/comments/1v2w7jl/openai_admits_responsibility_for_huggingface/",
@@ -706,6 +748,45 @@
       }
     },
     {
+      "id": "reddit_1v2jm18",
+      "title": "US police now armed with Israeli spy vans simulating mobile phone towers",
+      "link": "https://www.reddit.com/r/cybersecurity/comments/1v2jm18/us_police_now_armed_with_israeli_spy_vans/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/cybersecurity · community knowledge",
+      "content_type": "post",
+      "author": "u/tw1st3d_m3nt4t · r/cybersecurity",
+      "handle": "cybersecurity",
+      "org": "r/cybersecurity",
+      "platform": "reddit",
+      "published": "2026-07-21T14:11:50.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/cybersecurity"
+      ],
+      "summary": "US police now armed with Israeli spy vans simulating mobile phone towers",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/cybersecurity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1v2ioz8",
       "title": "What running myth did you believe until experience proved it wrong?",
       "link": "https://www.reddit.com/r/running/comments/1v2ioz8/what_running_myth_did_you_believe_until/",
@@ -777,6 +858,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/LocalLLaMA this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v2bwax",
+      "title": "Linux kernel will support $ORIGIN, sort of",
+      "link": "https://www.reddit.com/r/programming/comments/1v2bwax/linux_kernel_will_support_origin_sort_of/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/programming · community knowledge",
+      "content_type": "post",
+      "author": "u/BlondieCoder · r/programming",
+      "handle": "programming",
+      "org": "r/programming",
+      "platform": "reddit",
+      "published": "2026-07-21T07:58:18.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Coding & Dev Tools",
+      "category": "Coding & Dev Tools",
+      "genre": "Coding & Dev Tools",
+      "categories": [
+        "Reddit",
+        "Coding & Dev Tools",
+        "r/programming"
+      ],
+      "summary": "Linux kernel will support $ORIGIN, sort of",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/programming this week"
       ],
       "metrics": {
         "likes": 0,
@@ -903,6 +1023,45 @@
       }
     },
     {
+      "id": "reddit_1v1rg5o",
+      "title": "Linux kernel announces 432 CVEs",
+      "link": "https://www.reddit.com/r/cybersecurity/comments/1v1rg5o/linux_kernel_announces_432_cves/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/cybersecurity · community knowledge",
+      "content_type": "post",
+      "author": "u/Junior-Spring-5557 · r/cybersecurity",
+      "handle": "cybersecurity",
+      "org": "r/cybersecurity",
+      "platform": "reddit",
+      "published": "2026-07-20T17:07:31.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/cybersecurity"
+      ],
+      "summary": "In the last 24 hours, 432 CVEs have been posted to https://lore.kernel.org/linux-cve-announce/ . Happy Monday, everyone! Let us hope that our distros were already aware of the list and have already been releasing fixes. I would love to know the story behind this. This seems like an unusually high # of vulns. &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/cybersecurity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1v1pkrb",
       "title": "Push up = pushing ~70% of bodyweight. Does that mean when I can bench 70% (or more) of my bw I can break my push up plateau?",
       "link": "https://www.reddit.com/r/bodyweightfitness/comments/1v1pkrb/push_up_pushing_70_of_bodyweight_does_that_mean/",
@@ -934,6 +1093,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/bodyweightfitness this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v1mpxw",
+      "title": "Zig proposes introducing an actually memory safe (unlike Rust) compilation mode inspired by Fil-C at ~1-6x performance penalty",
+      "link": "https://www.reddit.com/r/programming/comments/1v1mpxw/zig_proposes_introducing_an_actually_memory_safe/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/programming · community knowledge",
+      "content_type": "post",
+      "author": "u/Usual-Amount-264 · r/programming",
+      "handle": "programming",
+      "org": "r/programming",
+      "platform": "reddit",
+      "published": "2026-07-20T14:12:27.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Coding & Dev Tools",
+      "category": "Coding & Dev Tools",
+      "genre": "Coding & Dev Tools",
+      "categories": [
+        "Reddit",
+        "Coding & Dev Tools",
+        "r/programming"
+      ],
+      "summary": "Zig proposes introducing an actually memory safe (unlike Rust) compilation mode inspired by Fil-C at ~1-6x performance penalty",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/programming this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1250,203 +1448,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/nutrition this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v1733s",
-      "title": "Kodak EC35 is a dirt-cheap point-and-shoot film camera",
-      "link": "https://www.reddit.com/r/gadgets/comments/1v1733s/kodak_ec35_is_a_dirtcheap_pointandshoot_film/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/gadgets · community knowledge",
-      "content_type": "post",
-      "author": "u/dapperlemon · r/gadgets",
-      "handle": "gadgets",
-      "org": "r/gadgets",
-      "platform": "reddit",
-      "published": "2026-07-20T00:55:20.000Z",
-      "image": "https://external-preview.redd.it/_4qHGb498UdSwiqhS96sESzKC3Xa3ru-Il3oYoUYfrc.jpeg?width=640&crop=smart&auto=webp&s=6f94e4a9bb88dbca81c9544e27520b86bc06744f",
-      "thumbnail": "https://external-preview.redd.it/_4qHGb498UdSwiqhS96sESzKC3Xa3ru-Il3oYoUYfrc.jpeg?width=640&crop=smart&auto=webp&s=6f94e4a9bb88dbca81c9544e27520b86bc06744f",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/gadgets"
-      ],
-      "summary": "Kodak EC35 is a dirt-cheap point-and-shoot film camera",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/gadgets this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v16s53",
-      "title": "MIT AI expert warns automating Gen Z entry-level jobs could backfire—and cost companies their future workforce",
-      "link": "https://www.reddit.com/r/Futurology/comments/1v16s53/mit_ai_expert_warns_automating_gen_z_entrylevel/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/Futurology · community knowledge",
-      "content_type": "post",
-      "author": "u/Gari_305 · r/Futurology",
-      "handle": "Futurology",
-      "org": "r/Futurology",
-      "platform": "reddit",
-      "published": "2026-07-20T00:41:04.000Z",
-      "image": "https://external-preview.redd.it/2X7nooeH9XmoXVK_LcD7-Fm4tkivXopPQHxNhmx6HVc.jpeg?width=640&crop=smart&auto=webp&s=32bca57d27a4ff5557b83549725fe420affa6af8",
-      "thumbnail": "https://external-preview.redd.it/2X7nooeH9XmoXVK_LcD7-Fm4tkivXopPQHxNhmx6HVc.jpeg?width=640&crop=smart&auto=webp&s=32bca57d27a4ff5557b83549725fe420affa6af8",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/Futurology"
-      ],
-      "summary": "Companies betting against entry-level Gen Z talent by automating their roles may be making a costly long-term mistake. &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/Futurology this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v0xomp",
-      "title": "Exercise Erased More Than Half the Molecular Signature of Muscle Aging. A New Study Maps Exactly Which Half.",
-      "link": "https://www.reddit.com/r/longevity/comments/1v0xomp/exercise_erased_more_than_half_the_molecular/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/longevity · community knowledge",
-      "content_type": "post",
-      "author": "u/dan_in_ca · r/longevity",
-      "handle": "longevity",
-      "org": "r/longevity",
-      "platform": "reddit",
-      "published": "2026-07-19T18:11:16.000Z",
-      "image": "https://external-preview.redd.it/NhgW9sYA3OR_GoSWcX2vR5GbmSaju0eF6Tf3eBaP7M0.jpeg?width=640&crop=smart&auto=webp&s=1acaf1cdd7c187bdb0505d7e907d315ad10fc2c9",
-      "thumbnail": "https://external-preview.redd.it/NhgW9sYA3OR_GoSWcX2vR5GbmSaju0eF6Tf3eBaP7M0.jpeg?width=640&crop=smart&auto=webp&s=1acaf1cdd7c187bdb0505d7e907d315ad10fc2c9",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Longevity",
-      "categories": [
-        "Reddit",
-        "Science",
-        "Longevity",
-        "r/longevity"
-      ],
-      "summary": "Exercise Erased More Than Half the Molecular Signature of Muscle Aging. A New Study Maps Exactly Which Half.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/longevity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v0uqm4",
-      "title": "Kimi is temporarily pausing new subscriptions and prioritizing compute for current members due to surging demand.",
-      "link": "https://www.reddit.com/r/singularity/comments/1v0uqm4/kimi_is_temporarily_pausing_new_subscriptions_and/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/singularity · community knowledge",
-      "content_type": "post",
-      "author": "u/SuggestionMission516 · r/singularity",
-      "handle": "singularity",
-      "org": "r/singularity",
-      "platform": "reddit",
-      "published": "2026-07-19T16:16:33.000Z",
-      "image": "https://preview.redd.it/k8zbvfjgo7eh1.png?width=640&crop=smart&auto=webp&s=4b374ff817e1fda6a383ee27aced9ee031f79d4a",
-      "thumbnail": "https://preview.redd.it/k8zbvfjgo7eh1.png?width=640&crop=smart&auto=webp&s=4b374ff817e1fda6a383ee27aced9ee031f79d4a",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/singularity"
-      ],
-      "summary": "Kimi is temporarily pausing new subscriptions and prioritizing compute for current members due to surging demand.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/singularity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v0pwub",
-      "title": "A 65-year-old woman ended up in the ER with \"Happy Heart Syndrome\" after her daughter's wedding, a rare case where overwhelming joy temporarily weakened her heart muscle",
-      "link": "https://www.reddit.com/r/science/comments/1v0pwub/a_65yearold_woman_ended_up_in_the_er_with_happy/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/science · community knowledge",
-      "content_type": "post",
-      "author": "u/Jxntb733 · r/science",
-      "handle": "science",
-      "org": "r/science",
-      "platform": "reddit",
-      "published": "2026-07-19T12:56:43.000Z",
-      "image": "https://external-preview.redd.it/jd_niWaJ0DnTn08hbFaKJFo922luIrC4m-t_tvZciEU.png?width=640&crop=smart&auto=webp&s=7eec3dd0bc5a9e02bf8e33fffc353ace070b590b",
-      "thumbnail": "https://external-preview.redd.it/jd_niWaJ0DnTn08hbFaKJFo922luIrC4m-t_tvZciEU.png?width=640&crop=smart&auto=webp&s=7eec3dd0bc5a9e02bf8e33fffc353ace070b590b",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/science"
-      ],
-      "summary": "A 65-year-old woman ended up in the ER with \"Happy Heart Syndrome\" after her daughter's wedding, a rare case where overwhelming joy temporarily weakened her heart muscle",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/science this week"
       ],
       "metrics": {
         "likes": 0,
