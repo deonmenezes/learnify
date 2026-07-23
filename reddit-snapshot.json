@@ -1,33 +1,32 @@
 {
-  "generated_at": "2026-07-22T22:38:02.976Z",
+  "generated_at": "2026-07-23T00:07:08.193Z",
   "subs": [
     "MachineLearning",
-    "artificial",
+    "LocalLLaMA",
     "running",
-    "investing",
+    "startups",
     "Fitness",
     "longevity",
     "robotics",
     "singularity",
     "gadgets",
-    "LocalLLaMA",
-    "startups",
     "hardware",
     "bodyweightfitness",
     "SkincareAddiction",
     "netsec",
     "science",
+    "investing",
     "nutrition",
     "Futurology"
   ],
   "count": 36,
   "by_category": {
-    "AI / ML": 9,
-    "Fitness": 9,
+    "AI / ML": 10,
+    "Fitness": 7,
     "Science": 7,
     "Robotics": 2,
+    "Startups & Funding": 3,
     "Hardware & Gadgets": 4,
-    "Startups & Funding": 2,
     "Skincare": 2,
     "Security": 1
   },
@@ -270,6 +269,46 @@
       }
     },
     {
+      "id": "reddit_1v32l9k",
+      "title": "I'm the only technical person holding a 5 person startup together and I think the founder doesn't get how fragile that is (I will not promote)",
+      "link": "https://www.reddit.com/r/startups/comments/1v32l9k/im_the_only_technical_person_holding_a_5_person/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/startups · community knowledge",
+      "content_type": "post",
+      "author": "u/LagLlama · r/startups",
+      "handle": "startups",
+      "org": "r/startups",
+      "platform": "reddit",
+      "published": "2026-07-22T02:07:21.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/startups"
+      ],
+      "summary": "Throwaway for obvious reasons. Looking for a gut check from people who&#39;ve been around startups longer than me. I&#39;m a college student working part time at a 5 person startup. Nontechnical CEO, me, and the rest non-engineering. My title says &quot;contractor&quot; but in practice I own almost all the technical…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/startups this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1v32coh",
       "title": "Somatic mutations impose an entropic upper bound on human lifespan",
       "link": "https://www.reddit.com/r/longevity/comments/1v32coh/somatic_mutations_impose_an_entropic_upper_bound/",
@@ -302,6 +341,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/longevity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v2w7jl",
+      "title": "OpenAI admits responsibility for HuggingFace Attack - an agent from an internal evaluation is reportedly the cause.",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1v2w7jl/openai_admits_responsibility_for_huggingface/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/LocalLLaMA · community knowledge",
+      "content_type": "post",
+      "author": "u/Qwen30bEnjoyer · r/LocalLLaMA",
+      "handle": "LocalLLaMA",
+      "org": "r/LocalLLaMA",
+      "platform": "reddit",
+      "published": "2026-07-21T21:40:50.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/LocalLLaMA"
+      ],
+      "summary": "OpenAI admits responsibility for HuggingFace Attack - an agent from an internal evaluation is reportedly the cause.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/LocalLLaMA this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1366,84 +1445,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/gadgets this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v0heh5",
-      "title": "Achievements for Sunday, July 19, 2026",
-      "link": "https://www.reddit.com/r/running/comments/1v0heh5/achievements_for_sunday_july_19_2026/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/running · community knowledge",
-      "content_type": "post",
-      "author": "u/AutoModerator · r/running",
-      "handle": "running",
-      "org": "r/running",
-      "platform": "reddit",
-      "published": "2026-07-19T05:02:13.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/running"
-      ],
-      "summary": "Hey runners, it&#39;s another day and it is time to post your accomplishments you&#39;d like to share - big or small. Note: No need to preface YOUR accomplishments with something like, &quot;this may not be an accomplishment to most of you...&quot;. Be proud of your achievement. &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/running this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v08al8",
-      "title": "How long does it realistically take to build a good base? I keep getting sick!",
-      "link": "https://www.reddit.com/r/running/comments/1v08al8/how_long_does_it_realistically_take_to_build_a/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/running · community knowledge",
-      "content_type": "post",
-      "author": "u/BADCrotalinae · r/running",
-      "handle": "running",
-      "org": "r/running",
-      "platform": "reddit",
-      "published": "2026-07-18T21:44:44.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/running"
-      ],
-      "summary": "I started running last year late October early November ish. I was putting in 25~40 miles a week, and did my first marathon on new years eve. It took me out completely for a week, but I came back strong and was able to slowly(over the course of a month) up my mileage to ~60 a week. I did my first ultra in late…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/running this week"
       ],
       "metrics": {
         "likes": 0,
