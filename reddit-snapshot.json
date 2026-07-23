@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-23T17:29:47.682Z",
+  "generated_at": "2026-07-23T18:52:11.435Z",
   "subs": [
     "MachineLearning",
-    "programming",
-    "cybersecurity",
+    "bodyweightfitness",
+    "startups",
     "artificial",
     "Futurology",
     "Fitness",
@@ -11,24 +11,24 @@
     "robotics",
     "nutrition",
     "running",
-    "startups",
+    "cybersecurity",
     "LocalLLaMA",
     "singularity",
     "netsec",
     "gadgets",
+    "programming",
     "hardware",
-    "bodyweightfitness",
     "SkincareAddiction",
     "science",
     "investing"
   ],
   "count": 36,
   "by_category": {
-    "AI / ML": 9,
+    "AI / ML": 8,
     "Science": 5,
     "Fitness": 7,
     "Robotics": 2,
-    "Startups & Funding": 3,
+    "Startups & Funding": 4,
     "Security": 5,
     "Hardware & Gadgets": 2,
     "Coding & Dev Tools": 2,
@@ -305,6 +305,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/robotics this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v38yxo",
+      "title": "Are squats that powerful of an exercise?",
+      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1v38yxo/are_squats_that_powerful_of_an_exercise/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/bodyweightfitness · community knowledge",
+      "content_type": "post",
+      "author": "u/Commercial_Bake_5549 · r/bodyweightfitness",
+      "handle": "bodyweightfitness",
+      "org": "r/bodyweightfitness",
+      "platform": "reddit",
+      "published": "2026-07-22T07:27:46.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/bodyweightfitness"
+      ],
+      "summary": "I was doing a kind of a lazy squats for a few years, when I mean lazy I didn&#39;t really go deep and I was overweight and I could really feel my knees so I rushed them. Since then I lost 35 kg and I&#39;m in normal weight range for the first time since highschool. A few months ago I searched YouTube for proper Squat…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/bodyweightfitness this week"
       ],
       "metrics": {
         "likes": 0,
@@ -622,6 +661,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/LocalLLaMA this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v2ted2",
+      "title": "I will not promote First ever VC meeting this week as a founder. What should I actually be prepared for?",
+      "link": "https://www.reddit.com/r/startups/comments/1v2ted2/i_will_not_promote_first_ever_vc_meeting_this/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/startups · community knowledge",
+      "content_type": "post",
+      "author": "u/mattsand9 · r/startups",
+      "handle": "startups",
+      "org": "r/startups",
+      "platform": "reddit",
+      "published": "2026-07-21T19:57:31.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/startups"
+      ],
+      "summary": "So it&#39;s official, we have our first ever VC meeting set up for this week. First one I&#39;ve ever done as a founder and I am super, super nervous about it. Honestly it&#39;s because I don&#39;t want to screw it up. I know a lot of founders on here will say you go through a ton of these meetings and this is just…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/startups this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1368,86 +1447,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/investing this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v1aie6",
-      "title": "Apparently the Jacobian conjecture was just proven false by Fable",
-      "link": "https://www.reddit.com/r/singularity/comments/1v1aie6/apparently_the_jacobian_conjecture_was_just/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/singularity · community knowledge",
-      "content_type": "post",
-      "author": "u/TFenrir · r/singularity",
-      "handle": "singularity",
-      "org": "r/singularity",
-      "platform": "reddit",
-      "published": "2026-07-20T03:44:03.000Z",
-      "image": "https://preview.redd.it/7q16nwbb3beh1.png?width=140&height=100&auto=webp&s=30a7702f7ed983e62b882291556c31a81f02d1d0",
-      "thumbnail": "https://preview.redd.it/7q16nwbb3beh1.png?width=140&height=100&auto=webp&s=30a7702f7ed983e62b882291556c31a81f02d1d0",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/singularity"
-      ],
-      "summary": "https://x.com/i/status/2079028340955197566 &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/singularity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v19gzu",
-      "title": "Why do processed foods use blends of multiple oils (sunflower, canola, soybean, etc) instead of just one?",
-      "link": "https://www.reddit.com/r/nutrition/comments/1v19gzu/why_do_processed_foods_use_blends_of_multiple/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/nutrition · community knowledge",
-      "content_type": "post",
-      "author": "u/clearwater-orchid · r/nutrition",
-      "handle": "nutrition",
-      "org": "r/nutrition",
-      "platform": "reddit",
-      "published": "2026-07-20T02:51:28.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Nutrition",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "Nutrition",
-        "r/nutrition"
-      ],
-      "summary": "I keep seeing ingredient labels that list something like “contains one or more of: soybean, canola, sunflower, and/or palm oil”.. instead of a single one, and I’m curious what’s actually driving that in those cases. Is it due to flavor profile? &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/nutrition this week"
       ],
       "metrics": {
         "likes": 0,
