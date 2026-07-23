@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-23T09:30:35.827Z",
+  "generated_at": "2026-07-23T11:30:31.718Z",
   "subs": [
     "MachineLearning",
     "Futurology",
-    "netsec",
+    "gadgets",
     "artificial",
     "Fitness",
     "longevity",
@@ -13,7 +13,7 @@
     "startups",
     "LocalLLaMA",
     "singularity",
-    "gadgets",
+    "netsec",
     "hardware",
     "bodyweightfitness",
     "SkincareAddiction",
@@ -22,8 +22,8 @@
   ],
   "count": 36,
   "by_category": {
-    "AI / ML": 10,
-    "Fitness": 8,
+    "AI / ML": 11,
+    "Fitness": 7,
     "Science": 6,
     "Robotics": 2,
     "Startups & Funding": 3,
@@ -144,6 +144,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Fitness this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v3a2le",
+      "title": "NeurIPS 2026 Reviews Are Out Today (22 July, AoE) — Discussion Thread [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v3a2le/neurips_2026_reviews_are_out_today_22_july_aoe/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/MachineLearning · community knowledge",
+      "content_type": "post",
+      "author": "u/Afraid_Difference697 · r/MachineLearning",
+      "handle": "MachineLearning",
+      "org": "r/MachineLearning",
+      "platform": "reddit",
+      "published": "2026-07-22T08:30:19.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/MachineLearning"
+      ],
+      "summary": "Reviews drop today. This thread is for reactions, celebrations, commiserations, and anything useful in between. First: if you got good reviews, say so. There&#39;s a norm in these threads where only the bad news gets aired, and it skews everyone&#39;s sense of what&#39;s normal. Post your wins. Second , the thing…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/MachineLearning this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1408,45 +1448,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/SkincareAddiction this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v0o0lc",
-      "title": "I Need Help Explaining Things to My Fiancé",
-      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1v0o0lc/i_need_help_explaining_things_to_my_fiancé/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/bodyweightfitness · community knowledge",
-      "content_type": "post",
-      "author": "u/ViperMom149 · r/bodyweightfitness",
-      "handle": "bodyweightfitness",
-      "org": "r/bodyweightfitness",
-      "platform": "reddit",
-      "published": "2026-07-19T11:24:13.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/bodyweightfitness"
-      ],
-      "summary": "My fiancé (41M) is a lifetime athlete. He started playing soccer when he was 4 or 5 years old and played all the way until high school graduation. He then joined the Army and became Airborne Infantry where (I’ve heard stories from his Army buddies) of him being the guy to catch when it came to all their athletic…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/bodyweightfitness this week"
       ],
       "metrics": {
         "likes": 0,
