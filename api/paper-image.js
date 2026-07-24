@@ -25,7 +25,8 @@ export default async function handler(req, res) {
 
   async function search(query) {
     if (!query) return { photos: [] };
-    const url = `https://api.pexels.com/v1/search?query=${encodeURIComponent(query)}&per_page=20`;
+    const url = `https://api.pexels.com/v1/search?query=${encodeURIComponent(query)}` +
+      "&orientation=landscape&per_page=20";
     const r = await fetch(url, { headers: { Authorization: key } });
     if (!r.ok) return { error: `pexels_${r.status}` };
     const data = await r.json();
@@ -51,7 +52,7 @@ export default async function handler(req, res) {
     // Same paper (same q+seed) → same photo, so cache hard at the edge.
     res.setHeader("Cache-Control", "public, s-maxage=604800, stale-while-revalidate=86400");
     res.status(200).json({
-      url: photo.src?.large || photo.src?.medium || photo.src?.original || null,
+      url: photo.src?.large2x || photo.src?.large || photo.src?.original || null,
       thumb: photo.src?.medium || null,
       photographer: photo.photographer || null,
       photographer_url: photo.photographer_url || null,
