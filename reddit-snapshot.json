@@ -1,8 +1,9 @@
 {
-  "generated_at": "2026-07-24T20:40:54.288Z",
+  "generated_at": "2026-07-24T22:11:40.592Z",
   "subs": [
     "MachineLearning",
-    "singularity",
+    "science",
+    "netsec",
     "SkincareAddiction",
     "LocalLLaMA",
     "bodyweightfitness",
@@ -19,21 +20,60 @@
     "nutrition",
     "running",
     "cybersecurity",
-    "netsec"
+    "singularity"
   ],
   "count": 36,
   "by_category": {
+    "Security": 3,
     "Skincare": 2,
     "AI / ML": 10,
     "Fitness": 5,
     "Coding & Dev Tools": 1,
-    "Science": 6,
-    "Hardware & Gadgets": 4,
+    "Science": 7,
+    "Hardware & Gadgets": 3,
     "Startups & Funding": 4,
-    "Robotics": 1,
-    "Security": 3
+    "Robotics": 1
   },
   "articles": [
+    {
+      "id": "reddit_1v52lix",
+      "title": "Escaping Claude Cowork’s local VM sandbox via CVE-2026-46331",
+      "link": "https://www.reddit.com/r/netsec/comments/1v52lix/escaping_claude_coworks_local_vm_sandbox_via/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/netsec · community knowledge",
+      "content_type": "post",
+      "author": "u/natcoba · r/netsec",
+      "handle": "netsec",
+      "org": "r/netsec",
+      "platform": "reddit",
+      "published": "2026-07-24T05:53:48.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/netsec"
+      ],
+      "summary": "Escaping Claude Cowork’s local VM sandbox via CVE-2026-46331",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/netsec this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1v4owug",
       "title": "[B&A] Just over a year on Arazlo (Tazarotene 0.045%) and Winlevi (Clascoterone 1%)",
@@ -540,6 +580,84 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/SkincareAddiction this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v3v5za",
+      "title": "GitHub issues $100,000 bounty for critical RCE vulnerability",
+      "link": "https://www.reddit.com/r/netsec/comments/1v3v5za/github_issues_100000_bounty_for_critical_rce/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/netsec · community knowledge",
+      "content_type": "post",
+      "author": "u/ryanmerket · r/netsec",
+      "handle": "netsec",
+      "org": "r/netsec",
+      "platform": "reddit",
+      "published": "2026-07-22T22:21:24.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/netsec"
+      ],
+      "summary": "GitHub issues $100,000 bounty for critical RCE vulnerability",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/netsec this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v3ujqy",
+      "title": "Trump Administration announced freeze on US foreign aid, which became a permanent shutdown of USAID in July 2025. New research finds that the abrupt cessation of foreign aid disrupted health and humanitarian systems worldwide, with disproportionate impacts on women, girls, and marginalized people.",
+      "link": "https://www.reddit.com/r/science/comments/1v3ujqy/trump_administration_announced_freeze_on_us/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/science · community knowledge",
+      "content_type": "post",
+      "author": "u/mvea · r/science",
+      "handle": "science",
+      "org": "r/science",
+      "platform": "reddit",
+      "published": "2026-07-22T21:57:44.000Z",
+      "image": "https://external-preview.redd.it/fNbhkfGIndIkYBHE0k378I90umkuZVv3eGIPTkaX9Ig.jpeg?width=640&crop=smart&auto=webp&s=b92e3b886dda57605a7ec602ba5d77fca2767088",
+      "thumbnail": "https://external-preview.redd.it/fNbhkfGIndIkYBHE0k378I90umkuZVv3eGIPTkaX9Ig.jpeg?width=640&crop=smart&auto=webp&s=b92e3b886dda57605a7ec602ba5d77fca2767088",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/science"
+      ],
+      "summary": "Trump Administration announced freeze on US foreign aid, which became a permanent shutdown of USAID in July 2025. New research finds that the abrupt cessation of foreign aid disrupted health and humanitarian systems worldwide, with disproportionate impacts on women, girls, and marginalized people.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/science this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1333,123 +1451,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/singularity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v2mk3z",
-      "title": "The Hidden CCS2 Attack Surface on EV Chargers",
-      "link": "https://www.reddit.com/r/netsec/comments/1v2mk3z/the_hidden_ccs2_attack_surface_on_ev_chargers/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/netsec · community knowledge",
-      "content_type": "post",
-      "author": "u/self · r/netsec",
-      "handle": "netsec",
-      "org": "r/netsec",
-      "platform": "reddit",
-      "published": "2026-07-21T15:58:03.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/netsec"
-      ],
-      "summary": "The Hidden CCS2 Attack Surface on EV Chargers",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/netsec this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v2k4fx",
-      "title": "Nintendo's Official Response To Tariff Refunds Class Action Lawsuit - Tells Customers They \"Got What They Bargained For\"",
-      "link": "https://www.reddit.com/r/gadgets/comments/1v2k4fx/nintendos_official_response_to_tariff_refunds/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/gadgets · community knowledge",
-      "content_type": "post",
-      "author": "u/ReaddittiddeR · r/gadgets",
-      "handle": "gadgets",
-      "org": "r/gadgets",
-      "platform": "reddit",
-      "published": "2026-07-21T14:30:33.000Z",
-      "image": "https://external-preview.redd.it/xcysyvh8GS4pksTUS-k1OwJgWbrssbbQU4l2pB1HIDk.jpeg?width=640&crop=smart&auto=webp&s=db1c85c1078f958d0a52abea15017f1f88050a52",
-      "thumbnail": "https://external-preview.redd.it/xcysyvh8GS4pksTUS-k1OwJgWbrssbbQU4l2pB1HIDk.jpeg?width=640&crop=smart&auto=webp&s=db1c85c1078f958d0a52abea15017f1f88050a52",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/gadgets"
-      ],
-      "summary": "Nintendo's Official Response To Tariff Refunds Class Action Lawsuit - Tells Customers They \"Got What They Bargained For\"",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/gadgets this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v2jm18",
-      "title": "US police now armed with Israeli spy vans simulating mobile phone towers",
-      "link": "https://www.reddit.com/r/cybersecurity/comments/1v2jm18/us_police_now_armed_with_israeli_spy_vans/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/cybersecurity · community knowledge",
-      "content_type": "post",
-      "author": "u/tw1st3d_m3nt4t · r/cybersecurity",
-      "handle": "cybersecurity",
-      "org": "r/cybersecurity",
-      "platform": "reddit",
-      "published": "2026-07-21T14:11:50.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/cybersecurity"
-      ],
-      "summary": "US police now armed with Israeli spy vans simulating mobile phone towers",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/cybersecurity this week"
       ],
       "metrics": {
         "likes": 0,
