@@ -1,15 +1,96 @@
 {
-  "generated_at": "2026-07-24T17:08:57.924Z",
+  "generated_at": "2026-07-24T19:01:32.072Z",
   "handles": [
-    "OpenAI",
-    "gdb",
     "nvidia",
     "GoogleDeepMind",
+    "OpenAI",
+    "gdb",
     "elonmusk",
     "AnthropicAI"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2080686579400765517",
+      "title": "Welcome @jensenhuang 💚 The future of AI leadership needs both frontier closed models and frontier open models.",
+      "link": "https://x.com/nvidia/status/2080686579400765517",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-07-24T16:08:32.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "Welcome @jensenhuang 💚 The future of AI leadership needs both frontier closed models and frontier open models.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 73,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "tech substance (models)",
+        "high engagement (2.6K likes)"
+      ],
+      "metrics": {
+        "likes": 2627,
+        "retweets": 168,
+        "replies": 109,
+        "likes_h": "2.6K"
+      },
+      "engagement": 3072,
+      "hot": false
+    },
+    {
+      "id": "x_2080663854447804796",
+      "title": "Honored to celebrate @kaistpr’s launch of the joint AI Research Lab in Seoul, dedicated to advancing agentic AI for Korea’s industries. Together with KAIST’s leading researchers, we’re advancing…",
+      "link": "https://x.com/nvidia/status/2080663854447804796",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-07-24T14:38:14.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Research"
+      ],
+      "summary": "Honored to celebrate @kaistpr’s launch of the joint AI Research Lab in Seoul, dedicated to advancing agentic AI for Korea’s industries. Together with KAIST’s leading researchers, we’re advancing frontier AI and opening new pathways for Korea’s next generation of AI talent.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 69,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "tech substance (research)"
+      ],
+      "metrics": {
+        "likes": 135,
+        "retweets": 16,
+        "replies": 23,
+        "likes_h": "135"
+      },
+      "engagement": 190,
+      "hot": false
+    },
     {
       "id": "x_2080392280549253392",
       "title": "You can also use ChatGPT Voice in Codex from the iOS app with paired remote access. Android support is coming soon.",
@@ -252,12 +333,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 309,
-        "retweets": 35,
-        "replies": 30,
-        "likes_h": "309"
+        "likes": 381,
+        "retweets": 41,
+        "replies": 31,
+        "likes_h": "381"
       },
-      "engagement": 409,
+      "engagement": 494,
       "hot": false
     },
     {
@@ -290,15 +371,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (model, gemini)",
-        "high engagement (819 likes)"
+        "high engagement (904 likes)"
       ],
       "metrics": {
-        "likes": 819,
-        "retweets": 74,
-        "replies": 64,
-        "likes_h": "819"
+        "likes": 904,
+        "retweets": 81,
+        "replies": 67,
+        "likes_h": "904"
       },
-      "engagement": 1031,
+      "engagement": 1133,
       "hot": false
     },
     {
@@ -325,7 +406,7 @@
       "summary": "We’re expanding our work with the US Dept. of @ENERGY on the Genesis Mission – an initiative to double the pace of scientific discovery within a decade. 🧪 By committing $40M in AI tokens and @GoogleCloud credits, more lab researchers will gain access to Gemini and other AI",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 88,
+      "worthiness_score": 89,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -334,12 +415,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 383,
-        "retweets": 59,
-        "replies": 41,
-        "likes_h": "383"
+        "likes": 385,
+        "retweets": 60,
+        "replies": 42,
+        "likes_h": "385"
       },
-      "engagement": 542,
+      "engagement": 547,
       "hot": false
     },
     {
@@ -458,12 +539,12 @@
         "tech substance (models, research, robotics)"
       ],
       "metrics": {
-        "likes": 283,
-        "retweets": 34,
+        "likes": 288,
+        "retweets": 35,
         "replies": 23,
-        "likes_h": "283"
+        "likes_h": "288"
       },
-      "engagement": 374,
+      "engagement": 381,
       "hot": false
     },
     {
@@ -499,12 +580,12 @@
         "tech substance (gpu)"
       ],
       "metrics": {
-        "likes": 175,
+        "likes": 178,
         "retweets": 14,
         "replies": 14,
-        "likes_h": "175"
+        "likes_h": "178"
       },
-      "engagement": 217,
+      "engagement": 220,
       "hot": false
     },
     {
@@ -539,12 +620,12 @@
         "tech substance (blackwell)"
       ],
       "metrics": {
-        "likes": 272,
+        "likes": 274,
         "retweets": 47,
-        "replies": 12,
-        "likes_h": "272"
+        "replies": 15,
+        "likes_h": "274"
       },
-      "engagement": 378,
+      "engagement": 383,
       "hot": false
     },
     {
@@ -624,12 +705,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 51,
+        "likes": 53,
         "retweets": 5,
         "replies": 8,
-        "likes_h": "51"
+        "likes_h": "53"
       },
-      "engagement": 69,
+      "engagement": 71,
       "hot": false
     },
     {
@@ -664,12 +745,12 @@
         "tech substance (model, gemini)"
       ],
       "metrics": {
-        "likes": 547,
-        "retweets": 48,
-        "replies": 49,
-        "likes_h": "547"
+        "likes": 552,
+        "retweets": 49,
+        "replies": 50,
+        "likes_h": "552"
       },
-      "engagement": 692,
+      "engagement": 700,
       "hot": false
     },
     {
@@ -830,12 +911,12 @@
         "tech substance (multimodal)"
       ],
       "metrics": {
-        "likes": 87,
+        "likes": 88,
         "retweets": 6,
         "replies": 8,
-        "likes_h": "87"
+        "likes_h": "88"
       },
-      "engagement": 107,
+      "engagement": 108,
       "hot": false
     },
     {
@@ -870,12 +951,12 @@
         "tech substance (gemini)"
       ],
       "metrics": {
-        "likes": 705,
-        "retweets": 56,
-        "replies": 47,
-        "likes_h": "705"
+        "likes": 706,
+        "retweets": 57,
+        "replies": 48,
+        "likes_h": "706"
       },
-      "engagement": 864,
+      "engagement": 868,
       "hot": false
     },
     {
@@ -1255,87 +1336,6 @@
         "likes_h": "527"
       },
       "engagement": 749,
-      "hot": false
-    },
-    {
-      "id": "x_2078244664751104293",
-      "title": "Agents are becoming specialized, using reinforcement learning post-training to develop domain-specific skills 🛠️ Every post-training rollout is an inference call, so a lower cost per token flows…",
-      "link": "https://x.com/nvidia/status/2078244664751104293",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-07-17T22:25:14.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Research"
-      ],
-      "summary": "Agents are becoming specialized, using reinforcement learning post-training to develop domain-specific skills 🛠️ Every post-training rollout is an inference call, so a lower cost per token flows straight into a higher Intelligence per Dollar on every run. That is what the",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 86,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (agents, inference, training)"
-      ],
-      "metrics": {
-        "likes": 465,
-        "retweets": 46,
-        "replies": 50,
-        "likes_h": "465"
-      },
-      "engagement": 607,
-      "hot": false
-    },
-    {
-      "id": "x_2078243667081617826",
-      "title": "GPT-5.6 Sol sets a new state of the art in cybersecurity on “The Last Ones” cyber range. We’re already seeing that capability translate into defensive outcomes: helping teams find, validate, and fix…",
-      "link": "https://x.com/OpenAI/status/2078243667081617826",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-07-17T22:21:16.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Product"
-      ],
-      "summary": "GPT-5.6 Sol sets a new state of the art in cybersecurity on “The Last Ones” cyber range. We’re already seeing that capability translate into defensive outcomes: helping teams find, validate, and fix vulnerabilities in real-world code. Put it to work with Codex Security:",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 83,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (gpt, state of the art)",
-        "high engagement (3.9K likes)"
-      ],
-      "metrics": {
-        "likes": 3934,
-        "retweets": 375,
-        "replies": 252,
-        "likes_h": "3.9K"
-      },
-      "engagement": 4936,
       "hot": false
     }
   ]
