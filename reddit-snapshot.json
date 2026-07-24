@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-07-24T09:09:28.206Z",
+  "generated_at": "2026-07-24T11:22:14.322Z",
   "subs": [
     "MachineLearning",
-    "longevity",
-    "gadgets",
+    "bodyweightfitness",
+    "robotics",
     "artificial",
+    "longevity",
     "hardware",
+    "gadgets",
     "investing",
     "Futurology",
     "Fitness",
-    "robotics",
-    "bodyweightfitness",
     "nutrition",
     "running",
     "startups",
@@ -23,12 +23,12 @@
   "count": 36,
   "by_category": {
     "AI / ML": 9,
+    "Fitness": 7,
     "Science": 6,
     "Hardware & Gadgets": 5,
     "Startups & Funding": 4,
-    "Fitness": 6,
     "Robotics": 1,
-    "Security": 4,
+    "Security": 3,
     "Coding & Dev Tools": 1
   },
   "articles": [
@@ -65,6 +65,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v4lcdg",
+      "title": "Inverted rows improved my posture tremendously",
+      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1v4lcdg/inverted_rows_improved_my_posture_tremendously/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/bodyweightfitness · community knowledge",
+      "content_type": "post",
+      "author": "u/Trafalgar_Lawyer · r/bodyweightfitness",
+      "handle": "bodyweightfitness",
+      "org": "r/bodyweightfitness",
+      "platform": "reddit",
+      "published": "2026-07-23T17:55:15.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/bodyweightfitness"
+      ],
+      "summary": "I’ve been working out for over a year now. My super simple routine consists of pushups, squats, pull ups and a core exercise that’s either hanging leg raises or hollow body hold. Recently I saw a comment that says to prevent muscle imbalance, you should do exercises that can strengthen opposite “sides” of your…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/bodyweightfitness this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1408,45 +1447,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/hardware this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v1rg5o",
-      "title": "Linux kernel announces 432 CVEs",
-      "link": "https://www.reddit.com/r/cybersecurity/comments/1v1rg5o/linux_kernel_announces_432_cves/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/cybersecurity · community knowledge",
-      "content_type": "post",
-      "author": "u/Junior-Spring-5557 · r/cybersecurity",
-      "handle": "cybersecurity",
-      "org": "r/cybersecurity",
-      "platform": "reddit",
-      "published": "2026-07-20T17:07:31.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/cybersecurity"
-      ],
-      "summary": "In the last 24 hours, 432 CVEs have been posted to https://lore.kernel.org/linux-cve-announce/ . Happy Monday, everyone! Let us hope that our distros were already aware of the list and have already been releasing fixes. I would love to know the story behind this. This seems like an unusually high # of vulns. &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/cybersecurity this week"
       ],
       "metrics": {
         "likes": 0,
