@@ -1,15 +1,98 @@
 {
-  "generated_at": "2026-07-24T06:30:17.602Z",
+  "generated_at": "2026-07-24T09:07:16.321Z",
   "handles": [
+    "AnthropicAI",
+    "OpenAI",
     "gdb",
     "nvidia",
     "GoogleDeepMind",
-    "elonmusk",
-    "OpenAI",
-    "AnthropicAI"
+    "elonmusk"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2080392280549253392",
+      "title": "You can also use ChatGPT Voice in Codex from the iOS app with paired remote access. Android support is coming soon.",
+      "link": "https://x.com/OpenAI/status/2080392280549253392",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-07-23T20:39:06.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Announcement",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Announcement"
+      ],
+      "summary": "You can also use ChatGPT Voice in Codex from the iOS app with paired remote access. Android support is coming soon.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 57,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "reply / conversation",
+        "announcement language (coming soon)"
+      ],
+      "metrics": {
+        "likes": 661,
+        "retweets": 24,
+        "replies": 41,
+        "likes_h": "661"
+      },
+      "engagement": 750,
+      "hot": false
+    },
+    {
+      "id": "x_2080378182469857576",
+      "title": "ChatGPT Voice is now in the desktop app. Control your computer and direct multiple agents running in ChatGPT Work or Codex, using just your voice. It's powered by GPT-Live, so it can speak, listen,…",
+      "link": "https://x.com/OpenAI/status/2080378182469857576",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-07-23T19:43:04.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product launch",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Product launch"
+      ],
+      "summary": "ChatGPT Voice is now in the desktop app. Control your computer and direct multiple agents running in ChatGPT Work or Codex, using just your voice. It's powered by GPT-Live, so it can speak, listen, and coordinate work in the app at the same time. Rolling out globally today",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 100,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "announcement language (rolling out)",
+        "tech substance (gpt, agents)",
+        "high engagement (10.6K likes)"
+      ],
+      "metrics": {
+        "likes": 10595,
+        "retweets": 1137,
+        "replies": 899,
+        "likes_h": "10.6K"
+      },
+      "engagement": 13768,
+      "hot": true
+    },
     {
       "id": "x_2080351159638704615",
       "title": "Launching Health in ChatGPT to U.S. users. 300 million people use ChatGPT each week for health queries (and my wife and I are among those!). You can now securely connect supported medical records so…",
@@ -52,6 +135,90 @@
       },
       "engagement": 1739,
       "hot": false
+    },
+    {
+      "id": "x_2080339986717790394",
+      "title": "More than 300 million people turn to ChatGPT with health-related questions each week—and we’re continuing to improve how our models respond. We work with hundreds of physicians around the world to…",
+      "link": "https://x.com/OpenAI/status/2080339986717790394",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-07-23T17:11:18.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Funding & deals",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Funding & deals"
+      ],
+      "summary": "More than 300 million people turn to ChatGPT with health-related questions each week—and we’re continuing to improve how our models respond. We work with hundreds of physicians around the world to measure and improve accuracy, safety, communication, context awareness,",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 70,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "reply / conversation",
+        "tech substance (models)",
+        "business signal (million)",
+        "concrete metrics"
+      ],
+      "metrics": {
+        "likes": 431,
+        "retweets": 21,
+        "replies": 19,
+        "likes_h": "431"
+      },
+      "engagement": 492,
+      "hot": false
+    },
+    {
+      "id": "x_2080339982288568709",
+      "title": "Health in ChatGPT is starting to roll out to U.S. users. You can securely connect Apple Health and supported medical records to understand your information in context, track what has changed, and…",
+      "link": "https://x.com/OpenAI/status/2080339982288568709",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-07-23T17:11:17.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Commentary"
+      ],
+      "summary": "Health in ChatGPT is starting to roll out to U.S. users. You can securely connect Apple Health and supported medical records to understand your information in context, track what has changed, and have more informed conversations. https://openai.com/index/health-in-chatgpt/",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 66,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "links to a source",
+        "high engagement (4K likes)"
+      ],
+      "metrics": {
+        "likes": 3993,
+        "retweets": 333,
+        "replies": 361,
+        "likes_h": "4K"
+      },
+      "engagement": 5020,
+      "hot": true
     },
     {
       "id": "x_2080326297260072992",
@@ -172,6 +339,47 @@
         "likes_h": "377"
       },
       "engagement": 529,
+      "hot": false
+    },
+    {
+      "id": "x_2079916436232036614",
+      "title": "New for enterprises: OpenAI Presence helps companies deploy trusted voice and chat agents across customer and internal workflows. AI agents can answer questions, use company systems, take approved…",
+      "link": "https://x.com/OpenAI/status/2079916436232036614",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-07-22T13:08:16.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Product"
+      ],
+      "summary": "New for enterprises: OpenAI Presence helps companies deploy trusted voice and chat agents across customer and internal workflows. AI agents can answer questions, use company systems, take approved actions, and escalate to people when needed—while improving over time. OpenAI",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 74,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (agents)",
+        "high engagement (2.2K likes)"
+      ],
+      "metrics": {
+        "likes": 2171,
+        "retweets": 228,
+        "replies": 299,
+        "likes_h": "2.2K"
+      },
+      "engagement": 2926,
       "hot": false
     },
     {
@@ -369,15 +577,15 @@
         "report-worthy",
         "tech substance (models, benchmark)",
         "business signal (partnering)",
-        "high engagement (8.3K likes)"
+        "high engagement (20.5K likes)"
       ],
       "metrics": {
-        "likes": 8293,
-        "retweets": 1081,
-        "replies": 742,
-        "likes_h": "8.3K"
+        "likes": 20488,
+        "retweets": 3186,
+        "replies": 1956,
+        "likes_h": "20.5K"
       },
-      "engagement": 11197,
+      "engagement": 28816,
       "hot": true
     },
     {
@@ -793,7 +1001,7 @@
         "likes_h": "2.9K"
       },
       "engagement": 4153,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2079584667284418896",
@@ -953,15 +1161,15 @@
         "casual tone (this)",
         "tech substance (claude, research)",
         "links to a source",
-        "high engagement (8.1K likes)"
+        "high engagement (8.2K likes)"
       ],
       "metrics": {
-        "likes": 8122,
-        "retweets": 974,
-        "replies": 677,
-        "likes_h": "8.1K"
+        "likes": 8249,
+        "retweets": 989,
+        "replies": 695,
+        "likes_h": "8.2K"
       },
-      "engagement": 10747,
+      "engagement": 10922,
       "hot": true
     },
     {
@@ -1127,210 +1335,6 @@
         "likes_h": "3.9K"
       },
       "engagement": 4936,
-      "hot": true
-    },
-    {
-      "id": "x_2078228046465655279",
-      "title": "Still building your #SIGGRAPH2026 agenda? We've got you covered. 🤝 👉 Learn the latest research breakthroughs at the NVIDIA keynote. 👉 Build new skills in hands-on labs. 👉 Explore a full lineup of…",
-      "link": "https://x.com/nvidia/status/2078228046465655279",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-07-17T21:19:12.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Research",
-        "SIGGRAPH2026"
-      ],
-      "summary": "Still building your #SIGGRAPH2026 agenda? We've got you covered. 🤝 👉 Learn the latest research breakthroughs at the NVIDIA keynote. 👉 Build new skills in hands-on labs. 👉 Explore a full lineup of sessions covering physical AI, RTX, AI in production &amp; more. Learn more:",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 73,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (research)"
-      ],
-      "metrics": {
-        "likes": 171,
-        "retweets": 15,
-        "replies": 16,
-        "likes_h": "171"
-      },
-      "engagement": 217,
-      "hot": false
-    },
-    {
-      "id": "x_2078223217773474134",
-      "title": "10,000 reasons people love GPT-5.6 Sol https://switch-to-codex.openai.chatgpt.site/",
-      "link": "https://x.com/OpenAI/status/2078223217773474134",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-07-17T21:00:01.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Product"
-      ],
-      "summary": "10,000 reasons people love GPT-5.6 Sol https://switch-to-codex.openai.chatgpt.site/",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 82,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "tech substance (gpt)",
-        "links to a source",
-        "high engagement (2.3K likes)"
-      ],
-      "metrics": {
-        "likes": 2298,
-        "retweets": 179,
-        "replies": 346,
-        "likes_h": "2.3K"
-      },
-      "engagement": 3002,
-      "hot": false
-    },
-    {
-      "id": "x_2077830629568205266",
-      "title": "Nations have always invested in critical infrastructure to grow their economies and improve citizens’ lives, from transportation and communications to commerce, entertainment and healthcare. Today,…",
-      "link": "https://x.com/nvidia/status/2077830629568205266",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-07-16T19:00:00.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Commentary"
-      ],
-      "summary": "Nations have always invested in critical infrastructure to grow their economies and improve citizens’ lives, from transportation and communications to commerce, entertainment and healthcare. Today, AI is the most important layer of that infrastructure. It is turbocharging",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 58,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy"
-      ],
-      "metrics": {
-        "likes": 341,
-        "retweets": 47,
-        "replies": 35,
-        "likes_h": "341"
-      },
-      "engagement": 470,
-      "hot": false
-    },
-    {
-      "id": "x_2077807977193714080",
-      "title": "In racing, tiny margins matter. AI can help teams find them. OpenAI’s Joyce Ruffell and @RaceTekSystems co-founder @GarageGuyChase discuss with @AndrewMayne how racing teams use AI to turn track data…",
-      "link": "https://x.com/OpenAI/status/2077807977193714080",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-07-16T17:30:00.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Research"
-      ],
-      "summary": "In racing, tiny margins matter. AI can help teams find them. OpenAI’s Joyce Ruffell and @RaceTekSystems co-founder @GarageGuyChase discuss with @AndrewMayne how racing teams use AI to turn track data into faster decisions—from our research collaboration with Chip Ganassi Racing",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 83,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "tech substance (research, chip)",
-        "high engagement (1K likes)"
-      ],
-      "metrics": {
-        "likes": 1031,
-        "retweets": 74,
-        "replies": 151,
-        "likes_h": "1K"
-      },
-      "engagement": 1330,
-      "hot": false
-    },
-    {
-      "id": "x_2077721122116640969",
-      "title": "The biosecurity landscape is rapidly evolving. To stay ahead of future outbreaks, we’re partnering with @IsomorphicLabs to outline our approach to bioresilience. Here’s how we’re deploying frontier…",
-      "link": "https://x.com/GoogleDeepMind/status/2077721122116640969",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Google DeepMind · @GoogleDeepMind",
-      "handle": "GoogleDeepMind",
-      "org": "Google",
-      "published": "2026-07-16T11:44:52.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "Google",
-        "Commentary"
-      ],
-      "summary": "The biosecurity landscape is rapidly evolving. To stay ahead of future outbreaks, we’re partnering with @IsomorphicLabs to outline our approach to bioresilience. Here’s how we’re deploying frontier AI to build proactive defenses for global health → https://goo.gle/4wKHXk2",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 91,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "business signal (partnering)",
-        "links to a source"
-      ],
-      "metrics": {
-        "likes": 608,
-        "retweets": 97,
-        "replies": 69,
-        "likes_h": "608"
-      },
-      "engagement": 871,
       "hot": false
     }
   ]

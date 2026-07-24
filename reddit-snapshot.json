@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-24T06:32:32.097Z",
+  "generated_at": "2026-07-24T09:09:28.206Z",
   "subs": [
     "MachineLearning",
-    "Futurology",
+    "longevity",
     "gadgets",
     "artificial",
     "hardware",
     "investing",
-    "longevity",
+    "Futurology",
     "Fitness",
     "robotics",
     "bodyweightfitness",
@@ -23,10 +23,10 @@
   "count": 36,
   "by_category": {
     "AI / ML": 9,
+    "Science": 6,
     "Hardware & Gadgets": 5,
     "Startups & Funding": 4,
-    "Science": 5,
-    "Fitness": 7,
+    "Fitness": 6,
     "Robotics": 1,
     "Security": 4,
     "Coding & Dev Tools": 1
@@ -105,6 +105,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/artificial this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v4d39q",
+      "title": "Inhaling C02 triggers the glymphatic clearance process potentially helping with Alzheimer's and Parkinsons",
+      "link": "https://www.reddit.com/r/longevity/comments/1v4d39q/inhaling_c02_triggers_the_glymphatic_clearance/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/longevity · community knowledge",
+      "content_type": "post",
+      "author": "u/thumperj · r/longevity",
+      "handle": "longevity",
+      "org": "r/longevity",
+      "platform": "reddit",
+      "published": "2026-07-23T12:53:55.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Science",
+      "category": "Science",
+      "genre": "Longevity",
+      "categories": [
+        "Reddit",
+        "Science",
+        "Longevity",
+        "r/longevity"
+      ],
+      "summary": "Inhaling C02 triggers the glymphatic clearance process potentially helping with Alzheimer's and Parkinsons",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/longevity this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1407,45 +1447,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/cybersecurity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v1pkrb",
-      "title": "Push up = pushing ~70% of bodyweight. Does that mean when I can bench 70% (or more) of my bw I can break my push up plateau?",
-      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1v1pkrb/push_up_pushing_70_of_bodyweight_does_that_mean/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/bodyweightfitness · community knowledge",
-      "content_type": "post",
-      "author": "u/Phoenix2879 · r/bodyweightfitness",
-      "handle": "bodyweightfitness",
-      "org": "r/bodyweightfitness",
-      "platform": "reddit",
-      "published": "2026-07-20T15:59:45.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/bodyweightfitness"
-      ],
-      "summary": "I&#39;ve been doing bodyweight training at home for 6 months and then started going to the gym (it&#39;s been a month until now). Now I&#39;m doing dumbbell bench press around 50% of my bodyweight. I&#39;ve heard that push up equals moving 6 - 70% of BW, so I don&#39;t know if I can bench press the same amount of…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/bodyweightfitness this week"
       ],
       "metrics": {
         "likes": 0,
