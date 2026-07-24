@@ -1,13 +1,14 @@
 {
-  "generated_at": "2026-07-24T03:58:23.829Z",
+  "generated_at": "2026-07-24T06:32:32.097Z",
   "subs": [
     "MachineLearning",
-    "Fitness",
-    "hardware",
+    "Futurology",
+    "gadgets",
     "artificial",
+    "hardware",
     "investing",
     "longevity",
-    "Futurology",
+    "Fitness",
     "robotics",
     "bodyweightfitness",
     "nutrition",
@@ -17,23 +18,60 @@
     "LocalLLaMA",
     "singularity",
     "netsec",
-    "gadgets",
-    "programming",
-    "SkincareAddiction"
+    "programming"
   ],
   "count": 36,
   "by_category": {
-    "AI / ML": 8,
-    "Hardware & Gadgets": 4,
+    "AI / ML": 9,
+    "Hardware & Gadgets": 5,
     "Startups & Funding": 4,
     "Science": 5,
     "Fitness": 7,
     "Robotics": 1,
     "Security": 4,
-    "Coding & Dev Tools": 2,
-    "Skincare": 1
+    "Coding & Dev Tools": 1
   },
   "articles": [
+    {
+      "id": "reddit_1v4ns8l",
+      "title": "GPT-5.5 Scores 10.6% on ActiveVision, Humans Hit 96.1% [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v4ns8l/gpt55_scores_106_on_activevision_humans_hit_961_r/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/MachineLearning · community knowledge",
+      "content_type": "post",
+      "author": "u/Justgototheeffinmoon · r/MachineLearning",
+      "handle": "MachineLearning",
+      "org": "r/MachineLearning",
+      "platform": "reddit",
+      "published": "2026-07-23T19:20:01.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/MachineLearning"
+      ],
+      "summary": "The interesting finding from a new [arXiv paper]( https://arxiv.org/abs/2607.16165 ) isn&#39;t that a frontier vision model failed a new benchmark, that happens weekly, but the specific shape of the failure and the fact that the models cannot patch it by writing their own code. The benchmark, called ActiveVision,…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1v4j8rn",
       "title": "We can live without AI, but we can’t live without water. “I have a jar right here. This is the current drinking water in Morgan Country, Georgia, right after a data center was constructed.” This is what the drinking water now looks like next to that data center” Protect our environment",
@@ -145,6 +183,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/hardware this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v441rr",
+      "title": "Sony launches FX5 full-frame 5K cinema camera with 15+ stop latitude",
+      "link": "https://www.reddit.com/r/gadgets/comments/1v441rr/sony_launches_fx5_fullframe_5k_cinema_camera_with/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/gadgets · community knowledge",
+      "content_type": "post",
+      "author": "u/dapperlemon · r/gadgets",
+      "handle": "gadgets",
+      "org": "r/gadgets",
+      "platform": "reddit",
+      "published": "2026-07-23T05:00:25.000Z",
+      "image": "https://external-preview.redd.it/Fcx5BD8Vl88yJj8zqckBFA-ZA-f484mWonrIIlZCznI.jpeg?width=640&crop=smart&auto=webp&s=3bb6a09be4f173c927ed26a15da8103ca588dc25",
+      "thumbnail": "https://external-preview.redd.it/Fcx5BD8Vl88yJj8zqckBFA-ZA-f484mWonrIIlZCznI.jpeg?width=640&crop=smart&auto=webp&s=3bb6a09be4f173c927ed26a15da8103ca588dc25",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/gadgets"
+      ],
+      "summary": "Sony launches FX5 full-frame 5K cinema camera with 15+ stop latitude",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/gadgets this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1369,84 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/bodyweightfitness this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v1mpxw",
-      "title": "Zig proposes introducing an actually memory safe (unlike Rust) compilation mode inspired by Fil-C at ~1-6x performance penalty",
-      "link": "https://www.reddit.com/r/programming/comments/1v1mpxw/zig_proposes_introducing_an_actually_memory_safe/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/programming · community knowledge",
-      "content_type": "post",
-      "author": "u/Usual-Amount-264 · r/programming",
-      "handle": "programming",
-      "org": "r/programming",
-      "platform": "reddit",
-      "published": "2026-07-20T14:12:27.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Coding & Dev Tools",
-      "category": "Coding & Dev Tools",
-      "genre": "Coding & Dev Tools",
-      "categories": [
-        "Reddit",
-        "Coding & Dev Tools",
-        "r/programming"
-      ],
-      "summary": "Zig proposes introducing an actually memory safe (unlike Rust) compilation mode inspired by Fil-C at ~1-6x performance penalty",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/programming this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v1kp4t",
-      "title": "[Misc] I’m never buying cleansing oil again",
-      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1v1kp4t/misc_im_never_buying_cleansing_oil_again/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/SkincareAddiction · community knowledge",
-      "content_type": "post",
-      "author": "u/Fun-Internal9671 · r/SkincareAddiction",
-      "handle": "SkincareAddiction",
-      "org": "r/SkincareAddiction",
-      "platform": "reddit",
-      "published": "2026-07-20T12:53:22.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Skincare",
-      "category": "Skincare",
-      "genre": "Skincare",
-      "categories": [
-        "Reddit",
-        "Skincare",
-        "r/SkincareAddiction"
-      ],
-      "summary": "I ran out of cleansing oil and took my makeup off with my moisturizer instead. I thought it was going to do nothing or leave me greasy but it melted everything off so well that I don’t think I’m buying cleansing oil again. The one I like is expensive and I’m broke so when I ran out I really didn’t want to replace it.…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/SkincareAddiction this week"
       ],
       "metrics": {
         "likes": 0,
