@@ -1,19 +1,20 @@
 {
-  "generated_at": "2026-07-23T23:03:25.338Z",
+  "generated_at": "2026-07-24T00:11:05.871Z",
   "subs": [
     "MachineLearning",
-    "longevity",
-    "hardware",
+    "LocalLLaMA",
+    "running",
+    "investing",
     "artificial",
+    "hardware",
+    "longevity",
     "Futurology",
     "Fitness",
     "robotics",
     "bodyweightfitness",
     "nutrition",
-    "running",
     "startups",
     "cybersecurity",
-    "LocalLLaMA",
     "singularity",
     "netsec",
     "gadgets",
@@ -22,12 +23,12 @@
   ],
   "count": 36,
   "by_category": {
-    "AI / ML": 9,
+    "AI / ML": 8,
     "Hardware & Gadgets": 4,
+    "Startups & Funding": 4,
     "Science": 5,
     "Fitness": 7,
     "Robotics": 1,
-    "Startups & Funding": 3,
     "Security": 4,
     "Coding & Dev Tools": 2,
     "Skincare": 1
@@ -144,6 +145,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/hardware this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v3rih4",
+      "title": "Alphabet capex 100% up yoy to 44B",
+      "link": "https://www.reddit.com/r/investing/comments/1v3rih4/alphabet_capex_100_up_yoy_to_44b/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/investing · community knowledge",
+      "content_type": "post",
+      "author": "u/superloser48 · r/investing",
+      "handle": "investing",
+      "org": "r/investing",
+      "platform": "reddit",
+      "published": "2026-07-22T20:08:08.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/investing"
+      ],
+      "summary": "revenue is up 24% yoy. Numbers probably good for semi space, not sure about google https://s206.q4cdn.com/479360582/files/doc_financials/2026/q2/2026q2-alphabet-earnings-release.pdf Deck - https://s206.q4cdn.com/479360582/files/doc_financials/2026/q2/2026q2-alphabet-earnings-slides.pdf &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/investing this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1406,46 +1447,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/SkincareAddiction this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v1i26p",
-      "title": "I just read LeCun’s recent thoughts on world models. Thoughts on JEPA as a path forward? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1v1i26p/i_just_read_lecuns_recent_thoughts_on_world/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/MachineLearning · community knowledge",
-      "content_type": "post",
-      "author": "u/ConsciousGreenPepper · r/MachineLearning",
-      "handle": "MachineLearning",
-      "org": "r/MachineLearning",
-      "platform": "reddit",
-      "published": "2026-07-20T10:50:04.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/MachineLearning"
-      ],
-      "summary": "So, I just read LeCun&#39;s interview with Nebius Science. I feel he had some cool points about LLMs being able to answer things, but not literally understand the physics of the physical world. (Like, being able to explain a task and actually performing it are two completely different things.) But I wanted to get…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/MachineLearning this week"
       ],
       "metrics": {
         "likes": 0,
