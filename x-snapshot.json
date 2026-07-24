@@ -1,12 +1,13 @@
 {
-  "generated_at": "2026-07-24T11:20:02.406Z",
+  "generated_at": "2026-07-24T13:01:58.379Z",
   "handles": [
+    "AnthropicAI",
     "OpenAI",
-    "gdb",
     "nvidia",
     "GoogleDeepMind",
-    "elonmusk",
-    "AnthropicAI"
+    "gdb",
+    "AIatMeta",
+    "elonmusk"
   ],
   "count": 32,
   "articles": [
@@ -43,12 +44,12 @@
         "announcement language (coming soon)"
       ],
       "metrics": {
-        "likes": 661,
-        "retweets": 24,
-        "replies": 41,
-        "likes_h": "661"
+        "likes": 692,
+        "retweets": 25,
+        "replies": 44,
+        "likes_h": "692"
       },
-      "engagement": 750,
+      "engagement": 786,
       "hot": false
     },
     {
@@ -82,15 +83,15 @@
         "report-worthy",
         "announcement language (rolling out)",
         "tech substance (gpt, agents)",
-        "high engagement (10.6K likes)"
+        "high engagement (11.1K likes)"
       ],
       "metrics": {
-        "likes": 10595,
-        "retweets": 1137,
-        "replies": 899,
-        "likes_h": "10.6K"
+        "likes": 11126,
+        "retweets": 1189,
+        "replies": 950,
+        "likes_h": "11.1K"
       },
-      "engagement": 13768,
+      "engagement": 14454,
       "hot": true
     },
     {
@@ -124,16 +125,16 @@
         "report-worthy",
         "announcement language (launching, you can now)",
         "business signal (million)",
-        "high engagement (1.4K likes)",
+        "high engagement (1.6K likes)",
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 1441,
-        "retweets": 76,
-        "replies": 146,
-        "likes_h": "1.4K"
+        "likes": 1631,
+        "retweets": 89,
+        "replies": 165,
+        "likes_h": "1.6K"
       },
-      "engagement": 1739,
+      "engagement": 1974,
       "hot": false
     },
     {
@@ -171,12 +172,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 431,
-        "retweets": 21,
+        "likes": 449,
+        "retweets": 22,
         "replies": 19,
-        "likes_h": "431"
+        "likes_h": "449"
       },
-      "engagement": 492,
+      "engagement": 512,
       "hot": false
     },
     {
@@ -209,15 +210,15 @@
       "reasons": [
         "report-worthy",
         "links to a source",
-        "high engagement (4K likes)"
+        "high engagement (4.1K likes)"
       ],
       "metrics": {
-        "likes": 3993,
-        "retweets": 333,
-        "replies": 361,
-        "likes_h": "4K"
+        "likes": 4115,
+        "retweets": 347,
+        "replies": 372,
+        "likes_h": "4.1K"
       },
-      "engagement": 5020,
+      "engagement": 5181,
       "hot": true
     },
     {
@@ -245,19 +246,19 @@
       "summary": "What a moment for @NPS_Monterey and the public sector. At Converge @ NPS, our CEO Jensen Huang joined federal leaders and ecosystem partners to commission the #NVIDIADGX GB300 system, providing 1,500 students and 600 faculty with on-premises access to large-scale AI computing",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 56,
+      "worthiness_score": 58,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
         "report-worthy"
       ],
       "metrics": {
-        "likes": 155,
-        "retweets": 22,
-        "replies": 18,
-        "likes_h": "155"
+        "likes": 309,
+        "retweets": 35,
+        "replies": 30,
+        "likes_h": "309"
       },
-      "engagement": 217,
+      "engagement": 409,
       "hot": false
     },
     {
@@ -284,20 +285,21 @@
       "summary": "Gemini 3.5 Flash Cyber is our specialized, lightweight model built to help security teams spot and patch vulnerabilities before they can be exploited. 🧵",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 81,
+      "worthiness_score": 82,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
         "report-worthy",
-        "tech substance (model, gemini)"
+        "tech substance (model, gemini)",
+        "high engagement (819 likes)"
       ],
       "metrics": {
-        "likes": 575,
-        "retweets": 47,
-        "replies": 43,
-        "likes_h": "575"
+        "likes": 819,
+        "retweets": 74,
+        "replies": 64,
+        "likes_h": "819"
       },
-      "engagement": 712,
+      "engagement": 1031,
       "hot": false
     },
     {
@@ -333,12 +335,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 377,
-        "retweets": 57,
-        "replies": 38,
-        "likes_h": "377"
+        "likes": 383,
+        "retweets": 59,
+        "replies": 41,
+        "likes_h": "383"
       },
-      "engagement": 529,
+      "engagement": 542,
       "hot": false
     },
     {
@@ -374,12 +376,12 @@
         "high engagement (2.2K likes)"
       ],
       "metrics": {
-        "likes": 2171,
-        "retweets": 228,
-        "replies": 299,
+        "likes": 2178,
+        "retweets": 229,
+        "replies": 300,
         "likes_h": "2.2K"
       },
-      "engagement": 2926,
+      "engagement": 2936,
       "hot": false
     },
     {
@@ -449,7 +451,7 @@
       "summary": "Missed the NVIDIA keynote at #SIGGRAPH2026? Catch up on the latest breakthroughs in neural rendering, world models and simulation for robotics, presented by NVIDIA research and engineering leaders Neil Ashton, Edward Liu and Ming-Yu Liu. Watch on demand 🎥",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 84,
+      "worthiness_score": 85,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -457,12 +459,12 @@
         "tech substance (models, research, robotics)"
       ],
       "metrics": {
-        "likes": 278,
-        "retweets": 33,
-        "replies": 22,
-        "likes_h": "278"
+        "likes": 283,
+        "retweets": 34,
+        "replies": 23,
+        "likes_h": "283"
       },
-      "engagement": 366,
+      "engagement": 374,
       "hot": false
     },
     {
@@ -498,12 +500,12 @@
         "tech substance (gpu)"
       ],
       "metrics": {
-        "likes": 171,
+        "likes": 175,
         "retweets": 14,
-        "replies": 13,
-        "likes_h": "171"
+        "replies": 14,
+        "likes_h": "175"
       },
-      "engagement": 212,
+      "engagement": 217,
       "hot": false
     },
     {
@@ -538,12 +540,12 @@
         "tech substance (blackwell)"
       ],
       "metrics": {
-        "likes": 268,
-        "retweets": 46,
+        "likes": 272,
+        "retweets": 47,
         "replies": 12,
-        "likes_h": "268"
+        "likes_h": "272"
       },
-      "engagement": 372,
+      "engagement": 378,
       "hot": false
     },
     {
@@ -580,12 +582,12 @@
         "high engagement (20.5K likes)"
       ],
       "metrics": {
-        "likes": 20488,
-        "retweets": 3186,
-        "replies": 1956,
+        "likes": 20507,
+        "retweets": 3188,
+        "replies": 1959,
         "likes_h": "20.5K"
       },
-      "engagement": 28816,
+      "engagement": 28842,
       "hot": true
     },
     {
@@ -623,12 +625,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 50,
+        "likes": 51,
         "retweets": 5,
         "replies": 8,
-        "likes_h": "50"
+        "likes_h": "51"
       },
-      "engagement": 68,
+      "engagement": 69,
       "hot": false
     },
     {
@@ -663,12 +665,12 @@
         "tech substance (model, gemini)"
       ],
       "metrics": {
-        "likes": 545,
-        "retweets": 47,
+        "likes": 547,
+        "retweets": 48,
         "replies": 49,
-        "likes_h": "545"
+        "likes_h": "547"
       },
-      "engagement": 688,
+      "engagement": 692,
       "hot": false
     },
     {
@@ -745,12 +747,12 @@
         "tech substance (platform)"
       ],
       "metrics": {
-        "likes": 642,
+        "likes": 646,
         "retweets": 69,
         "replies": 32,
-        "likes_h": "642"
+        "likes_h": "646"
       },
-      "engagement": 812,
+      "engagement": 816,
       "hot": false
     },
     {
@@ -783,16 +785,16 @@
       "reasons": [
         "report-worthy",
         "tech substance (platform)",
-        "high engagement (1K likes)",
+        "high engagement (1.1K likes)",
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 1037,
-        "retweets": 126,
+        "likes": 1051,
+        "retweets": 129,
         "replies": 44,
-        "likes_h": "1K"
+        "likes_h": "1.1K"
       },
-      "engagement": 1333,
+      "engagement": 1353,
       "hot": false
     },
     {
@@ -870,11 +872,11 @@
       ],
       "metrics": {
         "likes": 705,
-        "retweets": 55,
+        "retweets": 56,
         "replies": 47,
         "likes_h": "705"
       },
-      "engagement": 862,
+      "engagement": 864,
       "hot": false
     },
     {
@@ -917,7 +919,7 @@
         "likes_h": "4.3K"
       },
       "engagement": 5117,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2079589701795627317",
@@ -1161,15 +1163,15 @@
         "casual tone (this)",
         "tech substance (claude, research)",
         "links to a source",
-        "high engagement (8.2K likes)"
+        "high engagement (8.3K likes)"
       ],
       "metrics": {
-        "likes": 8249,
-        "retweets": 989,
-        "replies": 695,
-        "likes_h": "8.2K"
+        "likes": 8263,
+        "retweets": 991,
+        "replies": 699,
+        "likes_h": "8.3K"
       },
-      "engagement": 10922,
+      "engagement": 10944,
       "hot": true
     },
     {

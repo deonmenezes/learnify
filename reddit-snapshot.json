@@ -1,9 +1,10 @@
 {
-  "generated_at": "2026-07-24T11:22:14.322Z",
+  "generated_at": "2026-07-24T13:04:12.690Z",
   "subs": [
     "MachineLearning",
+    "LocalLLaMA",
     "bodyweightfitness",
-    "robotics",
+    "startups",
     "artificial",
     "longevity",
     "hardware",
@@ -11,21 +12,20 @@
     "investing",
     "Futurology",
     "Fitness",
+    "robotics",
     "nutrition",
     "running",
-    "startups",
     "cybersecurity",
-    "LocalLLaMA",
     "singularity",
     "netsec",
     "programming"
   ],
   "count": 36,
   "by_category": {
-    "AI / ML": 9,
+    "AI / ML": 10,
     "Fitness": 7,
     "Science": 6,
-    "Hardware & Gadgets": 5,
+    "Hardware & Gadgets": 4,
     "Startups & Funding": 4,
     "Robotics": 1,
     "Security": 3,
@@ -65,6 +65,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v4moxy",
+      "title": "The LLM distillation process simplified for politicians:",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1v4moxy/the_llm_distillation_process_simplified_for/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/LocalLLaMA · community knowledge",
+      "content_type": "post",
+      "author": "u/Porespellar · r/LocalLLaMA",
+      "handle": "LocalLLaMA",
+      "org": "r/LocalLLaMA",
+      "platform": "reddit",
+      "published": "2026-07-23T18:41:48.000Z",
+      "image": "https://preview.redd.it/iv9ca7s7y0fh1.jpeg?width=640&crop=smart&auto=webp&s=c54b78188ed0c5108ee4b9043cbed58cc200da75",
+      "thumbnail": "https://preview.redd.it/iv9ca7s7y0fh1.jpeg?width=640&crop=smart&auto=webp&s=c54b78188ed0c5108ee4b9043cbed58cc200da75",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/LocalLLaMA"
+      ],
+      "summary": "The LLM distillation process simplified for politicians:",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/LocalLLaMA this week"
       ],
       "metrics": {
         "likes": 0,
@@ -262,6 +302,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/hardware this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v494ao",
+      "title": "We launched 20 days ago. Today we crossed 30,000 users [i will not promote]",
+      "link": "https://www.reddit.com/r/startups/comments/1v494ao/we_launched_20_days_ago_today_we_crossed_30000/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/startups · community knowledge",
+      "content_type": "post",
+      "author": "u/akeeeeeel · r/startups",
+      "handle": "startups",
+      "org": "r/startups",
+      "platform": "reddit",
+      "published": "2026-07-23T09:42:29.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/startups"
+      ],
+      "summary": "About 20 days ago, we launched our Startup. We had no marketing budget, no paid ads and no big launch strategy. It was just a product we genuinely wanted to build. The first few days were slow. Then things started picking up. Yesterday around midnight, we crossed 20,000 users. Today, just a few hours later, we crossed…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/startups this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1368,85 +1448,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/running this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v21dpg",
-      "title": "Girlfriend expecting equal equity in a startup which I started even before knowing her. I will not promote.",
-      "link": "https://www.reddit.com/r/startups/comments/1v21dpg/girlfriend_expecting_equal_equity_in_a_startup/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/startups · community knowledge",
-      "content_type": "post",
-      "author": "u/Dry_Support9531 · r/startups",
-      "handle": "startups",
-      "org": "r/startups",
-      "platform": "reddit",
-      "published": "2026-07-20T23:20:31.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/startups"
-      ],
-      "summary": "So here’s the picture. I started with an idea in 2023. States dating her in 2024. Until then I haven’t really worked in the idea. I started working on it since April 2025 and it started making money since July 2025. Till then she has no idea about it. After I started making money from it, i worked more and invested my…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/startups this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v20pcq",
-      "title": "The DRAM Crisis: 600% Price Increases by Micron, SK Hynix, & Samsung",
-      "link": "https://www.reddit.com/r/hardware/comments/1v20pcq/the_dram_crisis_600_price_increases_by_micron_sk/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/hardware · community knowledge",
-      "content_type": "post",
-      "author": "u/cokula333 · r/hardware",
-      "handle": "hardware",
-      "org": "r/hardware",
-      "platform": "reddit",
-      "published": "2026-07-20T22:52:55.000Z",
-      "image": "https://external-preview.redd.it/6_sgkePKAM2iuZXrUeXgy-YzoT5SwaAZMsW7BykPQuk.jpeg?width=320&crop=smart&auto=webp&s=1becddd9bfe4256dce7dfc7902a871379004841c",
-      "thumbnail": "https://external-preview.redd.it/6_sgkePKAM2iuZXrUeXgy-YzoT5SwaAZMsW7BykPQuk.jpeg?width=320&crop=smart&auto=webp&s=1becddd9bfe4256dce7dfc7902a871379004841c",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/hardware"
-      ],
-      "summary": "Class-action lawsuit filed, pending court confirmation. What’s your take, will it be approved or dismissed outright? &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/hardware this week"
       ],
       "metrics": {
         "likes": 0,
