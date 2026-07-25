@@ -1,8 +1,10 @@
 {
-  "generated_at": "2026-07-25T22:34:18.062Z",
+  "generated_at": "2026-07-25T23:40:08.597Z",
   "subs": [
     "MachineLearning",
-    "Fitness",
+    "LocalLLaMA",
+    "running",
+    "startups",
     "robotics",
     "gadgets",
     "cybersecurity",
@@ -11,24 +13,23 @@
     "nutrition",
     "netsec",
     "SkincareAddiction",
-    "LocalLLaMA",
     "bodyweightfitness",
     "artificial",
     "programming",
     "longevity",
-    "startups",
     "science",
-    "Futurology"
+    "Futurology",
+    "Fitness"
   ],
   "count": 36,
   "by_category": {
-    "Robotics": 3,
+    "Robotics": 2,
     "Hardware & Gadgets": 6,
+    "Startups & Funding": 4,
     "Security": 3,
-    "Startups & Funding": 3,
+    "AI / ML": 9,
     "Fitness": 4,
     "Skincare": 2,
-    "AI / ML": 9,
     "Coding & Dev Tools": 1,
     "Science": 5
   },
@@ -112,6 +113,46 @@
       }
     },
     {
+      "id": "reddit_1v5snq2",
+      "title": "Stripe closed my account with a 0.18% dispute rate *i will not promote",
+      "link": "https://www.reddit.com/r/startups/comments/1v5snq2/stripe_closed_my_account_with_a_018_dispute_rate/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/startups · community knowledge",
+      "content_type": "post",
+      "author": "u/Evrgrn7 · r/startups",
+      "handle": "startups",
+      "org": "r/startups",
+      "platform": "reddit",
+      "published": "2026-07-25T00:12:57.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/startups"
+      ],
+      "summary": "I run a UK ltd, ecommerce, personalised products. Started in March, scaled to ~£150K/m in 2 months. But then... &quot;After conducting a routine review of your Stripe account... we&#39;ve found that it presents a high level of risk for disputes.&quot; Payments switched off immediately. Payouts held for 120 days,…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/startups this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1v5pa8w",
       "title": "Hackers use DNS poisoning on hotel Wi‑Fi to steal Microsoft 365 accounts",
       "link": "https://www.reddit.com/r/cybersecurity/comments/1v5pa8w/hackers_use_dns_poisoning_on_hotel_wifi_to_steal/",
@@ -143,6 +184,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/cybersecurity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v5c3vt",
+      "title": "More than 20 companies including NVIDIA, Meta, Microsoft, Palantir, and Hugging Face have signed a letter urging policymakers to avoid premature restrictions on open weight models.",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1v5c3vt/more_than_20_companies_including_nvidia_meta/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/LocalLLaMA · community knowledge",
+      "content_type": "post",
+      "author": "u/etherd0t · r/LocalLLaMA",
+      "handle": "LocalLLaMA",
+      "org": "r/LocalLLaMA",
+      "platform": "reddit",
+      "published": "2026-07-24T13:55:23.000Z",
+      "image": "https://preview.redd.it/4yvf9z8xm6fh1.jpeg?width=640&crop=smart&auto=webp&s=268ac51182255d3c2a12f1562b616750fe340e19",
+      "thumbnail": "https://preview.redd.it/4yvf9z8xm6fh1.jpeg?width=640&crop=smart&auto=webp&s=268ac51182255d3c2a12f1562b616750fe340e19",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/LocalLLaMA"
+      ],
+      "summary": "The Open Letter was initiated by Microsoft and published today: “ Open Weights and American AI Leadership ”. It argues against broad or premature restrictions on open-weight models and explicitly says policymakers should distinguish legitimate model distillation from misappropriation. Notably absent from the…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/LocalLLaMA this week"
       ],
       "metrics": {
         "likes": 0,
@@ -340,6 +421,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/netsec this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v4xrwm",
+      "title": "What Non-Big-Brand Running Gear Are You Wearing in 2026?",
+      "link": "https://www.reddit.com/r/running/comments/1v4xrwm/what_nonbigbrand_running_gear_are_you_wearing_in/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/running · community knowledge",
+      "content_type": "post",
+      "author": "u/Thin_Term5711 · r/running",
+      "handle": "running",
+      "org": "r/running",
+      "platform": "reddit",
+      "published": "2026-07-24T01:58:40.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/running"
+      ],
+      "summary": "Maybe this has been discussed before, but it&#39;s 2026, so there might be some updates. I&#39;d love to know about smaller, non-mainstream running brands that are actually good brands like Satisfy or Bandit (but not just those). I&#39;m interested in discovering brands from all over the world, including your own…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/running this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1328,124 +1448,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/longevity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v3907d",
-      "title": "What Finally Helped Me Understand Inverse Kinematics After Building a 6-Axis Robot Arm",
-      "link": "https://www.reddit.com/r/robotics/comments/1v3907d/what_finally_helped_me_understand_inverse/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/robotics · community knowledge",
-      "content_type": "post",
-      "author": "u/SynriaRobotics_01 · r/robotics",
-      "handle": "robotics",
-      "org": "r/robotics",
-      "platform": "reddit",
-      "published": "2026-07-22T07:29:54.000Z",
-      "image": "https://preview.redd.it/mx801kf9hqeh1.jpeg?width=640&crop=smart&auto=webp&s=1186c3e403f67bc9c40128bc53526798dafe52c4",
-      "thumbnail": "https://preview.redd.it/mx801kf9hqeh1.jpeg?width=640&crop=smart&auto=webp&s=1186c3e403f67bc9c40128bc53526798dafe52c4",
-      "section": "Robotics",
-      "category": "Robotics",
-      "genre": "Robotics",
-      "categories": [
-        "Reddit",
-        "Robotics",
-        "r/robotics"
-      ],
-      "summary": "I spent the last year building a 6-axis desktop robot arm from scratch, and inverse kinematics was the hardest concept for me to internalize. Here’s what finally helped. Forward kinematics felt relatively straightforward. Given the joint angles, I could compute the end-effector pose by chaining homogeneous…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/robotics this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v38yxo",
-      "title": "Are squats that powerful of an exercise?",
-      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1v38yxo/are_squats_that_powerful_of_an_exercise/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/bodyweightfitness · community knowledge",
-      "content_type": "post",
-      "author": "u/Commercial_Bake_5549 · r/bodyweightfitness",
-      "handle": "bodyweightfitness",
-      "org": "r/bodyweightfitness",
-      "platform": "reddit",
-      "published": "2026-07-22T07:27:46.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/bodyweightfitness"
-      ],
-      "summary": "I was doing a kind of a lazy squats for a few years, when I mean lazy I didn&#39;t really go deep and I was overweight and I could really feel my knees so I rushed them. Since then I lost 35 kg and I&#39;m in normal weight range for the first time since highschool. A few months ago I searched YouTube for proper Squat…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/bodyweightfitness this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v38k1m",
-      "title": "SkewAdam: A tiered optimizer that cuts MoE state memory by 97% (fits a 6.7B MoE on a 40GB GPU) [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1v38k1m/skewadam_a_tiered_optimizer_that_cuts_moe_state/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/MachineLearning · community knowledge",
-      "content_type": "post",
-      "author": "u/Kooky-Ad-4124 · r/MachineLearning",
-      "handle": "MachineLearning",
-      "org": "r/MachineLearning",
-      "platform": "reddit",
-      "published": "2026-07-22T07:04:40.000Z",
-      "image": "https://preview.redd.it/1457xi9fcqeh1.jpg?width=140&height=90&auto=webp&s=879aad6df9e51a2735d91112d01518ff76ba3cbe",
-      "thumbnail": "https://preview.redd.it/1457xi9fcqeh1.jpg?width=140&height=90&auto=webp&s=879aad6df9e51a2735d91112d01518ff76ba3cbe",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/MachineLearning"
-      ],
-      "summary": "Paper: https://arxiv.org/abs/2607.19058 Code (GitHub): https://github.com/nuemaan/skewadam Hi everyone, I just published a preprint on a new optimizer designed to tackle the massive VRAM bottleneck in Mixture-of-Experts (MoE) training. If you&#39;ve trained MoEs, you know that optimizer state is usually the largest…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/MachineLearning this week"
       ],
       "metrics": {
         "likes": 0,
