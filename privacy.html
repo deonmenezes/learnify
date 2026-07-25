@@ -7,9 +7,6 @@
 <meta name="theme-color" content="#0B0B0D" />
 <link rel="icon" href="/assets/learnify/mark.svg" />
 <link rel="apple-touch-icon" href="/assets/learnify/app-icon-1024.png" />
-<link rel="preconnect" href="https://fonts.googleapis.com" />
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@700;800;900&display=swap" rel="stylesheet" />
 <style>
   :root {
     --bg:#0B0B0D; --surface:#17171A; --elevated:#212126; --hairline:#2A2A30;
@@ -60,21 +57,26 @@
   <div class="sheet">
     <span class="pill"><span class="pill-dot"></span>Learnify</span>
     <h1>Privacy Policy</h1>
-    <div class="sub">Last updated: July 22, 2026</div>
+    <div class="sub">Last updated: July 25, 2026</div>
 
     <p>Learnify ("the app", "we") is a tech-news reader that shows headlines from public sources and links you out to read the full article on the publisher's own website. This policy explains what data the app handles.</p>
 
     <h2>Data we collect</h2>
-    <p>Learnify is designed to collect as little as possible. We do <strong>not</strong> use advertising SDKs, cross-app or cross-site trackers, or session replay, and we do <strong>not</strong> sell your personal data. Optional aggregate product analytics is described below.</p>
+    <p>Learnify does <strong>not</strong> sell your personal data or use session replay. The iOS app uses product analytics to operate and improve features and may use advertising measurement only after you authorize Apple's App Tracking Transparency request. The website's optional aggregate analytics is described below.</p>
     <ul>
       <li><strong>Account details:</strong> if you create an account, we process your email address, optional display name, account identifier, and topic interests to authenticate you and personalize Learnify.</li>
       <li><strong>Library and learning progress:</strong> saved and liked items, reading activity, streaks, and related learning progress are kept on your device for speed and offline use. For signed-in users, these records are also stored in Supabase so they can follow you across devices and reinstalls.</li>
       <li><strong>Leaderboard profile:</strong> Learnify derives a stable, non-user-controlled <em>Learner ####</em> alias and one-way public lookup identifier from your account identifier. Other users see only this alias, opaque lookup identifier, rank, and aggregate learning stats such as level, XP, streak, longest streak, and total-read count. Your account identifier, display name, avatar, topic interests, email address, and private library are not published on leaderboard or public-profile screens.</li>
+      <li><strong>Subscription and purchase information:</strong> we process App Store product identifiers, subscription and entitlement status, and purchase or restore outcomes to provide paid features, customer support, and subscription-funnel analytics. Apple processes your payment details; Learnify does not receive your full payment-card information.</li>
+      <li><strong>Product and paywall analytics:</strong> Superwall may process app, user, anonymous, and device-vendor identifiers; subscription status and tier; screen, feature, purchase-funnel, and paywall interactions and outcomes; app version and build, operating-system version, device model, locale, language, region, currency, time zone, display or interface settings, power state, and network-radio type; install dates, paywall-view dates, elapsed-time measurements, and view counts; and city, region, country, or time zone coarsely derived from the requesting IP address. Learnify does not send Superwall your name, email address, free-form search text, article titles, saved-library contents, or raw error messages.</li>
+      <li><strong>Subscription infrastructure:</strong> when RevenueCat is enabled, it may process an account or app-user identifier and aliases, App Store receipts and purchase history, products, subscription status and entitlements, device and operating-system details, and last-seen activity in order to validate purchases, restore access, and support subscription operations. Apple, not Learnify or RevenueCat, receives your full payment-card information.</li>
+      <li><strong>Source logos and Google services:</strong> the app may automatically request a publisher or source favicon from Google's favicon service when it displays news or search results. Those network requests may convey your IP address and basic device, network, and request information to Google. If you choose Sign in with Google, Google also processes the authentication and account information needed for that sign-in.</li>
+      <li><strong>Advertising measurement (permission required):</strong> if you allow App Tracking Transparency, Meta's Facebook SDK may receive device identifiers, network and IP information, device, operating-system, and app characteristics, app activation and diagnostic information, and App Store subscription events to measure whether Learnify advertisements led to an install or subscription. Learnify does not send Meta your name, email address, topic interests, saved library, or reading history.</li>
       <li><strong>Marketing (opt-in only):</strong> if — and only if — you tick the optional "updates" box at sign-up, we collect your <strong>email address</strong> and, if you choose to provide it, your <strong>phone number</strong>, in order to send you product updates and tech-news digests. This is <strong>off by default</strong>, is never required to use the app, and you can unsubscribe at any time. We do not sell this information.</li>
     </ul>
 
     <h2>Where data is processed</h2>
-    <p>Supabase provides account authentication and cloud synchronization. Apple processes App Store purchases. Google processes sign-in information only if you choose Sign in with Google. Our subscription provider may process subscription status, and our marketing endpoint processes contact details only after an explicit opt-in. These providers process information under their own privacy terms and only for the features you use.</p>
+    <p>Supabase provides account authentication and cloud synchronization. Apple processes App Store purchases. Google receives automatic favicon requests as described above and processes sign-in information if you choose Sign in with Google. Superwall provides paywall presentation and product analytics. RevenueCat provides purchase validation and subscription infrastructure when enabled. Meta provides permission-gated advertising measurement. Our marketing endpoint processes contact details only after an explicit opt-in. These providers process information under their own privacy terms and for the purposes described in this policy.</p>
 
     <h2>Marketing communications</h2>
     <p>If you opt in, we use your email (and optional phone number) only to send you Learnify updates and digests. Every message includes a way to unsubscribe, and you can also email <a href="mailto:privacy@techscroll.app">privacy@techscroll.app</a> to be removed at any time.</p>
@@ -86,16 +88,19 @@
     <p>The short summaries shown in Learnify are generated or assisted by automated systems using publicly available article and research-paper metadata. No private account information, library data, or learning progress is sent to summary processing.</p>
 
     <h2>Tracking</h2>
-    <p>Learnify does not track you across apps or websites and does not request the App Tracking Transparency permission. On the website, anonymous Vercel Web Analytics is disabled unless you explicitly choose <strong>Allow anonymous analytics</strong>. It records only allowlisted aggregate events such as screen views, coarse feature actions, and foreground engagement-minute counts. We do not send article titles or URLs, searches, form or flashcard contents, email addresses, account IDs, raw error messages, or session recordings. You can change your choice at any time using <em>Analytics preferences</em>.</p>
+    <p>On iOS, Learnify requests App Tracking Transparency permission only when the release includes the Meta advertising-measurement integration. If you allow it, Meta may use the permitted device and subscription-event data to measure advertising across apps or websites. If you deny permission, Meta measurement does not start and no Learnify feature is limited. Superwall analytics is used for Learnify's own product and subscription experience; it is not used by Learnify for cross-app advertising.</p>
+    <p>On the website, anonymous Vercel Web Analytics is disabled unless you explicitly choose <strong>Allow anonymous analytics</strong>. It records only allowlisted aggregate events such as screen views, coarse feature actions, and foreground engagement-minute counts. We do not send article titles or URLs, searches, form or flashcard contents, email addresses, account IDs, raw error messages, or session recordings. You can change your choice at any time using <em>Analytics preferences</em>.</p>
 
     <h2>Your choices</h2>
-    <p>You can use Learnify as a guest, update your interests, disable optional notifications, unsubscribe from marketing messages, sign out, or permanently delete your account from inside the app.</p>
+    <p>You can use Learnify as a guest, update your interests, disable optional notifications, unsubscribe from marketing messages, sign out, or permanently delete your account from inside the app. Account deletion and Apple subscription cancellation are separate actions.</p>
 
     <h2>Children</h2>
     <p>Learnify is not directed to children under 13 and does not knowingly collect personal information from children.</p>
 
     <h2>Data deletion</h2>
-    <p>You can permanently delete your account from <em>Account &amp; Privacy</em> on the subscription screen or from <em>Settings → Delete Account</em>. Deletion removes the account and associated synchronized data from our servers and clears saved items, likes, and learning progress from the device. If your session has expired, Learnify may ask you to sign in again before it can authorize deletion. Uninstalling the app removes device-only data but does not by itself delete a signed-in account or its synchronized data.</p>
+    <p>You can permanently delete your account from <em>Account &amp; Privacy</em> on the subscription screen or from <em>Settings → Delete Account</em>. Deletion removes the account and associated synchronized data from our servers, detaches the app's subscription and analytics identities, and clears saved items, likes, and learning progress from the device. If your session has expired, Learnify may ask you to sign in again before it can authorize deletion. Uninstalling the app removes device-only data but does not by itself delete a signed-in account or its synchronized data.</p>
+    <p><strong>Deleting your Learnify account does not cancel a subscription billed by Apple.</strong> Apple billing continues until you cancel the subscription. We recommend cancelling before deleting your account; you can review or cancel it from iOS subscription settings or at <a href="https://apps.apple.com/account/subscriptions">Apple's Manage Subscriptions page</a>. You may still delete your account without cancelling.</p>
+    <p>Detaching an analytics or subscription identity in the app does not itself delete records held by Apple, Google, Superwall, RevenueCat, Meta, or another provider. Provider records are retained only as long as reasonably necessary for product measurement, purchase validation, fraud prevention, support, and legal obligations, after which they are deleted or anonymized under the applicable provider's practices. To request deletion of provider-held records associated with your account or device, email <a href="mailto:privacy@techscroll.app">privacy@techscroll.app</a>; we will identify the applicable provider and coordinate a deletion or anonymization request, subject to legal, security, and provider-retention requirements.</p>
 
     <h2>Changes</h2>
     <p>We may update this policy from time to time. Material changes will be reflected on this page with a new "Last updated" date.</p>
