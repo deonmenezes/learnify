@@ -1,8 +1,9 @@
 {
-  "generated_at": "2026-07-25T19:15:46.459Z",
+  "generated_at": "2026-07-25T20:32:21.331Z",
   "subs": [
     "MachineLearning",
-    "programming",
+    "Fitness",
+    "hardware",
     "cybersecurity",
     "investing",
     "robotics",
@@ -13,21 +14,19 @@
     "LocalLLaMA",
     "bodyweightfitness",
     "artificial",
+    "programming",
     "longevity",
-    "hardware",
     "startups",
     "science",
-    "Futurology",
-    "Fitness",
-    "running"
+    "Futurology"
   ],
   "count": 36,
   "by_category": {
     "Security": 3,
     "Startups & Funding": 3,
+    "Hardware & Gadgets": 5,
     "Robotics": 2,
-    "Fitness": 6,
-    "Hardware & Gadgets": 4,
+    "Fitness": 5,
     "Skincare": 2,
     "AI / ML": 9,
     "Coding & Dev Tools": 1,
@@ -106,6 +105,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/investing this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v5a8jk",
+      "title": "AMD confirmed $5.4 billion ATI acquisition 20 years ago today — deal to 'reinvent our industry' paved the way for Radeon GPU innovation, APUs, and games console domination",
+      "link": "https://www.reddit.com/r/hardware/comments/1v5a8jk/amd_confirmed_54_billion_ati_acquisition_20_years/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/hardware · community knowledge",
+      "content_type": "post",
+      "author": "u/fatso486 · r/hardware",
+      "handle": "hardware",
+      "org": "r/hardware",
+      "platform": "reddit",
+      "published": "2026-07-24T12:39:32.000Z",
+      "image": "https://external-preview.redd.it/xbRVutNl-XfyWhA2NiyJKyuT1cW_G2SlZVdnHk-nI8o.jpeg?width=640&crop=smart&auto=webp&s=b95044150999e653fcdd4a674979b9dc96197315",
+      "thumbnail": "https://external-preview.redd.it/xbRVutNl-XfyWhA2NiyJKyuT1cW_G2SlZVdnHk-nI8o.jpeg?width=640&crop=smart&auto=webp&s=b95044150999e653fcdd4a674979b9dc96197315",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/hardware"
+      ],
+      "summary": "AMD confirmed $5.4 billion ATI acquisition 20 years ago today — deal to 'reinvent our industry' paved the way for Radeon GPU innovation, APUs, and games console domination",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/hardware this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1409,45 +1447,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/nutrition this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v34hpw",
-      "title": "Running Shorts: Lined or Unlined?",
-      "link": "https://www.reddit.com/r/running/comments/1v34hpw/running_shorts_lined_or_unlined/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/running · community knowledge",
-      "content_type": "post",
-      "author": "u/followtheroed · r/running",
-      "handle": "running",
-      "org": "r/running",
-      "platform": "reddit",
-      "published": "2026-07-22T03:34:06.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/running"
-      ],
-      "summary": "I’ve been trying to figure out what most runners actually prefer, because everyone I talk to seems to have a different opinion. So I have a few questions. Do you prefer lined or unlined running shorts? If you like lined shorts, do you have preference in the type of liner? I’ve seen liners that are like built in…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/running this week"
       ],
       "metrics": {
         "likes": 0,
