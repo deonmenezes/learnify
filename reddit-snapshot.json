@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-25T21:32:28.604Z",
+  "generated_at": "2026-07-25T22:34:18.062Z",
   "subs": [
     "MachineLearning",
-    "longevity",
+    "Fitness",
+    "robotics",
     "gadgets",
     "cybersecurity",
     "investing",
     "hardware",
-    "robotics",
     "nutrition",
     "netsec",
     "SkincareAddiction",
@@ -15,24 +15,63 @@
     "bodyweightfitness",
     "artificial",
     "programming",
+    "longevity",
     "startups",
     "science",
-    "Futurology",
-    "Fitness"
+    "Futurology"
   ],
   "count": 36,
   "by_category": {
+    "Robotics": 3,
     "Hardware & Gadgets": 6,
     "Security": 3,
     "Startups & Funding": 3,
-    "Robotics": 2,
     "Fitness": 4,
     "Skincare": 2,
     "AI / ML": 9,
     "Coding & Dev Tools": 1,
-    "Science": 6
+    "Science": 5
   },
   "articles": [
+    {
+      "id": "reddit_1v6gd10",
+      "title": "I moved my 3D-printed robot lamp to a Raspberry Pi 5 and added controllable lighting",
+      "link": "https://www.reddit.com/r/robotics/comments/1v6gd10/i_moved_my_3dprinted_robot_lamp_to_a_raspberry_pi/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/robotics · community knowledge",
+      "content_type": "post",
+      "author": "u/Ok_Stress3654 · r/robotics",
+      "handle": "robotics",
+      "org": "r/robotics",
+      "platform": "reddit",
+      "published": "2026-07-25T18:43:55.000Z",
+      "image": "https://external-preview.redd.it/dXRmMWl2Zjc4ZmZoMaIJClCHHJyct0usEJSmjVcHBWWTmtY67LsYHnlHNUaC.png?width=320&crop=smart&auto=webp&s=9dc28e16b4476e33e250810bf6edf5edf562ab18",
+      "thumbnail": "https://external-preview.redd.it/dXRmMWl2Zjc4ZmZoMaIJClCHHJyct0usEJSmjVcHBWWTmtY67LsYHnlHNUaC.png?width=320&crop=smart&auto=webp&s=9dc28e16b4476e33e250810bf6edf5edf562ab18",
+      "section": "Robotics",
+      "category": "Robotics",
+      "genre": "Robotics",
+      "categories": [
+        "Reddit",
+        "Robotics",
+        "r/robotics"
+      ],
+      "summary": "A small update on my robotic desk lamp: the entire control system now runs on a Raspberry Pi 5. The lamp uses 24 V RobStride BLDC servo motors connected over CAN. The Raspberry Pi now handles motor control, lighting, and animation playback locally, so the lamp no longer needs to be continuously controlled by my main…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/robotics this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1v6b7q4",
       "title": "‘Really inappropriate’: teachers decry plan for humanoid robot in New York high school",
@@ -1407,45 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v37aig",
-      "title": "This year’s El Niño weather system, expected to be one of the strongest in decades, could cause a global economic shock that the world is unable to absorb given existing stress on supply chains, Deutsche Bank warns",
-      "link": "https://www.reddit.com/r/Futurology/comments/1v37aig/this_years_el_niño_weather_system_expected_to_be/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/Futurology · community knowledge",
-      "content_type": "post",
-      "author": "u/nimicdoareu · r/Futurology",
-      "handle": "Futurology",
-      "org": "r/Futurology",
-      "platform": "reddit",
-      "published": "2026-07-22T05:55:40.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/Futurology"
-      ],
-      "summary": "This year’s El Niño weather system, expected to be one of the strongest in decades, could cause a global economic shock that the world is unable to absorb given existing stress on supply chains, Deutsche Bank warns",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/Futurology this week"
       ],
       "metrics": {
         "likes": 0,
