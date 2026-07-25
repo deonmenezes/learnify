@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-25T15:09:55.456Z",
+  "generated_at": "2026-07-25T16:30:37.348Z",
   "subs": [
-    "singularity",
-    "SkincareAddiction",
+    "MachineLearning",
+    "Futurology",
+    "netsec",
     "investing",
     "robotics",
     "nutrition",
-    "netsec",
     "gadgets",
-    "MachineLearning",
+    "SkincareAddiction",
     "LocalLLaMA",
     "bodyweightfitness",
     "artificial",
@@ -17,7 +17,6 @@
     "hardware",
     "startups",
     "science",
-    "Futurology",
     "Fitness",
     "running"
   ],
@@ -29,9 +28,9 @@
     "Security": 2,
     "Hardware & Gadgets": 4,
     "Skincare": 2,
-    "AI / ML": 8,
+    "AI / ML": 9,
     "Coding & Dev Tools": 1,
-    "Science": 7
+    "Science": 6
   },
   "articles": [
     {
@@ -422,6 +421,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/artificial this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v4j1uk",
+      "title": "Prompt Injection in NeurIPS 2026? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v4j1uk/prompt_injection_in_neurips_2026_d/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/MachineLearning · community knowledge",
+      "content_type": "post",
+      "author": "u/Kwangryeol · r/MachineLearning",
+      "handle": "MachineLearning",
+      "org": "r/MachineLearning",
+      "platform": "reddit",
+      "published": "2026-07-23T16:34:33.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/MachineLearning"
+      ],
+      "summary": "The reviews were just released, and I downloaded my paper from OpenReview to identify areas that needed improvement. However, GPT warned me that the PDF contained a prompt injection. I never inserted such a prompt. After comparing my original submission with the version downloaded from OpenReview, it appears that the…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/MachineLearning this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1409,46 +1448,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/startups this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v32coh",
-      "title": "Somatic mutations impose an entropic upper bound on human lifespan",
-      "link": "https://www.reddit.com/r/longevity/comments/1v32coh/somatic_mutations_impose_an_entropic_upper_bound/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/longevity · community knowledge",
-      "content_type": "post",
-      "author": "u/RTSBasebuilder · r/longevity",
-      "handle": "longevity",
-      "org": "r/longevity",
-      "platform": "reddit",
-      "published": "2026-07-22T01:56:58.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Science",
-      "category": "Science",
-      "genre": "Longevity",
-      "categories": [
-        "Reddit",
-        "Science",
-        "Longevity",
-        "r/longevity"
-      ],
-      "summary": "Somatic mutations impose an entropic upper bound on human lifespan",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/longevity this week"
       ],
       "metrics": {
         "likes": 0,
