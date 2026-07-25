@@ -1,15 +1,221 @@
 {
-  "generated_at": "2026-07-25T05:47:16.938Z",
+  "generated_at": "2026-07-25T08:12:01.276Z",
   "handles": [
     "nvidia",
-    "OpenAI",
-    "gdb",
     "GoogleDeepMind",
-    "elonmusk",
-    "AnthropicAI"
+    "gdb",
+    "AIatMeta",
+    "OpenAI",
+    "elonmusk"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2080887168793190587",
+      "title": "To compete in the intelligence era, nations need AI factory infrastructure. Together, @official_naver, NVIDIA, and @Brookfield are expanding Korea’s national AI factory buildout to fuel Korea’s…",
+      "link": "https://x.com/nvidia/status/2080887168793190587",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-07-25T05:25:36.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Commentary"
+      ],
+      "summary": "To compete in the intelligence era, nations need AI factory infrastructure. Together, @official_naver, NVIDIA, and @Brookfield are expanding Korea’s national AI factory buildout to fuel Korea’s startups and industries at gigawatt-scale. NAVER is deploying the NVIDIA DSX",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 57,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy"
+      ],
+      "metrics": {
+        "likes": 187,
+        "retweets": 25,
+        "replies": 21,
+        "likes_h": "187"
+      },
+      "engagement": 258,
+      "hot": false
+    },
+    {
+      "id": "x_2080886765146321314",
+      "title": "SK Group and NVIDIA today announced a $500 billion-plus initiative spanning AI factories and next-generation memory. ➡️ @SKtelecom is building a 2-gigawatt NVIDIA Vera Rubin DSX AI Factory in Korea…",
+      "link": "https://x.com/nvidia/status/2080886765146321314",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-07-25T05:24:00.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Funding & deals",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Funding & deals"
+      ],
+      "summary": "SK Group and NVIDIA today announced a $500 billion-plus initiative spanning AI factories and next-generation memory. ➡️ @SKtelecom is building a 2-gigawatt NVIDIA Vera Rubin DSX AI Factory in Korea to serve global compute demand. ➡️ @SKhynix and NVIDIA will codevelop",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 100,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "announcement language (announced)",
+        "business signal (billion)",
+        "high engagement (704 likes)",
+        "concrete metrics"
+      ],
+      "metrics": {
+        "likes": 704,
+        "retweets": 113,
+        "replies": 45,
+        "likes_h": "704"
+      },
+      "engagement": 975,
+      "hot": false
+    },
+    {
+      "id": "x_2080833379197477226",
+      "title": "This is the Golden Age of Korea. NVIDIA is proud to partner with leaders across government, industry, and global technology to advance the K-AI vision — across chips, frontier AI, physical AI and…",
+      "link": "https://x.com/nvidia/status/2080833379197477226",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-07-25T01:51:52.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "This is the Golden Age of Korea. NVIDIA is proud to partner with leaders across government, industry, and global technology to advance the K-AI vision — across chips, frontier AI, physical AI and robotics, and AI factories. Together, we’re building AI infrastructure for Korea",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 84,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "casual tone (this)",
+        "tech substance (chips, robotics)",
+        "business signal (partner with)",
+        "high engagement (741 likes)"
+      ],
+      "metrics": {
+        "likes": 741,
+        "retweets": 140,
+        "replies": 47,
+        "likes_h": "741"
+      },
+      "engagement": 1068,
+      "hot": false
+    },
+    {
+      "id": "x_2080788131062641095",
+      "title": "Korea has long been a technology leader, with the talent, industrial strength, and drive to help shape the AI era. President Lee Jae Myung met with our CEO @JensenHuang today ahead of the San…",
+      "link": "https://x.com/nvidia/status/2080788131062641095",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-07-24T22:52:04.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Commentary"
+      ],
+      "summary": "Korea has long been a technology leader, with the talent, industrial strength, and drive to help shape the AI era. President Lee Jae Myung met with our CEO @JensenHuang today ahead of the San Francisco AI Summit to discuss deepening the partnership behind Korea’s national AI",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 81,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "business signal (partnership)",
+        "high engagement (790 likes)"
+      ],
+      "metrics": {
+        "likes": 790,
+        "retweets": 134,
+        "replies": 43,
+        "likes_h": "790"
+      },
+      "engagement": 1101,
+      "hot": false
+    },
+    {
+      "id": "x_2080736094157488201",
+      "title": "people are still just scratching the surface of how chatgpt work can be used. we want AI to empower people to live better lives, and believe agentic capabilities will be a core part of how it'll…",
+      "link": "https://x.com/gdb/status/2080736094157488201",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Greg Brockman · @gdb",
+      "handle": "gdb",
+      "org": "OpenAI",
+      "published": "2026-07-24T19:25:17.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Commentary"
+      ],
+      "summary": "people are still just scratching the surface of how chatgpt work can be used. we want AI to empower people to live better lives, and believe agentic capabilities will be a core part of how it'll happen.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 56,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "high engagement (1K likes)"
+      ],
+      "metrics": {
+        "likes": 1006,
+        "retweets": 63,
+        "replies": 102,
+        "likes_h": "1K"
+      },
+      "engagement": 1234,
+      "hot": false
+    },
     {
       "id": "x_2080686579400765517",
       "title": "Welcome @jensenhuang 💚 The future of AI leadership needs both frontier closed models and frontier open models.",
@@ -40,16 +246,16 @@
       "reasons": [
         "report-worthy",
         "tech substance (models)",
-        "high engagement (2.6K likes)"
+        "high engagement (6.9K likes)"
       ],
       "metrics": {
-        "likes": 2627,
-        "retweets": 168,
-        "replies": 109,
-        "likes_h": "2.6K"
+        "likes": 6856,
+        "retweets": 571,
+        "replies": 264,
+        "likes_h": "6.9K"
       },
-      "engagement": 3072,
-      "hot": false
+      "engagement": 8262,
+      "hot": true
     },
     {
       "id": "x_2080663854447804796",
@@ -75,7 +281,7 @@
       "summary": "Honored to celebrate @kaistpr’s launch of the joint AI Research Lab in Seoul, dedicated to advancing agentic AI for Korea’s industries. Together with KAIST’s leading researchers, we’re advancing frontier AI and opening new pathways for Korea’s next generation of AI talent.",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 69,
+      "worthiness_score": 71,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -83,12 +289,12 @@
         "tech substance (research)"
       ],
       "metrics": {
-        "likes": 135,
-        "retweets": 16,
-        "replies": 23,
-        "likes_h": "135"
+        "likes": 270,
+        "retweets": 40,
+        "replies": 28,
+        "likes_h": "270"
       },
-      "engagement": 190,
+      "engagement": 378,
       "hot": false
     },
     {
@@ -299,7 +505,7 @@
         "likes_h": "4.1K"
       },
       "engagement": 5181,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2080326297260072992",
@@ -371,15 +577,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (model, gemini)",
-        "high engagement (904 likes)"
+        "high engagement (1K likes)"
       ],
       "metrics": {
-        "likes": 904,
-        "retweets": 81,
-        "replies": 67,
-        "likes_h": "904"
+        "likes": 1000,
+        "retweets": 93,
+        "replies": 78,
+        "likes_h": "1K"
       },
-      "engagement": 1133,
+      "engagement": 1264,
       "hot": false
     },
     {
@@ -415,12 +621,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 385,
-        "retweets": 60,
+        "likes": 384,
+        "retweets": 61,
         "replies": 42,
-        "likes_h": "385"
+        "likes_h": "384"
       },
-      "engagement": 547,
+      "engagement": 548,
       "hot": false
     },
     {
@@ -706,11 +912,11 @@
       ],
       "metrics": {
         "likes": 53,
-        "retweets": 5,
+        "retweets": 6,
         "replies": 8,
         "likes_h": "53"
       },
-      "engagement": 71,
+      "engagement": 73,
       "hot": false
     },
     {
@@ -746,11 +952,11 @@
       ],
       "metrics": {
         "likes": 552,
-        "retweets": 49,
+        "retweets": 50,
         "replies": 50,
         "likes_h": "552"
       },
-      "engagement": 700,
+      "engagement": 702,
       "hot": false
     },
     {
@@ -912,11 +1118,11 @@
       ],
       "metrics": {
         "likes": 88,
-        "retweets": 6,
+        "retweets": 7,
         "replies": 8,
         "likes_h": "88"
       },
-      "engagement": 108,
+      "engagement": 110,
       "hot": false
     },
     {
@@ -952,11 +1158,11 @@
       ],
       "metrics": {
         "likes": 706,
-        "retweets": 57,
+        "retweets": 58,
         "replies": 48,
         "likes_h": "706"
       },
-      "engagement": 868,
+      "engagement": 870,
       "hot": false
     },
     {
@@ -999,7 +1205,7 @@
         "likes_h": "4.3K"
       },
       "engagement": 5117,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2079589701795627317",
@@ -1123,219 +1329,6 @@
         "likes_h": "309"
       },
       "engagement": 407,
-      "hot": false
-    },
-    {
-      "id": "x_2079430412837757338",
-      "title": "Try Grok Build, it’s awesome! http://X.ai/cli",
-      "link": "https://x.com/elonmusk/status/2079430412837757338",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Elon Musk · @elonmusk",
-      "handle": "elonmusk",
-      "org": "xAI/Tesla",
-      "published": "2026-07-21T04:56:59.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "xAI/Tesla",
-        "Product"
-      ],
-      "summary": "Try Grok Build, it’s awesome! http://X.ai/cli",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 71,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (grok)",
-        "links to a source",
-        "high engagement (9.2K likes)"
-      ],
-      "metrics": {
-        "likes": 9202,
-        "retweets": 1843,
-        "replies": 2123,
-        "likes_h": "9.2K"
-      },
-      "engagement": 15011,
-      "hot": true
-    },
-    {
-      "id": "x_2079289658622738481",
-      "title": "Was very cool to hear about the reasons people love Sol. We're doing the promotion again, except this time for ChatGPT Work: Tweet what you love about ChatGPT Work, claim $100 in free credits, get…",
-      "link": "https://x.com/gdb/status/2079289658622738481",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Greg Brockman · @gdb",
-      "handle": "gdb",
-      "org": "OpenAI",
-      "published": "2026-07-20T19:37:40.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Product"
-      ],
-      "summary": "Was very cool to hear about the reasons people love Sol. We're doing the promotion again, except this time for ChatGPT Work: Tweet what you love about ChatGPT Work, claim $100 in free credits, get more work done. First 10k get the free tokens: https://share-chatgpt-work.openai.chatgpt.site/",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 76,
-      "sentiment": "positive",
-      "sentiment_score": 1,
-      "reasons": [
-        "report-worthy",
-        "casual tone (this)",
-        "tech substance (tokens)",
-        "links to a source",
-        "high engagement (4.2K likes)",
-        "concrete metrics"
-      ],
-      "metrics": {
-        "likes": 4203,
-        "retweets": 1040,
-        "replies": 5670,
-        "likes_h": "4.2K"
-      },
-      "engagement": 11953,
-      "hot": true
-    },
-    {
-      "id": "x_2079256626771665098",
-      "title": "We're offering grants of up to $50,000 in Claude usage credits to researchers accelerating cures for rare diseases. This is our first focused call within AI for Science, our program supporting…",
-      "link": "https://x.com/AnthropicAI/status/2079256626771665098",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Anthropic · @AnthropicAI",
-      "handle": "AnthropicAI",
-      "org": "Anthropic",
-      "published": "2026-07-20T17:26:25.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "Anthropic",
-        "Research"
-      ],
-      "summary": "We're offering grants of up to $50,000 in Claude usage credits to researchers accelerating cures for rare diseases. This is our first focused call within AI for Science, our program supporting scientists using Claude to speed up discovery. https://www.anthropic.com/news/rare-disease-research-grants",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 77,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "casual tone (this)",
-        "tech substance (claude, research)",
-        "links to a source",
-        "high engagement (8.3K likes)"
-      ],
-      "metrics": {
-        "likes": 8263,
-        "retweets": 991,
-        "replies": 699,
-        "likes_h": "8.3K"
-      },
-      "engagement": 10944,
-      "hot": true
-    },
-    {
-      "id": "x_2079240931337965928",
-      "title": "Frontier world models now run on edge GPUs. ⚡ Now openly available, NVIDIA Cosmos 3 Edge brings advanced world-model capabilities to local devices. The 4-billion-parameter omnimodel can understand…",
-      "link": "https://x.com/nvidia/status/2079240931337965928",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-07-20T16:24:03.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Funding & deals",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Funding & deals"
-      ],
-      "summary": "Frontier world models now run on edge GPUs. ⚡ Now openly available, NVIDIA Cosmos 3 Edge brings advanced world-model capabilities to local devices. The 4-billion-parameter omnimodel can understand and generate text, image, video, ambient sound and action for physical AI across",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 66,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "reply / conversation",
-        "tech substance (model, models, gpus)",
-        "business signal (billion)"
-      ],
-      "metrics": {
-        "likes": 49,
-        "retweets": 9,
-        "replies": 5,
-        "likes_h": "49"
-      },
-      "engagement": 72,
-      "hot": false
-    },
-    {
-      "id": "x_2079221588705099788",
-      "title": "NVIDIA is advancing graphics and simulation with agentic and physical AI at #SIGGRAPH2026. From open models to real-time simulation, AI and graphics breakthroughs are transforming media, content…",
-      "link": "https://x.com/nvidia/status/2079221588705099788",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-07-20T15:07:11.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product",
-        "SIGGRAPH2026"
-      ],
-      "summary": "NVIDIA is advancing graphics and simulation with agentic and physical AI at #SIGGRAPH2026. From open models to real-time simulation, AI and graphics breakthroughs are transforming media, content creation, and robotics. Read the latest announcements. 👇 https://vist.ly/5bt2j",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 91,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "tech substance (models, robotics)",
-        "links to a source"
-      ],
-      "metrics": {
-        "likes": 527,
-        "retweets": 86,
-        "replies": 50,
-        "likes_h": "527"
-      },
-      "engagement": 749,
       "hot": false
     }
   ]
