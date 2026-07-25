@@ -1,38 +1,77 @@
 {
-  "generated_at": "2026-07-25T20:32:21.331Z",
+  "generated_at": "2026-07-25T21:32:28.604Z",
   "subs": [
     "MachineLearning",
-    "Fitness",
-    "hardware",
+    "longevity",
+    "gadgets",
     "cybersecurity",
     "investing",
+    "hardware",
     "robotics",
     "nutrition",
     "netsec",
-    "gadgets",
     "SkincareAddiction",
     "LocalLLaMA",
     "bodyweightfitness",
     "artificial",
     "programming",
-    "longevity",
     "startups",
     "science",
-    "Futurology"
+    "Futurology",
+    "Fitness"
   ],
   "count": 36,
   "by_category": {
+    "Hardware & Gadgets": 6,
     "Security": 3,
     "Startups & Funding": 3,
-    "Hardware & Gadgets": 5,
     "Robotics": 2,
-    "Fitness": 5,
+    "Fitness": 4,
     "Skincare": 2,
     "AI / ML": 9,
     "Coding & Dev Tools": 1,
     "Science": 6
   },
   "articles": [
+    {
+      "id": "reddit_1v6b7q4",
+      "title": "‘Really inappropriate’: teachers decry plan for humanoid robot in New York high school",
+      "link": "https://www.reddit.com/r/gadgets/comments/1v6b7q4/really_inappropriate_teachers_decry_plan_for/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/gadgets · community knowledge",
+      "content_type": "post",
+      "author": "u/diacewrb · r/gadgets",
+      "handle": "gadgets",
+      "org": "r/gadgets",
+      "platform": "reddit",
+      "published": "2026-07-25T15:24:20.000Z",
+      "image": "https://external-preview.redd.it/x_dkrCUpUzWBv09tsAE79Yp71ChJqcq_MzVfm-8zIfY.jpeg?width=640&crop=smart&auto=webp&s=d248c72b3eb73b43466d564a490e48fc4fab5ed9",
+      "thumbnail": "https://external-preview.redd.it/x_dkrCUpUzWBv09tsAE79Yp71ChJqcq_MzVfm-8zIfY.jpeg?width=640&crop=smart&auto=webp&s=d248c72b3eb73b43466d564a490e48fc4fab5ed9",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/gadgets"
+      ],
+      "summary": "‘Really inappropriate’: teachers decry plan for humanoid robot in New York high school",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/gadgets this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1v5pa8w",
       "title": "Hackers use DNS poisoning on hotel Wi‑Fi to steal Microsoft 365 accounts",
@@ -1407,46 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Futurology this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v35rk5",
-      "title": "Is the idea of an \"incomplete protein\" a myth?",
-      "link": "https://www.reddit.com/r/nutrition/comments/1v35rk5/is_the_idea_of_an_incomplete_protein_a_myth/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/nutrition · community knowledge",
-      "content_type": "post",
-      "author": "u/Maximal_Everything · r/nutrition",
-      "handle": "nutrition",
-      "org": "r/nutrition",
-      "platform": "reddit",
-      "published": "2026-07-22T04:36:29.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Nutrition",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "Nutrition",
-        "r/nutrition"
-      ],
-      "summary": "Some sources example say that the idea of an incomplete protein is a myth based on bad science and has been refuted. However, it persists among nutrition discussions. Is it actually a myth? Are there some special cases where amino acid profiles should be monitored (e.g. bodybuilding or sthletics)? &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/nutrition this week"
       ],
       "metrics": {
         "likes": 0,
