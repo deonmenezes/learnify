@@ -1,39 +1,78 @@
 {
-  "generated_at": "2026-07-25T11:49:19.281Z",
+  "generated_at": "2026-07-25T13:45:00.589Z",
   "subs": [
     "MachineLearning",
-    "Fitness",
+    "artificial",
+    "nutrition",
+    "investing",
     "robotics",
     "netsec",
     "gadgets",
     "SkincareAddiction",
     "LocalLLaMA",
     "bodyweightfitness",
-    "artificial",
     "programming",
     "longevity",
     "hardware",
     "startups",
     "science",
-    "investing",
     "Futurology",
-    "nutrition",
-    "running",
-    "cybersecurity"
+    "Fitness",
+    "running"
   ],
   "count": 36,
   "by_category": {
+    "Startups & Funding": 4,
     "Robotics": 2,
-    "Security": 3,
+    "Fitness": 6,
+    "Security": 2,
     "Hardware & Gadgets": 4,
     "Skincare": 2,
-    "AI / ML": 9,
-    "Fitness": 5,
+    "AI / ML": 8,
     "Coding & Dev Tools": 1,
-    "Science": 7,
-    "Startups & Funding": 3
+    "Science": 7
   },
   "articles": [
+    {
+      "id": "reddit_1v5aj63",
+      "title": "I’ve had cash sitting uninvested for months because I can’t stop second guessing every decision",
+      "link": "https://www.reddit.com/r/investing/comments/1v5aj63/ive_had_cash_sitting_uninvested_for_months/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/investing · community knowledge",
+      "content_type": "post",
+      "author": "u/Lower-Organization-1 · r/investing",
+      "handle": "investing",
+      "org": "r/investing",
+      "platform": "reddit",
+      "published": "2026-07-24T12:52:18.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/investing"
+      ],
+      "summary": "Lately every investing decision feels harder than it should. I read one thread and want to stay fully passive. Then someone makes a convincing case for AI stocks, then recession posts show up everywhere, then crypto rallies again and suddenly I feel underexposed there too. Every week I convinced myself a different…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/investing this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1v582o5",
       "title": "Unitree “Super Athlete\" AS2-W (wheeled-leg variant of the AS2)",
@@ -66,6 +105,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/robotics this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v57g7p",
+      "title": "Nutrients in powdered peanut butter",
+      "link": "https://www.reddit.com/r/nutrition/comments/1v57g7p/nutrients_in_powdered_peanut_butter/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/nutrition · community knowledge",
+      "content_type": "post",
+      "author": "u/bouncysofa · r/nutrition",
+      "handle": "nutrition",
+      "org": "r/nutrition",
+      "platform": "reddit",
+      "published": "2026-07-24T10:24:26.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Nutrition",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "Nutrition",
+        "r/nutrition"
+      ],
+      "summary": "I am curious, other than protein and fibre, what nutrients are *not* lost when extracting the fat from peanut butter to create the popular &quot;diet peanut butters&quot; currently on the market (PB2, PB&amp;Me). The labels of these products do not seem to provide a list of what vitamins / minerals the product…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/nutrition this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1369,85 +1448,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/longevity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v2zpfk",
-      "title": "Oracle Releases 1235 CVEs today.",
-      "link": "https://www.reddit.com/r/cybersecurity/comments/1v2zpfk/oracle_releases_1235_cves_today/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/cybersecurity · community knowledge",
-      "content_type": "post",
-      "author": "u/scooterthetroll · r/cybersecurity",
-      "handle": "cybersecurity",
-      "org": "r/cybersecurity",
-      "platform": "reddit",
-      "published": "2026-07-22T00:01:08.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/cybersecurity"
-      ],
-      "summary": "Oracle Releases 1235 CVEs today.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/cybersecurity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v2w7jl",
-      "title": "OpenAI admits responsibility for HuggingFace Attack - an agent from an internal evaluation is reportedly the cause.",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1v2w7jl/openai_admits_responsibility_for_huggingface/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/LocalLLaMA · community knowledge",
-      "content_type": "post",
-      "author": "u/Qwen30bEnjoyer · r/LocalLLaMA",
-      "handle": "LocalLLaMA",
-      "org": "r/LocalLLaMA",
-      "platform": "reddit",
-      "published": "2026-07-21T21:40:50.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/LocalLLaMA"
-      ],
-      "summary": "OpenAI admits responsibility for HuggingFace Attack - an agent from an internal evaluation is reportedly the cause.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/LocalLLaMA this week"
       ],
       "metrics": {
         "likes": 0,
