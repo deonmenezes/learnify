@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-24T23:38:06.292Z",
+  "generated_at": "2026-07-25T02:57:18.124Z",
   "subs": [
     "MachineLearning",
-    "LocalLLaMA",
-    "running",
-    "investing",
+    "Fitness",
+    "robotics",
     "netsec",
     "SkincareAddiction",
+    "LocalLLaMA",
     "bodyweightfitness",
     "artificial",
     "programming",
@@ -15,26 +15,64 @@
     "startups",
     "gadgets",
     "science",
+    "investing",
     "Futurology",
-    "Fitness",
-    "robotics",
     "nutrition",
-    "cybersecurity",
-    "singularity"
+    "running",
+    "cybersecurity"
   ],
   "count": 36,
   "by_category": {
+    "Robotics": 2,
     "Security": 3,
     "Skincare": 2,
-    "AI / ML": 10,
+    "AI / ML": 9,
     "Fitness": 5,
     "Coding & Dev Tools": 1,
     "Science": 7,
     "Hardware & Gadgets": 3,
-    "Startups & Funding": 4,
-    "Robotics": 1
+    "Startups & Funding": 4
   },
   "articles": [
+    {
+      "id": "reddit_1v582o5",
+      "title": "Unitree “Super Athlete\" AS2-W (wheeled-leg variant of the AS2)",
+      "link": "https://www.reddit.com/r/robotics/comments/1v582o5/unitree_super_athlete_as2w_wheeledleg_variant_of/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/robotics · community knowledge",
+      "content_type": "post",
+      "author": "u/Nunki08 · r/robotics",
+      "handle": "robotics",
+      "org": "r/robotics",
+      "platform": "reddit",
+      "published": "2026-07-24T10:57:49.000Z",
+      "image": "https://external-preview.redd.it/ZXdhZ281NjJxNWZoMQaUqeYT1FdrWZ3bty9aDscyy7BrOwwnfqnrb2-ZMjW0.png?width=640&crop=smart&auto=webp&s=b26f05a7170bbe6cab73503c9d5784c697bf1130",
+      "thumbnail": "https://external-preview.redd.it/ZXdhZ281NjJxNWZoMQaUqeYT1FdrWZ3bty9aDscyy7BrOwwnfqnrb2-ZMjW0.png?width=640&crop=smart&auto=webp&s=b26f05a7170bbe6cab73503c9d5784c697bf1130",
+      "section": "Robotics",
+      "category": "Robotics",
+      "genre": "Robotics",
+      "categories": [
+        "Reddit",
+        "Robotics",
+        "r/robotics"
+      ],
+      "summary": "From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2080549171661295907 - Weight: ~25 kg with battery. - Speed: Over 6 m/s (higher than the pure-legged As2). - Payload: Continuous ~16 kg; higher static capacity. - Endurance: Unloaded &gt;3 hours / 30+ km; loaded (&gt;16 kg) &gt;2 hours / &gt;16 km. Same 648 Wh…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/robotics this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1v52lix",
       "title": "Escaping Claude Cowork’s local VM sandbox via CVE-2026-46331",
@@ -1411,46 +1449,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/startups this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v2ng7a",
-      "title": "in a not so distance future",
-      "link": "https://www.reddit.com/r/singularity/comments/1v2ng7a/in_a_not_so_distance_future/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/singularity · community knowledge",
-      "content_type": "post",
-      "author": "u/Crazyscientist1024 · r/singularity",
-      "handle": "singularity",
-      "org": "r/singularity",
-      "platform": "reddit",
-      "published": "2026-07-21T16:29:56.000Z",
-      "image": "https://preview.redd.it/jjj3qrub0meh1.png?width=640&crop=smart&auto=webp&s=4928a9bdf28154391092367fbac231eb5269f565",
-      "thumbnail": "https://preview.redd.it/jjj3qrub0meh1.png?width=640&crop=smart&auto=webp&s=4928a9bdf28154391092367fbac231eb5269f565",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/singularity"
-      ],
-      "summary": "in a not so distance future",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/singularity this week"
       ],
       "metrics": {
         "likes": 0,
