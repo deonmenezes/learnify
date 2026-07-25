@@ -1,8 +1,9 @@
 {
-  "generated_at": "2026-07-25T02:57:18.124Z",
+  "generated_at": "2026-07-25T05:49:27.938Z",
   "subs": [
     "MachineLearning",
-    "Fitness",
+    "longevity",
+    "gadgets",
     "robotics",
     "netsec",
     "SkincareAddiction",
@@ -10,13 +11,12 @@
     "bodyweightfitness",
     "artificial",
     "programming",
-    "longevity",
     "hardware",
     "startups",
-    "gadgets",
     "science",
     "investing",
     "Futurology",
+    "Fitness",
     "nutrition",
     "running",
     "cybersecurity"
@@ -25,13 +25,13 @@
   "by_category": {
     "Robotics": 2,
     "Security": 3,
+    "Hardware & Gadgets": 4,
     "Skincare": 2,
     "AI / ML": 9,
     "Fitness": 5,
     "Coding & Dev Tools": 1,
     "Science": 7,
-    "Hardware & Gadgets": 3,
-    "Startups & Funding": 4
+    "Startups & Funding": 3
   },
   "articles": [
     {
@@ -105,6 +105,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/netsec this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v4vu0u",
+      "title": "Scientists develop handheld device for measuring when your body is burning fat",
+      "link": "https://www.reddit.com/r/gadgets/comments/1v4vu0u/scientists_develop_handheld_device_for_measuring/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/gadgets · community knowledge",
+      "content_type": "post",
+      "author": "u/dapperlemon · r/gadgets",
+      "handle": "gadgets",
+      "org": "r/gadgets",
+      "platform": "reddit",
+      "published": "2026-07-24T00:30:52.000Z",
+      "image": "https://external-preview.redd.it/3JcWT5CLTfgvRqpKq8grGSYViqz3H3B7rTMQV0xrTWw.jpeg?width=640&crop=smart&auto=webp&s=ccf325b6b3f3999a3cfa6135db53ab05b378370f",
+      "thumbnail": "https://external-preview.redd.it/3JcWT5CLTfgvRqpKq8grGSYViqz3H3B7rTMQV0xrTWw.jpeg?width=640&crop=smart&auto=webp&s=ccf325b6b3f3999a3cfa6135db53ab05b378370f",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/gadgets"
+      ],
+      "summary": "Scientists develop handheld device for measuring when your body is burning fat",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/gadgets this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1409,46 +1448,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/LocalLLaMA this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v2ted2",
-      "title": "I will not promote First ever VC meeting this week as a founder. What should I actually be prepared for?",
-      "link": "https://www.reddit.com/r/startups/comments/1v2ted2/i_will_not_promote_first_ever_vc_meeting_this/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/startups · community knowledge",
-      "content_type": "post",
-      "author": "u/mattsand9 · r/startups",
-      "handle": "startups",
-      "org": "r/startups",
-      "platform": "reddit",
-      "published": "2026-07-21T19:57:31.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/startups"
-      ],
-      "summary": "So it&#39;s official, we have our first ever VC meeting set up for this week. First one I&#39;ve ever done as a founder and I am super, super nervous about it. Honestly it&#39;s because I don&#39;t want to screw it up. I know a lot of founders on here will say you go through a ton of these meetings and this is just…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/startups this week"
       ],
       "metrics": {
         "likes": 0,
