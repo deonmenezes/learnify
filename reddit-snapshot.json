@@ -1,14 +1,15 @@
 {
-  "generated_at": "2026-07-25T17:36:51.878Z",
+  "generated_at": "2026-07-25T19:15:46.459Z",
   "subs": [
     "MachineLearning",
     "programming",
-    "SkincareAddiction",
+    "cybersecurity",
     "investing",
     "robotics",
     "nutrition",
     "netsec",
     "gadgets",
+    "SkincareAddiction",
     "LocalLLaMA",
     "bodyweightfitness",
     "artificial",
@@ -22,10 +23,10 @@
   ],
   "count": 36,
   "by_category": {
-    "Startups & Funding": 4,
+    "Security": 3,
+    "Startups & Funding": 3,
     "Robotics": 2,
     "Fitness": 6,
-    "Security": 2,
     "Hardware & Gadgets": 4,
     "Skincare": 2,
     "AI / ML": 9,
@@ -33,6 +34,45 @@
     "Science": 6
   },
   "articles": [
+    {
+      "id": "reddit_1v5pa8w",
+      "title": "Hackers use DNS poisoning on hotel Wi‑Fi to steal Microsoft 365 accounts",
+      "link": "https://www.reddit.com/r/cybersecurity/comments/1v5pa8w/hackers_use_dns_poisoning_on_hotel_wifi_to_steal/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/cybersecurity · community knowledge",
+      "content_type": "post",
+      "author": "u/HumbleRestaurant790 · r/cybersecurity",
+      "handle": "cybersecurity",
+      "org": "r/cybersecurity",
+      "platform": "reddit",
+      "published": "2026-07-24T21:52:29.000Z",
+      "image": "https://external-preview.redd.it/hewjx9xfp9-Otb043Oj5jDGrvljq7z7b0mkNK_0rh4g.jpeg?width=320&crop=smart&auto=webp&s=2e1bf00f3d1f03e4dc6f81df490ab5f65012dac7",
+      "thumbnail": "https://external-preview.redd.it/hewjx9xfp9-Otb043Oj5jDGrvljq7z7b0mkNK_0rh4g.jpeg?width=320&crop=smart&auto=webp&s=2e1bf00f3d1f03e4dc6f81df490ab5f65012dac7",
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/cybersecurity"
+      ],
+      "summary": "Hackers use DNS poisoning on hotel Wi‑Fi to steal Microsoft 365 accounts",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/cybersecurity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1v5aj63",
       "title": "I’ve had cash sitting uninvested for months because I can’t stop second guessing every decision",
@@ -1408,46 +1448,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/running this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v32l9k",
-      "title": "I'm the only technical person holding a 5 person startup together and I think the founder doesn't get how fragile that is (I will not promote)",
-      "link": "https://www.reddit.com/r/startups/comments/1v32l9k/im_the_only_technical_person_holding_a_5_person/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/startups · community knowledge",
-      "content_type": "post",
-      "author": "u/LagLlama · r/startups",
-      "handle": "startups",
-      "org": "r/startups",
-      "platform": "reddit",
-      "published": "2026-07-22T02:07:21.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/startups"
-      ],
-      "summary": "Throwaway for obvious reasons. Looking for a gut check from people who&#39;ve been around startups longer than me. I&#39;m a college student working part time at a 5 person startup. Nontechnical CEO, me, and the rest non-engineering. My title says &quot;contractor&quot; but in practice I own almost all the technical…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/startups this week"
       ],
       "metrics": {
         "likes": 0,
