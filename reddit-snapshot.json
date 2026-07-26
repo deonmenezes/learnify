@@ -1,37 +1,76 @@
 {
-  "generated_at": "2026-07-26T10:53:15.085Z",
+  "generated_at": "2026-07-26T12:09:38.148Z",
   "subs": [
     "MachineLearning",
-    "bodyweightfitness",
+    "science",
+    "netsec",
     "robotics",
     "nutrition",
     "artificial",
     "gadgets",
+    "bodyweightfitness",
     "startups",
     "cybersecurity",
     "LocalLLaMA",
     "investing",
     "hardware",
-    "netsec",
     "running",
     "SkincareAddiction",
     "programming",
-    "longevity",
-    "science"
+    "longevity"
   ],
   "count": 36,
   "by_category": {
+    "Science": 4,
     "Robotics": 2,
     "Fitness": 5,
-    "AI / ML": 10,
+    "AI / ML": 9,
     "Hardware & Gadgets": 6,
     "Startups & Funding": 4,
     "Security": 3,
     "Skincare": 2,
-    "Coding & Dev Tools": 1,
-    "Science": 3
+    "Coding & Dev Tools": 1
   },
   "articles": [
+    {
+      "id": "reddit_1v6lf9g",
+      "title": "People with ADHD have difficulties with goal-directed behavior and struggle with response inhibition, the ability to stop an inappropriate action once they feel the urge to do it. They experience a disruption in the way their brains balance deliberate self-control and automatic habit learning.",
+      "link": "https://www.reddit.com/r/science/comments/1v6lf9g/people_with_adhd_have_difficulties_with/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/science · community knowledge",
+      "content_type": "post",
+      "author": "u/mvea · r/science",
+      "handle": "science",
+      "org": "r/science",
+      "platform": "reddit",
+      "published": "2026-07-25T22:06:13.000Z",
+      "image": "https://external-preview.redd.it/_kC4K_qwQ8NF6RRBnYN6D4FsZZvRsB0latWxaERHPQQ.jpeg?width=640&crop=smart&auto=webp&s=57f42e754424c79ba02a53391cb03233bacd9c5c",
+      "thumbnail": "https://external-preview.redd.it/_kC4K_qwQ8NF6RRBnYN6D4FsZZvRsB0latWxaERHPQQ.jpeg?width=640&crop=smart&auto=webp&s=57f42e754424c79ba02a53391cb03233bacd9c5c",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/science"
+      ],
+      "summary": "People with ADHD have difficulties with goal-directed behavior and struggle with response inhibition, the ability to stop an inappropriate action once they feel the urge to do it. They experience a disruption in the way their brains balance deliberate self-control and automatic habit learning.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/science this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1v6gd10",
       "title": "I moved my 3D-printed robot lamp to a Raspberry Pi 5 and added controllable lighting",
@@ -1407,46 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/artificial this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v3enzq",
-      "title": "Happy openreview refresh day to all those who celebrate [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1v3enzq/happy_openreview_refresh_day_to_all_those_who/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/MachineLearning · community knowledge",
-      "content_type": "post",
-      "author": "u/GuestCheap9405 · r/MachineLearning",
-      "handle": "MachineLearning",
-      "org": "r/MachineLearning",
-      "platform": "reddit",
-      "published": "2026-07-22T12:25:54.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/MachineLearning"
-      ],
-      "summary": "...may the odds be in your favor. On a more serious note, as an Area Chair for Neurips, I can tell the incentives that they placed this year are kinda working (risk of rejecting a reviewer&#39;s paper if they are not being responsible). I&#39;ve had the least number of reviewers to chase/emergency reviewers to recruit…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/MachineLearning this week"
       ],
       "metrics": {
         "likes": 0,
