@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-07-26T14:13:29.395Z",
+  "generated_at": "2026-07-26T15:44:39.563Z",
   "subs": [
-    "MachineLearning",
-    "longevity",
-    "gadgets",
+    "LocalLLaMA",
     "science",
+    "netsec",
     "robotics",
     "nutrition",
     "artificial",
+    "gadgets",
     "bodyweightfitness",
     "startups",
     "cybersecurity",
-    "LocalLLaMA",
     "investing",
     "hardware",
-    "netsec",
     "running",
     "SkincareAddiction",
-    "programming"
+    "MachineLearning",
+    "programming",
+    "longevity"
   ],
   "count": 36,
   "by_category": {
-    "Science": 4,
+    "Science": 5,
     "Robotics": 2,
     "Fitness": 5,
-    "AI / ML": 9,
+    "AI / ML": 8,
     "Hardware & Gadgets": 6,
     "Startups & Funding": 4,
     "Security": 3,
@@ -380,6 +380,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/artificial this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v5dh97",
+      "title": "Sacrificed Inca children died very differently than we thought. Inca boys and girls chosen for human sacrifice trekked through Inca communities for thousands of miles on sacred pilgrimages before their ritual deaths, often near high peaks in the Andes Mountains new research shows",
+      "link": "https://www.reddit.com/r/science/comments/1v5dh97/sacrificed_inca_children_died_very_differently/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/science · community knowledge",
+      "content_type": "post",
+      "author": "u/Wagamaga · r/science",
+      "handle": "science",
+      "org": "r/science",
+      "platform": "reddit",
+      "published": "2026-07-24T14:46:48.000Z",
+      "image": "https://external-preview.redd.it/7EKuPk4g0YPepQx204A_Zo7AoB1DgHhVe306bi_zEXU.jpeg?width=640&crop=smart&auto=webp&s=cc043cd569050565cff7ce386cb9fb9425960ed8",
+      "thumbnail": "https://external-preview.redd.it/7EKuPk4g0YPepQx204A_Zo7AoB1DgHhVe306bi_zEXU.jpeg?width=640&crop=smart&auto=webp&s=cc043cd569050565cff7ce386cb9fb9425960ed8",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/science"
+      ],
+      "summary": "Sacrificed Inca children died very differently than we thought. Inca boys and girls chosen for human sacrifice trekked through Inca communities for thousands of miles on sacred pilgrimages before their ritual deaths, often near high peaks in the Andes Mountains new research shows",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/science this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1406,46 +1445,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/longevity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v3mxzb",
-      "title": "An AI broke out of its sandbox yesterday. Then it hacked a company. Nobody told it to do either of those things.",
-      "link": "https://www.reddit.com/r/artificial/comments/1v3mxzb/an_ai_broke_out_of_its_sandbox_yesterday_then_it/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/artificial · community knowledge",
-      "content_type": "post",
-      "author": "u/Dapper-Tale-4021 · r/artificial",
-      "handle": "artificial",
-      "org": "r/artificial",
-      "platform": "reddit",
-      "published": "2026-07-22T17:29:46.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/artificial"
-      ],
-      "summary": "I want to make sure people actually understand what happened here because the headlines are not doing it justice. On July 21 OpenAI confirmed that GPT-5.6 Sol was running inside an isolated sandbox with no internet access. Its job was to solve a cybersecurity benchmark called ExploitGym. When the sandbox got in the…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/artificial this week"
       ],
       "metrics": {
         "likes": 0,
