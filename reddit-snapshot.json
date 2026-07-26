@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-26T09:01:30.437Z",
+  "generated_at": "2026-07-26T10:53:15.085Z",
   "subs": [
     "MachineLearning",
-    "Futurology",
-    "gadgets",
+    "bodyweightfitness",
     "robotics",
     "nutrition",
     "artificial",
+    "gadgets",
     "startups",
     "cybersecurity",
     "LocalLLaMA",
@@ -15,7 +15,6 @@
     "netsec",
     "running",
     "SkincareAddiction",
-    "bodyweightfitness",
     "programming",
     "longevity",
     "science"
@@ -23,14 +22,14 @@
   "count": 36,
   "by_category": {
     "Robotics": 2,
-    "Fitness": 4,
+    "Fitness": 5,
     "AI / ML": 10,
     "Hardware & Gadgets": 6,
     "Startups & Funding": 4,
     "Security": 3,
     "Skincare": 2,
     "Coding & Dev Tools": 1,
-    "Science": 4
+    "Science": 3
   },
   "articles": [
     {
@@ -184,6 +183,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/gadgets this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v61u3c",
+      "title": "Neutral grip is a game changer in unlocking pullup potential",
+      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1v61u3c/neutral_grip_is_a_game_changer_in_unlocking/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/bodyweightfitness · community knowledge",
+      "content_type": "post",
+      "author": "u/karl_ae · r/bodyweightfitness",
+      "handle": "bodyweightfitness",
+      "org": "r/bodyweightfitness",
+      "platform": "reddit",
+      "published": "2026-07-25T07:45:21.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/bodyweightfitness"
+      ],
+      "summary": "I&#39;ve always been a fan of pull-ups, but neither regular pull-ups nor chin-ups ever felt natural on my elbows. The way they force your arms into too much internal or external rotation just never sat right. Ring pull-ups always felt great, but setting the rings up is a hassle so I almost never did them. Then I…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/bodyweightfitness this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1409,45 +1447,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v3e94z",
-      "title": "Biohacker Bryan Johnson Claims He 'Cloned' Himself as a Newborn to Grow Organs After Incurable Disease Diagnosis",
-      "link": "https://www.reddit.com/r/Futurology/comments/1v3e94z/biohacker_bryan_johnson_claims_he_cloned_himself/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/Futurology · community knowledge",
-      "content_type": "post",
-      "author": "u/terenscendent · r/Futurology",
-      "handle": "Futurology",
-      "org": "r/Futurology",
-      "platform": "reddit",
-      "published": "2026-07-22T12:07:48.000Z",
-      "image": "https://external-preview.redd.it/UEF_so_0bp6c8VMMFIda-3Sc_tUeftZ7EluEENAqJoU.jpeg?width=640&crop=smart&auto=webp&s=82b32088d433c2a8163b558020293793eec3acd2",
-      "thumbnail": "https://external-preview.redd.it/UEF_so_0bp6c8VMMFIda-3Sc_tUeftZ7EluEENAqJoU.jpeg?width=640&crop=smart&auto=webp&s=82b32088d433c2a8163b558020293793eec3acd2",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/Futurology"
-      ],
-      "summary": "Biohacker Bryan Johnson Claims He 'Cloned' Himself as a Newborn to Grow Organs After Incurable Disease Diagnosis",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/Futurology this week"
       ],
       "metrics": {
         "likes": 0,
