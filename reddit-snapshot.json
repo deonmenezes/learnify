@@ -1,12 +1,11 @@
 {
-  "generated_at": "2026-07-26T17:09:26.854Z",
+  "generated_at": "2026-07-26T18:36:55.695Z",
   "subs": [
     "MachineLearning",
-    "longevity",
-    "hardware",
+    "singularity",
+    "nutrition",
     "science",
     "robotics",
-    "nutrition",
     "artificial",
     "gadgets",
     "bodyweightfitness",
@@ -14,19 +13,21 @@
     "cybersecurity",
     "LocalLLaMA",
     "investing",
+    "hardware",
     "netsec",
     "running",
     "SkincareAddiction",
-    "programming"
+    "programming",
+    "longevity"
   ],
   "count": 36,
   "by_category": {
-    "Science": 5,
+    "Science": 4,
     "Robotics": 2,
     "Fitness": 5,
-    "AI / ML": 8,
+    "AI / ML": 10,
     "Hardware & Gadgets": 6,
-    "Startups & Funding": 4,
+    "Startups & Funding": 3,
     "Security": 3,
     "Skincare": 2,
     "Coding & Dev Tools": 1
@@ -269,6 +270,46 @@
       }
     },
     {
+      "id": "reddit_1v60izq",
+      "title": "Robot powered by Qualcomm’s new AI chip dies mid-presentation",
+      "link": "https://www.reddit.com/r/singularity/comments/1v60izq/robot_powered_by_qualcomms_new_ai_chip_dies/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/singularity · community knowledge",
+      "content_type": "post",
+      "author": "u/SuggestionMission516 · r/singularity",
+      "handle": "singularity",
+      "org": "r/singularity",
+      "platform": "reddit",
+      "published": "2026-07-25T06:34:02.000Z",
+      "image": "https://external-preview.redd.it/NWVjb3RieHJsYmZoMRydPXdvgPw4xO0VF7_GG0AS2kZCRFC7gfgu1_ff_naM.png?width=640&crop=smart&auto=webp&s=1b76dcd0b7b17fa847efd47533998eac36c8581e",
+      "thumbnail": "https://external-preview.redd.it/NWVjb3RieHJsYmZoMRydPXdvgPw4xO0VF7_GG0AS2kZCRFC7gfgu1_ff_naM.png?width=640&crop=smart&auto=webp&s=1b76dcd0b7b17fa847efd47533998eac36c8581e",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/singularity"
+      ],
+      "summary": "Robot powered by Qualcomm’s new AI chip dies mid-presentation",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/singularity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1v5snq2",
       "title": "Stripe closed my account with a 0.18% dispute rate *i will not promote",
       "link": "https://www.reddit.com/r/startups/comments/1v5snq2/stripe_closed_my_account_with_a_018_dispute_rate/",
@@ -380,6 +421,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/artificial this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v5mn72",
+      "title": "You can't outrun this dog",
+      "link": "https://www.reddit.com/r/singularity/comments/1v5mn72/you_cant_outrun_this_dog/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/singularity · community knowledge",
+      "content_type": "post",
+      "author": "u/HomeNowWTF · r/singularity",
+      "handle": "singularity",
+      "org": "r/singularity",
+      "platform": "reddit",
+      "published": "2026-07-24T20:14:33.000Z",
+      "image": "https://external-preview.redd.it/bXpoOTR3dW5qOGZoMcdflpYokuoIBuWwxW_hF9CdG_T6a_vYwgBrXqFLW1GQ.png?width=640&crop=smart&auto=webp&s=152bd01a9cb2d61accc99dd2db981ab460e44ce0",
+      "thumbnail": "https://external-preview.redd.it/bXpoOTR3dW5qOGZoMcdflpYokuoIBuWwxW_hF9CdG_T6a_vYwgBrXqFLW1GQ.png?width=640&crop=smart&auto=webp&s=152bd01a9cb2d61accc99dd2db981ab460e44ce0",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/singularity"
+      ],
+      "summary": "You can't outrun this dog",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/singularity this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1365,86 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/science this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v3rih4",
-      "title": "Alphabet capex 100% up yoy to 44B",
-      "link": "https://www.reddit.com/r/investing/comments/1v3rih4/alphabet_capex_100_up_yoy_to_44b/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/investing · community knowledge",
-      "content_type": "post",
-      "author": "u/superloser48 · r/investing",
-      "handle": "investing",
-      "org": "r/investing",
-      "platform": "reddit",
-      "published": "2026-07-22T20:08:08.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/investing"
-      ],
-      "summary": "revenue is up 24% yoy. Numbers probably good for semi space, not sure about google https://s206.q4cdn.com/479360582/files/doc_financials/2026/q2/2026q2-alphabet-earnings-release.pdf Deck - https://s206.q4cdn.com/479360582/files/doc_financials/2026/q2/2026q2-alphabet-earnings-slides.pdf &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/investing this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v3o5tm",
-      "title": "Dr. Rhonda Patrick here. My new episode with immunologist Dr. Derya Unutmaz explores why the next 10 years of may be the most consequential longevity window in human history. His prediction: longevity escape velocity within 8–10 years, followed by the possibility of complete age reversal within 15.",
-      "link": "https://www.reddit.com/r/longevity/comments/1v3o5tm/dr_rhonda_patrick_here_my_new_episode_with/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/longevity · community knowledge",
-      "content_type": "post",
-      "author": "u/rperciav · r/longevity",
-      "handle": "longevity",
-      "org": "r/longevity",
-      "platform": "reddit",
-      "published": "2026-07-22T18:11:14.000Z",
-      "image": "https://external-preview.redd.it/2a_X3DqYhbvVBdiVeUsY3DEe_kZhyfNDJ3e7yJ52lyk.jpeg?width=320&crop=smart&auto=webp&s=81eae6e8865d01aea04059a9794ec8fc60f03b57",
-      "thumbnail": "https://external-preview.redd.it/2a_X3DqYhbvVBdiVeUsY3DEe_kZhyfNDJ3e7yJ52lyk.jpeg?width=320&crop=smart&auto=webp&s=81eae6e8865d01aea04059a9794ec8fc60f03b57",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Longevity",
-      "categories": [
-        "Reddit",
-        "Science",
-        "Longevity",
-        "r/longevity"
-      ],
-      "summary": "Dr. Rhonda Patrick here. My new episode with immunologist Dr. Derya Unutmaz explores why the next 10 years of may be the most consequential longevity window in human history. His prediction: longevity escape velocity within 8–10 years, followed by the possibility of complete age reversal within 15.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/longevity this week"
       ],
       "metrics": {
         "likes": 0,
