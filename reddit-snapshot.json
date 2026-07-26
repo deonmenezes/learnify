@@ -1,37 +1,36 @@
 {
-  "generated_at": "2026-07-25T23:40:08.597Z",
+  "generated_at": "2026-07-26T03:22:01.208Z",
   "subs": [
     "MachineLearning",
-    "LocalLLaMA",
-    "running",
-    "startups",
+    "artificial",
+    "nutrition",
+    "investing",
     "robotics",
     "gadgets",
+    "startups",
     "cybersecurity",
-    "investing",
+    "LocalLLaMA",
     "hardware",
-    "nutrition",
     "netsec",
+    "running",
     "SkincareAddiction",
     "bodyweightfitness",
-    "artificial",
     "programming",
     "longevity",
     "science",
-    "Futurology",
-    "Fitness"
+    "Futurology"
   ],
   "count": 36,
   "by_category": {
     "Robotics": 2,
+    "Fitness": 4,
+    "AI / ML": 10,
     "Hardware & Gadgets": 6,
     "Startups & Funding": 4,
     "Security": 3,
-    "AI / ML": 9,
-    "Fitness": 4,
     "Skincare": 2,
     "Coding & Dev Tools": 1,
-    "Science": 5
+    "Science": 4
   },
   "articles": [
     {
@@ -66,6 +65,86 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/robotics this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v6etx5",
+      "title": "When you see \"high protein\" on a food package, such as cookies or bars, etc , what is the first thing that comes to your mind, and why?",
+      "link": "https://www.reddit.com/r/nutrition/comments/1v6etx5/when_you_see_high_protein_on_a_food_package_such/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/nutrition · community knowledge",
+      "content_type": "post",
+      "author": "u/InfluenceTechnical91 · r/nutrition",
+      "handle": "nutrition",
+      "org": "r/nutrition",
+      "platform": "reddit",
+      "published": "2026-07-25T17:45:35.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Nutrition",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "Nutrition",
+        "r/nutrition"
+      ],
+      "summary": "I&#39;m interested in understanding how people interpret nutrition claims on food products &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/nutrition this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v6d644",
+      "title": "Americans Are Pushing Back Against Flock AI Cameras Regardless of Their Politics",
+      "link": "https://www.reddit.com/r/artificial/comments/1v6d644/americans_are_pushing_back_against_flock_ai/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/artificial · community knowledge",
+      "content_type": "post",
+      "author": "u/Sgt_Gram · r/artificial",
+      "handle": "artificial",
+      "org": "r/artificial",
+      "platform": "reddit",
+      "published": "2026-07-25T16:41:41.000Z",
+      "image": "https://external-preview.redd.it/7lh2YNl75QE1CuoO93b4HEnU1zHNGYNC82LUPFR_QeM.jpeg?width=640&crop=smart&auto=webp&s=93612801dca5cc4bfbd1b322e422acfe5d601ac2",
+      "thumbnail": "https://external-preview.redd.it/7lh2YNl75QE1CuoO93b4HEnU1zHNGYNC82LUPFR_QeM.jpeg?width=640&crop=smart&auto=webp&s=93612801dca5cc4bfbd1b322e422acfe5d601ac2",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/artificial"
+      ],
+      "summary": "Americans Are Pushing Back Against Flock AI Cameras Regardless of Their Politics",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/artificial this week"
       ],
       "metrics": {
         "likes": 0,
@@ -184,6 +263,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/cybersecurity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v5on2l",
+      "title": "White House offers its science blueprint: More AI, less life sciences. ‘Science: A New Golden Age’ report calls for shifting billions from universities to tech companies",
+      "link": "https://www.reddit.com/r/artificial/comments/1v5on2l/white_house_offers_its_science_blueprint_more_ai/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/artificial · community knowledge",
+      "content_type": "post",
+      "author": "u/esporx · r/artificial",
+      "handle": "artificial",
+      "org": "r/artificial",
+      "platform": "reddit",
+      "published": "2026-07-24T21:27:44.000Z",
+      "image": "https://external-preview.redd.it/uqouEwLsLl7icU1GPArNeY6cJd7nEb5gJES4up-xVIY.jpeg?width=640&crop=smart&auto=webp&s=c6a8e31971a8b03bb6bed61c957cad96c618c668",
+      "thumbnail": "https://external-preview.redd.it/uqouEwLsLl7icU1GPArNeY6cJd7nEb5gJES4up-xVIY.jpeg?width=640&crop=smart&auto=webp&s=c6a8e31971a8b03bb6bed61c957cad96c618c668",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/artificial"
+      ],
+      "summary": "White House offers its science blueprint: More AI, less life sciences. ‘Science: A New Golden Age’ report calls for shifting billions from universities to tech companies",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/artificial this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1329,125 +1448,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Futurology this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v3alex",
-      "title": "Rant Wednesday - July 22, 2026",
-      "link": "https://www.reddit.com/r/Fitness/comments/1v3alex/rant_wednesday_july_22_2026/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/Fitness · community knowledge",
-      "content_type": "post",
-      "author": "u/AutoModerator · r/Fitness",
-      "handle": "Fitness",
-      "org": "r/Fitness",
-      "platform": "reddit",
-      "published": "2026-07-22T09:00:23.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/Fitness"
-      ],
-      "summary": "Welcome to Rant Wednesday: It’s your time to let your gym/fitness/nutrition related frustrations out! There is no guiding question to help stir up some rage-feels, feel free to fire at will, ranting about anything and everything that’s been pissing you off or getting on your nerves. Just don&#39;t forget that other…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/Fitness this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v3a2le",
-      "title": "NeurIPS 2026 Reviews Are Out Today (22 July, AoE) — Discussion Thread [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1v3a2le/neurips_2026_reviews_are_out_today_22_july_aoe/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/MachineLearning · community knowledge",
-      "content_type": "post",
-      "author": "u/Afraid_Difference697 · r/MachineLearning",
-      "handle": "MachineLearning",
-      "org": "r/MachineLearning",
-      "platform": "reddit",
-      "published": "2026-07-22T08:30:19.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/MachineLearning"
-      ],
-      "summary": "Reviews drop today. This thread is for reactions, celebrations, commiserations, and anything useful in between. First: if you got good reviews, say so. There&#39;s a norm in these threads where only the bad news gets aired, and it skews everyone&#39;s sense of what&#39;s normal. Post your wins. Second , the thing…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/MachineLearning this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v3a01e",
-      "title": "Science thought the human lifespan was 122 years. A new model says we could live decades longer.",
-      "link": "https://www.reddit.com/r/longevity/comments/1v3a01e/science_thought_the_human_lifespan_was_122_years/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/longevity · community knowledge",
-      "content_type": "post",
-      "author": "u/ElvisIsNotDjed · r/longevity",
-      "handle": "longevity",
-      "org": "r/longevity",
-      "platform": "reddit",
-      "published": "2026-07-22T08:26:21.000Z",
-      "image": "https://external-preview.redd.it/4RuKkuJ9bEFRq33il0cGuT6kjH81_sOO5hC7UzeztxY.jpeg?width=640&crop=smart&auto=webp&s=a1dab584b61b3f7452aaa4664c01cde3ef795b32",
-      "thumbnail": "https://external-preview.redd.it/4RuKkuJ9bEFRq33il0cGuT6kjH81_sOO5hC7UzeztxY.jpeg?width=640&crop=smart&auto=webp&s=a1dab584b61b3f7452aaa4664c01cde3ef795b32",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Longevity",
-      "categories": [
-        "Reddit",
-        "Science",
-        "Longevity",
-        "r/longevity"
-      ],
-      "summary": "Science thought the human lifespan was 122 years. A new model says we could live decades longer.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/longevity this week"
       ],
       "metrics": {
         "likes": 0,
