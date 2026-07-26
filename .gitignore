@@ -4,6 +4,9 @@ node_modules/
 *.log
 .omc/
 
+# Local feed-debug snapshots; production and tests import lib/feeds.js.
+lib/__feeds-test__.mjs
+
 # secrets — never commit
 .env
 .env.*
