@@ -1,14 +1,140 @@
 {
-  "generated_at": "2026-07-27T21:42:48.780Z",
+  "generated_at": "2026-07-27T23:07:10.761Z",
   "handles": [
-    "nvidia",
-    "gdb",
+    "AnthropicAI",
     "OpenAI",
+    "nvidia",
     "GoogleDeepMind",
+    "gdb",
     "elonmusk"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2081864750296658008",
+      "title": "There’s been a lot of speculation about where we stand on open-weights models. We’ve outlined our views in full here: https://www.anthropic.com/news/position-open-weights-models",
+      "link": "https://x.com/AnthropicAI/status/2081864750296658008",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Anthropic · @AnthropicAI",
+      "handle": "AnthropicAI",
+      "org": "Anthropic",
+      "published": "2026-07-27T22:10:10.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "Anthropic",
+        "Product"
+      ],
+      "summary": "There’s been a lot of speculation about where we stand on open-weights models. We’ve outlined our views in full here: https://www.anthropic.com/news/position-open-weights-models",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 89,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "tech substance (models, weights)",
+        "links to a source",
+        "high engagement (1.8K likes)"
+      ],
+      "metrics": {
+        "likes": 1810,
+        "retweets": 257,
+        "replies": 528,
+        "likes_h": "1.8K"
+      },
+      "engagement": 2852,
+      "hot": false
+    },
+    {
+      "id": "x_2081833350323720219",
+      "title": "At a small business, the person closest to a problem is often the one who has to solve it—even when it falls outside their job description. We studied how AI is becoming powerful generalist tool for…",
+      "link": "https://x.com/OpenAI/status/2081833350323720219",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-07-27T20:05:23.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Commentary"
+      ],
+      "summary": "At a small business, the person closest to a problem is often the one who has to solve it—even when it falls outside their job description. We studied how AI is becoming powerful generalist tool for small teams, helping them work across functions.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 60,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "high engagement (1.2K likes)"
+      ],
+      "metrics": {
+        "likes": 1249,
+        "retweets": 98,
+        "replies": 106,
+        "likes_h": "1.2K"
+      },
+      "engagement": 1551,
+      "hot": false
+    },
+    {
+      "id": "x_2081794871795589485",
+      "title": "GPT-Live in ChatGPT Voice is now available to Edu, Business, and Enterprise plans globally.",
+      "link": "https://x.com/OpenAI/status/2081794871795589485",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-07-27T17:32:29.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product launch",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Product launch"
+      ],
+      "summary": "GPT-Live in ChatGPT Voice is now available to Edu, Business, and Enterprise plans globally.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 100,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "announcement language (now available)",
+        "tech substance (gpt)",
+        "business signal (enterprise)",
+        "high engagement (1.4K likes)"
+      ],
+      "metrics": {
+        "likes": 1428,
+        "retweets": 97,
+        "replies": 132,
+        "likes_h": "1.4K"
+      },
+      "engagement": 1754,
+      "hot": false
+    },
     {
       "id": "x_2081730105454322151",
       "title": "Korea’s AI moment came to San Francisco last week 🇰🇷 President Lee Jae Myung joined @JensenHuang and some of the biggest names in technology, industry and research to accelerate Korea’s full-stack…",
@@ -33,7 +159,7 @@
       "summary": "Korea’s AI moment came to San Francisco last week 🇰🇷 President Lee Jae Myung joined @JensenHuang and some of the biggest names in technology, industry and research to accelerate Korea’s full-stack AI ambitions.",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 75,
+      "worthiness_score": 76,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -41,12 +167,12 @@
         "tech substance (research)"
       ],
       "metrics": {
-        "likes": 372,
-        "retweets": 52,
-        "replies": 51,
-        "likes_h": "372"
+        "likes": 483,
+        "retweets": 68,
+        "replies": 62,
+        "likes_h": "483"
       },
-      "engagement": 527,
+      "engagement": 681,
       "hot": false
     },
     {
@@ -80,15 +206,15 @@
         "report-worthy",
         "announcement language (introducing)",
         "tech substance (models, agents, research)",
-        "high engagement (5K likes)"
+        "high engagement (6.3K likes)"
       ],
       "metrics": {
-        "likes": 4965,
-        "retweets": 649,
-        "replies": 332,
-        "likes_h": "5K"
+        "likes": 6287,
+        "retweets": 850,
+        "replies": 423,
+        "likes_h": "6.3K"
       },
-      "engagement": 6595,
+      "engagement": 8410,
       "hot": true
     },
     {
@@ -125,12 +251,12 @@
         "high engagement (1.2K likes)"
       ],
       "metrics": {
-        "likes": 1171,
-        "retweets": 142,
-        "replies": 71,
+        "likes": 1198,
+        "retweets": 148,
+        "replies": 73,
         "likes_h": "1.2K"
       },
-      "engagement": 1526,
+      "engagement": 1567,
       "hot": false
     },
     {
@@ -164,12 +290,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 594,
+        "likes": 600,
         "retweets": 77,
-        "replies": 39,
-        "likes_h": "594"
+        "replies": 40,
+        "likes_h": "600"
       },
-      "engagement": 787,
+      "engagement": 794,
       "hot": false
     },
     {
@@ -207,13 +333,13 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 3405,
-        "retweets": 457,
-        "replies": 134,
+        "likes": 3412,
+        "retweets": 458,
+        "replies": 135,
         "likes_h": "3.4K"
       },
-      "engagement": 4453,
-      "hot": true
+      "engagement": 4463,
+      "hot": false
     },
     {
       "id": "x_2080833379197477226",
@@ -250,12 +376,12 @@
         "high engagement (1.8K likes)"
       ],
       "metrics": {
-        "likes": 1790,
-        "retweets": 326,
-        "replies": 88,
+        "likes": 1793,
+        "retweets": 327,
+        "replies": 89,
         "likes_h": "1.8K"
       },
-      "engagement": 2530,
+      "engagement": 2536,
       "hot": false
     },
     {
@@ -453,12 +579,12 @@
         "announcement language (coming soon)"
       ],
       "metrics": {
-        "likes": 813,
-        "retweets": 33,
-        "replies": 66,
-        "likes_h": "813"
+        "likes": 823,
+        "retweets": 34,
+        "replies": 71,
+        "likes_h": "823"
       },
-      "engagement": 945,
+      "engagement": 962,
       "hot": false
     },
     {
@@ -492,15 +618,15 @@
         "report-worthy",
         "announcement language (rolling out)",
         "tech substance (gpt, agents)",
-        "high engagement (12.7K likes)"
+        "high engagement (12.8K likes)"
       ],
       "metrics": {
-        "likes": 12664,
-        "retweets": 1346,
-        "replies": 1145,
-        "likes_h": "12.7K"
+        "likes": 12788,
+        "retweets": 1358,
+        "replies": 1193,
+        "likes_h": "12.8K"
       },
-      "engagement": 16501,
+      "engagement": 16697,
       "hot": true
     },
     {
@@ -581,12 +707,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 499,
+        "likes": 506,
         "retweets": 27,
-        "replies": 19,
-        "likes_h": "499"
+        "replies": 22,
+        "likes_h": "506"
       },
-      "engagement": 572,
+      "engagement": 582,
       "hot": false
     },
     {
@@ -619,15 +745,15 @@
       "reasons": [
         "report-worthy",
         "links to a source",
-        "high engagement (4.5K likes)"
+        "high engagement (4.6K likes)"
       ],
       "metrics": {
-        "likes": 4541,
-        "retweets": 386,
-        "replies": 434,
-        "likes_h": "4.5K"
+        "likes": 4573,
+        "retweets": 391,
+        "replies": 500,
+        "likes_h": "4.6K"
       },
-      "engagement": 5747,
+      "engagement": 5855,
       "hot": true
     },
     {
@@ -703,12 +829,12 @@
         "high engagement (1.1K likes)"
       ],
       "metrics": {
-        "likes": 1071,
-        "retweets": 103,
-        "replies": 91,
+        "likes": 1073,
+        "retweets": 104,
+        "replies": 95,
         "likes_h": "1.1K"
       },
-      "engagement": 1368,
+      "engagement": 1376,
       "hot": false
     },
     {
@@ -1074,12 +1200,12 @@
         "tech substance (model, gemini)"
       ],
       "metrics": {
-        "likes": 557,
+        "likes": 560,
         "retweets": 51,
-        "replies": 50,
-        "likes_h": "557"
+        "replies": 51,
+        "likes_h": "560"
       },
-      "engagement": 709,
+      "engagement": 713,
       "hot": false
     },
     {
@@ -1205,130 +1331,6 @@
       },
       "engagement": 1353,
       "hot": false
-    },
-    {
-      "id": "x_2079615468294320365",
-      "title": "It’s much better at writing production-ready code faster without getting stuck in loops. Plus, it excels at multimodal tasks like analyzing charts, understanding documents, and report drafting. 3.6…",
-      "link": "https://x.com/GoogleDeepMind/status/2079615468294320365",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Google DeepMind · @GoogleDeepMind",
-      "handle": "GoogleDeepMind",
-      "org": "Google",
-      "published": "2026-07-21T17:12:19.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product launch",
-      "categories": [
-        "X",
-        "Google",
-        "Product launch"
-      ],
-      "summary": "It’s much better at writing production-ready code faster without getting stuck in loops. Plus, it excels at multimodal tasks like analyzing charts, understanding documents, and report drafting. 3.6 Flash is rolling out in the @GeminiApp and developers can start building in",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 65,
-      "sentiment": "positive",
-      "sentiment_score": 1,
-      "reasons": [
-        "report-worthy",
-        "reply / conversation",
-        "announcement language (rolling out)",
-        "tech substance (multimodal)"
-      ],
-      "metrics": {
-        "likes": 90,
-        "retweets": 7,
-        "replies": 8,
-        "likes_h": "90"
-      },
-      "engagement": 112,
-      "hot": false
-    },
-    {
-      "id": "x_2079615466356580535",
-      "title": "Gemini 3.6 Flash builds directly on feedback from 3.5 Flash. Watch how it compares on quality and token usage ↓",
-      "link": "https://x.com/GoogleDeepMind/status/2079615466356580535",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Google DeepMind · @GoogleDeepMind",
-      "handle": "GoogleDeepMind",
-      "org": "Google",
-      "published": "2026-07-21T17:12:19.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "Google",
-        "Product"
-      ],
-      "summary": "Gemini 3.6 Flash builds directly on feedback from 3.5 Flash. Watch how it compares on quality and token usage ↓",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 77,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (gemini)"
-      ],
-      "metrics": {
-        "likes": 712,
-        "retweets": 57,
-        "replies": 48,
-        "likes_h": "712"
-      },
-      "engagement": 874,
-      "hot": false
-    },
-    {
-      "id": "x_2079601314234032474",
-      "title": "10x more tokens per megawatt. CoreWeave has the first measured performance of NVIDIA Vera Rubin NVL72, showing 10x improvement in tokens per second per megawatt on DeepSeek-R1 compared to Blackwell.",
-      "link": "https://x.com/nvidia/status/2079601314234032474",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-07-21T16:16:05.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product"
-      ],
-      "summary": "10x more tokens per megawatt. CoreWeave has the first measured performance of NVIDIA Vera Rubin NVL72, showing 10x improvement in tokens per second per megawatt on DeepSeek-R1 compared to Blackwell.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 86,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "tech substance (tokens, blackwell)",
-        "high engagement (4.3K likes)",
-        "concrete metrics"
-      ],
-      "metrics": {
-        "likes": 4270,
-        "retweets": 372,
-        "replies": 103,
-        "likes_h": "4.3K"
-      },
-      "engagement": 5117,
-      "hot": true
     }
   ]
 }
