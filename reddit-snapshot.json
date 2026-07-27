@@ -1,21 +1,20 @@
 {
-  "generated_at": "2026-07-27T18:47:19.598Z",
+  "generated_at": "2026-07-27T20:29:10.715Z",
   "subs": [
     "MachineLearning",
-    "Fitness",
-    "robotics",
+    "LocalLLaMA",
+    "bodyweightfitness",
+    "startups",
     "nutrition",
     "longevity",
     "hardware",
+    "robotics",
     "science",
     "artificial",
     "gadgets",
     "programming",
-    "bodyweightfitness",
     "singularity",
-    "startups",
     "cybersecurity",
-    "LocalLLaMA",
     "investing",
     "netsec",
     "running",
@@ -23,13 +22,13 @@
   ],
   "count": 36,
   "by_category": {
-    "Fitness": 6,
+    "Fitness": 7,
     "Science": 4,
-    "Hardware & Gadgets": 5,
+    "Hardware & Gadgets": 4,
     "Robotics": 3,
-    "AI / ML": 10,
+    "Startups & Funding": 3,
+    "AI / ML": 9,
     "Coding & Dev Tools": 2,
-    "Startups & Funding": 2,
     "Security": 2,
     "Skincare": 2
   },
@@ -185,6 +184,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/robotics this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v6qf5i",
+      "title": "Is YC losing prestige with all of the AI Wrappers it invests in? I will not promote",
+      "link": "https://www.reddit.com/r/startups/comments/1v6qf5i/is_yc_losing_prestige_with_all_of_the_ai_wrappers/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/startups · community knowledge",
+      "content_type": "post",
+      "author": "u/Comrendu · r/startups",
+      "handle": "startups",
+      "org": "r/startups",
+      "platform": "reddit",
+      "published": "2026-07-26T01:53:11.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/startups"
+      ],
+      "summary": "It seems that’s all it invests in, and they give mostly credits now which does not seem to be as effective in growing startups. It seems a lot of the ventures are extremely low effort and they promote that with some of their events. I’ve seen in some other places a similar idea of YC &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/startups this week"
       ],
       "metrics": {
         "likes": 0,
@@ -382,6 +421,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/gadgets this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v6avha",
+      "title": "Maybe weights are just the easy mode for getting strong?",
+      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1v6avha/maybe_weights_are_just_the_easy_mode_for_getting/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/bodyweightfitness · community knowledge",
+      "content_type": "post",
+      "author": "u/Effective_Degree3102 · r/bodyweightfitness",
+      "handle": "bodyweightfitness",
+      "org": "r/bodyweightfitness",
+      "platform": "reddit",
+      "published": "2026-07-25T15:09:40.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/bodyweightfitness"
+      ],
+      "summary": "I have been doing bodyweight training for some time and recently started thinking about this stupid argument of bodyweight vs weights. Every time people talk about training, somebody says bodyweight is not enough, then somebody else says weights are useless and “real strength” is only pullups and planche. Honestly…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/bodyweightfitness this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1369,85 +1447,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/longevity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v4b5lf",
-      "title": "Microsoft is cracking down on Windows 11 bloatware ads, forces LG to pull McAfee popup",
-      "link": "https://www.reddit.com/r/hardware/comments/1v4b5lf/microsoft_is_cracking_down_on_windows_11/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/hardware · community knowledge",
-      "content_type": "post",
-      "author": "u/Quantum-Coconut · r/hardware",
-      "handle": "hardware",
-      "org": "r/hardware",
-      "platform": "reddit",
-      "published": "2026-07-23T11:27:10.000Z",
-      "image": "https://external-preview.redd.it/ghVkwcSDUrl1merh7N5RuGNpLCiLmadYfTuC1gkY4Ts.jpeg?width=640&crop=smart&auto=webp&s=d6039198925a9890e250a6389c2b1dbad88245d4",
-      "thumbnail": "https://external-preview.redd.it/ghVkwcSDUrl1merh7N5RuGNpLCiLmadYfTuC1gkY4Ts.jpeg?width=640&crop=smart&auto=webp&s=d6039198925a9890e250a6389c2b1dbad88245d4",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/hardware"
-      ],
-      "summary": "Microsoft is cracking down on Windows 11 bloatware ads, forces LG to pull McAfee popup",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/hardware this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v4avga",
-      "title": "CEO of Hugging face: Heading to San Francisco to have a little chat with that “rogue agent”",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1v4avga/ceo_of_hugging_face_heading_to_san_francisco_to/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/LocalLLaMA · community knowledge",
-      "content_type": "post",
-      "author": "u/Nunki08 · r/LocalLLaMA",
-      "handle": "LocalLLaMA",
-      "org": "r/LocalLLaMA",
-      "platform": "reddit",
-      "published": "2026-07-23T11:13:47.000Z",
-      "image": "https://preview.redd.it/5i5d5z12qyeh1.jpeg?width=640&crop=smart&auto=webp&s=945e73b1f7c9c34bb2ea7a04fd1cf5f6a2691de9",
-      "thumbnail": "https://preview.redd.it/5i5d5z12qyeh1.jpeg?width=640&crop=smart&auto=webp&s=945e73b1f7c9c34bb2ea7a04fd1cf5f6a2691de9",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/LocalLLaMA"
-      ],
-      "summary": "From clem 🤗 on 𝕏: https://x.com/ClementDelangue/status/2080247567493837047 &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/LocalLLaMA this week"
       ],
       "metrics": {
         "likes": 0,
