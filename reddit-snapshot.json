@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-07-27T04:27:22.792Z",
+  "generated_at": "2026-07-27T08:06:49.761Z",
   "subs": [
     "MachineLearning",
+    "programming",
+    "SkincareAddiction",
     "longevity",
     "hardware",
     "science",
@@ -16,21 +18,19 @@
     "LocalLLaMA",
     "investing",
     "netsec",
-    "running",
-    "SkincareAddiction",
-    "programming"
+    "running"
   ],
   "count": 36,
   "by_category": {
     "Science": 4,
-    "Hardware & Gadgets": 7,
+    "Hardware & Gadgets": 6,
     "Robotics": 2,
     "Fitness": 5,
     "AI / ML": 10,
+    "Coding & Dev Tools": 2,
     "Startups & Funding": 3,
     "Security": 2,
-    "Skincare": 2,
-    "Coding & Dev Tools": 1
+    "Skincare": 2
   },
   "articles": [
     {
@@ -302,6 +302,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/gadgets this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v68yb8",
+      "title": "Writing a (valid) C program without main()",
+      "link": "https://www.reddit.com/r/programming/comments/1v68yb8/writing_a_valid_c_program_without_main/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/programming · community knowledge",
+      "content_type": "post",
+      "author": "u/iximiuz · r/programming",
+      "handle": "programming",
+      "org": "r/programming",
+      "platform": "reddit",
+      "published": "2026-07-25T13:50:28.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Coding & Dev Tools",
+      "category": "Coding & Dev Tools",
+      "genre": "Coding & Dev Tools",
+      "categories": [
+        "Reddit",
+        "Coding & Dev Tools",
+        "r/programming"
+      ],
+      "summary": "Writing a (valid) C program without main()",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/programming this week"
       ],
       "metrics": {
         "likes": 0,
@@ -902,6 +941,45 @@
       }
     },
     {
+      "id": "reddit_1v4qpvq",
+      "title": "Is Reddit Using AI Bots to Generate Engagement on Skincare Subs? [Misc]",
+      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1v4qpvq/is_reddit_using_ai_bots_to_generate_engagement_on/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/SkincareAddiction · community knowledge",
+      "content_type": "post",
+      "author": "u/PatsyStonesBun · r/SkincareAddiction",
+      "handle": "SkincareAddiction",
+      "org": "r/SkincareAddiction",
+      "platform": "reddit",
+      "published": "2026-07-23T21:05:11.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Skincare",
+      "category": "Skincare",
+      "genre": "Skincare",
+      "categories": [
+        "Reddit",
+        "Skincare",
+        "r/SkincareAddiction"
+      ],
+      "summary": "I can&#39;t be the only one who has noticed the recent and exponential growth of these annoying, &quot;empty calories&quot; posts all over Skincare and Beauty subs all over Reddit. You know the type of post. It seems like an innocuous thread started by someone new to skincare/beauty. A subject like &quot;Tell me about…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/SkincareAddiction this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1v4owug",
       "title": "[B&A] Just over a year on Arazlo (Tazarotene 0.045%) and Winlevi (Clascoterone 1%)",
       "link": "https://www.reddit.com/r/SkincareAddiction/comments/1v4owug/ba_just_over_a_year_on_arazlo_tazarotene_0045_and/",
@@ -1369,84 +1447,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/startups this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v441rr",
-      "title": "Sony launches FX5 full-frame 5K cinema camera with 15+ stop latitude",
-      "link": "https://www.reddit.com/r/gadgets/comments/1v441rr/sony_launches_fx5_fullframe_5k_cinema_camera_with/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/gadgets · community knowledge",
-      "content_type": "post",
-      "author": "u/dapperlemon · r/gadgets",
-      "handle": "gadgets",
-      "org": "r/gadgets",
-      "platform": "reddit",
-      "published": "2026-07-23T05:00:25.000Z",
-      "image": "https://external-preview.redd.it/Fcx5BD8Vl88yJj8zqckBFA-ZA-f484mWonrIIlZCznI.jpeg?width=640&crop=smart&auto=webp&s=3bb6a09be4f173c927ed26a15da8103ca588dc25",
-      "thumbnail": "https://external-preview.redd.it/Fcx5BD8Vl88yJj8zqckBFA-ZA-f484mWonrIIlZCznI.jpeg?width=640&crop=smart&auto=webp&s=3bb6a09be4f173c927ed26a15da8103ca588dc25",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/gadgets"
-      ],
-      "summary": "Sony launches FX5 full-frame 5K cinema camera with 15+ stop latitude",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/gadgets this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v3zflq",
-      "title": "Im convinced that pdrn is being pushed so hard because its a cheap animal agriculture waste product... [Misc]",
-      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1v3zflq/im_convinced_that_pdrn_is_being_pushed_so_hard/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/SkincareAddiction · community knowledge",
-      "content_type": "post",
-      "author": "u/Superb-Demand-4605 · r/SkincareAddiction",
-      "handle": "SkincareAddiction",
-      "org": "r/SkincareAddiction",
-      "platform": "reddit",
-      "published": "2026-07-23T01:22:43.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Skincare",
-      "category": "Skincare",
-      "genre": "Skincare",
-      "categories": [
-        "Reddit",
-        "Skincare",
-        "r/SkincareAddiction"
-      ],
-      "summary": "Like why are all the skincare creators just promoting salmon sperm, a basic hydrating product, when we have better products for that. Its nothing special but its being pushed like a miracle ingredient lol. Manufactured hype for sure and just dont fall for it!! Animal ag love it when they can make more profits, Just…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/SkincareAddiction this week"
       ],
       "metrics": {
         "likes": 0,
