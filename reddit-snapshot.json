@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-07-27T00:06:57.128Z",
+  "generated_at": "2026-07-27T04:27:22.792Z",
   "subs": [
     "MachineLearning",
-    "singularity",
-    "nutrition",
     "longevity",
+    "hardware",
     "science",
     "robotics",
+    "nutrition",
     "artificial",
     "gadgets",
     "bodyweightfitness",
+    "singularity",
     "startups",
     "cybersecurity",
     "LocalLLaMA",
     "investing",
-    "hardware",
     "netsec",
     "running",
     "SkincareAddiction",
@@ -23,12 +23,12 @@
   "count": 36,
   "by_category": {
     "Science": 4,
+    "Hardware & Gadgets": 7,
     "Robotics": 2,
     "Fitness": 5,
     "AI / ML": 10,
-    "Hardware & Gadgets": 6,
     "Startups & Funding": 3,
-    "Security": 3,
+    "Security": 2,
     "Skincare": 2,
     "Coding & Dev Tools": 1
   },
@@ -66,6 +66,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/longevity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v76es8",
+      "title": "Huawei is building its own DRAM fab, and it could reshape RAM prices for everyone",
+      "link": "https://www.reddit.com/r/hardware/comments/1v76es8/huawei_is_building_its_own_dram_fab_and_it_could/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/hardware · community knowledge",
+      "content_type": "post",
+      "author": "u/sicklyslick · r/hardware",
+      "handle": "hardware",
+      "org": "r/hardware",
+      "platform": "reddit",
+      "published": "2026-07-26T15:06:32.000Z",
+      "image": "https://external-preview.redd.it/h4_STk-wdCcMxntfkljsow3FHmcFlhk1_99DrcxBIqI.png?width=640&crop=smart&auto=webp&s=529b4c06f1693e3f63cc5798d4af1973d9e04380",
+      "thumbnail": "https://external-preview.redd.it/h4_STk-wdCcMxntfkljsow3FHmcFlhk1_99DrcxBIqI.png?width=640&crop=smart&auto=webp&s=529b4c06f1693e3f63cc5798d4af1973d9e04380",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/hardware"
+      ],
+      "summary": "Huawei is building its own DRAM fab, and it could reshape RAM prices for everyone",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/hardware this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1408,45 +1447,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/SkincareAddiction this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v3v5za",
-      "title": "GitHub issues $100,000 bounty for critical RCE vulnerability",
-      "link": "https://www.reddit.com/r/netsec/comments/1v3v5za/github_issues_100000_bounty_for_critical_rce/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/netsec · community knowledge",
-      "content_type": "post",
-      "author": "u/ryanmerket · r/netsec",
-      "handle": "netsec",
-      "org": "r/netsec",
-      "platform": "reddit",
-      "published": "2026-07-22T22:21:24.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/netsec"
-      ],
-      "summary": "GitHub issues $100,000 bounty for critical RCE vulnerability",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/netsec this week"
       ],
       "metrics": {
         "likes": 0,
