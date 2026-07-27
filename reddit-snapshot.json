@@ -1,19 +1,20 @@
 {
-  "generated_at": "2026-07-27T11:56:47.112Z",
+  "generated_at": "2026-07-27T14:46:18.115Z",
   "subs": [
     "MachineLearning",
-    "programming",
-    "cybersecurity",
+    "Fitness",
+    "robotics",
     "longevity",
     "hardware",
     "science",
-    "robotics",
     "nutrition",
     "artificial",
     "gadgets",
+    "programming",
     "bodyweightfitness",
     "singularity",
     "startups",
+    "cybersecurity",
     "LocalLLaMA",
     "investing",
     "netsec",
@@ -24,11 +25,11 @@
   "by_category": {
     "Science": 4,
     "Hardware & Gadgets": 6,
-    "Robotics": 2,
+    "Robotics": 3,
     "Fitness": 5,
     "AI / ML": 10,
     "Coding & Dev Tools": 2,
-    "Startups & Funding": 3,
+    "Startups & Funding": 2,
     "Security": 2,
     "Skincare": 2
   },
@@ -105,6 +106,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/hardware this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v6xull",
+      "title": "Probably on of the cutest humanoids, i wouldn’t mind this little dude doing my laundry",
+      "link": "https://www.reddit.com/r/robotics/comments/1v6xull/probably_on_of_the_cutest_humanoids_i_wouldnt/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/robotics · community knowledge",
+      "content_type": "post",
+      "author": "u/drgoldenpants · r/robotics",
+      "handle": "robotics",
+      "org": "r/robotics",
+      "platform": "reddit",
+      "published": "2026-07-26T08:21:38.000Z",
+      "image": "https://external-preview.redd.it/ZjVobGFyeThhamZoMTafBmlbTngvhloaKPeLTP3-SAoBtZEvOXuwAnM68Ut6.png?width=640&crop=smart&auto=webp&s=7830f44a9737234cfac0e9276374f155eb526e70",
+      "thumbnail": "https://external-preview.redd.it/ZjVobGFyeThhamZoMTafBmlbTngvhloaKPeLTP3-SAoBtZEvOXuwAnM68Ut6.png?width=640&crop=smart&auto=webp&s=7830f44a9737234cfac0e9276374f155eb526e70",
+      "section": "Robotics",
+      "category": "Robotics",
+      "genre": "Robotics",
+      "categories": [
+        "Reddit",
+        "Robotics",
+        "r/robotics"
+      ],
+      "summary": "Probably on of the cutest humanoids, i wouldn’t mind this little dude doing my laundry",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/robotics this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1407,46 +1447,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/hardware this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v494ao",
-      "title": "We launched 20 days ago. Today we crossed 30,000 users [i will not promote]",
-      "link": "https://www.reddit.com/r/startups/comments/1v494ao/we_launched_20_days_ago_today_we_crossed_30000/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/startups · community knowledge",
-      "content_type": "post",
-      "author": "u/akeeeeeel · r/startups",
-      "handle": "startups",
-      "org": "r/startups",
-      "platform": "reddit",
-      "published": "2026-07-23T09:42:29.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/startups"
-      ],
-      "summary": "About 20 days ago, we launched our Startup. We had no marketing budget, no paid ads and no big launch strategy. It was just a product we genuinely wanted to build. The first few days were slow. Then things started picking up. Yesterday around midnight, we crossed 20,000 users. Today, just a few hours later, we crossed…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/startups this week"
       ],
       "metrics": {
         "likes": 0,
