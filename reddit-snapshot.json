@@ -1,18 +1,17 @@
 {
-  "generated_at": "2026-07-27T14:46:18.115Z",
+  "generated_at": "2026-07-27T17:04:56.915Z",
   "subs": [
     "MachineLearning",
-    "Fitness",
-    "robotics",
+    "singularity",
+    "nutrition",
     "longevity",
     "hardware",
+    "robotics",
     "science",
-    "nutrition",
     "artificial",
     "gadgets",
     "programming",
     "bodyweightfitness",
-    "singularity",
     "startups",
     "cybersecurity",
     "LocalLLaMA",
@@ -23,10 +22,10 @@
   ],
   "count": 36,
   "by_category": {
+    "Fitness": 6,
     "Science": 4,
-    "Hardware & Gadgets": 6,
+    "Hardware & Gadgets": 5,
     "Robotics": 3,
-    "Fitness": 5,
     "AI / ML": 10,
     "Coding & Dev Tools": 2,
     "Startups & Funding": 2,
@@ -34,6 +33,46 @@
     "Skincare": 2
   },
   "articles": [
+    {
+      "id": "reddit_1v79t4n",
+      "title": "How many grams of protein per kg of body weight is enough for muscle maintenance as an active adult?",
+      "link": "https://www.reddit.com/r/nutrition/comments/1v79t4n/how_many_grams_of_protein_per_kg_of_body_weight/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/nutrition · community knowledge",
+      "content_type": "post",
+      "author": "u/VastAir6069 · r/nutrition",
+      "handle": "nutrition",
+      "org": "r/nutrition",
+      "platform": "reddit",
+      "published": "2026-07-26T17:11:47.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Nutrition",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "Nutrition",
+        "r/nutrition"
+      ],
+      "summary": "Seeing so many conflicting answers to this from AI so thought I would ask here:) &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/nutrition this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1v77rhz",
       "title": "One Hallmark of Aging Was Thought to Be Irreversible. An Engineered Enzyme Just Reversed It in Human Tissue.",
@@ -1408,45 +1447,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/LocalLLaMA this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v49rku",
-      "title": "Framework nearly doubles memory pricing for 32GB, 64GB Laptop 13 Pro overnight — CEO says absorbing LPCAMM2 supplier hikes would put 'our ability to operate at real financial risk' | Tom's Hardware",
-      "link": "https://www.reddit.com/r/hardware/comments/1v49rku/framework_nearly_doubles_memory_pricing_for_32gb/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/hardware · community knowledge",
-      "content_type": "post",
-      "author": "u/sr_local · r/hardware",
-      "handle": "hardware",
-      "org": "r/hardware",
-      "platform": "reddit",
-      "published": "2026-07-23T10:17:37.000Z",
-      "image": "https://external-preview.redd.it/mMATiTjDJjl30229xR_SGDjTzuxRxHQuiAS_mBONMGM.jpeg?width=640&crop=smart&auto=webp&s=74bdd91efd1ed29fefddbc2ddaaf78cebe551396",
-      "thumbnail": "https://external-preview.redd.it/mMATiTjDJjl30229xR_SGDjTzuxRxHQuiAS_mBONMGM.jpeg?width=640&crop=smart&auto=webp&s=74bdd91efd1ed29fefddbc2ddaaf78cebe551396",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/hardware"
-      ],
-      "summary": "Framework nearly doubles memory pricing for 32GB, 64GB Laptop 13 Pro overnight — CEO says absorbing LPCAMM2 supplier hikes would put 'our ability to operate at real financial risk' | Tom's Hardware",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/hardware this week"
       ],
       "metrics": {
         "likes": 0,

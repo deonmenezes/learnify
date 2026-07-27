@@ -1,14 +1,96 @@
 {
-  "generated_at": "2026-07-27T14:44:04.510Z",
+  "generated_at": "2026-07-27T17:02:43.093Z",
   "handles": [
     "nvidia",
+    "GoogleDeepMind",
     "gdb",
     "OpenAI",
-    "GoogleDeepMind",
     "elonmusk"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2081730105454322151",
+      "title": "Korea’s AI moment came to San Francisco last week 🇰🇷 President Lee Jae Myung joined @JensenHuang and some of the biggest names in technology, industry and research to accelerate Korea’s full-stack…",
+      "link": "https://x.com/nvidia/status/2081730105454322151",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-07-27T13:15:08.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Research"
+      ],
+      "summary": "Korea’s AI moment came to San Francisco last week 🇰🇷 President Lee Jae Myung joined @JensenHuang and some of the biggest names in technology, industry and research to accelerate Korea’s full-stack AI ambitions.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 75,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (research)"
+      ],
+      "metrics": {
+        "likes": 372,
+        "retweets": 52,
+        "replies": 51,
+        "likes_h": "372"
+      },
+      "engagement": 527,
+      "hot": false
+    },
+    {
+      "id": "x_2081666629264449730",
+      "title": "AI security advances when the industry builds in the open, together. We're introducing the Open Secure AI Alliance with industry leaders to develop new techniques and tools to safeguard software and…",
+      "link": "https://x.com/nvidia/status/2081666629264449730",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-07-27T09:02:54.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Research"
+      ],
+      "summary": "AI security advances when the industry builds in the open, together. We're introducing the Open Secure AI Alliance with industry leaders to develop new techniques and tools to safeguard software and agents. By sharing models, tooling and research in the open, we can broaden the",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 100,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "announcement language (introducing)",
+        "tech substance (models, agents, research)",
+        "high engagement (5K likes)"
+      ],
+      "metrics": {
+        "likes": 4965,
+        "retweets": 649,
+        "replies": 332,
+        "likes_h": "5K"
+      },
+      "engagement": 6595,
+      "hot": true
+    },
     {
       "id": "x_2081142850994229468",
       "title": "\"When I left this morning, I was just Jensen. Next time I come back, call me K-Jensen.” Korea isn't just an NVIDIA partner anymore. It's where the next wave of AI gets built and SNU is at the center…",
@@ -40,15 +122,15 @@
         "report-worthy",
         "casual tone (this)",
         "announcement language (introducing)",
-        "high engagement (1.1K likes)"
+        "high engagement (1.2K likes)"
       ],
       "metrics": {
-        "likes": 1123,
-        "retweets": 137,
-        "replies": 66,
-        "likes_h": "1.1K"
+        "likes": 1171,
+        "retweets": 142,
+        "replies": 71,
+        "likes_h": "1.2K"
       },
-      "engagement": 1463,
+      "engagement": 1526,
       "hot": false
     },
     {
@@ -75,19 +157,19 @@
       "summary": "To compete in the intelligence era, nations need AI factory infrastructure. Together, @official_naver, NVIDIA, and @Brookfield are expanding Korea’s national AI factory buildout to fuel Korea’s startups and industries at gigawatt-scale. NAVER is deploying the NVIDIA DSX",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 59,
+      "worthiness_score": 60,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
         "report-worthy"
       ],
       "metrics": {
-        "likes": 589,
+        "likes": 594,
         "retweets": 77,
         "replies": 39,
-        "likes_h": "589"
+        "likes_h": "594"
       },
-      "engagement": 782,
+      "engagement": 787,
       "hot": false
     },
     {
@@ -125,12 +207,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 3394,
-        "retweets": 455,
+        "likes": 3405,
+        "retweets": 457,
         "replies": 134,
         "likes_h": "3.4K"
       },
-      "engagement": 4438,
+      "engagement": 4453,
       "hot": true
     },
     {
@@ -168,12 +250,12 @@
         "high engagement (1.8K likes)"
       ],
       "metrics": {
-        "likes": 1779,
-        "retweets": 325,
+        "likes": 1790,
+        "retweets": 326,
         "replies": 88,
         "likes_h": "1.8K"
       },
-      "engagement": 2517,
+      "engagement": 2530,
       "hot": false
     },
     {
@@ -621,12 +703,12 @@
         "high engagement (1.1K likes)"
       ],
       "metrics": {
-        "likes": 1068,
-        "retweets": 102,
-        "replies": 90,
+        "likes": 1071,
+        "retweets": 103,
+        "replies": 91,
         "likes_h": "1.1K"
       },
-      "engagement": 1362,
+      "engagement": 1368,
       "hot": false
     },
     {
@@ -662,12 +744,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 392,
-        "retweets": 62,
+        "likes": 394,
+        "retweets": 63,
         "replies": 43,
-        "likes_h": "392"
+        "likes_h": "394"
       },
-      "engagement": 559,
+      "engagement": 563,
       "hot": false
     },
     {
@@ -952,12 +1034,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 55,
+        "likes": 56,
         "retweets": 6,
         "replies": 8,
-        "likes_h": "55"
+        "likes_h": "56"
       },
-      "engagement": 75,
+      "engagement": 76,
       "hot": false
     },
     {
@@ -992,12 +1074,12 @@
         "tech substance (model, gemini)"
       ],
       "metrics": {
-        "likes": 556,
+        "likes": 557,
         "retweets": 51,
         "replies": 50,
-        "likes_h": "556"
+        "likes_h": "557"
       },
-      "engagement": 708,
+      "engagement": 709,
       "hot": false
     },
     {
@@ -1198,12 +1280,12 @@
         "tech substance (gemini)"
       ],
       "metrics": {
-        "likes": 713,
+        "likes": 712,
         "retweets": 57,
         "replies": 48,
-        "likes_h": "713"
+        "likes_h": "712"
       },
-      "engagement": 875,
+      "engagement": 874,
       "hot": false
     },
     {
@@ -1246,90 +1328,6 @@
         "likes_h": "4.3K"
       },
       "engagement": 5117,
-      "hot": true
-    },
-    {
-      "id": "x_2079589701795627317",
-      "title": "Gemini 3.6 Flash and 3.5 Flash-Lite are rolling out now in the @GeminiApp. Developers can start building via the API in @GoogleAIStudio and @AndroidStudio. Gemini 3.5 Flash Cyber will be exclusively…",
-      "link": "https://x.com/GoogleDeepMind/status/2079589701795627317",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Google DeepMind · @GoogleDeepMind",
-      "handle": "GoogleDeepMind",
-      "org": "Google",
-      "published": "2026-07-21T15:29:56.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product launch",
-      "categories": [
-        "X",
-        "Google",
-        "Product launch"
-      ],
-      "summary": "Gemini 3.6 Flash and 3.5 Flash-Lite are rolling out now in the @GeminiApp. Developers can start building via the API in @GoogleAIStudio and @AndroidStudio. Gemini 3.5 Flash Cyber will be exclusively available via CodeMender soon as part of a limited-access pilot program. Find",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 82,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "reply / conversation",
-        "announcement language (rolling out, out now)",
-        "tech substance (gemini, api)"
-      ],
-      "metrics": {
-        "likes": 294,
-        "retweets": 36,
-        "replies": 15,
-        "likes_h": "294"
-      },
-      "engagement": 381,
-      "hot": false
-    },
-    {
-      "id": "x_2079589698490572961",
-      "title": "We’re rolling out three new models to make AI agents faster, smarter, and cheaper at scale: 🔵 Gemini 3.6 Flash: It uses fewer tokens than 3.5 Flash to deliver higher quality work at the exact same…",
-      "link": "https://x.com/GoogleDeepMind/status/2079589698490572961",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Google DeepMind · @GoogleDeepMind",
-      "handle": "GoogleDeepMind",
-      "org": "Google",
-      "published": "2026-07-21T15:29:55.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product launch",
-      "categories": [
-        "X",
-        "Google",
-        "Product launch"
-      ],
-      "summary": "We’re rolling out three new models to make AI agents faster, smarter, and cheaper at scale: 🔵 Gemini 3.6 Flash: It uses fewer tokens than 3.5 Flash to deliver higher quality work at the exact same cost. 🔵 Gemini 3.5 Flash-Lite: A fast, cost-effective option for everyday tasks",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 100,
-      "sentiment": "positive",
-      "sentiment_score": 1,
-      "reasons": [
-        "report-worthy",
-        "announcement language (rolling out)",
-        "tech substance (models, gemini, agents)",
-        "high engagement (2.9K likes)"
-      ],
-      "metrics": {
-        "likes": 2935,
-        "retweets": 490,
-        "replies": 238,
-        "likes_h": "2.9K"
-      },
-      "engagement": 4153,
       "hot": true
     }
   ]
