@@ -1,36 +1,33 @@
 {
-  "generated_at": "2026-07-28T18:21:01.618Z",
+  "generated_at": "2026-07-28T20:06:47.249Z",
   "subs": [
     "MachineLearning",
-    "artificial",
-    "nutrition",
-    "investing",
+    "programming",
     "cybersecurity",
+    "artificial",
     "netsec",
     "science",
+    "investing",
+    "nutrition",
     "longevity",
     "hardware",
     "robotics",
     "startups",
     "gadgets",
     "bodyweightfitness",
-    "programming",
     "singularity",
-    "LocalLLaMA",
-    "running",
-    "SkincareAddiction"
+    "LocalLLaMA"
   ],
   "count": 36,
   "by_category": {
     "AI / ML": 8,
-    "Security": 4,
+    "Security": 5,
     "Science": 4,
     "Startups & Funding": 5,
-    "Fitness": 6,
-    "Hardware & Gadgets": 4,
+    "Fitness": 5,
+    "Hardware & Gadgets": 3,
     "Robotics": 3,
-    "Coding & Dev Tools": 1,
-    "Skincare": 1
+    "Coding & Dev Tools": 3
   },
   "articles": [
     {
@@ -430,6 +427,45 @@
       }
     },
     {
+      "id": "reddit_1v70u60",
+      "title": "Pope's official prayer app commits cardinal sin, leaks 700K+ users' info",
+      "link": "https://www.reddit.com/r/cybersecurity/comments/1v70u60/popes_official_prayer_app_commits_cardinal_sin/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/cybersecurity · community knowledge",
+      "content_type": "post",
+      "author": "u/NISMO1968 · r/cybersecurity",
+      "handle": "cybersecurity",
+      "org": "r/cybersecurity",
+      "platform": "reddit",
+      "published": "2026-07-26T11:05:53.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/cybersecurity"
+      ],
+      "summary": "Pope's official prayer app commits cardinal sin, leaks 700K+ users' info",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/cybersecurity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1v6ytlg",
       "title": "I ran a faceless AI persona account for six weeks to see if the view money was real",
       "link": "https://www.reddit.com/r/artificial/comments/1v6ytlg/i_ran_a_faceless_ai_persona_account_for_six_weeks/",
@@ -580,6 +616,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/science this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v6ijz9",
+      "title": "Introducing Triton: DirectX 11 driver for QEMU",
+      "link": "https://www.reddit.com/r/programming/comments/1v6ijz9/introducing_triton_directx_11_driver_for_qemu/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/programming · community knowledge",
+      "content_type": "post",
+      "author": "u/NXGZ · r/programming",
+      "handle": "programming",
+      "org": "r/programming",
+      "platform": "reddit",
+      "published": "2026-07-25T20:09:08.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Coding & Dev Tools",
+      "category": "Coding & Dev Tools",
+      "genre": "Coding & Dev Tools",
+      "categories": [
+        "Reddit",
+        "Coding & Dev Tools",
+        "r/programming"
+      ],
+      "summary": "Introducing Triton: DirectX 11 driver for QEMU",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/programming this week"
       ],
       "metrics": {
         "likes": 0,
@@ -809,6 +884,45 @@
         "r/programming"
       ],
       "summary": "Writing a (valid) C program without main()",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/programming this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v67ohp",
+      "title": "[Sebastian Lague] - I Tried Coding my own Graphics Library",
+      "link": "https://www.reddit.com/r/programming/comments/1v67ohp/sebastian_lague_i_tried_coding_my_own_graphics/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/programming · community knowledge",
+      "content_type": "post",
+      "author": "u/Pink401k · r/programming",
+      "handle": "programming",
+      "org": "r/programming",
+      "platform": "reddit",
+      "published": "2026-07-25T12:55:58.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Coding & Dev Tools",
+      "category": "Coding & Dev Tools",
+      "genre": "Coding & Dev Tools",
+      "categories": [
+        "Reddit",
+        "Coding & Dev Tools",
+        "r/programming"
+      ],
+      "summary": "[Sebastian Lague] - I Tried Coding my own Graphics Library",
       "is_social": true,
       "report_worthy": true,
       "worthiness_score": 62,
@@ -1330,123 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/netsec this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v4xrwm",
-      "title": "What Non-Big-Brand Running Gear Are You Wearing in 2026?",
-      "link": "https://www.reddit.com/r/running/comments/1v4xrwm/what_nonbigbrand_running_gear_are_you_wearing_in/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/running · community knowledge",
-      "content_type": "post",
-      "author": "u/Thin_Term5711 · r/running",
-      "handle": "running",
-      "org": "r/running",
-      "platform": "reddit",
-      "published": "2026-07-24T01:58:40.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/running"
-      ],
-      "summary": "Maybe this has been discussed before, but it&#39;s 2026, so there might be some updates. I&#39;d love to know about smaller, non-mainstream running brands that are actually good brands like Satisfy or Bandit (but not just those). I&#39;m interested in discovering brands from all over the world, including your own…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/running this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v4vu0u",
-      "title": "Scientists develop handheld device for measuring when your body is burning fat",
-      "link": "https://www.reddit.com/r/gadgets/comments/1v4vu0u/scientists_develop_handheld_device_for_measuring/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/gadgets · community knowledge",
-      "content_type": "post",
-      "author": "u/dapperlemon · r/gadgets",
-      "handle": "gadgets",
-      "org": "r/gadgets",
-      "platform": "reddit",
-      "published": "2026-07-24T00:30:52.000Z",
-      "image": "https://external-preview.redd.it/3JcWT5CLTfgvRqpKq8grGSYViqz3H3B7rTMQV0xrTWw.jpeg?width=640&crop=smart&auto=webp&s=ccf325b6b3f3999a3cfa6135db53ab05b378370f",
-      "thumbnail": "https://external-preview.redd.it/3JcWT5CLTfgvRqpKq8grGSYViqz3H3B7rTMQV0xrTWw.jpeg?width=640&crop=smart&auto=webp&s=ccf325b6b3f3999a3cfa6135db53ab05b378370f",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/gadgets"
-      ],
-      "summary": "Scientists develop handheld device for measuring when your body is burning fat",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/gadgets this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v4qpvq",
-      "title": "Is Reddit Using AI Bots to Generate Engagement on Skincare Subs? [Misc]",
-      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1v4qpvq/is_reddit_using_ai_bots_to_generate_engagement_on/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/SkincareAddiction · community knowledge",
-      "content_type": "post",
-      "author": "u/PatsyStonesBun · r/SkincareAddiction",
-      "handle": "SkincareAddiction",
-      "org": "r/SkincareAddiction",
-      "platform": "reddit",
-      "published": "2026-07-23T21:05:11.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Skincare",
-      "category": "Skincare",
-      "genre": "Skincare",
-      "categories": [
-        "Reddit",
-        "Skincare",
-        "r/SkincareAddiction"
-      ],
-      "summary": "I can&#39;t be the only one who has noticed the recent and exponential growth of these annoying, &quot;empty calories&quot; posts all over Skincare and Beauty subs all over Reddit. You know the type of post. It seems like an innocuous thread started by someone new to skincare/beauty. A subject like &quot;Tell me about…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/SkincareAddiction this week"
       ],
       "metrics": {
         "likes": 0,
