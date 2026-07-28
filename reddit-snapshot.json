@@ -1,8 +1,9 @@
 {
-  "generated_at": "2026-07-28T07:19:44.707Z",
+  "generated_at": "2026-07-28T10:12:37.012Z",
   "subs": [
     "MachineLearning",
     "science",
+    "netsec",
     "cybersecurity",
     "artificial",
     "investing",
@@ -16,14 +17,13 @@
     "programming",
     "singularity",
     "LocalLLaMA",
-    "netsec",
     "running",
     "SkincareAddiction"
   ],
   "count": 36,
   "by_category": {
-    "Security": 3,
-    "AI / ML": 8,
+    "Security": 4,
+    "AI / ML": 7,
     "Science": 4,
     "Startups & Funding": 5,
     "Fitness": 6,
@@ -105,6 +105,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/artificial this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v832a6",
+      "title": "Exploiting Volvo/Eicher’s fleet management platform to gain control over all users and vehicles",
+      "link": "https://www.reddit.com/r/netsec/comments/1v832a6/exploiting_volvoeichers_fleet_management_platform/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/netsec · community knowledge",
+      "content_type": "post",
+      "author": "u/EatonZ · r/netsec",
+      "handle": "netsec",
+      "org": "r/netsec",
+      "platform": "reddit",
+      "published": "2026-07-27T15:07:13.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/netsec"
+      ],
+      "summary": "Exploiting Volvo/Eicher’s fleet management platform to gain control over all users and vehicles",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/netsec this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1407,46 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/SkincareAddiction this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v4ns8l",
-      "title": "GPT-5.5 Scores 10.6% on ActiveVision, Humans Hit 96.1% [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1v4ns8l/gpt55_scores_106_on_activevision_humans_hit_961_r/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/MachineLearning · community knowledge",
-      "content_type": "post",
-      "author": "u/Justgototheeffinmoon · r/MachineLearning",
-      "handle": "MachineLearning",
-      "org": "r/MachineLearning",
-      "platform": "reddit",
-      "published": "2026-07-23T19:20:01.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/MachineLearning"
-      ],
-      "summary": "The interesting finding from a new [arXiv paper]( https://arxiv.org/abs/2607.16165 ) isn&#39;t that a frontier vision model failed a new benchmark, that happens weekly, but the specific shape of the failure and the fact that the models cannot patch it by writing their own code. The benchmark, called ActiveVision,…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/MachineLearning this week"
       ],
       "metrics": {
         "likes": 0,
