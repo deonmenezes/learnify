@@ -1,38 +1,78 @@
 {
-  "generated_at": "2026-07-28T01:00:12.677Z",
+  "generated_at": "2026-07-28T04:17:59.898Z",
   "subs": [
     "MachineLearning",
-    "LocalLLaMA",
-    "bodyweightfitness",
-    "startups",
-    "investing",
+    "artificial",
     "nutrition",
+    "investing",
     "longevity",
     "hardware",
-    "artificial",
     "robotics",
+    "startups",
     "science",
     "gadgets",
+    "bodyweightfitness",
     "programming",
     "singularity",
     "cybersecurity",
+    "LocalLLaMA",
     "netsec",
     "running",
     "SkincareAddiction"
   ],
   "count": 36,
   "by_category": {
+    "AI / ML": 9,
     "Startups & Funding": 5,
     "Fitness": 7,
     "Science": 3,
     "Hardware & Gadgets": 4,
-    "AI / ML": 9,
     "Robotics": 3,
     "Coding & Dev Tools": 1,
     "Security": 2,
     "Skincare": 2
   },
   "articles": [
+    {
+      "id": "reddit_1v8aeto",
+      "title": "The world's best mathematician won his prize this week and immediately announced he's leaving academia for OpenAI. That landed differently than I expected.",
+      "link": "https://www.reddit.com/r/artificial/comments/1v8aeto/the_worlds_best_mathematician_won_his_prize_this/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/artificial · community knowledge",
+      "content_type": "post",
+      "author": "u/Dapper-Tale-4021 · r/artificial",
+      "handle": "artificial",
+      "org": "r/artificial",
+      "platform": "reddit",
+      "published": "2026-07-27T19:24:12.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/artificial"
+      ],
+      "summary": "I&#39;ve been thinking about this one all weekend and I keep coming back to the same thing. Jacob Tsimerman just won the Fields Medal. If you&#39;re not familiar, it&#39;s the highest honor in mathematics, only awarded every four years, roughly the Nobel Prize of the field. He got it for solving a problem that had…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/artificial this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1v7aoxb",
       "title": "Time to sell Disney after 5-6 years",
@@ -1408,46 +1448,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/bodyweightfitness this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v4j8rn",
-      "title": "We can live without AI, but we can’t live without water. “I have a jar right here. This is the current drinking water in Morgan Country, Georgia, right after a data center was constructed.” This is what the drinking water now looks like next to that data center” Protect our environment",
-      "link": "https://www.reddit.com/r/artificial/comments/1v4j8rn/we_can_live_without_ai_but_we_cant_live_without/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/artificial · community knowledge",
-      "content_type": "post",
-      "author": "u/Livid_Violinist7259 · r/artificial",
-      "handle": "artificial",
-      "org": "r/artificial",
-      "platform": "reddit",
-      "published": "2026-07-23T16:41:17.000Z",
-      "image": "https://preview.redd.it/mlotb8ipc0fh1.jpeg?width=640&crop=smart&auto=webp&s=62b790222f2fc8cae849dfa28c1b09207aa62651",
-      "thumbnail": "https://preview.redd.it/mlotb8ipc0fh1.jpeg?width=640&crop=smart&auto=webp&s=62b790222f2fc8cae849dfa28c1b09207aa62651",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/artificial"
-      ],
-      "summary": "We can live without AI, but we can’t live without water. “I have a jar right here. This is the current drinking water in Morgan Country, Georgia, right after a data center was constructed.” This is what the drinking water now looks like next to that data center” Protect our environment",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/artificial this week"
       ],
       "metrics": {
         "likes": 0,
