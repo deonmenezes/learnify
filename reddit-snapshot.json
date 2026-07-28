@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-07-28T04:17:59.898Z",
+  "generated_at": "2026-07-28T07:19:44.707Z",
   "subs": [
     "MachineLearning",
+    "science",
+    "cybersecurity",
     "artificial",
-    "nutrition",
     "investing",
+    "nutrition",
     "longevity",
     "hardware",
     "robotics",
     "startups",
-    "science",
     "gadgets",
     "bodyweightfitness",
     "programming",
     "singularity",
-    "cybersecurity",
     "LocalLLaMA",
     "netsec",
     "running",
@@ -22,17 +22,56 @@
   ],
   "count": 36,
   "by_category": {
-    "AI / ML": 9,
+    "Security": 3,
+    "AI / ML": 8,
+    "Science": 4,
     "Startups & Funding": 5,
-    "Fitness": 7,
-    "Science": 3,
+    "Fitness": 6,
     "Hardware & Gadgets": 4,
     "Robotics": 3,
     "Coding & Dev Tools": 1,
-    "Security": 2,
     "Skincare": 2
   },
   "articles": [
+    {
+      "id": "reddit_1v8bsul",
+      "title": "New AI attack can reconstruct typed text from keyboard sounds with 90-99% accuracy",
+      "link": "https://www.reddit.com/r/cybersecurity/comments/1v8bsul/new_ai_attack_can_reconstruct_typed_text_from/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/cybersecurity · community knowledge",
+      "content_type": "post",
+      "author": "u/HumbleRestaurant790 · r/cybersecurity",
+      "handle": "cybersecurity",
+      "org": "r/cybersecurity",
+      "platform": "reddit",
+      "published": "2026-07-27T20:13:24.000Z",
+      "image": "https://external-preview.redd.it/zmC4JaHuxMSs0eYACb6HY38ymIuUTYf_KwNBbcbPbbo.jpeg?width=640&crop=smart&auto=webp&s=31d0ac3c97e1e5db818a4355e30afa532a9699db",
+      "thumbnail": "https://external-preview.redd.it/zmC4JaHuxMSs0eYACb6HY38ymIuUTYf_KwNBbcbPbbo.jpeg?width=640&crop=smart&auto=webp&s=31d0ac3c97e1e5db818a4355e30afa532a9699db",
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/cybersecurity"
+      ],
+      "summary": "New AI attack can reconstruct typed text from keyboard sounds with 90-99% accuracy",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/cybersecurity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1v8aeto",
       "title": "The world's best mathematician won his prize this week and immediately announced he's leaving academia for OpenAI. That landed differently than I expected.",
@@ -66,6 +105,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/artificial this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v82s43",
+      "title": "Study warns ocean oxygen loss is approaching an \"unsafe space\" with irreversible impacts",
+      "link": "https://www.reddit.com/r/science/comments/1v82s43/study_warns_ocean_oxygen_loss_is_approaching_an/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/science · community knowledge",
+      "content_type": "post",
+      "author": "u/sfgate · r/science",
+      "handle": "science",
+      "org": "r/science",
+      "platform": "reddit",
+      "published": "2026-07-27T14:57:10.000Z",
+      "image": "https://external-preview.redd.it/UsmJHeCH8BgSTUdkqJzm3jflYJAjxMY4prI1TYZtEU0.jpeg?width=640&crop=smart&auto=webp&s=8340f02ae6a0bbcf3402322fd891e99b923f8ca7",
+      "thumbnail": "https://external-preview.redd.it/UsmJHeCH8BgSTUdkqJzm3jflYJAjxMY4prI1TYZtEU0.jpeg?width=640&crop=smart&auto=webp&s=8340f02ae6a0bbcf3402322fd891e99b923f8ca7",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/science"
+      ],
+      "summary": "Study warns ocean oxygen loss is approaching an \"unsafe space\" with irreversible impacts",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/science this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1369,85 +1447,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v4moxy",
-      "title": "The LLM distillation process simplified for politicians:",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1v4moxy/the_llm_distillation_process_simplified_for/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/LocalLLaMA · community knowledge",
-      "content_type": "post",
-      "author": "u/Porespellar · r/LocalLLaMA",
-      "handle": "LocalLLaMA",
-      "org": "r/LocalLLaMA",
-      "platform": "reddit",
-      "published": "2026-07-23T18:41:48.000Z",
-      "image": "https://preview.redd.it/iv9ca7s7y0fh1.jpeg?width=640&crop=smart&auto=webp&s=c54b78188ed0c5108ee4b9043cbed58cc200da75",
-      "thumbnail": "https://preview.redd.it/iv9ca7s7y0fh1.jpeg?width=640&crop=smart&auto=webp&s=c54b78188ed0c5108ee4b9043cbed58cc200da75",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/LocalLLaMA"
-      ],
-      "summary": "The LLM distillation process simplified for politicians:",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/LocalLLaMA this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v4lcdg",
-      "title": "Inverted rows improved my posture tremendously",
-      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1v4lcdg/inverted_rows_improved_my_posture_tremendously/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/bodyweightfitness · community knowledge",
-      "content_type": "post",
-      "author": "u/Trafalgar_Lawyer · r/bodyweightfitness",
-      "handle": "bodyweightfitness",
-      "org": "r/bodyweightfitness",
-      "platform": "reddit",
-      "published": "2026-07-23T17:55:15.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/bodyweightfitness"
-      ],
-      "summary": "I’ve been working out for over a year now. My super simple routine consists of pushups, squats, pull ups and a core exercise that’s either hanging leg raises or hollow body hold. Recently I saw a comment that says to prevent muscle imbalance, you should do exercises that can strengthen opposite “sides” of your…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/bodyweightfitness this week"
       ],
       "metrics": {
         "likes": 0,
