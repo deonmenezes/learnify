@@ -1,15 +1,56 @@
 {
-  "generated_at": "2026-07-27T23:07:10.761Z",
+  "generated_at": "2026-07-28T00:57:58.950Z",
   "handles": [
+    "nvidia",
     "AnthropicAI",
     "OpenAI",
-    "nvidia",
-    "GoogleDeepMind",
     "gdb",
+    "GoogleDeepMind",
     "elonmusk"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2081884835715404071",
+      "title": "Translation queues and custom integrations can slow global launches. Our Digital Marketing team built an AI-powered localization platform with NVIDIA Nemotron Speech to change that. See the results ↓…",
+      "link": "https://x.com/nvidia/status/2081884835715404071",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-07-27T23:29:59.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "Translation queues and custom integrations can slow global launches. Our Digital Marketing team built an AI-powered localization platform with NVIDIA Nemotron Speech to change that. See the results ↓ https://nvda.ws/4wYUS22",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 85,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (nemotron, platform)",
+        "links to a source"
+      ],
+      "metrics": {
+        "likes": 59,
+        "retweets": 5,
+        "replies": 12,
+        "likes_h": "59"
+      },
+      "engagement": 81,
+      "hot": false
+    },
     {
       "id": "x_2081864750296658008",
       "title": "There’s been a lot of speculation about where we stand on open-weights models. We’ve outlined our views in full here: https://www.anthropic.com/news/position-open-weights-models",
@@ -167,12 +208,12 @@
         "tech substance (research)"
       ],
       "metrics": {
-        "likes": 483,
-        "retweets": 68,
-        "replies": 62,
-        "likes_h": "483"
+        "likes": 516,
+        "retweets": 71,
+        "replies": 63,
+        "likes_h": "516"
       },
-      "engagement": 681,
+      "engagement": 721,
       "hot": false
     },
     {
@@ -206,15 +247,15 @@
         "report-worthy",
         "announcement language (introducing)",
         "tech substance (models, agents, research)",
-        "high engagement (6.3K likes)"
+        "high engagement (6.5K likes)"
       ],
       "metrics": {
-        "likes": 6287,
-        "retweets": 850,
-        "replies": 423,
-        "likes_h": "6.3K"
+        "likes": 6485,
+        "retweets": 883,
+        "replies": 432,
+        "likes_h": "6.5K"
       },
-      "engagement": 8410,
+      "engagement": 8683,
       "hot": true
     },
     {
@@ -251,12 +292,12 @@
         "high engagement (1.2K likes)"
       ],
       "metrics": {
-        "likes": 1198,
-        "retweets": 148,
+        "likes": 1199,
+        "retweets": 149,
         "replies": 73,
         "likes_h": "1.2K"
       },
-      "engagement": 1567,
+      "engagement": 1570,
       "hot": false
     },
     {
@@ -291,11 +332,11 @@
       ],
       "metrics": {
         "likes": 600,
-        "retweets": 77,
+        "retweets": 78,
         "replies": 40,
         "likes_h": "600"
       },
-      "engagement": 794,
+      "engagement": 796,
       "hot": false
     },
     {
@@ -339,7 +380,7 @@
         "likes_h": "3.4K"
       },
       "engagement": 4463,
-      "hot": false
+      "hot": true
     },
     {
       "id": "x_2080833379197477226",
@@ -917,7 +958,7 @@
         "likes_h": "2.2K"
       },
       "engagement": 2962,
-      "hot": false
+      "hot": true
     },
     {
       "id": "x_2079758604656316619",
@@ -1288,48 +1329,6 @@
         "likes_h": "646"
       },
       "engagement": 816,
-      "hot": false
-    },
-    {
-      "id": "x_2079619127560556869",
-      "title": "🚀 The NVIDIA Vera Rubin platform is here, with 10x better performance per watt. ➡️ The NVIDIA ecosystem, including @CoreWeave, @GoogleCloud, @Microsoft, and @Oracle Cloud, are standing up NVIDIA…",
-      "link": "https://x.com/nvidia/status/2079619127560556869",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-07-21T17:26:52.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product"
-      ],
-      "summary": "🚀 The NVIDIA Vera Rubin platform is here, with 10x better performance per watt. ➡️ The NVIDIA ecosystem, including @CoreWeave, @GoogleCloud, @Microsoft, and @Oracle Cloud, are standing up NVIDIA Vera Rubin NVL72 to deliver the lowest token cost for the agentic era. ➡️ NVIDIA",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 85,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "tech substance (platform)",
-        "high engagement (1.1K likes)",
-        "concrete metrics"
-      ],
-      "metrics": {
-        "likes": 1051,
-        "retweets": 129,
-        "replies": 44,
-        "likes_h": "1.1K"
-      },
-      "engagement": 1353,
       "hot": false
     }
   ]
