@@ -1,36 +1,75 @@
 {
-  "generated_at": "2026-07-29T12:34:09.747Z",
+  "generated_at": "2026-07-29T14:59:16.800Z",
   "subs": [
     "MachineLearning",
-    "LocalLLaMA",
+    "Fitness",
+    "robotics",
     "bodyweightfitness",
-    "startups",
     "programming",
     "artificial",
     "cybersecurity",
+    "LocalLLaMA",
     "netsec",
     "science",
+    "startups",
     "running",
     "investing",
     "nutrition",
     "longevity",
     "hardware",
-    "robotics",
-    "gadgets",
-    "singularity"
+    "gadgets"
   ],
   "count": 36,
   "by_category": {
-    "Fitness": 8,
+    "Fitness": 9,
     "Coding & Dev Tools": 4,
     "AI / ML": 8,
-    "Security": 4,
+    "Robotics": 3,
+    "Security": 3,
     "Science": 3,
-    "Startups & Funding": 5,
-    "Hardware & Gadgets": 2,
-    "Robotics": 2
+    "Startups & Funding": 4,
+    "Hardware & Gadgets": 2
   },
   "articles": [
+    {
+      "id": "reddit_1v9qmte",
+      "title": "Rant Wednesday - July 29, 2026",
+      "link": "https://www.reddit.com/r/Fitness/comments/1v9qmte/rant_wednesday_july_29_2026/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/Fitness · community knowledge",
+      "content_type": "post",
+      "author": "u/AutoModerator · r/Fitness",
+      "handle": "Fitness",
+      "org": "r/Fitness",
+      "platform": "reddit",
+      "published": "2026-07-29T09:00:22.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/Fitness"
+      ],
+      "summary": "Welcome to Rant Wednesday: It’s your time to let your gym/fitness/nutrition related frustrations out! There is no guiding question to help stir up some rage-feels, feel free to fire at will, ranting about anything and everything that’s been pissing you off or getting on your nerves. Just don&#39;t forget that other…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/Fitness this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1v9ahm5",
       "title": "Is there anyone here who has actually gotten rid of their manboobs?",
@@ -110,6 +149,46 @@
       }
     },
     {
+      "id": "reddit_1v90r9r",
+      "title": "NeurIPS 2026 Reviewer: AI-Generated Rebuttals (and Paper) [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v90r9r/neurips_2026_reviewer_aigenerated_rebuttals_and/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/MachineLearning · community knowledge",
+      "content_type": "post",
+      "author": "u/gateofptolemy · r/MachineLearning",
+      "handle": "MachineLearning",
+      "org": "r/MachineLearning",
+      "platform": "reddit",
+      "published": "2026-07-28T14:52:01.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/MachineLearning"
+      ],
+      "summary": "One of the papers I reviewed has what seems to be entirely LLM-generated rebuttals, and the original paper is also clearly LLM-generated, with Claude-speak everywhere. While the authors acknowledge LLM writing assistance in the checklist, it really annoys me personally - what is clearly Claude&#39;s writing style is…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1v8ilsm",
       "title": "AI Companies Are Buying Antique Books, Ingesting Their Contents to Train Models, and Then Destroying Them at Incredible Scale, Even If Almost No Copies Remain",
       "link": "https://www.reddit.com/r/artificial/comments/1v8ilsm/ai_companies_are_buying_antique_books_ingesting/",
@@ -142,6 +221,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/artificial this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v8eivl",
+      "title": "My robot project so far",
+      "link": "https://www.reddit.com/r/robotics/comments/1v8eivl/my_robot_project_so_far/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/robotics · community knowledge",
+      "content_type": "post",
+      "author": "u/Sector07_en · r/robotics",
+      "handle": "robotics",
+      "org": "r/robotics",
+      "platform": "reddit",
+      "published": "2026-07-27T21:53:41.000Z",
+      "image": "https://preview.redd.it/huwwyvq2gufh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=09376c1e659e81d057ed07d3c663c12f512989c7",
+      "thumbnail": "https://preview.redd.it/huwwyvq2gufh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=09376c1e659e81d057ed07d3c663c12f512989c7",
+      "section": "Robotics",
+      "category": "Robotics",
+      "genre": "Robotics",
+      "categories": [
+        "Reddit",
+        "Robotics",
+        "r/robotics"
+      ],
+      "summary": "Working to make a fun open source STEM robot for begginers. Uses a custom edge impulse object detection model to play &quot;fetch&quot;. Extras are the animated eyes, &quot;ears&quot;, voice, and programmed character behavior. Currently testing the model but looking forward to releasing it for everyone soon. &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/robotics this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1325,125 +1443,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/bodyweightfitness this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v60izq",
-      "title": "Robot powered by Qualcomm’s new AI chip dies mid-presentation",
-      "link": "https://www.reddit.com/r/singularity/comments/1v60izq/robot_powered_by_qualcomms_new_ai_chip_dies/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/singularity · community knowledge",
-      "content_type": "post",
-      "author": "u/SuggestionMission516 · r/singularity",
-      "handle": "singularity",
-      "org": "r/singularity",
-      "platform": "reddit",
-      "published": "2026-07-25T06:34:02.000Z",
-      "image": "https://external-preview.redd.it/NWVjb3RieHJsYmZoMRydPXdvgPw4xO0VF7_GG0AS2kZCRFC7gfgu1_ff_naM.png?width=640&crop=smart&auto=webp&s=1b76dcd0b7b17fa847efd47533998eac36c8581e",
-      "thumbnail": "https://external-preview.redd.it/NWVjb3RieHJsYmZoMRydPXdvgPw4xO0VF7_GG0AS2kZCRFC7gfgu1_ff_naM.png?width=640&crop=smart&auto=webp&s=1b76dcd0b7b17fa847efd47533998eac36c8581e",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/singularity"
-      ],
-      "summary": "Robot powered by Qualcomm’s new AI chip dies mid-presentation",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/singularity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v5snq2",
-      "title": "Stripe closed my account with a 0.18% dispute rate *i will not promote",
-      "link": "https://www.reddit.com/r/startups/comments/1v5snq2/stripe_closed_my_account_with_a_018_dispute_rate/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/startups · community knowledge",
-      "content_type": "post",
-      "author": "u/Evrgrn7 · r/startups",
-      "handle": "startups",
-      "org": "r/startups",
-      "platform": "reddit",
-      "published": "2026-07-25T00:12:57.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/startups"
-      ],
-      "summary": "I run a UK ltd, ecommerce, personalised products. Started in March, scaled to ~£150K/m in 2 months. But then... &quot;After conducting a routine review of your Stripe account... we&#39;ve found that it presents a high level of risk for disputes.&quot; Payments switched off immediately. Payouts held for 120 days,…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/startups this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v5pa8w",
-      "title": "Hackers use DNS poisoning on hotel Wi‑Fi to steal Microsoft 365 accounts",
-      "link": "https://www.reddit.com/r/cybersecurity/comments/1v5pa8w/hackers_use_dns_poisoning_on_hotel_wifi_to_steal/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/cybersecurity · community knowledge",
-      "content_type": "post",
-      "author": "u/HumbleRestaurant790 · r/cybersecurity",
-      "handle": "cybersecurity",
-      "org": "r/cybersecurity",
-      "platform": "reddit",
-      "published": "2026-07-24T21:52:29.000Z",
-      "image": "https://external-preview.redd.it/hewjx9xfp9-Otb043Oj5jDGrvljq7z7b0mkNK_0rh4g.jpeg?width=320&crop=smart&auto=webp&s=2e1bf00f3d1f03e4dc6f81df490ab5f65012dac7",
-      "thumbnail": "https://external-preview.redd.it/hewjx9xfp9-Otb043Oj5jDGrvljq7z7b0mkNK_0rh4g.jpeg?width=320&crop=smart&auto=webp&s=2e1bf00f3d1f03e4dc6f81df490ab5f65012dac7",
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/cybersecurity"
-      ],
-      "summary": "Hackers use DNS poisoning on hotel Wi‑Fi to steal Microsoft 365 accounts",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/cybersecurity this week"
       ],
       "metrics": {
         "likes": 0,
