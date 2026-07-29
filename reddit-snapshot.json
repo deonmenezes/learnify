@@ -1,12 +1,14 @@
 {
-  "generated_at": "2026-07-29T14:59:16.800Z",
+  "generated_at": "2026-07-29T16:28:34.494Z",
   "subs": [
     "MachineLearning",
+    "Futurology",
+    "gadgets",
     "Fitness",
-    "robotics",
     "bodyweightfitness",
     "programming",
     "artificial",
+    "robotics",
     "cybersecurity",
     "LocalLLaMA",
     "netsec",
@@ -16,21 +18,59 @@
     "investing",
     "nutrition",
     "longevity",
-    "hardware",
-    "gadgets"
+    "hardware"
   ],
   "count": 36,
   "by_category": {
-    "Fitness": 9,
-    "Coding & Dev Tools": 4,
-    "AI / ML": 8,
+    "Science": 7,
+    "Fitness": 7,
+    "Hardware & Gadgets": 3,
+    "Coding & Dev Tools": 2,
+    "AI / ML": 7,
     "Robotics": 3,
     "Security": 3,
-    "Science": 3,
-    "Startups & Funding": 4,
-    "Hardware & Gadgets": 2
+    "Startups & Funding": 4
   },
   "articles": [
+    {
+      "id": "reddit_1v9x3or",
+      "title": "85 Flock Surveillance Camera Contracts In 28 States Canceled - LAPD Also Won't Renew Their Contract",
+      "link": "https://www.reddit.com/r/Futurology/comments/1v9x3or/85_flock_surveillance_camera_contracts_in_28/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/Futurology · community knowledge",
+      "content_type": "post",
+      "author": "u/ai-edition · r/Futurology",
+      "handle": "Futurology",
+      "org": "r/Futurology",
+      "platform": "reddit",
+      "published": "2026-07-29T14:02:02.000Z",
+      "image": "https://external-preview.redd.it/fLdPtlo8anwWDydqu4nA5qMlRgaDsMqsZnOXAJ2gtPw.jpeg?width=640&crop=smart&auto=webp&s=594b05e6f14154fa4a460d3d4bca9786c652f81d",
+      "thumbnail": "https://external-preview.redd.it/fLdPtlo8anwWDydqu4nA5qMlRgaDsMqsZnOXAJ2gtPw.jpeg?width=640&crop=smart&auto=webp&s=594b05e6f14154fa4a460d3d4bca9786c652f81d",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/Futurology"
+      ],
+      "summary": "The LAPD, the third-largest police force in the country, let its Flock contract expire on July 11, and cited civil liberties and privacy concerns rather than cost. Between August 2021 and May 2026, 82 Flock contracts were terminated across 28 states, with 39 of those in the first five months of 2026 alone. &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/Futurology this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1v9qmte",
       "title": "Rant Wednesday - July 29, 2026",
@@ -110,6 +150,45 @@
       }
     },
     {
+      "id": "reddit_1v99b33",
+      "title": "Several US schools to install pepper-spraying drones to respond to school shootings",
+      "link": "https://www.reddit.com/r/gadgets/comments/1v99b33/several_us_schools_to_install_pepperspraying/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/gadgets · community knowledge",
+      "content_type": "post",
+      "author": "u/diacewrb · r/gadgets",
+      "handle": "gadgets",
+      "org": "r/gadgets",
+      "platform": "reddit",
+      "published": "2026-07-28T19:54:01.000Z",
+      "image": "https://external-preview.redd.it/UB_Q32pXO_80ifTB9fb4Ot5KvGJ6jHrmcX1FnWYr1xE.jpeg?width=640&crop=smart&auto=webp&s=60105037abf4888960acdd8cceb821b68c14291b",
+      "thumbnail": "https://external-preview.redd.it/UB_Q32pXO_80ifTB9fb4Ot5KvGJ6jHrmcX1FnWYr1xE.jpeg?width=640&crop=smart&auto=webp&s=60105037abf4888960acdd8cceb821b68c14291b",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/gadgets"
+      ],
+      "summary": "Several US schools to install pepper-spraying drones to respond to school shootings",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/gadgets this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1v90z1b",
       "title": "A shell colon does nothing. Use it anyway. | Filip Roséen",
       "link": "https://www.reddit.com/r/programming/comments/1v90z1b/a_shell_colon_does_nothing_use_it_anyway_filip/",
@@ -181,6 +260,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v8vnig",
+      "title": "Finland builds the world's largest sand battery. Site can cheaply store energy for entire month. No \"rare earths\" or critical materials used. Estimated at $25/KWh",
+      "link": "https://www.reddit.com/r/Futurology/comments/1v8vnig/finland_builds_the_worlds_largest_sand_battery/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/Futurology · community knowledge",
+      "content_type": "post",
+      "author": "u/sundler · r/Futurology",
+      "handle": "Futurology",
+      "org": "r/Futurology",
+      "platform": "reddit",
+      "published": "2026-07-28T11:26:39.000Z",
+      "image": "https://external-preview.redd.it/huvozgrF2GcP02PO5nXjB6H7OcCxU1fKSrtvulwH_sA.jpeg?width=640&crop=smart&auto=webp&s=6ace89adec9c294f0b5c8071e8bcd06ba0c1cf19",
+      "thumbnail": "https://external-preview.redd.it/huvozgrF2GcP02PO5nXjB6H7OcCxU1fKSrtvulwH_sA.jpeg?width=640&crop=smart&auto=webp&s=6ace89adec9c294f0b5c8071e8bcd06ba0c1cf19",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/Futurology"
+      ],
+      "summary": "Finland builds the world's largest sand battery. Site can cheaply store energy for entire month. No \"rare earths\" or critical materials used. Estimated at $25/KWh",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/Futurology this week"
       ],
       "metrics": {
         "likes": 0,
@@ -544,6 +662,45 @@
       }
     },
     {
+      "id": "reddit_1v7gaen",
+      "title": "James Cameron tried to warn us: 'Skynet Day' is now shorthand for OpenAI's agent going rogue and hacking into a startup",
+      "link": "https://www.reddit.com/r/Futurology/comments/1v7gaen/james_cameron_tried_to_warn_us_skynet_day_is_now/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/Futurology · community knowledge",
+      "content_type": "post",
+      "author": "u/Gari_305 · r/Futurology",
+      "handle": "Futurology",
+      "org": "r/Futurology",
+      "platform": "reddit",
+      "published": "2026-07-26T21:12:26.000Z",
+      "image": "https://external-preview.redd.it/dHMcbY0ZjT62fPHsPeasUzdRC2K_sB3AoHq2KPLIeEQ.jpeg?width=640&crop=smart&auto=webp&s=112441c76840a17ef7e8929e180bb232f83ac04a",
+      "thumbnail": "https://external-preview.redd.it/dHMcbY0ZjT62fPHsPeasUzdRC2K_sB3AoHq2KPLIeEQ.jpeg?width=640&crop=smart&auto=webp&s=112441c76840a17ef7e8929e180bb232f83ac04a",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/Futurology"
+      ],
+      "summary": "To be fair, James Cameron did warn us. &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/Futurology this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1v7aoxb",
       "title": "Time to sell Disney after 5-6 years",
       "link": "https://www.reddit.com/r/investing/comments/1v7aoxb/time_to_sell_disney_after_56_years/",
@@ -822,6 +979,45 @@
       }
     },
     {
+      "id": "reddit_1v6ypog",
+      "title": "Turns out Dead Internet Theory was right: AI agents are eating the Web, growing by nearly 8,000% and rewiring the Internet’s business model",
+      "link": "https://www.reddit.com/r/Futurology/comments/1v6ypog/turns_out_dead_internet_theory_was_right_ai/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/Futurology · community knowledge",
+      "content_type": "post",
+      "author": "u/Confident_Salt_8108 · r/Futurology",
+      "handle": "Futurology",
+      "org": "r/Futurology",
+      "platform": "reddit",
+      "published": "2026-07-26T09:10:37.000Z",
+      "image": "https://external-preview.redd.it/9EyKV8-TKkawmCuY3KsuWVJUHxDjzR1dtBZn3pWCQVo.jpeg?width=640&crop=smart&auto=webp&s=6a21a19ac6ac4fb95568b1de107ccd53a2d94758",
+      "thumbnail": "https://external-preview.redd.it/9EyKV8-TKkawmCuY3KsuWVJUHxDjzR1dtBZn3pWCQVo.jpeg?width=640&crop=smart&auto=webp&s=6a21a19ac6ac4fb95568b1de107ccd53a2d94758",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/Futurology"
+      ],
+      "summary": "Turns out Dead Internet Theory was right: AI agents are eating the Web, growing by nearly 8,000% and rewiring the Internet’s business model",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/Futurology this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1v6xull",
       "title": "Probably on of the cutest humanoids, i wouldn’t mind this little dude doing my laundry",
       "link": "https://www.reddit.com/r/robotics/comments/1v6xull/probably_on_of_the_cutest_humanoids_i_wouldnt/",
@@ -932,6 +1128,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/running this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v6tfgu",
+      "title": "Framework’s premium laptop is shipping with less RAM",
+      "link": "https://www.reddit.com/r/gadgets/comments/1v6tfgu/frameworks_premium_laptop_is_shipping_with_less/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/gadgets · community knowledge",
+      "content_type": "post",
+      "author": "u/dapperlemon · r/gadgets",
+      "handle": "gadgets",
+      "org": "r/gadgets",
+      "platform": "reddit",
+      "published": "2026-07-26T04:21:53.000Z",
+      "image": "https://external-preview.redd.it/j3K2SHtr5InrjhihADMnTN65i59CZ-_8owe4HeGagZg.jpeg?width=640&crop=smart&auto=webp&s=b9d376cb62d2a9fbebd5fbdab4bb19bd510bf219",
+      "thumbnail": "https://external-preview.redd.it/j3K2SHtr5InrjhihADMnTN65i59CZ-_8owe4HeGagZg.jpeg?width=640&crop=smart&auto=webp&s=b9d376cb62d2a9fbebd5fbdab4bb19bd510bf219",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/gadgets"
+      ],
+      "summary": "Framework’s premium laptop is shipping with less RAM",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/gadgets this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1208,241 +1443,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/running this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v6b7q4",
-      "title": "‘Really inappropriate’: teachers decry plan for humanoid robot in New York high school",
-      "link": "https://www.reddit.com/r/gadgets/comments/1v6b7q4/really_inappropriate_teachers_decry_plan_for/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/gadgets · community knowledge",
-      "content_type": "post",
-      "author": "u/diacewrb · r/gadgets",
-      "handle": "gadgets",
-      "org": "r/gadgets",
-      "platform": "reddit",
-      "published": "2026-07-25T15:24:20.000Z",
-      "image": "https://external-preview.redd.it/x_dkrCUpUzWBv09tsAE79Yp71ChJqcq_MzVfm-8zIfY.jpeg?width=640&crop=smart&auto=webp&s=d248c72b3eb73b43466d564a490e48fc4fab5ed9",
-      "thumbnail": "https://external-preview.redd.it/x_dkrCUpUzWBv09tsAE79Yp71ChJqcq_MzVfm-8zIfY.jpeg?width=640&crop=smart&auto=webp&s=d248c72b3eb73b43466d564a490e48fc4fab5ed9",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/gadgets"
-      ],
-      "summary": "‘Really inappropriate’: teachers decry plan for humanoid robot in New York high school",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/gadgets this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v6axx3",
-      "title": "Google comes out in favor of OpenWeight models. (It is now EVERY tech giant vs Anthropic)",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1v6axx3/google_comes_out_in_favor_of_openweight_models_it/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/LocalLLaMA · community knowledge",
-      "content_type": "post",
-      "author": "u/MysteryWra · r/LocalLLaMA",
-      "handle": "LocalLLaMA",
-      "org": "r/LocalLLaMA",
-      "platform": "reddit",
-      "published": "2026-07-25T15:12:42.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/LocalLLaMA"
-      ],
-      "summary": "Google comes out in favor of OpenWeight models. (It is now EVERY tech giant vs Anthropic)",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/LocalLLaMA this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v6avha",
-      "title": "Maybe weights are just the easy mode for getting strong?",
-      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1v6avha/maybe_weights_are_just_the_easy_mode_for_getting/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/bodyweightfitness · community knowledge",
-      "content_type": "post",
-      "author": "u/Effective_Degree3102 · r/bodyweightfitness",
-      "handle": "bodyweightfitness",
-      "org": "r/bodyweightfitness",
-      "platform": "reddit",
-      "published": "2026-07-25T15:09:40.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/bodyweightfitness"
-      ],
-      "summary": "I have been doing bodyweight training for some time and recently started thinking about this stupid argument of bodyweight vs weights. Every time people talk about training, somebody says bodyweight is not enough, then somebody else says weights are useless and “real strength” is only pullups and planche. Honestly…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/bodyweightfitness this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v68yb8",
-      "title": "Writing a (valid) C program without main()",
-      "link": "https://www.reddit.com/r/programming/comments/1v68yb8/writing_a_valid_c_program_without_main/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/programming · community knowledge",
-      "content_type": "post",
-      "author": "u/iximiuz · r/programming",
-      "handle": "programming",
-      "org": "r/programming",
-      "platform": "reddit",
-      "published": "2026-07-25T13:50:28.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Coding & Dev Tools",
-      "category": "Coding & Dev Tools",
-      "genre": "Coding & Dev Tools",
-      "categories": [
-        "Reddit",
-        "Coding & Dev Tools",
-        "r/programming"
-      ],
-      "summary": "Writing a (valid) C program without main()",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/programming this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v67ohp",
-      "title": "[Sebastian Lague] - I Tried Coding my own Graphics Library",
-      "link": "https://www.reddit.com/r/programming/comments/1v67ohp/sebastian_lague_i_tried_coding_my_own_graphics/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/programming · community knowledge",
-      "content_type": "post",
-      "author": "u/Pink401k · r/programming",
-      "handle": "programming",
-      "org": "r/programming",
-      "platform": "reddit",
-      "published": "2026-07-25T12:55:58.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Coding & Dev Tools",
-      "category": "Coding & Dev Tools",
-      "genre": "Coding & Dev Tools",
-      "categories": [
-        "Reddit",
-        "Coding & Dev Tools",
-        "r/programming"
-      ],
-      "summary": "[Sebastian Lague] - I Tried Coding my own Graphics Library",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/programming this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v61u3c",
-      "title": "Neutral grip is a game changer in unlocking pullup potential",
-      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1v61u3c/neutral_grip_is_a_game_changer_in_unlocking/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/bodyweightfitness · community knowledge",
-      "content_type": "post",
-      "author": "u/karl_ae · r/bodyweightfitness",
-      "handle": "bodyweightfitness",
-      "org": "r/bodyweightfitness",
-      "platform": "reddit",
-      "published": "2026-07-25T07:45:21.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/bodyweightfitness"
-      ],
-      "summary": "I&#39;ve always been a fan of pull-ups, but neither regular pull-ups nor chin-ups ever felt natural on my elbows. The way they force your arms into too much internal or external rotation just never sat right. Ring pull-ups always felt great, but setting the rings up is a hassle so I almost never did them. Then I…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/bodyweightfitness this week"
       ],
       "metrics": {
         "likes": 0,
