@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-29T17:53:03.340Z",
+  "generated_at": "2026-07-29T19:25:24.923Z",
   "subs": [
     "MachineLearning",
-    "artificial",
-    "running",
-    "investing",
+    "longevity",
+    "hardware",
     "Futurology",
     "Fitness",
+    "running",
     "bodyweightfitness",
     "gadgets",
     "programming",
+    "artificial",
     "robotics",
     "cybersecurity",
     "LocalLLaMA",
     "netsec",
     "science",
     "startups",
-    "nutrition",
-    "longevity",
-    "hardware"
+    "investing",
+    "nutrition"
   ],
   "count": 36,
   "by_category": {
-    "Science": 7,
-    "Fitness": 8,
+    "Science": 8,
+    "Fitness": 7,
     "Hardware & Gadgets": 3,
     "Coding & Dev Tools": 2,
     "AI / ML": 6,
@@ -978,6 +978,46 @@
       }
     },
     {
+      "id": "reddit_1v72oae",
+      "title": "Egg Intake and the Incidence of Alzheimer’s Disease in the Adventist Health Study-2 Cohort Linked with Medicare Data",
+      "link": "https://www.reddit.com/r/longevity/comments/1v72oae/egg_intake_and_the_incidence_of_alzheimers/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/longevity · community knowledge",
+      "content_type": "post",
+      "author": "u/Eonobius · r/longevity",
+      "handle": "longevity",
+      "org": "r/longevity",
+      "platform": "reddit",
+      "published": "2026-07-26T12:34:14.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Science",
+      "category": "Science",
+      "genre": "Longevity",
+      "categories": [
+        "Reddit",
+        "Science",
+        "Longevity",
+        "r/longevity"
+      ],
+      "summary": "Egg Intake and the Incidence of Alzheimer’s Disease in the Adventist Health Study-2 Cohort Linked with Medicare Data",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/longevity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1v70u60",
       "title": "Pope's official prayer app commits cardinal sin, leaks 700K+ users' info",
       "link": "https://www.reddit.com/r/cybersecurity/comments/1v70u60/popes_official_prayer_app_commits_cardinal_sin/",
@@ -1402,46 +1442,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/robotics this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v6etx5",
-      "title": "When you see \"high protein\" on a food package, such as cookies or bars, etc , what is the first thing that comes to your mind, and why?",
-      "link": "https://www.reddit.com/r/nutrition/comments/1v6etx5/when_you_see_high_protein_on_a_food_package_such/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/nutrition · community knowledge",
-      "content_type": "post",
-      "author": "u/InfluenceTechnical91 · r/nutrition",
-      "handle": "nutrition",
-      "org": "r/nutrition",
-      "platform": "reddit",
-      "published": "2026-07-25T17:45:35.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Nutrition",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "Nutrition",
-        "r/nutrition"
-      ],
-      "summary": "I&#39;m interested in understanding how people interpret nutrition claims on food products &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/nutrition this week"
       ],
       "metrics": {
         "likes": 0,
