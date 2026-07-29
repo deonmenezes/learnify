@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-29T04:24:11.596Z",
+  "generated_at": "2026-07-29T07:25:07.510Z",
   "subs": [
     "MachineLearning",
     "LocalLLaMA",
-    "bodyweightfitness",
+    "running",
     "startups",
     "artificial",
     "cybersecurity",
@@ -14,18 +14,18 @@
     "longevity",
     "hardware",
     "robotics",
-    "running",
     "programming",
     "gadgets",
+    "bodyweightfitness",
     "singularity"
   ],
   "count": 36,
   "by_category": {
-    "AI / ML": 9,
+    "AI / ML": 10,
     "Security": 4,
-    "Science": 4,
-    "Startups & Funding": 6,
-    "Fitness": 6,
+    "Science": 3,
+    "Startups & Funding": 5,
+    "Fitness": 7,
     "Hardware & Gadgets": 2,
     "Robotics": 2,
     "Coding & Dev Tools": 3
@@ -301,6 +301,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/startups this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v7qpxb",
+      "title": "Li'l Race Report Thread",
+      "link": "https://www.reddit.com/r/running/comments/1v7qpxb/lil_race_report_thread/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/running · community knowledge",
+      "content_type": "post",
+      "author": "u/AutoModerator · r/running",
+      "handle": "running",
+      "org": "r/running",
+      "platform": "reddit",
+      "published": "2026-07-27T05:01:14.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/running"
+      ],
+      "summary": "The Li’l Race Report Thread is for writing a short report on a recent race or a run in a new place. If your race doesn’t really need its own thread but you still want to talk about it, then post it here! Both your good and bad races are welcome. Didn&#39;t run a race, but had an interesting run to talk about. Post it…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/running this week"
       ],
       "metrics": {
         "likes": 0,
@@ -618,6 +657,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/robotics this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v6w394",
+      "title": "I implemented the YOLO26n model inference from scratch using ARM64 Assembly Language (No framework) [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v6w394/i_implemented_the_yolo26n_model_inference_from/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/MachineLearning · community knowledge",
+      "content_type": "post",
+      "author": "u/Forward_Confusion902 · r/MachineLearning",
+      "handle": "MachineLearning",
+      "org": "r/MachineLearning",
+      "platform": "reddit",
+      "published": "2026-07-26T06:43:11.000Z",
+      "image": "https://preview.redd.it/wiyelkfpsifh1.jpeg?width=640&crop=smart&auto=webp&s=9ed353f6d1eab4c20efcaa110c0c5f642a6d6e99",
+      "thumbnail": "https://preview.redd.it/wiyelkfpsifh1.jpeg?width=640&crop=smart&auto=webp&s=9ed353f6d1eab4c20efcaa110c0c5f642a6d6e99",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/MachineLearning"
+      ],
+      "summary": "This was my Bachelor&#39;s Final Project: implementing YOLO26n inference completely from scratch using ARM64 Assembly Language and C, without relying on existing inference frameworks. The goal was to understand how modern neural network inference engines work at a low level and explore optimization techniques for…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/MachineLearning this week"
       ],
       "metrics": {
         "likes": 0,
@@ -980,6 +1059,46 @@
       }
     },
     {
+      "id": "reddit_1v6axx3",
+      "title": "Google comes out in favor of OpenWeight models. (It is now EVERY tech giant vs Anthropic)",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1v6axx3/google_comes_out_in_favor_of_openweight_models_it/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/LocalLLaMA · community knowledge",
+      "content_type": "post",
+      "author": "u/MysteryWra · r/LocalLLaMA",
+      "handle": "LocalLLaMA",
+      "org": "r/LocalLLaMA",
+      "platform": "reddit",
+      "published": "2026-07-25T15:12:42.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/LocalLLaMA"
+      ],
+      "summary": "Google comes out in favor of OpenWeight models. (It is now EVERY tech giant vs Anthropic)",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/LocalLLaMA this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1v6avha",
       "title": "Maybe weights are just the easy mode for getting strong?",
       "link": "https://www.reddit.com/r/bodyweightfitness/comments/1v6avha/maybe_weights_are_just_the_easy_mode_for_getting/",
@@ -1327,125 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/singularity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v5dh97",
-      "title": "Sacrificed Inca children died very differently than we thought. Inca boys and girls chosen for human sacrifice trekked through Inca communities for thousands of miles on sacred pilgrimages before their ritual deaths, often near high peaks in the Andes Mountains new research shows",
-      "link": "https://www.reddit.com/r/science/comments/1v5dh97/sacrificed_inca_children_died_very_differently/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/science · community knowledge",
-      "content_type": "post",
-      "author": "u/Wagamaga · r/science",
-      "handle": "science",
-      "org": "r/science",
-      "platform": "reddit",
-      "published": "2026-07-24T14:46:48.000Z",
-      "image": "https://external-preview.redd.it/7EKuPk4g0YPepQx204A_Zo7AoB1DgHhVe306bi_zEXU.jpeg?width=640&crop=smart&auto=webp&s=cc043cd569050565cff7ce386cb9fb9425960ed8",
-      "thumbnail": "https://external-preview.redd.it/7EKuPk4g0YPepQx204A_Zo7AoB1DgHhVe306bi_zEXU.jpeg?width=640&crop=smart&auto=webp&s=cc043cd569050565cff7ce386cb9fb9425960ed8",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/science"
-      ],
-      "summary": "Sacrificed Inca children died very differently than we thought. Inca boys and girls chosen for human sacrifice trekked through Inca communities for thousands of miles on sacred pilgrimages before their ritual deaths, often near high peaks in the Andes Mountains new research shows",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/science this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v5c3vt",
-      "title": "More than 20 companies including NVIDIA, Meta, Microsoft, Palantir, and Hugging Face have signed a letter urging policymakers to avoid premature restrictions on open weight models.",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1v5c3vt/more_than_20_companies_including_nvidia_meta/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/LocalLLaMA · community knowledge",
-      "content_type": "post",
-      "author": "u/etherd0t · r/LocalLLaMA",
-      "handle": "LocalLLaMA",
-      "org": "r/LocalLLaMA",
-      "platform": "reddit",
-      "published": "2026-07-24T13:55:23.000Z",
-      "image": "https://preview.redd.it/4yvf9z8xm6fh1.jpeg?width=640&crop=smart&auto=webp&s=268ac51182255d3c2a12f1562b616750fe340e19",
-      "thumbnail": "https://preview.redd.it/4yvf9z8xm6fh1.jpeg?width=640&crop=smart&auto=webp&s=268ac51182255d3c2a12f1562b616750fe340e19",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/LocalLLaMA"
-      ],
-      "summary": "The Open Letter was initiated by Microsoft and published today: “ Open Weights and American AI Leadership ”. It argues against broad or premature restrictions on open-weight models and explicitly says policymakers should distinguish legitimate model distillation from misappropriation. Notably absent from the…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/LocalLLaMA this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v5aj63",
-      "title": "I’ve had cash sitting uninvested for months because I can’t stop second guessing every decision",
-      "link": "https://www.reddit.com/r/investing/comments/1v5aj63/ive_had_cash_sitting_uninvested_for_months/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/investing · community knowledge",
-      "content_type": "post",
-      "author": "u/Lower-Organization-1 · r/investing",
-      "handle": "investing",
-      "org": "r/investing",
-      "platform": "reddit",
-      "published": "2026-07-24T12:52:18.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/investing"
-      ],
-      "summary": "Lately every investing decision feels harder than it should. I read one thread and want to stay fully passive. Then someone makes a convincing case for AI stocks, then recession posts show up everywhere, then crypto rallies again and suddenly I feel underexposed there too. Every week I convinced myself a different…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/investing this week"
       ],
       "metrics": {
         "likes": 0,

@@ -1,15 +1,267 @@
 {
-  "generated_at": "2026-07-29T04:21:58.388Z",
+  "generated_at": "2026-07-29T07:22:55.826Z",
   "handles": [
-    "nvidia",
-    "GoogleDeepMind",
     "AnthropicAI",
     "OpenAI",
+    "nvidia",
     "gdb",
+    "GoogleDeepMind",
     "elonmusk"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2082263717916586117",
+      "title": "We quietly released the open-source Codex Security CLI, but Hacker News found it before we had a chance to share it here... You can now use it to scan repositories, track findings across runs, verify…",
+      "link": "https://x.com/OpenAI/status/2082263717916586117",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-07-29T00:35:31.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product launch",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Product launch"
+      ],
+      "summary": "We quietly released the open-source Codex Security CLI, but Hacker News found it before we had a chance to share it here... You can now use it to scan repositories, track findings across runs, verify fixes, and add security checks to CI/CD. This is an early release, and we're",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 100,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "casual tone (this)",
+        "announcement language (release, released, you can now)",
+        "tech substance (open-source)",
+        "high engagement (7.7K likes)"
+      ],
+      "metrics": {
+        "likes": 7705,
+        "retweets": 663,
+        "replies": 263,
+        "likes_h": "7.7K"
+      },
+      "engagement": 9294,
+      "hot": true
+    },
+    {
+      "id": "x_2082228994653696371",
+      "title": "We support this petition, signed by our CEO, several co-founders, and senior staff. Our own research on recursive self-improvement, published last month, points to the need for tools to deliberately…",
+      "link": "https://x.com/AnthropicAI/status/2082228994653696371",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Anthropic · @AnthropicAI",
+      "handle": "AnthropicAI",
+      "org": "Anthropic",
+      "published": "2026-07-28T22:17:32.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "Anthropic",
+        "Research"
+      ],
+      "summary": "We support this petition, signed by our CEO, several co-founders, and senior staff. Our own research on recursive self-improvement, published last month, points to the need for tools to deliberately pace the frontier of AI development so society can prepare. We’re glad to see",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "casual tone (this)",
+        "tech substance (research)",
+        "high engagement (2.8K likes)"
+      ],
+      "metrics": {
+        "likes": 2762,
+        "retweets": 305,
+        "replies": 803,
+        "likes_h": "2.8K"
+      },
+      "engagement": 4175,
+      "hot": false
+    },
+    {
+      "id": "x_2082208694142730340",
+      "title": "At the core of our mission is working through how to ensure increasingly powerful AI benefits everyone. We believe that, at some point in the future, AI acceleration for frontier model development…",
+      "link": "https://x.com/OpenAI/status/2082208694142730340",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-07-28T20:56:52.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Product"
+      ],
+      "summary": "At the core of our mission is working through how to ensure increasingly powerful AI benefits everyone. We believe that, at some point in the future, AI acceleration for frontier model development may be so high that the world will need to pace the rate of AI advancement. We",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 74,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "tech substance (model)",
+        "high engagement (3.1K likes)"
+      ],
+      "metrics": {
+        "likes": 3061,
+        "retweets": 344,
+        "replies": 567,
+        "likes_h": "3.1K"
+      },
+      "engagement": 4316,
+      "hot": false
+    },
+    {
+      "id": "x_2082153297670992134",
+      "title": "New Anthropic research: Discovering cryptographic weaknesses with Claude. Claude Mythos Preview has helped our researchers find weaknesses in cryptographic algorithms—the mathematical methods that…",
+      "link": "https://x.com/AnthropicAI/status/2082153297670992134",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Anthropic · @AnthropicAI",
+      "handle": "AnthropicAI",
+      "org": "Anthropic",
+      "published": "2026-07-28T17:16:45.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "Anthropic",
+        "Research"
+      ],
+      "summary": "New Anthropic research: Discovering cryptographic weaknesses with Claude. Claude Mythos Preview has helped our researchers find weaknesses in cryptographic algorithms—the mathematical methods that are used to keep data private. Read more: https://anthropic.com/research/discovering-cryptographic-weaknesses",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 89,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (claude, research)",
+        "links to a source",
+        "high engagement (4.9K likes)"
+      ],
+      "metrics": {
+        "likes": 4895,
+        "retweets": 643,
+        "replies": 339,
+        "likes_h": "4.9K"
+      },
+      "engagement": 6520,
+      "hot": false
+    },
+    {
+      "id": "x_2082152074071228702",
+      "title": "Coding agents are helping scientists spend more time advancing research, taking on everything from routine maintenance and targeted optimization to complete redesigns and new systems. While agents…",
+      "link": "https://x.com/OpenAI/status/2082152074071228702",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-07-28T17:11:53.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Research"
+      ],
+      "summary": "Coding agents are helping scientists spend more time advancing research, taking on everything from routine maintenance and targeted optimization to complete redesigns and new systems. While agents can reliably execute on ambitious projects, researchers must still define the",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 83,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (agents, research)",
+        "high engagement (2.4K likes)"
+      ],
+      "metrics": {
+        "likes": 2404,
+        "retweets": 216,
+        "replies": 186,
+        "likes_h": "2.4K"
+      },
+      "engagement": 3022,
+      "hot": false
+    },
+    {
+      "id": "x_2082146058017321257",
+      "title": "We're opening applications for the OpenAI Student Collective—a program for undergraduate Campus Leads bringing AI innovation to their campuses. Campus Leads will work directly with OpenAI and receive…",
+      "link": "https://x.com/OpenAI/status/2082146058017321257",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-07-28T16:47:59.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Research"
+      ],
+      "summary": "We're opening applications for the OpenAI Student Collective—a program for undergraduate Campus Leads bringing AI innovation to their campuses. Campus Leads will work directly with OpenAI and receive hands-on training, funding, credits, swag, and access to a global community of",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 80,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "casual tone (swag)",
+        "tech substance (training)",
+        "business signal (funding)",
+        "high engagement (2.5K likes)"
+      ],
+      "metrics": {
+        "likes": 2514,
+        "retweets": 221,
+        "replies": 164,
+        "likes_h": "2.5K"
+      },
+      "engagement": 3120,
+      "hot": false
+    },
     {
       "id": "x_2082135368040886299",
       "title": "The Open Secure AI Alliance is growing, with more organizations contributing expertise to help safeguard software and agents. http://nvda.ws/4pD8Fc5",
@@ -124,16 +376,16 @@
         "report-worthy",
         "tech substance (models, weights)",
         "links to a source",
-        "high engagement (1.8K likes)"
+        "high engagement (8K likes)"
       ],
       "metrics": {
-        "likes": 1810,
-        "retweets": 257,
-        "replies": 528,
-        "likes_h": "1.8K"
+        "likes": 7962,
+        "retweets": 1020,
+        "replies": 2799,
+        "likes_h": "8K"
       },
-      "engagement": 2852,
-      "hot": false
+      "engagement": 12801,
+      "hot": true
     },
     {
       "id": "x_2081833350323720219",
@@ -164,15 +416,15 @@
       "sentiment_score": 0,
       "reasons": [
         "report-worthy",
-        "high engagement (1.2K likes)"
+        "high engagement (2.5K likes)"
       ],
       "metrics": {
-        "likes": 1249,
-        "retweets": 98,
-        "replies": 106,
-        "likes_h": "1.2K"
+        "likes": 2537,
+        "retweets": 203,
+        "replies": 196,
+        "likes_h": "2.5K"
       },
-      "engagement": 1551,
+      "engagement": 3139,
       "hot": false
     },
     {
@@ -207,15 +459,15 @@
         "announcement language (now available)",
         "tech substance (gpt)",
         "business signal (enterprise)",
-        "high engagement (1.4K likes)"
+        "high engagement (2.2K likes)"
       ],
       "metrics": {
-        "likes": 1428,
-        "retweets": 97,
-        "replies": 132,
-        "likes_h": "1.4K"
+        "likes": 2225,
+        "retweets": 158,
+        "replies": 171,
+        "likes_h": "2.2K"
       },
-      "engagement": 1754,
+      "engagement": 2712,
       "hot": false
     },
     {
@@ -423,7 +675,7 @@
         "likes_h": "3.4K"
       },
       "engagement": 4463,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2080833379197477226",
@@ -838,7 +1090,7 @@
         "likes_h": "4.6K"
       },
       "engagement": 5855,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2080326297260072992",
@@ -1001,7 +1253,7 @@
         "likes_h": "2.2K"
       },
       "engagement": 2962,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2079758604656316619",
@@ -1084,254 +1336,6 @@
         "likes_h": "288"
       },
       "engagement": 381,
-      "hot": false
-    },
-    {
-      "id": "x_2079709298784088470",
-      "title": "Already at #SIGGRAPH2026? Keep your camera handy. Check out the giveaway below for your chance to take home an NVIDIA RTX PRO 6000 Workstation Edition GPU.",
-      "link": "https://x.com/nvidia/status/2079709298784088470",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-07-21T23:25:10.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product",
-        "SIGGRAPH2026"
-      ],
-      "summary": "Already at #SIGGRAPH2026? Keep your camera handy. Check out the giveaway below for your chance to take home an NVIDIA RTX PRO 6000 Workstation Edition GPU.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 69,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (gpu)"
-      ],
-      "metrics": {
-        "likes": 178,
-        "retweets": 14,
-        "replies": 14,
-        "likes_h": "178"
-      },
-      "engagement": 220,
-      "hot": false
-    },
-    {
-      "id": "x_2079699527888404973",
-      "title": "The AI era runs on servers. More of those servers are built in Texas. Today, NVIDIA CEO Jensen Huang joined Wistron Chairman Simon Lin in Fort Worth to open Wistron’s first U.S. facility, producing…",
-      "link": "https://x.com/nvidia/status/2079699527888404973",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-07-21T22:46:21.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product"
-      ],
-      "summary": "The AI era runs on servers. More of those servers are built in Texas. Today, NVIDIA CEO Jensen Huang joined Wistron Chairman Simon Lin in Fort Worth to open Wistron’s first U.S. facility, producing Grace Blackwell compute boards, with Vera Rubin next.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 75,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "tech substance (blackwell)"
-      ],
-      "metrics": {
-        "likes": 274,
-        "retweets": 47,
-        "replies": 15,
-        "likes_h": "274"
-      },
-      "engagement": 383,
-      "hot": false
-    },
-    {
-      "id": "x_2079658951264920020",
-      "title": "We're partnering with @huggingface to investigate an unprecedented security incident. Cyber-capable OpenAI models compromised Hugging Face production during a benchmark evaluation. Sharing…",
-      "link": "https://x.com/OpenAI/status/2079658951264920020",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-07-21T20:05:06.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Research"
-      ],
-      "summary": "We're partnering with @huggingface to investigate an unprecedented security incident. Cyber-capable OpenAI models compromised Hugging Face production during a benchmark evaluation. Sharing preliminary findings to help defenders understand emerging risks:",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 93,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (models, benchmark)",
-        "business signal (partnering)",
-        "high engagement (20.7K likes)"
-      ],
-      "metrics": {
-        "likes": 20746,
-        "retweets": 3232,
-        "replies": 1993,
-        "likes_h": "20.7K"
-      },
-      "engagement": 29203,
-      "hot": true
-    },
-    {
-      "id": "x_2079653801502380543",
-      "title": "It even outperforms 3 Flash on many agentic and coding benchmarks. 3.5 Flash-Lite is rolling out in the @GeminiApp and @Google Search, with API access in @GoogleAIStudio and @AndroidStudio. Find out…",
-      "link": "https://x.com/GoogleDeepMind/status/2079653801502380543",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Google DeepMind · @GoogleDeepMind",
-      "handle": "GoogleDeepMind",
-      "org": "Google",
-      "published": "2026-07-21T19:44:39.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product launch",
-      "categories": [
-        "X",
-        "Google",
-        "Product launch"
-      ],
-      "summary": "It even outperforms 3 Flash on many agentic and coding benchmarks. 3.5 Flash-Lite is rolling out in the @GeminiApp and @Google Search, with API access in @GoogleAIStudio and @AndroidStudio. Find out more → https://goo.gle/4yyNkoi",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 79,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "reply / conversation",
-        "announcement language (rolling out)",
-        "tech substance (api, benchmarks)",
-        "links to a source"
-      ],
-      "metrics": {
-        "likes": 56,
-        "retweets": 7,
-        "replies": 8,
-        "likes_h": "56"
-      },
-      "engagement": 78,
-      "hot": false
-    },
-    {
-      "id": "x_2079653799602368604",
-      "title": "Gemini 3.5 Flash-Lite is our fast, cost-effective model for scaling repetitive use cases like sorting tickets and extracting data. Watch how it performs against 3.5 Flash on a series of high volume…",
-      "link": "https://x.com/GoogleDeepMind/status/2079653799602368604",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Google DeepMind · @GoogleDeepMind",
-      "handle": "GoogleDeepMind",
-      "org": "Google",
-      "published": "2026-07-21T19:44:38.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "Google",
-        "Product"
-      ],
-      "summary": "Gemini 3.5 Flash-Lite is our fast, cost-effective model for scaling repetitive use cases like sorting tickets and extracting data. Watch how it performs against 3.5 Flash on a series of high volume tasks ↓",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 81,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "tech substance (model, gemini)"
-      ],
-      "metrics": {
-        "likes": 562,
-        "retweets": 51,
-        "replies": 51,
-        "likes_h": "562"
-      },
-      "engagement": 715,
-      "hot": false
-    },
-    {
-      "id": "x_2079647251677536324",
-      "title": "We’re sharing new research with @apolloaievals on reward-seeking—when models follow what they believe a grader rewards rather than what users or developers want—and a new method, Contrastive SDF, for…",
-      "link": "https://x.com/OpenAI/status/2079647251677536324",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-07-21T19:18:37.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Research"
-      ],
-      "summary": "We’re sharing new research with @apolloaievals on reward-seeking—when models follow what they believe a grader rewards rather than what users or developers want—and a new method, Contrastive SDF, for measuring how strongly such beliefs shape behavior. https://alignment.openai.com/measuring-reward-seeking/",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 89,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (models, research)",
-        "links to a source",
-        "high engagement (1.1K likes)"
-      ],
-      "metrics": {
-        "likes": 1135,
-        "retweets": 124,
-        "replies": 78,
-        "likes_h": "1.1K"
-      },
-      "engagement": 1461,
       "hot": false
     }
   ]
