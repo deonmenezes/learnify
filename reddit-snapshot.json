@@ -1,14 +1,15 @@
 {
-  "generated_at": "2026-07-29T10:13:46.390Z",
+  "generated_at": "2026-07-29T12:34:09.747Z",
   "subs": [
     "MachineLearning",
-    "programming",
-    "cybersecurity",
-    "artificial",
     "LocalLLaMA",
+    "bodyweightfitness",
+    "startups",
+    "programming",
+    "artificial",
+    "cybersecurity",
     "netsec",
     "science",
-    "startups",
     "running",
     "investing",
     "nutrition",
@@ -16,21 +17,59 @@
     "hardware",
     "robotics",
     "gadgets",
-    "bodyweightfitness",
     "singularity"
   ],
   "count": 36,
   "by_category": {
+    "Fitness": 8,
     "Coding & Dev Tools": 4,
-    "AI / ML": 9,
+    "AI / ML": 8,
     "Security": 4,
     "Science": 3,
     "Startups & Funding": 5,
-    "Fitness": 7,
     "Hardware & Gadgets": 2,
     "Robotics": 2
   },
   "articles": [
+    {
+      "id": "reddit_1v9ahm5",
+      "title": "Is there anyone here who has actually gotten rid of their manboobs?",
+      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1v9ahm5/is_there_anyone_here_who_has_actually_gotten_rid/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/bodyweightfitness · community knowledge",
+      "content_type": "post",
+      "author": "u/Salty_Cow_8741 · r/bodyweightfitness",
+      "handle": "bodyweightfitness",
+      "org": "r/bodyweightfitness",
+      "platform": "reddit",
+      "published": "2026-07-28T20:40:24.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/bodyweightfitness"
+      ],
+      "summary": "All those “successful” YouTube videos just don&#39;t inspire confidence in me... They look so muscular by default that I don&#39;t relate to them. I&#39;m an average adult who you might call “skinny fat.” In my case, my fat is concentrated around my hips, and recently, I&#39;ve noticed some “growth” in my chest, which…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/bodyweightfitness this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1v90z1b",
       "title": "A shell colon does nothing. Use it anyway. | Filip Roséen",
@@ -1405,46 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/cybersecurity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v5on2l",
-      "title": "White House offers its science blueprint: More AI, less life sciences. ‘Science: A New Golden Age’ report calls for shifting billions from universities to tech companies",
-      "link": "https://www.reddit.com/r/artificial/comments/1v5on2l/white_house_offers_its_science_blueprint_more_ai/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/artificial · community knowledge",
-      "content_type": "post",
-      "author": "u/esporx · r/artificial",
-      "handle": "artificial",
-      "org": "r/artificial",
-      "platform": "reddit",
-      "published": "2026-07-24T21:27:44.000Z",
-      "image": "https://external-preview.redd.it/uqouEwLsLl7icU1GPArNeY6cJd7nEb5gJES4up-xVIY.jpeg?width=640&crop=smart&auto=webp&s=c6a8e31971a8b03bb6bed61c957cad96c618c668",
-      "thumbnail": "https://external-preview.redd.it/uqouEwLsLl7icU1GPArNeY6cJd7nEb5gJES4up-xVIY.jpeg?width=640&crop=smart&auto=webp&s=c6a8e31971a8b03bb6bed61c957cad96c618c668",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/artificial"
-      ],
-      "summary": "White House offers its science blueprint: More AI, less life sciences. ‘Science: A New Golden Age’ report calls for shifting billions from universities to tech companies",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/artificial this week"
       ],
       "metrics": {
         "likes": 0,
