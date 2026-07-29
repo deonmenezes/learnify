@@ -1,36 +1,75 @@
 {
-  "generated_at": "2026-07-29T07:25:07.510Z",
+  "generated_at": "2026-07-29T10:13:46.390Z",
   "subs": [
     "MachineLearning",
-    "LocalLLaMA",
-    "running",
-    "startups",
-    "artificial",
+    "programming",
     "cybersecurity",
+    "artificial",
+    "LocalLLaMA",
     "netsec",
     "science",
+    "startups",
+    "running",
     "investing",
     "nutrition",
     "longevity",
     "hardware",
     "robotics",
-    "programming",
     "gadgets",
     "bodyweightfitness",
     "singularity"
   ],
   "count": 36,
   "by_category": {
-    "AI / ML": 10,
+    "Coding & Dev Tools": 4,
+    "AI / ML": 9,
     "Security": 4,
     "Science": 3,
     "Startups & Funding": 5,
     "Fitness": 7,
     "Hardware & Gadgets": 2,
-    "Robotics": 2,
-    "Coding & Dev Tools": 3
+    "Robotics": 2
   },
   "articles": [
+    {
+      "id": "reddit_1v90z1b",
+      "title": "A shell colon does nothing. Use it anyway. | Filip Roséen",
+      "link": "https://www.reddit.com/r/programming/comments/1v90z1b/a_shell_colon_does_nothing_use_it_anyway_filip/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/programming · community knowledge",
+      "content_type": "post",
+      "author": "u/f311a · r/programming",
+      "handle": "programming",
+      "org": "r/programming",
+      "platform": "reddit",
+      "published": "2026-07-28T14:59:49.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Coding & Dev Tools",
+      "category": "Coding & Dev Tools",
+      "genre": "Coding & Dev Tools",
+      "categories": [
+        "Reddit",
+        "Coding & Dev Tools",
+        "r/programming"
+      ],
+      "summary": "A shell colon does nothing. Use it anyway. | Filip Roséen",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/programming this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1v8ilsm",
       "title": "AI Companies Are Buying Antique Books, Ingesting Their Contents to Train Models, and Then Destroying Them at Incredible Scale, Even If Almost No Copies Remain",
@@ -1406,46 +1445,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/artificial this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v5mn72",
-      "title": "You can't outrun this dog",
-      "link": "https://www.reddit.com/r/singularity/comments/1v5mn72/you_cant_outrun_this_dog/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/singularity · community knowledge",
-      "content_type": "post",
-      "author": "u/HomeNowWTF · r/singularity",
-      "handle": "singularity",
-      "org": "r/singularity",
-      "platform": "reddit",
-      "published": "2026-07-24T20:14:33.000Z",
-      "image": "https://external-preview.redd.it/bXpoOTR3dW5qOGZoMcdflpYokuoIBuWwxW_hF9CdG_T6a_vYwgBrXqFLW1GQ.png?width=640&crop=smart&auto=webp&s=152bd01a9cb2d61accc99dd2db981ab460e44ce0",
-      "thumbnail": "https://external-preview.redd.it/bXpoOTR3dW5qOGZoMcdflpYokuoIBuWwxW_hF9CdG_T6a_vYwgBrXqFLW1GQ.png?width=640&crop=smart&auto=webp&s=152bd01a9cb2d61accc99dd2db981ab460e44ce0",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/singularity"
-      ],
-      "summary": "You can't outrun this dog",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/singularity this week"
       ],
       "metrics": {
         "likes": 0,
