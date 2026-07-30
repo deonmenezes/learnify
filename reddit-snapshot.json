@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-07-29T23:35:38.958Z",
+  "generated_at": "2026-07-30T02:41:08.065Z",
   "subs": [
     "MachineLearning",
-    "science",
-    "netsec",
-    "Futurology",
-    "Fitness",
+    "LocalLLaMA",
     "running",
+    "startups",
+    "Futurology",
+    "netsec",
+    "Fitness",
     "bodyweightfitness",
     "gadgets",
     "programming",
     "artificial",
     "robotics",
     "cybersecurity",
-    "LocalLLaMA",
-    "startups",
+    "science",
     "investing",
     "nutrition",
     "longevity",
@@ -22,14 +22,14 @@
   ],
   "count": 36,
   "by_category": {
-    "Science": 8,
+    "Science": 7,
     "Security": 5,
     "Fitness": 7,
+    "Startups & Funding": 5,
     "Hardware & Gadgets": 3,
     "Coding & Dev Tools": 1,
     "AI / ML": 6,
-    "Robotics": 2,
-    "Startups & Funding": 4
+    "Robotics": 2
   },
   "articles": [
     {
@@ -142,6 +142,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Fitness this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v9eeb9",
+      "title": "Founder wants me to build the entire commercial side of his startup. Is this compensation package fair? (I will not promote)",
+      "link": "https://www.reddit.com/r/startups/comments/1v9eeb9/founder_wants_me_to_build_the_entire_commercial/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/startups · community knowledge",
+      "content_type": "post",
+      "author": "u/StatisticianNo5356 · r/startups",
+      "handle": "startups",
+      "org": "r/startups",
+      "platform": "reddit",
+      "published": "2026-07-28T23:08:26.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/startups"
+      ],
+      "summary": "I’d really appreciate objective feedback from founders, startup executives, investors, startup attorneys, and anyone who’s negotiated executive compensation in an early-stage company. I’m considering joining an early-stage healthcare SaaS startup as its Chief Commercial Officer , and before finalizing everything I’d…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/startups this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1403,45 +1443,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/startups this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v6lf9g",
-      "title": "People with ADHD have difficulties with goal-directed behavior and struggle with response inhibition, the ability to stop an inappropriate action once they feel the urge to do it. They experience a disruption in the way their brains balance deliberate self-control and automatic habit learning.",
-      "link": "https://www.reddit.com/r/science/comments/1v6lf9g/people_with_adhd_have_difficulties_with/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/science · community knowledge",
-      "content_type": "post",
-      "author": "u/mvea · r/science",
-      "handle": "science",
-      "org": "r/science",
-      "platform": "reddit",
-      "published": "2026-07-25T22:06:13.000Z",
-      "image": "https://external-preview.redd.it/_kC4K_qwQ8NF6RRBnYN6D4FsZZvRsB0latWxaERHPQQ.jpeg?width=640&crop=smart&auto=webp&s=57f42e754424c79ba02a53391cb03233bacd9c5c",
-      "thumbnail": "https://external-preview.redd.it/_kC4K_qwQ8NF6RRBnYN6D4FsZZvRsB0latWxaERHPQQ.jpeg?width=640&crop=smart&auto=webp&s=57f42e754424c79ba02a53391cb03233bacd9c5c",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/science"
-      ],
-      "summary": "People with ADHD have difficulties with goal-directed behavior and struggle with response inhibition, the ability to stop an inappropriate action once they feel the urge to do it. They experience a disruption in the way their brains balance deliberate self-control and automatic habit learning.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/science this week"
       ],
       "metrics": {
         "likes": 0,
