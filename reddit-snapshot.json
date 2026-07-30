@@ -1,19 +1,20 @@
 {
-  "generated_at": "2026-07-30T05:48:10.823Z",
+  "generated_at": "2026-07-30T08:35:50.099Z",
   "subs": [
     "MachineLearning",
-    "LocalLLaMA",
-    "bodyweightfitness",
-    "startups",
+    "programming",
+    "SkincareAddiction",
     "Futurology",
     "netsec",
     "Fitness",
+    "startups",
     "running",
+    "bodyweightfitness",
     "gadgets",
-    "programming",
     "artificial",
     "robotics",
     "cybersecurity",
+    "LocalLLaMA",
     "science",
     "investing",
     "nutrition",
@@ -24,11 +25,12 @@
   "by_category": {
     "Science": 7,
     "Security": 5,
-    "Fitness": 8,
+    "Coding & Dev Tools": 2,
+    "Fitness": 7,
     "Startups & Funding": 4,
-    "Hardware & Gadgets": 3,
-    "Coding & Dev Tools": 1,
-    "AI / ML": 6,
+    "Hardware & Gadgets": 2,
+    "AI / ML": 5,
+    "Skincare": 2,
     "Robotics": 2
   },
   "articles": [
@@ -103,6 +105,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/netsec this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v9u8yw",
+      "title": "That time when I failed the Microsoft interview",
+      "link": "https://www.reddit.com/r/programming/comments/1v9u8yw/that_time_when_i_failed_the_microsoft_interview/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/programming · community knowledge",
+      "content_type": "post",
+      "author": "u/aochagavia · r/programming",
+      "handle": "programming",
+      "org": "r/programming",
+      "platform": "reddit",
+      "published": "2026-07-29T12:04:34.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Coding & Dev Tools",
+      "category": "Coding & Dev Tools",
+      "genre": "Coding & Dev Tools",
+      "categories": [
+        "Reddit",
+        "Coding & Dev Tools",
+        "r/programming"
+      ],
+      "summary": "That time when I failed the Microsoft interview",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/programming this week"
       ],
       "metrics": {
         "likes": 0,
@@ -495,6 +536,84 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Futurology this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v8u5jl",
+      "title": "[B&A] 6 Years on Tretinoin: Age 20 to 26",
+      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1v8u5jl/ba_6_years_on_tretinoin_age_20_to_26/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/SkincareAddiction · community knowledge",
+      "content_type": "post",
+      "author": "u/ofekgold · r/SkincareAddiction",
+      "handle": "SkincareAddiction",
+      "org": "r/SkincareAddiction",
+      "platform": "reddit",
+      "published": "2026-07-28T10:16:08.000Z",
+      "image": "https://preview.redd.it/usr9r43h4yfh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=b14e6e45a66c93a213aca7c37fb1dfd005be5034",
+      "thumbnail": "https://preview.redd.it/usr9r43h4yfh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=b14e6e45a66c93a213aca7c37fb1dfd005be5034",
+      "section": "Skincare",
+      "category": "Skincare",
+      "genre": "Skincare",
+      "categories": [
+        "Reddit",
+        "Skincare",
+        "r/SkincareAddiction"
+      ],
+      "summary": "Hey everyone, I started tretinoin 0.05% at 20, few years after finishing a course of Accutane as I noticed my acne was coming back and was looking for some solutions. That terrible condition my skin has reached has lead me to extensively research skincare and how to maintain my accutane results, that&#39;s how I…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/SkincareAddiction this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v8ln82",
+      "title": "[B&A] About 4 months on tret. Started on the 0.001% then changed to 0.025%",
+      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1v8ln82/ba_about_4_months_on_tret_started_on_the_0001/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/SkincareAddiction · community knowledge",
+      "content_type": "post",
+      "author": "u/incognitobeetl3 · r/SkincareAddiction",
+      "handle": "SkincareAddiction",
+      "org": "r/SkincareAddiction",
+      "platform": "reddit",
+      "published": "2026-07-28T02:51:26.000Z",
+      "image": "https://preview.redd.it/5w34c2u7xvfh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=f1610797031e7d8c34a86466594e3f54d1d3032e",
+      "thumbnail": "https://preview.redd.it/5w34c2u7xvfh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=f1610797031e7d8c34a86466594e3f54d1d3032e",
+      "section": "Skincare",
+      "category": "Skincare",
+      "genre": "Skincare",
+      "categories": [
+        "Reddit",
+        "Skincare",
+        "r/SkincareAddiction"
+      ],
+      "summary": "AM: medicubes blackhead cleansing oil to remove flakes Panoxyl 10% Cosrx 6 peptide skin booster Maree pore minimizing toner Good molecules Yerba mate eye gel Vanicream moisturizer SPF 50 PM: cleansing oil again for sunscreen and makeup Panoxyl Cosrx 6 peptide skin booster Beauty of joseon retinal under eye cream Good…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/SkincareAddiction this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1324,124 +1443,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/robotics this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v6w394",
-      "title": "I implemented the YOLO26n model inference from scratch using ARM64 Assembly Language (No framework) [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1v6w394/i_implemented_the_yolo26n_model_inference_from/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/MachineLearning · community knowledge",
-      "content_type": "post",
-      "author": "u/Forward_Confusion902 · r/MachineLearning",
-      "handle": "MachineLearning",
-      "org": "r/MachineLearning",
-      "platform": "reddit",
-      "published": "2026-07-26T06:43:11.000Z",
-      "image": "https://preview.redd.it/wiyelkfpsifh1.jpeg?width=640&crop=smart&auto=webp&s=9ed353f6d1eab4c20efcaa110c0c5f642a6d6e99",
-      "thumbnail": "https://preview.redd.it/wiyelkfpsifh1.jpeg?width=640&crop=smart&auto=webp&s=9ed353f6d1eab4c20efcaa110c0c5f642a6d6e99",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/MachineLearning"
-      ],
-      "summary": "This was my Bachelor&#39;s Final Project: implementing YOLO26n inference completely from scratch using ARM64 Assembly Language and C, without relying on existing inference frameworks. The goal was to understand how modern neural network inference engines work at a low level and explore optimization techniques for…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/MachineLearning this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v6vyo1",
-      "title": "Quitting my physical job next month, how do you actually spend a sudden surplus of recovery capacity?",
-      "link": "https://www.reddit.com/r/running/comments/1v6vyo1/quitting_my_physical_job_next_month_how_do_you/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/running · community knowledge",
-      "content_type": "post",
-      "author": "u/Quirky_Vast6917 · r/running",
-      "handle": "running",
-      "org": "r/running",
-      "platform": "reddit",
-      "published": "2026-07-26T06:36:06.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/running"
-      ],
-      "summary": "8 months into running, 55 km/week heading to 80. I&#39;m about to quit a physically brutal manual job, which frees up a lot of recovery capacity and time. I don&#39;t want to just dump it all into more volume. What did you actually do with the surplus? Context: M32, 78 kg / 174 cm. 8 months of structured running after…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/running this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v6tfgu",
-      "title": "Framework’s premium laptop is shipping with less RAM",
-      "link": "https://www.reddit.com/r/gadgets/comments/1v6tfgu/frameworks_premium_laptop_is_shipping_with_less/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/gadgets · community knowledge",
-      "content_type": "post",
-      "author": "u/dapperlemon · r/gadgets",
-      "handle": "gadgets",
-      "org": "r/gadgets",
-      "platform": "reddit",
-      "published": "2026-07-26T04:21:53.000Z",
-      "image": "https://external-preview.redd.it/j3K2SHtr5InrjhihADMnTN65i59CZ-_8owe4HeGagZg.jpeg?width=640&crop=smart&auto=webp&s=b9d376cb62d2a9fbebd5fbdab4bb19bd510bf219",
-      "thumbnail": "https://external-preview.redd.it/j3K2SHtr5InrjhihADMnTN65i59CZ-_8owe4HeGagZg.jpeg?width=640&crop=smart&auto=webp&s=b9d376cb62d2a9fbebd5fbdab4bb19bd510bf219",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/gadgets"
-      ],
-      "summary": "Framework’s premium laptop is shipping with less RAM",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/gadgets this week"
       ],
       "metrics": {
         "likes": 0,
