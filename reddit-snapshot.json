@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T15:36:44.711Z",
+  "generated_at": "2026-07-30T17:42:39.039Z",
   "subs": [
     "MachineLearning",
-    "programming",
-    "cybersecurity",
-    "Futurology",
+    "science",
     "netsec",
+    "Futurology",
+    "programming",
     "Fitness",
     "nutrition",
     "startups",
@@ -15,25 +15,104 @@
     "SkincareAddiction",
     "artificial",
     "robotics",
+    "cybersecurity",
     "LocalLLaMA",
-    "science",
     "investing",
     "longevity",
     "hardware"
   ],
   "count": 36,
   "by_category": {
+    "AI / ML": 5,
     "Science": 7,
     "Security": 5,
     "Coding & Dev Tools": 2,
     "Fitness": 8,
     "Startups & Funding": 4,
     "Hardware & Gadgets": 2,
-    "AI / ML": 5,
     "Skincare": 2,
     "Robotics": 1
   },
   "articles": [
+    {
+      "id": "reddit_1vawwb8",
+      "title": "I have lost three and a half potential PhD students due to the conference review process [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vawwb8/i_have_lost_three_and_a_half_potential_phd/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/MachineLearning · community knowledge",
+      "content_type": "post",
+      "author": "u/AffectionateLife5693 · r/MachineLearning",
+      "handle": "MachineLearning",
+      "org": "r/MachineLearning",
+      "platform": "reddit",
+      "published": "2026-07-30T15:30:29.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/MachineLearning"
+      ],
+      "summary": "Early-career Assistant Professor here. I identified some talented undergraduate students and worked with them on research problems, trying to convert them into either my PhD students or recommending them to my collaborators. Three said a hard no after going through the paper submission process. They are not interested…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1va1yj2",
+      "title": "Scientists Uncover Hundreds of Hidden Structures Beneath The Amazon. \"The scale of the archaeological record suggests that many other regions across Amazonia may have been far more densely populated and intensively modified than previously assumed.\"",
+      "link": "https://www.reddit.com/r/science/comments/1va1yj2/scientists_uncover_hundreds_of_hidden_structures/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/science · community knowledge",
+      "content_type": "post",
+      "author": "u/FreeHugs23 · r/science",
+      "handle": "science",
+      "org": "r/science",
+      "platform": "reddit",
+      "published": "2026-07-29T16:54:55.000Z",
+      "image": "https://external-preview.redd.it/MNli-8N95CT71BgXjKMRl1bpxwlIlKppWx3WZ4l8ixQ.jpeg?width=640&crop=smart&auto=webp&s=92fa5816cef875b7bab26e62e5fdefc9dd6789c2",
+      "thumbnail": "https://external-preview.redd.it/MNli-8N95CT71BgXjKMRl1bpxwlIlKppWx3WZ4l8ixQ.jpeg?width=640&crop=smart&auto=webp&s=92fa5816cef875b7bab26e62e5fdefc9dd6789c2",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/science"
+      ],
+      "summary": "Scientists Uncover Hundreds of Hidden Structures Beneath The Amazon. \"The scale of the archaeological record suggests that many other regions across Amazonia may have been far more densely populated and intensively modified than previously assumed.\"",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/science this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1v9x3or",
       "title": "85 Flock Surveillance Camera Contracts In 28 States Canceled - LAPD Also Won't Renew Their Contract",
@@ -1365,85 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/cybersecurity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v6ytlg",
-      "title": "I ran a faceless AI persona account for six weeks to see if the view money was real",
-      "link": "https://www.reddit.com/r/artificial/comments/1v6ytlg/i_ran_a_faceless_ai_persona_account_for_six_weeks/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/artificial · community knowledge",
-      "content_type": "post",
-      "author": "u/Mental-Telephone3496 · r/artificial",
-      "handle": "artificial",
-      "org": "r/artificial",
-      "platform": "reddit",
-      "published": "2026-07-26T09:16:31.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/artificial"
-      ],
-      "summary": "I wanted to know if the &quot;passive income&quot; faceless accounts were actually passive, or if they were just a new shape of gig work with AI middleware. So I built one from scratch and tracked every hour. The premise was simple: a single consistent character, generic lifestyle advice, short video clips, posted…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/artificial this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v6ypog",
-      "title": "Turns out Dead Internet Theory was right: AI agents are eating the Web, growing by nearly 8,000% and rewiring the Internet’s business model",
-      "link": "https://www.reddit.com/r/Futurology/comments/1v6ypog/turns_out_dead_internet_theory_was_right_ai/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/Futurology · community knowledge",
-      "content_type": "post",
-      "author": "u/Confident_Salt_8108 · r/Futurology",
-      "handle": "Futurology",
-      "org": "r/Futurology",
-      "platform": "reddit",
-      "published": "2026-07-26T09:10:37.000Z",
-      "image": "https://external-preview.redd.it/9EyKV8-TKkawmCuY3KsuWVJUHxDjzR1dtBZn3pWCQVo.jpeg?width=640&crop=smart&auto=webp&s=6a21a19ac6ac4fb95568b1de107ccd53a2d94758",
-      "thumbnail": "https://external-preview.redd.it/9EyKV8-TKkawmCuY3KsuWVJUHxDjzR1dtBZn3pWCQVo.jpeg?width=640&crop=smart&auto=webp&s=6a21a19ac6ac4fb95568b1de107ccd53a2d94758",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/Futurology"
-      ],
-      "summary": "Turns out Dead Internet Theory was right: AI agents are eating the Web, growing by nearly 8,000% and rewiring the Internet’s business model",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/Futurology this week"
       ],
       "metrics": {
         "likes": 0,
