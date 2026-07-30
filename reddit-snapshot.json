@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T21:18:08.923Z",
+  "generated_at": "2026-07-30T22:40:54.003Z",
   "subs": [
     "MachineLearning",
-    "LocalLLaMA",
-    "running",
-    "startups",
+    "singularity",
+    "SkincareAddiction",
     "investing",
+    "running",
     "science",
     "Futurology",
     "artificial",
@@ -13,24 +13,23 @@
     "programming",
     "Fitness",
     "nutrition",
+    "startups",
     "bodyweightfitness",
     "gadgets",
-    "SkincareAddiction",
     "robotics",
     "cybersecurity",
-    "longevity",
-    "hardware"
+    "LocalLLaMA"
   ],
   "count": 36,
   "by_category": {
-    "AI / ML": 6,
-    "Startups & Funding": 4,
-    "Fitness": 9,
-    "Science": 6,
+    "AI / ML": 8,
+    "Skincare": 4,
+    "Startups & Funding": 3,
+    "Fitness": 8,
+    "Science": 5,
     "Security": 4,
     "Coding & Dev Tools": 2,
-    "Hardware & Gadgets": 2,
-    "Skincare": 2,
+    "Hardware & Gadgets": 1,
     "Robotics": 1
   },
   "articles": [
@@ -67,6 +66,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vanjhr",
+      "title": "6 years of extreme sun protection [B&A]",
+      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1vanjhr/6_years_of_extreme_sun_protection_ba/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/SkincareAddiction · community knowledge",
+      "content_type": "post",
+      "author": "u/psychoactiveavocado · r/SkincareAddiction",
+      "handle": "SkincareAddiction",
+      "org": "r/SkincareAddiction",
+      "platform": "reddit",
+      "published": "2026-07-30T08:20:46.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Skincare",
+      "category": "Skincare",
+      "genre": "Skincare",
+      "categories": [
+        "Reddit",
+        "Skincare",
+        "r/SkincareAddiction"
+      ],
+      "summary": "First pic age 22, never used sunscreen or any type of skincare. Second pic I’m almost 29 and have practiced extreme sun protection for almost 7 years. Things I did: -max dose tretinoin daily 0.1% for all 6 years -azaelic acid &amp; vitamin c daily -Korean sunscreen every 2h strictly even when I am indoors (beauty of…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/SkincareAddiction this week"
       ],
       "metrics": {
         "likes": 0,
@@ -429,6 +467,45 @@
       }
     },
     {
+      "id": "reddit_1v9g3zh",
+      "title": "Acne and Ingrown hair help [ACNE]",
+      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1v9g3zh/acne_and_ingrown_hair_help_acne/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/SkincareAddiction · community knowledge",
+      "content_type": "post",
+      "author": "u/cinnamangos · r/SkincareAddiction",
+      "handle": "SkincareAddiction",
+      "org": "r/SkincareAddiction",
+      "platform": "reddit",
+      "published": "2026-07-29T00:18:30.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Skincare",
+      "category": "Skincare",
+      "genre": "Skincare",
+      "categories": [
+        "Reddit",
+        "Skincare",
+        "r/SkincareAddiction"
+      ],
+      "summary": "Hi folks, I am not asking for medical advice just routines that might help! I keep getting acne on my left boob on a specific area and i think it&#39;s ingrown hairs causing it and then i keep getting ingrown hairs everywhere! especially on my legs and arm! I exfoliate and everything what am i doing wrong please…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/SkincareAddiction this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1v9eeb9",
       "title": "Founder wants me to build the entire commercial side of his startup. Is this compensation package fair? (I will not promote)",
       "link": "https://www.reddit.com/r/startups/comments/1v9eeb9/founder_wants_me_to_build_the_entire_commercial/",
@@ -735,6 +812,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/netsec this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v8wt2e",
+      "title": "GPT-5, the world best model just 1 year ago, is today inferior to Qwen3.6 27B and most today’s low-tier models",
+      "link": "https://www.reddit.com/r/singularity/comments/1v8wt2e/gpt5_the_world_best_model_just_1_year_ago_is/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/singularity · community knowledge",
+      "content_type": "post",
+      "author": "u/zoratosthenes · r/singularity",
+      "handle": "singularity",
+      "org": "r/singularity",
+      "platform": "reddit",
+      "published": "2026-07-28T12:17:21.000Z",
+      "image": "https://preview.redd.it/qtjsnxm6qyfh1.jpeg?width=640&crop=smart&auto=webp&s=6568a44635ff7151f6f998ac546e7f115be65b60",
+      "thumbnail": "https://preview.redd.it/qtjsnxm6qyfh1.jpeg?width=640&crop=smart&auto=webp&s=6568a44635ff7151f6f998ac546e7f115be65b60",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/singularity"
+      ],
+      "summary": "GPT-5, the world best model just 1 year ago, is today inferior to Qwen3.6 27B and most today’s low-tier models",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/singularity this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1293,157 +1410,38 @@
       }
     },
     {
-      "id": "reddit_1v7aoxb",
-      "title": "Time to sell Disney after 5-6 years",
-      "link": "https://www.reddit.com/r/investing/comments/1v7aoxb/time_to_sell_disney_after_56_years/",
+      "id": "reddit_1v7birc",
+      "title": "AI Companies Are Buying Antique Books, Ingesting Their Contents to Train Models, and Then Destroying Them at Incredible Scale, Even If Almost No Copies Remain",
+      "link": "https://www.reddit.com/r/singularity/comments/1v7birc/ai_companies_are_buying_antique_books_ingesting/",
       "source": "Reddit",
       "source_id": "reddit",
       "region": "Community",
-      "focus": "r/investing · community knowledge",
+      "focus": "r/singularity · community knowledge",
       "content_type": "post",
-      "author": "u/BigBellyBelly · r/investing",
-      "handle": "investing",
-      "org": "r/investing",
+      "author": "u/Steap-Edit · r/singularity",
+      "handle": "singularity",
+      "org": "r/singularity",
       "platform": "reddit",
-      "published": "2026-07-26T17:44:29.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
+      "published": "2026-07-26T18:14:51.000Z",
+      "image": "https://external-preview.redd.it/1zddYYgo2NVM1vK4xG_tLq8IR3sX4GaAnLPlm_fVP-s.jpeg?width=640&crop=smart&auto=webp&s=27831607b1f00495aac04854a8799c9bfd98f0cc",
+      "thumbnail": "https://external-preview.redd.it/1zddYYgo2NVM1vK4xG_tLq8IR3sX4GaAnLPlm_fVP-s.jpeg?width=640&crop=smart&auto=webp&s=27831607b1f00495aac04854a8799c9bfd98f0cc",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
       "categories": [
         "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/investing"
+        "AI / ML",
+        "AI & Tech",
+        "r/singularity"
       ],
-      "summary": "It’s been 5-6 years guys and the stock hasn’t moved. No loss no gain just stay still. Lost opportunities. I could’ve used the money to invest elsewhere. Also loss due to inflation. I’m just going to sell at even and invest elsewhere, even NFLX may be better. &#32;",
+      "summary": "AI Companies Are Buying Antique Books, Ingesting Their Contents to Train Models, and Then Destroying Them at Incredible Scale, Even If Almost No Copies Remain",
       "is_social": true,
       "report_worthy": true,
       "worthiness_score": 62,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
-        "top of r/investing this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v79t4n",
-      "title": "How many grams of protein per kg of body weight is enough for muscle maintenance as an active adult?",
-      "link": "https://www.reddit.com/r/nutrition/comments/1v79t4n/how_many_grams_of_protein_per_kg_of_body_weight/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/nutrition · community knowledge",
-      "content_type": "post",
-      "author": "u/VastAir6069 · r/nutrition",
-      "handle": "nutrition",
-      "org": "r/nutrition",
-      "platform": "reddit",
-      "published": "2026-07-26T17:11:47.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Nutrition",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "Nutrition",
-        "r/nutrition"
-      ],
-      "summary": "Seeing so many conflicting answers to this from AI so thought I would ask here:) &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/nutrition this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v77rhz",
-      "title": "One Hallmark of Aging Was Thought to Be Irreversible. An Engineered Enzyme Just Reversed It in Human Tissue.",
-      "link": "https://www.reddit.com/r/longevity/comments/1v77rhz/one_hallmark_of_aging_was_thought_to_be/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/longevity · community knowledge",
-      "content_type": "post",
-      "author": "u/dan_in_ca · r/longevity",
-      "handle": "longevity",
-      "org": "r/longevity",
-      "platform": "reddit",
-      "published": "2026-07-26T15:57:16.000Z",
-      "image": "https://external-preview.redd.it/pX2WO2UBEwVwH_E03yAdO8mFVo0iWQnDvRk6yyv2R4o.png?width=640&crop=smart&auto=webp&s=25ab9f59306840b207b32be38e042a5d10187268",
-      "thumbnail": "https://external-preview.redd.it/pX2WO2UBEwVwH_E03yAdO8mFVo0iWQnDvRk6yyv2R4o.png?width=640&crop=smart&auto=webp&s=25ab9f59306840b207b32be38e042a5d10187268",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Longevity",
-      "categories": [
-        "Reddit",
-        "Science",
-        "Longevity",
-        "r/longevity"
-      ],
-      "summary": "One Hallmark of Aging Was Thought to Be Irreversible. An Engineered Enzyme Just Reversed It in Human Tissue.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/longevity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v76es8",
-      "title": "Huawei is building its own DRAM fab, and it could reshape RAM prices for everyone",
-      "link": "https://www.reddit.com/r/hardware/comments/1v76es8/huawei_is_building_its_own_dram_fab_and_it_could/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/hardware · community knowledge",
-      "content_type": "post",
-      "author": "u/sicklyslick · r/hardware",
-      "handle": "hardware",
-      "org": "r/hardware",
-      "platform": "reddit",
-      "published": "2026-07-26T15:06:32.000Z",
-      "image": "https://external-preview.redd.it/h4_STk-wdCcMxntfkljsow3FHmcFlhk1_99DrcxBIqI.png?width=640&crop=smart&auto=webp&s=529b4c06f1693e3f63cc5798d4af1973d9e04380",
-      "thumbnail": "https://external-preview.redd.it/h4_STk-wdCcMxntfkljsow3FHmcFlhk1_99DrcxBIqI.png?width=640&crop=smart&auto=webp&s=529b4c06f1693e3f63cc5798d4af1973d9e04380",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/hardware"
-      ],
-      "summary": "Huawei is building its own DRAM fab, and it could reshape RAM prices for everyone",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/hardware this week"
+        "top of r/singularity this week"
       ],
       "metrics": {
         "likes": 0,
