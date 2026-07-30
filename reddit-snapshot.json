@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-30T02:41:08.065Z",
+  "generated_at": "2026-07-30T05:48:10.823Z",
   "subs": [
     "MachineLearning",
     "LocalLLaMA",
-    "running",
+    "bodyweightfitness",
     "startups",
     "Futurology",
     "netsec",
     "Fitness",
-    "bodyweightfitness",
+    "running",
     "gadgets",
     "programming",
     "artificial",
@@ -24,8 +24,8 @@
   "by_category": {
     "Science": 7,
     "Security": 5,
-    "Fitness": 7,
-    "Startups & Funding": 5,
+    "Fitness": 8,
+    "Startups & Funding": 4,
     "Hardware & Gadgets": 3,
     "Coding & Dev Tools": 1,
     "AI / ML": 6,
@@ -779,6 +779,45 @@
       }
     },
     {
+      "id": "reddit_1v7x3nx",
+      "title": "Thighs got thicker from leg day and now press against my crotch – normal or bad exercises?",
+      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1v7x3nx/thighs_got_thicker_from_leg_day_and_now_press/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/bodyweightfitness · community knowledge",
+      "content_type": "post",
+      "author": "u/fresh_preserve · r/bodyweightfitness",
+      "handle": "bodyweightfitness",
+      "org": "r/bodyweightfitness",
+      "platform": "reddit",
+      "published": "2026-07-27T11:00:42.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/bodyweightfitness"
+      ],
+      "summary": "I’ve been consistently doing leg exercises for the past few months — mostly squats, lunges, and some other lower body work. My legs have gotten noticeably stronger, which is great, but I’ve also noticed that the muscles on the inner thighs have grown quite a bit. The extra bulk on both sides is now pressing against my…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/bodyweightfitness this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1v7t69i",
       "title": "What's the hardest part of getting your first 10 customers? I will not promote",
       "link": "https://www.reddit.com/r/startups/comments/1v7t69i/whats_the_hardest_part_of_getting_your_first_10/",
@@ -1403,46 +1442,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/gadgets this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v6qf5i",
-      "title": "Is YC losing prestige with all of the AI Wrappers it invests in? I will not promote",
-      "link": "https://www.reddit.com/r/startups/comments/1v6qf5i/is_yc_losing_prestige_with_all_of_the_ai_wrappers/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/startups · community knowledge",
-      "content_type": "post",
-      "author": "u/Comrendu · r/startups",
-      "handle": "startups",
-      "org": "r/startups",
-      "platform": "reddit",
-      "published": "2026-07-26T01:53:11.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/startups"
-      ],
-      "summary": "It seems that’s all it invests in, and they give mostly credits now which does not seem to be as effective in growing startups. It seems a lot of the ventures are extremely low effort and they promote that with some of their events. I’ve seen in some other places a similar idea of YC &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/startups this week"
       ],
       "metrics": {
         "likes": 0,
