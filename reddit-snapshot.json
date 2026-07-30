@@ -1,34 +1,34 @@
 {
-  "generated_at": "2026-07-30T17:42:39.039Z",
+  "generated_at": "2026-07-30T19:41:03.341Z",
   "subs": [
     "MachineLearning",
+    "artificial",
+    "running",
+    "investing",
     "science",
-    "netsec",
     "Futurology",
+    "netsec",
     "programming",
     "Fitness",
     "nutrition",
     "startups",
-    "running",
     "bodyweightfitness",
     "gadgets",
     "SkincareAddiction",
-    "artificial",
     "robotics",
     "cybersecurity",
     "LocalLLaMA",
-    "investing",
     "longevity",
     "hardware"
   ],
   "count": 36,
   "by_category": {
-    "AI / ML": 5,
-    "Science": 7,
-    "Security": 5,
-    "Coding & Dev Tools": 2,
-    "Fitness": 8,
+    "AI / ML": 6,
     "Startups & Funding": 4,
+    "Fitness": 9,
+    "Science": 6,
+    "Security": 4,
+    "Coding & Dev Tools": 2,
     "Hardware & Gadgets": 2,
     "Skincare": 2,
     "Robotics": 1
@@ -67,6 +67,85 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vakwym",
+      "title": "Does the Fed decision even matter if the 30-year stays above 5%?",
+      "link": "https://www.reddit.com/r/investing/comments/1vakwym/does_the_fed_decision_even_matter_if_the_30year/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/investing · community knowledge",
+      "content_type": "post",
+      "author": "u/FailOk1528 · r/investing",
+      "handle": "investing",
+      "org": "r/investing",
+      "platform": "reddit",
+      "published": "2026-07-30T05:53:20.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/investing"
+      ],
+      "summary": "The Fed held rates yesterday, but the 30-year Treasury still moved to around 5.23%, the highest level since 2007. Most of the discussion I’m seeing is still about whether the Fed hikes another 25bp in September. I’m starting to wonder how much that actually matters if long-term borrowing costs are already above 5%.…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/investing this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1va2i1r",
+      "title": "Insatiable appetite since I started running?",
+      "link": "https://www.reddit.com/r/running/comments/1va2i1r/insatiable_appetite_since_i_started_running/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/running · community knowledge",
+      "content_type": "post",
+      "author": "u/Head_Score2897 · r/running",
+      "handle": "running",
+      "org": "r/running",
+      "platform": "reddit",
+      "published": "2026-07-29T17:13:40.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/running"
+      ],
+      "summary": "Hi all! I (27F) am training for a half-marathon despite never really running before. I have my spurts of going to the gym but I&#39;ve never ran much or done consistent sports. Training has gone well so far, but I am SO hungry all the time. I&#39;m very intentional about eating a lot of protein and fiber, and I do eat…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/running this week"
       ],
       "metrics": {
         "likes": 0,
@@ -145,6 +224,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Futurology this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v9w62d",
+      "title": "OpenAI's rogue agent ran ~17,600 actions across Hugging Face's infrastructure over 4 days — and HF's own post-mortem is wild reading",
+      "link": "https://www.reddit.com/r/artificial/comments/1v9w62d/openais_rogue_agent_ran_17600_actions_across/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/artificial · community knowledge",
+      "content_type": "post",
+      "author": "u/soulbeddu · r/artificial",
+      "handle": "artificial",
+      "org": "r/artificial",
+      "platform": "reddit",
+      "published": "2026-07-29T13:25:55.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/artificial"
+      ],
+      "summary": "Hugging Face published a detailed post-mortem of the July incident where an OpenAI model being evaluated for cyber-offense capability escaped its test sandbox and ran a fully autonomous intrusion. A few things that stood out: - It escaped via a zero-day in a package-registry cache proxy, then used an exposed public…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/artificial this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1325,125 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/hardware this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v75bau",
-      "title": "Bought almost $30k of physical gold near the top.",
-      "link": "https://www.reddit.com/r/investing/comments/1v75bau/bought_almost_30k_of_physical_gold_near_the_top/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/investing · community knowledge",
-      "content_type": "post",
-      "author": "u/Haunting-Glove-6050 · r/investing",
-      "handle": "investing",
-      "org": "r/investing",
-      "platform": "reddit",
-      "published": "2026-07-26T14:24:21.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/investing"
-      ],
-      "summary": "28M Started buying physical gold earlier this year and, looking back, my timing couldn’t have been much worse. I put about €25.8k (\\~$29.4k) into ÖGUSSA gold bars and I’m down around 20% right now. I’m not planning to sell. I bought it as a long-term store of value, so the short-term price swings don’t really change…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/investing this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v72oae",
-      "title": "Egg Intake and the Incidence of Alzheimer’s Disease in the Adventist Health Study-2 Cohort Linked with Medicare Data",
-      "link": "https://www.reddit.com/r/longevity/comments/1v72oae/egg_intake_and_the_incidence_of_alzheimers/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/longevity · community knowledge",
-      "content_type": "post",
-      "author": "u/Eonobius · r/longevity",
-      "handle": "longevity",
-      "org": "r/longevity",
-      "platform": "reddit",
-      "published": "2026-07-26T12:34:14.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Science",
-      "category": "Science",
-      "genre": "Longevity",
-      "categories": [
-        "Reddit",
-        "Science",
-        "Longevity",
-        "r/longevity"
-      ],
-      "summary": "Egg Intake and the Incidence of Alzheimer’s Disease in the Adventist Health Study-2 Cohort Linked with Medicare Data",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/longevity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v70u60",
-      "title": "Pope's official prayer app commits cardinal sin, leaks 700K+ users' info",
-      "link": "https://www.reddit.com/r/cybersecurity/comments/1v70u60/popes_official_prayer_app_commits_cardinal_sin/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/cybersecurity · community knowledge",
-      "content_type": "post",
-      "author": "u/NISMO1968 · r/cybersecurity",
-      "handle": "cybersecurity",
-      "org": "r/cybersecurity",
-      "platform": "reddit",
-      "published": "2026-07-26T11:05:53.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/cybersecurity"
-      ],
-      "summary": "Pope's official prayer app commits cardinal sin, leaks 700K+ users' info",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/cybersecurity this week"
       ],
       "metrics": {
         "likes": 0,
