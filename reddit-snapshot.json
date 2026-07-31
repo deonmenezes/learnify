@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-31T17:09:49.924Z",
+  "generated_at": "2026-07-31T18:58:02.881Z",
   "subs": [
     "MachineLearning",
+    "artificial",
+    "running",
+    "investing",
     "programming",
-    "SkincareAddiction",
     "netsec",
     "science",
-    "investing",
-    "running",
+    "SkincareAddiction",
     "Futurology",
-    "artificial",
     "Fitness",
     "nutrition",
     "cybersecurity",
@@ -17,22 +17,61 @@
     "bodyweightfitness",
     "gadgets",
     "singularity",
-    "robotics",
-    "LocalLLaMA"
+    "robotics"
   ],
   "count": 36,
   "by_category": {
-    "Coding & Dev Tools": 3,
-    "Security": 6,
     "AI / ML": 8,
+    "Coding & Dev Tools": 3,
+    "Security": 5,
     "Science": 5,
     "Skincare": 4,
-    "Startups & Funding": 2,
+    "Startups & Funding": 3,
     "Fitness": 6,
     "Hardware & Gadgets": 1,
     "Robotics": 1
   },
   "articles": [
+    {
+      "id": "reddit_1vb3xwd",
+      "title": "MLVC: Multi-platform Learned Video Codec for Real-World Deployment [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vb3xwd/mlvc_multiplatform_learned_video_codec_for/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/MachineLearning · community knowledge",
+      "content_type": "post",
+      "author": "u/tanelai · r/MachineLearning",
+      "handle": "MachineLearning",
+      "org": "r/MachineLearning",
+      "platform": "reddit",
+      "published": "2026-07-30T19:40:56.000Z",
+      "image": "https://preview.redd.it/9qnhkw960fgh1.png?width=640&crop=smart&auto=webp&s=56e30d9b0ba2781439bd302e229d6a327259f795",
+      "thumbnail": "https://preview.redd.it/9qnhkw960fgh1.png?width=640&crop=smart&auto=webp&s=56e30d9b0ba2781439bd302e229d6a327259f795",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/MachineLearning"
+      ],
+      "summary": "I&#39;ve always found it a little strange that AI is everywhere, but the codecs we use in practice are the traditional hand-engineered systems like h.264, h.265, av1. Alexnet started the wave of neural networks replacing hand-engineered systems, but 14 years later traditional codecs still dominate in the real world.…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1vayhxm",
       "title": "Stacked pull requests are now in public preview - GitHub Changelog",
@@ -575,6 +614,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Fitness this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1v9kxum",
+      "title": "Yesterday most of the market actually went up.",
+      "link": "https://www.reddit.com/r/investing/comments/1v9kxum/yesterday_most_of_the_market_actually_went_up/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/investing · community knowledge",
+      "content_type": "post",
+      "author": "u/FailOk1528 · r/investing",
+      "handle": "investing",
+      "org": "r/investing",
+      "platform": "reddit",
+      "published": "2026-07-29T03:55:45.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/investing"
+      ],
+      "summary": "The Dow gained 537 points and the S&amp;P 500 finished slightly higher, while the Nasdaq fell. Coca-Cola, Sherwin-Williams and Illinois Tool Works all had strong days, but Micron, AMD and Applied Materials dropped around 8–9%. For years, one of the biggest complaints about the market was that too much of the index…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/investing this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1362,85 +1441,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/artificial this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v8364f",
-      "title": "Kimi K3 weights now released.",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1v8364f/kimi_k3_weights_now_released/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/LocalLLaMA · community knowledge",
-      "content_type": "post",
-      "author": "u/SavunOski · r/LocalLLaMA",
-      "handle": "LocalLLaMA",
-      "org": "r/LocalLLaMA",
-      "platform": "reddit",
-      "published": "2026-07-27T15:11:07.000Z",
-      "image": "https://preview.redd.it/nlw2mqk9gsfh1.jpeg?width=640&crop=smart&auto=webp&s=45fcb7df195400c006c65e9cde0c40c5436c40c6",
-      "thumbnail": "https://preview.redd.it/nlw2mqk9gsfh1.jpeg?width=640&crop=smart&auto=webp&s=45fcb7df195400c006c65e9cde0c40c5436c40c6",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/LocalLLaMA"
-      ],
-      "summary": "Kimi K3 weights are finally released! &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/LocalLLaMA this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v832a6",
-      "title": "Exploiting Volvo/Eicher’s fleet management platform to gain control over all users and vehicles",
-      "link": "https://www.reddit.com/r/netsec/comments/1v832a6/exploiting_volvoeichers_fleet_management_platform/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/netsec · community knowledge",
-      "content_type": "post",
-      "author": "u/EatonZ · r/netsec",
-      "handle": "netsec",
-      "org": "r/netsec",
-      "platform": "reddit",
-      "published": "2026-07-27T15:07:13.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/netsec"
-      ],
-      "summary": "Exploiting Volvo/Eicher’s fleet management platform to gain control over all users and vehicles",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/netsec this week"
       ],
       "metrics": {
         "likes": 0,
