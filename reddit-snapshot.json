@@ -1,36 +1,35 @@
 {
-  "generated_at": "2026-07-31T21:43:11.466Z",
+  "generated_at": "2026-07-31T23:08:23.415Z",
   "subs": [
     "MachineLearning",
-    "LocalLLaMA",
+    "Fitness",
+    "hardware",
     "bodyweightfitness",
-    "startups",
     "programming",
     "netsec",
     "science",
     "SkincareAddiction",
     "investing",
+    "LocalLLaMA",
     "running",
     "Futurology",
     "artificial",
-    "Fitness",
     "nutrition",
     "cybersecurity",
+    "startups",
     "gadgets",
-    "singularity",
-    "robotics"
+    "singularity"
   ],
   "count": 36,
   "by_category": {
     "Fitness": 7,
-    "AI / ML": 8,
+    "AI / ML": 7,
+    "Hardware & Gadgets": 3,
     "Coding & Dev Tools": 3,
     "Security": 4,
     "Science": 5,
     "Skincare": 4,
-    "Startups & Funding": 3,
-    "Hardware & Gadgets": 1,
-    "Robotics": 1
+    "Startups & Funding": 3
   },
   "articles": [
     {
@@ -105,6 +104,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vaz2c7",
+      "title": "Nvidia GPUs see yet another price hike of up to 30 percent, as the generative AI hardware crisis worsens",
+      "link": "https://www.reddit.com/r/hardware/comments/1vaz2c7/nvidia_gpus_see_yet_another_price_hike_of_up_to/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/hardware · community knowledge",
+      "content_type": "post",
+      "author": "u/krumpfwylg · r/hardware",
+      "handle": "hardware",
+      "org": "r/hardware",
+      "platform": "reddit",
+      "published": "2026-07-30T16:47:55.000Z",
+      "image": "https://external-preview.redd.it/frsAjY35KpvyyiYsAl1-gZ5h454myVmJ-O3miW8XR7M.png?width=640&crop=smart&auto=webp&s=6b809a257d8aeb3f9e8805c5c53690c3de4c394e",
+      "thumbnail": "https://external-preview.redd.it/frsAjY35KpvyyiYsAl1-gZ5h454myVmJ-O3miW8XR7M.png?width=640&crop=smart&auto=webp&s=6b809a257d8aeb3f9e8805c5c53690c3de4c394e",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/hardware"
+      ],
+      "summary": "Nvidia GPUs see yet another price hike of up to 30 percent, as the generative AI hardware crisis worsens",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/hardware this week"
       ],
       "metrics": {
         "likes": 0,
@@ -341,6 +379,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/investing this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vaid0k",
+      "title": "Most Redditors have no idea how the DRAM market works",
+      "link": "https://www.reddit.com/r/hardware/comments/1vaid0k/most_redditors_have_no_idea_how_the_dram_market/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/hardware · community knowledge",
+      "content_type": "post",
+      "author": "u/SuddenFlatworm7971 · r/hardware",
+      "handle": "hardware",
+      "org": "r/hardware",
+      "platform": "reddit",
+      "published": "2026-07-30T03:42:07.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/hardware"
+      ],
+      "summary": "Most Redditors have no idea how the DRAM market works, they just regurgitate the misinformation they have heard ever since the price crisis began with the AI Capex increase. The amount of flat out wrong information circulating that directly contradicts the very basics of how businesses and DRAM market functions is…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/hardware this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1363,85 +1440,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/SkincareAddiction this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v8ilsm",
-      "title": "AI Companies Are Buying Antique Books, Ingesting Their Contents to Train Models, and Then Destroying Them at Incredible Scale, Even If Almost No Copies Remain",
-      "link": "https://www.reddit.com/r/artificial/comments/1v8ilsm/ai_companies_are_buying_antique_books_ingesting/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/artificial · community knowledge",
-      "content_type": "post",
-      "author": "u/pepoji · r/artificial",
-      "handle": "artificial",
-      "org": "r/artificial",
-      "platform": "reddit",
-      "published": "2026-07-28T00:37:15.000Z",
-      "image": "https://external-preview.redd.it/1zddYYgo2NVM1vK4xG_tLq8IR3sX4GaAnLPlm_fVP-s.jpeg?width=640&crop=smart&auto=webp&s=27831607b1f00495aac04854a8799c9bfd98f0cc",
-      "thumbnail": "https://external-preview.redd.it/1zddYYgo2NVM1vK4xG_tLq8IR3sX4GaAnLPlm_fVP-s.jpeg?width=640&crop=smart&auto=webp&s=27831607b1f00495aac04854a8799c9bfd98f0cc",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/artificial"
-      ],
-      "summary": "Source AI companies are literally destroying physical books to train their models. Using hydraulic cutting machines, they rip pages from used books, scan them with industrial equipment, and feed them into their AI systems. This practice, protected by the first-sale doctrine and fair use, has now become so widespread…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/artificial this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v8eivl",
-      "title": "My robot project so far",
-      "link": "https://www.reddit.com/r/robotics/comments/1v8eivl/my_robot_project_so_far/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/robotics · community knowledge",
-      "content_type": "post",
-      "author": "u/Sector07_en · r/robotics",
-      "handle": "robotics",
-      "org": "r/robotics",
-      "platform": "reddit",
-      "published": "2026-07-27T21:53:41.000Z",
-      "image": "https://preview.redd.it/huwwyvq2gufh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=09376c1e659e81d057ed07d3c663c12f512989c7",
-      "thumbnail": "https://preview.redd.it/huwwyvq2gufh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=09376c1e659e81d057ed07d3c663c12f512989c7",
-      "section": "Robotics",
-      "category": "Robotics",
-      "genre": "Robotics",
-      "categories": [
-        "Reddit",
-        "Robotics",
-        "r/robotics"
-      ],
-      "summary": "Working to make a fun open source STEM robot for begginers. Uses a custom edge impulse object detection model to play &quot;fetch&quot;. Extras are the animated eyes, &quot;ears&quot;, voice, and programmed character behavior. Currently testing the model but looking forward to releasing it for everyone soon. &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/robotics this week"
       ],
       "metrics": {
         "likes": 0,

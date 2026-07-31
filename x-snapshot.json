@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-31T21:40:56.668Z",
+  "generated_at": "2026-07-31T23:06:09.497Z",
   "handles": [
-    "gdb",
     "nvidia",
     "GoogleDeepMind",
+    "gdb",
     "OpenAI",
     "elonmusk",
     "satyanadella",
@@ -11,6 +11,47 @@
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2083289093731934424",
+      "title": "🎙️ @StudyFetch made its largest AI inference workload nearly 10x less expensive with NVIDIA Riva, Parakeet ASR and NVIDIA NIM microservices. The gains support voice tutoring, real-time…",
+      "link": "https://x.com/nvidia/status/2083289093731934424",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-07-31T20:30:00.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "🎙️ @StudyFetch made its largest AI inference workload nearly 10x less expensive with NVIDIA Riva, Parakeet ASR and NVIDIA NIM microservices. The gains support voice tutoring, real-time personalization and a new agentic learning platform.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 84,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (inference, platform)",
+        "concrete metrics"
+      ],
+      "metrics": {
+        "likes": 61,
+        "retweets": 7,
+        "replies": 17,
+        "likes_h": "61"
+      },
+      "engagement": 92,
+      "hot": false
+    },
     {
       "id": "x_2082934294180221043",
       "title": "Physical AI is here—the next wave of AI and the foundation of the next industrial revolution. NVIDIA founder and CEO Jensen Huang outlines the full stack making it possible: Cosmos and Omniverse to…",
@@ -40,15 +81,15 @@
       "sentiment_score": 0,
       "reasons": [
         "report-worthy",
-        "high engagement (859 likes)"
+        "high engagement (1.2K likes)"
       ],
       "metrics": {
-        "likes": 859,
-        "retweets": 131,
-        "replies": 88,
-        "likes_h": "859"
+        "likes": 1201,
+        "retweets": 184,
+        "replies": 115,
+        "likes_h": "1.2K"
       },
-      "engagement": 1209,
+      "engagement": 1684,
       "hot": false
     },
     {
@@ -84,12 +125,12 @@
         "tech substance (model, gemini, robotics)"
       ],
       "metrics": {
-        "likes": 65,
+        "likes": 68,
         "retweets": 6,
-        "replies": 5,
-        "likes_h": "65"
+        "replies": 6,
+        "likes_h": "68"
       },
-      "engagement": 82,
+      "engagement": 86,
       "hot": false
     },
     {
@@ -123,15 +164,15 @@
         "report-worthy",
         "casual tone (this)",
         "tech substance (gemini, robotics)",
-        "high engagement (880 likes)"
+        "high engagement (1K likes)"
       ],
       "metrics": {
-        "likes": 880,
-        "retweets": 119,
-        "replies": 49,
-        "likes_h": "880"
+        "likes": 1007,
+        "retweets": 134,
+        "replies": 57,
+        "likes_h": "1K"
       },
-      "engagement": 1167,
+      "engagement": 1332,
       "hot": false
     },
     {
@@ -293,15 +334,15 @@
         "casual tone (thank you, incredible)",
         "tech substance (model, open weights, weights)",
         "business signal (partnership)",
-        "high engagement (759 likes)"
+        "high engagement (830 likes)"
       ],
       "metrics": {
-        "likes": 759,
-        "retweets": 108,
-        "replies": 65,
-        "likes_h": "759"
+        "likes": 830,
+        "retweets": 120,
+        "replies": 67,
+        "likes_h": "830"
       },
-      "engagement": 1040,
+      "engagement": 1137,
       "hot": false
     },
     {
@@ -335,15 +376,15 @@
         "report-worthy",
         "announcement language (launching)",
         "tech substance (gemini, robotics)",
-        "high engagement (4.4K likes)"
+        "high engagement (4.7K likes)"
       ],
       "metrics": {
-        "likes": 4423,
-        "retweets": 692,
-        "replies": 237,
-        "likes_h": "4.4K"
+        "likes": 4727,
+        "retweets": 742,
+        "replies": 263,
+        "likes_h": "4.7K"
       },
-      "engagement": 6044,
+      "engagement": 6474,
       "hot": false
     },
     {
@@ -885,11 +926,11 @@
       ],
       "metrics": {
         "likes": 419,
-        "retweets": 56,
+        "retweets": 55,
         "replies": 34,
         "likes_h": "419"
       },
-      "engagement": 565,
+      "engagement": 563,
       "hot": false
     },
     {
@@ -925,12 +966,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 307,
-        "retweets": 33,
+        "likes": 308,
+        "retweets": 32,
         "replies": 47,
-        "likes_h": "307"
+        "likes_h": "308"
       },
-      "engagement": 420,
+      "engagement": 419,
       "hot": false
     },
     {
@@ -1088,15 +1129,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (research)",
-        "high engagement (743 likes)"
+        "high engagement (744 likes)"
       ],
       "metrics": {
-        "likes": 743,
+        "likes": 744,
         "retweets": 107,
         "replies": 76,
-        "likes_h": "743"
+        "likes_h": "744"
       },
-      "engagement": 1033,
+      "engagement": 1034,
       "hot": false
     },
     {
@@ -1306,47 +1347,6 @@
         "likes_h": "1.8K"
       },
       "engagement": 2536,
-      "hot": false
-    },
-    {
-      "id": "x_2080788131062641095",
-      "title": "Korea has long been a technology leader, with the talent, industrial strength, and drive to help shape the AI era. President Lee Jae Myung met with our CEO @JensenHuang today ahead of the San…",
-      "link": "https://x.com/nvidia/status/2080788131062641095",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-07-24T22:52:04.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Commentary"
-      ],
-      "summary": "Korea has long been a technology leader, with the talent, industrial strength, and drive to help shape the AI era. President Lee Jae Myung met with our CEO @JensenHuang today ahead of the San Francisco AI Summit to discuss deepening the partnership behind Korea’s national AI",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 81,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "business signal (partnership)",
-        "high engagement (1.4K likes)"
-      ],
-      "metrics": {
-        "likes": 1450,
-        "retweets": 218,
-        "replies": 70,
-        "likes_h": "1.4K"
-      },
-      "engagement": 1956,
       "hot": false
     }
   ]
