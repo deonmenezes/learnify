@@ -1,10 +1,9 @@
 {
-  "generated_at": "2026-07-31T15:05:52.194Z",
+  "generated_at": "2026-07-31T17:09:49.924Z",
   "subs": [
     "MachineLearning",
-    "singularity",
-    "SkincareAddiction",
     "programming",
+    "SkincareAddiction",
     "netsec",
     "science",
     "investing",
@@ -17,6 +16,7 @@
     "startups",
     "bodyweightfitness",
     "gadgets",
+    "singularity",
     "robotics",
     "LocalLLaMA"
   ],
@@ -24,8 +24,8 @@
   "by_category": {
     "Coding & Dev Tools": 3,
     "Security": 6,
-    "AI / ML": 7,
-    "Science": 6,
+    "AI / ML": 8,
+    "Science": 5,
     "Skincare": 4,
     "Startups & Funding": 2,
     "Fitness": 6,
@@ -1133,6 +1133,46 @@
       }
     },
     {
+      "id": "reddit_1v8r7ab",
+      "title": "Are single GPU research still published in ML/DL and its applications nowadays? Which are the most notable recent ones? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1v8r7ab/are_single_gpu_research_still_published_in_mldl/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/MachineLearning · community knowledge",
+      "content_type": "post",
+      "author": "u/KingMakerMan · r/MachineLearning",
+      "handle": "MachineLearning",
+      "org": "r/MachineLearning",
+      "platform": "reddit",
+      "published": "2026-07-28T07:33:05.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/MachineLearning"
+      ],
+      "summary": "ML research is progressing at breakneck speed where frontier labs in both academia and industry have access to considerably large computes (GPUs). Where do small labs or independent researchers go in this context? Have you come across recent works in ML/DL and its applications (vision, language, speech, etc) where the…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1v8ln82",
       "title": "[B&A] About 4 months on tret. Started on the 0.001% then changed to 0.025%",
       "link": "https://www.reddit.com/r/SkincareAddiction/comments/1v8ln82/ba_about_4_months_on_tret_started_on_the_0001/",
@@ -1401,45 +1441,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/netsec this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v82s43",
-      "title": "Study warns ocean oxygen loss is approaching an \"unsafe space\" with irreversible impacts",
-      "link": "https://www.reddit.com/r/science/comments/1v82s43/study_warns_ocean_oxygen_loss_is_approaching_an/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/science · community knowledge",
-      "content_type": "post",
-      "author": "u/sfgate · r/science",
-      "handle": "science",
-      "org": "r/science",
-      "platform": "reddit",
-      "published": "2026-07-27T14:57:10.000Z",
-      "image": "https://external-preview.redd.it/UsmJHeCH8BgSTUdkqJzm3jflYJAjxMY4prI1TYZtEU0.jpeg?width=640&crop=smart&auto=webp&s=8340f02ae6a0bbcf3402322fd891e99b923f8ca7",
-      "thumbnail": "https://external-preview.redd.it/UsmJHeCH8BgSTUdkqJzm3jflYJAjxMY4prI1TYZtEU0.jpeg?width=640&crop=smart&auto=webp&s=8340f02ae6a0bbcf3402322fd891e99b923f8ca7",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/science"
-      ],
-      "summary": "Study warns ocean oxygen loss is approaching an \"unsafe space\" with irreversible impacts",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/science this week"
       ],
       "metrics": {
         "likes": 0,
