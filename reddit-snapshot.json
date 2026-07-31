@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-31T10:10:33.866Z",
+  "generated_at": "2026-07-31T12:31:39.493Z",
   "subs": [
     "MachineLearning",
-    "Futurology",
-    "gadgets",
+    "science",
+    "netsec",
     "programming",
     "SkincareAddiction",
     "investing",
     "running",
-    "science",
+    "Futurology",
     "artificial",
-    "netsec",
     "Fitness",
     "nutrition",
     "cybersecurity",
     "startups",
     "bodyweightfitness",
+    "gadgets",
     "singularity",
     "robotics",
     "LocalLLaMA"
@@ -23,12 +23,12 @@
   "count": 36,
   "by_category": {
     "Coding & Dev Tools": 3,
+    "Security": 6,
     "AI / ML": 7,
+    "Science": 6,
     "Skincare": 4,
-    "Startups & Funding": 3,
-    "Fitness": 7,
-    "Science": 5,
-    "Security": 5,
+    "Startups & Funding": 2,
+    "Fitness": 6,
     "Hardware & Gadgets": 1,
     "Robotics": 1
   },
@@ -73,6 +73,45 @@
       }
     },
     {
+      "id": "reddit_1vax66g",
+      "title": "What Every Programmer Should Know About Twists of Elliptic Curves",
+      "link": "https://www.reddit.com/r/netsec/comments/1vax66g/what_every_programmer_should_know_about_twists_of/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/netsec · community knowledge",
+      "content_type": "post",
+      "author": "u/DataBaeBee · r/netsec",
+      "handle": "netsec",
+      "org": "r/netsec",
+      "platform": "reddit",
+      "published": "2026-07-30T15:40:21.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/netsec"
+      ],
+      "summary": "What Every Programmer Should Know About Twists of Elliptic Curves",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/netsec this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1vawwb8",
       "title": "I have lost three and a half potential PhD students due to the conference review process [D]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1vawwb8/i_have_lost_three_and_a_half_potential_phd/",
@@ -105,6 +144,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vaqgr3",
+      "title": "A political science paper has emerged comparing the political career of U.S. President Donald Trump to the narrative of Japan’s iconic monster, Godzilla. The study highlights parallels: both were summoned by human errors, wreak havoc indiscriminately, and return even after being seemingly defeated.",
+      "link": "https://www.reddit.com/r/science/comments/1vaqgr3/a_political_science_paper_has_emerged_comparing/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/science · community knowledge",
+      "content_type": "post",
+      "author": "u/mvea · r/science",
+      "handle": "science",
+      "org": "r/science",
+      "platform": "reddit",
+      "published": "2026-07-30T11:03:54.000Z",
+      "image": "https://external-preview.redd.it/L3gw6AgB67T1ZJ_zodVk1rizWGz3R5Bh2Fh-S7hWK84.jpeg?width=640&crop=smart&auto=webp&s=bab2003d539248aec48a8029403f1aad12f85477",
+      "thumbnail": "https://external-preview.redd.it/L3gw6AgB67T1ZJ_zodVk1rizWGz3R5Bh2Fh-S7hWK84.jpeg?width=640&crop=smart&auto=webp&s=bab2003d539248aec48a8029403f1aad12f85477",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/science"
+      ],
+      "summary": "A political science paper has emerged comparing the political career of U.S. President Donald Trump to the narrative of Japan’s iconic monster, Godzilla. The study highlights parallels: both were summoned by human errors, wreak havoc indiscriminately, and return even after being seemingly defeated.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/science this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1362,85 +1440,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/science this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v7x3nx",
-      "title": "Thighs got thicker from leg day and now press against my crotch – normal or bad exercises?",
-      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1v7x3nx/thighs_got_thicker_from_leg_day_and_now_press/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/bodyweightfitness · community knowledge",
-      "content_type": "post",
-      "author": "u/fresh_preserve · r/bodyweightfitness",
-      "handle": "bodyweightfitness",
-      "org": "r/bodyweightfitness",
-      "platform": "reddit",
-      "published": "2026-07-27T11:00:42.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/bodyweightfitness"
-      ],
-      "summary": "I’ve been consistently doing leg exercises for the past few months — mostly squats, lunges, and some other lower body work. My legs have gotten noticeably stronger, which is great, but I’ve also noticed that the muscles on the inner thighs have grown quite a bit. The extra bulk on both sides is now pressing against my…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/bodyweightfitness this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v7t69i",
-      "title": "What's the hardest part of getting your first 10 customers? I will not promote",
-      "link": "https://www.reddit.com/r/startups/comments/1v7t69i/whats_the_hardest_part_of_getting_your_first_10/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/startups · community knowledge",
-      "content_type": "post",
-      "author": "u/Inner_Dragonfly7388 · r/startups",
-      "handle": "startups",
-      "org": "r/startups",
-      "platform": "reddit",
-      "published": "2026-07-27T07:16:50.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/startups"
-      ],
-      "summary": "Everyone says the first 10 customers are the hardest. But what was the biggest challenge for you? Finding the right audience? Building trust? Pricing? Getting people to reply? Something else entirely? I&#39;d love to hear what actually worked (or didn&#39;t) for you. &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/startups this week"
       ],
       "metrics": {
         "likes": 0,

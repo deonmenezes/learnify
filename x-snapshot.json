@@ -1,16 +1,56 @@
 {
-  "generated_at": "2026-07-31T10:08:19.958Z",
+  "generated_at": "2026-07-31T12:29:24.307Z",
   "handles": [
-    "GoogleDeepMind",
-    "gdb",
     "OpenAI",
     "nvidia",
-    "elonmusk",
+    "GoogleDeepMind",
     "satyanadella",
+    "gdb",
+    "elonmusk",
     "AnthropicAI"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2082934294180221043",
+      "title": "Physical AI is here—the next wave of AI and the foundation of the next industrial revolution. NVIDIA founder and CEO Jensen Huang outlines the full stack making it possible: Cosmos and Omniverse to…",
+      "link": "https://x.com/nvidia/status/2082934294180221043",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-07-30T21:00:09.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Commentary"
+      ],
+      "summary": "Physical AI is here—the next wave of AI and the foundation of the next industrial revolution. NVIDIA founder and CEO Jensen Huang outlines the full stack making it possible: Cosmos and Omniverse to develop physical AI in virtual worlds, Isaac and Newton where robots learn skills",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 60,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "high engagement (859 likes)"
+      ],
+      "metrics": {
+        "likes": 859,
+        "retweets": 131,
+        "replies": 88,
+        "likes_h": "859"
+      },
+      "engagement": 1209,
+      "hot": false
+    },
     {
       "id": "x_2082904281838227562",
       "title": "Teamwork makes the dream work. To test multi-robot collaboration with Gemini Robotics 2, we challenged our Apollo and Duo robots to tidy up a messy garage. The high-level reasoning model breaks down…",
@@ -35,7 +75,7 @@
       "summary": "Teamwork makes the dream work. To test multi-robot collaboration with Gemini Robotics 2, we challenged our Apollo and Duo robots to tidy up a messy garage. The high-level reasoning model breaks down what to do, where to go, and identifies the exact moment to hand over control ↓",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 56,
+      "worthiness_score": 58,
       "sentiment": "negative",
       "sentiment_score": -0.5,
       "reasons": [
@@ -44,12 +84,12 @@
         "tech substance (model, gemini, robotics)"
       ],
       "metrics": {
-        "likes": 32,
-        "retweets": 4,
-        "replies": 2,
-        "likes_h": "32"
+        "likes": 65,
+        "retweets": 6,
+        "replies": 5,
+        "likes_h": "65"
       },
-      "engagement": 42,
+      "engagement": 82,
       "hot": false
     },
     {
@@ -76,21 +116,22 @@
       "summary": "This is how Gemini Robotics 2 helps @Apptronik’s Apollo 2 use whole body intelligence to pack for a sports game ↓",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 68,
+      "worthiness_score": 70,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
         "report-worthy",
         "casual tone (this)",
-        "tech substance (gemini, robotics)"
+        "tech substance (gemini, robotics)",
+        "high engagement (880 likes)"
       ],
       "metrics": {
-        "likes": 323,
-        "retweets": 39,
-        "replies": 21,
-        "likes_h": "323"
+        "likes": 880,
+        "retweets": 119,
+        "replies": 49,
+        "likes_h": "880"
       },
-      "engagement": 422,
+      "engagement": 1167,
       "hot": false
     },
     {
@@ -123,15 +164,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (model, models, research)",
-        "high engagement (1.1K likes)"
+        "high engagement (2K likes)"
       ],
       "metrics": {
-        "likes": 1137,
-        "retweets": 46,
-        "replies": 76,
-        "likes_h": "1.1K"
+        "likes": 2041,
+        "retweets": 98,
+        "replies": 134,
+        "likes_h": "2K"
       },
-      "engagement": 1305,
+      "engagement": 2371,
       "hot": false
     },
     {
@@ -166,16 +207,16 @@
         "reply / conversation",
         "tech substance (gpt, api)",
         "business signal (customers)",
-        "high engagement (1.1K likes)",
+        "high engagement (1.6K likes)",
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 1105,
-        "retweets": 31,
-        "replies": 20,
-        "likes_h": "1.1K"
+        "likes": 1594,
+        "retweets": 47,
+        "replies": 24,
+        "likes_h": "1.6K"
       },
-      "engagement": 1187,
+      "engagement": 1712,
       "hot": false
     },
     {
@@ -209,15 +250,15 @@
         "report-worthy",
         "announcement language (starting today)",
         "tech substance (model, gpt, api)",
-        "high engagement (9.3K likes)"
+        "high engagement (16.6K likes)"
       ],
       "metrics": {
-        "likes": 9322,
-        "retweets": 741,
-        "replies": 599,
-        "likes_h": "9.3K"
+        "likes": 16596,
+        "retweets": 1644,
+        "replies": 1008,
+        "likes_h": "16.6K"
       },
-      "engagement": 11403,
+      "engagement": 20892,
       "hot": true
     },
     {
@@ -244,22 +285,23 @@
       "summary": "Incredible to see the open model momentum continue. Seeing more than 230 organizations rally around open weights reinforces what’s possible when the ecosystem comes together. Thank you to @Microsoft for your partnership, and to everyone helping strengthen the open ecosystem. 🤝",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 72,
+      "worthiness_score": 73,
       "sentiment": "positive",
       "sentiment_score": 1,
       "reasons": [
         "report-worthy",
         "casual tone (thank you, incredible)",
         "tech substance (model, open weights, weights)",
-        "business signal (partnership)"
+        "business signal (partnership)",
+        "high engagement (759 likes)"
       ],
       "metrics": {
-        "likes": 496,
-        "retweets": 71,
-        "replies": 54,
-        "likes_h": "496"
+        "likes": 759,
+        "retweets": 108,
+        "replies": 65,
+        "likes_h": "759"
       },
-      "engagement": 692,
+      "engagement": 1040,
       "hot": false
     },
     {
@@ -293,15 +335,15 @@
         "report-worthy",
         "announcement language (launching)",
         "tech substance (gemini, robotics)",
-        "high engagement (3.1K likes)"
+        "high engagement (4.4K likes)"
       ],
       "metrics": {
-        "likes": 3142,
-        "retweets": 473,
-        "replies": 167,
-        "likes_h": "3.1K"
+        "likes": 4423,
+        "retweets": 692,
+        "replies": 237,
+        "likes_h": "4.4K"
       },
-      "engagement": 4255,
+      "engagement": 6044,
       "hot": false
     },
     {
@@ -381,12 +423,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 645,
-        "retweets": 28,
-        "replies": 21,
-        "likes_h": "645"
+        "likes": 687,
+        "retweets": 30,
+        "replies": 23,
+        "likes_h": "687"
       },
-      "engagement": 722,
+      "engagement": 770,
       "hot": false
     },
     {
@@ -420,16 +462,16 @@
         "report-worthy",
         "reply / conversation",
         "tech substance (gpt, api, tokens)",
-        "high engagement (1.2K likes)",
+        "high engagement (1.3K likes)",
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 1233,
-        "retweets": 60,
+        "likes": 1322,
+        "retweets": 67,
         "replies": 28,
-        "likes_h": "1.2K"
+        "likes_h": "1.3K"
       },
-      "engagement": 1381,
+      "engagement": 1484,
       "hot": false
     },
     {
@@ -465,12 +507,12 @@
         "tech substance (model, models, gpt)"
       ],
       "metrics": {
-        "likes": 839,
-        "retweets": 29,
+        "likes": 890,
+        "retweets": 34,
         "replies": 12,
-        "likes_h": "839"
+        "likes_h": "890"
       },
-      "engagement": 909,
+      "engagement": 970,
       "hot": false
     },
     {
@@ -503,15 +545,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (gpt, api, benchmark)",
-        "high engagement (8.4K likes)"
+        "high engagement (9.1K likes)"
       ],
       "metrics": {
-        "likes": 8363,
-        "retweets": 525,
-        "replies": 322,
-        "likes_h": "8.4K"
+        "likes": 9083,
+        "retweets": 563,
+        "replies": 345,
+        "likes_h": "9.1K"
       },
-      "engagement": 9735,
+      "engagement": 10554,
       "hot": true
     },
     {
@@ -544,16 +586,16 @@
       "reasons": [
         "report-worthy",
         "business signal (revenue)",
-        "high engagement (15.7K likes)",
+        "high engagement (16.7K likes)",
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 15662,
-        "retweets": 998,
-        "replies": 610,
-        "likes_h": "15.7K"
+        "likes": 16742,
+        "retweets": 1061,
+        "replies": 655,
+        "likes_h": "16.7K"
       },
-      "engagement": 18268,
+      "engagement": 19519,
       "hot": true
     },
     {
@@ -842,12 +884,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 405,
+        "likes": 419,
         "retweets": 56,
         "replies": 34,
-        "likes_h": "405"
+        "likes_h": "419"
       },
-      "engagement": 551,
+      "engagement": 565,
       "hot": false
     },
     {
@@ -883,12 +925,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 305,
+        "likes": 307,
         "retweets": 33,
         "replies": 47,
-        "likes_h": "305"
+        "likes_h": "307"
       },
-      "engagement": 418,
+      "engagement": 420,
       "hot": false
     },
     {
@@ -1046,15 +1088,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (research)",
-        "high engagement (742 likes)"
+        "high engagement (743 likes)"
       ],
       "metrics": {
-        "likes": 742,
+        "likes": 743,
         "retweets": 107,
         "replies": 76,
-        "likes_h": "742"
+        "likes_h": "743"
       },
-      "engagement": 1032,
+      "engagement": 1033,
       "hot": false
     },
     {
@@ -1088,15 +1130,15 @@
         "report-worthy",
         "announcement language (introducing)",
         "tech substance (models, agents, research)",
-        "high engagement (8.3K likes)"
+        "high engagement (8.4K likes)"
       ],
       "metrics": {
-        "likes": 8333,
-        "retweets": 1169,
-        "replies": 562,
-        "likes_h": "8.3K"
+        "likes": 8387,
+        "retweets": 1176,
+        "replies": 569,
+        "likes_h": "8.4K"
       },
-      "engagement": 11233,
+      "engagement": 11308,
       "hot": true
     },
     {
@@ -1305,46 +1347,6 @@
         "likes_h": "1.4K"
       },
       "engagement": 1956,
-      "hot": false
-    },
-    {
-      "id": "x_2080736094157488201",
-      "title": "people are still just scratching the surface of how chatgpt work can be used. we want AI to empower people to live better lives, and believe agentic capabilities will be a core part of how it'll…",
-      "link": "https://x.com/gdb/status/2080736094157488201",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Greg Brockman · @gdb",
-      "handle": "gdb",
-      "org": "OpenAI",
-      "published": "2026-07-24T19:25:17.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Commentary"
-      ],
-      "summary": "people are still just scratching the surface of how chatgpt work can be used. we want AI to empower people to live better lives, and believe agentic capabilities will be a core part of how it'll happen.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 56,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "high engagement (1.2K likes)"
-      ],
-      "metrics": {
-        "likes": 1182,
-        "retweets": 72,
-        "replies": 121,
-        "likes_h": "1.2K"
-      },
-      "engagement": 1447,
       "hot": false
     }
   ]
