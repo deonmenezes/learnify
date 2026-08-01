@@ -1,37 +1,77 @@
 {
-  "generated_at": "2026-08-01T01:08:38.592Z",
+  "generated_at": "2026-08-01T04:57:31.231Z",
   "subs": [
     "MachineLearning",
-    "science",
-    "netsec",
+    "Futurology",
+    "gadgets",
     "bodyweightfitness",
     "hardware",
     "programming",
+    "netsec",
+    "science",
     "SkincareAddiction",
     "investing",
     "LocalLLaMA",
     "running",
-    "Futurology",
     "artificial",
     "Fitness",
     "nutrition",
     "cybersecurity",
     "startups",
-    "gadgets",
     "singularity"
   ],
   "count": 36,
   "by_category": {
+    "AI / ML": 8,
     "Fitness": 7,
-    "AI / ML": 7,
     "Hardware & Gadgets": 3,
     "Coding & Dev Tools": 3,
     "Security": 4,
     "Science": 5,
-    "Skincare": 4,
+    "Skincare": 3,
     "Startups & Funding": 3
   },
   "articles": [
+    {
+      "id": "reddit_1vc1txc",
+      "title": "I have trained a model to predict my blood sugar [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vc1txc/i_have_trained_a_model_to_predict_my_blood_sugar_p/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/MachineLearning · community knowledge",
+      "content_type": "post",
+      "author": "u/0xdeadf1sh · r/MachineLearning",
+      "handle": "MachineLearning",
+      "org": "r/MachineLearning",
+      "platform": "reddit",
+      "published": "2026-07-31T20:09:34.000Z",
+      "image": "https://preview.redd.it/v3bputi1cmgh1.png?width=140&height=91&auto=webp&s=5fcaa20e54e37915fc9d5911c43947f4a7ddb940",
+      "thumbnail": "https://preview.redd.it/v3bputi1cmgh1.png?width=140&height=91&auto=webp&s=5fcaa20e54e37915fc9d5911c43947f4a7ddb940",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/MachineLearning"
+      ],
+      "summary": "It&#39;s an encoder-only transformer that consumes past(blood glucose + carbs + insulin) and future(carbs + insulin) and predicts future blood glucose for the next 2 hours. Announced meals and boluses/basal are used to condition its predictions. The context size is variable (8 - 24 hours), and model can work in…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1vbjahz",
       "title": "Missing one workout is not the thing that ruins your progress",
@@ -1401,45 +1441,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v8ln82",
-      "title": "[B&A] About 4 months on tret. Started on the 0.001% then changed to 0.025%",
-      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1v8ln82/ba_about_4_months_on_tret_started_on_the_0001/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/SkincareAddiction · community knowledge",
-      "content_type": "post",
-      "author": "u/incognitobeetl3 · r/SkincareAddiction",
-      "handle": "SkincareAddiction",
-      "org": "r/SkincareAddiction",
-      "platform": "reddit",
-      "published": "2026-07-28T02:51:26.000Z",
-      "image": "https://preview.redd.it/5w34c2u7xvfh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=f1610797031e7d8c34a86466594e3f54d1d3032e",
-      "thumbnail": "https://preview.redd.it/5w34c2u7xvfh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=f1610797031e7d8c34a86466594e3f54d1d3032e",
-      "section": "Skincare",
-      "category": "Skincare",
-      "genre": "Skincare",
-      "categories": [
-        "Reddit",
-        "Skincare",
-        "r/SkincareAddiction"
-      ],
-      "summary": "AM: medicubes blackhead cleansing oil to remove flakes Panoxyl 10% Cosrx 6 peptide skin booster Maree pore minimizing toner Good molecules Yerba mate eye gel Vanicream moisturizer SPF 50 PM: cleansing oil again for sunscreen and makeup Panoxyl Cosrx 6 peptide skin booster Beauty of joseon retinal under eye cream Good…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/SkincareAddiction this week"
       ],
       "metrics": {
         "likes": 0,
