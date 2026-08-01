@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-08-01T20:31:11.157Z",
+  "generated_at": "2026-08-01T21:31:19.691Z",
   "subs": [
     "MachineLearning",
-    "LocalLLaMA",
-    "bodyweightfitness",
-    "startups",
+    "Fitness",
+    "robotics",
     "programming",
     "SkincareAddiction",
+    "bodyweightfitness",
     "nutrition",
+    "startups",
     "hardware",
     "netsec",
     "science",
     "investing",
+    "LocalLLaMA",
     "running",
     "Futurology",
     "artificial",
-    "Fitness",
-    "cybersecurity",
-    "gadgets"
+    "cybersecurity"
   ],
   "count": 36,
   "by_category": {
@@ -26,8 +26,9 @@
     "Skincare": 3,
     "Fitness": 11,
     "Startups & Funding": 4,
-    "Hardware & Gadgets": 3,
+    "Hardware & Gadgets": 2,
     "Security": 3,
+    "Robotics": 1,
     "Science": 4
   },
   "articles": [
@@ -458,6 +459,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1varxei",
+      "title": "If it were at an amusement park, would you want to ride it?",
+      "link": "https://www.reddit.com/r/robotics/comments/1varxei/if_it_were_at_an_amusement_park_would_you_want_to/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/robotics · community knowledge",
+      "content_type": "post",
+      "author": "u/D1n0saurMecha · r/robotics",
+      "handle": "robotics",
+      "org": "r/robotics",
+      "platform": "reddit",
+      "published": "2026-07-30T12:14:19.000Z",
+      "image": "https://preview.redd.it/ahqtn47uycgh1.jpg?width=140&height=140&auto=webp&s=e96e7d862bbe249968f29c17747b1219f9c3dbad",
+      "thumbnail": "https://preview.redd.it/ahqtn47uycgh1.jpg?width=140&height=140&auto=webp&s=e96e7d862bbe249968f29c17747b1219f9c3dbad",
+      "section": "Robotics",
+      "category": "Robotics",
+      "genre": "Robotics",
+      "categories": [
+        "Reddit",
+        "Robotics",
+        "r/robotics"
+      ],
+      "summary": "California-based robotics startup Satyress is developing Threehalves, a 7-foot-tall teleoperated centaur robot designed for hazardous work.But if it’s designed for hazardous tasks, why does it look like something you could ride—something that seems more at home in an amusement park? Although its appearance is a bit…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/robotics this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1401,45 +1441,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/bodyweightfitness this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v99b33",
-      "title": "Several US schools to install pepper-spraying drones to respond to school shootings",
-      "link": "https://www.reddit.com/r/gadgets/comments/1v99b33/several_us_schools_to_install_pepperspraying/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/gadgets · community knowledge",
-      "content_type": "post",
-      "author": "u/diacewrb · r/gadgets",
-      "handle": "gadgets",
-      "org": "r/gadgets",
-      "platform": "reddit",
-      "published": "2026-07-28T19:54:01.000Z",
-      "image": "https://external-preview.redd.it/UB_Q32pXO_80ifTB9fb4Ot5KvGJ6jHrmcX1FnWYr1xE.jpeg?width=640&crop=smart&auto=webp&s=60105037abf4888960acdd8cceb821b68c14291b",
-      "thumbnail": "https://external-preview.redd.it/UB_Q32pXO_80ifTB9fb4Ot5KvGJ6jHrmcX1FnWYr1xE.jpeg?width=640&crop=smart&auto=webp&s=60105037abf4888960acdd8cceb821b68c14291b",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/gadgets"
-      ],
-      "summary": "Several US schools to install pepper-spraying drones to respond to school shootings",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/gadgets this week"
       ],
       "metrics": {
         "likes": 0,
