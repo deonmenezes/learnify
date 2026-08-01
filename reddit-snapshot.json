@@ -1,35 +1,35 @@
 {
-  "generated_at": "2026-08-01T09:37:21.833Z",
+  "generated_at": "2026-08-01T11:23:07.967Z",
   "subs": [
     "MachineLearning",
-    "Fitness",
-    "hardware",
+    "LocalLLaMA",
+    "running",
+    "startups",
     "bodyweightfitness",
+    "hardware",
     "programming",
     "netsec",
     "science",
     "SkincareAddiction",
     "investing",
-    "LocalLLaMA",
-    "running",
     "Futurology",
     "artificial",
+    "Fitness",
     "nutrition",
     "cybersecurity",
-    "startups",
     "gadgets",
     "singularity"
   ],
   "count": 36,
   "by_category": {
-    "AI / ML": 8,
+    "AI / ML": 7,
     "Fitness": 7,
+    "Startups & Funding": 4,
     "Hardware & Gadgets": 3,
     "Coding & Dev Tools": 3,
     "Security": 4,
     "Science": 5,
-    "Skincare": 3,
-    "Startups & Funding": 3
+    "Skincare": 3
   },
   "articles": [
     {
@@ -104,6 +104,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/bodyweightfitness this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vb8di0",
+      "title": "Founders who've signed a term sheet: how did you actually work through it the first time? (I will not promote)",
+      "link": "https://www.reddit.com/r/startups/comments/1vb8di0/founders_whove_signed_a_term_sheet_how_did_you/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/startups · community knowledge",
+      "content_type": "post",
+      "author": "u/Certain-Confection-6 · r/startups",
+      "handle": "startups",
+      "org": "r/startups",
+      "platform": "reddit",
+      "published": "2026-07-30T22:27:14.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/startups"
+      ],
+      "summary": "Curious how people here have handled this in practice. When you got your first term sheet (or sent one), what did you actually do with it? Did you send it straight to a lawyer, build your own dilution spreadsheet, use some kind of tool or calculator, or just read it a few times and trust the negotiation? Specifically…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/startups this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1401,46 +1441,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/SkincareAddiction this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v8r7ab",
-      "title": "Are single GPU research still published in ML/DL and its applications nowadays? Which are the most notable recent ones? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1v8r7ab/are_single_gpu_research_still_published_in_mldl/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/MachineLearning · community knowledge",
-      "content_type": "post",
-      "author": "u/KingMakerMan · r/MachineLearning",
-      "handle": "MachineLearning",
-      "org": "r/MachineLearning",
-      "platform": "reddit",
-      "published": "2026-07-28T07:33:05.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/MachineLearning"
-      ],
-      "summary": "ML research is progressing at breakneck speed where frontier labs in both academia and industry have access to considerably large computes (GPUs). Where do small labs or independent researchers go in this context? Have you come across recent works in ML/DL and its applications (vision, language, speech, etc) where the…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/MachineLearning this week"
       ],
       "metrics": {
         "likes": 0,
