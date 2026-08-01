@@ -1,16 +1,56 @@
 {
-  "generated_at": "2026-08-01T16:05:06.231Z",
+  "generated_at": "2026-08-01T17:33:54.481Z",
   "handles": [
-    "elonmusk",
+    "OpenAI",
     "nvidia",
     "GoogleDeepMind",
-    "gdb",
-    "OpenAI",
+    "elonmusk",
     "satyanadella",
+    "gdb",
     "AnthropicAI"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2083435180392673714",
+      "title": "at openai, many people hook their chatgpt up to slack. people really don't like when a coworker's chatgpt contacts them asking for help with a task, even when they'd be perfectly happy doing that…",
+      "link": "https://x.com/gdb/status/2083435180392673714",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Greg Brockman · @gdb",
+      "handle": "gdb",
+      "org": "OpenAI",
+      "published": "2026-08-01T06:10:30.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Commentary"
+      ],
+      "summary": "at openai, many people hook their chatgpt up to slack. people really don't like when a coworker's chatgpt contacts them asking for help with a task, even when they'd be perfectly happy doing that same work if asked by that coworker. reinforces how much people care about human",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 56,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "high engagement (5K likes)"
+      ],
+      "metrics": {
+        "likes": 5021,
+        "retweets": 176,
+        "replies": 345,
+        "likes_h": "5K"
+      },
+      "engagement": 5718,
+      "hot": false
+    },
     {
       "id": "x_2083353705504469233",
       "title": "SpaceX is hiring exceptional engineering &amp; skilled trades talent to build &amp; operate the most powerful AI supercomputer clusters on &amp; off Earth. If interested, please email 3 bullet points…",
@@ -40,15 +80,15 @@
       "sentiment_score": 0.5,
       "reasons": [
         "report-worthy",
-        "high engagement (27.7K likes)"
+        "high engagement (43.3K likes)"
       ],
       "metrics": {
-        "likes": 27684,
-        "retweets": 3369,
-        "replies": 2611,
-        "likes_h": "27.7K"
+        "likes": 43312,
+        "retweets": 5388,
+        "replies": 3906,
+        "likes_h": "43.3K"
       },
-      "engagement": 37033,
+      "engagement": 57994,
       "hot": true
     },
     {
@@ -75,7 +115,7 @@
       "summary": "🎙️ @StudyFetch made its largest AI inference workload nearly 10x less expensive with NVIDIA Riva, Parakeet ASR and NVIDIA NIM microservices. The gains support voice tutoring, real-time personalization and a new agentic learning platform.",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 85,
+      "worthiness_score": 86,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -84,12 +124,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 106,
-        "retweets": 10,
-        "replies": 22,
-        "likes_h": "106"
+        "likes": 164,
+        "retweets": 19,
+        "replies": 26,
+        "likes_h": "164"
       },
-      "engagement": 148,
+      "engagement": 228,
       "hot": false
     },
     {
@@ -124,12 +164,12 @@
         "high engagement (1.3K likes)"
       ],
       "metrics": {
-        "likes": 1254,
-        "retweets": 193,
-        "replies": 117,
+        "likes": 1330,
+        "retweets": 200,
+        "replies": 120,
         "likes_h": "1.3K"
       },
-      "engagement": 1757,
+      "engagement": 1850,
       "hot": false
     },
     {
@@ -165,12 +205,12 @@
         "tech substance (model, gemini, robotics)"
       ],
       "metrics": {
-        "likes": 70,
-        "retweets": 6,
-        "replies": 6,
-        "likes_h": "70"
+        "likes": 72,
+        "retweets": 7,
+        "replies": 7,
+        "likes_h": "72"
       },
-      "engagement": 88,
+      "engagement": 93,
       "hot": false
     },
     {
@@ -204,15 +244,15 @@
         "report-worthy",
         "casual tone (this)",
         "tech substance (gemini, robotics)",
-        "high engagement (1K likes)"
+        "high engagement (1.1K likes)"
       ],
       "metrics": {
-        "likes": 1036,
-        "retweets": 138,
-        "replies": 60,
-        "likes_h": "1K"
+        "likes": 1078,
+        "retweets": 147,
+        "replies": 64,
+        "likes_h": "1.1K"
       },
-      "engagement": 1372,
+      "engagement": 1436,
       "hot": false
     },
     {
@@ -288,16 +328,16 @@
         "reply / conversation",
         "tech substance (gpt, api)",
         "business signal (customers)",
-        "high engagement (1.6K likes)",
+        "high engagement (1.7K likes)",
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 1594,
-        "retweets": 47,
-        "replies": 24,
-        "likes_h": "1.6K"
+        "likes": 1664,
+        "retweets": 50,
+        "replies": 27,
+        "likes_h": "1.7K"
       },
-      "engagement": 1712,
+      "engagement": 1791,
       "hot": false
     },
     {
@@ -331,15 +371,15 @@
         "report-worthy",
         "announcement language (starting today)",
         "tech substance (model, gpt, api)",
-        "high engagement (16.6K likes)"
+        "high engagement (18.3K likes)"
       ],
       "metrics": {
-        "likes": 16596,
-        "retweets": 1644,
-        "replies": 1008,
-        "likes_h": "16.6K"
+        "likes": 18338,
+        "retweets": 1859,
+        "replies": 1185,
+        "likes_h": "18.3K"
       },
-      "engagement": 20892,
+      "engagement": 23241,
       "hot": true
     },
     {
@@ -374,15 +414,15 @@
         "casual tone (thank you, incredible)",
         "tech substance (model, open weights, weights)",
         "business signal (partnership)",
-        "high engagement (851 likes)"
+        "high engagement (868 likes)"
       ],
       "metrics": {
-        "likes": 851,
-        "retweets": 124,
-        "replies": 68,
-        "likes_h": "851"
+        "likes": 868,
+        "retweets": 127,
+        "replies": 70,
+        "likes_h": "868"
       },
-      "engagement": 1167,
+      "engagement": 1192,
       "hot": false
     },
     {
@@ -416,15 +456,15 @@
         "report-worthy",
         "announcement language (launching)",
         "tech substance (gemini, robotics)",
-        "high engagement (4.8K likes)"
+        "high engagement (4.9K likes)"
       ],
       "metrics": {
-        "likes": 4838,
-        "retweets": 763,
-        "replies": 271,
-        "likes_h": "4.8K"
+        "likes": 4927,
+        "retweets": 784,
+        "replies": 289,
+        "likes_h": "4.9K"
       },
-      "engagement": 6635,
+      "engagement": 6784,
       "hot": false
     },
     {
@@ -504,12 +544,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 687,
-        "retweets": 30,
-        "replies": 23,
-        "likes_h": "687"
+        "likes": 696,
+        "retweets": 34,
+        "replies": 24,
+        "likes_h": "696"
       },
-      "engagement": 770,
+      "engagement": 788,
       "hot": false
     },
     {
@@ -547,12 +587,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 1322,
-        "retweets": 67,
-        "replies": 28,
+        "likes": 1342,
+        "retweets": 70,
+        "replies": 30,
         "likes_h": "1.3K"
       },
-      "engagement": 1484,
+      "engagement": 1512,
       "hot": false
     },
     {
@@ -585,15 +625,16 @@
       "reasons": [
         "report-worthy",
         "reply / conversation",
-        "tech substance (model, models, gpt)"
+        "tech substance (model, models, gpt)",
+        "high engagement (898 likes)"
       ],
       "metrics": {
-        "likes": 890,
-        "retweets": 34,
+        "likes": 898,
+        "retweets": 36,
         "replies": 12,
-        "likes_h": "890"
+        "likes_h": "898"
       },
-      "engagement": 970,
+      "engagement": 982,
       "hot": false
     },
     {
@@ -626,15 +667,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (gpt, api, benchmark)",
-        "high engagement (9.1K likes)"
+        "high engagement (9.3K likes)"
       ],
       "metrics": {
-        "likes": 9083,
-        "retweets": 563,
-        "replies": 345,
-        "likes_h": "9.1K"
+        "likes": 9337,
+        "retweets": 579,
+        "replies": 366,
+        "likes_h": "9.3K"
       },
-      "engagement": 10554,
+      "engagement": 10861,
       "hot": true
     },
     {
@@ -671,12 +712,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 16896,
-        "retweets": 1070,
-        "replies": 674,
+        "likes": 16906,
+        "retweets": 1073,
+        "replies": 680,
         "likes_h": "16.9K"
       },
-      "engagement": 19710,
+      "engagement": 19732,
       "hot": true
     },
     {
@@ -965,12 +1006,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 421,
-        "retweets": 56,
-        "replies": 34,
-        "likes_h": "421"
+        "likes": 423,
+        "retweets": 57,
+        "replies": 35,
+        "likes_h": "423"
       },
-      "engagement": 567,
+      "engagement": 572,
       "hot": false
     },
     {
@@ -1007,11 +1048,11 @@
       ],
       "metrics": {
         "likes": 309,
-        "retweets": 33,
+        "retweets": 34,
         "replies": 47,
         "likes_h": "309"
       },
-      "engagement": 422,
+      "engagement": 424,
       "hot": false
     },
     {
@@ -1169,15 +1210,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (research)",
-        "high engagement (745 likes)"
+        "high engagement (746 likes)"
       ],
       "metrics": {
-        "likes": 745,
-        "retweets": 108,
+        "likes": 746,
+        "retweets": 107,
         "replies": 76,
-        "likes_h": "745"
+        "likes_h": "746"
       },
-      "engagement": 1037,
+      "engagement": 1036,
       "hot": false
     },
     {
@@ -1301,49 +1342,6 @@
         "likes_h": "600"
       },
       "engagement": 804,
-      "hot": false
-    },
-    {
-      "id": "x_2080886765146321314",
-      "title": "SK Group and NVIDIA today announced a $500 billion-plus initiative spanning AI factories and next-generation memory. ➡️ @SKtelecom is building a 2-gigawatt NVIDIA Vera Rubin DSX AI Factory in Korea…",
-      "link": "https://x.com/nvidia/status/2080886765146321314",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-07-25T05:24:00.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Funding & deals",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Funding & deals"
-      ],
-      "summary": "SK Group and NVIDIA today announced a $500 billion-plus initiative spanning AI factories and next-generation memory. ➡️ @SKtelecom is building a 2-gigawatt NVIDIA Vera Rubin DSX AI Factory in Korea to serve global compute demand. ➡️ @SKhynix and NVIDIA will codevelop",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 100,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "announcement language (announced)",
-        "business signal (billion)",
-        "high engagement (3.4K likes)",
-        "concrete metrics"
-      ],
-      "metrics": {
-        "likes": 3412,
-        "retweets": 458,
-        "replies": 135,
-        "likes_h": "3.4K"
-      },
-      "engagement": 4463,
       "hot": false
     }
   ]
