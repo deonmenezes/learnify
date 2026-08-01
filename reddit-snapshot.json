@@ -1,18 +1,17 @@
 {
-  "generated_at": "2026-08-01T19:16:56.118Z",
+  "generated_at": "2026-08-01T20:31:11.157Z",
   "subs": [
     "MachineLearning",
-    "singularity",
-    "nutrition",
-    "programming",
-    "SkincareAddiction",
+    "LocalLLaMA",
     "bodyweightfitness",
     "startups",
+    "programming",
+    "SkincareAddiction",
+    "nutrition",
     "hardware",
     "netsec",
     "science",
     "investing",
-    "LocalLLaMA",
     "running",
     "Futurology",
     "artificial",
@@ -23,9 +22,9 @@
   "count": 36,
   "by_category": {
     "Coding & Dev Tools": 3,
-    "AI / ML": 6,
+    "AI / ML": 5,
     "Skincare": 3,
-    "Fitness": 10,
+    "Fitness": 11,
     "Startups & Funding": 4,
     "Hardware & Gadgets": 3,
     "Security": 3,
@@ -664,6 +663,45 @@
       }
     },
     {
+      "id": "reddit_1va540a",
+      "title": "When do core exercises stop feeling so hard",
+      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1va540a/when_do_core_exercises_stop_feeling_so_hard/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/bodyweightfitness · community knowledge",
+      "content_type": "post",
+      "author": "u/Appropriate-Two-9538 · r/bodyweightfitness",
+      "handle": "bodyweightfitness",
+      "org": "r/bodyweightfitness",
+      "platform": "reddit",
+      "published": "2026-07-29T18:45:11.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/bodyweightfitness"
+      ],
+      "summary": "Hi everyone I&#39;m new to the whole bodyweight exercises and just started doing core workouts as well as the typical body weight exercises like squats, plank, pushups, etc. I&#39;m finding them quite hard at the moment probably because I&#39;ve not really done anything like this before. Is there a moment where it…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/bodyweightfitness this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1va2i1r",
       "title": "Insatiable appetite since I started running?",
       "link": "https://www.reddit.com/r/running/comments/1va2i1r/insatiable_appetite_since_i_started_running/",
@@ -1056,6 +1094,45 @@
       }
     },
     {
+      "id": "reddit_1v9kkv0",
+      "title": "Maybe your body is not weak, maybe you're just never giving it a damn break",
+      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1v9kkv0/maybe_your_body_is_not_weak_maybe_youre_just/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/bodyweightfitness · community knowledge",
+      "content_type": "post",
+      "author": "u/Dapper-Efficiency-35 · r/bodyweightfitness",
+      "handle": "bodyweightfitness",
+      "org": "r/bodyweightfitness",
+      "platform": "reddit",
+      "published": "2026-07-29T03:38:19.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/bodyweightfitness"
+      ],
+      "summary": "I used to think training more always means getting stronger faster. If 3 workouts are good, then 6 must be better, right? Turns out my body completely disagreed with that stupid idea. My pullups stopped improving, every workout felt heavy, and I was always tired for no damn reason. I kept blaming my program when maybe…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/bodyweightfitness this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1v9jcxf",
       "title": "Why White Rice?",
       "link": "https://www.reddit.com/r/nutrition/comments/1v9jcxf/why_white_rice/",
@@ -1363,85 +1440,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/gadgets this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v97e70",
-      "title": "Elon completely contradicts himself at the end of his disastrous interview with The Economist",
-      "link": "https://www.reddit.com/r/singularity/comments/1v97e70/elon_completely_contradicts_himself_at_the_end_of/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/singularity · community knowledge",
-      "content_type": "post",
-      "author": "u/Sauerkrautkid7 · r/singularity",
-      "handle": "singularity",
-      "org": "r/singularity",
-      "platform": "reddit",
-      "published": "2026-07-28T18:46:26.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/singularity"
-      ],
-      "summary": "Elon completely contradicts himself at the end of his disastrous interview with The Economist",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/singularity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v915pv",
-      "title": "When you first started running, what did you struggle with the most?",
-      "link": "https://www.reddit.com/r/running/comments/1v915pv/when_you_first_started_running_what_did_you/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/running · community knowledge",
-      "content_type": "post",
-      "author": "u/FullCap4145 · r/running",
-      "handle": "running",
-      "org": "r/running",
-      "platform": "reddit",
-      "published": "2026-07-28T15:06:22.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/running"
-      ],
-      "summary": "I’m interested to know what people struggled with at first when they started running! Was it nutrition? Warming up? Distance? Please share! &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/running this week"
       ],
       "metrics": {
         "likes": 0,
