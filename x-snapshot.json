@@ -1,16 +1,56 @@
 {
-  "generated_at": "2026-08-01T04:55:19.756Z",
+  "generated_at": "2026-08-01T07:31:00.569Z",
   "handles": [
     "nvidia",
     "GoogleDeepMind",
-    "gdb",
-    "OpenAI",
     "elonmusk",
     "satyanadella",
+    "gdb",
+    "OpenAI",
     "AnthropicAI"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2083353705504469233",
+      "title": "SpaceX is hiring exceptional engineering &amp; skilled trades talent to build &amp; operate the most powerful AI supercomputer clusters on &amp; off Earth. If interested, please email 3 bullet points…",
+      "link": "https://x.com/elonmusk/status/2083353705504469233",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Elon Musk · @elonmusk",
+      "handle": "elonmusk",
+      "org": "xAI/Tesla",
+      "published": "2026-08-01T00:46:44.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "xAI/Tesla",
+        "Commentary"
+      ],
+      "summary": "SpaceX is hiring exceptional engineering &amp; skilled trades talent to build &amp; operate the most powerful AI supercomputer clusters on &amp; off Earth. If interested, please email 3 bullet points demonstrating evidence of exceptional ability &amp; your resume to datacenters@spacex.com.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 56,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "high engagement (27.7K likes)"
+      ],
+      "metrics": {
+        "likes": 27684,
+        "retweets": 3369,
+        "replies": 2611,
+        "likes_h": "27.7K"
+      },
+      "engagement": 37033,
+      "hot": true
+    },
     {
       "id": "x_2083289093731934424",
       "title": "🎙️ @StudyFetch made its largest AI inference workload nearly 10x less expensive with NVIDIA Riva, Parakeet ASR and NVIDIA NIM microservices. The gains support voice tutoring, real-time…",
@@ -35,7 +75,7 @@
       "summary": "🎙️ @StudyFetch made its largest AI inference workload nearly 10x less expensive with NVIDIA Riva, Parakeet ASR and NVIDIA NIM microservices. The gains support voice tutoring, real-time personalization and a new agentic learning platform.",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 84,
+      "worthiness_score": 85,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -44,12 +84,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 77,
-        "retweets": 9,
-        "replies": 18,
-        "likes_h": "77"
+        "likes": 106,
+        "retweets": 10,
+        "replies": 22,
+        "likes_h": "106"
       },
-      "engagement": 113,
+      "engagement": 148,
       "hot": false
     },
     {
@@ -81,15 +121,15 @@
       "sentiment_score": 0,
       "reasons": [
         "report-worthy",
-        "high engagement (1.2K likes)"
+        "high engagement (1.3K likes)"
       ],
       "metrics": {
-        "likes": 1213,
-        "retweets": 185,
-        "replies": 115,
-        "likes_h": "1.2K"
+        "likes": 1254,
+        "retweets": 193,
+        "replies": 117,
+        "likes_h": "1.3K"
       },
-      "engagement": 1698,
+      "engagement": 1757,
       "hot": false
     },
     {
@@ -125,12 +165,12 @@
         "tech substance (model, gemini, robotics)"
       ],
       "metrics": {
-        "likes": 68,
+        "likes": 70,
         "retweets": 6,
         "replies": 6,
-        "likes_h": "68"
+        "likes_h": "70"
       },
-      "engagement": 86,
+      "engagement": 88,
       "hot": false
     },
     {
@@ -167,12 +207,12 @@
         "high engagement (1K likes)"
       ],
       "metrics": {
-        "likes": 1018,
+        "likes": 1036,
         "retweets": 138,
-        "replies": 59,
+        "replies": 60,
         "likes_h": "1K"
       },
-      "engagement": 1353,
+      "engagement": 1372,
       "hot": false
     },
     {
@@ -334,15 +374,15 @@
         "casual tone (thank you, incredible)",
         "tech substance (model, open weights, weights)",
         "business signal (partnership)",
-        "high engagement (838 likes)"
+        "high engagement (851 likes)"
       ],
       "metrics": {
-        "likes": 838,
-        "retweets": 120,
-        "replies": 67,
-        "likes_h": "838"
+        "likes": 851,
+        "retweets": 124,
+        "replies": 68,
+        "likes_h": "851"
       },
-      "engagement": 1145,
+      "engagement": 1167,
       "hot": false
     },
     {
@@ -379,12 +419,12 @@
         "high engagement (4.8K likes)"
       ],
       "metrics": {
-        "likes": 4753,
-        "retweets": 748,
-        "replies": 265,
+        "likes": 4838,
+        "retweets": 763,
+        "replies": 271,
         "likes_h": "4.8K"
       },
-      "engagement": 6514,
+      "engagement": 6635,
       "hot": false
     },
     {
@@ -627,16 +667,16 @@
       "reasons": [
         "report-worthy",
         "business signal (revenue)",
-        "high engagement (16.7K likes)",
+        "high engagement (16.9K likes)",
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 16742,
-        "retweets": 1061,
-        "replies": 655,
-        "likes_h": "16.7K"
+        "likes": 16896,
+        "retweets": 1070,
+        "replies": 674,
+        "likes_h": "16.9K"
       },
-      "engagement": 19519,
+      "engagement": 19710,
       "hot": true
     },
     {
@@ -805,7 +845,7 @@
         "likes_h": "6.1K"
       },
       "engagement": 8202,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2082152074071228702",
@@ -925,12 +965,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 419,
-        "retweets": 55,
+        "likes": 421,
+        "retweets": 56,
         "replies": 34,
-        "likes_h": "419"
+        "likes_h": "421"
       },
-      "engagement": 563,
+      "engagement": 567,
       "hot": false
     },
     {
@@ -967,11 +1007,11 @@
       ],
       "metrics": {
         "likes": 309,
-        "retweets": 32,
+        "retweets": 33,
         "replies": 47,
         "likes_h": "309"
       },
-      "engagement": 420,
+      "engagement": 422,
       "hot": false
     },
     {
@@ -1133,11 +1173,11 @@
       ],
       "metrics": {
         "likes": 745,
-        "retweets": 107,
+        "retweets": 108,
         "replies": 76,
         "likes_h": "745"
       },
-      "engagement": 1035,
+      "engagement": 1037,
       "hot": false
     },
     {
@@ -1304,49 +1344,6 @@
         "likes_h": "3.4K"
       },
       "engagement": 4463,
-      "hot": false
-    },
-    {
-      "id": "x_2080833379197477226",
-      "title": "This is the Golden Age of Korea. NVIDIA is proud to partner with leaders across government, industry, and global technology to advance the K-AI vision — across chips, frontier AI, physical AI and…",
-      "link": "https://x.com/nvidia/status/2080833379197477226",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-07-25T01:51:52.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product"
-      ],
-      "summary": "This is the Golden Age of Korea. NVIDIA is proud to partner with leaders across government, industry, and global technology to advance the K-AI vision — across chips, frontier AI, physical AI and robotics, and AI factories. Together, we’re building AI infrastructure for Korea",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 84,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "casual tone (this)",
-        "tech substance (chips, robotics)",
-        "business signal (partner with)",
-        "high engagement (1.8K likes)"
-      ],
-      "metrics": {
-        "likes": 1793,
-        "retweets": 327,
-        "replies": 89,
-        "likes_h": "1.8K"
-      },
-      "engagement": 2536,
       "hot": false
     }
   ]
