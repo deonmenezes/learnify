@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-01T11:23:07.967Z",
+  "generated_at": "2026-08-01T12:37:49.775Z",
   "subs": [
     "MachineLearning",
-    "LocalLLaMA",
-    "running",
-    "startups",
-    "bodyweightfitness",
-    "hardware",
     "programming",
+    "SkincareAddiction",
+    "bodyweightfitness",
+    "startups",
+    "hardware",
     "netsec",
     "science",
-    "SkincareAddiction",
     "investing",
+    "LocalLLaMA",
+    "running",
     "Futurology",
     "artificial",
     "Fitness",
@@ -22,16 +22,55 @@
   ],
   "count": 36,
   "by_category": {
+    "Coding & Dev Tools": 4,
     "AI / ML": 7,
+    "Skincare": 3,
     "Fitness": 7,
     "Startups & Funding": 4,
     "Hardware & Gadgets": 3,
-    "Coding & Dev Tools": 3,
     "Security": 4,
-    "Science": 5,
-    "Skincare": 3
+    "Science": 4
   },
   "articles": [
+    {
+      "id": "reddit_1vc25gi",
+      "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
+      "link": "https://www.reddit.com/r/programming/comments/1vc25gi/pwnd_blaster_hacking_your_pc_using_your_speaker/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/programming · community knowledge",
+      "content_type": "post",
+      "author": "u/fagnerbrack · r/programming",
+      "handle": "programming",
+      "org": "r/programming",
+      "platform": "reddit",
+      "published": "2026-07-31T20:21:35.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Coding & Dev Tools",
+      "category": "Coding & Dev Tools",
+      "genre": "Coding & Dev Tools",
+      "categories": [
+        "Reddit",
+        "Coding & Dev Tools",
+        "r/programming"
+      ],
+      "summary": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/programming this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1vc1txc",
       "title": "I have trained a model to predict my blood sugar [P]",
@@ -65,6 +104,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vbts4m",
+      "title": "[B&A] PSA: If your skin goes to hell like this in your 20s, go to a dermatologist about rosacea",
+      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1vbts4m/ba_psa_if_your_skin_goes_to_hell_like_this_in/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/SkincareAddiction · community knowledge",
+      "content_type": "post",
+      "author": "u/boomballoonmachine · r/SkincareAddiction",
+      "handle": "SkincareAddiction",
+      "org": "r/SkincareAddiction",
+      "platform": "reddit",
+      "published": "2026-07-31T15:15:02.000Z",
+      "image": "https://preview.redd.it/8z30g4usxkgh1.jpeg?width=640&crop=smart&auto=webp&s=e4925049a7376247ee2b042c3c0fcd52d3c228f3",
+      "thumbnail": "https://preview.redd.it/8z30g4usxkgh1.jpeg?width=640&crop=smart&auto=webp&s=e4925049a7376247ee2b042c3c0fcd52d3c228f3",
+      "section": "Skincare",
+      "category": "Skincare",
+      "genre": "Skincare",
+      "categories": [
+        "Reddit",
+        "Skincare",
+        "r/SkincareAddiction"
+      ],
+      "summary": "Left is January 2025 aged 28, right is May 2026. My skin had been getting notably worse for about a year before the left pic. At first I assumed I needed to finally develop a skincare routine (I have sensitive skin and had never needed one before). I spent a year trying to figure it out with OTC remedies and internet…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/SkincareAddiction this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1363,84 +1441,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/singularity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v8vnig",
-      "title": "Finland builds the world's largest sand battery. Site can cheaply store energy for entire month. No \"rare earths\" or critical materials used. Estimated at $25/KWh",
-      "link": "https://www.reddit.com/r/Futurology/comments/1v8vnig/finland_builds_the_worlds_largest_sand_battery/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/Futurology · community knowledge",
-      "content_type": "post",
-      "author": "u/sundler · r/Futurology",
-      "handle": "Futurology",
-      "org": "r/Futurology",
-      "platform": "reddit",
-      "published": "2026-07-28T11:26:39.000Z",
-      "image": "https://external-preview.redd.it/huvozgrF2GcP02PO5nXjB6H7OcCxU1fKSrtvulwH_sA.jpeg?width=640&crop=smart&auto=webp&s=6ace89adec9c294f0b5c8071e8bcd06ba0c1cf19",
-      "thumbnail": "https://external-preview.redd.it/huvozgrF2GcP02PO5nXjB6H7OcCxU1fKSrtvulwH_sA.jpeg?width=640&crop=smart&auto=webp&s=6ace89adec9c294f0b5c8071e8bcd06ba0c1cf19",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/Futurology"
-      ],
-      "summary": "Finland builds the world's largest sand battery. Site can cheaply store energy for entire month. No \"rare earths\" or critical materials used. Estimated at $25/KWh",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/Futurology this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v8u5jl",
-      "title": "[B&A] 6 Years on Tretinoin: Age 20 to 26",
-      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1v8u5jl/ba_6_years_on_tretinoin_age_20_to_26/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/SkincareAddiction · community knowledge",
-      "content_type": "post",
-      "author": "u/ofekgold · r/SkincareAddiction",
-      "handle": "SkincareAddiction",
-      "org": "r/SkincareAddiction",
-      "platform": "reddit",
-      "published": "2026-07-28T10:16:08.000Z",
-      "image": "https://preview.redd.it/usr9r43h4yfh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=b14e6e45a66c93a213aca7c37fb1dfd005be5034",
-      "thumbnail": "https://preview.redd.it/usr9r43h4yfh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=b14e6e45a66c93a213aca7c37fb1dfd005be5034",
-      "section": "Skincare",
-      "category": "Skincare",
-      "genre": "Skincare",
-      "categories": [
-        "Reddit",
-        "Skincare",
-        "r/SkincareAddiction"
-      ],
-      "summary": "Hey everyone, I started tretinoin 0.05% at 20, few years after finishing a course of Accutane as I noticed my acne was coming back and was looking for some solutions. That terrible condition my skin has reached has lead me to extensively research skincare and how to maintain my accutane results, that&#39;s how I…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/SkincareAddiction this week"
       ],
       "metrics": {
         "likes": 0,
