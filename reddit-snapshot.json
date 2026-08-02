@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-02T12:08:53.382Z",
+  "generated_at": "2026-08-02T14:13:12.997Z",
   "subs": [
     "MachineLearning",
-    "singularity",
-    "SkincareAddiction",
+    "bodyweightfitness",
+    "startups",
     "gadgets",
     "programming",
     "Futurology",
+    "SkincareAddiction",
     "longevity",
-    "bodyweightfitness",
+    "singularity",
     "nutrition",
-    "startups",
     "hardware",
     "netsec",
     "robotics",
@@ -19,19 +19,18 @@
     "LocalLLaMA",
     "running",
     "artificial",
-    "Fitness",
-    "cybersecurity"
+    "Fitness"
   ],
   "count": 36,
   "by_category": {
     "Hardware & Gadgets": 3,
+    "Startups & Funding": 4,
     "Coding & Dev Tools": 4,
     "Science": 6,
     "AI / ML": 6,
     "Skincare": 2,
     "Fitness": 8,
-    "Startups & Funding": 3,
-    "Security": 3,
+    "Security": 2,
     "Robotics": 1
   },
   "articles": [
@@ -67,6 +66,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/gadgets this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vctqny",
+      "title": "Lead investor stopped funding us, now wants to buy my shares at the lowest price. I will not promote",
+      "link": "https://www.reddit.com/r/startups/comments/1vctqny/lead_investor_stopped_funding_us_now_wants_to_buy/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/startups · community knowledge",
+      "content_type": "post",
+      "author": "u/Huge_Statement1748 · r/startups",
+      "handle": "startups",
+      "org": "r/startups",
+      "platform": "reddit",
+      "published": "2026-08-01T17:46:31.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/startups"
+      ],
+      "summary": "Hi everyone, I’m looking for honest feedback from founders who have been through buyouts or difficult investor situations. I founded a startup in 2023 and currently own 55% . Over the past four years we built the company from scratch. We reached roughly €600k annual revenue , served around 500 customers , and built a…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/startups this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1405,45 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/nutrition this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v9gzlv",
-      "title": "Hugging Face Shares Full Forensics of the AI Agent Intrusion",
-      "link": "https://www.reddit.com/r/cybersecurity/comments/1v9gzlv/hugging_face_shares_full_forensics_of_the_ai/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/cybersecurity · community knowledge",
-      "content_type": "post",
-      "author": "u/callme_e · r/cybersecurity",
-      "handle": "cybersecurity",
-      "org": "r/cybersecurity",
-      "platform": "reddit",
-      "published": "2026-07-29T00:56:12.000Z",
-      "image": "https://external-preview.redd.it/7PWDJaIokrWE4_F2hjHHq_uSZR1YDgV9KxVTPwUAn9c.png?width=640&crop=smart&auto=webp&s=1790b2a52b2de6d7d46dfc08fdcc94da60e189dc",
-      "thumbnail": "https://external-preview.redd.it/7PWDJaIokrWE4_F2hjHHq_uSZR1YDgV9KxVTPwUAn9c.png?width=640&crop=smart&auto=webp&s=1790b2a52b2de6d7d46dfc08fdcc94da60e189dc",
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/cybersecurity"
-      ],
-      "summary": "Hugging Face Shares Full Forensics of the AI Agent Intrusion",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/cybersecurity this week"
       ],
       "metrics": {
         "likes": 0,
