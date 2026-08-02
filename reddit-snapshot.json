@@ -1,14 +1,16 @@
 {
-  "generated_at": "2026-08-02T14:13:12.997Z",
+  "generated_at": "2026-08-02T15:43:09.721Z",
   "subs": [
     "MachineLearning",
-    "bodyweightfitness",
+    "LocalLLaMA",
+    "running",
     "startups",
     "gadgets",
     "programming",
     "Futurology",
     "SkincareAddiction",
     "longevity",
+    "bodyweightfitness",
     "singularity",
     "nutrition",
     "hardware",
@@ -16,8 +18,6 @@
     "robotics",
     "science",
     "investing",
-    "LocalLLaMA",
-    "running",
     "artificial",
     "Fitness"
   ],
@@ -27,9 +27,9 @@
     "Startups & Funding": 4,
     "Coding & Dev Tools": 4,
     "Science": 6,
-    "AI / ML": 6,
+    "AI / ML": 7,
     "Skincare": 2,
-    "Fitness": 8,
+    "Fitness": 7,
     "Security": 2,
     "Robotics": 1
   },
@@ -342,6 +342,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/longevity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vbr5zj",
+      "title": "The Chinese LLM release carousel never stops. Place your bets for MiniMax next week.",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1vbr5zj/the_chinese_llm_release_carousel_never_stops/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/LocalLLaMA · community knowledge",
+      "content_type": "post",
+      "author": "u/Mountain_Patience231 · r/LocalLLaMA",
+      "handle": "LocalLLaMA",
+      "org": "r/LocalLLaMA",
+      "platform": "reddit",
+      "published": "2026-07-31T13:36:18.000Z",
+      "image": "https://preview.redd.it/y0ab3pktikgh1.jpeg?width=640&crop=smart&auto=webp&s=21b2151ea92e9216763ee588cfbf2c7db8900694",
+      "thumbnail": "https://preview.redd.it/y0ab3pktikgh1.jpeg?width=640&crop=smart&auto=webp&s=21b2151ea92e9216763ee588cfbf2c7db8900694",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/LocalLLaMA"
+      ],
+      "summary": "The Chinese LLM release carousel never stops. Place your bets for MiniMax next week.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/LocalLLaMA this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1404,46 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/bodyweightfitness this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v9jcxf",
-      "title": "Why White Rice?",
-      "link": "https://www.reddit.com/r/nutrition/comments/1v9jcxf/why_white_rice/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/nutrition · community knowledge",
-      "content_type": "post",
-      "author": "u/Captain-Concrete31 · r/nutrition",
-      "handle": "nutrition",
-      "org": "r/nutrition",
-      "platform": "reddit",
-      "published": "2026-07-29T02:41:20.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Nutrition",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "Nutrition",
-        "r/nutrition"
-      ],
-      "summary": "Why do body builders always have white rice with everything? Of all the carb sources that has to be the most bland and least nutritious. I would think quinoa would be preferred with its higher protein and fiber content. What am I missing? &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/nutrition this week"
       ],
       "metrics": {
         "likes": 0,
