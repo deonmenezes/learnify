@@ -1,14 +1,15 @@
 {
-  "generated_at": "2026-08-02T18:35:03.956Z",
+  "generated_at": "2026-08-02T20:15:43.820Z",
   "subs": [
     "MachineLearning",
-    "artificial",
-    "running",
+    "science",
+    "cybersecurity",
     "investing",
     "gadgets",
     "startups",
     "programming",
     "Futurology",
+    "artificial",
     "SkincareAddiction",
     "longevity",
     "LocalLLaMA",
@@ -18,18 +19,18 @@
     "hardware",
     "netsec",
     "robotics",
-    "science"
+    "running"
   ],
   "count": 36,
   "by_category": {
-    "Startups & Funding": 5,
+    "Startups & Funding": 4,
     "Hardware & Gadgets": 3,
-    "Coding & Dev Tools": 4,
+    "Security": 4,
+    "Coding & Dev Tools": 3,
     "Science": 6,
     "AI / ML": 8,
     "Skincare": 2,
     "Fitness": 5,
-    "Security": 2,
     "Robotics": 1
   },
   "articles": [
@@ -153,6 +154,45 @@
       }
     },
     {
+      "id": "reddit_1vcq36c",
+      "title": "Hackers hit 30-plus Minnesota water systems in 48 hours, forcing emergency response",
+      "link": "https://www.reddit.com/r/cybersecurity/comments/1vcq36c/hackers_hit_30plus_minnesota_water_systems_in_48/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/cybersecurity · community knowledge",
+      "content_type": "post",
+      "author": "u/JohnConner2030 · r/cybersecurity",
+      "handle": "cybersecurity",
+      "org": "r/cybersecurity",
+      "platform": "reddit",
+      "published": "2026-08-01T15:19:25.000Z",
+      "image": "https://external-preview.redd.it/IDCTHmOFVU1xkixMGK_NIMxm_eK8Ge0jz4bZr9aRH2M.jpeg?width=640&crop=smart&auto=webp&s=df09b074eea69482d685376a1b94b43462f602aa",
+      "thumbnail": "https://external-preview.redd.it/IDCTHmOFVU1xkixMGK_NIMxm_eK8Ge0jz4bZr9aRH2M.jpeg?width=640&crop=smart&auto=webp&s=df09b074eea69482d685376a1b94b43462f602aa",
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/cybersecurity"
+      ],
+      "summary": "Hackers hit 30-plus Minnesota water systems in 48 hours, forcing emergency response",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/cybersecurity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1vcl5bj",
       "title": "The Bedrock of Software Design",
       "link": "https://www.reddit.com/r/programming/comments/1vcl5bj/the_bedrock_of_software_design/",
@@ -184,6 +224,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/programming this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vckffy",
+      "title": "Autism diagnoses rose sharply after the COVID-19 pandemic began. The rise was driven overwhelmingly by diagnoses among girls and women. New study suggests that many of these girls and women may simply have gone unrecognized in the past.",
+      "link": "https://www.reddit.com/r/science/comments/1vckffy/autism_diagnoses_rose_sharply_after_the_covid19/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/science · community knowledge",
+      "content_type": "post",
+      "author": "u/mvea · r/science",
+      "handle": "science",
+      "org": "r/science",
+      "platform": "reddit",
+      "published": "2026-08-01T11:04:11.000Z",
+      "image": "https://external-preview.redd.it/gXHd39Dt7wAhQIoJ8xqC2t_MDynE0Ksg2n9VFuYrUp8.jpeg?width=640&crop=smart&auto=webp&s=951c02b4ec9c4ee973da21842c71d79b82ca6c0d",
+      "thumbnail": "https://external-preview.redd.it/gXHd39Dt7wAhQIoJ8xqC2t_MDynE0Ksg2n9VFuYrUp8.jpeg?width=640&crop=smart&auto=webp&s=951c02b4ec9c4ee973da21842c71d79b82ca6c0d",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/science"
+      ],
+      "summary": "Autism diagnoses rose sharply after the COVID-19 pandemic began. The rise was driven overwhelmingly by diagnoses among girls and women. New study suggests that many of these girls and women may simply have gone unrecognized in the past.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/science this week"
       ],
       "metrics": {
         "likes": 0,
@@ -461,6 +540,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/LocalLLaMA this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vblr89",
+      "title": "Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests",
+      "link": "https://www.reddit.com/r/cybersecurity/comments/1vblr89/anthropics_claude_breached_3_orgs_uploaded_pypi/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/cybersecurity · community knowledge",
+      "content_type": "post",
+      "author": "u/Altruistic_Hope_2559 · r/cybersecurity",
+      "handle": "cybersecurity",
+      "org": "r/cybersecurity",
+      "platform": "reddit",
+      "published": "2026-07-31T09:12:38.000Z",
+      "image": "https://external-preview.redd.it/Azp0qJubhgOvbbmPXGao7BAF7_prGpVyOxV9x5EMxlU.png?width=640&crop=smart&auto=webp&s=0b002eb33c7aaeb033ecf6a1e48aa3392c3f1885",
+      "thumbnail": "https://external-preview.redd.it/Azp0qJubhgOvbbmPXGao7BAF7_prGpVyOxV9x5EMxlU.png?width=640&crop=smart&auto=webp&s=0b002eb33c7aaeb033ecf6a1e48aa3392c3f1885",
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/cybersecurity"
+      ],
+      "summary": "Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/cybersecurity this week"
       ],
       "metrics": {
         "likes": 0,
@@ -856,6 +974,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/robotics this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1var1bg",
+      "title": "Beware: attackers now using real Microsoft sign-in screen for phishing",
+      "link": "https://www.reddit.com/r/cybersecurity/comments/1var1bg/beware_attackers_now_using_real_microsoft_signin/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/cybersecurity · community knowledge",
+      "content_type": "post",
+      "author": "u/sunychoudhary · r/cybersecurity",
+      "handle": "cybersecurity",
+      "org": "r/cybersecurity",
+      "platform": "reddit",
+      "published": "2026-07-30T11:32:39.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/cybersecurity"
+      ],
+      "summary": "Every screen the victim sees is real. &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/cybersecurity this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1288,163 +1445,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/artificial this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v9v7nt",
-      "title": "A Mexican startup has started selling Mexican-built EVs for $8,500. Why can't Silicon Valley do this for the US & rest of world, instead of pouring hundreds of billions into AI designed to replace human workers?",
-      "link": "https://www.reddit.com/r/Futurology/comments/1v9v7nt/a_mexican_startup_has_started_selling/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/Futurology · community knowledge",
-      "content_type": "post",
-      "author": "u/lughnasadh · r/Futurology",
-      "handle": "Futurology",
-      "org": "r/Futurology",
-      "platform": "reddit",
-      "published": "2026-07-29T12:47:31.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/Futurology"
-      ],
-      "summary": "One of the things I notice about Silicon Valley &amp; Big Tech is how often they co-opt the language of transformation and change, and yet how poor they are at following through. Education, healthcare, and housing - all getting gradually worse. Not Silicon Valley&#39;s concern. They&#39;re chasing investor trillions…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/Futurology this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v9uffn",
-      "title": "Your House Has an FFmpeg Problem - elttam",
-      "link": "https://www.reddit.com/r/netsec/comments/1v9uffn/your_house_has_an_ffmpeg_problem_elttam/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/netsec · community knowledge",
-      "content_type": "post",
-      "author": "u/AnimalStrange · r/netsec",
-      "handle": "netsec",
-      "org": "r/netsec",
-      "platform": "reddit",
-      "published": "2026-07-29T12:12:55.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/netsec"
-      ],
-      "summary": "Your House Has an FFmpeg Problem - elttam",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/netsec this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v9u8yw",
-      "title": "That time when I failed the Microsoft interview",
-      "link": "https://www.reddit.com/r/programming/comments/1v9u8yw/that_time_when_i_failed_the_microsoft_interview/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/programming · community knowledge",
-      "content_type": "post",
-      "author": "u/aochagavia · r/programming",
-      "handle": "programming",
-      "org": "r/programming",
-      "platform": "reddit",
-      "published": "2026-07-29T12:04:34.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Coding & Dev Tools",
-      "category": "Coding & Dev Tools",
-      "genre": "Coding & Dev Tools",
-      "categories": [
-        "Reddit",
-        "Coding & Dev Tools",
-        "r/programming"
-      ],
-      "summary": "That time when I failed the Microsoft interview",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/programming this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v9tyh6",
-      "title": "Meta's borrowing costs just went up 0.4 points from nine months ago and nobody's talking about why the collateral is a lease, not the building",
-      "link": "https://www.reddit.com/r/investing/comments/1v9tyh6/metas_borrowing_costs_just_went_up_04_points_from/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/investing · community knowledge",
-      "content_type": "post",
-      "author": "u/iOCharts_ · r/investing",
-      "handle": "investing",
-      "org": "r/investing",
-      "platform": "reddit",
-      "published": "2026-07-29T11:51:50.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/investing"
-      ],
-      "summary": "Dug into the structure behind Meta&#39;s new $14B data center deal with BlackRock since the headline number alone didn&#39;t say much. BlackRock funds own 80% of the El Paso project, Meta owns 20%. Meta puts in $2.3B in land and existing construction, BlackRock puts in $4.9B cash and finances $12.5B more through bonds…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/investing this week"
       ],
       "metrics": {
         "likes": 0,
