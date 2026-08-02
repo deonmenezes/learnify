@@ -1,14 +1,13 @@
 {
-  "generated_at": "2026-08-01T23:36:21.496Z",
+  "generated_at": "2026-08-02T03:20:49.484Z",
   "subs": [
     "MachineLearning",
-    "Fitness",
-    "hardware",
     "programming",
     "SkincareAddiction",
     "bodyweightfitness",
     "nutrition",
     "startups",
+    "hardware",
     "netsec",
     "robotics",
     "science",
@@ -17,14 +16,15 @@
     "running",
     "Futurology",
     "artificial",
+    "Fitness",
     "cybersecurity"
   ],
   "count": 36,
   "by_category": {
-    "Coding & Dev Tools": 3,
+    "Coding & Dev Tools": 4,
     "AI / ML": 5,
     "Skincare": 3,
-    "Fitness": 11,
+    "Fitness": 10,
     "Startups & Funding": 4,
     "Hardware & Gadgets": 2,
     "Security": 3,
@@ -32,6 +32,45 @@
     "Science": 4
   },
   "articles": [
+    {
+      "id": "reddit_1vcl5bj",
+      "title": "The Bedrock of Software Design",
+      "link": "https://www.reddit.com/r/programming/comments/1vcl5bj/the_bedrock_of_software_design/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/programming · community knowledge",
+      "content_type": "post",
+      "author": "u/alex35mil · r/programming",
+      "handle": "programming",
+      "org": "r/programming",
+      "platform": "reddit",
+      "published": "2026-08-01T11:41:38.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Coding & Dev Tools",
+      "category": "Coding & Dev Tools",
+      "genre": "Coding & Dev Tools",
+      "categories": [
+        "Reddit",
+        "Coding & Dev Tools",
+        "r/programming"
+      ],
+      "summary": "I drafted this post years ago but didn’t finish it until now. The concept I write about has shaped the way I design software more than anything else, and I believe every software engineer should be introduced to it early in their career. P.S. I don’t want the title to come across as clickbait: the post is about ADT.…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/programming this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1vc25gi",
       "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
@@ -1402,45 +1441,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/running this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v9ahm5",
-      "title": "Is there anyone here who has actually gotten rid of their manboobs?",
-      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1v9ahm5/is_there_anyone_here_who_has_actually_gotten_rid/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/bodyweightfitness · community knowledge",
-      "content_type": "post",
-      "author": "u/Salty_Cow_8741 · r/bodyweightfitness",
-      "handle": "bodyweightfitness",
-      "org": "r/bodyweightfitness",
-      "platform": "reddit",
-      "published": "2026-07-28T20:40:24.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/bodyweightfitness"
-      ],
-      "summary": "All those “successful” YouTube videos just don&#39;t inspire confidence in me... They look so muscular by default that I don&#39;t relate to them. I&#39;m an average adult who you might call “skinny fat.” In my case, my fat is concentrated around my hips, and recently, I&#39;ve noticed some “growth” in my chest, which…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/bodyweightfitness this week"
       ],
       "metrics": {
         "likes": 0,
