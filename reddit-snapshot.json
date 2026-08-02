@@ -1,9 +1,10 @@
 {
-  "generated_at": "2026-08-02T17:06:56.249Z",
+  "generated_at": "2026-08-02T18:35:03.956Z",
   "subs": [
     "MachineLearning",
-    "singularity",
-    "nutrition",
+    "artificial",
+    "running",
+    "investing",
     "gadgets",
     "startups",
     "programming",
@@ -12,28 +13,66 @@
     "longevity",
     "LocalLLaMA",
     "bodyweightfitness",
+    "singularity",
+    "nutrition",
     "hardware",
     "netsec",
     "robotics",
-    "science",
-    "investing",
-    "running",
-    "artificial",
-    "Fitness"
+    "science"
   ],
   "count": 36,
   "by_category": {
+    "Startups & Funding": 5,
     "Hardware & Gadgets": 3,
-    "Startups & Funding": 4,
     "Coding & Dev Tools": 4,
     "Science": 6,
-    "AI / ML": 7,
+    "AI / ML": 8,
     "Skincare": 2,
-    "Fitness": 7,
+    "Fitness": 5,
     "Security": 2,
     "Robotics": 1
   },
   "articles": [
+    {
+      "id": "reddit_1vd8bna",
+      "title": "Now that we see the game, do we still want to play?",
+      "link": "https://www.reddit.com/r/investing/comments/1vd8bna/now_that_we_see_the_game_do_we_still_want_to_play/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/investing · community knowledge",
+      "content_type": "post",
+      "author": "u/Emotional-Breath-838 · r/investing",
+      "handle": "investing",
+      "org": "r/investing",
+      "platform": "reddit",
+      "published": "2026-08-02T04:32:52.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/investing"
+      ],
+      "summary": "Rather than AI edit this, I&#39;m going stream of consciousness and I&#39;ll try to structure this somewhat. If you&#39;re an investor, you&#39;ve seen the news. Citadel tells everyone the interest rates are going to go up, and a 25 year old hot shot winds up getting wiped out to the tune of multi-multi-billions of…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/investing this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1vd262h",
       "title": "Galaxy Z Fold 8's \"crease-free\" claims meet reality after one week",
@@ -184,6 +223,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Futurology this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vcccnn",
+      "title": "Reddit Stock Collapses 23% as AI Eats Away at User Growth",
+      "link": "https://www.reddit.com/r/artificial/comments/1vcccnn/reddit_stock_collapses_23_as_ai_eats_away_at_user/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/artificial · community knowledge",
+      "content_type": "post",
+      "author": "u/esporx · r/artificial",
+      "handle": "artificial",
+      "org": "r/artificial",
+      "platform": "reddit",
+      "published": "2026-08-01T03:42:08.000Z",
+      "image": "https://external-preview.redd.it/b7hqehgl1R2px2_ZE-28ubBaNA4OjDtVCeqN_FsDhio.jpeg?width=640&crop=smart&auto=webp&s=5469c39eaf31aae2eec6d91f2bba9b2b5d555e5e",
+      "thumbnail": "https://external-preview.redd.it/b7hqehgl1R2px2_ZE-28ubBaNA4OjDtVCeqN_FsDhio.jpeg?width=640&crop=smart&auto=webp&s=5469c39eaf31aae2eec6d91f2bba9b2b5d555e5e",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/artificial"
+      ],
+      "summary": "Reddit Stock Collapses 23% as AI Eats Away at User Growth",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/artificial this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1334,58 +1413,19 @@
       }
     },
     {
-      "id": "reddit_1v9qmte",
-      "title": "Rant Wednesday - July 29, 2026",
-      "link": "https://www.reddit.com/r/Fitness/comments/1v9qmte/rant_wednesday_july_29_2026/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/Fitness · community knowledge",
-      "content_type": "post",
-      "author": "u/AutoModerator · r/Fitness",
-      "handle": "Fitness",
-      "org": "r/Fitness",
-      "platform": "reddit",
-      "published": "2026-07-29T09:00:22.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/Fitness"
-      ],
-      "summary": "Welcome to Rant Wednesday: It’s your time to let your gym/fitness/nutrition related frustrations out! There is no guiding question to help stir up some rage-feels, feel free to fire at will, ranting about anything and everything that’s been pissing you off or getting on your nerves. Just don&#39;t forget that other…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/Fitness this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v9kxum",
-      "title": "Yesterday most of the market actually went up.",
-      "link": "https://www.reddit.com/r/investing/comments/1v9kxum/yesterday_most_of_the_market_actually_went_up/",
+      "id": "reddit_1v9tyh6",
+      "title": "Meta's borrowing costs just went up 0.4 points from nine months ago and nobody's talking about why the collateral is a lease, not the building",
+      "link": "https://www.reddit.com/r/investing/comments/1v9tyh6/metas_borrowing_costs_just_went_up_04_points_from/",
       "source": "Reddit",
       "source_id": "reddit",
       "region": "Community",
       "focus": "r/investing · community knowledge",
       "content_type": "post",
-      "author": "u/FailOk1528 · r/investing",
+      "author": "u/iOCharts_ · r/investing",
       "handle": "investing",
       "org": "r/investing",
       "platform": "reddit",
-      "published": "2026-07-29T03:55:45.000Z",
+      "published": "2026-07-29T11:51:50.000Z",
       "image": null,
       "thumbnail": null,
       "section": "Startups & Funding",
@@ -1397,7 +1437,7 @@
         "Finance",
         "r/investing"
       ],
-      "summary": "The Dow gained 537 points and the S&amp;P 500 finished slightly higher, while the Nasdaq fell. Coca-Cola, Sherwin-Williams and Illinois Tool Works all had strong days, but Micron, AMD and Applied Materials dropped around 8–9%. For years, one of the biggest complaints about the market was that too much of the index…",
+      "summary": "Dug into the structure behind Meta&#39;s new $14B data center deal with BlackRock since the headline number alone didn&#39;t say much. BlackRock funds own 80% of the El Paso project, Meta owns 20%. Meta puts in $2.3B in land and existing construction, BlackRock puts in $4.9B cash and finances $12.5B more through bonds…",
       "is_social": true,
       "report_worthy": true,
       "worthiness_score": 62,
@@ -1405,45 +1445,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/investing this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v9kkv0",
-      "title": "Maybe your body is not weak, maybe you're just never giving it a damn break",
-      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1v9kkv0/maybe_your_body_is_not_weak_maybe_youre_just/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/bodyweightfitness · community knowledge",
-      "content_type": "post",
-      "author": "u/Dapper-Efficiency-35 · r/bodyweightfitness",
-      "handle": "bodyweightfitness",
-      "org": "r/bodyweightfitness",
-      "platform": "reddit",
-      "published": "2026-07-29T03:38:19.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/bodyweightfitness"
-      ],
-      "summary": "I used to think training more always means getting stronger faster. If 3 workouts are good, then 6 must be better, right? Turns out my body completely disagreed with that stupid idea. My pullups stopped improving, every workout felt heavy, and I was always tired for no damn reason. I kept blaming my program when maybe…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/bodyweightfitness this week"
       ],
       "metrics": {
         "likes": 0,

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-02T17:04:44.628Z",
+  "generated_at": "2026-08-02T18:32:50.551Z",
   "handles": [
-    "gdb",
-    "elonmusk",
     "nvidia",
     "GoogleDeepMind",
-    "OpenAI",
+    "elonmusk",
     "satyanadella",
+    "gdb",
+    "OpenAI",
     "AnthropicAI"
   ],
   "count": 32,
@@ -40,16 +40,16 @@
       "sentiment_score": 0,
       "reasons": [
         "report-worthy",
-        "high engagement (8.1K likes)"
+        "high engagement (8.3K likes)"
       ],
       "metrics": {
-        "likes": 8057,
-        "retweets": 302,
-        "replies": 466,
-        "likes_h": "8.1K"
+        "likes": 8309,
+        "retweets": 315,
+        "replies": 479,
+        "likes_h": "8.3K"
       },
-      "engagement": 9127,
-      "hot": false
+      "engagement": 9418,
+      "hot": true
     },
     {
       "id": "x_2083353705504469233",
@@ -80,15 +80,15 @@
       "sentiment_score": 0.5,
       "reasons": [
         "report-worthy",
-        "high engagement (48.3K likes)"
+        "high engagement (56.3K likes)"
       ],
       "metrics": {
-        "likes": 48278,
-        "retweets": 6126,
-        "replies": 4362,
-        "likes_h": "48.3K"
+        "likes": 56251,
+        "retweets": 7368,
+        "replies": 5453,
+        "likes_h": "56.3K"
       },
-      "engagement": 64892,
+      "engagement": 76440,
       "hot": true
     },
     {
@@ -124,12 +124,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 181,
+        "likes": 182,
         "retweets": 20,
         "replies": 27,
-        "likes_h": "181"
+        "likes_h": "182"
       },
-      "engagement": 248,
+      "engagement": 249,
       "hot": false
     },
     {
@@ -205,12 +205,12 @@
         "tech substance (model, gemini, robotics)"
       ],
       "metrics": {
-        "likes": 73,
-        "retweets": 7,
-        "replies": 7,
-        "likes_h": "73"
+        "likes": 75,
+        "retweets": 9,
+        "replies": 8,
+        "likes_h": "75"
       },
-      "engagement": 94,
+      "engagement": 101,
       "hot": false
     },
     {
@@ -247,12 +247,12 @@
         "high engagement (1.1K likes)"
       ],
       "metrics": {
-        "likes": 1088,
-        "retweets": 146,
-        "replies": 65,
+        "likes": 1106,
+        "retweets": 150,
+        "replies": 69,
         "likes_h": "1.1K"
       },
-      "engagement": 1445,
+      "engagement": 1475,
       "hot": false
     },
     {
@@ -414,15 +414,15 @@
         "casual tone (thank you, incredible)",
         "tech substance (model, open weights, weights)",
         "business signal (partnership)",
-        "high engagement (874 likes)"
+        "high engagement (875 likes)"
       ],
       "metrics": {
-        "likes": 874,
+        "likes": 875,
         "retweets": 128,
         "replies": 70,
-        "likes_h": "874"
+        "likes_h": "875"
       },
-      "engagement": 1200,
+      "engagement": 1201,
       "hot": false
     },
     {
@@ -456,15 +456,15 @@
         "report-worthy",
         "announcement language (launching)",
         "tech substance (gemini, robotics)",
-        "high engagement (4.9K likes)"
+        "high engagement (5K likes)"
       ],
       "metrics": {
-        "likes": 4943,
-        "retweets": 788,
-        "replies": 290,
-        "likes_h": "4.9K"
+        "likes": 5009,
+        "retweets": 808,
+        "replies": 299,
+        "likes_h": "5K"
       },
-      "engagement": 6809,
+      "engagement": 6924,
       "hot": false
     },
     {
@@ -712,12 +712,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 16911,
-        "retweets": 1077,
-        "replies": 681,
+        "likes": 16916,
+        "retweets": 1081,
+        "replies": 690,
         "likes_h": "16.9K"
       },
-      "engagement": 19746,
+      "engagement": 19768,
       "hot": true
     },
     {
@@ -761,7 +761,7 @@
         "likes_h": "7.7K"
       },
       "engagement": 9294,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2082228994653696371",
@@ -1006,12 +1006,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 426,
+        "likes": 428,
         "retweets": 56,
         "replies": 35,
-        "likes_h": "426"
+        "likes_h": "428"
       },
-      "engagement": 573,
+      "engagement": 575,
       "hot": false
     },
     {
@@ -1047,12 +1047,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 309,
+        "likes": 310,
         "retweets": 33,
         "replies": 47,
-        "likes_h": "309"
+        "likes_h": "310"
       },
-      "engagement": 422,
+      "engagement": 423,
       "hot": false
     },
     {
