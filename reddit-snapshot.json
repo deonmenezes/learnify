@@ -1,38 +1,78 @@
 {
-  "generated_at": "2026-08-02T06:22:24.275Z",
+  "generated_at": "2026-08-02T08:59:32.123Z",
   "subs": [
     "MachineLearning",
-    "longevity",
-    "hardware",
+    "Futurology",
+    "gadgets",
     "programming",
     "SkincareAddiction",
+    "longevity",
     "bodyweightfitness",
     "nutrition",
     "startups",
+    "hardware",
     "netsec",
     "robotics",
     "science",
     "investing",
     "LocalLLaMA",
     "running",
-    "Futurology",
     "artificial",
     "Fitness",
     "cybersecurity"
   ],
   "count": 36,
   "by_category": {
+    "Hardware & Gadgets": 3,
     "Coding & Dev Tools": 4,
+    "Science": 6,
     "AI / ML": 5,
-    "Skincare": 3,
-    "Science": 5,
+    "Skincare": 2,
     "Fitness": 9,
-    "Startups & Funding": 4,
-    "Hardware & Gadgets": 2,
+    "Startups & Funding": 3,
     "Security": 3,
     "Robotics": 1
   },
   "articles": [
+    {
+      "id": "reddit_1vd262h",
+      "title": "Galaxy Z Fold 8's \"crease-free\" claims meet reality after one week",
+      "link": "https://www.reddit.com/r/gadgets/comments/1vd262h/galaxy_z_fold_8s_creasefree_claims_meet_reality/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/gadgets · community knowledge",
+      "content_type": "post",
+      "author": "u/dapperlemon · r/gadgets",
+      "handle": "gadgets",
+      "org": "r/gadgets",
+      "platform": "reddit",
+      "published": "2026-08-01T23:33:07.000Z",
+      "image": "https://external-preview.redd.it/P30RsQtVV_RAszzlSduVTHL6czeJ8faKR872VQF0Llg.jpeg?width=640&crop=smart&auto=webp&s=385b52171ae96d5e08c7a8221323cad355d4f18f",
+      "thumbnail": "https://external-preview.redd.it/P30RsQtVV_RAszzlSduVTHL6czeJ8faKR872VQF0Llg.jpeg?width=640&crop=smart&auto=webp&s=385b52171ae96d5e08c7a8221323cad355d4f18f",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/gadgets"
+      ],
+      "summary": "Galaxy Z Fold 8's \"crease-free\" claims meet reality after one week",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/gadgets this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1vcl5bj",
       "title": "The Bedrock of Software Design",
@@ -65,6 +105,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/programming this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vcgndu",
+      "title": "Reddit Stock Collapses 23% as AI Eats Away at User Growth",
+      "link": "https://www.reddit.com/r/Futurology/comments/1vcgndu/reddit_stock_collapses_23_as_ai_eats_away_at_user/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/Futurology · community knowledge",
+      "content_type": "post",
+      "author": "u/Sirisian · r/Futurology",
+      "handle": "Futurology",
+      "org": "r/Futurology",
+      "platform": "reddit",
+      "published": "2026-08-01T07:27:14.000Z",
+      "image": "https://external-preview.redd.it/b7hqehgl1R2px2_ZE-28ubBaNA4OjDtVCeqN_FsDhio.jpeg?width=640&crop=smart&auto=webp&s=5469c39eaf31aae2eec6d91f2bba9b2b5d555e5e",
+      "thumbnail": "https://external-preview.redd.it/b7hqehgl1R2px2_ZE-28ubBaNA4OjDtVCeqN_FsDhio.jpeg?width=640&crop=smart&auto=webp&s=5469c39eaf31aae2eec6d91f2bba9b2b5d555e5e",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/Futurology"
+      ],
+      "summary": "Reddit Stock Collapses 23% as AI Eats Away at User Growth",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/Futurology this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1364,85 +1443,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/nutrition this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v9g3zh",
-      "title": "Acne and Ingrown hair help [ACNE]",
-      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1v9g3zh/acne_and_ingrown_hair_help_acne/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/SkincareAddiction · community knowledge",
-      "content_type": "post",
-      "author": "u/cinnamangos · r/SkincareAddiction",
-      "handle": "SkincareAddiction",
-      "org": "r/SkincareAddiction",
-      "platform": "reddit",
-      "published": "2026-07-29T00:18:30.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Skincare",
-      "category": "Skincare",
-      "genre": "Skincare",
-      "categories": [
-        "Reddit",
-        "Skincare",
-        "r/SkincareAddiction"
-      ],
-      "summary": "Hi folks, I am not asking for medical advice just routines that might help! I keep getting acne on my left boob on a specific area and i think it&#39;s ingrown hairs causing it and then i keep getting ingrown hairs everywhere! especially on my legs and arm! I exfoliate and everything what am i doing wrong please…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/SkincareAddiction this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v9eeb9",
-      "title": "Founder wants me to build the entire commercial side of his startup. Is this compensation package fair? (I will not promote)",
-      "link": "https://www.reddit.com/r/startups/comments/1v9eeb9/founder_wants_me_to_build_the_entire_commercial/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/startups · community knowledge",
-      "content_type": "post",
-      "author": "u/StatisticianNo5356 · r/startups",
-      "handle": "startups",
-      "org": "r/startups",
-      "platform": "reddit",
-      "published": "2026-07-28T23:08:26.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/startups"
-      ],
-      "summary": "I’d really appreciate objective feedback from founders, startup executives, investors, startup attorneys, and anyone who’s negotiated executive compensation in an early-stage company. I’m considering joining an early-stage healthcare SaaS startup as its Chief Commercial Officer , and before finalizing everything I’d…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/startups this week"
       ],
       "metrics": {
         "likes": 0,
