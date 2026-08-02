@@ -1,13 +1,14 @@
 {
-  "generated_at": "2026-08-02T03:20:49.484Z",
+  "generated_at": "2026-08-02T06:22:24.275Z",
   "subs": [
     "MachineLearning",
+    "longevity",
+    "hardware",
     "programming",
     "SkincareAddiction",
     "bodyweightfitness",
     "nutrition",
     "startups",
-    "hardware",
     "netsec",
     "robotics",
     "science",
@@ -24,12 +25,12 @@
     "Coding & Dev Tools": 4,
     "AI / ML": 5,
     "Skincare": 3,
-    "Fitness": 10,
+    "Science": 5,
+    "Fitness": 9,
     "Startups & Funding": 4,
     "Hardware & Gadgets": 2,
     "Security": 3,
-    "Robotics": 1,
-    "Science": 4
+    "Robotics": 1
   },
   "articles": [
     {
@@ -182,6 +183,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/SkincareAddiction this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vbsa18",
+      "title": "Senolytic treatment dasatinib and quercetin damages population of brain cells in lab mice and in vitro cell cultures",
+      "link": "https://www.reddit.com/r/longevity/comments/1vbsa18/senolytic_treatment_dasatinib_and_quercetin/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/longevity · community knowledge",
+      "content_type": "post",
+      "author": "u/lunchboxultimate01 · r/longevity",
+      "handle": "longevity",
+      "org": "r/longevity",
+      "platform": "reddit",
+      "published": "2026-07-31T14:18:44.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Science",
+      "category": "Science",
+      "genre": "Longevity",
+      "categories": [
+        "Reddit",
+        "Science",
+        "Longevity",
+        "r/longevity"
+      ],
+      "summary": "Popular science link: https://www.sciencedaily.com/releases/2026/05/260526022024.htm Original article link: https://www.pnas.org/doi/10.1073/pnas.2524897123 Significance The pharmacological combination of dasatinib and quercetin (D+Q), widely reported as a means of eliminating senescent cells from aged tissues to…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/longevity this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1402,45 +1443,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/startups this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v9awqx",
-      "title": "What do you carry with you during a long distance race (marathon)?",
-      "link": "https://www.reddit.com/r/running/comments/1v9awqx/what_do_you_carry_with_you_during_a_long_distance/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/running · community knowledge",
-      "content_type": "post",
-      "author": "u/fcknErnst · r/running",
-      "handle": "running",
-      "org": "r/running",
-      "platform": "reddit",
-      "published": "2026-07-28T20:55:34.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/running"
-      ],
-      "summary": "Last marathon I realized during warm up that all the gels are too heavy for my race shorts. I had 9 gels x 60 g each = 540 g. Additionally I like to keep my phone with me. For racing I prefer those shorts which have like an inner shorts (like tights) and an outer layer. They have quite a lot of storage space but 750 g…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/running this week"
       ],
       "metrics": {
         "likes": 0,
