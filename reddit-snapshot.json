@@ -1,38 +1,118 @@
 {
-  "generated_at": "2026-08-03T18:23:56.969Z",
+  "generated_at": "2026-08-03T20:17:00.833Z",
   "subs": [
     "MachineLearning",
-    "singularity",
+    "artificial",
     "nutrition",
+    "investing",
     "LocalLLaMA",
     "SkincareAddiction",
     "longevity",
     "bodyweightfitness",
+    "singularity",
     "startups",
-    "investing",
     "gadgets",
     "robotics",
     "cybersecurity",
     "programming",
     "science",
     "Futurology",
-    "artificial",
     "hardware",
     "netsec"
   ],
   "count": 36,
   "by_category": {
-    "AI / ML": 8,
-    "Skincare": 3,
+    "AI / ML": 10,
+    "Startups & Funding": 6,
+    "Skincare": 2,
     "Fitness": 4,
-    "Science": 6,
-    "Startups & Funding": 4,
+    "Science": 5,
     "Hardware & Gadgets": 2,
-    "Robotics": 2,
-    "Security": 4,
+    "Robotics": 1,
+    "Security": 3,
     "Coding & Dev Tools": 3
   },
   "articles": [
+    {
+      "id": "reddit_1ve7chh",
+      "title": "Is it too late regain some coherence in the ML research space in our life time? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1ve7chh/is_it_too_late_regain_some_coherence_in_the_ml/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/MachineLearning · community knowledge",
+      "content_type": "post",
+      "author": "u/NeighborhoodFatCat · r/MachineLearning",
+      "handle": "MachineLearning",
+      "org": "r/MachineLearning",
+      "platform": "reddit",
+      "published": "2026-08-03T08:17:40.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/MachineLearning"
+      ],
+      "summary": "Was just looking at the list of preprints on Arxiv cs.LG https://arxiv.org/list/cs.LG/recent?skip=0&amp;show=500 Everyday 100 - 400 new machine learning papers gets uploaded on this server. Looking at this unending list of preprints is as if you stepped into a crowded room, like the stock trading floor on wall st. in…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1ve2t9d",
+      "title": "The U.S. just helped Japan strengthen the yen. Should U.S. investors care?",
+      "link": "https://www.reddit.com/r/investing/comments/1ve2t9d/the_us_just_helped_japan_strengthen_the_yen/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/investing · community knowledge",
+      "content_type": "post",
+      "author": "u/FailOk1528 · r/investing",
+      "handle": "investing",
+      "org": "r/investing",
+      "platform": "reddit",
+      "published": "2026-08-03T04:06:00.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/investing"
+      ],
+      "summary": "The U.S. and Japan just confirmed a coordinated intervention after the yen fell to around a 40-year low. The yen has already moved from above 163 per dollar to roughly 155–156, and officials are saying they may intervene again. The part I’m interested in isn’t just Japan. A stronger yen makes yen-funded carry trades…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/investing this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1ve0psn",
       "title": "Qwen3.8-27B announced alongside Qwen3.8-Max",
@@ -304,6 +384,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/startups this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vd9u12",
+      "title": "Read the last 3 times BofA called the Fed “dovish” and said sell risk. So I backtested it.",
+      "link": "https://www.reddit.com/r/investing/comments/1vd9u12/read_the_last_3_times_bofa_called_the_fed_dovish/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/investing · community knowledge",
+      "content_type": "post",
+      "author": "u/Sandisunshine96 · r/investing",
+      "handle": "investing",
+      "org": "r/investing",
+      "platform": "reddit",
+      "published": "2026-08-02T05:53:12.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/investing"
+      ],
+      "summary": "BofA&#39;s Michael Hartnett is out today calling the Fed &quot;nakedly dovish&quot; and telling clients to rotate away from risk assets. I was curious if that call has actually worked, so I went back and pulled his Flow Show notes from FactSet / BofA archives. Last 3 times Hartnett used almost identical language: Dec…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/investing this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1102,6 +1222,46 @@
       }
     },
     {
+      "id": "reddit_1vb40gz",
+      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "link": "https://www.reddit.com/r/artificial/comments/1vb40gz/google_says_it_fixed_more_chrome_bugs_in_june/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/artificial · community knowledge",
+      "content_type": "post",
+      "author": "u/ControlCAD · r/artificial",
+      "handle": "artificial",
+      "org": "r/artificial",
+      "platform": "reddit",
+      "published": "2026-07-30T19:43:35.000Z",
+      "image": "https://external-preview.redd.it/KCSBV6WG_jk0uyCU49cOiYAFDFtoCLyUa8ozQ0tbTL4.jpeg?width=640&crop=smart&auto=webp&s=042223544b25eb520e3290caf881c744938e7f4a",
+      "thumbnail": "https://external-preview.redd.it/KCSBV6WG_jk0uyCU49cOiYAFDFtoCLyUa8ozQ0tbTL4.jpeg?width=640&crop=smart&auto=webp&s=042223544b25eb520e3290caf881c744938e7f4a",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/artificial"
+      ],
+      "summary": "&gt;The tech giant announced that it has fixed a whopping 1,072 security bugs in the last two versions of Chrome, both released in June. That is more than the number of bugs patched in the previous 23 versions released over the last two years, which totalled 1,036 fixes. &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/artificial this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1vb3xwd",
       "title": "MLVC: Multi-platform Learned Video Codec for Real-World Deployment [P]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1vb3xwd/mlvc_multiplatform_learned_video_codec_for/",
@@ -1291,162 +1451,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1varxei",
-      "title": "If it were at an amusement park, would you want to ride it?",
-      "link": "https://www.reddit.com/r/robotics/comments/1varxei/if_it_were_at_an_amusement_park_would_you_want_to/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/robotics · community knowledge",
-      "content_type": "post",
-      "author": "u/D1n0saurMecha · r/robotics",
-      "handle": "robotics",
-      "org": "r/robotics",
-      "platform": "reddit",
-      "published": "2026-07-30T12:14:19.000Z",
-      "image": "https://preview.redd.it/ahqtn47uycgh1.jpg?width=140&height=140&auto=webp&s=e96e7d862bbe249968f29c17747b1219f9c3dbad",
-      "thumbnail": "https://preview.redd.it/ahqtn47uycgh1.jpg?width=140&height=140&auto=webp&s=e96e7d862bbe249968f29c17747b1219f9c3dbad",
-      "section": "Robotics",
-      "category": "Robotics",
-      "genre": "Robotics",
-      "categories": [
-        "Reddit",
-        "Robotics",
-        "r/robotics"
-      ],
-      "summary": "California-based robotics startup Satyress is developing Threehalves, a 7-foot-tall teleoperated centaur robot designed for hazardous work.But if it’s designed for hazardous tasks, why does it look like something you could ride—something that seems more at home in an amusement park? Although its appearance is a bit…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/robotics this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1var1bg",
-      "title": "Beware: attackers now using real Microsoft sign-in screen for phishing",
-      "link": "https://www.reddit.com/r/cybersecurity/comments/1var1bg/beware_attackers_now_using_real_microsoft_signin/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/cybersecurity · community knowledge",
-      "content_type": "post",
-      "author": "u/sunychoudhary · r/cybersecurity",
-      "handle": "cybersecurity",
-      "org": "r/cybersecurity",
-      "platform": "reddit",
-      "published": "2026-07-30T11:32:39.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/cybersecurity"
-      ],
-      "summary": "Every screen the victim sees is real. &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/cybersecurity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vaqgr3",
-      "title": "A political science paper has emerged comparing the political career of U.S. President Donald Trump to the narrative of Japan’s iconic monster, Godzilla. The study highlights parallels: both were summoned by human errors, wreak havoc indiscriminately, and return even after being seemingly defeated.",
-      "link": "https://www.reddit.com/r/science/comments/1vaqgr3/a_political_science_paper_has_emerged_comparing/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/science · community knowledge",
-      "content_type": "post",
-      "author": "u/mvea · r/science",
-      "handle": "science",
-      "org": "r/science",
-      "platform": "reddit",
-      "published": "2026-07-30T11:03:54.000Z",
-      "image": "https://external-preview.redd.it/L3gw6AgB67T1ZJ_zodVk1rizWGz3R5Bh2Fh-S7hWK84.jpeg?width=640&crop=smart&auto=webp&s=bab2003d539248aec48a8029403f1aad12f85477",
-      "thumbnail": "https://external-preview.redd.it/L3gw6AgB67T1ZJ_zodVk1rizWGz3R5Bh2Fh-S7hWK84.jpeg?width=640&crop=smart&auto=webp&s=bab2003d539248aec48a8029403f1aad12f85477",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/science"
-      ],
-      "summary": "A political science paper has emerged comparing the political career of U.S. President Donald Trump to the narrative of Japan’s iconic monster, Godzilla. The study highlights parallels: both were summoned by human errors, wreak havoc indiscriminately, and return even after being seemingly defeated.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/science this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vanjhr",
-      "title": "6 years of extreme sun protection [B&A]",
-      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1vanjhr/6_years_of_extreme_sun_protection_ba/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/SkincareAddiction · community knowledge",
-      "content_type": "post",
-      "author": "u/psychoactiveavocado · r/SkincareAddiction",
-      "handle": "SkincareAddiction",
-      "org": "r/SkincareAddiction",
-      "platform": "reddit",
-      "published": "2026-07-30T08:20:46.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Skincare",
-      "category": "Skincare",
-      "genre": "Skincare",
-      "categories": [
-        "Reddit",
-        "Skincare",
-        "r/SkincareAddiction"
-      ],
-      "summary": "First pic age 22, never used sunscreen or any type of skincare. Second pic I’m almost 29 and have practiced extreme sun protection for almost 7 years. Things I did: -max dose tretinoin daily 0.1% for all 6 years -azaelic acid &amp; vitamin c daily -Korean sunscreen every 2h strictly even when I am indoors (beauty of…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/SkincareAddiction this week"
       ],
       "metrics": {
         "likes": 0,
