@@ -1,36 +1,35 @@
 {
-  "generated_at": "2026-08-03T20:17:00.833Z",
+  "generated_at": "2026-08-03T21:45:44.874Z",
   "subs": [
     "MachineLearning",
-    "artificial",
-    "nutrition",
+    "science",
+    "cybersecurity",
     "investing",
     "LocalLLaMA",
     "SkincareAddiction",
+    "nutrition",
     "longevity",
     "bodyweightfitness",
     "singularity",
     "startups",
     "gadgets",
     "robotics",
-    "cybersecurity",
     "programming",
-    "science",
     "Futurology",
-    "hardware",
-    "netsec"
+    "artificial",
+    "hardware"
   ],
   "count": 36,
   "by_category": {
-    "AI / ML": 10,
+    "AI / ML": 9,
     "Startups & Funding": 6,
     "Skincare": 2,
     "Fitness": 4,
-    "Science": 5,
+    "Security": 3,
+    "Science": 7,
     "Hardware & Gadgets": 2,
     "Robotics": 1,
-    "Security": 3,
-    "Coding & Dev Tools": 3
+    "Coding & Dev Tools": 2
   },
   "articles": [
     {
@@ -225,6 +224,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/nutrition this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vdmhs3",
+      "title": "US Water Systems Hit by Suspected Iranian Cyber Attacks",
+      "link": "https://www.reddit.com/r/cybersecurity/comments/1vdmhs3/us_water_systems_hit_by_suspected_iranian_cyber/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/cybersecurity · community knowledge",
+      "content_type": "post",
+      "author": "u/Adept_Grand_6523 · r/cybersecurity",
+      "handle": "cybersecurity",
+      "org": "r/cybersecurity",
+      "platform": "reddit",
+      "published": "2026-08-02T16:28:09.000Z",
+      "image": "https://external-preview.redd.it/bGGYPTyTQRAeCgWXqFqek5ICPBnpRC3QAxCTQHpAC-k.jpeg?width=640&crop=smart&auto=webp&s=a65dae8406e9f3651d458c9994917b91d39c971d",
+      "thumbnail": "https://external-preview.redd.it/bGGYPTyTQRAeCgWXqFqek5ICPBnpRC3QAxCTQHpAC-k.jpeg?width=640&crop=smart&auto=webp&s=a65dae8406e9f3651d458c9994917b91d39c971d",
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/cybersecurity"
+      ],
+      "summary": "US Water Systems Hit by Suspected Iranian Cyber Attacks",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/cybersecurity this week"
       ],
       "metrics": {
         "likes": 0,
@@ -905,6 +943,45 @@
       }
     },
     {
+      "id": "reddit_1vbxu44",
+      "title": "Rattlesnakes evolved proteins that block their own venom. UMD researchers combined them into a lab-made antivenom 10x more potent than current ones, neutralizing venoms from multiple viper species. The antivenom is cheaper, safer, mass-producible, and could address global shortages.",
+      "link": "https://www.reddit.com/r/science/comments/1vbxu44/rattlesnakes_evolved_proteins_that_block_their/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/science · community knowledge",
+      "content_type": "post",
+      "author": "u/andmario_com · r/science",
+      "handle": "science",
+      "org": "r/science",
+      "platform": "reddit",
+      "published": "2026-07-31T17:41:04.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/science"
+      ],
+      "summary": "Rattlesnakes evolved proteins that block their own venom. UMD researchers combined them into a lab-made antivenom 10x more potent than current ones, neutralizing venoms from multiple viper species. The antivenom is cheaper, safer, mass-producible, and could address global shortages.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/science this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1vbts4m",
       "title": "[B&A] PSA: If your skin goes to hell like this in your 20s, go to a dermatologist about rosacea",
       "link": "https://www.reddit.com/r/SkincareAddiction/comments/1vbts4m/ba_psa_if_your_skin_goes_to_hell_like_this_in/",
@@ -1222,6 +1299,45 @@
       }
     },
     {
+      "id": "reddit_1vb5ja3",
+      "title": "In lab tests, salmonella, E. coli and staph survived 14+ days in kitchen sponges — 3 days after drying out — and one wipe moved up to 100,000 bacteria to a clean surface; smell and color gave no indication of contamination. Brushes dry faster and carry far fewer bacteria, researchers say.",
+      "link": "https://www.reddit.com/r/science/comments/1vb5ja3/in_lab_tests_salmonella_e_coli_and_staph_survived/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/science · community knowledge",
+      "content_type": "post",
+      "author": "u/andmario_com · r/science",
+      "handle": "science",
+      "org": "r/science",
+      "platform": "reddit",
+      "published": "2026-07-30T20:38:26.000Z",
+      "image": "https://external-preview.redd.it/3TcGgUy9IQ0oUWZfVX3_A8N0k_-BoDUWa9wdixbvQbk.jpeg?width=640&crop=smart&auto=webp&s=20c9ac6176a7aa70849ec9274cfe107eaad6aa85",
+      "thumbnail": "https://external-preview.redd.it/3TcGgUy9IQ0oUWZfVX3_A8N0k_-BoDUWa9wdixbvQbk.jpeg?width=640&crop=smart&auto=webp&s=20c9ac6176a7aa70849ec9274cfe107eaad6aa85",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/science"
+      ],
+      "summary": "In lab tests, salmonella, E. coli and staph survived 14+ days in kitchen sponges — 3 days after drying out — and one wipe moved up to 100,000 bacteria to a clean surface; smell and color gave no indication of contamination. Brushes dry faster and carry far fewer bacteria, researchers say.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/science this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1vb40gz",
       "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
       "link": "https://www.reddit.com/r/artificial/comments/1vb40gz/google_says_it_fixed_more_chrome_bugs_in_june/",
@@ -1333,124 +1449,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/hardware this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vayhxm",
-      "title": "Stacked pull requests are now in public preview - GitHub Changelog",
-      "link": "https://www.reddit.com/r/programming/comments/1vayhxm/stacked_pull_requests_are_now_in_public_preview/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/programming · community knowledge",
-      "content_type": "post",
-      "author": "u/tomzorzhu · r/programming",
-      "handle": "programming",
-      "org": "r/programming",
-      "platform": "reddit",
-      "published": "2026-07-30T16:27:18.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Coding & Dev Tools",
-      "category": "Coding & Dev Tools",
-      "genre": "Coding & Dev Tools",
-      "categories": [
-        "Reddit",
-        "Coding & Dev Tools",
-        "r/programming"
-      ],
-      "summary": "Stacked pull requests are now in public preview - GitHub Changelog",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/programming this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vax66g",
-      "title": "What Every Programmer Should Know About Twists of Elliptic Curves",
-      "link": "https://www.reddit.com/r/netsec/comments/1vax66g/what_every_programmer_should_know_about_twists_of/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/netsec · community knowledge",
-      "content_type": "post",
-      "author": "u/DataBaeBee · r/netsec",
-      "handle": "netsec",
-      "org": "r/netsec",
-      "platform": "reddit",
-      "published": "2026-07-30T15:40:21.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/netsec"
-      ],
-      "summary": "What Every Programmer Should Know About Twists of Elliptic Curves",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/netsec this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vawwb8",
-      "title": "I have lost three and a half potential PhD students due to the conference review process [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vawwb8/i_have_lost_three_and_a_half_potential_phd/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/MachineLearning · community knowledge",
-      "content_type": "post",
-      "author": "u/AffectionateLife5693 · r/MachineLearning",
-      "handle": "MachineLearning",
-      "org": "r/MachineLearning",
-      "platform": "reddit",
-      "published": "2026-07-30T15:30:29.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/MachineLearning"
-      ],
-      "summary": "Early-career Assistant Professor here. I identified some talented undergraduate students and worked with them on research problems, trying to convert them into either my PhD students or recommending them to my collaborators. Three said a hard no after going through the paper submission process. They are not interested…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/MachineLearning this week"
       ],
       "metrics": {
         "likes": 0,
