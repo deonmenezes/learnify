@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-08-03T13:47:10.174Z",
+  "generated_at": "2026-08-03T16:32:55.937Z",
   "subs": [
     "MachineLearning",
+    "singularity",
+    "SkincareAddiction",
     "LocalLLaMA",
+    "longevity",
     "bodyweightfitness",
     "startups",
-    "longevity",
     "investing",
     "gadgets",
     "robotics",
@@ -14,8 +16,6 @@
     "science",
     "Futurology",
     "artificial",
-    "SkincareAddiction",
-    "singularity",
     "nutrition",
     "hardware",
     "netsec"
@@ -23,14 +23,14 @@
   "count": 36,
   "by_category": {
     "AI / ML": 8,
+    "Skincare": 3,
     "Science": 6,
     "Fitness": 3,
     "Startups & Funding": 5,
-    "Hardware & Gadgets": 3,
+    "Hardware & Gadgets": 2,
     "Robotics": 2,
     "Security": 4,
-    "Coding & Dev Tools": 3,
-    "Skincare": 2
+    "Coding & Dev Tools": 3
   },
   "articles": [
     {
@@ -66,6 +66,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/LocalLLaMA this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vdz40g",
+      "title": "Discovered I’m not someone who should apply lotion right out of the shower [Personal]",
+      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1vdz40g/discovered_im_not_someone_who_should_apply_lotion/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/SkincareAddiction · community knowledge",
+      "content_type": "post",
+      "author": "u/katezorzz · r/SkincareAddiction",
+      "handle": "SkincareAddiction",
+      "org": "r/SkincareAddiction",
+      "platform": "reddit",
+      "published": "2026-08-03T01:05:41.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Skincare",
+      "category": "Skincare",
+      "genre": "Skincare",
+      "categories": [
+        "Reddit",
+        "Skincare",
+        "r/SkincareAddiction"
+      ],
+      "summary": "Posting this in case I can possibly help someone else. I’ve been applying lotion directly after the shower ever since I was told that’s the best way to lock in moisture, however I’ve struggled for so long with getting red bumps on my shoulders, chest, arms, and the tops of my thighs which would always get worse during…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/SkincareAddiction this week"
       ],
       "metrics": {
         "likes": 0,
@@ -145,6 +184,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/bodyweightfitness this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vdfa3z",
+      "title": "This scene from \"Don't Look Up\" is now real",
+      "link": "https://www.reddit.com/r/singularity/comments/1vdfa3z/this_scene_from_dont_look_up_is_now_real/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/singularity · community knowledge",
+      "content_type": "post",
+      "author": "u/ClarityInMadness · r/singularity",
+      "handle": "singularity",
+      "org": "r/singularity",
+      "platform": "reddit",
+      "published": "2026-08-02T11:07:56.000Z",
+      "image": "https://external-preview.redd.it/MXg1eHE5c2IyeWdoMQ8YqwxEEOrOP8cj8SCugGsP8PFQ-TdXxYX3hn_BI0li.png?width=640&crop=smart&auto=webp&s=029fc120f830d8d90e068337db183d48c18d34db",
+      "thumbnail": "https://external-preview.redd.it/MXg1eHE5c2IyeWdoMQ8YqwxEEOrOP8cj8SCugGsP8PFQ-TdXxYX3hn_BI0li.png?width=640&crop=smart&auto=webp&s=029fc120f830d8d90e068337db183d48c18d34db",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/singularity"
+      ],
+      "summary": "This scene from \"Don't Look Up\" is now real",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/singularity this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1368,85 +1447,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/investing this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vaid0k",
-      "title": "Most Redditors have no idea how the DRAM market works",
-      "link": "https://www.reddit.com/r/hardware/comments/1vaid0k/most_redditors_have_no_idea_how_the_dram_market/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/hardware · community knowledge",
-      "content_type": "post",
-      "author": "u/SuddenFlatworm7971 · r/hardware",
-      "handle": "hardware",
-      "org": "r/hardware",
-      "platform": "reddit",
-      "published": "2026-07-30T03:42:07.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/hardware"
-      ],
-      "summary": "Most Redditors have no idea how the DRAM market works, they just regurgitate the misinformation they have heard ever since the price crisis began with the AI Capex increase. The amount of flat out wrong information circulating that directly contradicts the very basics of how businesses and DRAM market functions is…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/hardware this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1va73s6",
-      "title": "The open-weights carousel never stops.",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1va73s6/the_openweights_carousel_never_stops/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/LocalLLaMA · community knowledge",
-      "content_type": "post",
-      "author": "u/InternationalGap3698 · r/LocalLLaMA",
-      "handle": "LocalLLaMA",
-      "org": "r/LocalLLaMA",
-      "platform": "reddit",
-      "published": "2026-07-29T19:54:19.000Z",
-      "image": "https://preview.redd.it/5v8mtzib48gh1.png?width=640&crop=smart&auto=webp&s=4e6790afb8c412c39465024a8b7f99825f085d29",
-      "thumbnail": "https://preview.redd.it/5v8mtzib48gh1.png?width=640&crop=smart&auto=webp&s=4e6790afb8c412c39465024a8b7f99825f085d29",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/LocalLLaMA"
-      ],
-      "summary": "The open-weights carousel never stops.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/LocalLLaMA this week"
       ],
       "metrics": {
         "likes": 0,
