@@ -1,12 +1,14 @@
 {
-  "generated_at": "2026-08-03T06:49:11.607Z",
+  "generated_at": "2026-08-03T10:49:17.944Z",
   "subs": [
     "MachineLearning",
-    "bodyweightfitness",
-    "startups",
+    "Fitness",
+    "robotics",
     "longevity",
+    "bodyweightfitness",
     "investing",
     "gadgets",
+    "startups",
     "cybersecurity",
     "programming",
     "science",
@@ -18,20 +20,19 @@
     "nutrition",
     "hardware",
     "netsec",
-    "robotics",
     "running"
   ],
   "count": 36,
   "by_category": {
-    "Science": 7,
+    "Science": 6,
     "Fitness": 5,
     "Startups & Funding": 4,
     "Hardware & Gadgets": 3,
+    "Robotics": 2,
     "Security": 4,
     "Coding & Dev Tools": 3,
     "AI / ML": 7,
-    "Skincare": 2,
-    "Robotics": 1
+    "Skincare": 2
   },
   "articles": [
     {
@@ -225,6 +226,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/gadgets this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vcyslb",
+      "title": "Full run and a segment of a task. 100% from 16 examples.",
+      "link": "https://www.reddit.com/r/robotics/comments/1vcyslb/full_run_and_a_segment_of_a_task_100_from_16/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/robotics · community knowledge",
+      "content_type": "post",
+      "author": "u/Wing-Realistic · r/robotics",
+      "handle": "robotics",
+      "org": "r/robotics",
+      "platform": "reddit",
+      "published": "2026-08-01T21:07:18.000Z",
+      "image": "https://external-preview.redd.it/czA0bXU2aDl3dGdoMQrG_ijxdFXGu6sn-L4MGv2mnbg3FkDVfWqEAbHAJZKO.png?width=640&crop=smart&auto=webp&s=a559e40084239ce3d414f45b9ab1a19dd8ac7722",
+      "thumbnail": "https://external-preview.redd.it/czA0bXU2aDl3dGdoMQrG_ijxdFXGu6sn-L4MGv2mnbg3FkDVfWqEAbHAJZKO.png?width=640&crop=smart&auto=webp&s=a559e40084239ce3d414f45b9ab1a19dd8ac7722",
+      "section": "Robotics",
+      "category": "Robotics",
+      "genre": "Robotics",
+      "categories": [
+        "Reddit",
+        "Robotics",
+        "r/robotics"
+      ],
+      "summary": "To play with continuous learning, your base model needs to be data-efficient and stable, which we tested here. Because all irrelevant fluctuations can compound over time. &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/robotics this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1407,45 +1447,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/running this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1va1yj2",
-      "title": "Scientists Uncover Hundreds of Hidden Structures Beneath The Amazon. \"The scale of the archaeological record suggests that many other regions across Amazonia may have been far more densely populated and intensively modified than previously assumed.\"",
-      "link": "https://www.reddit.com/r/science/comments/1va1yj2/scientists_uncover_hundreds_of_hidden_structures/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/science · community knowledge",
-      "content_type": "post",
-      "author": "u/FreeHugs23 · r/science",
-      "handle": "science",
-      "org": "r/science",
-      "platform": "reddit",
-      "published": "2026-07-29T16:54:55.000Z",
-      "image": "https://external-preview.redd.it/MNli-8N95CT71BgXjKMRl1bpxwlIlKppWx3WZ4l8ixQ.jpeg?width=640&crop=smart&auto=webp&s=92fa5816cef875b7bab26e62e5fdefc9dd6789c2",
-      "thumbnail": "https://external-preview.redd.it/MNli-8N95CT71BgXjKMRl1bpxwlIlKppWx3WZ4l8ixQ.jpeg?width=640&crop=smart&auto=webp&s=92fa5816cef875b7bab26e62e5fdefc9dd6789c2",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/science"
-      ],
-      "summary": "Scientists Uncover Hundreds of Hidden Structures Beneath The Amazon. \"The scale of the archaeological record suggests that many other regions across Amazonia may have been far more densely populated and intensively modified than previously assumed.\"",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/science this week"
       ],
       "metrics": {
         "likes": 0,
