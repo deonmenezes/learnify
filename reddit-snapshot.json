@@ -1,10 +1,11 @@
 {
-  "generated_at": "2026-08-03T16:32:55.937Z",
+  "generated_at": "2026-08-03T18:23:56.969Z",
   "subs": [
     "MachineLearning",
     "singularity",
-    "SkincareAddiction",
+    "nutrition",
     "LocalLLaMA",
+    "SkincareAddiction",
     "longevity",
     "bodyweightfitness",
     "startups",
@@ -16,7 +17,6 @@
     "science",
     "Futurology",
     "artificial",
-    "nutrition",
     "hardware",
     "netsec"
   ],
@@ -24,9 +24,9 @@
   "by_category": {
     "AI / ML": 8,
     "Skincare": 3,
+    "Fitness": 4,
     "Science": 6,
-    "Fitness": 3,
-    "Startups & Funding": 5,
+    "Startups & Funding": 4,
     "Hardware & Gadgets": 2,
     "Robotics": 2,
     "Security": 4,
@@ -105,6 +105,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/SkincareAddiction this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vdom5t",
+      "title": "Buckwheat is OP",
+      "link": "https://www.reddit.com/r/nutrition/comments/1vdom5t/buckwheat_is_op/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/nutrition · community knowledge",
+      "content_type": "post",
+      "author": "u/steak_expert9 · r/nutrition",
+      "handle": "nutrition",
+      "org": "r/nutrition",
+      "platform": "reddit",
+      "published": "2026-08-02T17:52:27.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Nutrition",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "Nutrition",
+        "r/nutrition"
+      ],
+      "summary": "-gluten free -lower GI index than white rice -unique antioxidants not found in other grains -complete protein profile -10g of fiber per 80g of raw buckwheat -CHEAP &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/nutrition this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1407,46 +1447,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/SkincareAddiction this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vakwym",
-      "title": "Does the Fed decision even matter if the 30-year stays above 5%?",
-      "link": "https://www.reddit.com/r/investing/comments/1vakwym/does_the_fed_decision_even_matter_if_the_30year/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/investing · community knowledge",
-      "content_type": "post",
-      "author": "u/FailOk1528 · r/investing",
-      "handle": "investing",
-      "org": "r/investing",
-      "platform": "reddit",
-      "published": "2026-07-30T05:53:20.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/investing"
-      ],
-      "summary": "The Fed held rates yesterday, but the 30-year Treasury still moved to around 5.23%, the highest level since 2007. Most of the discussion I’m seeing is still about whether the Fed hikes another 25bp in September. I’m starting to wonder how much that actually matters if long-term borrowing costs are already above 5%.…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/investing this week"
       ],
       "metrics": {
         "likes": 0,

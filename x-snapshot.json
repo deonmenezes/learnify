@@ -1,16 +1,58 @@
 {
-  "generated_at": "2026-08-03T16:30:41.790Z",
+  "generated_at": "2026-08-03T18:21:42.125Z",
   "handles": [
-    "gdb",
-    "elonmusk",
     "nvidia",
     "GoogleDeepMind",
-    "OpenAI",
+    "elonmusk",
     "satyanadella",
+    "gdb",
+    "OpenAI",
     "AnthropicAI"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2084274899065897011",
+      "title": "Worth noting that any USAID funding that appeared to have the slightest merit whatsoever for helping people in need was moved to the State Department. Only the funding where they provided no evidence…",
+      "link": "https://x.com/elonmusk/status/2084274899065897011",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Elon Musk · @elonmusk",
+      "handle": "elonmusk",
+      "org": "xAI/Tesla",
+      "published": "2026-08-03T13:47:14.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "xAI/Tesla",
+        "Commentary"
+      ],
+      "summary": "Worth noting that any USAID funding that appeared to have the slightest merit whatsoever for helping people in need was moved to the State Department. Only the funding where they provided no evidence at all for who would receive the money was stopped. https://m.youtube.com/watch?v=gUOwPcfc1MM&ra=m",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 81,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "business signal (funding)",
+        "links to a source",
+        "high engagement (19.1K likes)"
+      ],
+      "metrics": {
+        "likes": 19117,
+        "retweets": 2787,
+        "replies": 1384,
+        "likes_h": "19.1K"
+      },
+      "engagement": 26075,
+      "hot": true
+    },
     {
       "id": "x_2083435180392673714",
       "title": "at openai, many people hook their chatgpt up to slack. people really don't like when a coworker's chatgpt contacts them asking for help with a task, even when they'd be perfectly happy doing that…",
@@ -49,7 +91,7 @@
         "likes_h": "8.4K"
       },
       "engagement": 9564,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2083353705504469233",
@@ -124,12 +166,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 183,
-        "retweets": 20,
-        "replies": 28,
-        "likes_h": "183"
+        "likes": 190,
+        "retweets": 22,
+        "replies": 35,
+        "likes_h": "190"
       },
-      "engagement": 251,
+      "engagement": 269,
       "hot": false
     },
     {
@@ -161,15 +203,15 @@
       "sentiment_score": 0,
       "reasons": [
         "report-worthy",
-        "high engagement (1.3K likes)"
+        "high engagement (1.4K likes)"
       ],
       "metrics": {
-        "likes": 1349,
-        "retweets": 204,
-        "replies": 123,
-        "likes_h": "1.3K"
+        "likes": 1357,
+        "retweets": 206,
+        "replies": 125,
+        "likes_h": "1.4K"
       },
-      "engagement": 1880,
+      "engagement": 1894,
       "hot": false
     },
     {
@@ -205,12 +247,12 @@
         "tech substance (model, gemini, robotics)"
       ],
       "metrics": {
-        "likes": 75,
-        "retweets": 9,
+        "likes": 78,
+        "retweets": 12,
         "replies": 8,
-        "likes_h": "75"
+        "likes_h": "78"
       },
-      "engagement": 101,
+      "engagement": 110,
       "hot": false
     },
     {
@@ -247,12 +289,12 @@
         "high engagement (1.1K likes)"
       ],
       "metrics": {
-        "likes": 1106,
-        "retweets": 150,
-        "replies": 69,
+        "likes": 1110,
+        "retweets": 154,
+        "replies": 73,
         "likes_h": "1.1K"
       },
-      "engagement": 1475,
+      "engagement": 1491,
       "hot": false
     },
     {
@@ -414,15 +456,15 @@
         "casual tone (thank you, incredible)",
         "tech substance (model, open weights, weights)",
         "business signal (partnership)",
-        "high engagement (875 likes)"
+        "high engagement (880 likes)"
       ],
       "metrics": {
-        "likes": 875,
+        "likes": 880,
         "retweets": 128,
         "replies": 70,
-        "likes_h": "875"
+        "likes_h": "880"
       },
-      "engagement": 1201,
+      "engagement": 1206,
       "hot": false
     },
     {
@@ -459,12 +501,12 @@
         "high engagement (5K likes)"
       ],
       "metrics": {
-        "likes": 5013,
-        "retweets": 810,
-        "replies": 300,
+        "likes": 5046,
+        "retweets": 825,
+        "replies": 314,
         "likes_h": "5K"
       },
-      "engagement": 6933,
+      "engagement": 7010,
       "hot": false
     },
     {
@@ -712,12 +754,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 16918,
-        "retweets": 1082,
-        "replies": 690,
+        "likes": 16925,
+        "retweets": 1079,
+        "replies": 692,
         "likes_h": "16.9K"
       },
-      "engagement": 19772,
+      "engagement": 19775,
       "hot": true
     },
     {
@@ -1006,12 +1048,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 428,
-        "retweets": 56,
+        "likes": 431,
+        "retweets": 57,
         "replies": 35,
-        "likes_h": "428"
+        "likes_h": "431"
       },
-      "engagement": 575,
+      "engagement": 580,
       "hot": false
     },
     {
@@ -1303,45 +1345,6 @@
         "likes_h": "1.2K"
       },
       "engagement": 1592,
-      "hot": false
-    },
-    {
-      "id": "x_2080887168793190587",
-      "title": "To compete in the intelligence era, nations need AI factory infrastructure. Together, @official_naver, NVIDIA, and @Brookfield are expanding Korea’s national AI factory buildout to fuel Korea’s…",
-      "link": "https://x.com/nvidia/status/2080887168793190587",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-07-25T05:25:36.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Commentary"
-      ],
-      "summary": "To compete in the intelligence era, nations need AI factory infrastructure. Together, @official_naver, NVIDIA, and @Brookfield are expanding Korea’s national AI factory buildout to fuel Korea’s startups and industries at gigawatt-scale. NAVER is deploying the NVIDIA DSX",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 60,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy"
-      ],
-      "metrics": {
-        "likes": 600,
-        "retweets": 82,
-        "replies": 40,
-        "likes_h": "600"
-      },
-      "engagement": 804,
       "hot": false
     }
   ]
