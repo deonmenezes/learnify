@@ -1,40 +1,78 @@
 {
-  "generated_at": "2026-08-03T10:49:17.944Z",
+  "generated_at": "2026-08-03T13:47:10.174Z",
   "subs": [
     "MachineLearning",
-    "Fitness",
-    "robotics",
-    "longevity",
+    "LocalLLaMA",
     "bodyweightfitness",
+    "startups",
+    "longevity",
     "investing",
     "gadgets",
-    "startups",
+    "robotics",
     "cybersecurity",
     "programming",
     "science",
     "Futurology",
     "artificial",
     "SkincareAddiction",
-    "LocalLLaMA",
     "singularity",
     "nutrition",
     "hardware",
-    "netsec",
-    "running"
+    "netsec"
   ],
   "count": 36,
   "by_category": {
+    "AI / ML": 8,
     "Science": 6,
-    "Fitness": 5,
-    "Startups & Funding": 4,
+    "Fitness": 3,
+    "Startups & Funding": 5,
     "Hardware & Gadgets": 3,
     "Robotics": 2,
     "Security": 4,
     "Coding & Dev Tools": 3,
-    "AI / ML": 7,
     "Skincare": 2
   },
   "articles": [
+    {
+      "id": "reddit_1ve0psn",
+      "title": "Qwen3.8-27B announced alongside Qwen3.8-Max",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1ve0psn/qwen3827b_announced_alongside_qwen38max/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/LocalLLaMA · community knowledge",
+      "content_type": "post",
+      "author": "u/TKGaming_11 · r/LocalLLaMA",
+      "handle": "LocalLLaMA",
+      "org": "r/LocalLLaMA",
+      "platform": "reddit",
+      "published": "2026-08-03T02:21:49.000Z",
+      "image": "https://preview.redd.it/gy0tgokdl2hh1.png?width=140&height=112&auto=webp&s=cb73fedfe8b394186067c20064d330d7118d26aa",
+      "thumbnail": "https://preview.redd.it/gy0tgokdl2hh1.png?width=140&height=112&auto=webp&s=cb73fedfe8b394186067c20064d330d7118d26aa",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/LocalLLaMA"
+      ],
+      "summary": "https://preview.redd.it/gy0tgokdl2hh1.png?width=540&amp;format=png&amp;auto=webp&amp;s=7db9e034613a915cb33d378b99ad72c31c7cc18f source: https://x.com/Alibaba_Qwen/status/2084100707423289643 &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/LocalLLaMA this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1vdm1nk",
       "title": "How Urolithin A Improved a Model of Heart Failure: Not Just by Enhancing Mitophagy, but by an Unexpected Route Through the Gut Microbiome",
@@ -107,6 +145,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/bodyweightfitness this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vdabv7",
+      "title": "why hasn't there been an app like Pokemon Go in a long time that brings together social cohesion in society? i will not promote",
+      "link": "https://www.reddit.com/r/startups/comments/1vdabv7/why_hasnt_there_been_an_app_like_pokemon_go_in_a/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/startups · community knowledge",
+      "content_type": "post",
+      "author": "u/Lost_Foot_6301 · r/startups",
+      "handle": "startups",
+      "org": "r/startups",
+      "platform": "reddit",
+      "published": "2026-08-02T06:20:19.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/startups"
+      ],
+      "summary": "pokemon go is the last time I remember tech bringing random people of different walks of life together IRL having fun together. it was like a big social experiment that nobody ever tried to continue again. why hasn&#39;t someone attempted something like that again? &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/startups this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1369,84 +1447,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/LocalLLaMA this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1va540a",
-      "title": "When do core exercises stop feeling so hard",
-      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1va540a/when_do_core_exercises_stop_feeling_so_hard/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/bodyweightfitness · community knowledge",
-      "content_type": "post",
-      "author": "u/Appropriate-Two-9538 · r/bodyweightfitness",
-      "handle": "bodyweightfitness",
-      "org": "r/bodyweightfitness",
-      "platform": "reddit",
-      "published": "2026-07-29T18:45:11.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/bodyweightfitness"
-      ],
-      "summary": "Hi everyone I&#39;m new to the whole bodyweight exercises and just started doing core workouts as well as the typical body weight exercises like squats, plank, pushups, etc. I&#39;m finding them quite hard at the moment probably because I&#39;ve not really done anything like this before. Is there a moment where it…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/bodyweightfitness this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1va2i1r",
-      "title": "Insatiable appetite since I started running?",
-      "link": "https://www.reddit.com/r/running/comments/1va2i1r/insatiable_appetite_since_i_started_running/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/running · community knowledge",
-      "content_type": "post",
-      "author": "u/Head_Score2897 · r/running",
-      "handle": "running",
-      "org": "r/running",
-      "platform": "reddit",
-      "published": "2026-07-29T17:13:40.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/running"
-      ],
-      "summary": "Hi all! I (27F) am training for a half-marathon despite never really running before. I have my spurts of going to the gym but I&#39;ve never ran much or done consistent sports. Training has gone well so far, but I am SO hungry all the time. I&#39;m very intentional about eating a lot of protein and fiber, and I do eat…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/running this week"
       ],
       "metrics": {
         "likes": 0,
