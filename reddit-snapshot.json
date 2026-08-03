@@ -1,39 +1,79 @@
 {
-  "generated_at": "2026-08-02T23:36:07.761Z",
+  "generated_at": "2026-08-03T03:22:24.198Z",
   "subs": [
     "MachineLearning",
-    "LocalLLaMA",
-    "running",
-    "startups",
+    "longevity",
+    "hardware",
     "investing",
     "gadgets",
+    "startups",
     "cybersecurity",
     "programming",
     "science",
     "Futurology",
     "artificial",
     "SkincareAddiction",
-    "longevity",
+    "LocalLLaMA",
     "bodyweightfitness",
     "singularity",
     "nutrition",
-    "hardware",
     "netsec",
-    "robotics"
+    "robotics",
+    "running"
   ],
   "count": 36,
   "by_category": {
+    "Science": 7,
     "Startups & Funding": 4,
     "Hardware & Gadgets": 3,
     "Security": 4,
     "Coding & Dev Tools": 3,
-    "Science": 6,
-    "AI / ML": 8,
+    "AI / ML": 7,
     "Skincare": 2,
     "Fitness": 5,
     "Robotics": 1
   },
   "articles": [
+    {
+      "id": "reddit_1vdm1nk",
+      "title": "How Urolithin A Improved a Model of Heart Failure: Not Just by Enhancing Mitophagy, but by an Unexpected Route Through the Gut Microbiome",
+      "link": "https://www.reddit.com/r/longevity/comments/1vdm1nk/how_urolithin_a_improved_a_model_of_heart_failure/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/longevity · community knowledge",
+      "content_type": "post",
+      "author": "u/dan_in_ca · r/longevity",
+      "handle": "longevity",
+      "org": "r/longevity",
+      "platform": "reddit",
+      "published": "2026-08-02T16:10:22.000Z",
+      "image": "https://external-preview.redd.it/0aD1tlU7gkq7ce8pbpk8FKfVEgFLJW9iXRyo3VVL6HA.png?width=640&crop=smart&auto=webp&s=f504030cf1477d1bea6339c99cf01be8e4b3422b",
+      "thumbnail": "https://external-preview.redd.it/0aD1tlU7gkq7ce8pbpk8FKfVEgFLJW9iXRyo3VVL6HA.png?width=640&crop=smart&auto=webp&s=f504030cf1477d1bea6339c99cf01be8e4b3422b",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Longevity",
+      "categories": [
+        "Reddit",
+        "Science",
+        "Longevity",
+        "r/longevity"
+      ],
+      "summary": "How Urolithin A Improved a Model of Heart Failure: Not Just by Enhancing Mitophagy, but by an Unexpected Route Through the Gut Microbiome",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/longevity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1vd8bna",
       "title": "Now that we see the game, do we still want to play?",
@@ -67,6 +107,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/investing this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vd2mfn",
+      "title": "Atlas of lysosomal aging reveals a metabolite signature shared with lysosomal storage disorders (Science, 2026)",
+      "link": "https://www.reddit.com/r/longevity/comments/1vd2mfn/atlas_of_lysosomal_aging_reveals_a_metabolite/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/longevity · community knowledge",
+      "content_type": "post",
+      "author": "u/ResearchSlore · r/longevity",
+      "handle": "longevity",
+      "org": "r/longevity",
+      "platform": "reddit",
+      "published": "2026-08-01T23:54:18.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Science",
+      "category": "Science",
+      "genre": "Longevity",
+      "categories": [
+        "Reddit",
+        "Science",
+        "Longevity",
+        "r/longevity"
+      ],
+      "summary": "Atlas of lysosomal aging reveals a metabolite signature shared with lysosomal storage disorders (Science, 2026)",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/longevity this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1366,85 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/running this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v9x3or",
-      "title": "85 Flock Surveillance Camera Contracts In 28 States Canceled - LAPD Also Won't Renew Their Contract",
-      "link": "https://www.reddit.com/r/Futurology/comments/1v9x3or/85_flock_surveillance_camera_contracts_in_28/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/Futurology · community knowledge",
-      "content_type": "post",
-      "author": "u/ai-edition · r/Futurology",
-      "handle": "Futurology",
-      "org": "r/Futurology",
-      "platform": "reddit",
-      "published": "2026-07-29T14:02:02.000Z",
-      "image": "https://external-preview.redd.it/fLdPtlo8anwWDydqu4nA5qMlRgaDsMqsZnOXAJ2gtPw.jpeg?width=640&crop=smart&auto=webp&s=594b05e6f14154fa4a460d3d4bca9786c652f81d",
-      "thumbnail": "https://external-preview.redd.it/fLdPtlo8anwWDydqu4nA5qMlRgaDsMqsZnOXAJ2gtPw.jpeg?width=640&crop=smart&auto=webp&s=594b05e6f14154fa4a460d3d4bca9786c652f81d",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/Futurology"
-      ],
-      "summary": "The LAPD, the third-largest police force in the country, let its Flock contract expire on July 11, and cited civil liberties and privacy concerns rather than cost. Between August 2021 and May 2026, 82 Flock contracts were terminated across 28 states, with 39 of those in the first five months of 2026 alone. &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/Futurology this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1v9w62d",
-      "title": "OpenAI's rogue agent ran ~17,600 actions across Hugging Face's infrastructure over 4 days — and HF's own post-mortem is wild reading",
-      "link": "https://www.reddit.com/r/artificial/comments/1v9w62d/openais_rogue_agent_ran_17600_actions_across/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/artificial · community knowledge",
-      "content_type": "post",
-      "author": "u/soulbeddu · r/artificial",
-      "handle": "artificial",
-      "org": "r/artificial",
-      "platform": "reddit",
-      "published": "2026-07-29T13:25:55.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/artificial"
-      ],
-      "summary": "Hugging Face published a detailed post-mortem of the July incident where an OpenAI model being evaluated for cyber-offense capability escaped its test sandbox and ran a fully autonomous intrusion. A few things that stood out: - It escaped via a zero-day in a package-registry cache proxy, then used an exposed public…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/artificial this week"
       ],
       "metrics": {
         "likes": 0,
