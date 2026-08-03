@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-03T03:22:24.198Z",
+  "generated_at": "2026-08-03T06:49:11.607Z",
   "subs": [
     "MachineLearning",
+    "bodyweightfitness",
+    "startups",
     "longevity",
-    "hardware",
     "investing",
     "gadgets",
-    "startups",
     "cybersecurity",
     "programming",
     "science",
@@ -14,9 +14,9 @@
     "artificial",
     "SkincareAddiction",
     "LocalLLaMA",
-    "bodyweightfitness",
     "singularity",
     "nutrition",
+    "hardware",
     "netsec",
     "robotics",
     "running"
@@ -24,13 +24,13 @@
   "count": 36,
   "by_category": {
     "Science": 7,
+    "Fitness": 5,
     "Startups & Funding": 4,
     "Hardware & Gadgets": 3,
     "Security": 4,
     "Coding & Dev Tools": 3,
     "AI / ML": 7,
     "Skincare": 2,
-    "Fitness": 5,
     "Robotics": 1
   },
   "articles": [
@@ -67,6 +67,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/longevity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vdkkl0",
+      "title": "Will basic calisthenics genuinely build an impressive physique?",
+      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1vdkkl0/will_basic_calisthenics_genuinely_build_an/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/bodyweightfitness · community knowledge",
+      "content_type": "post",
+      "author": "u/Zealousideal-Dot6184 · r/bodyweightfitness",
+      "handle": "bodyweightfitness",
+      "org": "r/bodyweightfitness",
+      "platform": "reddit",
+      "published": "2026-08-02T15:11:38.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/bodyweightfitness"
+      ],
+      "summary": "Been going down a rabbit hole watching K Boges on YouTube and I think his training philosophy is fantastic. I even subscribed to his membership for a month a while back. I&#39;m noticing some other YouTubers/Influencers are making content around this style of training which always seem to end with a course being sold,…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/bodyweightfitness this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1407,45 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/science this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1va0ez3",
-      "title": "How you do guys plan the actual routes that you take on your runs?",
-      "link": "https://www.reddit.com/r/running/comments/1va0ez3/how_you_do_guys_plan_the_actual_routes_that_you/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/running · community knowledge",
-      "content_type": "post",
-      "author": "u/harrrrrrrryyyyy · r/running",
-      "handle": "running",
-      "org": "r/running",
-      "platform": "reddit",
-      "published": "2026-07-29T16:01:45.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/running"
-      ],
-      "summary": "I almost always end up doing out-and-back runs because it&#39;s the easiest way to guarantee my mileage. I&#39;d much rather run loops, but I hate guessing whether they&#39;ll be too short or too long. How do you all solve this? Is there an app that plans loops for a specific distance? &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/running this week"
       ],
       "metrics": {
         "likes": 0,
