@@ -1,35 +1,35 @@
 {
-  "generated_at": "2026-08-04T10:16:04.588Z",
+  "generated_at": "2026-08-04T12:30:47.767Z",
   "subs": [
     "MachineLearning",
-    "artificial",
-    "running",
-    "investing",
+    "programming",
+    "cybersecurity",
     "gadgets",
     "LocalLLaMA",
+    "investing",
+    "running",
     "SkincareAddiction",
     "Futurology",
     "nutrition",
-    "cybersecurity",
     "longevity",
     "bodyweightfitness",
     "singularity",
     "startups",
     "robotics",
-    "programming",
-    "science"
+    "science",
+    "artificial"
   ],
   "count": 36,
   "by_category": {
     "AI / ML": 10,
     "Hardware & Gadgets": 2,
     "Startups & Funding": 5,
-    "Fitness": 4,
+    "Fitness": 3,
     "Skincare": 2,
     "Science": 7,
     "Security": 3,
-    "Robotics": 1,
-    "Coding & Dev Tools": 2
+    "Coding & Dev Tools": 3,
+    "Robotics": 1
   },
   "articles": [
     {
@@ -579,6 +579,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/bodyweightfitness this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vdjt5i",
+      "title": "Should you normalize RGB values by 255 or 256?",
+      "link": "https://www.reddit.com/r/programming/comments/1vdjt5i/should_you_normalize_rgb_values_by_255_or_256/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/programming · community knowledge",
+      "content_type": "post",
+      "author": "u/fagnerbrack · r/programming",
+      "handle": "programming",
+      "org": "r/programming",
+      "platform": "reddit",
+      "published": "2026-08-02T14:40:56.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Coding & Dev Tools",
+      "category": "Coding & Dev Tools",
+      "genre": "Coding & Dev Tools",
+      "categories": [
+        "Reddit",
+        "Coding & Dev Tools",
+        "r/programming"
+      ],
+      "summary": "Should you normalize RGB values by 255 or 256?",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/programming this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1409,45 +1448,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/cybersecurity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vbjahz",
-      "title": "Missing one workout is not the thing that ruins your progress",
-      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1vbjahz/missing_one_workout_is_not_the_thing_that_ruins/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/bodyweightfitness · community knowledge",
-      "content_type": "post",
-      "author": "u/Extension_Fact6943 · r/bodyweightfitness",
-      "handle": "bodyweightfitness",
-      "org": "r/bodyweightfitness",
-      "platform": "reddit",
-      "published": "2026-07-31T06:53:15.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/bodyweightfitness"
-      ],
-      "summary": "I always laugh when people act like missing one workout means everything is over. They skip Monday, then suddenly the whole week is gone because &quot;I already failed.&quot; Like damn, who made these rules? One missed session is nothing. Missing the next 20 because you feel guilty is the part that actually screws…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/bodyweightfitness this week"
       ],
       "metrics": {
         "likes": 0,
