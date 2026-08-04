@@ -1,37 +1,115 @@
 {
-  "generated_at": "2026-08-03T23:08:42.918Z",
+  "generated_at": "2026-08-04T01:04:30.303Z",
   "subs": [
     "MachineLearning",
-    "science",
-    "cybersecurity",
+    "Futurology",
+    "gadgets",
     "investing",
     "LocalLLaMA",
     "SkincareAddiction",
     "nutrition",
+    "cybersecurity",
     "longevity",
     "bodyweightfitness",
     "singularity",
     "startups",
-    "gadgets",
     "robotics",
     "programming",
-    "Futurology",
-    "artificial",
-    "hardware"
+    "science",
+    "artificial"
   ],
   "count": 36,
   "by_category": {
-    "AI / ML": 9,
+    "AI / ML": 8,
+    "Hardware & Gadgets": 2,
     "Startups & Funding": 6,
     "Skincare": 2,
+    "Science": 8,
     "Fitness": 4,
     "Security": 3,
-    "Science": 7,
-    "Hardware & Gadgets": 2,
     "Robotics": 1,
     "Coding & Dev Tools": 2
   },
   "articles": [
+    {
+      "id": "reddit_1vei12v",
+      "title": "It's time to desk reject papers that don't include code that can reproduce the results [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vei12v/its_time_to_desk_reject_papers_that_dont_include/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/MachineLearning · community knowledge",
+      "content_type": "post",
+      "author": "u/Flaky-Ambition5900 · r/MachineLearning",
+      "handle": "MachineLearning",
+      "org": "r/MachineLearning",
+      "platform": "reddit",
+      "published": "2026-08-03T16:17:53.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/MachineLearning"
+      ],
+      "summary": "As review season for NeurIPS wraps up, I have now reviewed for 3 major conferences this year. And I&#39;m noticing a worrying trend: Out of the 12 papers I reviewed this year, only 1 provided full code (that runs the whole training pipeline from input dataset to output AUROC). 4 provided partial code with fragments of…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1veewg6",
+      "title": "Schools Are Ditching Chromebooks for MacBook Neo by the Thousands— Apple Just Named Names",
+      "link": "https://www.reddit.com/r/gadgets/comments/1veewg6/schools_are_ditching_chromebooks_for_macbook_neo/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/gadgets · community knowledge",
+      "content_type": "post",
+      "author": "u/AustinBaze · r/gadgets",
+      "handle": "gadgets",
+      "org": "r/gadgets",
+      "platform": "reddit",
+      "published": "2026-08-03T14:24:06.000Z",
+      "image": "https://external-preview.redd.it/w_0Jnw8jOI-3v2_304dVZ3Y7L-TmvYPY29aRASmhiM8.jpeg?width=640&crop=smart&auto=webp&s=cca58eccb3a1060ea2b0e6cd81cca9ced11410b0",
+      "thumbnail": "https://external-preview.redd.it/w_0Jnw8jOI-3v2_304dVZ3Y7L-TmvYPY29aRASmhiM8.jpeg?width=640&crop=smart&auto=webp&s=cca58eccb3a1060ea2b0e6cd81cca9ced11410b0",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/gadgets"
+      ],
+      "summary": "Schools Are Ditching Chromebooks for MacBook Neo by the Thousands— Apple Just Named Names",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/gadgets this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1ve7chh",
       "title": "Is it too late regain some coherence in the ML research space in our life time? [D]",
@@ -184,6 +262,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/SkincareAddiction this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vdr79f",
+      "title": "AI spending spree hits $600b as Oracle fires 21,000 employees to fund boom",
+      "link": "https://www.reddit.com/r/Futurology/comments/1vdr79f/ai_spending_spree_hits_600b_as_oracle_fires_21000/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/Futurology · community knowledge",
+      "content_type": "post",
+      "author": "u/Confident_Salt_8108 · r/Futurology",
+      "handle": "Futurology",
+      "org": "r/Futurology",
+      "platform": "reddit",
+      "published": "2026-08-02T19:31:59.000Z",
+      "image": "https://external-preview.redd.it/-7nN5ubXdV2YzN-4DWWmKKEYAPhNQTrAQPfA0uT6x3I.jpeg?width=640&crop=smart&auto=webp&s=76fae64b526e6e99ca192d9f742f256f0e2bd5b3",
+      "thumbnail": "https://external-preview.redd.it/-7nN5ubXdV2YzN-4DWWmKKEYAPhNQTrAQPfA0uT6x3I.jpeg?width=640&crop=smart&auto=webp&s=76fae64b526e6e99ca192d9f742f256f0e2bd5b3",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/Futurology"
+      ],
+      "summary": "AI spending spree hits $600b as Oracle fires 21,000 employees to fund boom",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/Futurology this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1330,125 +1447,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/science this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vb40gz",
-      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "link": "https://www.reddit.com/r/artificial/comments/1vb40gz/google_says_it_fixed_more_chrome_bugs_in_june/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/artificial · community knowledge",
-      "content_type": "post",
-      "author": "u/ControlCAD · r/artificial",
-      "handle": "artificial",
-      "org": "r/artificial",
-      "platform": "reddit",
-      "published": "2026-07-30T19:43:35.000Z",
-      "image": "https://external-preview.redd.it/KCSBV6WG_jk0uyCU49cOiYAFDFtoCLyUa8ozQ0tbTL4.jpeg?width=640&crop=smart&auto=webp&s=042223544b25eb520e3290caf881c744938e7f4a",
-      "thumbnail": "https://external-preview.redd.it/KCSBV6WG_jk0uyCU49cOiYAFDFtoCLyUa8ozQ0tbTL4.jpeg?width=640&crop=smart&auto=webp&s=042223544b25eb520e3290caf881c744938e7f4a",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/artificial"
-      ],
-      "summary": "&gt;The tech giant announced that it has fixed a whopping 1,072 security bugs in the last two versions of Chrome, both released in June. That is more than the number of bugs patched in the previous 23 versions released over the last two years, which totalled 1,036 fixes. &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/artificial this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vb3xwd",
-      "title": "MLVC: Multi-platform Learned Video Codec for Real-World Deployment [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vb3xwd/mlvc_multiplatform_learned_video_codec_for/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/MachineLearning · community knowledge",
-      "content_type": "post",
-      "author": "u/tanelai · r/MachineLearning",
-      "handle": "MachineLearning",
-      "org": "r/MachineLearning",
-      "platform": "reddit",
-      "published": "2026-07-30T19:40:56.000Z",
-      "image": "https://preview.redd.it/9qnhkw960fgh1.png?width=640&crop=smart&auto=webp&s=56e30d9b0ba2781439bd302e229d6a327259f795",
-      "thumbnail": "https://preview.redd.it/9qnhkw960fgh1.png?width=640&crop=smart&auto=webp&s=56e30d9b0ba2781439bd302e229d6a327259f795",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/MachineLearning"
-      ],
-      "summary": "I&#39;ve always found it a little strange that AI is everywhere, but the codecs we use in practice are the traditional hand-engineered systems like h.264, h.265, av1. Alexnet started the wave of neural networks replacing hand-engineered systems, but 14 years later traditional codecs still dominate in the real world.…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/MachineLearning this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vaz2c7",
-      "title": "Nvidia GPUs see yet another price hike of up to 30 percent, as the generative AI hardware crisis worsens",
-      "link": "https://www.reddit.com/r/hardware/comments/1vaz2c7/nvidia_gpus_see_yet_another_price_hike_of_up_to/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/hardware · community knowledge",
-      "content_type": "post",
-      "author": "u/krumpfwylg · r/hardware",
-      "handle": "hardware",
-      "org": "r/hardware",
-      "platform": "reddit",
-      "published": "2026-07-30T16:47:55.000Z",
-      "image": "https://external-preview.redd.it/frsAjY35KpvyyiYsAl1-gZ5h454myVmJ-O3miW8XR7M.png?width=640&crop=smart&auto=webp&s=6b809a257d8aeb3f9e8805c5c53690c3de4c394e",
-      "thumbnail": "https://external-preview.redd.it/frsAjY35KpvyyiYsAl1-gZ5h454myVmJ-O3miW8XR7M.png?width=640&crop=smart&auto=webp&s=6b809a257d8aeb3f9e8805c5c53690c3de4c394e",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/hardware"
-      ],
-      "summary": "Nvidia GPUs see yet another price hike of up to 30 percent, as the generative AI hardware crisis worsens",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/hardware this week"
       ],
       "metrics": {
         "likes": 0,
