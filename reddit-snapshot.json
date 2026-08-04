@@ -1,21 +1,19 @@
 {
-  "generated_at": "2026-08-04T15:08:21.793Z",
+  "generated_at": "2026-08-04T17:17:52.370Z",
   "subs": [
     "MachineLearning",
-    "Fitness",
-    "hardware",
+    "singularity",
+    "SkincareAddiction",
     "gadgets",
     "LocalLLaMA",
     "investing",
     "running",
-    "SkincareAddiction",
     "Futurology",
     "nutrition",
     "cybersecurity",
     "longevity",
     "bodyweightfitness",
     "programming",
-    "singularity",
     "startups",
     "robotics",
     "science",
@@ -23,17 +21,56 @@
   ],
   "count": 36,
   "by_category": {
+    "Skincare": 3,
     "AI / ML": 10,
     "Hardware & Gadgets": 2,
     "Startups & Funding": 5,
     "Fitness": 3,
-    "Skincare": 2,
     "Science": 7,
-    "Security": 3,
+    "Security": 2,
     "Coding & Dev Tools": 3,
     "Robotics": 1
   },
   "articles": [
+    {
+      "id": "reddit_1ves9xi",
+      "title": "[Acne] How have you dealt with deep cysts? I'm in a rough spot here with mine",
+      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1ves9xi/acne_how_have_you_dealt_with_deep_cysts_im_in_a/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/SkincareAddiction · community knowledge",
+      "content_type": "post",
+      "author": "u/jazzandboats · r/SkincareAddiction",
+      "handle": "SkincareAddiction",
+      "org": "r/SkincareAddiction",
+      "platform": "reddit",
+      "published": "2026-08-03T22:35:33.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Skincare",
+      "category": "Skincare",
+      "genre": "Skincare",
+      "categories": [
+        "Reddit",
+        "Skincare",
+        "r/SkincareAddiction"
+      ],
+      "summary": "I&#39;m a performer on a cruise ship and I will be at sea and unable to see a professional dermatologist for a few months. Last month I started to get some pretty bad acne on my forehead. Not terribly uncommon for me but worse than usual. Some of it I found out was from the water onboard being extra harsh and many of…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/SkincareAddiction this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1vei12v",
       "title": "It's time to desk reject papers that don't include code that can reproduce the results [D]",
@@ -1411,45 +1448,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/LocalLLaMA this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vblr89",
-      "title": "Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests",
-      "link": "https://www.reddit.com/r/cybersecurity/comments/1vblr89/anthropics_claude_breached_3_orgs_uploaded_pypi/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/cybersecurity · community knowledge",
-      "content_type": "post",
-      "author": "u/Altruistic_Hope_2559 · r/cybersecurity",
-      "handle": "cybersecurity",
-      "org": "r/cybersecurity",
-      "platform": "reddit",
-      "published": "2026-07-31T09:12:38.000Z",
-      "image": "https://external-preview.redd.it/Azp0qJubhgOvbbmPXGao7BAF7_prGpVyOxV9x5EMxlU.png?width=640&crop=smart&auto=webp&s=0b002eb33c7aaeb033ecf6a1e48aa3392c3f1885",
-      "thumbnail": "https://external-preview.redd.it/Azp0qJubhgOvbbmPXGao7BAF7_prGpVyOxV9x5EMxlU.png?width=640&crop=smart&auto=webp&s=0b002eb33c7aaeb033ecf6a1e48aa3392c3f1885",
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/cybersecurity"
-      ],
-      "summary": "Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/cybersecurity this week"
       ],
       "metrics": {
         "likes": 0,
