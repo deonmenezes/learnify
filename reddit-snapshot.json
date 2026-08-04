@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-08-04T17:17:52.370Z",
+  "generated_at": "2026-08-04T19:13:11.984Z",
   "subs": [
     "MachineLearning",
-    "singularity",
+    "LocalLLaMA",
+    "bodyweightfitness",
+    "startups",
     "SkincareAddiction",
     "gadgets",
-    "LocalLLaMA",
     "investing",
     "running",
     "Futurology",
     "nutrition",
     "cybersecurity",
     "longevity",
-    "bodyweightfitness",
     "programming",
-    "startups",
+    "singularity",
     "robotics",
     "science",
     "artificial"
@@ -22,10 +22,10 @@
   "count": 36,
   "by_category": {
     "Skincare": 3,
-    "AI / ML": 10,
+    "AI / ML": 9,
     "Hardware & Gadgets": 2,
     "Startups & Funding": 5,
-    "Fitness": 3,
+    "Fitness": 4,
     "Science": 7,
     "Security": 2,
     "Coding & Dev Tools": 3,
@@ -904,6 +904,45 @@
       }
     },
     {
+      "id": "reddit_1vd0rvp",
+      "title": "does anyone actually do the mobility work at the end or does it just quietly disappear for you too",
+      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1vd0rvp/does_anyone_actually_do_the_mobility_work_at_the/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/bodyweightfitness · community knowledge",
+      "content_type": "post",
+      "author": "u/palerobin9 · r/bodyweightfitness",
+      "handle": "bodyweightfitness",
+      "org": "r/bodyweightfitness",
+      "platform": "reddit",
+      "published": "2026-08-01T22:30:54.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/bodyweightfitness"
+      ],
+      "summary": "Been doing the recommended routine for about four months now. Nothing fancy, three sets, standard progression, ring rows working toward pull ups eventually, pike push ups, the whole thing. The actual strength work I never skip, not once, doesn&#39;t matter how tired I am after work. But the last ten minutes, the…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/bodyweightfitness this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1vcyslb",
       "title": "Full run and a segment of a task. 100% from 16 examples.",
       "link": "https://www.reddit.com/r/robotics/comments/1vcyslb/full_run_and_a_segment_of_a_task_100_from_16/",
@@ -1408,46 +1447,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/longevity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vbr5zj",
-      "title": "The Chinese LLM release carousel never stops. Place your bets for MiniMax next week.",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1vbr5zj/the_chinese_llm_release_carousel_never_stops/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/LocalLLaMA · community knowledge",
-      "content_type": "post",
-      "author": "u/Mountain_Patience231 · r/LocalLLaMA",
-      "handle": "LocalLLaMA",
-      "org": "r/LocalLLaMA",
-      "platform": "reddit",
-      "published": "2026-07-31T13:36:18.000Z",
-      "image": "https://preview.redd.it/y0ab3pktikgh1.jpeg?width=640&crop=smart&auto=webp&s=21b2151ea92e9216763ee588cfbf2c7db8900694",
-      "thumbnail": "https://preview.redd.it/y0ab3pktikgh1.jpeg?width=640&crop=smart&auto=webp&s=21b2151ea92e9216763ee588cfbf2c7db8900694",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/LocalLLaMA"
-      ],
-      "summary": "The Chinese LLM release carousel never stops. Place your bets for MiniMax next week.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/LocalLLaMA this week"
       ],
       "metrics": {
         "likes": 0,
