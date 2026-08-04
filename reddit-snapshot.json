@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-04T20:56:04.996Z",
+  "generated_at": "2026-08-04T22:19:32.872Z",
   "subs": [
     "MachineLearning",
-    "LocalLLaMA",
-    "running",
-    "investing",
-    "SkincareAddiction",
-    "gadgets",
     "Futurology",
+    "gadgets",
+    "SkincareAddiction",
+    "LocalLLaMA",
+    "investing",
+    "running",
     "nutrition",
     "cybersecurity",
     "longevity",
@@ -23,10 +23,10 @@
   "by_category": {
     "Skincare": 3,
     "AI / ML": 9,
-    "Hardware & Gadgets": 2,
+    "Hardware & Gadgets": 3,
     "Startups & Funding": 5,
     "Fitness": 4,
-    "Science": 7,
+    "Science": 6,
     "Security": 2,
     "Coding & Dev Tools": 3,
     "Robotics": 1
@@ -579,6 +579,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/longevity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vdlre6",
+      "title": "Lenovo's first Googlebooks have leaked",
+      "link": "https://www.reddit.com/r/gadgets/comments/1vdlre6/lenovos_first_googlebooks_have_leaked/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/gadgets · community knowledge",
+      "content_type": "post",
+      "author": "u/dapperlemon · r/gadgets",
+      "handle": "gadgets",
+      "org": "r/gadgets",
+      "platform": "reddit",
+      "published": "2026-08-02T15:59:26.000Z",
+      "image": "https://external-preview.redd.it/_lcfUp61AGj_j6ul8w-F-P4Qu1K5yWg4f8d7W_oNgUo.jpeg?width=640&crop=smart&auto=webp&s=1ff75c63091d5d28286f7c3e58bd6588e9e155d1",
+      "thumbnail": "https://external-preview.redd.it/_lcfUp61AGj_j6ul8w-F-P4Qu1K5yWg4f8d7W_oNgUo.jpeg?width=640&crop=smart&auto=webp&s=1ff75c63091d5d28286f7c3e58bd6588e9e155d1",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/gadgets"
+      ],
+      "summary": "Lenovo's first Googlebooks have leaked",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/gadgets this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1407,46 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/SkincareAddiction this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vbsa18",
-      "title": "Senolytic treatment dasatinib and quercetin damages population of brain cells in lab mice and in vitro cell cultures",
-      "link": "https://www.reddit.com/r/longevity/comments/1vbsa18/senolytic_treatment_dasatinib_and_quercetin/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/longevity · community knowledge",
-      "content_type": "post",
-      "author": "u/lunchboxultimate01 · r/longevity",
-      "handle": "longevity",
-      "org": "r/longevity",
-      "platform": "reddit",
-      "published": "2026-07-31T14:18:44.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Science",
-      "category": "Science",
-      "genre": "Longevity",
-      "categories": [
-        "Reddit",
-        "Science",
-        "Longevity",
-        "r/longevity"
-      ],
-      "summary": "Popular science link: https://www.sciencedaily.com/releases/2026/05/260526022024.htm Original article link: https://www.pnas.org/doi/10.1073/pnas.2524897123 Significance The pharmacological combination of dasatinib and quercetin (D+Q), widely reported as a means of eliminating senescent cells from aged tissues to…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/longevity this week"
       ],
       "metrics": {
         "likes": 0,
