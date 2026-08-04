@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-04T04:26:02.587Z",
+  "generated_at": "2026-08-04T07:19:07.755Z",
   "subs": [
     "MachineLearning",
-    "artificial",
-    "running",
-    "investing",
-    "gadgets",
     "LocalLLaMA",
+    "running",
+    "startups",
+    "gadgets",
+    "investing",
     "SkincareAddiction",
     "Futurology",
     "nutrition",
@@ -14,10 +14,10 @@
     "longevity",
     "bodyweightfitness",
     "singularity",
-    "startups",
     "robotics",
     "programming",
-    "science"
+    "science",
+    "artificial"
   ],
   "count": 36,
   "by_category": {
@@ -184,6 +184,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1ve4uoe",
+      "title": "Daniel Han of Unsloth validates Qwen3.8-27B will run only 17GB VRAM",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1ve4uoe/daniel_han_of_unsloth_validates_qwen3827b_will/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/LocalLLaMA · community knowledge",
+      "content_type": "post",
+      "author": "u/quantier · r/LocalLLaMA",
+      "handle": "LocalLLaMA",
+      "org": "r/LocalLLaMA",
+      "platform": "reddit",
+      "published": "2026-08-03T05:55:11.000Z",
+      "image": "https://preview.redd.it/kabmtuygn3hh1.jpeg?width=640&crop=smart&auto=webp&s=ceaef55e47830cb76d73ab86f208af3cfa421182",
+      "thumbnail": "https://preview.redd.it/kabmtuygn3hh1.jpeg?width=640&crop=smart&auto=webp&s=ceaef55e47830cb76d73ab86f208af3cfa421182",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/LocalLLaMA"
+      ],
+      "summary": "Super excited about this release for the new 27B. Who else is with me. Only 17GB VRAM needed 😍😍 &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/LocalLLaMA this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1408,46 +1448,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/bodyweightfitness this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vbam9s",
-      "title": "Anthropic says Claude hacked multiple companies starting in April",
-      "link": "https://www.reddit.com/r/singularity/comments/1vbam9s/anthropic_says_claude_hacked_multiple_companies/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/singularity · community knowledge",
-      "content_type": "post",
-      "author": "u/AlyoshaV · r/singularity",
-      "handle": "singularity",
-      "org": "r/singularity",
-      "platform": "reddit",
-      "published": "2026-07-31T00:00:51.000Z",
-      "image": "https://external-preview.redd.it/qDyl8EXf6lGY1sw1cRFVrjLaaOR5mTch6BUsLIbo1rg.png?width=640&crop=smart&auto=webp&s=ba07e5c3d93eea19d841e7ac04483f1b61427168",
-      "thumbnail": "https://external-preview.redd.it/qDyl8EXf6lGY1sw1cRFVrjLaaOR5mTch6BUsLIbo1rg.png?width=640&crop=smart&auto=webp&s=ba07e5c3d93eea19d841e7ac04483f1b61427168",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/singularity"
-      ],
-      "summary": "Anthropic says Claude hacked multiple companies starting in April",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/singularity this week"
       ],
       "metrics": {
         "likes": 0,
