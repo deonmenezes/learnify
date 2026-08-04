@@ -1,12 +1,14 @@
 {
-  "generated_at": "2026-08-04T01:04:30.303Z",
+  "generated_at": "2026-08-04T04:26:02.587Z",
   "subs": [
     "MachineLearning",
-    "Futurology",
-    "gadgets",
+    "artificial",
+    "running",
     "investing",
+    "gadgets",
     "LocalLLaMA",
     "SkincareAddiction",
+    "Futurology",
     "nutrition",
     "cybersecurity",
     "longevity",
@@ -15,17 +17,16 @@
     "startups",
     "robotics",
     "programming",
-    "science",
-    "artificial"
+    "science"
   ],
   "count": 36,
   "by_category": {
-    "AI / ML": 8,
+    "AI / ML": 10,
     "Hardware & Gadgets": 2,
-    "Startups & Funding": 6,
-    "Skincare": 2,
-    "Science": 8,
+    "Startups & Funding": 5,
     "Fitness": 4,
+    "Skincare": 2,
+    "Science": 7,
     "Security": 3,
     "Robotics": 1,
     "Coding & Dev Tools": 2
@@ -57,6 +58,46 @@
         "r/MachineLearning"
       ],
       "summary": "As review season for NeurIPS wraps up, I have now reviewed for 3 major conferences this year. And I&#39;m noticing a worrying trend: Out of the 12 papers I reviewed this year, only 1 provided full code (that runs the whole training pipeline from input dataset to output AUROC). 4 provided partial code with fragments of…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vefwvh",
+      "title": "NeurIPS 2026: If the rebuttal addresses your concern, please raise your score [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vefwvh/neurips_2026_if_the_rebuttal_addresses_your/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/MachineLearning · community knowledge",
+      "content_type": "post",
+      "author": "u/undesirable_12 · r/MachineLearning",
+      "handle": "MachineLearning",
+      "org": "r/MachineLearning",
+      "platform": "reddit",
+      "published": "2026-08-03T15:01:36.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/MachineLearning"
+      ],
+      "summary": "Potentially a hot take? I am not sure why our community is plagued with reviewers who, after acknowledging that their concerns were addressed by a rebuttal, decide to maintain their score because they don&#39;t vibe with the paper. So here is my plea to all reviewers: If you list a set of concerns in your review and…",
       "is_social": true,
       "report_worthy": true,
       "worthiness_score": 62,
@@ -223,6 +264,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/LocalLLaMA this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1ve0l8z",
+      "title": "Long Run Recovery",
+      "link": "https://www.reddit.com/r/running/comments/1ve0l8z/long_run_recovery/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/running · community knowledge",
+      "content_type": "post",
+      "author": "u/Thick-Assumption5563 · r/running",
+      "handle": "running",
+      "org": "r/running",
+      "platform": "reddit",
+      "published": "2026-08-03T02:15:41.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/running"
+      ],
+      "summary": "Hello, I have been an avid runner for many years now but I haven&#39;t gotten into marathon distances running until quite recently. The training regime that works best for my work puts my long runs on Sunday, which can vary from 15-21 miles on that day. I have found that on those days I&#39;m really pushing myself, or…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/running this week"
       ],
       "metrics": {
         "likes": 0,
@@ -941,6 +1021,46 @@
       }
     },
     {
+      "id": "reddit_1vcglab",
+      "title": "Judge denies request by Elon Musk's xAI to pause Minnesota nudification ban",
+      "link": "https://www.reddit.com/r/artificial/comments/1vcglab/judge_denies_request_by_elon_musks_xai_to_pause/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/artificial · community knowledge",
+      "content_type": "post",
+      "author": "u/Fcking_Chuck · r/artificial",
+      "handle": "artificial",
+      "org": "r/artificial",
+      "platform": "reddit",
+      "published": "2026-08-01T07:23:56.000Z",
+      "image": "https://external-preview.redd.it/h7NltlgrrS8xjH0YQ2mqw6s-B3FfOdymvX1b7aMmg40.jpeg?width=640&crop=smart&auto=webp&s=99fccf308dc7eec09115c3f9402aef51f5d91d36",
+      "thumbnail": "https://external-preview.redd.it/h7NltlgrrS8xjH0YQ2mqw6s-B3FfOdymvX1b7aMmg40.jpeg?width=640&crop=smart&auto=webp&s=99fccf308dc7eec09115c3f9402aef51f5d91d36",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/artificial"
+      ],
+      "summary": "Judge denies request by Elon Musk's xAI to pause Minnesota nudification ban",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/artificial this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1vcccnn",
       "title": "Reddit Stock Collapses 23% as AI Eats Away at User Growth",
       "link": "https://www.reddit.com/r/artificial/comments/1vcccnn/reddit_stock_collapses_23_as_ai_eats_away_at_user/",
@@ -1328,125 +1448,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/singularity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vb9y83",
-      "title": "oysters are overpowered",
-      "link": "https://www.reddit.com/r/nutrition/comments/1vb9y83/oysters_are_overpowered/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/nutrition · community knowledge",
-      "content_type": "post",
-      "author": "u/Terminator_492 · r/nutrition",
-      "handle": "nutrition",
-      "org": "r/nutrition",
-      "platform": "reddit",
-      "published": "2026-07-30T23:32:48.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Nutrition",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "Nutrition",
-        "r/nutrition"
-      ],
-      "summary": "Just 100 cal worth gives you 11g of protein and well over your entire rdi of zinc, copper, selenium, b12, and a good amount of iron. Has omega 3 also while being lower in overall fat. i’m surprised these aren’t recommended more as a health food &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/nutrition this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vb8di0",
-      "title": "Founders who've signed a term sheet: how did you actually work through it the first time? (I will not promote)",
-      "link": "https://www.reddit.com/r/startups/comments/1vb8di0/founders_whove_signed_a_term_sheet_how_did_you/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/startups · community knowledge",
-      "content_type": "post",
-      "author": "u/Certain-Confection-6 · r/startups",
-      "handle": "startups",
-      "org": "r/startups",
-      "platform": "reddit",
-      "published": "2026-07-30T22:27:14.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/startups"
-      ],
-      "summary": "Curious how people here have handled this in practice. When you got your first term sheet (or sent one), what did you actually do with it? Did you send it straight to a lawyer, build your own dilution spreadsheet, use some kind of tool or calculator, or just read it a few times and trust the negotiation? Specifically…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/startups this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vb5ja3",
-      "title": "In lab tests, salmonella, E. coli and staph survived 14+ days in kitchen sponges — 3 days after drying out — and one wipe moved up to 100,000 bacteria to a clean surface; smell and color gave no indication of contamination. Brushes dry faster and carry far fewer bacteria, researchers say.",
-      "link": "https://www.reddit.com/r/science/comments/1vb5ja3/in_lab_tests_salmonella_e_coli_and_staph_survived/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/science · community knowledge",
-      "content_type": "post",
-      "author": "u/andmario_com · r/science",
-      "handle": "science",
-      "org": "r/science",
-      "platform": "reddit",
-      "published": "2026-07-30T20:38:26.000Z",
-      "image": "https://external-preview.redd.it/3TcGgUy9IQ0oUWZfVX3_A8N0k_-BoDUWa9wdixbvQbk.jpeg?width=640&crop=smart&auto=webp&s=20c9ac6176a7aa70849ec9274cfe107eaad6aa85",
-      "thumbnail": "https://external-preview.redd.it/3TcGgUy9IQ0oUWZfVX3_A8N0k_-BoDUWa9wdixbvQbk.jpeg?width=640&crop=smart&auto=webp&s=20c9ac6176a7aa70849ec9274cfe107eaad6aa85",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/science"
-      ],
-      "summary": "In lab tests, salmonella, E. coli and staph survived 14+ days in kitchen sponges — 3 days after drying out — and one wipe moved up to 100,000 bacteria to a clean surface; smell and color gave no indication of contamination. Brushes dry faster and carry far fewer bacteria, researchers say.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/science this week"
       ],
       "metrics": {
         "likes": 0,
