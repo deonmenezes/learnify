@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-08-05T05:53:27.204Z",
+  "generated_at": "2026-08-05T08:44:39.601Z",
   "subs": [
     "MachineLearning",
+    "science",
+    "netsec",
     "longevity",
-    "hardware",
     "SkincareAddiction",
     "gadgets",
+    "hardware",
     "LocalLLaMA",
     "investing",
     "running",
@@ -16,23 +18,60 @@
     "programming",
     "singularity",
     "startups",
-    "robotics",
-    "science",
-    "artificial"
+    "robotics"
   ],
   "count": 36,
   "by_category": {
-    "Science": 6,
+    "Security": 5,
+    "Science": 7,
     "Skincare": 2,
-    "AI / ML": 9,
+    "AI / ML": 6,
     "Hardware & Gadgets": 4,
     "Startups & Funding": 5,
     "Fitness": 4,
-    "Security": 2,
-    "Coding & Dev Tools": 3,
+    "Coding & Dev Tools": 2,
     "Robotics": 1
   },
   "articles": [
+    {
+      "id": "reddit_1vfpmhg",
+      "title": "Bugtraq is back 🥹",
+      "link": "https://www.reddit.com/r/netsec/comments/1vfpmhg/bugtraq_is_back/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/netsec · community knowledge",
+      "content_type": "post",
+      "author": "u/loselasso · r/netsec",
+      "handle": "netsec",
+      "org": "r/netsec",
+      "platform": "reddit",
+      "published": "2026-08-04T22:48:37.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/netsec"
+      ],
+      "summary": "Bugtraq is back 🥹",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/netsec this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1vf5rfw",
       "title": "A better way to deliver mitochondria into living cells",
@@ -74,6 +113,45 @@
       }
     },
     {
+      "id": "reddit_1vet23a",
+      "title": "Jackpot: a browser lab of 10 deliberately vulnerable LLM apps, one per OWASP LLM Top 10 category",
+      "link": "https://www.reddit.com/r/netsec/comments/1vet23a/jackpot_a_browser_lab_of_10_deliberately/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/netsec · community knowledge",
+      "content_type": "post",
+      "author": "u/callmejackfrost1 · r/netsec",
+      "handle": "netsec",
+      "org": "r/netsec",
+      "platform": "reddit",
+      "published": "2026-08-03T23:08:09.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/netsec"
+      ],
+      "summary": "Jackpot: a browser lab of 10 deliberately vulnerable LLM apps, one per OWASP LLM Top 10 category",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/netsec this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1ves9xi",
       "title": "[Acne] How have you dealt with deep cysts? I'm in a rough spot here with mine",
       "link": "https://www.reddit.com/r/SkincareAddiction/comments/1ves9xi/acne_how_have_you_dealt_with_deep_cysts_im_in_a/",
@@ -105,6 +183,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/SkincareAddiction this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vernwy",
+      "title": "No link between MMR vaccination before age 2 and autism, large US study suggests",
+      "link": "https://www.reddit.com/r/science/comments/1vernwy/no_link_between_mmr_vaccination_before_age_2_and/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/science · community knowledge",
+      "content_type": "post",
+      "author": "u/PHealthy · r/science",
+      "handle": "science",
+      "org": "r/science",
+      "platform": "reddit",
+      "published": "2026-08-03T22:10:38.000Z",
+      "image": "https://external-preview.redd.it/hnfx1pF8xvG-sBcCjmcEkMS7MN5RSD62HR0hbTBjvco.jpeg?width=640&crop=smart&auto=webp&s=6670ced2d3593157aacd2d85d4ba415c13624536",
+      "thumbnail": "https://external-preview.redd.it/hnfx1pF8xvG-sBcCjmcEkMS7MN5RSD62HR0hbTBjvco.jpeg?width=640&crop=smart&auto=webp&s=6670ced2d3593157aacd2d85d4ba415c13624536",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/science"
+      ],
+      "summary": "No link between MMR vaccination before age 2 and autism, large US study suggests",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/science this week"
       ],
       "metrics": {
         "likes": 0,
@@ -224,6 +341,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/gadgets this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1veedqw",
+      "title": "SQLite Critical CVEs or LLM Slop?",
+      "link": "https://www.reddit.com/r/netsec/comments/1veedqw/sqlite_critical_cves_or_llm_slop/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/netsec · community knowledge",
+      "content_type": "post",
+      "author": "u/si9int · r/netsec",
+      "handle": "netsec",
+      "org": "r/netsec",
+      "platform": "reddit",
+      "published": "2026-08-03T14:04:17.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/netsec"
+      ],
+      "summary": "SQLite Critical CVEs or LLM Slop?",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/netsec this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1289,165 +1445,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Futurology this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vcglab",
-      "title": "Judge denies request by Elon Musk's xAI to pause Minnesota nudification ban",
-      "link": "https://www.reddit.com/r/artificial/comments/1vcglab/judge_denies_request_by_elon_musks_xai_to_pause/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/artificial · community knowledge",
-      "content_type": "post",
-      "author": "u/Fcking_Chuck · r/artificial",
-      "handle": "artificial",
-      "org": "r/artificial",
-      "platform": "reddit",
-      "published": "2026-08-01T07:23:56.000Z",
-      "image": "https://external-preview.redd.it/h7NltlgrrS8xjH0YQ2mqw6s-B3FfOdymvX1b7aMmg40.jpeg?width=640&crop=smart&auto=webp&s=99fccf308dc7eec09115c3f9402aef51f5d91d36",
-      "thumbnail": "https://external-preview.redd.it/h7NltlgrrS8xjH0YQ2mqw6s-B3FfOdymvX1b7aMmg40.jpeg?width=640&crop=smart&auto=webp&s=99fccf308dc7eec09115c3f9402aef51f5d91d36",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/artificial"
-      ],
-      "summary": "Judge denies request by Elon Musk's xAI to pause Minnesota nudification ban",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/artificial this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vcccnn",
-      "title": "Reddit Stock Collapses 23% as AI Eats Away at User Growth",
-      "link": "https://www.reddit.com/r/artificial/comments/1vcccnn/reddit_stock_collapses_23_as_ai_eats_away_at_user/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/artificial · community knowledge",
-      "content_type": "post",
-      "author": "u/esporx · r/artificial",
-      "handle": "artificial",
-      "org": "r/artificial",
-      "platform": "reddit",
-      "published": "2026-08-01T03:42:08.000Z",
-      "image": "https://external-preview.redd.it/b7hqehgl1R2px2_ZE-28ubBaNA4OjDtVCeqN_FsDhio.jpeg?width=640&crop=smart&auto=webp&s=5469c39eaf31aae2eec6d91f2bba9b2b5d555e5e",
-      "thumbnail": "https://external-preview.redd.it/b7hqehgl1R2px2_ZE-28ubBaNA4OjDtVCeqN_FsDhio.jpeg?width=640&crop=smart&auto=webp&s=5469c39eaf31aae2eec6d91f2bba9b2b5d555e5e",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/artificial"
-      ],
-      "summary": "Reddit Stock Collapses 23% as AI Eats Away at User Growth",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/artificial this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vc25gi",
-      "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
-      "link": "https://www.reddit.com/r/programming/comments/1vc25gi/pwnd_blaster_hacking_your_pc_using_your_speaker/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/programming · community knowledge",
-      "content_type": "post",
-      "author": "u/fagnerbrack · r/programming",
-      "handle": "programming",
-      "org": "r/programming",
-      "platform": "reddit",
-      "published": "2026-07-31T20:21:35.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Coding & Dev Tools",
-      "category": "Coding & Dev Tools",
-      "genre": "Coding & Dev Tools",
-      "categories": [
-        "Reddit",
-        "Coding & Dev Tools",
-        "r/programming"
-      ],
-      "summary": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/programming this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vc1txc",
-      "title": "I have trained a model to predict my blood sugar [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vc1txc/i_have_trained_a_model_to_predict_my_blood_sugar_p/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/MachineLearning · community knowledge",
-      "content_type": "post",
-      "author": "u/0xdeadf1sh · r/MachineLearning",
-      "handle": "MachineLearning",
-      "org": "r/MachineLearning",
-      "platform": "reddit",
-      "published": "2026-07-31T20:09:34.000Z",
-      "image": "https://preview.redd.it/v3bputi1cmgh1.png?width=140&height=91&auto=webp&s=5fcaa20e54e37915fc9d5911c43947f4a7ddb940",
-      "thumbnail": "https://preview.redd.it/v3bputi1cmgh1.png?width=140&height=91&auto=webp&s=5fcaa20e54e37915fc9d5911c43947f4a7ddb940",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/MachineLearning"
-      ],
-      "summary": "It&#39;s an encoder-only transformer that consumes past(blood glucose + carbs + insulin) and future(carbs + insulin) and predicts future blood glucose for the next 2 hours. Announced meals and boluses/basal are used to condition its predictions. The context size is variable (8 - 24 hours), and model can work in…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/MachineLearning this week"
       ],
       "metrics": {
         "likes": 0,
