@@ -1,8 +1,9 @@
 {
-  "generated_at": "2026-08-05T02:49:49.797Z",
+  "generated_at": "2026-08-05T05:53:27.204Z",
   "subs": [
     "MachineLearning",
-    "programming",
+    "longevity",
+    "hardware",
     "SkincareAddiction",
     "gadgets",
     "LocalLLaMA",
@@ -11,8 +12,8 @@
     "Futurology",
     "nutrition",
     "cybersecurity",
-    "longevity",
     "bodyweightfitness",
+    "programming",
     "singularity",
     "startups",
     "robotics",
@@ -21,17 +22,57 @@
   ],
   "count": 36,
   "by_category": {
-    "Skincare": 3,
+    "Science": 6,
+    "Skincare": 2,
     "AI / ML": 9,
-    "Hardware & Gadgets": 3,
+    "Hardware & Gadgets": 4,
     "Startups & Funding": 5,
     "Fitness": 4,
-    "Science": 6,
     "Security": 2,
     "Coding & Dev Tools": 3,
     "Robotics": 1
   },
   "articles": [
+    {
+      "id": "reddit_1vf5rfw",
+      "title": "A better way to deliver mitochondria into living cells",
+      "link": "https://www.reddit.com/r/longevity/comments/1vf5rfw/a_better_way_to_deliver_mitochondria_into_living/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/longevity · community knowledge",
+      "content_type": "post",
+      "author": "u/jimofoz · r/longevity",
+      "handle": "longevity",
+      "org": "r/longevity",
+      "platform": "reddit",
+      "published": "2026-08-04T09:48:09.000Z",
+      "image": "https://external-preview.redd.it/oEQHJkioXVZq0ZfpNjk3kwxSe9w-UsxvV6UVh71x8mI.jpeg?width=70&height=70&auto=webp&s=8574c60e0824d40c249eaa2f9735301e38724b4c",
+      "thumbnail": "https://external-preview.redd.it/oEQHJkioXVZq0ZfpNjk3kwxSe9w-UsxvV6UVh71x8mI.jpeg?width=70&height=70&auto=webp&s=8574c60e0824d40c249eaa2f9735301e38724b4c",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Longevity",
+      "categories": [
+        "Reddit",
+        "Science",
+        "Longevity",
+        "r/longevity"
+      ],
+      "summary": "A better way to deliver mitochondria into living cells",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/longevity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1ves9xi",
       "title": "[Acne] How have you dealt with deep cysts? I'm in a rough spot here with mine",
@@ -183,6 +224,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/gadgets this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vedys9",
+      "title": "AI enthusiast unlocks and mods BIOS with Claude Code — AI defeats RSA-2048 signature checks and unlocks 55 hidden settings",
+      "link": "https://www.reddit.com/r/hardware/comments/1vedys9/ai_enthusiast_unlocks_and_mods_bios_with_claude/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/hardware · community knowledge",
+      "content_type": "post",
+      "author": "u/WPHero · r/hardware",
+      "handle": "hardware",
+      "org": "r/hardware",
+      "platform": "reddit",
+      "published": "2026-08-03T13:48:34.000Z",
+      "image": "https://external-preview.redd.it/pcp5iFMJ9IGAh28cU2qMSN7G3y4xJutxDYitNIFiJN4.jpeg?width=640&crop=smart&auto=webp&s=1f167d12fcb64946ee272e8f2db84707f17ad452",
+      "thumbnail": "https://external-preview.redd.it/pcp5iFMJ9IGAh28cU2qMSN7G3y4xJutxDYitNIFiJN4.jpeg?width=640&crop=smart&auto=webp&s=1f167d12fcb64946ee272e8f2db84707f17ad452",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/hardware"
+      ],
+      "summary": "AI enthusiast unlocks and mods BIOS with Claude Code — AI defeats RSA-2048 signature checks and unlocks 55 hidden settings",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/hardware this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1368,84 +1448,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vbxu44",
-      "title": "Rattlesnakes evolved proteins that block their own venom. UMD researchers combined them into a lab-made antivenom 10x more potent than current ones, neutralizing venoms from multiple viper species. The antivenom is cheaper, safer, mass-producible, and could address global shortages.",
-      "link": "https://www.reddit.com/r/science/comments/1vbxu44/rattlesnakes_evolved_proteins_that_block_their/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/science · community knowledge",
-      "content_type": "post",
-      "author": "u/andmario_com · r/science",
-      "handle": "science",
-      "org": "r/science",
-      "platform": "reddit",
-      "published": "2026-07-31T17:41:04.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/science"
-      ],
-      "summary": "Rattlesnakes evolved proteins that block their own venom. UMD researchers combined them into a lab-made antivenom 10x more potent than current ones, neutralizing venoms from multiple viper species. The antivenom is cheaper, safer, mass-producible, and could address global shortages.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/science this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vbts4m",
-      "title": "[B&A] PSA: If your skin goes to hell like this in your 20s, go to a dermatologist about rosacea",
-      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1vbts4m/ba_psa_if_your_skin_goes_to_hell_like_this_in/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/SkincareAddiction · community knowledge",
-      "content_type": "post",
-      "author": "u/boomballoonmachine · r/SkincareAddiction",
-      "handle": "SkincareAddiction",
-      "org": "r/SkincareAddiction",
-      "platform": "reddit",
-      "published": "2026-07-31T15:15:02.000Z",
-      "image": "https://preview.redd.it/8z30g4usxkgh1.jpeg?width=640&crop=smart&auto=webp&s=e4925049a7376247ee2b042c3c0fcd52d3c228f3",
-      "thumbnail": "https://preview.redd.it/8z30g4usxkgh1.jpeg?width=640&crop=smart&auto=webp&s=e4925049a7376247ee2b042c3c0fcd52d3c228f3",
-      "section": "Skincare",
-      "category": "Skincare",
-      "genre": "Skincare",
-      "categories": [
-        "Reddit",
-        "Skincare",
-        "r/SkincareAddiction"
-      ],
-      "summary": "Left is January 2025 aged 28, right is May 2026. My skin had been getting notably worse for about a year before the left pic. At first I assumed I needed to finally develop a skincare routine (I have sensitive skin and had never needed one before). I spent a year trying to figure it out with OTC remedies and internet…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/SkincareAddiction this week"
       ],
       "metrics": {
         "likes": 0,

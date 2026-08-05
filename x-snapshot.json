@@ -1,16 +1,179 @@
 {
-  "generated_at": "2026-08-05T02:47:36.443Z",
+  "generated_at": "2026-08-05T05:51:13.042Z",
   "handles": [
     "nvidia",
-    "OpenAI",
-    "elonmusk",
-    "gdb",
     "GoogleDeepMind",
     "satyanadella",
+    "gdb",
+    "OpenAI",
+    "elonmusk",
     "AnthropicAI"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2084733460690903204",
+      "title": "AI compute is going to orbit. 🚀 @SpaceX’s Starmind AI1 satellite compute payload is powered by NVIDIA Vera Rubin NVL72, bringing AI factory compute closer to the stars. The next chapter of AI…",
+      "link": "https://x.com/nvidia/status/2084733460690903204",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-08-04T20:09:24.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Commentary"
+      ],
+      "summary": "AI compute is going to orbit. 🚀 @SpaceX’s Starmind AI1 satellite compute payload is powered by NVIDIA Vera Rubin NVL72, bringing AI factory compute closer to the stars. The next chapter of AI infrastructure boldly goes where no AI compute has gone before.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 60,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "high engagement (9.2K likes)"
+      ],
+      "metrics": {
+        "likes": 9213,
+        "retweets": 1319,
+        "replies": 440,
+        "likes_h": "9.2K"
+      },
+      "engagement": 12291,
+      "hot": true
+    },
+    {
+      "id": "x_2084716722746253566",
+      "title": "Read why AI agents need more than one model. 👇 http://x.com/i/article/2084699575093465088",
+      "link": "https://x.com/nvidia/status/2084716722746253566",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-08-04T19:02:53.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "Read why AI agents need more than one model. 👇 http://x.com/i/article/2084699575093465088",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 80,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (model, agents)",
+        "links to a source"
+      ],
+      "metrics": {
+        "likes": 319,
+        "retweets": 31,
+        "replies": 35,
+        "likes_h": "319"
+      },
+      "engagement": 416,
+      "hot": false
+    },
+    {
+      "id": "x_2084663782018543841",
+      "title": "Meet Alpamayo 2 Super, now commercially available for robotaxis and autonomous vehicles. Built for complex real-world driving, this open reasoning model adds 360° awareness, high-level driving…",
+      "link": "https://x.com/nvidia/status/2084663782018543841",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-08-04T15:32:31.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Research"
+      ],
+      "summary": "Meet Alpamayo 2 Super, now commercially available for robotaxis and autonomous vehicles. Built for complex real-world driving, this open reasoning model adds 360° awareness, high-level driving decisions and automated reasoning labels. We built it, so you can build on it.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 70,
+      "sentiment": "positive",
+      "sentiment_score": 1,
+      "reasons": [
+        "report-worthy",
+        "casual tone (this)",
+        "tech substance (model, reasoning)",
+        "high engagement (1.1K likes)"
+      ],
+      "metrics": {
+        "likes": 1083,
+        "retweets": 147,
+        "replies": 66,
+        "likes_h": "1.1K"
+      },
+      "engagement": 1443,
+      "hot": false
+    },
+    {
+      "id": "x_2084625868173820144",
+      "title": "Security is strongest when organizations collaborate openly and move quickly. Now over 120 members strong, the Open Secure AI Alliance is sharing new open source security contributions, including new…",
+      "link": "https://x.com/nvidia/status/2084625868173820144",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-08-04T13:01:52.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "Security is strongest when organizations collaborate openly and move quickly. Now over 120 members strong, the Open Secure AI Alliance is sharing new open source security contributions, including new proposed SAFE guidelines, for turning confidential incident findings into",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 76,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "tech substance (open source)"
+      ],
+      "metrics": {
+        "likes": 539,
+        "retweets": 85,
+        "replies": 54,
+        "likes_h": "539"
+      },
+      "engagement": 763,
+      "hot": false
+    },
     {
       "id": "x_2084420790036910459",
       "title": "AI is becoming a primary interface for product discovery, opening new revenue opportunities for retailers. See how NVIDIA is helping retailers prepare for agentic commerce, from product discovery to…",
@@ -35,7 +198,7 @@
       "summary": "AI is becoming a primary interface for product discovery, opening new revenue opportunities for retailers. See how NVIDIA is helping retailers prepare for agentic commerce, from product discovery to secure checkout, while maintaining control over pricing, payments and",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 79,
+      "worthiness_score": 80,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -43,12 +206,12 @@
         "business signal (revenue)"
       ],
       "metrics": {
-        "likes": 369,
-        "retweets": 36,
-        "replies": 47,
-        "likes_h": "369"
+        "likes": 515,
+        "retweets": 49,
+        "replies": 60,
+        "likes_h": "515"
       },
-      "engagement": 488,
+      "engagement": 673,
       "hot": false
     },
     {
@@ -294,12 +457,12 @@
         "high engagement (9.1K likes)"
       ],
       "metrics": {
-        "likes": 9066,
-        "retweets": 364,
-        "replies": 521,
+        "likes": 9067,
+        "retweets": 367,
+        "replies": 524,
         "likes_h": "9.1K"
       },
-      "engagement": 10315,
+      "engagement": 10325,
       "hot": false
     },
     {
@@ -366,7 +529,7 @@
       "summary": "🎙️ @StudyFetch made its largest AI inference workload nearly 10x less expensive with NVIDIA Riva, Parakeet ASR and NVIDIA NIM microservices. The gains support voice tutoring, real-time personalization and a new agentic learning platform.",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 86,
+      "worthiness_score": 87,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -375,12 +538,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 196,
+        "likes": 202,
         "retweets": 21,
-        "replies": 36,
-        "likes_h": "196"
+        "replies": 37,
+        "likes_h": "202"
       },
-      "engagement": 274,
+      "engagement": 281,
       "hot": false
     },
     {
@@ -457,11 +620,11 @@
       ],
       "metrics": {
         "likes": 78,
-        "retweets": 13,
+        "retweets": 14,
         "replies": 8,
         "likes_h": "78"
       },
-      "engagement": 112,
+      "engagement": 114,
       "hot": false
     },
     {
@@ -498,12 +661,12 @@
         "high engagement (1.1K likes)"
       ],
       "metrics": {
-        "likes": 1113,
-        "retweets": 155,
+        "likes": 1116,
+        "retweets": 156,
         "replies": 75,
         "likes_h": "1.1K"
       },
-      "engagement": 1498,
+      "engagement": 1503,
       "hot": false
     },
     {
@@ -710,12 +873,12 @@
         "high engagement (5.1K likes)"
       ],
       "metrics": {
-        "likes": 5079,
-        "retweets": 828,
-        "replies": 318,
+        "likes": 5103,
+        "retweets": 832,
+        "replies": 326,
         "likes_h": "5.1K"
       },
-      "engagement": 7053,
+      "engagement": 7093,
       "hot": false
     },
     {
@@ -927,7 +1090,7 @@
         "likes_h": "9.4K"
       },
       "engagement": 10888,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2082601790768599074",
@@ -963,12 +1126,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 16925,
-        "retweets": 1083,
-        "replies": 694,
+        "likes": 16919,
+        "retweets": 1081,
+        "replies": 699,
         "likes_h": "16.9K"
       },
-      "engagement": 19785,
+      "engagement": 19780,
       "hot": true
     },
     {
@@ -1179,174 +1342,6 @@
       },
       "engagement": 3022,
       "hot": false
-    },
-    {
-      "id": "x_2082146058017321257",
-      "title": "We're opening applications for the OpenAI Student Collective—a program for undergraduate Campus Leads bringing AI innovation to their campuses. Campus Leads will work directly with OpenAI and receive…",
-      "link": "https://x.com/OpenAI/status/2082146058017321257",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-07-28T16:47:59.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Research"
-      ],
-      "summary": "We're opening applications for the OpenAI Student Collective—a program for undergraduate Campus Leads bringing AI innovation to their campuses. Campus Leads will work directly with OpenAI and receive hands-on training, funding, credits, swag, and access to a global community of",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 80,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "casual tone (swag)",
-        "tech substance (training)",
-        "business signal (funding)",
-        "high engagement (2.5K likes)"
-      ],
-      "metrics": {
-        "likes": 2514,
-        "retweets": 221,
-        "replies": 164,
-        "likes_h": "2.5K"
-      },
-      "engagement": 3120,
-      "hot": false
-    },
-    {
-      "id": "x_2082135368040886299",
-      "title": "The Open Secure AI Alliance is growing, with more organizations contributing expertise to help safeguard software and agents. http://nvda.ws/4pD8Fc5",
-      "link": "https://x.com/nvidia/status/2082135368040886299",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-07-28T16:05:30.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product"
-      ],
-      "summary": "The Open Secure AI Alliance is growing, with more organizations contributing expertise to help safeguard software and agents. http://nvda.ws/4pD8Fc5",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 58,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "reply / conversation",
-        "tech substance (agents)",
-        "links to a source"
-      ],
-      "metrics": {
-        "likes": 433,
-        "retweets": 57,
-        "replies": 35,
-        "likes_h": "433"
-      },
-      "engagement": 582,
-      "hot": false
-    },
-    {
-      "id": "x_2081884835715404071",
-      "title": "Translation queues and custom integrations can slow global launches. Our Digital Marketing team built an AI-powered localization platform with NVIDIA Nemotron Speech to change that. See the results ↓…",
-      "link": "https://x.com/nvidia/status/2081884835715404071",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-07-27T23:29:59.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product"
-      ],
-      "summary": "Translation queues and custom integrations can slow global launches. Our Digital Marketing team built an AI-powered localization platform with NVIDIA Nemotron Speech to change that. See the results ↓ https://nvda.ws/4wYUS22",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 90,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (nemotron, platform)",
-        "links to a source"
-      ],
-      "metrics": {
-        "likes": 309,
-        "retweets": 33,
-        "replies": 47,
-        "likes_h": "309"
-      },
-      "engagement": 422,
-      "hot": false
-    },
-    {
-      "id": "x_2081864750296658008",
-      "title": "There’s been a lot of speculation about where we stand on open-weights models. We’ve outlined our views in full here: https://www.anthropic.com/news/position-open-weights-models",
-      "link": "https://x.com/AnthropicAI/status/2081864750296658008",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Anthropic · @AnthropicAI",
-      "handle": "AnthropicAI",
-      "org": "Anthropic",
-      "published": "2026-07-27T22:10:10.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "Anthropic",
-        "Product"
-      ],
-      "summary": "There’s been a lot of speculation about where we stand on open-weights models. We’ve outlined our views in full here: https://www.anthropic.com/news/position-open-weights-models",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 89,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "tech substance (models, weights)",
-        "links to a source",
-        "high engagement (8.1K likes)"
-      ],
-      "metrics": {
-        "likes": 8131,
-        "retweets": 1046,
-        "replies": 2830,
-        "likes_h": "8.1K"
-      },
-      "engagement": 13053,
-      "hot": true
     }
   ]
 }
