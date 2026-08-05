@@ -1,38 +1,77 @@
 {
-  "generated_at": "2026-08-05T11:27:45.325Z",
+  "generated_at": "2026-08-05T13:16:09.955Z",
   "subs": [
     "MachineLearning",
-    "science",
-    "cybersecurity",
+    "LocalLLaMA",
+    "bodyweightfitness",
+    "startups",
     "netsec",
     "longevity",
     "SkincareAddiction",
+    "cybersecurity",
+    "science",
     "gadgets",
     "hardware",
-    "LocalLLaMA",
     "investing",
     "running",
     "Futurology",
     "nutrition",
-    "bodyweightfitness",
     "programming",
     "singularity",
-    "startups",
     "robotics"
   ],
   "count": 36,
   "by_category": {
-    "Security": 6,
-    "Science": 6,
+    "Fitness": 6,
+    "Security": 5,
+    "Science": 5,
+    "Startups & Funding": 6,
     "Skincare": 2,
     "AI / ML": 6,
     "Hardware & Gadgets": 4,
-    "Startups & Funding": 5,
-    "Fitness": 4,
-    "Coding & Dev Tools": 2,
+    "Coding & Dev Tools": 1,
     "Robotics": 1
   },
   "articles": [
+    {
+      "id": "reddit_1vfsqwl",
+      "title": "Can I build a good physique with just pull-ups, dips, and squats 3x/week?",
+      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1vfsqwl/can_i_build_a_good_physique_with_just_pullups/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/bodyweightfitness · community knowledge",
+      "content_type": "post",
+      "author": "u/D3mon0fthemist · r/bodyweightfitness",
+      "handle": "bodyweightfitness",
+      "org": "r/bodyweightfitness",
+      "platform": "reddit",
+      "published": "2026-08-05T01:03:46.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/bodyweightfitness"
+      ],
+      "summary": "I’ve been lifting with a bro split, but I’m going back to school while working full time and want something simpler that I can stick with. I’m considering doing 5 sets of pull-ups, 5 sets of dips, and 5 sets of barbell squats 3 days per week. I’m not trying to become a bodybuilder. I want to build muscle, stay…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/bodyweightfitness this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1vfpmhg",
       "title": "Bugtraq is back 🥹",
@@ -73,6 +112,45 @@
       }
     },
     {
+      "id": "reddit_1vf9g1w",
+      "title": "Why can’t I do a pull-up?",
+      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1vf9g1w/why_cant_i_do_a_pullup/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/bodyweightfitness · community knowledge",
+      "content_type": "post",
+      "author": "u/enql · r/bodyweightfitness",
+      "handle": "bodyweightfitness",
+      "org": "r/bodyweightfitness",
+      "platform": "reddit",
+      "published": "2026-08-04T12:50:10.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/bodyweightfitness"
+      ],
+      "summary": "I’m male, 19 years old, and I’ve been doing sports most of my life. Right now I can do around 25–30 push-ups and 8–10 dips, but I can’t do a proper pull-up. Maybe one with a lot of momentum. Because of my push-up and dip numbers, I expected that I should be able to do at least 1–3 proper pull-ups. Could it be because…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/bodyweightfitness this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1vf5rfw",
       "title": "A better way to deliver mitochondria into living cells",
       "link": "https://www.reddit.com/r/longevity/comments/1vf5rfw/a_better_way_to_deliver_mitochondria_into_living/",
@@ -105,6 +183,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/longevity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vf3z0d",
+      "title": "I can build anything. I have no idea how to get people to care (i will not promote)",
+      "link": "https://www.reddit.com/r/startups/comments/1vf3z0d/i_can_build_anything_i_have_no_idea_how_to_get/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/startups · community knowledge",
+      "content_type": "post",
+      "author": "u/Fragrant-Status-9634 · r/startups",
+      "handle": "startups",
+      "org": "r/startups",
+      "platform": "reddit",
+      "published": "2026-08-04T08:02:46.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/startups"
+      ],
+      "summary": "Spent months building something I genuinely believe in. The product works. I know it works because the few people who&#39;ve actually used it told me so without me asking them to be nice about it. The problem is I&#39;ve never been the guy who&#39;s good at the part that comes after building. Posting about it feels…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/startups this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1328,123 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/startups this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vcq36c",
-      "title": "Hackers hit 30-plus Minnesota water systems in 48 hours, forcing emergency response",
-      "link": "https://www.reddit.com/r/cybersecurity/comments/1vcq36c/hackers_hit_30plus_minnesota_water_systems_in_48/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/cybersecurity · community knowledge",
-      "content_type": "post",
-      "author": "u/JohnConner2030 · r/cybersecurity",
-      "handle": "cybersecurity",
-      "org": "r/cybersecurity",
-      "platform": "reddit",
-      "published": "2026-08-01T15:19:25.000Z",
-      "image": "https://external-preview.redd.it/IDCTHmOFVU1xkixMGK_NIMxm_eK8Ge0jz4bZr9aRH2M.jpeg?width=640&crop=smart&auto=webp&s=df09b074eea69482d685376a1b94b43462f602aa",
-      "thumbnail": "https://external-preview.redd.it/IDCTHmOFVU1xkixMGK_NIMxm_eK8Ge0jz4bZr9aRH2M.jpeg?width=640&crop=smart&auto=webp&s=df09b074eea69482d685376a1b94b43462f602aa",
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/cybersecurity"
-      ],
-      "summary": "Hackers hit 30-plus Minnesota water systems in 48 hours, forcing emergency response",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/cybersecurity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vcl5bj",
-      "title": "The Bedrock of Software Design",
-      "link": "https://www.reddit.com/r/programming/comments/1vcl5bj/the_bedrock_of_software_design/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/programming · community knowledge",
-      "content_type": "post",
-      "author": "u/alex35mil · r/programming",
-      "handle": "programming",
-      "org": "r/programming",
-      "platform": "reddit",
-      "published": "2026-08-01T11:41:38.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Coding & Dev Tools",
-      "category": "Coding & Dev Tools",
-      "genre": "Coding & Dev Tools",
-      "categories": [
-        "Reddit",
-        "Coding & Dev Tools",
-        "r/programming"
-      ],
-      "summary": "I drafted this post years ago but didn’t finish it until now. The concept I write about has shaped the way I design software more than anything else, and I believe every software engineer should be introduced to it early in their career. P.S. I don’t want the title to come across as clickbait: the post is about ADT.…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/programming this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vckffy",
-      "title": "Autism diagnoses rose sharply after the COVID-19 pandemic began. The rise was driven overwhelmingly by diagnoses among girls and women. New study suggests that many of these girls and women may simply have gone unrecognized in the past.",
-      "link": "https://www.reddit.com/r/science/comments/1vckffy/autism_diagnoses_rose_sharply_after_the_covid19/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/science · community knowledge",
-      "content_type": "post",
-      "author": "u/mvea · r/science",
-      "handle": "science",
-      "org": "r/science",
-      "platform": "reddit",
-      "published": "2026-08-01T11:04:11.000Z",
-      "image": "https://external-preview.redd.it/gXHd39Dt7wAhQIoJ8xqC2t_MDynE0Ksg2n9VFuYrUp8.jpeg?width=640&crop=smart&auto=webp&s=951c02b4ec9c4ee973da21842c71d79b82ca6c0d",
-      "thumbnail": "https://external-preview.redd.it/gXHd39Dt7wAhQIoJ8xqC2t_MDynE0Ksg2n9VFuYrUp8.jpeg?width=640&crop=smart&auto=webp&s=951c02b4ec9c4ee973da21842c71d79b82ca6c0d",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/science"
-      ],
-      "summary": "Autism diagnoses rose sharply after the COVID-19 pandemic began. The rise was driven overwhelmingly by diagnoses among girls and women. New study suggests that many of these girls and women may simply have gone unrecognized in the past.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/science this week"
       ],
       "metrics": {
         "likes": 0,
