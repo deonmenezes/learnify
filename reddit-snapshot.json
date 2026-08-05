@@ -1,16 +1,17 @@
 {
-  "generated_at": "2026-08-05T17:46:28.610Z",
+  "generated_at": "2026-08-05T19:43:21.779Z",
   "subs": [
     "MachineLearning",
-    "longevity",
-    "gadgets",
+    "Fitness",
     "hardware",
+    "longevity",
     "bodyweightfitness",
     "netsec",
     "startups",
     "SkincareAddiction",
     "cybersecurity",
     "science",
+    "gadgets",
     "LocalLLaMA",
     "investing",
     "running",
@@ -22,8 +23,8 @@
   "count": 36,
   "by_category": {
     "Hardware & Gadgets": 5,
-    "Science": 6,
     "Fitness": 6,
+    "Science": 6,
     "Security": 5,
     "Startups & Funding": 5,
     "Skincare": 2,
@@ -31,6 +32,45 @@
     "Coding & Dev Tools": 1
   },
   "articles": [
+    {
+      "id": "reddit_1vg466e",
+      "title": "Microsoft just deleted Windows 11's 32GB RAM recommendation docs, as prices soar and it rushes to sell 8GB RAM PCs",
+      "link": "https://www.reddit.com/r/hardware/comments/1vg466e/microsoft_just_deleted_windows_11s_32gb_ram/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/hardware · community knowledge",
+      "content_type": "post",
+      "author": "u/Quantum-Coconut · r/hardware",
+      "handle": "hardware",
+      "org": "r/hardware",
+      "platform": "reddit",
+      "published": "2026-08-05T11:01:33.000Z",
+      "image": "https://external-preview.redd.it/cb2MeeL3ZLbuJAXl07DgaV6FVeyN44hRTjZl0dw8YiQ.jpeg?width=640&crop=smart&auto=webp&s=380bbf21cb854ac14e32822eacdfa37512d3748b",
+      "thumbnail": "https://external-preview.redd.it/cb2MeeL3ZLbuJAXl07DgaV6FVeyN44hRTjZl0dw8YiQ.jpeg?width=640&crop=smart&auto=webp&s=380bbf21cb854ac14e32822eacdfa37512d3748b",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/hardware"
+      ],
+      "summary": "Microsoft just deleted Windows 11's 32GB RAM recommendation docs, as prices soar and it rushes to sell 8GB RAM PCs",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/hardware this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1vg37sw",
       "title": "Memory capacity for all of 2027 has reportedly been booked and sold, with no more DRAM or HBM available",
@@ -63,6 +103,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/hardware this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vg1yc0",
+      "title": "Rant Wednesday - August 05, 2026",
+      "link": "https://www.reddit.com/r/Fitness/comments/1vg1yc0/rant_wednesday_august_05_2026/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/Fitness · community knowledge",
+      "content_type": "post",
+      "author": "u/AutoModerator · r/Fitness",
+      "handle": "Fitness",
+      "org": "r/Fitness",
+      "platform": "reddit",
+      "published": "2026-08-05T09:00:22.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/Fitness"
+      ],
+      "summary": "Welcome to Rant Wednesday: It’s your time to let your gym/fitness/nutrition related frustrations out! There is no guiding question to help stir up some rage-feels, feel free to fire at will, ranting about anything and everything that’s been pissing you off or getting on your nerves. Just don&#39;t forget that other…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/Fitness this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1366,84 +1445,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/longevity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vd262h",
-      "title": "Galaxy Z Fold 8's \"crease-free\" claims meet reality after one week",
-      "link": "https://www.reddit.com/r/gadgets/comments/1vd262h/galaxy_z_fold_8s_creasefree_claims_meet_reality/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/gadgets · community knowledge",
-      "content_type": "post",
-      "author": "u/dapperlemon · r/gadgets",
-      "handle": "gadgets",
-      "org": "r/gadgets",
-      "platform": "reddit",
-      "published": "2026-08-01T23:33:07.000Z",
-      "image": "https://external-preview.redd.it/P30RsQtVV_RAszzlSduVTHL6czeJ8faKR872VQF0Llg.jpeg?width=640&crop=smart&auto=webp&s=385b52171ae96d5e08c7a8221323cad355d4f18f",
-      "thumbnail": "https://external-preview.redd.it/P30RsQtVV_RAszzlSduVTHL6czeJ8faKR872VQF0Llg.jpeg?width=640&crop=smart&auto=webp&s=385b52171ae96d5e08c7a8221323cad355d4f18f",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/gadgets"
-      ],
-      "summary": "Galaxy Z Fold 8's \"crease-free\" claims meet reality after one week",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/gadgets this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vd0rvp",
-      "title": "does anyone actually do the mobility work at the end or does it just quietly disappear for you too",
-      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1vd0rvp/does_anyone_actually_do_the_mobility_work_at_the/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/bodyweightfitness · community knowledge",
-      "content_type": "post",
-      "author": "u/palerobin9 · r/bodyweightfitness",
-      "handle": "bodyweightfitness",
-      "org": "r/bodyweightfitness",
-      "platform": "reddit",
-      "published": "2026-08-01T22:30:54.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/bodyweightfitness"
-      ],
-      "summary": "Been doing the recommended routine for about four months now. Nothing fancy, three sets, standard progression, ring rows working toward pull ups eventually, pike push ups, the whole thing. The actual strength work I never skip, not once, doesn&#39;t matter how tired I am after work. But the last ten minutes, the…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/bodyweightfitness this week"
       ],
       "metrics": {
         "likes": 0,
