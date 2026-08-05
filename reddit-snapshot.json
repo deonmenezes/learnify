@@ -1,39 +1,78 @@
 {
-  "generated_at": "2026-08-05T21:18:18.112Z",
+  "generated_at": "2026-08-05T22:39:33.833Z",
   "subs": [
     "MachineLearning",
-    "Fitness",
-    "robotics",
+    "Futurology",
+    "gadgets",
     "hardware",
+    "Fitness",
     "longevity",
     "bodyweightfitness",
     "netsec",
     "startups",
+    "robotics",
     "SkincareAddiction",
     "cybersecurity",
     "science",
-    "gadgets",
     "LocalLLaMA",
     "investing",
     "running",
-    "Futurology",
     "nutrition",
     "programming",
     "singularity"
   ],
   "count": 36,
   "by_category": {
-    "Hardware & Gadgets": 5,
+    "Science": 6,
+    "Hardware & Gadgets": 6,
     "Fitness": 6,
-    "Science": 5,
     "Security": 5,
-    "Startups & Funding": 4,
+    "Startups & Funding": 2,
     "Robotics": 2,
     "Skincare": 2,
     "AI / ML": 6,
     "Coding & Dev Tools": 1
   },
   "articles": [
+    {
+      "id": "reddit_1vg6iq9",
+      "title": "‘If we don’t fight back, we don’t have a future’: the journalist taking on the ‘tech fascists’ of Silicon Valley",
+      "link": "https://www.reddit.com/r/Futurology/comments/1vg6iq9/if_we_dont_fight_back_we_dont_have_a_future_the/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/Futurology · community knowledge",
+      "content_type": "post",
+      "author": "u/TeaUnlikely3217 · r/Futurology",
+      "handle": "Futurology",
+      "org": "r/Futurology",
+      "platform": "reddit",
+      "published": "2026-08-05T12:52:21.000Z",
+      "image": "https://external-preview.redd.it/bNjBsSkrVrYwfqfgmtErWyJk9LZckjmiLRM-7kNqC0g.jpeg?width=640&crop=smart&auto=webp&s=14dae6760334128964de5937190bed345ef879b4",
+      "thumbnail": "https://external-preview.redd.it/bNjBsSkrVrYwfqfgmtErWyJk9LZckjmiLRM-7kNqC0g.jpeg?width=640&crop=smart&auto=webp&s=14dae6760334128964de5937190bed345ef879b4",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/Futurology"
+      ],
+      "summary": "‘If we don’t fight back, we don’t have a future’: the journalist taking on the ‘tech fascists’ of Silicon Valley",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/Futurology this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1vg466e",
       "title": "Microsoft just deleted Windows 11's 32GB RAM recommendation docs, as prices soar and it rushes to sell 8GB RAM PCs",
@@ -656,6 +695,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vef1d9",
+      "title": "Casio turns its ring watch into smart wearable with health tracking and notifications",
+      "link": "https://www.reddit.com/r/gadgets/comments/1vef1d9/casio_turns_its_ring_watch_into_smart_wearable/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/gadgets · community knowledge",
+      "content_type": "post",
+      "author": "u/diacewrb · r/gadgets",
+      "handle": "gadgets",
+      "org": "r/gadgets",
+      "platform": "reddit",
+      "published": "2026-08-03T14:29:03.000Z",
+      "image": "https://external-preview.redd.it/nfyWuIU-NnwqKFZcaMsgVEl8HL7IENyE2RERIr1-AFE.jpeg?width=640&crop=smart&auto=webp&s=0ecddb6cac5e26cef69a2a6ff66a3a60a79c3112",
+      "thumbnail": "https://external-preview.redd.it/nfyWuIU-NnwqKFZcaMsgVEl8HL7IENyE2RERIr1-AFE.jpeg?width=640&crop=smart&auto=webp&s=0ecddb6cac5e26cef69a2a6ff66a3a60a79c3112",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/gadgets"
+      ],
+      "summary": "Casio turns its ring watch into smart wearable with health tracking and notifications",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/gadgets this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1365,86 +1443,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/singularity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vdabv7",
-      "title": "why hasn't there been an app like Pokemon Go in a long time that brings together social cohesion in society? i will not promote",
-      "link": "https://www.reddit.com/r/startups/comments/1vdabv7/why_hasnt_there_been_an_app_like_pokemon_go_in_a/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/startups · community knowledge",
-      "content_type": "post",
-      "author": "u/Lost_Foot_6301 · r/startups",
-      "handle": "startups",
-      "org": "r/startups",
-      "platform": "reddit",
-      "published": "2026-08-02T06:20:19.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/startups"
-      ],
-      "summary": "pokemon go is the last time I remember tech bringing random people of different walks of life together IRL having fun together. it was like a big social experiment that nobody ever tried to continue again. why hasn&#39;t someone attempted something like that again? &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/startups this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vd9u12",
-      "title": "Read the last 3 times BofA called the Fed “dovish” and said sell risk. So I backtested it.",
-      "link": "https://www.reddit.com/r/investing/comments/1vd9u12/read_the_last_3_times_bofa_called_the_fed_dovish/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/investing · community knowledge",
-      "content_type": "post",
-      "author": "u/Sandisunshine96 · r/investing",
-      "handle": "investing",
-      "org": "r/investing",
-      "platform": "reddit",
-      "published": "2026-08-02T05:53:12.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/investing"
-      ],
-      "summary": "BofA&#39;s Michael Hartnett is out today calling the Fed &quot;nakedly dovish&quot; and telling clients to rotate away from risk assets. I was curious if that call has actually worked, so I went back and pulled his Flow Show notes from FactSet / BofA archives. Last 3 times Hartnett used almost identical language: Dec…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/investing this week"
       ],
       "metrics": {
         "likes": 0,

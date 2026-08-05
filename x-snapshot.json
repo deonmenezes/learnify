@@ -1,16 +1,97 @@
 {
-  "generated_at": "2026-08-05T21:16:06.512Z",
+  "generated_at": "2026-08-05T22:37:19.905Z",
   "handles": [
     "nvidia",
+    "GoogleDeepMind",
+    "satyanadella",
+    "gdb",
     "AnthropicAI",
     "OpenAI",
-    "elonmusk",
-    "gdb",
-    "GoogleDeepMind",
-    "satyanadella"
+    "elonmusk"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2085106911964242055",
+      "title": "How do you explain world models to your sibling? 🤖 NVIDIA Cosmos helps physical AI reason about real-world interactions and simulate possible futures before acting in the real world. Or, as they…",
+      "link": "https://x.com/nvidia/status/2085106911964242055",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-08-05T20:53:21.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "How do you explain world models to your sibling? 🤖 NVIDIA Cosmos helps physical AI reason about real-world interactions and simulate possible futures before acting in the real world. Or, as they might put it, it teaches robots to dream. 💭",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 72,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (models)"
+      ],
+      "metrics": {
+        "likes": 99,
+        "retweets": 14,
+        "replies": 17,
+        "likes_h": "99"
+      },
+      "engagement": 144,
+      "hot": false
+    },
+    {
+      "id": "x_2085081013600825387",
+      "title": "When organizations build AI with proprietary data, the resulting intelligence should remain theirs. At @PalantirTech’s Sovereignty Bootcamp, NVIDIA VP of Enterprise AI @j_boitano discusses how…",
+      "link": "https://x.com/nvidia/status/2085081013600825387",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-08-05T19:10:27.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "When organizations build AI with proprietary data, the resulting intelligence should remain theirs. At @PalantirTech’s Sovereignty Bootcamp, NVIDIA VP of Enterprise AI @j_boitano discusses how Nemotron open models make secure, mission-specific AI possible. 👇",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 93,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "tech substance (models, nemotron)",
+        "business signal (enterprise)"
+      ],
+      "metrics": {
+        "likes": 220,
+        "retweets": 33,
+        "replies": 22,
+        "likes_h": "220"
+      },
+      "engagement": 308,
+      "hot": false
+    },
     {
       "id": "x_2085046495011869017",
       "title": "Thanks @ssankar for putting NVIDIA Nemotron 3 Ultra to the test with no post-training. 24 hours later, it was outperforming frontier models on the tasks @PalantirTech customers needed to solve.",
@@ -35,7 +116,7 @@
       "summary": "Thanks @ssankar for putting NVIDIA Nemotron 3 Ultra to the test with no post-training. 24 hours later, it was outperforming frontier models on the tasks @PalantirTech customers needed to solve.",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 89,
+      "worthiness_score": 92,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -46,12 +127,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 150,
-        "retweets": 21,
-        "replies": 29,
-        "likes_h": "150"
+        "likes": 545,
+        "retweets": 79,
+        "replies": 36,
+        "likes_h": "545"
       },
-      "engagement": 221,
+      "engagement": 739,
       "hot": false
     },
     {
@@ -164,15 +245,15 @@
       "sentiment_score": 0,
       "reasons": [
         "report-worthy",
-        "high engagement (12.3K likes)"
+        "high engagement (12.8K likes)"
       ],
       "metrics": {
-        "likes": 12289,
-        "retweets": 1771,
-        "replies": 554,
-        "likes_h": "12.3K"
+        "likes": 12840,
+        "retweets": 1875,
+        "replies": 571,
+        "likes_h": "12.8K"
       },
-      "engagement": 16385,
+      "engagement": 17161,
       "hot": true
     },
     {
@@ -199,7 +280,7 @@
       "summary": "Read why AI agents need more than one model. 👇 http://x.com/i/article/2084699575093465088",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 80,
+      "worthiness_score": 81,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -208,12 +289,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 410,
-        "retweets": 43,
-        "replies": 38,
-        "likes_h": "410"
+        "likes": 425,
+        "retweets": 47,
+        "replies": 42,
+        "likes_h": "425"
       },
-      "engagement": 534,
+      "engagement": 561,
       "hot": false
     },
     {
@@ -250,12 +331,12 @@
         "high engagement (1.3K likes)"
       ],
       "metrics": {
-        "likes": 1264,
-        "retweets": 176,
-        "replies": 75,
+        "likes": 1280,
+        "retweets": 178,
+        "replies": 76,
         "likes_h": "1.3K"
       },
-      "engagement": 1691,
+      "engagement": 1712,
       "hot": false
     },
     {
@@ -581,12 +662,12 @@
         "high engagement (9.1K likes)"
       ],
       "metrics": {
-        "likes": 9066,
-        "retweets": 369,
+        "likes": 9073,
+        "retweets": 372,
         "replies": 526,
         "likes_h": "9.1K"
       },
-      "engagement": 10330,
+      "engagement": 10343,
       "hot": false
     },
     {
@@ -826,12 +907,12 @@
         "high engagement (1.1K likes)"
       ],
       "metrics": {
-        "likes": 1120,
-        "retweets": 154,
-        "replies": 76,
+        "likes": 1121,
+        "retweets": 155,
+        "replies": 77,
         "likes_h": "1.1K"
       },
-      "engagement": 1504,
+      "engagement": 1508,
       "hot": false
     },
     {
@@ -1038,12 +1119,12 @@
         "high engagement (5.1K likes)"
       ],
       "metrics": {
-        "likes": 5124,
-        "retweets": 834,
-        "replies": 331,
+        "likes": 5138,
+        "retweets": 836,
+        "replies": 333,
         "likes_h": "5.1K"
       },
-      "engagement": 7123,
+      "engagement": 7143,
       "hot": false
     },
     {
@@ -1255,91 +1336,6 @@
         "likes_h": "9.4K"
       },
       "engagement": 10888,
-      "hot": false
-    },
-    {
-      "id": "x_2082601790768599074",
-      "title": "Just wrapped our earnings call. It was a very strong close to what was a record fiscal year for Microsoft. · Annual revenue: $331B, +18% · MS Cloud: $214B, + 27% · And Azure: $100B, +41% And even…",
-      "link": "https://x.com/satyanadella/status/2082601790768599074",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Satya Nadella · @satyanadella",
-      "handle": "satyanadella",
-      "org": "Microsoft",
-      "published": "2026-07-29T22:58:54.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "Microsoft",
-        "Commentary"
-      ],
-      "summary": "Just wrapped our earnings call. It was a very strong close to what was a record fiscal year for Microsoft. · Annual revenue: $331B, +18% · MS Cloud: $214B, + 27% · And Azure: $100B, +41% And even bigger opportunity ahead! I wanted to share some more perspective on two areas",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 83,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "business signal (revenue)",
-        "high engagement (16.9K likes)",
-        "concrete metrics"
-      ],
-      "metrics": {
-        "likes": 16925,
-        "retweets": 1081,
-        "replies": 699,
-        "likes_h": "16.9K"
-      },
-      "engagement": 19786,
-      "hot": true
-    },
-    {
-      "id": "x_2082263717916586117",
-      "title": "We quietly released the open-source Codex Security CLI, but Hacker News found it before we had a chance to share it here... You can now use it to scan repositories, track findings across runs, verify…",
-      "link": "https://x.com/OpenAI/status/2082263717916586117",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-07-29T00:35:31.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product launch",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Product launch"
-      ],
-      "summary": "We quietly released the open-source Codex Security CLI, but Hacker News found it before we had a chance to share it here... You can now use it to scan repositories, track findings across runs, verify fixes, and add security checks to CI/CD. This is an early release, and we're",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 100,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "casual tone (this)",
-        "announcement language (release, released, you can now)",
-        "tech substance (open-source)",
-        "high engagement (7.7K likes)"
-      ],
-      "metrics": {
-        "likes": 7705,
-        "retweets": 663,
-        "replies": 263,
-        "likes_h": "7.7K"
-      },
-      "engagement": 9294,
       "hot": false
     }
   ]
