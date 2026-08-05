@@ -1,16 +1,97 @@
 {
-  "generated_at": "2026-08-05T13:13:57.785Z",
+  "generated_at": "2026-08-05T15:41:13.430Z",
   "handles": [
-    "nvidia",
+    "AnthropicAI",
     "OpenAI",
+    "nvidia",
     "elonmusk",
     "gdb",
     "GoogleDeepMind",
-    "satyanadella",
-    "AnthropicAI"
+    "satyanadella"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2084748111239344556",
+      "title": "The UK’s @AISecurityInst (AISI) has published a report on their recent cybersecurity evaluation of Anthropic’s Claude Mythos 5 and OpenAI’s GPT-5.6 Sol. The models attempted to complete an assignment…",
+      "link": "https://x.com/AnthropicAI/status/2084748111239344556",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Anthropic · @AnthropicAI",
+      "handle": "AnthropicAI",
+      "org": "Anthropic",
+      "published": "2026-08-04T21:07:37.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "Anthropic",
+        "Product"
+      ],
+      "summary": "The UK’s @AISecurityInst (AISI) has published a report on their recent cybersecurity evaluation of Anthropic’s Claude Mythos 5 and OpenAI’s GPT-5.6 Sol. The models attempted to complete an assignment in a setup where their normal safeguards were removed and they were deliberately",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 84,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (models, gpt, claude)",
+        "high engagement (2.1K likes)"
+      ],
+      "metrics": {
+        "likes": 2144,
+        "retweets": 365,
+        "replies": 327,
+        "likes_h": "2.1K"
+      },
+      "engagement": 3201,
+      "hot": false
+    },
+    {
+      "id": "x_2084747580693426555",
+      "title": "We're detailing two new incidents that occurred during external cyber evaluations conducted by independent evaluation partners. We outline what happened, how the activity was contained, and how we’re…",
+      "link": "https://x.com/OpenAI/status/2084747580693426555",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-08-04T21:05:30.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Commentary"
+      ],
+      "summary": "We're detailing two new incidents that occurred during external cyber evaluations conducted by independent evaluation partners. We outline what happened, how the activity was contained, and how we’re working with evaluators to strengthen our approach to third-party testing.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 56,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "high engagement (3.5K likes)"
+      ],
+      "metrics": {
+        "likes": 3460,
+        "retweets": 325,
+        "replies": 429,
+        "likes_h": "3.5K"
+      },
+      "engagement": 4539,
+      "hot": false
+    },
     {
       "id": "x_2084733460690903204",
       "title": "AI compute is going to orbit. 🚀 @SpaceX’s Starmind AI1 satellite compute payload is powered by NVIDIA Vera Rubin NVL72, bringing AI factory compute closer to the stars. The next chapter of AI…",
@@ -238,7 +319,7 @@
       "summary": "The result is a faster, more natural conversation with ChatGPT Voice from the moment a session starts. How we built it: https://openai.com/index/continuous-voice-interaction-with-gpt-live/",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 55,
+      "worthiness_score": 56,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -248,12 +329,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 601,
-        "retweets": 30,
-        "replies": 30,
-        "likes_h": "601"
+        "likes": 816,
+        "retweets": 53,
+        "replies": 34,
+        "likes_h": "816"
       },
-      "engagement": 691,
+      "engagement": 956,
       "hot": false
     },
     {
@@ -287,15 +368,15 @@
         "report-worthy",
         "casual tone (this)",
         "tech substance (model, gpt, reasoning)",
-        "high engagement (7.1K likes)"
+        "high engagement (10.7K likes)"
       ],
       "metrics": {
-        "likes": 7137,
-        "retweets": 578,
-        "replies": 379,
-        "likes_h": "7.1K"
+        "likes": 10684,
+        "retweets": 922,
+        "replies": 526,
+        "likes_h": "10.7K"
       },
-      "engagement": 8672,
+      "engagement": 13054,
       "hot": false
     },
     {
@@ -331,15 +412,15 @@
         "announcement language (releasing)",
         "tech substance (reasoning)",
         "links to a source",
-        "high engagement (881 likes)"
+        "high engagement (1.1K likes)"
       ],
       "metrics": {
-        "likes": 881,
-        "retweets": 53,
-        "replies": 27,
-        "likes_h": "881"
+        "likes": 1072,
+        "retweets": 62,
+        "replies": 36,
+        "likes_h": "1.1K"
       },
-      "engagement": 1014,
+      "engagement": 1232,
       "hot": false
     },
     {
@@ -372,15 +453,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (model, gpt, api)",
-        "high engagement (11.6K likes)"
+        "high engagement (13.8K likes)"
       ],
       "metrics": {
-        "likes": 11559,
-        "retweets": 791,
-        "replies": 462,
-        "likes_h": "11.6K"
+        "likes": 13846,
+        "retweets": 994,
+        "replies": 563,
+        "likes_h": "13.8K"
       },
-      "engagement": 13603,
+      "engagement": 16397,
       "hot": true
     },
     {
@@ -545,6 +626,47 @@
       },
       "engagement": 283,
       "hot": false
+    },
+    {
+      "id": "x_2082965101083320543",
+      "title": "In a review of our cybersecurity evaluations, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and…",
+      "link": "https://x.com/AnthropicAI/status/2082965101083320543",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Anthropic · @AnthropicAI",
+      "handle": "AnthropicAI",
+      "org": "Anthropic",
+      "published": "2026-07-30T23:02:34.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "Anthropic",
+        "Product"
+      ],
+      "summary": "In a review of our cybersecurity evaluations, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 79,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (model, claude)",
+        "high engagement (13.6K likes)"
+      ],
+      "metrics": {
+        "likes": 13649,
+        "retweets": 2290,
+        "replies": 1951,
+        "likes_h": "13.6K"
+      },
+      "engagement": 20180,
+      "hot": true
     },
     {
       "id": "x_2082934294180221043",
@@ -746,12 +868,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 1681,
+        "likes": 1685,
         "retweets": 51,
-        "replies": 28,
+        "replies": 29,
         "likes_h": "1.7K"
       },
-      "engagement": 1811,
+      "engagement": 1816,
       "hot": false
     },
     {
@@ -1090,7 +1212,7 @@
         "likes_h": "9.4K"
       },
       "engagement": 10888,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2082601790768599074",
@@ -1208,139 +1330,15 @@
         "report-worthy",
         "casual tone (this)",
         "tech substance (research)",
-        "high engagement (4.7K likes)"
+        "high engagement (4.9K likes)"
       ],
       "metrics": {
-        "likes": 4731,
-        "retweets": 539,
-        "replies": 1360,
-        "likes_h": "4.7K"
+        "likes": 4940,
+        "retweets": 580,
+        "replies": 1424,
+        "likes_h": "4.9K"
       },
-      "engagement": 7169,
-      "hot": false
-    },
-    {
-      "id": "x_2082208694142730340",
-      "title": "At the core of our mission is working through how to ensure increasingly powerful AI benefits everyone. We believe that, at some point in the future, AI acceleration for frontier model development…",
-      "link": "https://x.com/OpenAI/status/2082208694142730340",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-07-28T20:56:52.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Product"
-      ],
-      "summary": "At the core of our mission is working through how to ensure increasingly powerful AI benefits everyone. We believe that, at some point in the future, AI acceleration for frontier model development may be so high that the world will need to pace the rate of AI advancement. We",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 74,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "tech substance (model)",
-        "high engagement (3.1K likes)"
-      ],
-      "metrics": {
-        "likes": 3061,
-        "retweets": 344,
-        "replies": 567,
-        "likes_h": "3.1K"
-      },
-      "engagement": 4316,
-      "hot": false
-    },
-    {
-      "id": "x_2082153297670992134",
-      "title": "New Anthropic research: Discovering cryptographic weaknesses with Claude. Claude Mythos Preview has helped our researchers find weaknesses in cryptographic algorithms—the mathematical methods that…",
-      "link": "https://x.com/AnthropicAI/status/2082153297670992134",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Anthropic · @AnthropicAI",
-      "handle": "AnthropicAI",
-      "org": "Anthropic",
-      "published": "2026-07-28T17:16:45.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "Anthropic",
-        "Research"
-      ],
-      "summary": "New Anthropic research: Discovering cryptographic weaknesses with Claude. Claude Mythos Preview has helped our researchers find weaknesses in cryptographic algorithms—the mathematical methods that are used to keep data private. Read more: https://anthropic.com/research/discovering-cryptographic-weaknesses",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 89,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (claude, research)",
-        "links to a source",
-        "high engagement (6.1K likes)"
-      ],
-      "metrics": {
-        "likes": 6149,
-        "retweets": 814,
-        "replies": 425,
-        "likes_h": "6.1K"
-      },
-      "engagement": 8202,
-      "hot": false
-    },
-    {
-      "id": "x_2082152074071228702",
-      "title": "Coding agents are helping scientists spend more time advancing research, taking on everything from routine maintenance and targeted optimization to complete redesigns and new systems. While agents…",
-      "link": "https://x.com/OpenAI/status/2082152074071228702",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-07-28T17:11:53.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Research"
-      ],
-      "summary": "Coding agents are helping scientists spend more time advancing research, taking on everything from routine maintenance and targeted optimization to complete redesigns and new systems. While agents can reliably execute on ambitious projects, researchers must still define the",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 83,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (agents, research)",
-        "high engagement (2.4K likes)"
-      ],
-      "metrics": {
-        "likes": 2404,
-        "retweets": 216,
-        "replies": 186,
-        "likes_h": "2.4K"
-      },
-      "engagement": 3022,
+      "engagement": 7524,
       "hot": false
     }
   ]
