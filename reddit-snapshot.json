@@ -1,8 +1,9 @@
 {
-  "generated_at": "2026-08-05T19:43:21.779Z",
+  "generated_at": "2026-08-05T21:18:18.112Z",
   "subs": [
     "MachineLearning",
     "Fitness",
+    "robotics",
     "hardware",
     "longevity",
     "bodyweightfitness",
@@ -24,9 +25,10 @@
   "by_category": {
     "Hardware & Gadgets": 5,
     "Fitness": 6,
-    "Science": 6,
+    "Science": 5,
     "Security": 5,
-    "Startups & Funding": 5,
+    "Startups & Funding": 4,
+    "Robotics": 2,
     "Skincare": 2,
     "AI / ML": 6,
     "Coding & Dev Tools": 1
@@ -387,6 +389,45 @@
       }
     },
     {
+      "id": "reddit_1vf3oq8",
+      "title": "Mecanum wheel based robot for motion simulation",
+      "link": "https://www.reddit.com/r/robotics/comments/1vf3oq8/mecanum_wheel_based_robot_for_motion_simulation/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/robotics · community knowledge",
+      "content_type": "post",
+      "author": "u/Amazing-Battle-4789 · r/robotics",
+      "handle": "robotics",
+      "org": "r/robotics",
+      "platform": "reddit",
+      "published": "2026-08-04T07:46:12.000Z",
+      "image": "https://external-preview.redd.it/bW1vY3hlZHdiYmhoMdPJzhHePh4tzGkcRIjqvBvn5Ks3EPPF0MrADp8v4JXo.png?width=640&crop=smart&auto=webp&s=533d0bf3264123b245a0cf2d170b947e2b47d9bb",
+      "thumbnail": "https://external-preview.redd.it/bW1vY3hlZHdiYmhoMdPJzhHePh4tzGkcRIjqvBvn5Ks3EPPF0MrADp8v4JXo.png?width=640&crop=smart&auto=webp&s=533d0bf3264123b245a0cf2d170b947e2b47d9bb",
+      "section": "Robotics",
+      "category": "Robotics",
+      "genre": "Robotics",
+      "categories": [
+        "Reddit",
+        "Robotics",
+        "r/robotics"
+      ],
+      "summary": "I designed this mecanum wheel based omnidirectional vehicle for motion simulation. It can move on 3 degrees of freedom : surge, sway and yaw. A VR tracker is used to ascertain the position &amp; orientation of the rig at all times, and recenter it subtly. &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/robotics this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1vet23a",
       "title": "Jackpot: a browser lab of 10 deliberately vulnerable LLM apps, one per OWASP LLM Top 10 category",
       "link": "https://www.reddit.com/r/netsec/comments/1vet23a/jackpot_a_browser_lab_of_10_deliberately/",
@@ -732,6 +773,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/hardware this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vedrhr",
+      "title": "Built a $23 leader arm for teleoperation",
+      "link": "https://www.reddit.com/r/robotics/comments/1vedrhr/built_a_23_leader_arm_for_teleoperation/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/robotics · community knowledge",
+      "content_type": "post",
+      "author": "u/Solid-Cellist-8876 · r/robotics",
+      "handle": "robotics",
+      "org": "r/robotics",
+      "platform": "reddit",
+      "published": "2026-08-03T13:40:41.000Z",
+      "image": "https://external-preview.redd.it/c2E4ODk2NHFoNWhoMRlYOun3Ns-kClE34QGxeQLkBcLs9BTH70lCvF79bO-m.png?width=320&crop=smart&auto=webp&s=aaf2cbc88c1a35b36aaf06b27d7cd03339e8cbb7",
+      "thumbnail": "https://external-preview.redd.it/c2E4ODk2NHFoNWhoMRlYOun3Ns-kClE34QGxeQLkBcLs9BTH70lCvF79bO-m.png?width=320&crop=smart&auto=webp&s=aaf2cbc88c1a35b36aaf06b27d7cd03339e8cbb7",
+      "section": "Robotics",
+      "category": "Robotics",
+      "genre": "Robotics",
+      "categories": [
+        "Reddit",
+        "Robotics",
+        "r/robotics"
+      ],
+      "summary": "Please don&#39;t mind the cables and the messy table. I am new to the VLA and robot arm side of robotics and was primarily working on the legged locomotion. I thought of building the lerobot kit to work on vla. I felt the price was a bit steep for me so decided to build my own leader arm with encoders instead of…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/robotics this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1365,86 +1445,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/investing this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vd8bna",
-      "title": "Now that we see the game, do we still want to play?",
-      "link": "https://www.reddit.com/r/investing/comments/1vd8bna/now_that_we_see_the_game_do_we_still_want_to_play/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/investing · community knowledge",
-      "content_type": "post",
-      "author": "u/Emotional-Breath-838 · r/investing",
-      "handle": "investing",
-      "org": "r/investing",
-      "platform": "reddit",
-      "published": "2026-08-02T04:32:52.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/investing"
-      ],
-      "summary": "Rather than AI edit this, I&#39;m going stream of consciousness and I&#39;ll try to structure this somewhat. If you&#39;re an investor, you&#39;ve seen the news. Citadel tells everyone the interest rates are going to go up, and a 25 year old hot shot winds up getting wiped out to the tune of multi-multi-billions of…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/investing this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vd2mfn",
-      "title": "Atlas of lysosomal aging reveals a metabolite signature shared with lysosomal storage disorders (Science, 2026)",
-      "link": "https://www.reddit.com/r/longevity/comments/1vd2mfn/atlas_of_lysosomal_aging_reveals_a_metabolite/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/longevity · community knowledge",
-      "content_type": "post",
-      "author": "u/ResearchSlore · r/longevity",
-      "handle": "longevity",
-      "org": "r/longevity",
-      "platform": "reddit",
-      "published": "2026-08-01T23:54:18.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Science",
-      "category": "Science",
-      "genre": "Longevity",
-      "categories": [
-        "Reddit",
-        "Science",
-        "Longevity",
-        "r/longevity"
-      ],
-      "summary": "Atlas of lysosomal aging reveals a metabolite signature shared with lysosomal storage disorders (Science, 2026)",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/longevity this week"
       ],
       "metrics": {
         "likes": 0,
