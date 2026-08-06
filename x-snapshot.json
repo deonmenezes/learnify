@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-06T03:52:26.206Z",
+  "generated_at": "2026-08-06T06:35:57.497Z",
   "handles": [
     "nvidia",
+    "GoogleDeepMind",
     "AnthropicAI",
     "OpenAI",
     "elonmusk",
-    "gdb",
-    "GoogleDeepMind"
+    "gdb"
   ],
   "count": 32,
   "articles": [
@@ -34,7 +34,7 @@
       "summary": "How do you explain world models to your sibling? 🤖 NVIDIA Cosmos helps physical AI reason about real-world interactions and simulate possible futures before acting in the real world. Or, as they might put it, it teaches robots to dream. 💭",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 72,
+      "worthiness_score": 74,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -42,12 +42,12 @@
         "tech substance (models)"
       ],
       "metrics": {
-        "likes": 99,
-        "retweets": 14,
-        "replies": 17,
-        "likes_h": "99"
+        "likes": 185,
+        "retweets": 26,
+        "replies": 29,
+        "likes_h": "185"
       },
-      "engagement": 144,
+      "engagement": 266,
       "hot": false
     },
     {
@@ -74,7 +74,7 @@
       "summary": "When organizations build AI with proprietary data, the resulting intelligence should remain theirs. At @PalantirTech’s Sovereignty Bootcamp, NVIDIA VP of Enterprise AI @j_boitano discusses how Nemotron open models make secure, mission-specific AI possible. 👇",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 93,
+      "worthiness_score": 94,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -83,12 +83,12 @@
         "business signal (enterprise)"
       ],
       "metrics": {
-        "likes": 220,
-        "retweets": 33,
-        "replies": 22,
-        "likes_h": "220"
+        "likes": 340,
+        "retweets": 50,
+        "replies": 28,
+        "likes_h": "340"
       },
-      "engagement": 308,
+      "engagement": 468,
       "hot": false
     },
     {
@@ -115,7 +115,7 @@
       "summary": "Thanks @ssankar for putting NVIDIA Nemotron 3 Ultra to the test with no post-training. 24 hours later, it was outperforming frontier models on the tasks @PalantirTech customers needed to solve.",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 92,
+      "worthiness_score": 93,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -123,15 +123,16 @@
         "casual tone (thanks)",
         "tech substance (models, nemotron, training)",
         "business signal (customers)",
+        "high engagement (867 likes)",
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 545,
-        "retweets": 79,
-        "replies": 36,
-        "likes_h": "545"
+        "likes": 867,
+        "retweets": 123,
+        "replies": 47,
+        "likes_h": "867"
       },
-      "engagement": 739,
+      "engagement": 1160,
       "hot": false
     },
     {
@@ -244,15 +245,15 @@
       "sentiment_score": 0,
       "reasons": [
         "report-worthy",
-        "high engagement (12.8K likes)"
+        "high engagement (13.3K likes)"
       ],
       "metrics": {
-        "likes": 12840,
-        "retweets": 1875,
-        "replies": 571,
-        "likes_h": "12.8K"
+        "likes": 13338,
+        "retweets": 1965,
+        "replies": 585,
+        "likes_h": "13.3K"
       },
-      "engagement": 17161,
+      "engagement": 17853,
       "hot": true
     },
     {
@@ -288,12 +289,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 425,
-        "retweets": 47,
+        "likes": 437,
+        "retweets": 48,
         "replies": 42,
-        "likes_h": "425"
+        "likes_h": "437"
       },
-      "engagement": 561,
+      "engagement": 575,
       "hot": false
     },
     {
@@ -330,12 +331,12 @@
         "high engagement (1.3K likes)"
       ],
       "metrics": {
-        "likes": 1280,
-        "retweets": 178,
+        "likes": 1305,
+        "retweets": 183,
         "replies": 76,
         "likes_h": "1.3K"
       },
-      "engagement": 1712,
+      "engagement": 1747,
       "hot": false
     },
     {
@@ -906,12 +907,12 @@
         "high engagement (1.1K likes)"
       ],
       "metrics": {
-        "likes": 1121,
-        "retweets": 156,
-        "replies": 77,
+        "likes": 1124,
+        "retweets": 157,
+        "replies": 78,
         "likes_h": "1.1K"
       },
-      "engagement": 1510,
+      "engagement": 1516,
       "hot": false
     },
     {
@@ -1115,15 +1116,15 @@
         "report-worthy",
         "announcement language (launching)",
         "tech substance (gemini, robotics)",
-        "high engagement (5.1K likes)"
+        "high engagement (5.2K likes)"
       ],
       "metrics": {
-        "likes": 5139,
-        "retweets": 836,
-        "replies": 333,
-        "likes_h": "5.1K"
+        "likes": 5150,
+        "retweets": 834,
+        "replies": 335,
+        "likes_h": "5.2K"
       },
-      "engagement": 7144,
+      "engagement": 7153,
       "hot": false
     },
     {

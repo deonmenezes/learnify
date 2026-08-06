@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-08-06T03:54:37.738Z",
+  "generated_at": "2026-08-06T06:38:10.872Z",
   "subs": [
     "MachineLearning",
-    "science",
-    "netsec",
+    "LocalLLaMA",
+    "bodyweightfitness",
+    "startups",
     "Futurology",
     "hardware",
     "Fitness",
     "longevity",
-    "bodyweightfitness",
-    "startups",
+    "netsec",
+    "science",
     "robotics",
     "SkincareAddiction",
     "cybersecurity",
     "gadgets",
-    "LocalLLaMA",
     "investing",
     "running",
     "nutrition"
   ],
   "count": 36,
   "by_category": {
-    "Science": 7,
-    "Hardware & Gadgets": 6,
+    "Science": 6,
+    "Hardware & Gadgets": 5,
     "Fitness": 5,
-    "AI / ML": 6,
+    "AI / ML": 7,
     "Security": 6,
-    "Startups & Funding": 2,
+    "Startups & Funding": 3,
     "Robotics": 2,
     "Skincare": 2
   },
@@ -338,6 +338,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/netsec this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vfl525",
+      "title": "Kimi K3 full model running on 16x GB10 cluster at 20+tps",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1vfl525/kimi_k3_full_model_running_on_16x_gb10_cluster_at/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/LocalLLaMA · community knowledge",
+      "content_type": "post",
+      "author": "u/ciprianveg · r/LocalLLaMA",
+      "handle": "LocalLLaMA",
+      "org": "r/LocalLLaMA",
+      "platform": "reddit",
+      "published": "2026-08-04T19:56:16.000Z",
+      "image": "https://preview.redd.it/x4w1912fyehh1.jpeg?width=640&crop=smart&auto=webp&s=8280c2baf350c6319c3be3beea76678c96e14967",
+      "thumbnail": "https://preview.redd.it/x4w1912fyehh1.jpeg?width=640&crop=smart&auto=webp&s=8280c2baf350c6319c3be3beea76678c96e14967",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/LocalLLaMA"
+      ],
+      "summary": "Kimi K3 full model running on 16x GB10 cluster at 20+tps average (llama-benchy coherent corpus) 38tps peak, 750tps prefill. This is the first run of full k3 with dspark on my cluster. I will be doing some tests and try tp speed this up. As soon as it looks ready I&#39;ll publish the vllm image and instructions.…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/LocalLLaMA this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1212,6 +1252,46 @@
       }
     },
     {
+      "id": "reddit_1vdty7t",
+      "title": "Accidentally built a userbase in a dying niche. Not sure what to do. I will not promote.",
+      "link": "https://www.reddit.com/r/startups/comments/1vdty7t/accidentally_built_a_userbase_in_a_dying_niche/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/startups · community knowledge",
+      "content_type": "post",
+      "author": "u/EggplantParticular27 · r/startups",
+      "handle": "startups",
+      "org": "r/startups",
+      "platform": "reddit",
+      "published": "2026-08-02T21:20:39.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/startups"
+      ],
+      "summary": "Accidentally built a user base in a dying niche, not sure how to capitalize on it. About 2 years ago, I built an AI fitness site that analyzed people’s physiques and gave feedback to improve based on their fitness goals. People could also share workout routines and post progress pictures. Overwhelmed by the scale, I…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/startups this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1vdr79f",
       "title": "AI spending spree hits $600b as Oracle fires 21,000 employees to fund boom",
       "link": "https://www.reddit.com/r/Futurology/comments/1vdr79f/ai_spending_spree_hits_600b_as_oracle_fires_21000/",
@@ -1361,85 +1441,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/cybersecurity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vdm1nk",
-      "title": "How Urolithin A Improved a Model of Heart Failure: Not Just by Enhancing Mitophagy, but by an Unexpected Route Through the Gut Microbiome",
-      "link": "https://www.reddit.com/r/longevity/comments/1vdm1nk/how_urolithin_a_improved_a_model_of_heart_failure/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/longevity · community knowledge",
-      "content_type": "post",
-      "author": "u/dan_in_ca · r/longevity",
-      "handle": "longevity",
-      "org": "r/longevity",
-      "platform": "reddit",
-      "published": "2026-08-02T16:10:22.000Z",
-      "image": "https://external-preview.redd.it/0aD1tlU7gkq7ce8pbpk8FKfVEgFLJW9iXRyo3VVL6HA.png?width=640&crop=smart&auto=webp&s=f504030cf1477d1bea6339c99cf01be8e4b3422b",
-      "thumbnail": "https://external-preview.redd.it/0aD1tlU7gkq7ce8pbpk8FKfVEgFLJW9iXRyo3VVL6HA.png?width=640&crop=smart&auto=webp&s=f504030cf1477d1bea6339c99cf01be8e4b3422b",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Longevity",
-      "categories": [
-        "Reddit",
-        "Science",
-        "Longevity",
-        "r/longevity"
-      ],
-      "summary": "How Urolithin A Improved a Model of Heart Failure: Not Just by Enhancing Mitophagy, but by an Unexpected Route Through the Gut Microbiome",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/longevity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vdlre6",
-      "title": "Lenovo's first Googlebooks have leaked",
-      "link": "https://www.reddit.com/r/gadgets/comments/1vdlre6/lenovos_first_googlebooks_have_leaked/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/gadgets · community knowledge",
-      "content_type": "post",
-      "author": "u/dapperlemon · r/gadgets",
-      "handle": "gadgets",
-      "org": "r/gadgets",
-      "platform": "reddit",
-      "published": "2026-08-02T15:59:26.000Z",
-      "image": "https://external-preview.redd.it/_lcfUp61AGj_j6ul8w-F-P4Qu1K5yWg4f8d7W_oNgUo.jpeg?width=640&crop=smart&auto=webp&s=1ff75c63091d5d28286f7c3e58bd6588e9e155d1",
-      "thumbnail": "https://external-preview.redd.it/_lcfUp61AGj_j6ul8w-F-P4Qu1K5yWg4f8d7W_oNgUo.jpeg?width=640&crop=smart&auto=webp&s=1ff75c63091d5d28286f7c3e58bd6588e9e155d1",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/gadgets"
-      ],
-      "summary": "Lenovo's first Googlebooks have leaked",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/gadgets this week"
       ],
       "metrics": {
         "likes": 0,

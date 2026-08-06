@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-06T03:50:26.971Z",
+  "generated_at": "2026-08-06T06:33:58.485Z",
   "model": "nvidia/nemotron-3-super-120b-a12b",
-  "count": 4830,
+  "count": 4834,
   "items": {
     "786147": {
       "title": "This land belongs to you and me — even Willie Nelson is pushing back against data centers",
@@ -820,14 +820,6 @@
       "media_credit": "Photo: ITU Pictures / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/42121221@N07/30495671441"
     },
-    "oa_5nir2j": {
-      "title": "Bridging technology and sustainability: examining the role of green AI adoption in Indian banking sector",
-      "t": 1785056239698,
-      "media_url": "https://live.staticflickr.com/65535/54139326945_d6da6be788_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: UNCTAD / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/53390373@N06/54139326945"
-    },
     "huu03v": {
       "title": "Inside the Backrooms: The internet’s creepiest place is becoming a tourist attraction",
       "t": 1785062933494,
@@ -862,14 +854,6 @@
       "media_credit": "Photo: TechCrunch / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/52522100@N07/52086900836"
     },
-    "oa_izl3lg": {
-      "title": "Advancing bioinformatics with language models: components, applications, and perspectives",
-      "t": 1785085511856,
-      "media_url": "https://live.staticflickr.com/2339/3542261538_6f440e0a72_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Constantine Agustin / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/11249521@N00/3542261538"
-    },
     "oa_mn9586": {
       "title": "Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook",
       "t": 1785085512128,
@@ -877,22 +861,6 @@
       "media_kind": "stock",
       "media_credit": "Photo: Wolfgang Staudt / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/53074617@N00/2052656629"
-    },
-    "oa_1ya879b": {
-      "title": "Spiral Time: A Geometric Reframing of Temporal Structure and Its Applications in Machine Learning",
-      "t": 1785085512419,
-      "media_url": "https://live.staticflickr.com/65535/52506381778_5e8b05c928_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: James Webb Space Telescope / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/50785054@N03/52506381778"
-    },
-    "oa_1667vpp": {
-      "title": "HuntGPT: Integrating Machine Learning-Based Anomaly Detection and Explainable AI with Large Language Models (LLMs)",
-      "t": 1785085512944,
-      "media_url": "https://live.staticflickr.com/7244/7222789564_989fcbb790_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: U.S. Army Combat Capabilities Development Command / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/34402227@N03/7222789564"
     },
     "oa_1i7ynj0": {
       "title": "A Survey of Large Language Models",
@@ -918,83 +886,6 @@
       "media_credit": "Photo: jimmac / BY-SA 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/63781227@N00/363859949"
     },
-    "18ohhsk": {
-      "title": "PGSimCity - How PostgreSQL Works",
-      "t": 1785126178365,
-      "image": "https://nikolays.github.io/PGSimCity/og.png",
-      "media_url": "https://live.staticflickr.com/2669/4140191319_7dc49ddca2.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140191319"
-    },
-    "1851j9t": {
-      "title": "Show HN: Port Zero – how I learned to stop worrying and love PORT=0",
-      "t": 1785126178365,
-      "image": "https://portzero.net/og.png",
-      "media_url": "https://live.staticflickr.com/2669/4140191319_7dc49ddca2.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140191319"
-    },
-    "oiqlm8": {
-      "title": "Fonts In Use – Find out where a font is used",
-      "t": 1785126178365,
-      "image": "https://cards.fontsinuse.com/cardshot?s=twitter&t=gallery&url=https://fontsinuse.com/&k=fea3b3b2f54abc640c7705b62dd465bd&v=b5d089ea",
-      "media_url": "https://live.staticflickr.com/3402/4646054291_13d1773717_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: cincodenada06 / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/14506798@N00/4646054291"
-    },
-    "fthmnc": {
-      "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
-      "t": 1785126178365,
-      "image": "https://opengraph.githubassets.com/ae7d5a7ff2ebfea5b61fcf8b4d4619e87543e784fa4984bd205d547d586ef48b/vercel-labs/scriptc",
-      "media_url": "https://live.staticflickr.com/1061/686562697_5d86ba6d67.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: Wesley Clouden / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/40622964@N00/686562697"
-    },
-    "qzuovo": {
-      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
-      "t": 1785126178365,
-      "image": "https://www.techspot.com/images2/news/bigimage/2026/07/2026-07-26-image-4.jpg",
-      "media_url": "https://live.staticflickr.com/3402/4646054291_13d1773717_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: cincodenada06 / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/14506798@N00/4646054291"
-    },
-    "1atov3j": {
-      "title": "Saber-toothed cats' spinal tumors suggest inbred species struggled to survive",
-      "t": 1785126179653,
-      "media_url": "https://live.staticflickr.com/591/32342196532_c0de36be53_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: James St. John / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/47445767@N05/32342196532"
-    },
-    "1s928v4": {
-      "title": "Here's What the 'iPhone 20' is Expected to Look Like",
-      "t": 1785126179725,
-      "media_url": "https://live.staticflickr.com/2603/13083932674_d19d993514_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: NASA Goddard Photo and Video / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/24662369@N07/13083932674"
-    },
-    "1thaz1f": {
-      "title": "PSA: Apple TV, Apple Music, and more are currently down for some users [Update: Fixed]",
-      "t": 1785126179926,
-      "media_url": "https://live.staticflickr.com/3246/3060371673_9707bde0b8_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: avlxyz / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/10559879@N00/3060371673"
-    },
-    "c06da": {
-      "title": "Experts warn 2.2 million cars could be at risk of hijacking via Bluetooth",
-      "t": 1785126180358,
-      "media_url": "https://live.staticflickr.com/65535/52689219891_c23f5c2589_m.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: nordique / BY 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/28435100@N00/52689219891"
-    },
     "ioo0ok": {
       "title": "Are brain waves the next unlock for physical AI?",
       "t": 1785126180380,
@@ -1002,14 +893,6 @@
       "media_kind": "stock",
       "media_credit": "Photo: ITU Pictures / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/42121221@N07/30583288495"
-    },
-    "zkomxo": {
-      "title": "Tigray's old grapevines have survived against the odds: New research uncovers their genetic and historic value",
-      "t": 1785126180523,
-      "media_url": "https://live.staticflickr.com/8335/8094652826_cd883deb08_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: giulia.forsythe / CC0 1.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/59217476@N00/8094652826"
     },
     "oa_19rj68d": {
       "title": "Can exercise affect immune function to increase susceptibility to infection?",
@@ -39148,6 +39031,152 @@
       "media_kind": "stock",
       "media_credit": "Photo: ajay_suresh / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/83136374@N05/33979096978"
+    },
+    "vr5qh6": {
+      "title": "Ship Safe, an open source security scanner for coding agents",
+      "t": 1785998034197,
+      "image": "https://opengraph.githubassets.com/f735de15cb7a442187ecf13d35ed9253d8bbd2f7371c792cc1fa3abd618903e8/asamassekou10/ship-safe",
+      "media_url": "https://live.staticflickr.com/2669/4140191319_7dc49ddca2.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140191319"
+    },
+    "totxu8": {
+      "title": "Show HN: Wallfacer – A terminal session manager for Claude Code, and more",
+      "t": 1785998034197,
+      "image": "https://opengraph.githubassets.com/5a7bdb7fce8f5789f8e5927a305c5a072c6c0fe6ffcc4d5becd33c65f0806064/pradipta/wallfacer",
+      "media_url": "https://live.staticflickr.com/2669/4140191319_7dc49ddca2.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140191319"
+    },
+    "1jrxump": {
+      "title": "Apple's Private Relay feature could reveal your IP address to websites and services",
+      "t": 1785998034871,
+      "media_url": "https://live.staticflickr.com/7352/12641530355_5139288081_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: MDGovpics / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/64018555@N03/12641530355"
+    },
+    "127mnu4": {
+      "title": "Workers are hitting back at employer plans to use AI to screen job applications",
+      "t": 1785998034932,
+      "media_url": "https://live.staticflickr.com/1428/5151155523_a99597bfd1_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: El Coleccionista de Instantes / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/31195974@N05/5151155523"
+    },
+    "1gsdjfo": {
+      "title": "Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People",
+      "t": 1785998034982,
+      "media_url": "https://live.staticflickr.com/5140/5428495287_68463a85ec_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: followtheseinstructions / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/58481558@N05/5428495287"
+    },
+    "kkm8e5": {
+      "title": "I just gave this stick vacuum 5 stars and now it's half off — get the Samsung Jet 95S for just AU$399",
+      "t": 1785998035303,
+      "media_url": "https://live.staticflickr.com/41/76887712_07d66f61dc.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: *ejk* / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/74609962@N00/76887712"
+    },
+    "1539ijn": {
+      "title": "G’day, Alexa+: Amazon's AI-upgraded smart home assistant has finally arrived in Australia — and it's fully fluent in 'Strayan",
+      "t": 1785998035355,
+      "media_url": "https://live.staticflickr.com/65535/49671374307_70290577b2_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: ajay_suresh / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/83136374@N05/49671374307"
+    },
+    "1ci27k": {
+      "title": "Crime Pays but Botany Doesn't",
+      "t": 1785998035618,
+      "media_url": "https://live.staticflickr.com/2571/4140191985_68bbbe9e22.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: devinsampa / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/45041456@N08/4140191985"
+    },
+    "1qm2ckm": {
+      "title": "Powerhouses for fake meat: Muscle protein can now be grown in chloroplasts of lettuce and tobacco plants",
+      "t": 1785998035910,
+      "media_url": "https://live.staticflickr.com/3573/3637156598_051732f32b_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Idaho National Laboratory / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/30369883@N03/3637156598"
+    },
+    "1xcj0nt": {
+      "title": "The $299 Viture Pro 2 are the company's lightest and most comfortable smartglasses yet",
+      "t": 1785998035996,
+      "media_url": "https://live.staticflickr.com/2722/4015247959_abdd1ab87a_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: See-ming Lee (SML) / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/48973657@N00/4015247959"
+    },
+    "1swg7tt": {
+      "title": "OpenAI reveals its rogue agent swarm went a little bit Borg ahead of Hugging Face hack",
+      "t": 1785998036064,
+      "media_url": "https://live.staticflickr.com/3124/2758226963_1e9f0c2edf_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Leonardo Rizzi / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/29479498@N05/2758226963"
+    },
+    "e2srfz": {
+      "title": "Meta wants to get inside your terminal with its new coding agent",
+      "t": 1785998036582,
+      "media_url": "https://live.staticflickr.com/3902/15126339686_0481de293c.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/15126339686"
+    },
+    "10oaqgu": {
+      "title": "An off-grid AI sounds like a great survival assistant, but is better left to roleplaying the zombie apocalypse",
+      "t": 1785998036582,
+      "media_url": "https://live.staticflickr.com/65535/48546728682_e1308f9bb7_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/48546728682"
+    },
+    "reddit_1vfcb5i": {
+      "title": "Analysis of 97,220 people across 66 countries tested 200+ societal factors and found the 'communitarian' path to happiness — societies where people are enabled to boost each other's happiness — significantly outperforms the individualistic 'take care of your own happiness' approach",
+      "t": 1785998037294,
+      "media_url": "https://live.staticflickr.com/2011/4514280935_4b20d6545a_m.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Kinologik / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/75823237@N00/4514280935"
+    },
+    "reddit_1vfrco1": {
+      "title": "I Compressed Bad Apple into a 3MB Neural Network [P]",
+      "t": 1785998037294,
+      "media_url": "https://live.staticflickr.com/6082/6117361107_949ec3ab1b_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Tim Dorr / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/60723528@N00/6117361107"
+    },
+    "reddit_1vdqe9d": {
+      "title": "The Risk of Fine-Tuned Open-Weight Models · MSec Operations Blog",
+      "t": 1785998037318,
+      "media_url": "https://live.staticflickr.com/2050/2444398515_cf2089cbde_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: liryon / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/77789339@N00/2444398515"
+    },
+    "oa_1xtvrqh": {
+      "title": "Digital Ecosystems, Children, and Adolescents: Technical Report",
+      "t": 1785998038479,
+      "media_url": "https://live.staticflickr.com/7147/6726646523_bba7aa8665_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: mrbill78636 / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/88611824@N00/6726646523"
+    },
+    "oa_1vpi05q": {
+      "title": "Sleep as Suspension of Localization",
+      "t": 1785998038481,
+      "media_url": "https://live.staticflickr.com/3836/14746630457_a4f4703c6f_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Dean Hochman / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/17997843@N02/14746630457"
     }
   }
 }
