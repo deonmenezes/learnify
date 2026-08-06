@@ -1,12 +1,14 @@
 {
-  "generated_at": "2026-08-06T12:06:43.186Z",
+  "generated_at": "2026-08-06T14:57:15.160Z",
   "handles": [
     "nvidia",
+    "GoogleDeepMind",
+    "satyanadella",
+    "gdb",
+    "AIatMeta",
     "AnthropicAI",
     "OpenAI",
-    "elonmusk",
-    "gdb",
-    "GoogleDeepMind"
+    "elonmusk"
   ],
   "count": 32,
   "articles": [
@@ -42,12 +44,54 @@
         "tech substance (models)"
       ],
       "metrics": {
-        "likes": 185,
-        "retweets": 26,
-        "replies": 29,
-        "likes_h": "185"
+        "likes": 257,
+        "retweets": 34,
+        "replies": 35,
+        "likes_h": "257"
       },
-      "engagement": 266,
+      "engagement": 360,
+      "hot": false
+    },
+    {
+      "id": "x_2085084709277565213",
+      "title": "Introducing Muse Code (beta), a terminal coding agent built for long-horizon software engineering, powered by our new Muse Spark 1.2 model. Muse Code plans, implements, and validates complex,…",
+      "link": "https://x.com/AIatMeta/status/2085084709277565213",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "AI at Meta · @AIatMeta",
+      "handle": "AIatMeta",
+      "org": "Meta",
+      "published": "2026-08-05T19:25:08.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product launch",
+      "categories": [
+        "X",
+        "Meta",
+        "Product launch"
+      ],
+      "summary": "Introducing Muse Code (beta), a terminal coding agent built for long-horizon software engineering, powered by our new Muse Spark 1.2 model. Muse Code plans, implements, and validates complex, multi-file changes across large repositories with persistent sub-agents that solve",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 100,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "announcement language (introducing)",
+        "tech substance (model, agent, agents)",
+        "high engagement (3.2K likes)"
+      ],
+      "metrics": {
+        "likes": 3218,
+        "retweets": 308,
+        "replies": 165,
+        "likes_h": "3.2K"
+      },
+      "engagement": 3999,
       "hot": false
     },
     {
@@ -74,7 +118,7 @@
       "summary": "When organizations build AI with proprietary data, the resulting intelligence should remain theirs. At @PalantirTech’s Sovereignty Bootcamp, NVIDIA VP of Enterprise AI @j_boitano discusses how Nemotron open models make secure, mission-specific AI possible. 👇",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 94,
+      "worthiness_score": 95,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -83,12 +127,12 @@
         "business signal (enterprise)"
       ],
       "metrics": {
-        "likes": 340,
-        "retweets": 50,
-        "replies": 28,
-        "likes_h": "340"
+        "likes": 428,
+        "retweets": 57,
+        "replies": 31,
+        "likes_h": "428"
       },
-      "engagement": 468,
+      "engagement": 573,
       "hot": false
     },
     {
@@ -123,16 +167,16 @@
         "casual tone (thanks)",
         "tech substance (models, nemotron, training)",
         "business signal (customers)",
-        "high engagement (867 likes)",
+        "high engagement (964 likes)",
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 867,
-        "retweets": 123,
-        "replies": 47,
-        "likes_h": "867"
+        "likes": 964,
+        "retweets": 138,
+        "replies": 50,
+        "likes_h": "964"
       },
-      "engagement": 1160,
+      "engagement": 1290,
       "hot": false
     },
     {
@@ -245,15 +289,15 @@
       "sentiment_score": 0,
       "reasons": [
         "report-worthy",
-        "high engagement (13.3K likes)"
+        "high engagement (13.6K likes)"
       ],
       "metrics": {
-        "likes": 13338,
-        "retweets": 1965,
-        "replies": 585,
-        "likes_h": "13.3K"
+        "likes": 13581,
+        "retweets": 2010,
+        "replies": 601,
+        "likes_h": "13.6K"
       },
-      "engagement": 17853,
+      "engagement": 18202,
       "hot": true
     },
     {
@@ -289,12 +333,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 437,
-        "retweets": 48,
+        "likes": 443,
+        "retweets": 50,
         "replies": 42,
-        "likes_h": "437"
+        "likes_h": "443"
       },
-      "engagement": 575,
+      "engagement": 585,
       "hot": false
     },
     {
@@ -331,12 +375,12 @@
         "high engagement (1.3K likes)"
       ],
       "metrics": {
-        "likes": 1305,
-        "retweets": 183,
-        "replies": 76,
+        "likes": 1327,
+        "retweets": 186,
+        "replies": 77,
         "likes_h": "1.3K"
       },
-      "engagement": 1747,
+      "engagement": 1776,
       "hot": false
     },
     {
@@ -501,7 +545,7 @@
         "likes_h": "10.8K"
       },
       "engagement": 13203,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2084352165464903730",
@@ -662,12 +706,12 @@
         "high engagement (9.1K likes)"
       ],
       "metrics": {
-        "likes": 9073,
-        "retweets": 372,
-        "replies": 526,
+        "likes": 9077,
+        "retweets": 373,
+        "replies": 528,
         "likes_h": "9.1K"
       },
-      "engagement": 10343,
+      "engagement": 10351,
       "hot": false
     },
     {
@@ -907,12 +951,12 @@
         "high engagement (1.1K likes)"
       ],
       "metrics": {
-        "likes": 1124,
-        "retweets": 157,
-        "replies": 78,
+        "likes": 1127,
+        "retweets": 159,
+        "replies": 79,
         "likes_h": "1.1K"
       },
-      "engagement": 1516,
+      "engagement": 1524,
       "hot": false
     },
     {
@@ -1119,12 +1163,12 @@
         "high engagement (5.2K likes)"
       ],
       "metrics": {
-        "likes": 5150,
-        "retweets": 834,
-        "replies": 335,
+        "likes": 5162,
+        "retweets": 838,
+        "replies": 341,
         "likes_h": "5.2K"
       },
-      "engagement": 7153,
+      "engagement": 7179,
       "hot": false
     },
     {
@@ -1295,47 +1339,6 @@
         "likes_h": "900"
       },
       "engagement": 985,
-      "hot": false
-    },
-    {
-      "id": "x_2082616636989952217",
-      "title": "GPT-5.6 Sol has been used to solve open problems in mathematics. So why was it struggling with ARC-AGI-3, a benchmark of 2D puzzle games? We investigated. The harness was not letting it remember what…",
-      "link": "https://x.com/OpenAI/status/2082616636989952217",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-07-29T23:57:54.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Research"
-      ],
-      "summary": "GPT-5.6 Sol has been used to solve open problems in mathematics. So why was it struggling with ARC-AGI-3, a benchmark of 2D puzzle games? We investigated. The harness was not letting it remember what it had learned. We found that enabling two API settings tripled our scores",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 88,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "tech substance (gpt, api, benchmark)",
-        "high engagement (9.4K likes)"
-      ],
-      "metrics": {
-        "likes": 9359,
-        "retweets": 580,
-        "replies": 369,
-        "likes_h": "9.4K"
-      },
-      "engagement": 10888,
       "hot": false
     }
   ]
