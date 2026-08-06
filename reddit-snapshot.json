@@ -1,36 +1,77 @@
 {
-  "generated_at": "2026-08-06T09:45:40.220Z",
+  "generated_at": "2026-08-06T12:08:57.699Z",
   "subs": [
     "MachineLearning",
-    "science",
-    "netsec",
+    "singularity",
+    "nutrition",
     "Futurology",
     "hardware",
     "Fitness",
     "longevity",
     "bodyweightfitness",
+    "netsec",
     "LocalLLaMA",
+    "science",
     "startups",
     "robotics",
     "SkincareAddiction",
     "cybersecurity",
     "gadgets",
     "investing",
-    "running",
-    "nutrition"
+    "running"
   ],
   "count": 36,
   "by_category": {
+    "AI / ML": 8,
     "Science": 6,
     "Hardware & Gadgets": 5,
-    "Fitness": 5,
-    "AI / ML": 7,
-    "Security": 6,
+    "Fitness": 6,
+    "Security": 4,
     "Startups & Funding": 3,
     "Robotics": 2,
     "Skincare": 2
   },
   "articles": [
+    {
+      "id": "reddit_1vghb3m",
+      "title": "Google Deepmind CEO Demis Hassabis steps down to become chair",
+      "link": "https://www.reddit.com/r/singularity/comments/1vghb3m/google_deepmind_ceo_demis_hassabis_steps_down_to/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/singularity · community knowledge",
+      "content_type": "post",
+      "author": "u/Full_Tangelo_7450 · r/singularity",
+      "handle": "singularity",
+      "org": "r/singularity",
+      "platform": "reddit",
+      "published": "2026-08-05T19:27:26.000Z",
+      "image": "https://preview.redd.it/r3t69ms6ylhh1.jpeg?width=640&crop=smart&auto=webp&s=e556a00b49d15f58a5faaf9da9208bfecb488d11",
+      "thumbnail": "https://preview.redd.it/r3t69ms6ylhh1.jpeg?width=640&crop=smart&auto=webp&s=e556a00b49d15f58a5faaf9da9208bfecb488d11",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/singularity"
+      ],
+      "summary": "Google Deepmind CEO Demis Hassabis steps down to become chair",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/singularity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1vg6iq9",
       "title": "‘If we don’t fight back, we don’t have a future’: the journalist taking on the ‘tech fascists’ of Silicon Valley",
@@ -378,6 +419,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/LocalLLaMA this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vfj6mb",
+      "title": "Do you need to be concerned about pesticides for frozen produce?",
+      "link": "https://www.reddit.com/r/nutrition/comments/1vfj6mb/do_you_need_to_be_concerned_about_pesticides_for/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/nutrition · community knowledge",
+      "content_type": "post",
+      "author": "u/Extreme-Ad7469 · r/nutrition",
+      "handle": "nutrition",
+      "org": "r/nutrition",
+      "platform": "reddit",
+      "published": "2026-08-04T18:45:32.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Nutrition",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "Nutrition",
+        "r/nutrition"
+      ],
+      "summary": "People say frozen is healthier but if the frozen fruits/veg are frozen right away doesn&#39;t that include pesticides? Do you rinse your frozen fruit/veg? &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/nutrition this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1252,6 +1333,46 @@
       }
     },
     {
+      "id": "reddit_1vdutvo",
+      "title": "Does it matter how much potassium and sodium you consume",
+      "link": "https://www.reddit.com/r/nutrition/comments/1vdutvo/does_it_matter_how_much_potassium_and_sodium_you/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/nutrition · community knowledge",
+      "content_type": "post",
+      "author": "u/Joshuagwills · r/nutrition",
+      "handle": "nutrition",
+      "org": "r/nutrition",
+      "platform": "reddit",
+      "published": "2026-08-02T21:57:17.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Nutrition",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "Nutrition",
+        "r/nutrition"
+      ],
+      "summary": "Hey I was just wondering if I there was any negative of consuming little potassium and sodium or too much potassium and sodium if the ratios are kept the exact same for example 6000mg potassium with 2000mg sodium for a 3:1 ratio vs 1500mg potassium vs 500mg sodium for a 3:1 ratio and is there a minimum amount of…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/nutrition this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1vdty7t",
       "title": "Accidentally built a userbase in a dying niche. Not sure what to do. I will not promote.",
       "link": "https://www.reddit.com/r/startups/comments/1vdty7t/accidentally_built_a_userbase_in_a_dying_niche/",
@@ -1323,124 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Futurology this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vdqe9d",
-      "title": "The Risk of Fine-Tuned Open-Weight Models · MSec Operations Blog",
-      "link": "https://www.reddit.com/r/netsec/comments/1vdqe9d/the_risk_of_finetuned_openweight_models_msec/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/netsec · community knowledge",
-      "content_type": "post",
-      "author": "u/S3cur3Th1sSh1t · r/netsec",
-      "handle": "netsec",
-      "org": "r/netsec",
-      "platform": "reddit",
-      "published": "2026-08-02T19:00:48.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/netsec"
-      ],
-      "summary": "The Risk of Fine-Tuned Open-Weight Models · MSec Operations Blog",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/netsec this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vdom5t",
-      "title": "Buckwheat is OP",
-      "link": "https://www.reddit.com/r/nutrition/comments/1vdom5t/buckwheat_is_op/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/nutrition · community knowledge",
-      "content_type": "post",
-      "author": "u/steak_expert9 · r/nutrition",
-      "handle": "nutrition",
-      "org": "r/nutrition",
-      "platform": "reddit",
-      "published": "2026-08-02T17:52:27.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Nutrition",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "Nutrition",
-        "r/nutrition"
-      ],
-      "summary": "-gluten free -lower GI index than white rice -unique antioxidants not found in other grains -complete protein profile -10g of fiber per 80g of raw buckwheat -CHEAP &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/nutrition this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vdmhs3",
-      "title": "US Water Systems Hit by Suspected Iranian Cyber Attacks",
-      "link": "https://www.reddit.com/r/cybersecurity/comments/1vdmhs3/us_water_systems_hit_by_suspected_iranian_cyber/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/cybersecurity · community knowledge",
-      "content_type": "post",
-      "author": "u/Adept_Grand_6523 · r/cybersecurity",
-      "handle": "cybersecurity",
-      "org": "r/cybersecurity",
-      "platform": "reddit",
-      "published": "2026-08-02T16:28:09.000Z",
-      "image": "https://external-preview.redd.it/bGGYPTyTQRAeCgWXqFqek5ICPBnpRC3QAxCTQHpAC-k.jpeg?width=640&crop=smart&auto=webp&s=a65dae8406e9f3651d458c9994917b91d39c971d",
-      "thumbnail": "https://external-preview.redd.it/bGGYPTyTQRAeCgWXqFqek5ICPBnpRC3QAxCTQHpAC-k.jpeg?width=640&crop=smart&auto=webp&s=a65dae8406e9f3651d458c9994917b91d39c971d",
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/cybersecurity"
-      ],
-      "summary": "US Water Systems Hit by Suspected Iranian Cyber Attacks",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/cybersecurity this week"
       ],
       "metrics": {
         "likes": 0,
