@@ -1,9 +1,10 @@
 {
-  "generated_at": "2026-08-07T00:29:44.519Z",
+  "generated_at": "2026-08-07T03:34:45.969Z",
   "subs": [
     "MachineLearning",
-    "science",
+    "programming",
     "cybersecurity",
+    "science",
     "singularity",
     "Futurology",
     "hardware",
@@ -24,12 +25,13 @@
   "by_category": {
     "Science": 7,
     "AI / ML": 8,
+    "Coding & Dev Tools": 2,
     "Hardware & Gadgets": 5,
-    "Fitness": 6,
+    "Fitness": 5,
     "Security": 4,
     "Startups & Funding": 2,
     "Robotics": 2,
-    "Skincare": 2
+    "Skincare": 1
   },
   "articles": [
     {
@@ -182,6 +184,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Futurology this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vg555b",
+      "title": "The rust programming language is adopting a new contributing policy",
+      "link": "https://www.reddit.com/r/programming/comments/1vg555b/the_rust_programming_language_is_adopting_a_new/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/programming · community knowledge",
+      "content_type": "post",
+      "author": "u/mareek · r/programming",
+      "handle": "programming",
+      "org": "r/programming",
+      "platform": "reddit",
+      "published": "2026-08-05T11:50:06.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Coding & Dev Tools",
+      "category": "Coding & Dev Tools",
+      "genre": "Coding & Dev Tools",
+      "categories": [
+        "Reddit",
+        "Coding & Dev Tools",
+        "r/programming"
+      ],
+      "summary": "The rust programming language is adopting a new contributing policy",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/programming this week"
       ],
       "metrics": {
         "likes": 0,
@@ -497,6 +538,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/LocalLLaMA this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vfjdqy",
+      "title": "The Lua community needs to learn to move on",
+      "link": "https://www.reddit.com/r/programming/comments/1vfjdqy/the_lua_community_needs_to_learn_to_move_on/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/programming · community knowledge",
+      "content_type": "post",
+      "author": "u/f311a · r/programming",
+      "handle": "programming",
+      "org": "r/programming",
+      "platform": "reddit",
+      "published": "2026-08-04T18:52:44.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Coding & Dev Tools",
+      "category": "Coding & Dev Tools",
+      "genre": "Coding & Dev Tools",
+      "categories": [
+        "Reddit",
+        "Coding & Dev Tools",
+        "r/programming"
+      ],
+      "summary": "The Lua community needs to learn to move on",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/programming this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1364,85 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/running this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vdz40g",
-      "title": "Discovered I’m not someone who should apply lotion right out of the shower [Personal]",
-      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1vdz40g/discovered_im_not_someone_who_should_apply_lotion/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/SkincareAddiction · community knowledge",
-      "content_type": "post",
-      "author": "u/katezorzz · r/SkincareAddiction",
-      "handle": "SkincareAddiction",
-      "org": "r/SkincareAddiction",
-      "platform": "reddit",
-      "published": "2026-08-03T01:05:41.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Skincare",
-      "category": "Skincare",
-      "genre": "Skincare",
-      "categories": [
-        "Reddit",
-        "Skincare",
-        "r/SkincareAddiction"
-      ],
-      "summary": "Posting this in case I can possibly help someone else. I’ve been applying lotion directly after the shower ever since I was told that’s the best way to lock in moisture, however I’ve struggled for so long with getting red bumps on my shoulders, chest, arms, and the tops of my thighs which would always get worse during…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/SkincareAddiction this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vdutvo",
-      "title": "Does it matter how much potassium and sodium you consume",
-      "link": "https://www.reddit.com/r/nutrition/comments/1vdutvo/does_it_matter_how_much_potassium_and_sodium_you/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/nutrition · community knowledge",
-      "content_type": "post",
-      "author": "u/Joshuagwills · r/nutrition",
-      "handle": "nutrition",
-      "org": "r/nutrition",
-      "platform": "reddit",
-      "published": "2026-08-02T21:57:17.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Nutrition",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "Nutrition",
-        "r/nutrition"
-      ],
-      "summary": "Hey I was just wondering if I there was any negative of consuming little potassium and sodium or too much potassium and sodium if the ratios are kept the exact same for example 6000mg potassium with 2000mg sodium for a 3:1 ratio vs 1500mg potassium vs 500mg sodium for a 3:1 ratio and is there a minimum amount of…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/nutrition this week"
       ],
       "metrics": {
         "likes": 0,
