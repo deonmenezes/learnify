@@ -1,14 +1,15 @@
 {
-  "generated_at": "2026-08-07T13:14:12.987Z",
+  "generated_at": "2026-08-07T14:37:06.139Z",
   "subs": [
     "MachineLearning",
     "LocalLLaMA",
-    "bodyweightfitness",
-    "startups",
+    "running",
+    "investing",
     "gadgets",
     "science",
     "hardware",
     "Futurology",
+    "bodyweightfitness",
     "cybersecurity",
     "singularity",
     "programming",
@@ -16,18 +17,19 @@
     "Fitness",
     "longevity",
     "nutrition",
+    "startups",
     "robotics",
     "SkincareAddiction"
   ],
   "count": 36,
   "by_category": {
-    "Hardware & Gadgets": 7,
+    "Hardware & Gadgets": 6,
     "Science": 8,
-    "Fitness": 5,
-    "Security": 6,
+    "Startups & Funding": 2,
+    "Fitness": 6,
+    "Security": 5,
     "AI / ML": 5,
     "Coding & Dev Tools": 2,
-    "Startups & Funding": 1,
     "Robotics": 1,
     "Skincare": 1
   },
@@ -181,6 +183,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/hardware this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vgzb54",
+      "title": "The S&P 500 hit a record while its forward P/E fell. Are earnings finally catching up?",
+      "link": "https://www.reddit.com/r/investing/comments/1vgzb54/the_sp_500_hit_a_record_while_its_forward_pe_fell/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/investing · community knowledge",
+      "content_type": "post",
+      "author": "u/FailOk1528 · r/investing",
+      "handle": "investing",
+      "org": "r/investing",
+      "platform": "reddit",
+      "published": "2026-08-06T09:25:37.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/investing"
+      ],
+      "summary": "The S&amp;P 500 is back at a record, but the valuation story looks a little different this time. Forward P/E is around 20.4, while Q2 earnings are tracking roughly 31% above last year. Tech earnings are up around 72%. I’ve been pretty skeptical of this rally because 20x earnings with the 10-year near 4.6% still isn’t…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/investing this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1249,6 +1291,45 @@
       }
     },
     {
+      "id": "reddit_1veqlkn",
+      "title": "Marathon recommendations in South America and Australia/Oceania",
+      "link": "https://www.reddit.com/r/running/comments/1veqlkn/marathon_recommendations_in_south_america_and/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/running · community knowledge",
+      "content_type": "post",
+      "author": "u/Impossible_Jello3718 · r/running",
+      "handle": "running",
+      "org": "r/running",
+      "platform": "reddit",
+      "published": "2026-08-03T21:29:17.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/running"
+      ],
+      "summary": "Hi! I am looking for race recommendations for full marathons in South America and Oceania. I want to avoid the crowded big city marathons, and I&#39;m not chasing a PB. I would love a race with a nice view, great course or cool story etc. (if the Middle-earth marathon was full length, I would totally do that one). I…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/running this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1vei12v",
       "title": "It's time to desk reject papers that don't include code that can reproduce the results [D]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1vei12v/its_time_to_desk_reject_papers_that_dont_include/",
@@ -1360,84 +1441,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/gadgets this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1veewg6",
-      "title": "Schools Are Ditching Chromebooks for MacBook Neo by the Thousands— Apple Just Named Names",
-      "link": "https://www.reddit.com/r/gadgets/comments/1veewg6/schools_are_ditching_chromebooks_for_macbook_neo/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/gadgets · community knowledge",
-      "content_type": "post",
-      "author": "u/AustinBaze · r/gadgets",
-      "handle": "gadgets",
-      "org": "r/gadgets",
-      "platform": "reddit",
-      "published": "2026-08-03T14:24:06.000Z",
-      "image": "https://external-preview.redd.it/w_0Jnw8jOI-3v2_304dVZ3Y7L-TmvYPY29aRASmhiM8.jpeg?width=640&crop=smart&auto=webp&s=cca58eccb3a1060ea2b0e6cd81cca9ced11410b0",
-      "thumbnail": "https://external-preview.redd.it/w_0Jnw8jOI-3v2_304dVZ3Y7L-TmvYPY29aRASmhiM8.jpeg?width=640&crop=smart&auto=webp&s=cca58eccb3a1060ea2b0e6cd81cca9ced11410b0",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/gadgets"
-      ],
-      "summary": "Schools Are Ditching Chromebooks for MacBook Neo by the Thousands— Apple Just Named Names",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/gadgets this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1veedqw",
-      "title": "SQLite Critical CVEs or LLM Slop?",
-      "link": "https://www.reddit.com/r/netsec/comments/1veedqw/sqlite_critical_cves_or_llm_slop/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/netsec · community knowledge",
-      "content_type": "post",
-      "author": "u/si9int · r/netsec",
-      "handle": "netsec",
-      "org": "r/netsec",
-      "platform": "reddit",
-      "published": "2026-08-03T14:04:17.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/netsec"
-      ],
-      "summary": "SQLite Critical CVEs or LLM Slop?",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/netsec this week"
       ],
       "metrics": {
         "likes": 0,
