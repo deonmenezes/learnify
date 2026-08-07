@@ -1,37 +1,115 @@
 {
-  "generated_at": "2026-08-06T14:59:28.738Z",
+  "generated_at": "2026-08-07T00:29:44.519Z",
   "subs": [
     "MachineLearning",
-    "longevity",
-    "gadgets",
+    "science",
+    "cybersecurity",
     "singularity",
     "Futurology",
     "hardware",
     "Fitness",
+    "longevity",
     "bodyweightfitness",
     "netsec",
     "LocalLLaMA",
     "nutrition",
-    "science",
     "startups",
     "robotics",
     "SkincareAddiction",
-    "cybersecurity",
+    "gadgets",
     "investing",
     "running"
   ],
   "count": 36,
   "by_category": {
+    "Science": 7,
     "AI / ML": 8,
-    "Science": 6,
     "Hardware & Gadgets": 5,
     "Fitness": 6,
     "Security": 4,
-    "Startups & Funding": 3,
+    "Startups & Funding": 2,
     "Robotics": 2,
     "Skincare": 2
   },
   "articles": [
+    {
+      "id": "reddit_1vh0gzd",
+      "title": "Scientists have, for the first time, genetically engineered lettuce and tobacco plants to grow the animal protein myoglobin. Plant-derived myoglobin could achieve protein yields per hectare that rival – or even exceed – those of animal agriculture, with lower water use and greenhouse gas emissions.",
+      "link": "https://www.reddit.com/r/science/comments/1vh0gzd/scientists_have_for_the_first_time_genetically/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/science · community knowledge",
+      "content_type": "post",
+      "author": "u/mvea · r/science",
+      "handle": "science",
+      "org": "r/science",
+      "platform": "reddit",
+      "published": "2026-08-06T10:31:35.000Z",
+      "image": "https://external-preview.redd.it/vOF5x3wG_Hth7OM6p_fsWFTXn70ZncalDNBHXNfwtSI.jpeg?width=640&crop=smart&auto=webp&s=cee1e31255fd445e44e26c71d3f49830a0527801",
+      "thumbnail": "https://external-preview.redd.it/vOF5x3wG_Hth7OM6p_fsWFTXn70ZncalDNBHXNfwtSI.jpeg?width=640&crop=smart&auto=webp&s=cee1e31255fd445e44e26c71d3f49830a0527801",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/science"
+      ],
+      "summary": "Scientists have, for the first time, genetically engineered lettuce and tobacco plants to grow the animal protein myoglobin. Plant-derived myoglobin could achieve protein yields per hectare that rival – or even exceed – those of animal agriculture, with lower water use and greenhouse gas emissions.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/science this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vgknnj",
+      "title": "Normal blood pressure, no diabetes, and not smoking in midlife may buy nearly 13 extra dementia-free years",
+      "link": "https://www.reddit.com/r/science/comments/1vgknnj/normal_blood_pressure_no_diabetes_and_not_smoking/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/science · community knowledge",
+      "content_type": "post",
+      "author": "u/Jxntb733 · r/science",
+      "handle": "science",
+      "org": "r/science",
+      "platform": "reddit",
+      "published": "2026-08-05T21:30:13.000Z",
+      "image": "https://external-preview.redd.it/vJIrghFI5O2e2FAMXIir91ihQjJ4u3cHy6CbWMJ1xzE.jpeg?width=640&crop=smart&auto=webp&s=6e5da63ef5c6ddc2c1a761d91a906b78b9d1038b",
+      "thumbnail": "https://external-preview.redd.it/vJIrghFI5O2e2FAMXIir91ihQjJ4u3cHy6CbWMJ1xzE.jpeg?width=640&crop=smart&auto=webp&s=6e5da63ef5c6ddc2c1a761d91a906b78b9d1038b",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/science"
+      ],
+      "summary": "Normal blood pressure, no diabetes, and not smoking in midlife may buy nearly 13 extra dementia-free years",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/science this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1vghb3m",
       "title": "Google Deepmind CEO Demis Hassabis steps down to become chair",
@@ -1365,85 +1443,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/nutrition this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vdty7t",
-      "title": "Accidentally built a userbase in a dying niche. Not sure what to do. I will not promote.",
-      "link": "https://www.reddit.com/r/startups/comments/1vdty7t/accidentally_built_a_userbase_in_a_dying_niche/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/startups · community knowledge",
-      "content_type": "post",
-      "author": "u/EggplantParticular27 · r/startups",
-      "handle": "startups",
-      "org": "r/startups",
-      "platform": "reddit",
-      "published": "2026-08-02T21:20:39.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/startups"
-      ],
-      "summary": "Accidentally built a user base in a dying niche, not sure how to capitalize on it. About 2 years ago, I built an AI fitness site that analyzed people’s physiques and gave feedback to improve based on their fitness goals. People could also share workout routines and post progress pictures. Overwhelmed by the scale, I…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/startups this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vdr79f",
-      "title": "AI spending spree hits $600b as Oracle fires 21,000 employees to fund boom",
-      "link": "https://www.reddit.com/r/Futurology/comments/1vdr79f/ai_spending_spree_hits_600b_as_oracle_fires_21000/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/Futurology · community knowledge",
-      "content_type": "post",
-      "author": "u/Confident_Salt_8108 · r/Futurology",
-      "handle": "Futurology",
-      "org": "r/Futurology",
-      "platform": "reddit",
-      "published": "2026-08-02T19:31:59.000Z",
-      "image": "https://external-preview.redd.it/-7nN5ubXdV2YzN-4DWWmKKEYAPhNQTrAQPfA0uT6x3I.jpeg?width=640&crop=smart&auto=webp&s=76fae64b526e6e99ca192d9f742f256f0e2bd5b3",
-      "thumbnail": "https://external-preview.redd.it/-7nN5ubXdV2YzN-4DWWmKKEYAPhNQTrAQPfA0uT6x3I.jpeg?width=640&crop=smart&auto=webp&s=76fae64b526e6e99ca192d9f742f256f0e2bd5b3",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/Futurology"
-      ],
-      "summary": "AI spending spree hits $600b as Oracle fires 21,000 employees to fund boom",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/Futurology this week"
       ],
       "metrics": {
         "likes": 0,
