@@ -1,10 +1,9 @@
 {
-  "generated_at": "2026-08-07T18:17:09.185Z",
+  "generated_at": "2026-08-07T19:34:54.665Z",
   "subs": [
     "MachineLearning",
-    "LocalLLaMA",
-    "running",
-    "startups",
+    "singularity",
+    "SkincareAddiction",
     "investing",
     "gadgets",
     "artificial",
@@ -15,12 +14,12 @@
     "hardware",
     "Futurology",
     "cybersecurity",
-    "singularity",
     "programming",
     "netsec",
     "Fitness",
     "longevity",
-    "SkincareAddiction"
+    "LocalLLaMA",
+    "startups"
   ],
   "count": 36,
   "by_category": {
@@ -1216,6 +1215,45 @@
       }
     },
     {
+      "id": "reddit_1vfatga",
+      "title": "[Misc] Can Reddit fend off a new wave of AI SEO spam? | Featuring quotes from an r/SkincareAddiction mod",
+      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1vfatga/misc_can_reddit_fend_off_a_new_wave_of_ai_seo/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/SkincareAddiction · community knowledge",
+      "content_type": "post",
+      "author": "u/theverge · r/SkincareAddiction",
+      "handle": "SkincareAddiction",
+      "org": "r/SkincareAddiction",
+      "platform": "reddit",
+      "published": "2026-08-04T13:45:53.000Z",
+      "image": "https://external-preview.redd.it/jrrS0DpEFEtq4EBnvlU-Fn_wPRZj0FXP3U7hYiWE4fU.jpeg?width=640&crop=smart&auto=webp&s=8e3025ec82045a3f4a07880a5004d4494c28e280",
+      "thumbnail": "https://external-preview.redd.it/jrrS0DpEFEtq4EBnvlU-Fn_wPRZj0FXP3U7hYiWE4fU.jpeg?width=640&crop=smart&auto=webp&s=8e3025ec82045a3f4a07880a5004d4494c28e280",
+      "section": "Skincare",
+      "category": "Skincare",
+      "genre": "Skincare",
+      "categories": [
+        "Reddit",
+        "Skincare",
+        "r/SkincareAddiction"
+      ],
+      "summary": "[Misc] Can Reddit fend off a new wave of AI SEO spam? | Featuring quotes from an r/SkincareAddiction mod",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/SkincareAddiction this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1vf9g1w",
       "title": "Why can’t I do a pull-up?",
       "link": "https://www.reddit.com/r/bodyweightfitness/comments/1vf9g1w/why_cant_i_do_a_pullup/",
@@ -1405,45 +1443,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/netsec this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ves9xi",
-      "title": "[Acne] How have you dealt with deep cysts? I'm in a rough spot here with mine",
-      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1ves9xi/acne_how_have_you_dealt_with_deep_cysts_im_in_a/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/SkincareAddiction · community knowledge",
-      "content_type": "post",
-      "author": "u/jazzandboats · r/SkincareAddiction",
-      "handle": "SkincareAddiction",
-      "org": "r/SkincareAddiction",
-      "platform": "reddit",
-      "published": "2026-08-03T22:35:33.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Skincare",
-      "category": "Skincare",
-      "genre": "Skincare",
-      "categories": [
-        "Reddit",
-        "Skincare",
-        "r/SkincareAddiction"
-      ],
-      "summary": "I&#39;m a performer on a cruise ship and I will be at sea and unable to see a professional dermatologist for a few months. Last month I started to get some pretty bad acne on my forehead. Not terribly uncommon for me but worse than usual. Some of it I found out was from the water onboard being extra harsh and many of…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/SkincareAddiction this week"
       ],
       "metrics": {
         "likes": 0,
