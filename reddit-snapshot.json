@@ -1,20 +1,19 @@
 {
-  "generated_at": "2026-08-07T20:48:02.969Z",
+  "generated_at": "2026-08-07T21:45:46.917Z",
   "subs": [
     "MachineLearning",
-    "artificial",
-    "running",
+    "programming",
+    "cybersecurity",
     "investing",
     "gadgets",
+    "artificial",
     "nutrition",
     "bodyweightfitness",
     "robotics",
     "science",
     "hardware",
     "Futurology",
-    "cybersecurity",
     "singularity",
-    "programming",
     "netsec",
     "Fitness",
     "longevity",
@@ -24,17 +23,56 @@
   ],
   "count": 36,
   "by_category": {
+    "Security": 4,
     "Startups & Funding": 3,
     "Hardware & Gadgets": 5,
     "AI / ML": 5,
     "Fitness": 7,
     "Robotics": 2,
     "Science": 7,
-    "Security": 4,
     "Coding & Dev Tools": 2,
     "Skincare": 1
   },
   "articles": [
+    {
+      "id": "reddit_1vhydky",
+      "title": "Chinese Router Backdoor Opens Root Access on 100,000 Devices Worldwide",
+      "link": "https://www.reddit.com/r/cybersecurity/comments/1vhydky/chinese_router_backdoor_opens_root_access_on/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/cybersecurity · community knowledge",
+      "content_type": "post",
+      "author": "u/Revolutionary-Cod276 · r/cybersecurity",
+      "handle": "cybersecurity",
+      "org": "r/cybersecurity",
+      "platform": "reddit",
+      "published": "2026-08-07T11:47:26.000Z",
+      "image": "https://external-preview.redd.it/Cd63fab9RgbjUaQV7ECCk3bfykrvqCWYgwvnnFtIYXY.jpeg?width=640&crop=smart&auto=webp&s=17a7f29d13826d03f21da89814ff0e4d2312cbea",
+      "thumbnail": "https://external-preview.redd.it/Cd63fab9RgbjUaQV7ECCk3bfykrvqCWYgwvnnFtIYXY.jpeg?width=640&crop=smart&auto=webp&s=17a7f29d13826d03f21da89814ff0e4d2312cbea",
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/cybersecurity"
+      ],
+      "summary": "Jacob Baines, chief technology officer at security firm VulnCheck, said more than 20 models of Chinese-made Zbtlink routers ship with a hidden backdoor that hands outsiders a route onto the local network, in a finding published August 5. &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/cybersecurity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1vhwzlz",
       "title": "Oil rises as Iran’s draft plan sees U.S. and Israel banned from Strait of Hormuz",
@@ -1405,45 +1443,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/robotics this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vet23a",
-      "title": "Jackpot: a browser lab of 10 deliberately vulnerable LLM apps, one per OWASP LLM Top 10 category",
-      "link": "https://www.reddit.com/r/netsec/comments/1vet23a/jackpot_a_browser_lab_of_10_deliberately/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/netsec · community knowledge",
-      "content_type": "post",
-      "author": "u/callmejackfrost1 · r/netsec",
-      "handle": "netsec",
-      "org": "r/netsec",
-      "platform": "reddit",
-      "published": "2026-08-03T23:08:09.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/netsec"
-      ],
-      "summary": "Jackpot: a browser lab of 10 deliberately vulnerable LLM apps, one per OWASP LLM Top 10 category",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/netsec this week"
       ],
       "metrics": {
         "likes": 0,
