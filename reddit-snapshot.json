@@ -1,13 +1,15 @@
 {
-  "generated_at": "2026-08-07T16:03:16.183Z",
+  "generated_at": "2026-08-07T17:06:00.952Z",
   "subs": [
     "MachineLearning",
+    "artificial",
+    "nutrition",
+    "investing",
+    "gadgets",
     "bodyweightfitness",
     "robotics",
-    "gadgets",
     "science",
     "hardware",
-    "investing",
     "Futurology",
     "cybersecurity",
     "singularity",
@@ -16,24 +18,62 @@
     "Fitness",
     "longevity",
     "LocalLLaMA",
-    "nutrition",
     "startups",
-    "SkincareAddiction",
-    "running"
+    "SkincareAddiction"
   ],
   "count": 36,
   "by_category": {
+    "Startups & Funding": 3,
     "Hardware & Gadgets": 5,
+    "AI / ML": 5,
     "Fitness": 7,
     "Robotics": 2,
-    "Science": 8,
-    "Startups & Funding": 2,
-    "Security": 5,
-    "AI / ML": 4,
+    "Science": 7,
+    "Security": 4,
     "Coding & Dev Tools": 2,
     "Skincare": 1
   },
   "articles": [
+    {
+      "id": "reddit_1vhwzlz",
+      "title": "Oil rises as Iran’s draft plan sees U.S. and Israel banned from Strait of Hormuz",
+      "link": "https://www.reddit.com/r/investing/comments/1vhwzlz/oil_rises_as_irans_draft_plan_sees_us_and_israel/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/investing · community knowledge",
+      "content_type": "post",
+      "author": "u/VictorChristian · r/investing",
+      "handle": "investing",
+      "org": "r/investing",
+      "platform": "reddit",
+      "published": "2026-08-07T10:35:08.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/investing"
+      ],
+      "summary": "Doesn’t look like this mess will be tidied up anytime soon... Worries over oil supply disruptions continue to linger after Iran published a restrictive draft plan for the Strait of Hormuz. According to the apparent draft plan published by Iran, the country would ban U.S. and Israeli ships from transiting the strait.…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/investing this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1vhqsyk",
       "title": "Bose has refreshed its QuietComfort headphones with two-way USB-C audio and better noise cancellation",
@@ -66,6 +106,86 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/gadgets this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vhljad",
+      "title": "New Democratic bill would tax AI companies to create jobs",
+      "link": "https://www.reddit.com/r/artificial/comments/1vhljad/new_democratic_bill_would_tax_ai_companies_to/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/artificial · community knowledge",
+      "content_type": "post",
+      "author": "u/Fcking_Chuck · r/artificial",
+      "handle": "artificial",
+      "org": "r/artificial",
+      "platform": "reddit",
+      "published": "2026-08-07T00:25:48.000Z",
+      "image": "https://external-preview.redd.it/o4aoaao0ydq6XvopLvxGwjhX5Vb-KNKkh8VulVIov94.jpeg?width=640&crop=smart&auto=webp&s=6d29f848bf7a34eb562063f886b7b040a5b3ab85",
+      "thumbnail": "https://external-preview.redd.it/o4aoaao0ydq6XvopLvxGwjhX5Vb-KNKkh8VulVIov94.jpeg?width=640&crop=smart&auto=webp&s=6d29f848bf7a34eb562063f886b7b040a5b3ab85",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/artificial"
+      ],
+      "summary": "New Democratic bill would tax AI companies to create jobs",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/artificial this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vhfxic",
+      "title": "Heavy metal contamination - is this a real problem?",
+      "link": "https://www.reddit.com/r/nutrition/comments/1vhfxic/heavy_metal_contamination_is_this_a_real_problem/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/nutrition · community knowledge",
+      "content_type": "post",
+      "author": "u/darkprincess3112 · r/nutrition",
+      "handle": "nutrition",
+      "org": "r/nutrition",
+      "platform": "reddit",
+      "published": "2026-08-06T20:34:37.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Nutrition",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "Nutrition",
+        "r/nutrition"
+      ],
+      "summary": "You read it everywhere; lead, cadmium, arsenic, aluminium in many types of foods and drinks. Combined with mold and pesticides. Is there anything that is still save? What do you have to avoid or limit? Or do you think this problem is overrated? &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/nutrition this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1016,6 +1136,46 @@
       }
     },
     {
+      "id": "reddit_1vfcvog",
+      "title": "This robot never loses at rock, paper, scissors game.",
+      "link": "https://www.reddit.com/r/artificial/comments/1vfcvog/this_robot_never_loses_at_rock_paper_scissors_game/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/artificial · community knowledge",
+      "content_type": "post",
+      "author": "u/Left-Hotel904 · r/artificial",
+      "handle": "artificial",
+      "org": "r/artificial",
+      "platform": "reddit",
+      "published": "2026-08-04T15:02:31.000Z",
+      "image": "https://external-preview.redd.it/MnlsaDh0b3poZGhoMdll3RRGA5eScmEB5PO5Gn6Crv4Zqoq-Oe8L0ztWJ2k-.png?width=640&crop=smart&auto=webp&s=477a5bd859046e838260d89f9960b199725a8e52",
+      "thumbnail": "https://external-preview.redd.it/MnlsaDh0b3poZGhoMdll3RRGA5eScmEB5PO5Gn6Crv4Zqoq-Oe8L0ztWJ2k-.png?width=640&crop=smart&auto=webp&s=477a5bd859046e838260d89f9960b199725a8e52",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/artificial"
+      ],
+      "summary": "This robot never loses at rock, paper, scissors game.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/artificial this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1vfcb5i",
       "title": "Analysis of 97,220 people across 66 countries tested 200+ societal factors and found the 'communitarian' path to happiness — societies where people are enabled to boost each other's happiness — significantly outperforms the individualistic 'take care of your own happiness' approach",
       "link": "https://www.reddit.com/r/science/comments/1vfcb5i/analysis_of_97220_people_across_66_countries/",
@@ -1283,163 +1443,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/SkincareAddiction this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1verztd",
-      "title": "Microsoft denies Windows 11 is spying on desktop PCs, reveals what the service actually does",
-      "link": "https://www.reddit.com/r/cybersecurity/comments/1verztd/microsoft_denies_windows_11_is_spying_on_desktop/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/cybersecurity · community knowledge",
-      "content_type": "post",
-      "author": "u/WPHero · r/cybersecurity",
-      "handle": "cybersecurity",
-      "org": "r/cybersecurity",
-      "platform": "reddit",
-      "published": "2026-08-03T22:23:53.000Z",
-      "image": "https://external-preview.redd.it/jb-UssJFm--x-hExBjTra9LWbR_cNpQ8lqlTDTgL_O4.jpeg?width=640&crop=smart&auto=webp&s=7fc94e156fd122dbdd9360e6b880510f384adefe",
-      "thumbnail": "https://external-preview.redd.it/jb-UssJFm--x-hExBjTra9LWbR_cNpQ8lqlTDTgL_O4.jpeg?width=640&crop=smart&auto=webp&s=7fc94e156fd122dbdd9360e6b880510f384adefe",
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/cybersecurity"
-      ],
-      "summary": "Microsoft denies Windows 11 is spying on desktop PCs, reveals what the service actually does",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/cybersecurity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vernwy",
-      "title": "No link between MMR vaccination before age 2 and autism, large US study suggests",
-      "link": "https://www.reddit.com/r/science/comments/1vernwy/no_link_between_mmr_vaccination_before_age_2_and/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/science · community knowledge",
-      "content_type": "post",
-      "author": "u/PHealthy · r/science",
-      "handle": "science",
-      "org": "r/science",
-      "platform": "reddit",
-      "published": "2026-08-03T22:10:38.000Z",
-      "image": "https://external-preview.redd.it/hnfx1pF8xvG-sBcCjmcEkMS7MN5RSD62HR0hbTBjvco.jpeg?width=640&crop=smart&auto=webp&s=6670ced2d3593157aacd2d85d4ba415c13624536",
-      "thumbnail": "https://external-preview.redd.it/hnfx1pF8xvG-sBcCjmcEkMS7MN5RSD62HR0hbTBjvco.jpeg?width=640&crop=smart&auto=webp&s=6670ced2d3593157aacd2d85d4ba415c13624536",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/science"
-      ],
-      "summary": "No link between MMR vaccination before age 2 and autism, large US study suggests",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/science this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1veqlkn",
-      "title": "Marathon recommendations in South America and Australia/Oceania",
-      "link": "https://www.reddit.com/r/running/comments/1veqlkn/marathon_recommendations_in_south_america_and/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/running · community knowledge",
-      "content_type": "post",
-      "author": "u/Impossible_Jello3718 · r/running",
-      "handle": "running",
-      "org": "r/running",
-      "platform": "reddit",
-      "published": "2026-08-03T21:29:17.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/running"
-      ],
-      "summary": "Hi! I am looking for race recommendations for full marathons in South America and Oceania. I want to avoid the crowded big city marathons, and I&#39;m not chasing a PB. I would love a race with a nice view, great course or cool story etc. (if the Middle-earth marathon was full length, I would totally do that one). I…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/running this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vei12v",
-      "title": "It's time to desk reject papers that don't include code that can reproduce the results [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vei12v/its_time_to_desk_reject_papers_that_dont_include/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/MachineLearning · community knowledge",
-      "content_type": "post",
-      "author": "u/Flaky-Ambition5900 · r/MachineLearning",
-      "handle": "MachineLearning",
-      "org": "r/MachineLearning",
-      "platform": "reddit",
-      "published": "2026-08-03T16:17:53.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/MachineLearning"
-      ],
-      "summary": "As review season for NeurIPS wraps up, I have now reviewed for 3 major conferences this year. And I&#39;m noticing a worrying trend: Out of the 12 papers I reviewed this year, only 1 provided full code (that runs the whole training pipeline from input dataset to output AUROC). 4 provided partial code with fragments of…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/MachineLearning this week"
       ],
       "metrics": {
         "likes": 0,

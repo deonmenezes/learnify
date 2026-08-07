@@ -1,16 +1,99 @@
 {
-  "generated_at": "2026-08-07T16:01:02.691Z",
+  "generated_at": "2026-08-07T17:03:47.595Z",
   "handles": [
-    "OpenAI",
     "nvidia",
+    "GoogleDeepMind",
+    "satyanadella",
+    "OpenAI",
     "AIatMeta",
     "AnthropicAI",
     "elonmusk",
-    "gdb",
-    "GoogleDeepMind"
+    "gdb"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2085737848318124083",
+      "title": "We sat down with Apollo 2 to talk about what it's really like running on Gemini Robotics 2. 🤖",
+      "link": "https://x.com/GoogleDeepMind/status/2085737848318124083",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Google DeepMind · @GoogleDeepMind",
+      "handle": "GoogleDeepMind",
+      "org": "Google",
+      "published": "2026-08-07T14:40:28.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "Google",
+        "Product"
+      ],
+      "summary": "We sat down with Apollo 2 to talk about what it's really like running on Gemini Robotics 2. 🤖",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 80,
+      "sentiment": "negative",
+      "sentiment_score": -0.5,
+      "reasons": [
+        "report-worthy",
+        "tech substance (gemini, robotics)"
+      ],
+      "metrics": {
+        "likes": 346,
+        "retweets": 52,
+        "replies": 43,
+        "likes_h": "346"
+      },
+      "engagement": 493,
+      "hot": false
+    },
+    {
+      "id": "x_2085485069226106891",
+      "title": "Vera Rubin NVL72 Compute Tray. Designed to scale. Assembled in 1 minute. 100% automated. No cables, no hoses, no fans. A revolutionary new design that means faster ramp and faster time to revenue.",
+      "link": "https://x.com/nvidia/status/2085485069226106891",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-08-06T21:56:01.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Commentary"
+      ],
+      "summary": "Vera Rubin NVL72 Compute Tray. Designed to scale. Assembled in 1 minute. 100% automated. No cables, no hoses, no fans. A revolutionary new design that means faster ramp and faster time to revenue.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 65,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "casual tone (100%)",
+        "business signal (revenue)",
+        "high engagement (2K likes)"
+      ],
+      "metrics": {
+        "likes": 2005,
+        "retweets": 223,
+        "replies": 77,
+        "likes_h": "2K"
+      },
+      "engagement": 2528,
+      "hot": false
+    },
     {
       "id": "x_2085434718393418101",
       "title": "Plus and Pro users can access the updated version of GPT‑5.6 Sol in ChatGPT along with the new slider starting today. This version of GPT-5.6 Sol is for everyday chats, so it will only be available…",
@@ -93,7 +176,89 @@
         "likes_h": "12.7K"
       },
       "engagement": 15325,
-      "hot": true
+      "hot": false
+    },
+    {
+      "id": "x_2085418201848971501",
+      "title": "Every business has different data, workflows and standards. Its AI should reflect that. Watch to see how NVIDIA Nemotron open models help teams build specialized AI they can trust, control and…",
+      "link": "https://x.com/nvidia/status/2085418201848971501",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-08-06T17:30:19.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "Every business has different data, workflows and standards. Its AI should reflect that. Watch to see how NVIDIA Nemotron open models help teams build specialized AI they can trust, control and customize, then improve against the outcomes that matter most.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 80,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "tech substance (models, nemotron)"
+      ],
+      "metrics": {
+        "likes": 289,
+        "retweets": 36,
+        "replies": 58,
+        "likes_h": "289"
+      },
+      "engagement": 419,
+      "hot": false
+    },
+    {
+      "id": "x_2085395442347524506",
+      "title": "Predicting cyclones accurately can help save lives - and every hour of lead time counts. Published in @Nature, our AI model WeatherNext achieves state-of-the-art accuracy in forecasting a storm’s…",
+      "link": "https://x.com/GoogleDeepMind/status/2085395442347524506",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Google DeepMind · @GoogleDeepMind",
+      "handle": "GoogleDeepMind",
+      "org": "Google",
+      "published": "2026-08-06T15:59:52.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "Google",
+        "Product"
+      ],
+      "summary": "Predicting cyclones accurately can help save lives - and every hour of lead time counts. Published in @Nature, our AI model WeatherNext achieves state-of-the-art accuracy in forecasting a storm’s track and intensity, giving us a critical extra 24 hours to prepare on average. 🧵",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 90,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (model, state-of-the-art)",
+        "high engagement (874 likes)",
+        "concrete metrics"
+      ],
+      "metrics": {
+        "likes": 874,
+        "retweets": 107,
+        "replies": 78,
+        "likes_h": "874"
+      },
+      "engagement": 1166,
+      "hot": false
     },
     {
       "id": "x_2085106911964242055",
@@ -119,7 +284,7 @@
       "summary": "How do you explain world models to your sibling? 🤖 NVIDIA Cosmos helps physical AI reason about real-world interactions and simulate possible futures before acting in the real world. Or, as they might put it, it teaches robots to dream. 💭",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 74,
+      "worthiness_score": 75,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -127,12 +292,12 @@
         "tech substance (models)"
       ],
       "metrics": {
-        "likes": 257,
-        "retweets": 34,
-        "replies": 35,
-        "likes_h": "257"
+        "likes": 298,
+        "retweets": 40,
+        "replies": 40,
+        "likes_h": "298"
       },
-      "engagement": 360,
+      "engagement": 418,
       "hot": false
     },
     {
@@ -210,12 +375,12 @@
         "business signal (enterprise)"
       ],
       "metrics": {
-        "likes": 428,
-        "retweets": 57,
-        "replies": 31,
-        "likes_h": "428"
+        "likes": 480,
+        "retweets": 62,
+        "replies": 40,
+        "likes_h": "480"
       },
-      "engagement": 573,
+      "engagement": 644,
       "hot": false
     },
     {
@@ -250,16 +415,16 @@
         "casual tone (thanks)",
         "tech substance (models, nemotron, training)",
         "business signal (customers)",
-        "high engagement (964 likes)",
+        "high engagement (1K likes)",
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 964,
-        "retweets": 138,
-        "replies": 50,
-        "likes_h": "964"
+        "likes": 1029,
+        "retweets": 145,
+        "replies": 52,
+        "likes_h": "1K"
       },
-      "engagement": 1290,
+      "engagement": 1371,
       "hot": false
     },
     {
@@ -372,15 +537,15 @@
       "sentiment_score": 0,
       "reasons": [
         "report-worthy",
-        "high engagement (13.6K likes)"
+        "high engagement (13.8K likes)"
       ],
       "metrics": {
-        "likes": 13581,
-        "retweets": 2010,
-        "replies": 601,
-        "likes_h": "13.6K"
+        "likes": 13771,
+        "retweets": 2030,
+        "replies": 605,
+        "likes_h": "13.8K"
       },
-      "engagement": 18202,
+      "engagement": 18436,
       "hot": true
     },
     {
@@ -992,12 +1157,12 @@
         "tech substance (model, gemini, robotics)"
       ],
       "metrics": {
-        "likes": 79,
-        "retweets": 15,
+        "likes": 81,
+        "retweets": 16,
         "replies": 9,
-        "likes_h": "79"
+        "likes_h": "81"
       },
-      "engagement": 118,
+      "engagement": 122,
       "hot": false
     },
     {
@@ -1034,12 +1199,12 @@
         "high engagement (1.1K likes)"
       ],
       "metrics": {
-        "likes": 1127,
-        "retweets": 159,
-        "replies": 79,
+        "likes": 1141,
+        "retweets": 164,
+        "replies": 80,
         "likes_h": "1.1K"
       },
-      "engagement": 1524,
+      "engagement": 1549,
       "hot": false
     },
     {
@@ -1168,176 +1333,6 @@
       },
       "engagement": 24379,
       "hot": true
-    },
-    {
-      "id": "x_2082850072438636908",
-      "title": "Incredible to see the open model momentum continue. Seeing more than 230 organizations rally around open weights reinforces what’s possible when the ecosystem comes together. Thank you to @Microsoft…",
-      "link": "https://x.com/nvidia/status/2082850072438636908",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-07-30T15:25:29.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product"
-      ],
-      "summary": "Incredible to see the open model momentum continue. Seeing more than 230 organizations rally around open weights reinforces what’s possible when the ecosystem comes together. Thank you to @Microsoft for your partnership, and to everyone helping strengthen the open ecosystem. 🤝",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 73,
-      "sentiment": "positive",
-      "sentiment_score": 1,
-      "reasons": [
-        "report-worthy",
-        "casual tone (thank you, incredible)",
-        "tech substance (model, open weights, weights)",
-        "business signal (partnership)",
-        "high engagement (882 likes)"
-      ],
-      "metrics": {
-        "likes": 882,
-        "retweets": 128,
-        "replies": 70,
-        "likes_h": "882"
-      },
-      "engagement": 1208,
-      "hot": false
-    },
-    {
-      "id": "x_2082844162928381956",
-      "title": "One brain. For any robot. 🤖 We’re launching Gemini Robotics 2: our next-generation physical AI bringing full body intelligence to humanoids, advanced dexterity, multi-robot teamwork and more.",
-      "link": "https://x.com/GoogleDeepMind/status/2082844162928381956",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Google DeepMind · @GoogleDeepMind",
-      "handle": "GoogleDeepMind",
-      "org": "Google",
-      "published": "2026-07-30T15:02:00.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product launch",
-      "categories": [
-        "X",
-        "Google",
-        "Product launch"
-      ],
-      "summary": "One brain. For any robot. 🤖 We’re launching Gemini Robotics 2: our next-generation physical AI bringing full body intelligence to humanoids, advanced dexterity, multi-robot teamwork and more.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 100,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "announcement language (launching)",
-        "tech substance (gemini, robotics)",
-        "high engagement (5.2K likes)"
-      ],
-      "metrics": {
-        "likes": 5162,
-        "retweets": 838,
-        "replies": 341,
-        "likes_h": "5.2K"
-      },
-      "engagement": 7179,
-      "hot": false
-    },
-    {
-      "id": "x_2082712206169256279",
-      "title": "Congratulations to the Tesla Team! 10 million vehicles manufactured is an incredible amount of work.",
-      "link": "https://x.com/elonmusk/status/2082712206169256279",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Elon Musk · @elonmusk",
-      "handle": "elonmusk",
-      "org": "xAI/Tesla",
-      "published": "2026-07-30T06:17:39.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Funding & deals",
-      "categories": [
-        "X",
-        "xAI/Tesla",
-        "Funding & deals"
-      ],
-      "summary": "Congratulations to the Tesla Team! 10 million vehicles manufactured is an incredible amount of work.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 55,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "casual tone (congratulations, incredible)",
-        "business signal (million)",
-        "high engagement (65.2K likes)",
-        "concrete metrics"
-      ],
-      "metrics": {
-        "likes": 65153,
-        "retweets": 6169,
-        "replies": 4150,
-        "likes_h": "65.2K"
-      },
-      "engagement": 81641,
-      "hot": true
-    },
-    {
-      "id": "x_2082616641834422740",
-      "title": "A benchmark score reflects the model as well as the harness and settings used to run it. For long-running agents, retaining reasoning and compacting context lets the model build on what it has…",
-      "link": "https://x.com/OpenAI/status/2082616641834422740",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-07-29T23:57:55.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Research"
-      ],
-      "summary": "A benchmark score reflects the model as well as the harness and settings used to run it. For long-running agents, retaining reasoning and compacting context lets the model build on what it has already learned. https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores/",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 70,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "reply / conversation",
-        "tech substance (model, agents, benchmark)",
-        "links to a source"
-      ],
-      "metrics": {
-        "likes": 700,
-        "retweets": 34,
-        "replies": 24,
-        "likes_h": "700"
-      },
-      "engagement": 792,
-      "hot": false
     }
   ]
 }
