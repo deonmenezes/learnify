@@ -1,36 +1,36 @@
 {
-  "generated_at": "2026-08-07T14:37:06.139Z",
+  "generated_at": "2026-08-07T16:03:16.183Z",
   "subs": [
     "MachineLearning",
-    "LocalLLaMA",
-    "running",
-    "investing",
+    "bodyweightfitness",
+    "robotics",
     "gadgets",
     "science",
     "hardware",
+    "investing",
     "Futurology",
-    "bodyweightfitness",
     "cybersecurity",
     "singularity",
     "programming",
     "netsec",
     "Fitness",
     "longevity",
+    "LocalLLaMA",
     "nutrition",
     "startups",
-    "robotics",
-    "SkincareAddiction"
+    "SkincareAddiction",
+    "running"
   ],
   "count": 36,
   "by_category": {
-    "Hardware & Gadgets": 6,
+    "Hardware & Gadgets": 5,
+    "Fitness": 7,
+    "Robotics": 2,
     "Science": 8,
     "Startups & Funding": 2,
-    "Fitness": 6,
     "Security": 5,
-    "AI / ML": 5,
+    "AI / ML": 4,
     "Coding & Dev Tools": 2,
-    "Robotics": 1,
     "Skincare": 1
   },
   "articles": [
@@ -66,6 +66,84 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/gadgets this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vhe8ua",
+      "title": "From 238lbs to 137lbs, using my body as resistance",
+      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1vhe8ua/from_238lbs_to_137lbs_using_my_body_as_resistance/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/bodyweightfitness · community knowledge",
+      "content_type": "post",
+      "author": "u/DiamondCalvesFan · r/bodyweightfitness",
+      "handle": "bodyweightfitness",
+      "org": "r/bodyweightfitness",
+      "platform": "reddit",
+      "published": "2026-08-06T19:31:36.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/bodyweightfitness"
+      ],
+      "summary": "I did it! I achieved my final result in the span of 2 years, and since then, I’ve been maintaining it. IMO, maintaining the result is actually harder than reaching it in the first place. My current setup is this: a 15min warmup on the stationary bike, then 35min concentrated on my whole body (mostly arms, back, and…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/bodyweightfitness this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vhe8ml",
+      "title": "I tested my robotic lamp’s positioning repeatability -about 0.03 mm average deviation across 10 repetitions",
+      "link": "https://www.reddit.com/r/robotics/comments/1vhe8ml/i_tested_my_robotic_lamps_positioning/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/robotics · community knowledge",
+      "content_type": "post",
+      "author": "u/Ok_Stress3654 · r/robotics",
+      "handle": "robotics",
+      "org": "r/robotics",
+      "platform": "reddit",
+      "published": "2026-08-06T19:31:23.000Z",
+      "image": "https://external-preview.redd.it/a292eW5zdnEzdGhoMYRQhWhaLP0_OA9TwYaat0taxXizLLkR3VBY5Lf9U6Qk.png?width=320&crop=smart&auto=webp&s=02aa8e66a9fd70b22ef97a1c1d8fb8c86e6c67ec",
+      "thumbnail": "https://external-preview.redd.it/a292eW5zdnEzdGhoMYRQhWhaLP0_OA9TwYaat0taxXizLLkR3VBY5Lf9U6Qk.png?width=320&crop=smart&auto=webp&s=02aa8e66a9fd70b22ef97a1c1d8fb8c86e6c67ec",
+      "section": "Robotics",
+      "category": "Robotics",
+      "genre": "Robotics",
+      "categories": [
+        "Reddit",
+        "Robotics",
+        "r/robotics"
+      ],
+      "summary": "I ran a preliminary test to see how consistently Watti could return to the same position. Across 10 repetitions, the average measured deviation was about 0.03 mm. This was only a simple test at one position using a dial indicator, but the result was better than I expected. Next, I want to experiment with using her…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/robotics this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1362,85 +1440,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vefwvh",
-      "title": "NeurIPS 2026: If the rebuttal addresses your concern, please raise your score [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vefwvh/neurips_2026_if_the_rebuttal_addresses_your/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/MachineLearning · community knowledge",
-      "content_type": "post",
-      "author": "u/undesirable_12 · r/MachineLearning",
-      "handle": "MachineLearning",
-      "org": "r/MachineLearning",
-      "platform": "reddit",
-      "published": "2026-08-03T15:01:36.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/MachineLearning"
-      ],
-      "summary": "Potentially a hot take? I am not sure why our community is plagued with reviewers who, after acknowledging that their concerns were addressed by a rebuttal, decide to maintain their score because they don&#39;t vibe with the paper. So here is my plea to all reviewers: If you list a set of concerns in your review and…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/MachineLearning this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vef1d9",
-      "title": "Casio turns its ring watch into smart wearable with health tracking and notifications",
-      "link": "https://www.reddit.com/r/gadgets/comments/1vef1d9/casio_turns_its_ring_watch_into_smart_wearable/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/gadgets · community knowledge",
-      "content_type": "post",
-      "author": "u/diacewrb · r/gadgets",
-      "handle": "gadgets",
-      "org": "r/gadgets",
-      "platform": "reddit",
-      "published": "2026-08-03T14:29:03.000Z",
-      "image": "https://external-preview.redd.it/nfyWuIU-NnwqKFZcaMsgVEl8HL7IENyE2RERIr1-AFE.jpeg?width=640&crop=smart&auto=webp&s=0ecddb6cac5e26cef69a2a6ff66a3a60a79c3112",
-      "thumbnail": "https://external-preview.redd.it/nfyWuIU-NnwqKFZcaMsgVEl8HL7IENyE2RERIr1-AFE.jpeg?width=640&crop=smart&auto=webp&s=0ecddb6cac5e26cef69a2a6ff66a3a60a79c3112",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/gadgets"
-      ],
-      "summary": "Casio turns its ring watch into smart wearable with health tracking and notifications",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/gadgets this week"
       ],
       "metrics": {
         "likes": 0,
