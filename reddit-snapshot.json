@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-07T05:22:37.741Z",
+  "generated_at": "2026-08-07T06:52:24.815Z",
   "subs": [
     "MachineLearning",
+    "longevity",
+    "hardware",
     "science",
-    "netsec",
     "singularity",
     "Futurology",
     "programming",
-    "hardware",
+    "netsec",
     "Fitness",
-    "longevity",
     "bodyweightfitness",
     "LocalLLaMA",
     "nutrition",
@@ -23,9 +23,9 @@
   "count": 36,
   "by_category": {
     "Science": 7,
-    "AI / ML": 8,
+    "Hardware & Gadgets": 6,
+    "AI / ML": 7,
     "Coding & Dev Tools": 2,
-    "Hardware & Gadgets": 5,
     "Security": 5,
     "Fitness": 4,
     "Startups & Funding": 2,
@@ -65,6 +65,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/science this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vgztxj",
+      "title": "Arctic is returning US tariff refunds by cutting prices across its entire US product lineup and investing refund money into tech education and PC community initiatives",
+      "link": "https://www.reddit.com/r/hardware/comments/1vgztxj/arctic_is_returning_us_tariff_refunds_by_cutting/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/hardware · community knowledge",
+      "content_type": "post",
+      "author": "u/sr_local · r/hardware",
+      "handle": "hardware",
+      "org": "r/hardware",
+      "platform": "reddit",
+      "published": "2026-08-06T09:56:44.000Z",
+      "image": "https://external-preview.redd.it/YjeU8gpmdD80lbMTCTJOUUIkhY78PlR5i4Q5WlWfeMM.jpeg?width=640&crop=smart&auto=webp&s=4fba6bf71cbc90a670e2dc94d4747c1fc01bbebe",
+      "thumbnail": "https://external-preview.redd.it/YjeU8gpmdD80lbMTCTJOUUIkhY78PlR5i4Q5WlWfeMM.jpeg?width=640&crop=smart&auto=webp&s=4fba6bf71cbc90a670e2dc94d4747c1fc01bbebe",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/hardware"
+      ],
+      "summary": "Arctic is returning US tariff refunds by cutting prices across its entire US product lineup and investing refund money into tech education and PC community initiatives",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/hardware this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1403,46 +1442,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/investing this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ve0psn",
-      "title": "Qwen3.8-27B announced alongside Qwen3.8-Max",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1ve0psn/qwen3827b_announced_alongside_qwen38max/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/LocalLLaMA · community knowledge",
-      "content_type": "post",
-      "author": "u/TKGaming_11 · r/LocalLLaMA",
-      "handle": "LocalLLaMA",
-      "org": "r/LocalLLaMA",
-      "platform": "reddit",
-      "published": "2026-08-03T02:21:49.000Z",
-      "image": "https://preview.redd.it/gy0tgokdl2hh1.png?width=140&height=112&auto=webp&s=cb73fedfe8b394186067c20064d330d7118d26aa",
-      "thumbnail": "https://preview.redd.it/gy0tgokdl2hh1.png?width=140&height=112&auto=webp&s=cb73fedfe8b394186067c20064d330d7118d26aa",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/LocalLLaMA"
-      ],
-      "summary": "https://preview.redd.it/gy0tgokdl2hh1.png?width=540&amp;format=png&amp;auto=webp&amp;s=7db9e034613a915cb33d378b99ad72c31c7cc18f source: https://x.com/Alibaba_Qwen/status/2084100707423289643 &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/LocalLLaMA this week"
       ],
       "metrics": {
         "likes": 0,
