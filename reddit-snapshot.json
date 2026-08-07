@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T08:20:44.943Z",
+  "generated_at": "2026-08-07T09:37:46.848Z",
   "subs": [
     "MachineLearning",
     "programming",
@@ -17,18 +17,17 @@
     "startups",
     "robotics",
     "SkincareAddiction",
-    "gadgets",
-    "investing"
+    "gadgets"
   ],
   "count": 36,
   "by_category": {
     "Science": 7,
     "Hardware & Gadgets": 6,
+    "Security": 6,
     "AI / ML": 7,
     "Coding & Dev Tools": 2,
-    "Security": 5,
     "Fitness": 4,
-    "Startups & Funding": 2,
+    "Startups & Funding": 1,
     "Robotics": 2,
     "Skincare": 1
   },
@@ -104,6 +103,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/hardware this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vgvxp2",
+      "title": "Why is \"entry-level\" in cybersecurity asking for 3-5 years of experience and CISSP now?",
+      "link": "https://www.reddit.com/r/cybersecurity/comments/1vgvxp2/why_is_entrylevel_in_cybersecurity_asking_for_35/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/cybersecurity · community knowledge",
+      "content_type": "post",
+      "author": "u/Deepdun888 · r/cybersecurity",
+      "handle": "cybersecurity",
+      "org": "r/cybersecurity",
+      "platform": "reddit",
+      "published": "2026-08-06T06:08:59.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/cybersecurity"
+      ],
+      "summary": "I’ve been browsing job boards lately and the &quot;junior&quot; requirements are getting ridiculous. Saw a Tier 1 SOC Analyst post earlier asking for 3+ years of experience, a CISSP, and half a dozen certs, all for lower-tier pay. To the hiring managers here: Are HR departments just copy-pasting impossible wish lists,…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/cybersecurity this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1402,46 +1440,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/LocalLLaMA this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ve2t9d",
-      "title": "The U.S. just helped Japan strengthen the yen. Should U.S. investors care?",
-      "link": "https://www.reddit.com/r/investing/comments/1ve2t9d/the_us_just_helped_japan_strengthen_the_yen/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/investing · community knowledge",
-      "content_type": "post",
-      "author": "u/FailOk1528 · r/investing",
-      "handle": "investing",
-      "org": "r/investing",
-      "platform": "reddit",
-      "published": "2026-08-03T04:06:00.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/investing"
-      ],
-      "summary": "The U.S. and Japan just confirmed a coordinated intervention after the yen fell to around a 40-year low. The yen has already moved from above 163 per dollar to roughly 155–156, and officials are saying they may intervene again. The part I’m interested in isn’t just Japan. A stronger yen makes yen-funded carry trades…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/investing this week"
       ],
       "metrics": {
         "likes": 0,
