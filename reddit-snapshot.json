@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-08-07T11:00:30.878Z",
+  "generated_at": "2026-08-07T11:53:10.387Z",
   "subs": [
     "MachineLearning",
-    "Futurology",
+    "LocalLLaMA",
+    "bodyweightfitness",
+    "startups",
     "gadgets",
     "science",
     "hardware",
+    "Futurology",
     "cybersecurity",
     "singularity",
     "programming",
     "netsec",
     "Fitness",
     "longevity",
-    "bodyweightfitness",
-    "LocalLLaMA",
     "nutrition",
-    "startups",
     "robotics",
     "SkincareAddiction"
   ],
   "count": 36,
   "by_category": {
-    "Hardware & Gadgets": 8,
+    "Hardware & Gadgets": 7,
     "Science": 8,
+    "Fitness": 5,
     "Security": 6,
     "AI / ML": 5,
     "Coding & Dev Tools": 2,
-    "Fitness": 4,
     "Startups & Funding": 1,
     "Robotics": 1,
     "Skincare": 1
@@ -220,6 +220,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Futurology this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vgw6bj",
+      "title": "(NSFW) For overweight men: How do you avoid injuring balls after leg raises?",
+      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1vgw6bj/nsfw_for_overweight_men_how_do_you_avoid_injuring/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/bodyweightfitness · community knowledge",
+      "content_type": "post",
+      "author": "u/Overthought_Headbang · r/bodyweightfitness",
+      "handle": "bodyweightfitness",
+      "org": "r/bodyweightfitness",
+      "platform": "reddit",
+      "published": "2026-08-06T06:22:29.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/bodyweightfitness"
+      ],
+      "summary": "I think I may be crushing my testicles while doing leg raises or any leg movement. I am overweight and working on reducing it. Do you always wear underwear when exercising (i use home equipments- no other users)? Would that help avoid the skin to skin pull. I can feel it mostly on my right testicle. Feels like the…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/bodyweightfitness this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1399,45 +1438,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/netsec this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vedys9",
-      "title": "AI enthusiast unlocks and mods BIOS with Claude Code — AI defeats RSA-2048 signature checks and unlocks 55 hidden settings",
-      "link": "https://www.reddit.com/r/hardware/comments/1vedys9/ai_enthusiast_unlocks_and_mods_bios_with_claude/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/hardware · community knowledge",
-      "content_type": "post",
-      "author": "u/WPHero · r/hardware",
-      "handle": "hardware",
-      "org": "r/hardware",
-      "platform": "reddit",
-      "published": "2026-08-03T13:48:34.000Z",
-      "image": "https://external-preview.redd.it/pcp5iFMJ9IGAh28cU2qMSN7G3y4xJutxDYitNIFiJN4.jpeg?width=640&crop=smart&auto=webp&s=1f167d12fcb64946ee272e8f2db84707f17ad452",
-      "thumbnail": "https://external-preview.redd.it/pcp5iFMJ9IGAh28cU2qMSN7G3y4xJutxDYitNIFiJN4.jpeg?width=640&crop=smart&auto=webp&s=1f167d12fcb64946ee272e8f2db84707f17ad452",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/hardware"
-      ],
-      "summary": "AI enthusiast unlocks and mods BIOS with Claude Code — AI defeats RSA-2048 signature checks and unlocks 55 hidden settings",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/hardware this week"
       ],
       "metrics": {
         "likes": 0,
