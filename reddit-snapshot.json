@@ -1,21 +1,20 @@
 {
-  "generated_at": "2026-08-07T22:43:03.611Z",
+  "generated_at": "2026-08-07T23:41:53.128Z",
   "subs": [
     "MachineLearning",
-    "artificial",
-    "running",
-    "investing",
-    "cybersecurity",
-    "gadgets",
+    "science",
     "nutrition",
+    "netsec",
+    "cybersecurity",
+    "investing",
+    "gadgets",
+    "artificial",
     "bodyweightfitness",
     "robotics",
-    "science",
     "hardware",
     "Futurology",
     "singularity",
     "programming",
-    "netsec",
     "Fitness",
     "longevity",
     "LocalLLaMA",
@@ -24,12 +23,12 @@
   ],
   "count": 36,
   "by_category": {
-    "Security": 4,
+    "Security": 5,
     "Startups & Funding": 3,
     "Hardware & Gadgets": 5,
     "AI / ML": 5,
     "Fitness": 7,
-    "Robotics": 2,
+    "Robotics": 1,
     "Science": 7,
     "Coding & Dev Tools": 2,
     "Skincare": 1
@@ -186,6 +185,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/artificial this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vhh5xw",
+      "title": "Claude Code RCE: How a Malicious PR Triggers Code Execution",
+      "link": "https://www.reddit.com/r/netsec/comments/1vhh5xw/claude_code_rce_how_a_malicious_pr_triggers_code/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/netsec · community knowledge",
+      "content_type": "post",
+      "author": "u/kev-thehermit · r/netsec",
+      "handle": "netsec",
+      "org": "r/netsec",
+      "platform": "reddit",
+      "published": "2026-08-06T21:22:53.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/netsec"
+      ],
+      "summary": "Abusing the trust boundary in Claude Code for RCE. Trust is never broken and that opens up a few avenues for abuse. Simply opening claude code on a PR can be enough to silently trigger attacker payloads. &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/netsec this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1405,45 +1443,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/startups this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vf3oq8",
-      "title": "Mecanum wheel based robot for motion simulation",
-      "link": "https://www.reddit.com/r/robotics/comments/1vf3oq8/mecanum_wheel_based_robot_for_motion_simulation/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/robotics · community knowledge",
-      "content_type": "post",
-      "author": "u/Amazing-Battle-4789 · r/robotics",
-      "handle": "robotics",
-      "org": "r/robotics",
-      "platform": "reddit",
-      "published": "2026-08-04T07:46:12.000Z",
-      "image": "https://external-preview.redd.it/bW1vY3hlZHdiYmhoMdPJzhHePh4tzGkcRIjqvBvn5Ks3EPPF0MrADp8v4JXo.png?width=640&crop=smart&auto=webp&s=533d0bf3264123b245a0cf2d170b947e2b47d9bb",
-      "thumbnail": "https://external-preview.redd.it/bW1vY3hlZHdiYmhoMdPJzhHePh4tzGkcRIjqvBvn5Ks3EPPF0MrADp8v4JXo.png?width=640&crop=smart&auto=webp&s=533d0bf3264123b245a0cf2d170b947e2b47d9bb",
-      "section": "Robotics",
-      "category": "Robotics",
-      "genre": "Robotics",
-      "categories": [
-        "Reddit",
-        "Robotics",
-        "r/robotics"
-      ],
-      "summary": "I designed this mecanum wheel based omnidirectional vehicle for motion simulation. It can move on 3 degrees of freedom : surge, sway and yaw. A VR tracker is used to ascertain the position &amp; orientation of the rig at all times, and recenter it subtly. &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/robotics this week"
       ],
       "metrics": {
         "likes": 0,
