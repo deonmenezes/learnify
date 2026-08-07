@@ -1,13 +1,14 @@
 {
-  "generated_at": "2026-08-07T09:37:46.848Z",
+  "generated_at": "2026-08-07T11:00:30.878Z",
   "subs": [
     "MachineLearning",
-    "programming",
-    "cybersecurity",
+    "Futurology",
+    "gadgets",
     "science",
     "hardware",
+    "cybersecurity",
     "singularity",
-    "Futurology",
+    "programming",
     "netsec",
     "Fitness",
     "longevity",
@@ -16,22 +17,60 @@
     "nutrition",
     "startups",
     "robotics",
-    "SkincareAddiction",
-    "gadgets"
+    "SkincareAddiction"
   ],
   "count": 36,
   "by_category": {
-    "Science": 7,
-    "Hardware & Gadgets": 6,
+    "Hardware & Gadgets": 8,
+    "Science": 8,
     "Security": 6,
-    "AI / ML": 7,
+    "AI / ML": 5,
     "Coding & Dev Tools": 2,
     "Fitness": 4,
     "Startups & Funding": 1,
-    "Robotics": 2,
+    "Robotics": 1,
     "Skincare": 1
   },
   "articles": [
+    {
+      "id": "reddit_1vhqsyk",
+      "title": "Bose has refreshed its QuietComfort headphones with two-way USB-C audio and better noise cancellation",
+      "link": "https://www.reddit.com/r/gadgets/comments/1vhqsyk/bose_has_refreshed_its_quietcomfort_headphones/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/gadgets · community knowledge",
+      "content_type": "post",
+      "author": "u/dapperlemon · r/gadgets",
+      "handle": "gadgets",
+      "org": "r/gadgets",
+      "platform": "reddit",
+      "published": "2026-08-07T04:38:52.000Z",
+      "image": "https://external-preview.redd.it/kwCa3wdlJOAck-QGOt5l8MwDsy5HVfvpHmpUduyXWNM.jpeg?width=640&crop=smart&auto=webp&s=980059c7162caf14b3b07bc4d97465827f943df0",
+      "thumbnail": "https://external-preview.redd.it/kwCa3wdlJOAck-QGOt5l8MwDsy5HVfvpHmpUduyXWNM.jpeg?width=640&crop=smart&auto=webp&s=980059c7162caf14b3b07bc4d97465827f943df0",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/gadgets"
+      ],
+      "summary": "Bose has refreshed its QuietComfort headphones with two-way USB-C audio and better noise cancellation",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/gadgets this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1vh0gzd",
       "title": "Scientists have, for the first time, genetically engineered lettuce and tobacco plants to grow the animal protein myoglobin. Plant-derived myoglobin could achieve protein yields per hectare that rival – or even exceed – those of animal agriculture, with lower water use and greenhouse gas emissions.",
@@ -72,6 +111,45 @@
       }
     },
     {
+      "id": "reddit_1vh0079",
+      "title": "Garmin smartwatch with LTE and satellite connectivity spotted in FCC filing—Fenix 9 likely imminent",
+      "link": "https://www.reddit.com/r/gadgets/comments/1vh0079/garmin_smartwatch_with_lte_and_satellite/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/gadgets · community knowledge",
+      "content_type": "post",
+      "author": "u/dapperlemon · r/gadgets",
+      "handle": "gadgets",
+      "org": "r/gadgets",
+      "platform": "reddit",
+      "published": "2026-08-06T10:06:10.000Z",
+      "image": "https://external-preview.redd.it/jRpw9_I6kyucWXX3A8dr9xE96q8CCVJdTQF9nQMWsx0.jpeg?width=640&crop=smart&auto=webp&s=b6e9c14fced31b461623ccdc28b64784d4a896f3",
+      "thumbnail": "https://external-preview.redd.it/jRpw9_I6kyucWXX3A8dr9xE96q8CCVJdTQF9nQMWsx0.jpeg?width=640&crop=smart&auto=webp&s=b6e9c14fced31b461623ccdc28b64784d4a896f3",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/gadgets"
+      ],
+      "summary": "Garmin smartwatch with LTE and satellite connectivity spotted in FCC filing—Fenix 9 likely imminent",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/gadgets this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1vgztxj",
       "title": "Arctic is returning US tariff refunds by cutting prices across its entire US product lineup and investing refund money into tech education and PC community initiatives",
       "link": "https://www.reddit.com/r/hardware/comments/1vgztxj/arctic_is_returning_us_tariff_refunds_by_cutting/",
@@ -103,6 +181,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/hardware this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vgwopd",
+      "title": "Japanese population falls below 120m for first time in 42 years",
+      "link": "https://www.reddit.com/r/Futurology/comments/1vgwopd/japanese_population_falls_below_120m_for_first/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/Futurology · community knowledge",
+      "content_type": "post",
+      "author": "u/Krankenitrate · r/Futurology",
+      "handle": "Futurology",
+      "org": "r/Futurology",
+      "platform": "reddit",
+      "published": "2026-08-06T06:51:49.000Z",
+      "image": "https://external-preview.redd.it/WpsuEfCzb5bSqvXAmhyitwJsknC8K0v38CgVgiDhPn8.jpeg?width=640&crop=smart&auto=webp&s=b4a3bc1b61ed4b79ec5b9b7c23ed4223974353d2",
+      "thumbnail": "https://external-preview.redd.it/WpsuEfCzb5bSqvXAmhyitwJsknC8K0v38CgVgiDhPn8.jpeg?width=640&crop=smart&auto=webp&s=b4a3bc1b61ed4b79ec5b9b7c23ed4223974353d2",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/Futurology"
+      ],
+      "summary": "Japanese population falls below 120m for first time in 42 years",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/Futurology this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1321,125 +1438,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/hardware this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vedrhr",
-      "title": "Built a $23 leader arm for teleoperation",
-      "link": "https://www.reddit.com/r/robotics/comments/1vedrhr/built_a_23_leader_arm_for_teleoperation/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/robotics · community knowledge",
-      "content_type": "post",
-      "author": "u/Solid-Cellist-8876 · r/robotics",
-      "handle": "robotics",
-      "org": "r/robotics",
-      "platform": "reddit",
-      "published": "2026-08-03T13:40:41.000Z",
-      "image": "https://external-preview.redd.it/c2E4ODk2NHFoNWhoMRlYOun3Ns-kClE34QGxeQLkBcLs9BTH70lCvF79bO-m.png?width=320&crop=smart&auto=webp&s=aaf2cbc88c1a35b36aaf06b27d7cd03339e8cbb7",
-      "thumbnail": "https://external-preview.redd.it/c2E4ODk2NHFoNWhoMRlYOun3Ns-kClE34QGxeQLkBcLs9BTH70lCvF79bO-m.png?width=320&crop=smart&auto=webp&s=aaf2cbc88c1a35b36aaf06b27d7cd03339e8cbb7",
-      "section": "Robotics",
-      "category": "Robotics",
-      "genre": "Robotics",
-      "categories": [
-        "Reddit",
-        "Robotics",
-        "r/robotics"
-      ],
-      "summary": "Please don&#39;t mind the cables and the messy table. I am new to the VLA and robot arm side of robotics and was primarily working on the legged locomotion. I thought of building the lerobot kit to work on vla. I felt the price was a bit steep for me so decided to build my own leader arm with encoders instead of…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/robotics this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ve7chh",
-      "title": "Is it too late regain some coherence in the ML research space in our life time? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1ve7chh/is_it_too_late_regain_some_coherence_in_the_ml/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/MachineLearning · community knowledge",
-      "content_type": "post",
-      "author": "u/NeighborhoodFatCat · r/MachineLearning",
-      "handle": "MachineLearning",
-      "org": "r/MachineLearning",
-      "platform": "reddit",
-      "published": "2026-08-03T08:17:40.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/MachineLearning"
-      ],
-      "summary": "Was just looking at the list of preprints on Arxiv cs.LG https://arxiv.org/list/cs.LG/recent?skip=0&amp;show=500 Everyday 100 - 400 new machine learning papers gets uploaded on this server. Looking at this unending list of preprints is as if you stepped into a crowded room, like the stock trading floor on wall st. in…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/MachineLearning this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ve4uoe",
-      "title": "Daniel Han of Unsloth validates Qwen3.8-27B will run only 17GB VRAM",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1ve4uoe/daniel_han_of_unsloth_validates_qwen3827b_will/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/LocalLLaMA · community knowledge",
-      "content_type": "post",
-      "author": "u/quantier · r/LocalLLaMA",
-      "handle": "LocalLLaMA",
-      "org": "r/LocalLLaMA",
-      "platform": "reddit",
-      "published": "2026-08-03T05:55:11.000Z",
-      "image": "https://preview.redd.it/kabmtuygn3hh1.jpeg?width=640&crop=smart&auto=webp&s=ceaef55e47830cb76d73ab86f208af3cfa421182",
-      "thumbnail": "https://preview.redd.it/kabmtuygn3hh1.jpeg?width=640&crop=smart&auto=webp&s=ceaef55e47830cb76d73ab86f208af3cfa421182",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/LocalLLaMA"
-      ],
-      "summary": "Super excited about this release for the new 27B. Who else is with me. Only 17GB VRAM needed 😍😍 &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/LocalLLaMA this week"
       ],
       "metrics": {
         "likes": 0,
