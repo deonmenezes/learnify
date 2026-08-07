@@ -1,25 +1,24 @@
 {
-  "generated_at": "2026-08-07T03:34:45.969Z",
+  "generated_at": "2026-08-07T05:22:37.741Z",
   "subs": [
     "MachineLearning",
-    "programming",
-    "cybersecurity",
     "science",
+    "netsec",
     "singularity",
     "Futurology",
+    "programming",
     "hardware",
     "Fitness",
     "longevity",
     "bodyweightfitness",
-    "netsec",
     "LocalLLaMA",
     "nutrition",
     "startups",
     "robotics",
     "SkincareAddiction",
+    "cybersecurity",
     "gadgets",
-    "investing",
-    "running"
+    "investing"
   ],
   "count": 36,
   "by_category": {
@@ -27,8 +26,8 @@
     "AI / ML": 8,
     "Coding & Dev Tools": 2,
     "Hardware & Gadgets": 5,
-    "Fitness": 5,
-    "Security": 4,
+    "Security": 5,
+    "Fitness": 4,
     "Startups & Funding": 2,
     "Robotics": 2,
     "Skincare": 1
@@ -301,6 +300,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/hardware this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vg20wg",
+      "title": "New Linux Bridge STP Vulnerability",
+      "link": "https://www.reddit.com/r/netsec/comments/1vg20wg/new_linux_bridge_stp_vulnerability/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/netsec · community knowledge",
+      "content_type": "post",
+      "author": "u/SSDisclosure · r/netsec",
+      "handle": "netsec",
+      "org": "r/netsec",
+      "platform": "reddit",
+      "published": "2026-08-05T09:04:29.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/netsec"
+      ],
+      "summary": "A use-after-free vulnerability in the Linux kernel bridge (net/bridge) Spanning Tree Protocol (STP) implementation. A bridge that is administratively down while kernel STP is enabled, together with a port driven into the LEARNING state, arms periodic STP timers without an IFF_UP guard. The teardown path taken by…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/netsec this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1405,45 +1443,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/LocalLLaMA this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1ve0l8z",
-      "title": "Long Run Recovery",
-      "link": "https://www.reddit.com/r/running/comments/1ve0l8z/long_run_recovery/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/running · community knowledge",
-      "content_type": "post",
-      "author": "u/Thick-Assumption5563 · r/running",
-      "handle": "running",
-      "org": "r/running",
-      "platform": "reddit",
-      "published": "2026-08-03T02:15:41.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/running"
-      ],
-      "summary": "Hello, I have been an avid runner for many years now but I haven&#39;t gotten into marathon distances running until quite recently. The training regime that works best for my work puts my long runs on Sunday, which can vary from 15-21 miles on that day. I have found that on those days I&#39;m really pushing myself, or…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/running this week"
       ],
       "metrics": {
         "likes": 0,
