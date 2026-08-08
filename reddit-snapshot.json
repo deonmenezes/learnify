@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-08-08T08:49:25.337Z",
+  "generated_at": "2026-08-08T09:44:35.222Z",
   "subs": [
     "MachineLearning",
-    "longevity",
-    "hardware",
+    "Futurology",
+    "netsec",
     "SkincareAddiction",
     "investing",
     "cybersecurity",
     "gadgets",
+    "hardware",
     "artificial",
-    "netsec",
     "nutrition",
     "bodyweightfitness",
     "robotics",
     "science",
-    "Futurology",
     "singularity",
     "programming",
     "Fitness",
+    "longevity",
     "LocalLLaMA"
   ],
   "count": 36,
   "by_category": {
     "Skincare": 1,
     "Startups & Funding": 3,
-    "Security": 5,
+    "Security": 6,
     "Hardware & Gadgets": 6,
-    "AI / ML": 7,
+    "AI / ML": 6,
     "Fitness": 6,
     "Robotics": 1,
     "Science": 5,
@@ -105,6 +105,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/investing this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vi8ibp",
+      "title": "tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open",
+      "link": "https://www.reddit.com/r/netsec/comments/1vi8ibp/tldv_too_lazy_didnt_validate_181874_meetings_left/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/netsec · community knowledge",
+      "content_type": "post",
+      "author": "u/kochurshak · r/netsec",
+      "handle": "netsec",
+      "org": "r/netsec",
+      "platform": "reddit",
+      "published": "2026-08-07T18:23:05.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/netsec"
+      ],
+      "summary": "The meetings collection has no tenant isolation. Any authenticated tl;dv user can query every meeting across every account on the platform. Each meeting record hands you the creator&#39;s email address, the conference ID (which is a joinable Google Meet or Teams room), the provider, the recording status, and…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/netsec this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1403,46 +1442,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/nutrition this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vfcvog",
-      "title": "This robot never loses at rock, paper, scissors game.",
-      "link": "https://www.reddit.com/r/artificial/comments/1vfcvog/this_robot_never_loses_at_rock_paper_scissors_game/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/artificial · community knowledge",
-      "content_type": "post",
-      "author": "u/Left-Hotel904 · r/artificial",
-      "handle": "artificial",
-      "org": "r/artificial",
-      "platform": "reddit",
-      "published": "2026-08-04T15:02:31.000Z",
-      "image": "https://external-preview.redd.it/MnlsaDh0b3poZGhoMdll3RRGA5eScmEB5PO5Gn6Crv4Zqoq-Oe8L0ztWJ2k-.png?width=640&crop=smart&auto=webp&s=477a5bd859046e838260d89f9960b199725a8e52",
-      "thumbnail": "https://external-preview.redd.it/MnlsaDh0b3poZGhoMdll3RRGA5eScmEB5PO5Gn6Crv4Zqoq-Oe8L0ztWJ2k-.png?width=640&crop=smart&auto=webp&s=477a5bd859046e838260d89f9960b199725a8e52",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/artificial"
-      ],
-      "summary": "This robot never loses at rock, paper, scissors game.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/artificial this week"
       ],
       "metrics": {
         "likes": 0,
