@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-08T16:38:56.465Z",
+  "generated_at": "2026-08-08T17:35:30.205Z",
   "handles": [
-    "OpenAI",
-    "GoogleDeepMind",
     "nvidia",
+    "GoogleDeepMind",
+    "OpenAI",
     "AIatMeta",
     "AnthropicAI",
     "elonmusk",
@@ -11,6 +11,48 @@
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2086040693596659932",
+      "title": "Armenia and Kazakhstan with @FirebirdCloudAI are building the infrastructure to create intelligence at home, powered by the NVIDIA DSX platform. 📽️ Hear from @JensenHuang on this important milestone…",
+      "link": "https://x.com/nvidia/status/2086040693596659932",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-08-08T10:43:52.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "Armenia and Kazakhstan with @FirebirdCloudAI are building the infrastructure to create intelligence at home, powered by the NVIDIA DSX platform. 📽️ Hear from @JensenHuang on this important milestone for the CIS region. https://nvda.ws/4wiOu58",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 74,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "casual tone (this)",
+        "tech substance (platform)",
+        "links to a source"
+      ],
+      "metrics": {
+        "likes": 397,
+        "retweets": 58,
+        "replies": 39,
+        "likes_h": "397"
+      },
+      "engagement": 552,
+      "hot": false
+    },
     {
       "id": "x_2085801349866729975",
       "title": "After evaluating one of our upcoming models, Astra, we're treating it as our first \"critical\" model for cybersecurity under our Preparedness Framework. This is a scenario we've planned for, and we're…",
@@ -82,15 +124,16 @@
       "sentiment_score": -0.5,
       "reasons": [
         "report-worthy",
-        "tech substance (gemini, robotics)"
+        "tech substance (gemini, robotics)",
+        "high engagement (717 likes)"
       ],
       "metrics": {
-        "likes": 638,
-        "retweets": 95,
-        "replies": 73,
-        "likes_h": "638"
+        "likes": 717,
+        "retweets": 100,
+        "replies": 82,
+        "likes_h": "717"
       },
-      "engagement": 901,
+      "engagement": 999,
       "hot": false
     },
     {
@@ -127,12 +170,12 @@
         "high engagement (2.2K likes)"
       ],
       "metrics": {
-        "likes": 2191,
-        "retweets": 252,
-        "replies": 86,
+        "likes": 2229,
+        "retweets": 256,
+        "replies": 87,
         "likes_h": "2.2K"
       },
-      "engagement": 2781,
+      "engagement": 2828,
       "hot": false
     },
     {
@@ -252,12 +295,12 @@
         "tech substance (models, nemotron)"
       ],
       "metrics": {
-        "likes": 296,
-        "retweets": 37,
-        "replies": 60,
-        "likes_h": "296"
+        "likes": 319,
+        "retweets": 39,
+        "replies": 62,
+        "likes_h": "319"
       },
-      "engagement": 430,
+      "engagement": 459,
       "hot": false
     },
     {
@@ -290,16 +333,16 @@
       "reasons": [
         "report-worthy",
         "tech substance (model, state-of-the-art)",
-        "high engagement (958 likes)",
+        "high engagement (990 likes)",
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 958,
-        "retweets": 115,
-        "replies": 84,
-        "likes_h": "958"
+        "likes": 990,
+        "retweets": 122,
+        "replies": 85,
+        "likes_h": "990"
       },
-      "engagement": 1272,
+      "engagement": 1319,
       "hot": false
     },
     {
@@ -334,12 +377,12 @@
         "tech substance (models)"
       ],
       "metrics": {
-        "likes": 301,
+        "likes": 303,
         "retweets": 40,
-        "replies": 41,
-        "likes_h": "301"
+        "replies": 42,
+        "likes_h": "303"
       },
-      "engagement": 422,
+      "engagement": 425,
       "hot": false
     },
     {
@@ -461,12 +504,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 1030,
-        "retweets": 145,
+        "likes": 1033,
+        "retweets": 144,
         "replies": 52,
         "likes_h": "1K"
       },
-      "engagement": 1372,
+      "engagement": 1373,
       "hot": false
     },
     {
@@ -1242,12 +1285,12 @@
         "high engagement (1.1K likes)"
       ],
       "metrics": {
-        "likes": 1142,
+        "likes": 1143,
         "retweets": 164,
         "replies": 81,
         "likes_h": "1.1K"
       },
-      "engagement": 1551,
+      "engagement": 1552,
       "hot": false
     },
     {
@@ -1289,50 +1332,6 @@
         "likes_h": "2.2K"
       },
       "engagement": 2550,
-      "hot": false
-    },
-    {
-      "id": "x_2082878168764207230",
-      "title": "Along with the price reduction on GPT-5.6 Luna and Terra, Fast mode for GPT-5.6 Sol in the API delivers up to 2.5x the speed of Standard processing at 2x the Standard price. Fast mode gives API…",
-      "link": "https://x.com/OpenAI/status/2082878168764207230",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-07-30T17:17:08.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Product"
-      ],
-      "summary": "Along with the price reduction on GPT-5.6 Luna and Terra, Fast mode for GPT-5.6 Sol in the API delivers up to 2.5x the speed of Standard processing at 2x the Standard price. Fast mode gives API customers faster access to GPT-5.6 Sol, with no change in intelligence.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 73,
-      "sentiment": "positive",
-      "sentiment_score": 1,
-      "reasons": [
-        "report-worthy",
-        "reply / conversation",
-        "tech substance (gpt, api)",
-        "business signal (customers)",
-        "high engagement (1.7K likes)",
-        "concrete metrics"
-      ],
-      "metrics": {
-        "likes": 1685,
-        "retweets": 51,
-        "replies": 29,
-        "likes_h": "1.7K"
-      },
-      "engagement": 1816,
       "hot": false
     }
   ]
