@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-08T01:54:16.320Z",
+  "generated_at": "2026-08-08T03:40:22.482Z",
   "subs": [
     "MachineLearning",
     "Fitness",
-    "robotics",
+    "hardware",
     "cybersecurity",
     "investing",
     "gadgets",
@@ -11,25 +11,24 @@
     "netsec",
     "nutrition",
     "bodyweightfitness",
+    "robotics",
     "science",
-    "hardware",
     "Futurology",
     "singularity",
     "programming",
     "longevity",
     "LocalLLaMA",
-    "SkincareAddiction",
-    "startups"
+    "SkincareAddiction"
   ],
   "count": 36,
   "by_category": {
     "Security": 5,
-    "Startups & Funding": 3,
-    "Hardware & Gadgets": 5,
-    "AI / ML": 5,
+    "Startups & Funding": 2,
+    "Hardware & Gadgets": 6,
+    "AI / ML": 6,
     "Fitness": 7,
     "Robotics": 1,
-    "Science": 7,
+    "Science": 6,
     "Coding & Dev Tools": 2,
     "Skincare": 1
   },
@@ -145,6 +144,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/gadgets this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vhob7n",
+      "title": "AMD acquires AI chip startup Taalas to boost inference performance by etching models into silicon",
+      "link": "https://www.reddit.com/r/hardware/comments/1vhob7n/amd_acquires_ai_chip_startup_taalas_to_boost/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/hardware · community knowledge",
+      "content_type": "post",
+      "author": "u/SirActionhaHAA · r/hardware",
+      "handle": "hardware",
+      "org": "r/hardware",
+      "platform": "reddit",
+      "published": "2026-08-07T02:34:48.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/hardware"
+      ],
+      "summary": "AMD acquires AI chip startup Taalas to boost inference performance by etching models into silicon",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/hardware this week"
       ],
       "metrics": {
         "likes": 0,
@@ -342,6 +380,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/robotics this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vh2gn1",
+      "title": "Round-Trip Consistency: Bidirectional Diffusion Models Can Predict Their Own Rollout Errors [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vh2gn1/roundtrip_consistency_bidirectional_diffusion/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/MachineLearning · community knowledge",
+      "content_type": "post",
+      "author": "u/Clean-Hovercraft5825 · r/MachineLearning",
+      "handle": "MachineLearning",
+      "org": "r/MachineLearning",
+      "platform": "reddit",
+      "published": "2026-08-06T12:10:36.000Z",
+      "image": "https://preview.redd.it/do9dnbn6xqhh1.jpeg?width=640&crop=smart&auto=webp&s=617d6a696d01fe6c1400dfe1a478504a401b02cf",
+      "thumbnail": "https://preview.redd.it/do9dnbn6xqhh1.jpeg?width=640&crop=smart&auto=webp&s=617d6a696d01fe6c1400dfe1a478504a401b02cf",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/MachineLearning"
+      ],
+      "summary": "Whether generating CELEBV-HQ videos or turbulent plasma fields (digital twins), autoregressive models (such as latent diffusion or flow models) accumulate error over long rollouts, yet at deployment there is no ground truth to measure against. I train a single conditional latent diffusion model that steps a dynamical…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/MachineLearning this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1363,86 +1441,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/bodyweightfitness this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vf5rfw",
-      "title": "A better way to deliver mitochondria into living cells",
-      "link": "https://www.reddit.com/r/longevity/comments/1vf5rfw/a_better_way_to_deliver_mitochondria_into_living/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/longevity · community knowledge",
-      "content_type": "post",
-      "author": "u/jimofoz · r/longevity",
-      "handle": "longevity",
-      "org": "r/longevity",
-      "platform": "reddit",
-      "published": "2026-08-04T09:48:09.000Z",
-      "image": "https://external-preview.redd.it/oEQHJkioXVZq0ZfpNjk3kwxSe9w-UsxvV6UVh71x8mI.jpeg?width=70&height=70&auto=webp&s=8574c60e0824d40c249eaa2f9735301e38724b4c",
-      "thumbnail": "https://external-preview.redd.it/oEQHJkioXVZq0ZfpNjk3kwxSe9w-UsxvV6UVh71x8mI.jpeg?width=70&height=70&auto=webp&s=8574c60e0824d40c249eaa2f9735301e38724b4c",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Longevity",
-      "categories": [
-        "Reddit",
-        "Science",
-        "Longevity",
-        "r/longevity"
-      ],
-      "summary": "A better way to deliver mitochondria into living cells",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/longevity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vf3z0d",
-      "title": "I can build anything. I have no idea how to get people to care (i will not promote)",
-      "link": "https://www.reddit.com/r/startups/comments/1vf3z0d/i_can_build_anything_i_have_no_idea_how_to_get/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/startups · community knowledge",
-      "content_type": "post",
-      "author": "u/Fragrant-Status-9634 · r/startups",
-      "handle": "startups",
-      "org": "r/startups",
-      "platform": "reddit",
-      "published": "2026-08-04T08:02:46.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/startups"
-      ],
-      "summary": "Spent months building something I genuinely believe in. The product works. I know it works because the few people who&#39;ve actually used it told me so without me asking them to be nice about it. The problem is I&#39;ve never been the guy who&#39;s good at the part that comes after building. Posting about it feels…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/startups this week"
       ],
       "metrics": {
         "likes": 0,
