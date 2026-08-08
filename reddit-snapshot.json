@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-08-08T19:36:38.524Z",
+  "generated_at": "2026-08-08T20:37:07.835Z",
   "subs": [
     "MachineLearning",
-    "science",
-    "netsec",
+    "LocalLLaMA",
+    "running",
+    "startups",
     "SkincareAddiction",
     "investing",
+    "netsec",
     "cybersecurity",
     "gadgets",
     "hardware",
@@ -13,21 +15,21 @@
     "nutrition",
     "bodyweightfitness",
     "robotics",
+    "science",
     "Futurology",
     "singularity",
     "programming",
     "Fitness",
-    "longevity",
-    "LocalLLaMA"
+    "longevity"
   ],
   "count": 36,
   "by_category": {
     "Skincare": 1,
-    "Startups & Funding": 3,
+    "Startups & Funding": 4,
     "Security": 6,
     "Hardware & Gadgets": 6,
     "AI / ML": 6,
-    "Fitness": 6,
+    "Fitness": 5,
     "Robotics": 1,
     "Science": 5,
     "Coding & Dev Tools": 2
@@ -498,6 +500,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/robotics this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vh6kgj",
+      "title": "I traced the \"9 out of 10 startups fail\" stat to its source. There isn't one. (i will not promote)",
+      "link": "https://www.reddit.com/r/startups/comments/1vh6kgj/i_traced_the_9_out_of_10_startups_fail_stat_to/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/startups · community knowledge",
+      "content_type": "post",
+      "author": "u/popcornjebus · r/startups",
+      "handle": "startups",
+      "org": "r/startups",
+      "platform": "reddit",
+      "published": "2026-08-06T14:56:06.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/startups"
+      ],
+      "summary": "Everyone in this community repeats the same number. Nine out of ten startups fail. We say it like it&#39;s gravity. I have a mental tick where if something doesn&#39;t make sense I can&#39;t let it go. So I went looking for where the number actually comes from. It got worse the deeper I dug. The most-linked source is…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/startups this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1402,46 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/programming this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vfj6mb",
-      "title": "Do you need to be concerned about pesticides for frozen produce?",
-      "link": "https://www.reddit.com/r/nutrition/comments/1vfj6mb/do_you_need_to_be_concerned_about_pesticides_for/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/nutrition · community knowledge",
-      "content_type": "post",
-      "author": "u/Extreme-Ad7469 · r/nutrition",
-      "handle": "nutrition",
-      "org": "r/nutrition",
-      "platform": "reddit",
-      "published": "2026-08-04T18:45:32.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Nutrition",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "Nutrition",
-        "r/nutrition"
-      ],
-      "summary": "People say frozen is healthier but if the frozen fruits/veg are frozen right away doesn&#39;t that include pesticides? Do you rinse your frozen fruit/veg? &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/nutrition this week"
       ],
       "metrics": {
         "likes": 0,
