@@ -1,9 +1,10 @@
 {
-  "generated_at": "2026-08-08T03:38:09.170Z",
+  "generated_at": "2026-08-08T05:01:50.601Z",
   "handles": [
-    "GoogleDeepMind",
-    "nvidia",
     "OpenAI",
+    "GoogleDeepMind",
+    "satyanadella",
+    "nvidia",
     "AIatMeta",
     "AnthropicAI",
     "elonmusk",
@@ -11,6 +12,48 @@
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2085801349866729975",
+      "title": "After evaluating one of our upcoming models, Astra, we're treating it as our first \"critical\" model for cybersecurity under our Preparedness Framework. This is a scenario we've planned for, and we're…",
+      "link": "https://x.com/OpenAI/status/2085801349866729975",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-08-07T18:52:48.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Product"
+      ],
+      "summary": "After evaluating one of our upcoming models, Astra, we're treating it as our first \"critical\" model for cybersecurity under our Preparedness Framework. This is a scenario we've planned for, and we're putting additional controls in place to ensure Astra's further development",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 67,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "casual tone (this)",
+        "tech substance (model, models)",
+        "high engagement (7.4K likes)"
+      ],
+      "metrics": {
+        "likes": 7423,
+        "retweets": 624,
+        "replies": 618,
+        "likes_h": "7.4K"
+      },
+      "engagement": 9289,
+      "hot": false
+    },
     {
       "id": "x_2085737848318124083",
       "title": "We sat down with Apollo 2 to talk about what it's really like running on Gemini Robotics 2. 🤖",
@@ -35,7 +78,7 @@
       "summary": "We sat down with Apollo 2 to talk about what it's really like running on Gemini Robotics 2. 🤖",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 80,
+      "worthiness_score": 82,
       "sentiment": "negative",
       "sentiment_score": -0.5,
       "reasons": [
@@ -43,12 +86,12 @@
         "tech substance (gemini, robotics)"
       ],
       "metrics": {
-        "likes": 346,
-        "retweets": 52,
-        "replies": 43,
-        "likes_h": "346"
+        "likes": 597,
+        "retweets": 85,
+        "replies": 66,
+        "likes_h": "597"
       },
-      "engagement": 493,
+      "engagement": 833,
       "hot": false
     },
     {
@@ -117,7 +160,7 @@
       "summary": "Plus and Pro users can access the updated version of GPT‑5.6 Sol in ChatGPT along with the new slider starting today. This version of GPT-5.6 Sol is for everyday chats, so it will only be available in the Chat experience in ChatGPT. The version of GPT-5.6 Sol that powers Work",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 60,
+      "worthiness_score": 61,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -125,15 +168,16 @@
         "reply / conversation",
         "casual tone (this)",
         "announcement language (starting today)",
-        "tech substance (gpt, version)"
+        "tech substance (gpt, version)",
+        "high engagement (1K likes)"
       ],
       "metrics": {
-        "likes": 682,
-        "retweets": 35,
-        "replies": 44,
-        "likes_h": "682"
+        "likes": 1012,
+        "retweets": 50,
+        "replies": 65,
+        "likes_h": "1K"
       },
-      "engagement": 796,
+      "engagement": 1177,
       "hot": false
     },
     {
@@ -166,15 +210,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (gpt, reasoning)",
-        "high engagement (12.7K likes)"
+        "high engagement (19.8K likes)"
       ],
       "metrics": {
-        "likes": 12697,
-        "retweets": 988,
-        "replies": 652,
-        "likes_h": "12.7K"
+        "likes": 19824,
+        "retweets": 1680,
+        "replies": 1094,
+        "likes_h": "19.8K"
       },
-      "engagement": 15325,
+      "engagement": 24278,
       "hot": true
     },
     {
@@ -247,16 +291,16 @@
       "reasons": [
         "report-worthy",
         "tech substance (model, state-of-the-art)",
-        "high engagement (874 likes)",
+        "high engagement (943 likes)",
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 874,
-        "retweets": 107,
-        "replies": 78,
-        "likes_h": "874"
+        "likes": 943,
+        "retweets": 115,
+        "replies": 82,
+        "likes_h": "943"
       },
-      "engagement": 1166,
+      "engagement": 1255,
       "hot": false
     },
     {
@@ -496,15 +540,15 @@
       "sentiment_score": 0,
       "reasons": [
         "report-worthy",
-        "high engagement (3.9K likes)"
+        "high engagement (4K likes)"
       ],
       "metrics": {
-        "likes": 3946,
-        "retweets": 380,
-        "replies": 498,
-        "likes_h": "3.9K"
+        "likes": 3998,
+        "retweets": 383,
+        "replies": 503,
+        "likes_h": "4K"
       },
-      "engagement": 5204,
+      "engagement": 5267,
       "hot": false
     },
     {
@@ -741,15 +785,16 @@
         "report-worthy",
         "reply / conversation",
         "tech substance (gpt)",
-        "links to a source"
+        "links to a source",
+        "high engagement (839 likes)"
       ],
       "metrics": {
-        "likes": 835,
-        "retweets": 54,
-        "replies": 43,
-        "likes_h": "835"
+        "likes": 839,
+        "retweets": 55,
+        "replies": 46,
+        "likes_h": "839"
       },
-      "engagement": 986,
+      "engagement": 995,
       "hot": false
     },
     {
@@ -783,16 +828,16 @@
         "report-worthy",
         "casual tone (this)",
         "tech substance (model, gpt, reasoning)",
-        "high engagement (10.9K likes)"
+        "high engagement (11K likes)"
       ],
       "metrics": {
-        "likes": 10915,
-        "retweets": 945,
-        "replies": 546,
-        "likes_h": "10.9K"
+        "likes": 10953,
+        "retweets": 955,
+        "replies": 554,
+        "likes_h": "11K"
       },
-      "engagement": 13351,
-      "hot": true
+      "engagement": 13417,
+      "hot": false
     },
     {
       "id": "x_2084352165464903730",
@@ -1198,12 +1243,12 @@
         "high engagement (1.1K likes)"
       ],
       "metrics": {
-        "likes": 1141,
+        "likes": 1142,
         "retweets": 164,
         "replies": 80,
         "likes_h": "1.1K"
       },
-      "engagement": 1549,
+      "engagement": 1550,
       "hot": false
     },
     {
@@ -1290,48 +1335,6 @@
       },
       "engagement": 1816,
       "hot": false
-    },
-    {
-      "id": "x_2082878156483219672",
-      "title": "We are committed to pushing the model frontier across cost efficiency, capability, and speed. Starting today, we are reducing prices for GPT-5.6 Luna by 80% and GPT-5.6 Terra by 20% , and offering a…",
-      "link": "https://x.com/OpenAI/status/2082878156483219672",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-07-30T17:17:05.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product launch",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Product launch"
-      ],
-      "summary": "We are committed to pushing the model frontier across cost efficiency, capability, and speed. Starting today, we are reducing prices for GPT-5.6 Luna by 80% and GPT-5.6 Terra by 20% , and offering a faster option for GPT-5.6 Sol in the API. Luna and Terra’s lower prices are",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 100,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "announcement language (starting today)",
-        "tech substance (model, gpt, api)",
-        "high engagement (19.2K likes)"
-      ],
-      "metrics": {
-        "likes": 19204,
-        "retweets": 1935,
-        "replies": 1305,
-        "likes_h": "19.2K"
-      },
-      "engagement": 24379,
-      "hot": true
     }
   ]
 }
