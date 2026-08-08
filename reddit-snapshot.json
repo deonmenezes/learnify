@@ -1,14 +1,15 @@
 {
-  "generated_at": "2026-08-08T22:36:26.819Z",
+  "generated_at": "2026-08-08T23:35:51.433Z",
   "subs": [
     "MachineLearning",
-    "longevity",
-    "hardware",
+    "singularity",
     "SkincareAddiction",
+    "longevity",
     "investing",
     "netsec",
     "cybersecurity",
     "gadgets",
+    "hardware",
     "artificial",
     "nutrition",
     "bodyweightfitness",
@@ -16,19 +17,17 @@
     "startups",
     "science",
     "Futurology",
-    "singularity",
     "programming",
-    "Fitness",
-    "LocalLLaMA"
+    "Fitness"
   ],
   "count": 36,
   "by_category": {
     "Science": 6,
-    "Skincare": 1,
+    "Skincare": 2,
     "Startups & Funding": 4,
-    "Security": 6,
-    "Hardware & Gadgets": 6,
+    "Security": 5,
     "AI / ML": 6,
+    "Hardware & Gadgets": 6,
     "Fitness": 5,
     "Robotics": 1,
     "Coding & Dev Tools": 1
@@ -88,8 +87,8 @@
       "org": "r/SkincareAddiction",
       "platform": "reddit",
       "published": "2026-08-07T23:01:09.000Z",
-      "image": null,
-      "thumbnail": null,
+      "image": "https://preview.redd.it/cmr8xch5a1ih1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=14e3c78a227e7abb093bf6e0ae6588a87c2059ae",
+      "thumbnail": "https://preview.redd.it/cmr8xch5a1ih1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=14e3c78a227e7abb093bf6e0ae6588a87c2059ae",
       "section": "Skincare",
       "category": "Skincare",
       "genre": "Skincare",
@@ -99,6 +98,45 @@
         "r/SkincareAddiction"
       ],
       "summary": "First two pics are two years ago. I’ve been through a lot since then, a round of antibiotics which helped, but it came back a year later. In the past 6 months did a couple rounds of TCA cool peels (environ 5%) in February and March. End of March started on tretinoin .25% (pm) and azelaic acid (am). No other irritants,…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/SkincareAddiction this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vib303",
+      "title": "[Routine help] I’m not sure if this is a fake post but how does one achieve this",
+      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1vib303/routine_help_im_not_sure_if_this_is_a_fake_post/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/SkincareAddiction · community knowledge",
+      "content_type": "post",
+      "author": "u/More-Journalist1748 · r/SkincareAddiction",
+      "handle": "SkincareAddiction",
+      "org": "r/SkincareAddiction",
+      "platform": "reddit",
+      "published": "2026-08-07T19:59:30.000Z",
+      "image": "https://preview.redd.it/x10uci2rd0ih1.jpeg?width=640&crop=smart&auto=webp&s=7fc2d911ff56ae0fb87cbef9795f40906439ec81",
+      "thumbnail": "https://preview.redd.it/x10uci2rd0ih1.jpeg?width=640&crop=smart&auto=webp&s=7fc2d911ff56ae0fb87cbef9795f40906439ec81",
+      "section": "Skincare",
+      "category": "Skincare",
+      "genre": "Skincare",
+      "categories": [
+        "Reddit",
+        "Skincare",
+        "r/SkincareAddiction"
+      ],
+      "summary": "I’m not sure if this is a fake post but how does one achieve this I have zero idea about this so I’d appreciate some tips and product recommendations and explaining it to me like I’m 5 years old thank u in advance I don’t really do anything besides… showering and shaving , occasional cheap creams, I’m ready to commit…",
       "is_social": true,
       "report_worthy": true,
       "worthiness_score": 62,
@@ -264,6 +302,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/investing this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vht97z",
+      "title": "How they’re treating Hank Green for using AI is disgusting and I’ve shifted my view of AI as well.",
+      "link": "https://www.reddit.com/r/singularity/comments/1vht97z/how_theyre_treating_hank_green_for_using_ai_is/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/singularity · community knowledge",
+      "content_type": "post",
+      "author": "u/BlueAndYellowTowels · r/singularity",
+      "handle": "singularity",
+      "org": "r/singularity",
+      "platform": "reddit",
+      "published": "2026-08-07T06:54:39.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/singularity"
+      ],
+      "summary": "Recently a YouTube creator, Hank Green, was found to have used AI in his work on the YouTube channel Vlog brothers. The channel itself is fairly well known. Oriented towards education, optimism, uplift and just… all around good vibes for the internet as a whole. Hank was a huge proponent of education and knowledge and…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/singularity this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1365,85 +1443,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vfpmhg",
-      "title": "Bugtraq is back 🥹",
-      "link": "https://www.reddit.com/r/netsec/comments/1vfpmhg/bugtraq_is_back/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/netsec · community knowledge",
-      "content_type": "post",
-      "author": "u/loselasso · r/netsec",
-      "handle": "netsec",
-      "org": "r/netsec",
-      "platform": "reddit",
-      "published": "2026-08-04T22:48:37.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/netsec"
-      ],
-      "summary": "Bugtraq is back 🥹",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/netsec this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vfl525",
-      "title": "Kimi K3 full model running on 16x GB10 cluster at 20+tps",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1vfl525/kimi_k3_full_model_running_on_16x_gb10_cluster_at/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/LocalLLaMA · community knowledge",
-      "content_type": "post",
-      "author": "u/ciprianveg · r/LocalLLaMA",
-      "handle": "LocalLLaMA",
-      "org": "r/LocalLLaMA",
-      "platform": "reddit",
-      "published": "2026-08-04T19:56:16.000Z",
-      "image": "https://preview.redd.it/x4w1912fyehh1.jpeg?width=640&crop=smart&auto=webp&s=8280c2baf350c6319c3be3beea76678c96e14967",
-      "thumbnail": "https://preview.redd.it/x4w1912fyehh1.jpeg?width=640&crop=smart&auto=webp&s=8280c2baf350c6319c3be3beea76678c96e14967",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/LocalLLaMA"
-      ],
-      "summary": "Kimi K3 full model running on 16x GB10 cluster at 20+tps average (llama-benchy coherent corpus) 38tps peak, 750tps prefill. This is the first run of full k3 with dspark on my cluster. I will be doing some tests and try tp speed this up. As soon as it looks ready I&#39;ll publish the vllm image and instructions.…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/LocalLLaMA this week"
       ],
       "metrics": {
         "likes": 0,
