@@ -1,10 +1,9 @@
 {
-  "generated_at": "2026-08-08T07:02:10.107Z",
+  "generated_at": "2026-08-08T07:57:54.412Z",
   "subs": [
     "MachineLearning",
-    "LocalLLaMA",
-    "bodyweightfitness",
-    "startups",
+    "singularity",
+    "SkincareAddiction",
     "investing",
     "cybersecurity",
     "gadgets",
@@ -12,26 +11,67 @@
     "artificial",
     "netsec",
     "nutrition",
+    "bodyweightfitness",
     "robotics",
     "science",
     "Futurology",
-    "singularity",
     "programming",
     "Fitness",
-    "longevity"
+    "longevity",
+    "LocalLLaMA"
   ],
   "count": 36,
   "by_category": {
+    "Skincare": 1,
     "Startups & Funding": 3,
     "Security": 5,
     "Hardware & Gadgets": 6,
     "AI / ML": 7,
     "Fitness": 6,
     "Robotics": 1,
-    "Science": 6,
+    "Science": 5,
     "Coding & Dev Tools": 2
   },
   "articles": [
+    {
+      "id": "reddit_1vifkgi",
+      "title": "Tretinoin is the GOAT [acne]",
+      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1vifkgi/tretinoin_is_the_goat_acne/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/SkincareAddiction · community knowledge",
+      "content_type": "post",
+      "author": "u/hpdandy · r/SkincareAddiction",
+      "handle": "SkincareAddiction",
+      "org": "r/SkincareAddiction",
+      "platform": "reddit",
+      "published": "2026-08-07T23:01:09.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Skincare",
+      "category": "Skincare",
+      "genre": "Skincare",
+      "categories": [
+        "Reddit",
+        "Skincare",
+        "r/SkincareAddiction"
+      ],
+      "summary": "First two pics are two years ago. I’ve been through a lot since then, a round of antibiotics which helped, but it came back a year later. In the past 6 months did a couple rounds of TCA cool peels (environ 5%) in February and March. End of March started on tretinoin .25% (pm) and azelaic acid (am). No other irritants,…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/SkincareAddiction this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1vi8ilo",
       "title": "Airbnb earned interest on $12.2 billion last Q ...",
@@ -1403,45 +1443,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/artificial this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vfcb5i",
-      "title": "Analysis of 97,220 people across 66 countries tested 200+ societal factors and found the 'communitarian' path to happiness — societies where people are enabled to boost each other's happiness — significantly outperforms the individualistic 'take care of your own happiness' approach",
-      "link": "https://www.reddit.com/r/science/comments/1vfcb5i/analysis_of_97220_people_across_66_countries/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/science · community knowledge",
-      "content_type": "post",
-      "author": "u/andmario_com · r/science",
-      "handle": "science",
-      "org": "r/science",
-      "platform": "reddit",
-      "published": "2026-08-04T14:41:41.000Z",
-      "image": "https://external-preview.redd.it/ndmNZPxenB6IH06CklngAd-bgpAzuIug8l1vtPs7EfU.jpeg?width=640&crop=smart&auto=webp&s=9a4f1bd8a45fe9762ee209b6afcd6e4d1cc4b40e",
-      "thumbnail": "https://external-preview.redd.it/ndmNZPxenB6IH06CklngAd-bgpAzuIug8l1vtPs7EfU.jpeg?width=640&crop=smart&auto=webp&s=9a4f1bd8a45fe9762ee209b6afcd6e4d1cc4b40e",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/science"
-      ],
-      "summary": "Analysis of 97,220 people across 66 countries tested 200+ societal factors and found the 'communitarian' path to happiness — societies where people are enabled to boost each other's happiness — significantly outperforms the individualistic 'take care of your own happiness' approach",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/science this week"
       ],
       "metrics": {
         "likes": 0,
