@@ -1,34 +1,34 @@
 {
-  "generated_at": "2026-08-09T09:46:36.006Z",
+  "generated_at": "2026-08-09T10:41:58.801Z",
   "subs": [
     "MachineLearning",
-    "Futurology",
-    "netsec",
+    "artificial",
+    "nutrition",
     "robotics",
+    "netsec",
     "longevity",
     "SkincareAddiction",
     "investing",
     "hardware",
     "cybersecurity",
-    "nutrition",
     "singularity",
     "gadgets",
-    "artificial",
     "bodyweightfitness",
     "startups",
     "science",
+    "Futurology",
     "programming"
   ],
   "count": 36,
   "by_category": {
     "Robotics": 2,
-    "Security": 6,
+    "AI / ML": 7,
+    "Security": 5,
     "Science": 5,
     "Skincare": 2,
     "Startups & Funding": 4,
-    "Hardware & Gadgets": 7,
+    "Hardware & Gadgets": 6,
     "Fitness": 4,
-    "AI / ML": 5,
     "Coding & Dev Tools": 1
   },
   "articles": [
@@ -64,6 +64,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/robotics this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vizcs8",
+      "title": "Chinese LLMs dominate this week's top charts",
+      "link": "https://www.reddit.com/r/artificial/comments/1vizcs8/chinese_llms_dominate_this_weeks_top_charts/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/artificial · community knowledge",
+      "content_type": "post",
+      "author": "u/Asleep-Television-24 · r/artificial",
+      "handle": "artificial",
+      "org": "r/artificial",
+      "platform": "reddit",
+      "published": "2026-08-08T15:48:29.000Z",
+      "image": "https://preview.redd.it/699df5lv96ih1.jpeg?width=640&crop=smart&auto=webp&s=8ebff29808172080142b7b2574c6bd214e9e950e",
+      "thumbnail": "https://preview.redd.it/699df5lv96ih1.jpeg?width=640&crop=smart&auto=webp&s=8ebff29808172080142b7b2574c6bd214e9e950e",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/artificial"
+      ],
+      "summary": "Source: https://openrouter.ai/rankings &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/artificial this week"
       ],
       "metrics": {
         "likes": 0,
@@ -143,6 +183,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/longevity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vigmw3",
+      "title": "Learned the term \"context poisoning\" today and now I can't stop noticing it",
+      "link": "https://www.reddit.com/r/artificial/comments/1vigmw3/learned_the_term_context_poisoning_today_and_now/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/artificial · community knowledge",
+      "content_type": "post",
+      "author": "u/ClickOk5811 · r/artificial",
+      "handle": "artificial",
+      "org": "r/artificial",
+      "platform": "reddit",
+      "published": "2026-08-07T23:49:24.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/artificial"
+      ],
+      "summary": "Someone explained this to me in a comment thread and it&#39;s been rattling around in my head since. The idea: in a long conversation, if the model says something wrong and you correct it, that correction doesn&#39;t necessarily erase the wrong idea&#39;s influence. The tokens around the mistake, including the…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/artificial this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1363,84 +1443,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/hardware this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vg37sw",
-      "title": "Memory capacity for all of 2027 has reportedly been booked and sold, with no more DRAM or HBM available",
-      "link": "https://www.reddit.com/r/hardware/comments/1vg37sw/memory_capacity_for_all_of_2027_has_reportedly/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/hardware · community knowledge",
-      "content_type": "post",
-      "author": "u/sr_local · r/hardware",
-      "handle": "hardware",
-      "org": "r/hardware",
-      "platform": "reddit",
-      "published": "2026-08-05T10:11:54.000Z",
-      "image": "https://external-preview.redd.it/EhQvEy1SOnFNoYPvn804gotkEs4b_VoxxsiSIS-vU6g.jpeg?width=640&crop=smart&auto=webp&s=4718627a85bd8fef53cdd3753ec276b374600233",
-      "thumbnail": "https://external-preview.redd.it/EhQvEy1SOnFNoYPvn804gotkEs4b_VoxxsiSIS-vU6g.jpeg?width=640&crop=smart&auto=webp&s=4718627a85bd8fef53cdd3753ec276b374600233",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/hardware"
-      ],
-      "summary": "DigiTimes reports industry insiders say Samsung, SK hynix, and Micron have sold all DRAM and HBM capacity for 2027, driven by AI demand and long‑term agreements. DRAM for PCs, laptops, and smartphones will be much tighter in 2027, and NAND supply is limited but may be fully booked by end of August 2026. &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/hardware this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vg20wg",
-      "title": "New Linux Bridge STP Vulnerability",
-      "link": "https://www.reddit.com/r/netsec/comments/1vg20wg/new_linux_bridge_stp_vulnerability/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/netsec · community knowledge",
-      "content_type": "post",
-      "author": "u/SSDisclosure · r/netsec",
-      "handle": "netsec",
-      "org": "r/netsec",
-      "platform": "reddit",
-      "published": "2026-08-05T09:04:29.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/netsec"
-      ],
-      "summary": "A use-after-free vulnerability in the Linux kernel bridge (net/bridge) Spanning Tree Protocol (STP) implementation. A bridge that is administratively down while kernel STP is enabled, together with a port driven into the LEARNING state, arms periodic STP timers without an IFF_UP guard. The teardown path taken by…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/netsec this week"
       ],
       "metrics": {
         "likes": 0,
