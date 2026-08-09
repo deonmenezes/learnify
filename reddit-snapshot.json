@@ -1,16 +1,17 @@
 {
-  "generated_at": "2026-08-09T10:41:58.801Z",
+  "generated_at": "2026-08-09T11:36:21.500Z",
   "subs": [
     "MachineLearning",
-    "artificial",
-    "nutrition",
+    "Fitness",
+    "hardware",
     "robotics",
+    "artificial",
     "netsec",
     "longevity",
     "SkincareAddiction",
     "investing",
-    "hardware",
     "cybersecurity",
+    "nutrition",
     "singularity",
     "gadgets",
     "bodyweightfitness",
@@ -23,11 +24,11 @@
   "by_category": {
     "Robotics": 2,
     "AI / ML": 7,
+    "Hardware & Gadgets": 6,
     "Security": 5,
     "Science": 5,
     "Skincare": 2,
     "Startups & Funding": 4,
-    "Hardware & Gadgets": 6,
     "Fitness": 4,
     "Coding & Dev Tools": 1
   },
@@ -104,6 +105,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/artificial this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1viyn0c",
+      "title": "We tested the impact of SSD speed on gaming performance in 11 titles — we analyzed from SATA to PCIe 5.0 to see whether upgrading to a faster NVMe SSD would have an impact",
+      "link": "https://www.reddit.com/r/hardware/comments/1viyn0c/we_tested_the_impact_of_ssd_speed_on_gaming/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/hardware · community knowledge",
+      "content_type": "post",
+      "author": "u/RTcore · r/hardware",
+      "handle": "hardware",
+      "org": "r/hardware",
+      "platform": "reddit",
+      "published": "2026-08-08T15:18:38.000Z",
+      "image": "https://external-preview.redd.it/mIIuGiQertAoWbP-m4ecYgfpTodHNb3sSbI188ckl9E.jpeg?width=640&crop=smart&auto=webp&s=6c87194d5bf6eb617e0d97d262facba277e846a8",
+      "thumbnail": "https://external-preview.redd.it/mIIuGiQertAoWbP-m4ecYgfpTodHNb3sSbI188ckl9E.jpeg?width=640&crop=smart&auto=webp&s=6c87194d5bf6eb617e0d97d262facba277e846a8",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/hardware"
+      ],
+      "summary": "We tested the impact of SSD speed on gaming performance in 11 titles — we analyzed from SATA to PCIe 5.0 to see whether upgrading to a faster NVMe SSD would have an impact",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/hardware this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1404,45 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/programming this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vg466e",
-      "title": "Microsoft just deleted Windows 11's 32GB RAM recommendation docs, as prices soar and it rushes to sell 8GB RAM PCs",
-      "link": "https://www.reddit.com/r/hardware/comments/1vg466e/microsoft_just_deleted_windows_11s_32gb_ram/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/hardware · community knowledge",
-      "content_type": "post",
-      "author": "u/Quantum-Coconut · r/hardware",
-      "handle": "hardware",
-      "org": "r/hardware",
-      "platform": "reddit",
-      "published": "2026-08-05T11:01:33.000Z",
-      "image": "https://external-preview.redd.it/cb2MeeL3ZLbuJAXl07DgaV6FVeyN44hRTjZl0dw8YiQ.jpeg?width=640&crop=smart&auto=webp&s=380bbf21cb854ac14e32822eacdfa37512d3748b",
-      "thumbnail": "https://external-preview.redd.it/cb2MeeL3ZLbuJAXl07DgaV6FVeyN44hRTjZl0dw8YiQ.jpeg?width=640&crop=smart&auto=webp&s=380bbf21cb854ac14e32822eacdfa37512d3748b",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/hardware"
-      ],
-      "summary": "Microsoft just deleted Windows 11's 32GB RAM recommendation docs, as prices soar and it rushes to sell 8GB RAM PCs",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/hardware this week"
       ],
       "metrics": {
         "likes": 0,
