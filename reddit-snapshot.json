@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-09T20:39:56.741Z",
+  "generated_at": "2026-08-09T21:39:25.527Z",
   "subs": [
     "MachineLearning",
-    "singularity",
-    "nutrition",
+    "longevity",
+    "hardware",
     "programming",
     "robotics",
     "cybersecurity",
     "artificial",
-    "hardware",
     "science",
     "netsec",
-    "longevity",
     "SkincareAddiction",
     "investing",
+    "nutrition",
+    "singularity",
     "gadgets",
     "bodyweightfitness",
     "startups",
@@ -22,17 +22,57 @@
   ],
   "count": 36,
   "by_category": {
+    "Science": 5,
     "Coding & Dev Tools": 1,
     "Robotics": 2,
     "Security": 6,
     "AI / ML": 5,
     "Hardware & Gadgets": 6,
-    "Science": 5,
     "Skincare": 2,
     "Startups & Funding": 4,
     "Fitness": 5
   },
   "articles": [
+    {
+      "id": "reddit_1vjrb1k",
+      "title": "Scientists Reversed Ovarian Aging in Mice by Blocking One Inflammatory Signal. The Same Signal Stiffens Organs Across the Body.",
+      "link": "https://www.reddit.com/r/longevity/comments/1vjrb1k/scientists_reversed_ovarian_aging_in_mice_by/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/longevity · community knowledge",
+      "content_type": "post",
+      "author": "u/dan_in_ca · r/longevity",
+      "handle": "longevity",
+      "org": "r/longevity",
+      "platform": "reddit",
+      "published": "2026-08-09T14:28:55.000Z",
+      "image": "https://external-preview.redd.it/TloCPQVrsh21jAMU_B2XEbVdV2l2DXYJkdl9C9HbLK8.png?width=640&crop=smart&auto=webp&s=b0e49e214a8904e38fdea0e46541a5cf76739499",
+      "thumbnail": "https://external-preview.redd.it/TloCPQVrsh21jAMU_B2XEbVdV2l2DXYJkdl9C9HbLK8.png?width=640&crop=smart&auto=webp&s=b0e49e214a8904e38fdea0e46541a5cf76739499",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Longevity",
+      "categories": [
+        "Reddit",
+        "Science",
+        "Longevity",
+        "r/longevity"
+      ],
+      "summary": "Scientists Reversed Ovarian Aging in Mice by Blocking One Inflammatory Signal. The Same Signal Stiffens Organs Across the Body.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/longevity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1vjketg",
       "title": "Assembly Hall of Shame: Racing to the bottom of CPU performance",
@@ -1403,45 +1443,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/running this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vgknnj",
-      "title": "Normal blood pressure, no diabetes, and not smoking in midlife may buy nearly 13 extra dementia-free years",
-      "link": "https://www.reddit.com/r/science/comments/1vgknnj/normal_blood_pressure_no_diabetes_and_not_smoking/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/science · community knowledge",
-      "content_type": "post",
-      "author": "u/Jxntb733 · r/science",
-      "handle": "science",
-      "org": "r/science",
-      "platform": "reddit",
-      "published": "2026-08-05T21:30:13.000Z",
-      "image": "https://external-preview.redd.it/vJIrghFI5O2e2FAMXIir91ihQjJ4u3cHy6CbWMJ1xzE.jpeg?width=640&crop=smart&auto=webp&s=6e5da63ef5c6ddc2c1a761d91a906b78b9d1038b",
-      "thumbnail": "https://external-preview.redd.it/vJIrghFI5O2e2FAMXIir91ihQjJ4u3cHy6CbWMJ1xzE.jpeg?width=640&crop=smart&auto=webp&s=6e5da63ef5c6ddc2c1a761d91a906b78b9d1038b",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/science"
-      ],
-      "summary": "Normal blood pressure, no diabetes, and not smoking in midlife may buy nearly 13 extra dementia-free years",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/science this week"
       ],
       "metrics": {
         "likes": 0,
