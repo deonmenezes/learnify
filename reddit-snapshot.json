@@ -1,36 +1,35 @@
 {
-  "generated_at": "2026-08-09T21:39:25.527Z",
+  "generated_at": "2026-08-09T22:38:35.510Z",
   "subs": [
     "MachineLearning",
+    "Futurology",
+    "netsec",
     "longevity",
-    "hardware",
     "programming",
     "robotics",
     "cybersecurity",
     "artificial",
+    "hardware",
     "science",
-    "netsec",
     "SkincareAddiction",
     "investing",
     "nutrition",
     "singularity",
     "gadgets",
     "bodyweightfitness",
-    "startups",
-    "Futurology",
-    "running"
+    "startups"
   ],
   "count": 36,
   "by_category": {
     "Science": 5,
     "Coding & Dev Tools": 1,
+    "Security": 7,
     "Robotics": 2,
-    "Security": 6,
     "AI / ML": 5,
     "Hardware & Gadgets": 6,
     "Skincare": 2,
     "Startups & Funding": 4,
-    "Fitness": 5
+    "Fitness": 4
   },
   "articles": [
     {
@@ -105,6 +104,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/programming this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vjfos6",
+      "title": "DEFCON: New Red Team Tactic",
+      "link": "https://www.reddit.com/r/netsec/comments/1vjfos6/defcon_new_red_team_tactic/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/netsec · community knowledge",
+      "content_type": "post",
+      "author": "u/Prize_Region5503 · r/netsec",
+      "handle": "netsec",
+      "org": "r/netsec",
+      "platform": "reddit",
+      "published": "2026-08-09T03:59:22.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/netsec"
+      ],
+      "summary": "Evil Fonts deceive a viewer by rendering a different letter than is actually on the disk. Evil Fonts can poison HTML, DOCX, PDFs, and anywhere else you can bring your own fonts. Works great in Windows corporate networks for bypassing security tooling, initial access through JavaScript free click fix (beats mitm web…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/netsec this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1404,45 +1442,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/cybersecurity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vgpu55",
-      "title": "Z2 and Heat: how to interpret HR data",
-      "link": "https://www.reddit.com/r/running/comments/1vgpu55/z2_and_heat_how_to_interpret_hr_data/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/running · community knowledge",
-      "content_type": "post",
-      "author": "u/_Sinann · r/running",
-      "handle": "running",
-      "org": "r/running",
-      "platform": "reddit",
-      "published": "2026-08-06T01:06:41.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/running"
-      ],
-      "summary": "I (25F) want to make sure I&#39;m understanding the point of low HR training for distance/endurance. It&#39;s pretty hot out west in the states right now, and I&#39;m not someone that will go run at 5 am so I&#39;m commonly running at 90+ degrees. My HR spikes to over 150 bpm very quickly at like a 13:00 minute mile.…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/running this week"
       ],
       "metrics": {
         "likes": 0,
