@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-09T14:42:12.245Z",
+  "generated_at": "2026-08-09T15:38:45.833Z",
   "subs": [
     "MachineLearning",
-    "bodyweightfitness",
-    "startups",
+    "programming",
+    "cybersecurity",
     "robotics",
     "artificial",
     "hardware",
@@ -12,24 +12,65 @@
     "longevity",
     "SkincareAddiction",
     "investing",
-    "cybersecurity",
     "nutrition",
     "singularity",
     "gadgets",
+    "bodyweightfitness",
+    "startups",
     "Futurology"
   ],
   "count": 36,
   "by_category": {
+    "Coding & Dev Tools": 1,
     "Robotics": 2,
-    "AI / ML": 7,
+    "Security": 6,
+    "AI / ML": 6,
     "Hardware & Gadgets": 6,
     "Science": 5,
-    "Security": 5,
     "Skincare": 2,
-    "Startups & Funding": 5,
+    "Startups & Funding": 4,
     "Fitness": 4
   },
   "articles": [
+    {
+      "id": "reddit_1vjketg",
+      "title": "Assembly Hall of Shame: Racing to the bottom of CPU performance",
+      "link": "https://www.reddit.com/r/programming/comments/1vjketg/assembly_hall_of_shame_racing_to_the_bottom_of/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/programming · community knowledge",
+      "content_type": "post",
+      "author": "u/f311a · r/programming",
+      "handle": "programming",
+      "org": "r/programming",
+      "platform": "reddit",
+      "published": "2026-08-09T08:27:04.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Coding & Dev Tools",
+      "category": "Coding & Dev Tools",
+      "genre": "Coding & Dev Tools",
+      "categories": [
+        "Reddit",
+        "Coding & Dev Tools",
+        "r/programming"
+      ],
+      "summary": "Assembly Hall of Shame: Racing to the bottom of CPU performance",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/programming this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1vj4oym",
       "title": "Built a Real-Time Underwater Image Processing System – 4K 60FPS Part2.",
@@ -62,6 +103,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/robotics this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vj0usx",
+      "title": "As many as five suicides in US Military cyber warfare unit in one month",
+      "link": "https://www.reddit.com/r/cybersecurity/comments/1vj0usx/as_many_as_five_suicides_in_us_military_cyber/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/cybersecurity · community knowledge",
+      "content_type": "post",
+      "author": "u/aristacat · r/cybersecurity",
+      "handle": "cybersecurity",
+      "org": "r/cybersecurity",
+      "platform": "reddit",
+      "published": "2026-08-08T16:49:31.000Z",
+      "image": "https://external-preview.redd.it/LPttGs1m7sPBZe-n3W9unVAoBcA4D0vMu1KVG0oTCFs.jpeg?width=640&crop=smart&auto=webp&s=3b40a3f7fca90e4fdd7d1750ee9c860837122937",
+      "thumbnail": "https://external-preview.redd.it/LPttGs1m7sPBZe-n3W9unVAoBcA4D0vMu1KVG0oTCFs.jpeg?width=640&crop=smart&auto=webp&s=3b40a3f7fca90e4fdd7d1750ee9c860837122937",
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/cybersecurity"
+      ],
+      "summary": "This is deeply disturbing. Wtf is going on there and why would this happen? &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/cybersecurity this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1362,86 +1442,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/singularity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vgf2l3",
-      "title": "The \"$1M AI Solopreneur\" Mystery: Does Anyone Actually Have Real Examples? (I will not promote)",
-      "link": "https://www.reddit.com/r/startups/comments/1vgf2l3/the_1m_ai_solopreneur_mystery_does_anyone/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/startups · community knowledge",
-      "content_type": "post",
-      "author": "u/jonquil27 · r/startups",
-      "handle": "startups",
-      "org": "r/startups",
-      "platform": "reddit",
-      "published": "2026-08-05T18:07:32.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/startups"
-      ],
-      "summary": "I keep seeing posts about solopreneurs making $1M+ with AI. Stripe did a whole report on it. But I can&#39;t figure out what they&#39;re actually doing. I&#39;m not being sarcastic. I genuinely don&#39;t know the use case. SaaS? Agencies? Selling courses? Consulting? I&#39;ve dug into some of these stories and they…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/startups this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vg7fcd",
-      "title": "Six years into AI research and I genuinely can't define \"understanding\" anymore",
-      "link": "https://www.reddit.com/r/artificial/comments/1vg7fcd/six_years_into_ai_research_and_i_genuinely_cant/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/artificial · community knowledge",
-      "content_type": "post",
-      "author": "u/NocturnalarityPod · r/artificial",
-      "handle": "artificial",
-      "org": "r/artificial",
-      "platform": "reddit",
-      "published": "2026-08-05T13:29:46.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/artificial"
-      ],
-      "summary": "I have been doing AI research for about six years now and I think im starting to lose the plot on what &quot;understanding&quot; even means anymore. Had a weird moment last week. I was reviewing a paper for a conference, standard stuff, some group claiming their model &quot;understands&quot; causal reasoning because…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/artificial this week"
       ],
       "metrics": {
         "likes": 0,
