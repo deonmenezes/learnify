@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-09T08:51:19.326Z",
+  "generated_at": "2026-08-09T09:46:36.006Z",
   "subs": [
     "MachineLearning",
-    "Fitness",
+    "Futurology",
+    "netsec",
     "robotics",
     "longevity",
     "SkincareAddiction",
     "investing",
-    "netsec",
     "hardware",
     "cybersecurity",
     "nutrition",
@@ -17,18 +17,17 @@
     "bodyweightfitness",
     "startups",
     "science",
-    "Futurology",
     "programming"
   ],
   "count": 36,
   "by_category": {
     "Robotics": 2,
+    "Security": 6,
     "Science": 5,
     "Skincare": 2,
     "Startups & Funding": 4,
-    "Security": 5,
     "Hardware & Gadgets": 7,
-    "Fitness": 5,
+    "Fitness": 4,
     "AI / ML": 5,
     "Coding & Dev Tools": 1
   },
@@ -65,6 +64,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/robotics this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1viux00",
+      "title": "DEF CON talk: 8 in 10 Banks in Belgium HATE This One Weird eID RCE",
+      "link": "https://www.reddit.com/r/netsec/comments/1viux00/def_con_talk_8_in_10_banks_in_belgium_hate_this/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/netsec · community knowledge",
+      "content_type": "post",
+      "author": "u/acorn222 · r/netsec",
+      "handle": "netsec",
+      "org": "r/netsec",
+      "platform": "reddit",
+      "published": "2026-08-08T12:36:20.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/netsec"
+      ],
+      "summary": "Hey everyone, I&#39;m OP here so feel free to ask questions &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/netsec this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1403,45 +1441,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/netsec this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vg1yc0",
-      "title": "Rant Wednesday - August 05, 2026",
-      "link": "https://www.reddit.com/r/Fitness/comments/1vg1yc0/rant_wednesday_august_05_2026/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/Fitness · community knowledge",
-      "content_type": "post",
-      "author": "u/AutoModerator · r/Fitness",
-      "handle": "Fitness",
-      "org": "r/Fitness",
-      "platform": "reddit",
-      "published": "2026-08-05T09:00:22.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/Fitness"
-      ],
-      "summary": "Welcome to Rant Wednesday: It’s your time to let your gym/fitness/nutrition related frustrations out! There is no guiding question to help stir up some rage-feels, feel free to fire at will, ranting about anything and everything that’s been pissing you off or getting on your nerves. Just don&#39;t forget that other…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/Fitness this week"
       ],
       "metrics": {
         "likes": 0,
