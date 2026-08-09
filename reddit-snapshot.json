@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-09T13:00:17.453Z",
+  "generated_at": "2026-08-09T13:56:40.855Z",
   "subs": [
     "MachineLearning",
-    "Fitness",
+    "science",
+    "netsec",
     "robotics",
     "artificial",
     "hardware",
-    "netsec",
     "longevity",
     "SkincareAddiction",
     "investing",
@@ -16,21 +16,18 @@
     "gadgets",
     "bodyweightfitness",
     "startups",
-    "science",
-    "Futurology",
-    "programming"
+    "Futurology"
   ],
   "count": 36,
   "by_category": {
     "Robotics": 2,
     "AI / ML": 7,
     "Hardware & Gadgets": 6,
+    "Science": 6,
     "Security": 5,
-    "Science": 5,
     "Skincare": 2,
     "Startups & Funding": 4,
-    "Fitness": 4,
-    "Coding & Dev Tools": 1
+    "Fitness": 4
   },
   "articles": [
     {
@@ -144,6 +141,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/hardware this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1viw7lf",
+      "title": "Brain scans reveal widespread structural and functional changes in patients following COVID-19 infection. The virus affects regions responsible for memory, emotion, and executive function, which may help explain the neurological symptoms many patients experience.",
+      "link": "https://www.reddit.com/r/science/comments/1viw7lf/brain_scans_reveal_widespread_structural_and/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/science · community knowledge",
+      "content_type": "post",
+      "author": "u/mvea · r/science",
+      "handle": "science",
+      "org": "r/science",
+      "platform": "reddit",
+      "published": "2026-08-08T13:35:11.000Z",
+      "image": "https://external-preview.redd.it/6W4uTF0IUJba4Wl9w_5veaSLTVifGBY_uQm_1zGXXbo.jpeg?width=640&crop=smart&auto=webp&s=7ac4720d72d7f4fd32d18be138ec49e4b91a0d55",
+      "thumbnail": "https://external-preview.redd.it/6W4uTF0IUJba4Wl9w_5veaSLTVifGBY_uQm_1zGXXbo.jpeg?width=640&crop=smart&auto=webp&s=7ac4720d72d7f4fd32d18be138ec49e4b91a0d55",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/science"
+      ],
+      "summary": "Brain scans reveal widespread structural and functional changes in patients following COVID-19 infection. The virus affects regions responsible for memory, emotion, and executive function, which may help explain the neurological symptoms many patients experience.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/science this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1405,45 +1441,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Futurology this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vg555b",
-      "title": "The rust programming language is adopting a new contributing policy",
-      "link": "https://www.reddit.com/r/programming/comments/1vg555b/the_rust_programming_language_is_adopting_a_new/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/programming · community knowledge",
-      "content_type": "post",
-      "author": "u/mareek · r/programming",
-      "handle": "programming",
-      "org": "r/programming",
-      "platform": "reddit",
-      "published": "2026-08-05T11:50:06.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Coding & Dev Tools",
-      "category": "Coding & Dev Tools",
-      "genre": "Coding & Dev Tools",
-      "categories": [
-        "Reddit",
-        "Coding & Dev Tools",
-        "r/programming"
-      ],
-      "summary": "The rust programming language is adopting a new contributing policy",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/programming this week"
       ],
       "metrics": {
         "likes": 0,
