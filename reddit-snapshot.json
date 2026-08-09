@@ -1,9 +1,10 @@
 {
-  "generated_at": "2026-08-09T16:42:56.198Z",
+  "generated_at": "2026-08-09T17:38:08.325Z",
   "subs": [
     "MachineLearning",
-    "singularity",
-    "nutrition",
+    "LocalLLaMA",
+    "running",
+    "startups",
     "programming",
     "robotics",
     "cybersecurity",
@@ -14,9 +15,10 @@
     "longevity",
     "SkincareAddiction",
     "investing",
+    "nutrition",
+    "singularity",
     "gadgets",
     "bodyweightfitness",
-    "startups",
     "Futurology"
   ],
   "count": 36,
@@ -24,12 +26,12 @@
     "Coding & Dev Tools": 1,
     "Robotics": 2,
     "Security": 6,
-    "AI / ML": 6,
+    "AI / ML": 5,
     "Hardware & Gadgets": 6,
     "Science": 5,
     "Skincare": 2,
     "Startups & Funding": 4,
-    "Fitness": 4
+    "Fitness": 5
   },
   "articles": [
     {
@@ -1371,6 +1373,45 @@
       }
     },
     {
+      "id": "reddit_1vgpu55",
+      "title": "Z2 and Heat: how to interpret HR data",
+      "link": "https://www.reddit.com/r/running/comments/1vgpu55/z2_and_heat_how_to_interpret_hr_data/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/running · community knowledge",
+      "content_type": "post",
+      "author": "u/_Sinann · r/running",
+      "handle": "running",
+      "org": "r/running",
+      "platform": "reddit",
+      "published": "2026-08-06T01:06:41.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/running"
+      ],
+      "summary": "I (25F) want to make sure I&#39;m understanding the point of low HR training for distance/endurance. It&#39;s pretty hot out west in the states right now, and I&#39;m not someone that will go run at 5 am so I&#39;m commonly running at 90+ degrees. My HR spikes to over 150 bpm very quickly at like a 13:00 minute mile.…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/running this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1vgknnj",
       "title": "Normal blood pressure, no diabetes, and not smoking in midlife may buy nearly 13 extra dementia-free years",
       "link": "https://www.reddit.com/r/science/comments/1vgknnj/normal_blood_pressure_no_diabetes_and_not_smoking/",
@@ -1402,46 +1443,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/science this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vghb3m",
-      "title": "Google Deepmind CEO Demis Hassabis steps down to become chair",
-      "link": "https://www.reddit.com/r/singularity/comments/1vghb3m/google_deepmind_ceo_demis_hassabis_steps_down_to/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/singularity · community knowledge",
-      "content_type": "post",
-      "author": "u/Full_Tangelo_7450 · r/singularity",
-      "handle": "singularity",
-      "org": "r/singularity",
-      "platform": "reddit",
-      "published": "2026-08-05T19:27:26.000Z",
-      "image": "https://preview.redd.it/r3t69ms6ylhh1.jpeg?width=640&crop=smart&auto=webp&s=e556a00b49d15f58a5faaf9da9208bfecb488d11",
-      "thumbnail": "https://preview.redd.it/r3t69ms6ylhh1.jpeg?width=640&crop=smart&auto=webp&s=e556a00b49d15f58a5faaf9da9208bfecb488d11",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/singularity"
-      ],
-      "summary": "Google Deepmind CEO Demis Hassabis steps down to become chair",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/singularity this week"
       ],
       "metrics": {
         "likes": 0,
