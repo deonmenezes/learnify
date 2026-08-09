@@ -1,22 +1,20 @@
 {
-  "generated_at": "2026-08-09T02:01:09.462Z",
+  "generated_at": "2026-08-09T03:52:23.100Z",
   "subs": [
     "MachineLearning",
-    "LocalLLaMA",
-    "running",
-    "startups",
     "longevity",
+    "hardware",
     "SkincareAddiction",
     "investing",
     "netsec",
     "cybersecurity",
     "singularity",
     "gadgets",
-    "hardware",
     "artificial",
     "nutrition",
     "bodyweightfitness",
     "robotics",
+    "startups",
     "science",
     "Futurology",
     "programming",
@@ -28,8 +26,8 @@
     "Skincare": 2,
     "Startups & Funding": 4,
     "Security": 5,
-    "AI / ML": 6,
-    "Hardware & Gadgets": 6,
+    "Hardware & Gadgets": 7,
+    "AI / ML": 5,
     "Fitness": 5,
     "Robotics": 1,
     "Coding & Dev Tools": 1
@@ -225,6 +223,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/netsec this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vi7eqk",
+      "title": "Exclusive: Apple is Scrambling for DRAM Weeks Ahead of Ultra, iPhone 18 Launch",
+      "link": "https://www.reddit.com/r/hardware/comments/1vi7eqk/exclusive_apple_is_scrambling_for_dram_weeks/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/hardware · community knowledge",
+      "content_type": "post",
+      "author": "u/FragmentedChicken · r/hardware",
+      "handle": "hardware",
+      "org": "r/hardware",
+      "platform": "reddit",
+      "published": "2026-08-07T17:43:20.000Z",
+      "image": "https://external-preview.redd.it/MMZEuxTmjqXyrLJVbf32Hbik93PP2mRBW4HG6bPW_-s.jpeg?width=640&crop=smart&auto=webp&s=ada1a9db18580320038d83fe06bb0287e8695fc9",
+      "thumbnail": "https://external-preview.redd.it/MMZEuxTmjqXyrLJVbf32Hbik93PP2mRBW4HG6bPW_-s.jpeg?width=640&crop=smart&auto=webp&s=ada1a9db18580320038d83fe06bb0287e8695fc9",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/hardware"
+      ],
+      "summary": "Exclusive: Apple is Scrambling for DRAM Weeks Ahead of Ultra, iPhone 18 Launch",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/hardware this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1405,46 +1442,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/bodyweightfitness this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vfrco1",
-      "title": "I Compressed Bad Apple into a 3MB Neural Network [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vfrco1/i_compressed_bad_apple_into_a_3mb_neural_network_p/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/MachineLearning · community knowledge",
-      "content_type": "post",
-      "author": "u/Which_Lie_8932 · r/MachineLearning",
-      "handle": "MachineLearning",
-      "org": "r/MachineLearning",
-      "platform": "reddit",
-      "published": "2026-08-05T00:01:48.000Z",
-      "image": "https://preview.redd.it/h5r0ybpz5ghh1.gif?frame=1&width=140&height=70&auto=webp&s=99152a6a4c15a1a51e20a696f3a52115ce3add98",
-      "thumbnail": "https://preview.redd.it/h5r0ybpz5ghh1.gif?frame=1&width=140&height=70&auto=webp&s=99152a6a4c15a1a51e20a696f3a52115ce3add98",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/MachineLearning"
-      ],
-      "summary": "I trained a small MLP to memorize the classic Bad Apple animation, ~2.7 billion pixels of video compressed into 790k parameters (3.2 MB float32, 1.6 MB float16). The network takes a 3D coordinate (t, y, x)- frame index and pixel position- and outputs a grayscale value between 0 and 1. To &quot;play&quot; the video,…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/MachineLearning this week"
       ],
       "metrics": {
         "likes": 0,
