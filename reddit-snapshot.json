@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-09T05:12:57.865Z",
+  "generated_at": "2026-08-09T06:13:15.463Z",
   "subs": [
     "MachineLearning",
-    "singularity",
-    "nutrition",
+    "bodyweightfitness",
+    "robotics",
     "longevity",
     "SkincareAddiction",
     "investing",
     "netsec",
     "hardware",
     "cybersecurity",
+    "nutrition",
+    "singularity",
     "gadgets",
     "artificial",
-    "bodyweightfitness",
-    "robotics",
     "startups",
     "science",
     "Futurology",
@@ -22,17 +22,56 @@
   ],
   "count": 36,
   "by_category": {
-    "Science": 6,
+    "Robotics": 2,
+    "Science": 5,
     "Skincare": 2,
     "Startups & Funding": 4,
     "Security": 5,
     "Hardware & Gadgets": 7,
     "Fitness": 5,
     "AI / ML": 5,
-    "Robotics": 1,
     "Coding & Dev Tools": 1
   },
   "articles": [
+    {
+      "id": "reddit_1vj4oym",
+      "title": "Built a Real-Time Underwater Image Processing System – 4K 60FPS Part2.",
+      "link": "https://www.reddit.com/r/robotics/comments/1vj4oym/built_a_realtime_underwater_image_processing/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/robotics · community knowledge",
+      "content_type": "post",
+      "author": "u/CellistTraditional · r/robotics",
+      "handle": "robotics",
+      "org": "r/robotics",
+      "platform": "reddit",
+      "published": "2026-08-08T19:24:19.000Z",
+      "image": "https://external-preview.redd.it/dmlxZDV6NnBiN2loMRcPWsdClAPKTS8q6Z4kVFrtHhxxunSYitv60GTZFXBQ.png?width=640&crop=smart&auto=webp&s=30c9428ae6a6f1526d73345a0d373dac44ca6aaf",
+      "thumbnail": "https://external-preview.redd.it/dmlxZDV6NnBiN2loMRcPWsdClAPKTS8q6Z4kVFrtHhxxunSYitv60GTZFXBQ.png?width=640&crop=smart&auto=webp&s=30c9428ae6a6f1526d73345a0d373dac44ca6aaf",
+      "section": "Robotics",
+      "category": "Robotics",
+      "genre": "Robotics",
+      "categories": [
+        "Reddit",
+        "Robotics",
+        "r/robotics"
+      ],
+      "summary": "This is a short clip from my latest underwater field test. The system is processing the video in real time while the ROV is actually moving underwater this isn&#39;t an offline post-processing demo. The pipeline currently runs with: 🎥 4K / 60 FPS ⚡ Real-time image processing 🧠 NVIDIA CUDA acceleration 🌊 Custom…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/robotics this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1vipodv",
       "title": "Body size dictates which anti-aging strategy evolution selects: mammals over 5-10 kg convergently repress telomerase as cancer defense, while smaller long-lived species keep it active.",
@@ -1403,46 +1442,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Fitness this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vfve42",
-      "title": "Two Waves of Aging: How Midlife Biomolecular Shifts Accelerate Decline",
-      "link": "https://www.reddit.com/r/longevity/comments/1vfve42/two_waves_of_aging_how_midlife_biomolecular/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/longevity · community knowledge",
-      "content_type": "post",
-      "author": "u/dan_in_ca · r/longevity",
-      "handle": "longevity",
-      "org": "r/longevity",
-      "platform": "reddit",
-      "published": "2026-08-05T03:04:21.000Z",
-      "image": "https://external-preview.redd.it/m3bSWmyIfhNxxxbDZf8ANmEc_ZhMXjSvRQDq6fOtB5I.jpeg?width=640&crop=smart&auto=webp&s=bc6c54c6f9bfc294669108ac6c90d078990239ea",
-      "thumbnail": "https://external-preview.redd.it/m3bSWmyIfhNxxxbDZf8ANmEc_ZhMXjSvRQDq6fOtB5I.jpeg?width=640&crop=smart&auto=webp&s=bc6c54c6f9bfc294669108ac6c90d078990239ea",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Longevity",
-      "categories": [
-        "Reddit",
-        "Science",
-        "Longevity",
-        "r/longevity"
-      ],
-      "summary": "Two Waves of Aging: How Midlife Biomolecular Shifts Accelerate Decline",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/longevity this week"
       ],
       "metrics": {
         "likes": 0,
