@@ -1,16 +1,58 @@
 {
-  "generated_at": "2026-08-09T06:11:02.573Z",
+  "generated_at": "2026-08-09T07:35:41.848Z",
   "handles": [
-    "AnthropicAI",
     "nvidia",
-    "OpenAI",
     "GoogleDeepMind",
+    "satyanadella",
+    "gdb",
     "AIatMeta",
-    "elonmusk",
-    "gdb"
+    "OpenAI",
+    "AnthropicAI",
+    "elonmusk"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2086092396023120286",
+      "title": "GPT-4 finished training four years ago today.",
+      "link": "https://x.com/gdb/status/2086092396023120286",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Greg Brockman · @gdb",
+      "handle": "gdb",
+      "org": "OpenAI",
+      "published": "2026-08-08T14:09:19.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Research"
+      ],
+      "summary": "GPT-4 finished training four years ago today.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 69,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (gpt, training)",
+        "high engagement (10.4K likes)"
+      ],
+      "metrics": {
+        "likes": 10394,
+        "retweets": 428,
+        "replies": 395,
+        "likes_h": "10.4K"
+      },
+      "engagement": 11645,
+      "hot": false
+    },
     {
       "id": "x_2086040693596659932",
       "title": "Armenia and Kazakhstan with @FirebirdCloudAI are building the infrastructure to create intelligence at home, powered by the NVIDIA DSX platform. 📽️ Hear from @JensenHuang on this important milestone…",
@@ -35,7 +77,7 @@
       "summary": "Armenia and Kazakhstan with @FirebirdCloudAI are building the infrastructure to create intelligence at home, powered by the NVIDIA DSX platform. 📽️ Hear from @JensenHuang on this important milestone for the CIS region. https://nvda.ws/4wiOu58",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 74,
+      "worthiness_score": 75,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -45,12 +87,12 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 511,
-        "retweets": 68,
-        "replies": 57,
-        "likes_h": "511"
+        "likes": 654,
+        "retweets": 84,
+        "replies": 66,
+        "likes_h": "654"
       },
-      "engagement": 704,
+      "engagement": 888,
       "hot": false
     },
     {
@@ -125,15 +167,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (gemini, robotics)",
-        "high engagement (750 likes)"
+        "high engagement (779 likes)"
       ],
       "metrics": {
-        "likes": 750,
-        "retweets": 101,
-        "replies": 82,
-        "likes_h": "750"
+        "likes": 779,
+        "retweets": 104,
+        "replies": 86,
+        "likes_h": "779"
       },
-      "engagement": 1034,
+      "engagement": 1073,
       "hot": false
     },
     {
@@ -170,12 +212,12 @@
         "high engagement (2.3K likes)"
       ],
       "metrics": {
-        "likes": 2252,
-        "retweets": 263,
-        "replies": 88,
+        "likes": 2260,
+        "retweets": 265,
+        "replies": 90,
         "likes_h": "2.3K"
       },
-      "engagement": 2866,
+      "engagement": 2880,
       "hot": false
     },
     {
@@ -295,12 +337,12 @@
         "tech substance (models, nemotron)"
       ],
       "metrics": {
-        "likes": 323,
+        "likes": 324,
         "retweets": 40,
-        "replies": 62,
-        "likes_h": "323"
+        "replies": 63,
+        "likes_h": "324"
       },
-      "engagement": 465,
+      "engagement": 467,
       "hot": false
     },
     {
@@ -337,12 +379,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 1011,
-        "retweets": 123,
-        "replies": 86,
+        "likes": 1019,
+        "retweets": 125,
+        "replies": 87,
         "likes_h": "1K"
       },
-      "engagement": 1343,
+      "engagement": 1356,
       "hot": false
     },
     {
@@ -377,10 +419,10 @@
         "tech substance (models)"
       ],
       "metrics": {
-        "likes": 305,
+        "likes": 304,
         "retweets": 41,
-        "replies": 42,
-        "likes_h": "305"
+        "replies": 43,
+        "likes_h": "304"
       },
       "engagement": 429,
       "hot": false
@@ -416,15 +458,15 @@
         "report-worthy",
         "announcement language (introducing)",
         "tech substance (model, agent, agents)",
-        "high engagement (3.2K likes)"
+        "high engagement (3.7K likes)"
       ],
       "metrics": {
-        "likes": 3218,
-        "retweets": 308,
-        "replies": 165,
-        "likes_h": "3.2K"
+        "likes": 3688,
+        "retweets": 360,
+        "replies": 193,
+        "likes_h": "3.7K"
       },
-      "engagement": 3999,
+      "engagement": 4601,
       "hot": false
     },
     {
@@ -460,12 +502,12 @@
         "business signal (enterprise)"
       ],
       "metrics": {
-        "likes": 485,
+        "likes": 483,
         "retweets": 63,
         "replies": 41,
-        "likes_h": "485"
+        "likes_h": "483"
       },
-      "engagement": 652,
+      "engagement": 650,
       "hot": false
     },
     {
@@ -504,12 +546,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 1034,
-        "retweets": 144,
-        "replies": 52,
+        "likes": 1033,
+        "retweets": 145,
+        "replies": 53,
         "likes_h": "1K"
       },
-      "engagement": 1374,
+      "engagement": 1376,
       "hot": false
     },
     {
@@ -1285,53 +1327,12 @@
         "high engagement (1.1K likes)"
       ],
       "metrics": {
-        "likes": 1143,
+        "likes": 1142,
         "retweets": 164,
         "replies": 81,
         "likes_h": "1.1K"
       },
-      "engagement": 1552,
-      "hot": false
-    },
-    {
-      "id": "x_2082885748337115632",
-      "title": "we've cut prices on luna by 80%, making it by far the most price-efficient model in its class. a lot of our research is about how to create incredibly efficient models for any given level of…",
-      "link": "https://x.com/gdb/status/2082885748337115632",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Greg Brockman · @gdb",
-      "handle": "gdb",
-      "org": "OpenAI",
-      "published": "2026-07-30T17:47:15.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Research"
-      ],
-      "summary": "we've cut prices on luna by 80%, making it by far the most price-efficient model in its class. a lot of our research is about how to create incredibly efficient models for any given level of intelligence. excited to see what you all do with intelligence too cheap to meter!",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 80,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "tech substance (model, models, research)",
-        "high engagement (2.2K likes)"
-      ],
-      "metrics": {
-        "likes": 2195,
-        "retweets": 107,
-        "replies": 141,
-        "likes_h": "2.2K"
-      },
-      "engagement": 2550,
+      "engagement": 1551,
       "hot": false
     }
   ]
