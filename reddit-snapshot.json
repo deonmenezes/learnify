@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-09T03:52:23.100Z",
+  "generated_at": "2026-08-09T05:12:57.865Z",
   "subs": [
     "MachineLearning",
+    "singularity",
+    "nutrition",
     "longevity",
-    "hardware",
     "SkincareAddiction",
     "investing",
     "netsec",
+    "hardware",
     "cybersecurity",
-    "singularity",
     "gadgets",
     "artificial",
-    "nutrition",
     "bodyweightfitness",
     "robotics",
     "startups",
@@ -27,8 +27,8 @@
     "Startups & Funding": 4,
     "Security": 5,
     "Hardware & Gadgets": 7,
-    "AI / ML": 5,
     "Fitness": 5,
+    "AI / ML": 5,
     "Robotics": 1,
     "Coding & Dev Tools": 1
   },
@@ -341,6 +341,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/investing this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vhwqj9",
+      "title": "Do probiotics actually aid digestion and absorption?",
+      "link": "https://www.reddit.com/r/nutrition/comments/1vhwqj9/do_probiotics_actually_aid_digestion_and/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/nutrition · community knowledge",
+      "content_type": "post",
+      "author": "u/RoeMajesta · r/nutrition",
+      "handle": "nutrition",
+      "org": "r/nutrition",
+      "platform": "reddit",
+      "published": "2026-08-07T10:20:37.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Nutrition",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "Nutrition",
+        "r/nutrition"
+      ],
+      "summary": "I’m not sure of the correct technical term but by “probiotics”, i meant yogurt (and yogurt adjacent products like drinks, frozen, greek, skyr, yakult, etc) and fermented/ pickled stuff like sauerkraut, kimchi? if they do help then how much do they help? like, can eating yogurt help absorb 10% more nutrition/ calories/…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/nutrition this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1403,45 +1443,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/longevity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vfsqwl",
-      "title": "Can I build a good physique with just pull-ups, dips, and squats 3x/week?",
-      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1vfsqwl/can_i_build_a_good_physique_with_just_pullups/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/bodyweightfitness · community knowledge",
-      "content_type": "post",
-      "author": "u/D3mon0fthemist · r/bodyweightfitness",
-      "handle": "bodyweightfitness",
-      "org": "r/bodyweightfitness",
-      "platform": "reddit",
-      "published": "2026-08-05T01:03:46.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/bodyweightfitness"
-      ],
-      "summary": "I’ve been lifting with a bro split, but I’m going back to school while working full time and want something simpler that I can stick with. I’m considering doing 5 sets of pull-ups, 5 sets of dips, and 5 sets of barbell squats 3 days per week. I’m not trying to become a bodybuilder. I want to build muscle, stay…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/bodyweightfitness this week"
       ],
       "metrics": {
         "likes": 0,
