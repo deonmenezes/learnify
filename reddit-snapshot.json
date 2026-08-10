@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-08-10T21:49:03.624Z",
+  "generated_at": "2026-08-10T22:44:38.892Z",
   "subs": [
     "MachineLearning",
-    "artificial",
-    "running",
-    "investing",
+    "science",
+    "netsec",
     "singularity",
     "nutrition",
     "Futurology",
     "hardware",
     "gadgets",
     "longevity",
+    "artificial",
     "bodyweightfitness",
     "programming",
-    "netsec",
+    "running",
     "robotics",
     "cybersecurity",
-    "science",
+    "investing",
     "SkincareAddiction"
   ],
   "count": 36,
   "by_category": {
     "AI / ML": 8,
-    "Fitness": 6,
+    "Fitness": 5,
     "Science": 4,
     "Hardware & Gadgets": 6,
+    "Security": 6,
     "Coding & Dev Tools": 1,
-    "Security": 5,
     "Robotics": 1,
     "Startups & Funding": 3,
     "Skincare": 2
@@ -303,6 +303,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/nutrition this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vjxr66",
+      "title": "When terrible disclosure from the vendor results in zero days plus a fun dive in to bypassing full disk encryption",
+      "link": "https://www.reddit.com/r/netsec/comments/1vjxr66/when_terrible_disclosure_from_the_vendor_results/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/netsec · community knowledge",
+      "content_type": "post",
+      "author": "u/kev-thehermit · r/netsec",
+      "handle": "netsec",
+      "org": "r/netsec",
+      "platform": "reddit",
+      "published": "2026-08-09T18:44:44.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/netsec"
+      ],
+      "summary": "When terrible disclosure from the vendor results in zero days plus a fun dive in to bypassing full disk encryption",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/netsec this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1405,46 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/investing this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vhwqj9",
-      "title": "Do probiotics actually aid digestion and absorption?",
-      "link": "https://www.reddit.com/r/nutrition/comments/1vhwqj9/do_probiotics_actually_aid_digestion_and/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/nutrition · community knowledge",
-      "content_type": "post",
-      "author": "u/RoeMajesta · r/nutrition",
-      "handle": "nutrition",
-      "org": "r/nutrition",
-      "platform": "reddit",
-      "published": "2026-08-07T10:20:37.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Nutrition",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "Nutrition",
-        "r/nutrition"
-      ],
-      "summary": "I’m not sure of the correct technical term but by “probiotics”, i meant yogurt (and yogurt adjacent products like drinks, frozen, greek, skyr, yakult, etc) and fermented/ pickled stuff like sauerkraut, kimchi? if they do help then how much do they help? like, can eating yogurt help absorb 10% more nutrition/ calories/…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/nutrition this week"
       ],
       "metrics": {
         "likes": 0,

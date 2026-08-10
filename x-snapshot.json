@@ -1,16 +1,58 @@
 {
-  "generated_at": "2026-08-10T21:46:49.258Z",
+  "generated_at": "2026-08-10T22:42:25.206Z",
   "handles": [
+    "nvidia",
+    "GoogleDeepMind",
+    "satyanadella",
+    "AIatMeta",
     "AnthropicAI",
     "OpenAI",
     "gdb",
-    "nvidia",
-    "GoogleDeepMind",
-    "AIatMeta",
     "elonmusk"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2086936400830861440",
+      "title": "NVIDIA compute is a productive, investable asset. We’re partnering with six of the world’s leading long-term capital providers to establish independent financing platforms aimed at mobilizing over…",
+      "link": "https://x.com/nvidia/status/2086936400830861440",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-08-10T22:03:06.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Commentary"
+      ],
+      "summary": "NVIDIA compute is a productive, investable asset. We’re partnering with six of the world’s leading long-term capital providers to establish independent financing platforms aimed at mobilizing over $500B of third-party capital — helping customers access AI compute at scale.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 88,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "business signal (partnering, customers)",
+        "concrete metrics"
+      ],
+      "metrics": {
+        "likes": 261,
+        "retweets": 31,
+        "replies": 22,
+        "likes_h": "261"
+      },
+      "engagement": 345,
+      "hot": false
+    },
     {
       "id": "x_2086867246073401655",
       "title": "We asked an unreleased research version of Claude to take a stab at the Riemann hypothesis. It didn’t solve it, but it did make strides on a related problem: it increased the lower bound for the…",
@@ -177,6 +219,49 @@
       "hot": false
     },
     {
+      "id": "x_2086757844544811485",
+      "title": "Introducing Muse Glimmer, an open-weight 30B-parameter model optimized for local, always-on agent workflows. Muse Glimmer delivers strong performance on key agentic use cases and benchmarks compared…",
+      "link": "https://x.com/AIatMeta/status/2086757844544811485",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "AI at Meta · @AIatMeta",
+      "handle": "AIatMeta",
+      "org": "Meta",
+      "published": "2026-08-10T10:13:34.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product launch",
+      "categories": [
+        "X",
+        "Meta",
+        "Product launch"
+      ],
+      "summary": "Introducing Muse Glimmer, an open-weight 30B-parameter model optimized for local, always-on agent workflows. Muse Glimmer delivers strong performance on key agentic use cases and benchmarks compared with leading models in its size category, and is designed to run entirely on",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 100,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "announcement language (introducing)",
+        "tech substance (model, models, agent)",
+        "high engagement (6.7K likes)",
+        "concrete metrics"
+      ],
+      "metrics": {
+        "likes": 6655,
+        "retweets": 828,
+        "replies": 242,
+        "likes_h": "6.7K"
+      },
+      "engagement": 8553,
+      "hot": false
+    },
+    {
       "id": "x_2086092396023120286",
       "title": "GPT-4 finished training four years ago today.",
       "link": "https://x.com/gdb/status/2086092396023120286",
@@ -215,7 +300,7 @@
         "likes_h": "10.4K"
       },
       "engagement": 11645,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2086040693596659932",
@@ -249,15 +334,15 @@
         "casual tone (this)",
         "tech substance (platform)",
         "links to a source",
-        "high engagement (935 likes)"
+        "high engagement (955 likes)"
       ],
       "metrics": {
-        "likes": 935,
-        "retweets": 118,
-        "replies": 88,
-        "likes_h": "935"
+        "likes": 955,
+        "retweets": 120,
+        "replies": 96,
+        "likes_h": "955"
       },
-      "engagement": 1259,
+      "engagement": 1291,
       "hot": false
     },
     {
@@ -332,15 +417,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (gemini, robotics)",
-        "high engagement (844 likes)"
+        "high engagement (868 likes)"
       ],
       "metrics": {
-        "likes": 844,
-        "retweets": 111,
-        "replies": 96,
-        "likes_h": "844"
+        "likes": 868,
+        "retweets": 112,
+        "replies": 103,
+        "likes_h": "868"
       },
-      "engagement": 1162,
+      "engagement": 1195,
       "hot": false
     },
     {
@@ -377,12 +462,12 @@
         "high engagement (2.3K likes)"
       ],
       "metrics": {
-        "likes": 2266,
+        "likes": 2272,
         "retweets": 264,
-        "replies": 91,
+        "replies": 94,
         "likes_h": "2.3K"
       },
-      "engagement": 2885,
+      "engagement": 2894,
       "hot": false
     },
     {
@@ -502,12 +587,12 @@
         "tech substance (models, nemotron)"
       ],
       "metrics": {
-        "likes": 326,
+        "likes": 328,
         "retweets": 40,
         "replies": 65,
-        "likes_h": "326"
+        "likes_h": "328"
       },
-      "engagement": 471,
+      "engagement": 473,
       "hot": false
     },
     {
@@ -540,16 +625,16 @@
       "reasons": [
         "report-worthy",
         "tech substance (model, state-of-the-art)",
-        "high engagement (1.4K likes)",
+        "high engagement (1.5K likes)",
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 1396,
-        "retweets": 178,
-        "replies": 98,
-        "likes_h": "1.4K"
+        "likes": 1463,
+        "retweets": 189,
+        "replies": 102,
+        "likes_h": "1.5K"
       },
-      "engagement": 1850,
+      "engagement": 1943,
       "hot": false
     },
     {
@@ -584,12 +669,12 @@
         "tech substance (models)"
       ],
       "metrics": {
-        "likes": 305,
+        "likes": 306,
         "retweets": 40,
         "replies": 44,
-        "likes_h": "305"
+        "likes_h": "306"
       },
-      "engagement": 429,
+      "engagement": 430,
       "hot": false
     },
     {
@@ -667,12 +752,12 @@
         "business signal (enterprise)"
       ],
       "metrics": {
-        "likes": 483,
+        "likes": 485,
         "retweets": 62,
         "replies": 41,
-        "likes_h": "483"
+        "likes_h": "485"
       },
-      "engagement": 648,
+      "engagement": 650,
       "hot": false
     },
     {
@@ -1253,87 +1338,6 @@
         "likes_h": "9.1K"
       },
       "engagement": 10351,
-      "hot": false
-    },
-    {
-      "id": "x_2083353705504469233",
-      "title": "SpaceX is hiring exceptional engineering &amp; skilled trades talent to build &amp; operate the most powerful AI supercomputer clusters on &amp; off Earth. If interested, please email 3 bullet points…",
-      "link": "https://x.com/elonmusk/status/2083353705504469233",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Elon Musk · @elonmusk",
-      "handle": "elonmusk",
-      "org": "xAI/Tesla",
-      "published": "2026-08-01T00:46:44.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "xAI/Tesla",
-        "Commentary"
-      ],
-      "summary": "SpaceX is hiring exceptional engineering &amp; skilled trades talent to build &amp; operate the most powerful AI supercomputer clusters on &amp; off Earth. If interested, please email 3 bullet points demonstrating evidence of exceptional ability &amp; your resume to datacenters@spacex.com.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 56,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "high engagement (57K likes)"
-      ],
-      "metrics": {
-        "likes": 57013,
-        "retweets": 7500,
-        "replies": 5543,
-        "likes_h": "57K"
-      },
-      "engagement": 77556,
-      "hot": true
-    },
-    {
-      "id": "x_2083289093731934424",
-      "title": "🎙️ @StudyFetch made its largest AI inference workload nearly 10x less expensive with NVIDIA Riva, Parakeet ASR and NVIDIA NIM microservices. The gains support voice tutoring, real-time…",
-      "link": "https://x.com/nvidia/status/2083289093731934424",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-07-31T20:30:00.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product"
-      ],
-      "summary": "🎙️ @StudyFetch made its largest AI inference workload nearly 10x less expensive with NVIDIA Riva, Parakeet ASR and NVIDIA NIM microservices. The gains support voice tutoring, real-time personalization and a new agentic learning platform.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 87,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (inference, platform)",
-        "concrete metrics"
-      ],
-      "metrics": {
-        "likes": 202,
-        "retweets": 22,
-        "replies": 37,
-        "likes_h": "202"
-      },
-      "engagement": 283,
       "hot": false
     }
   ]
