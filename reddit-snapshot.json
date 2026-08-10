@@ -1,12 +1,13 @@
 {
-  "generated_at": "2026-08-10T18:31:33.399Z",
+  "generated_at": "2026-08-10T19:36:53.555Z",
   "subs": [
     "MachineLearning",
-    "Futurology",
-    "gadgets",
-    "nutrition",
-    "hardware",
     "singularity",
+    "SkincareAddiction",
+    "nutrition",
+    "Futurology",
+    "hardware",
+    "gadgets",
     "longevity",
     "artificial",
     "bodyweightfitness",
@@ -16,15 +17,14 @@
     "robotics",
     "cybersecurity",
     "science",
-    "investing",
-    "SkincareAddiction"
+    "investing"
   ],
   "count": 36,
   "by_category": {
+    "AI / ML": 8,
     "Fitness": 6,
     "Science": 4,
-    "Hardware & Gadgets": 8,
-    "AI / ML": 6,
+    "Hardware & Gadgets": 6,
     "Coding & Dev Tools": 1,
     "Security": 5,
     "Robotics": 1,
@@ -32,6 +32,86 @@
     "Skincare": 2
   },
   "articles": [
+    {
+      "id": "reddit_1vkn5x9",
+      "title": "How to file a complaint about a published CVPR paper? [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vkn5x9/how_to_file_a_complaint_about_a_published_cvpr/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/MachineLearning · community knowledge",
+      "content_type": "post",
+      "author": "u/ElPelana · r/MachineLearning",
+      "handle": "MachineLearning",
+      "org": "r/MachineLearning",
+      "platform": "reddit",
+      "published": "2026-08-10T14:56:16.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/MachineLearning"
+      ],
+      "summary": "Hi, I would like to file a complaint about an accepted and published CVPR 2026 paper that its main contribution is a dataset but it was never released, and honestly I don’t know who to contact. The dataset was never released prior to the conference, or during the conference or after the conference. I personally feel…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vkbwzx",
+      "title": "Claude is asked to book a gym class; finds vulnerabilities in the gym's systems and cancels a real person's spot to move the user up in line without being asked",
+      "link": "https://www.reddit.com/r/singularity/comments/1vkbwzx/claude_is_asked_to_book_a_gym_class_finds/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/singularity · community knowledge",
+      "content_type": "post",
+      "author": "u/kaityl3 · r/singularity",
+      "handle": "singularity",
+      "org": "r/singularity",
+      "platform": "reddit",
+      "published": "2026-08-10T05:24:55.000Z",
+      "image": "https://preview.redd.it/utv8ahbgghih1.png?width=140&height=99&auto=webp&s=dbf1dee2d0a38ba255712ab51bcf65bb682c789f",
+      "thumbnail": "https://preview.redd.it/utv8ahbgghih1.png?width=140&height=99&auto=webp&s=dbf1dee2d0a38ba255712ab51bcf65bb682c789f",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/singularity"
+      ],
+      "summary": "Claude is asked to book a gym class; finds vulnerabilities in the gym's systems and cancels a real person's spot to move the user up in line without being asked",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/singularity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1vk6ylk",
       "title": "Nervousness about produce is messing up our nutrition. Howre yall handling it?",
@@ -1365,84 +1445,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/singularity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vhqsyk",
-      "title": "Bose has refreshed its QuietComfort headphones with two-way USB-C audio and better noise cancellation",
-      "link": "https://www.reddit.com/r/gadgets/comments/1vhqsyk/bose_has_refreshed_its_quietcomfort_headphones/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/gadgets · community knowledge",
-      "content_type": "post",
-      "author": "u/dapperlemon · r/gadgets",
-      "handle": "gadgets",
-      "org": "r/gadgets",
-      "platform": "reddit",
-      "published": "2026-08-07T04:38:52.000Z",
-      "image": "https://external-preview.redd.it/kwCa3wdlJOAck-QGOt5l8MwDsy5HVfvpHmpUduyXWNM.jpeg?width=640&crop=smart&auto=webp&s=980059c7162caf14b3b07bc4d97465827f943df0",
-      "thumbnail": "https://external-preview.redd.it/kwCa3wdlJOAck-QGOt5l8MwDsy5HVfvpHmpUduyXWNM.jpeg?width=640&crop=smart&auto=webp&s=980059c7162caf14b3b07bc4d97465827f943df0",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/gadgets"
-      ],
-      "summary": "Bose has refreshed its QuietComfort headphones with two-way USB-C audio and better noise cancellation",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/gadgets this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vhob7n",
-      "title": "AMD acquires AI chip startup Taalas to boost inference performance by etching models into silicon",
-      "link": "https://www.reddit.com/r/hardware/comments/1vhob7n/amd_acquires_ai_chip_startup_taalas_to_boost/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/hardware · community knowledge",
-      "content_type": "post",
-      "author": "u/SirActionhaHAA · r/hardware",
-      "handle": "hardware",
-      "org": "r/hardware",
-      "platform": "reddit",
-      "published": "2026-08-07T02:34:48.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/hardware"
-      ],
-      "summary": "AMD acquires AI chip startup Taalas to boost inference performance by etching models into silicon",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/hardware this week"
       ],
       "metrics": {
         "likes": 0,
