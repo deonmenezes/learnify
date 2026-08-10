@@ -1,10 +1,11 @@
 {
-  "generated_at": "2026-08-10T09:29:57.319Z",
+  "generated_at": "2026-08-10T10:48:27.992Z",
   "subs": [
     "MachineLearning",
-    "singularity",
-    "nutrition",
     "longevity",
+    "gadgets",
+    "nutrition",
+    "singularity",
     "bodyweightfitness",
     "programming",
     "netsec",
@@ -15,18 +16,17 @@
     "science",
     "investing",
     "SkincareAddiction",
-    "gadgets",
     "startups"
   ],
   "count": 36,
   "by_category": {
     "Fitness": 6,
     "AI / ML": 6,
-    "Science": 4,
+    "Hardware & Gadgets": 6,
+    "Science": 3,
     "Coding & Dev Tools": 1,
     "Security": 6,
     "Robotics": 2,
-    "Hardware & Gadgets": 5,
     "Startups & Funding": 4,
     "Skincare": 2
   },
@@ -144,6 +144,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/singularity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vjtvvc",
+      "title": "Low-cost sticker developed to warn wearer of heatstroke risk",
+      "link": "https://www.reddit.com/r/gadgets/comments/1vjtvvc/lowcost_sticker_developed_to_warn_wearer_of/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/gadgets · community knowledge",
+      "content_type": "post",
+      "author": "u/diacewrb · r/gadgets",
+      "handle": "gadgets",
+      "org": "r/gadgets",
+      "platform": "reddit",
+      "published": "2026-08-09T16:13:10.000Z",
+      "image": "https://external-preview.redd.it/6PEU-7emwy52ks3n0DWrvPW7nDGgGoKdNLb_VcnXcQ8.jpeg?width=640&crop=smart&auto=webp&s=a85419fe021ad258233bb9d84a469a7e063f42e9",
+      "thumbnail": "https://external-preview.redd.it/6PEU-7emwy52ks3n0DWrvPW7nDGgGoKdNLb_VcnXcQ8.jpeg?width=640&crop=smart&auto=webp&s=a85419fe021ad258233bb9d84a469a7e063f42e9",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/gadgets"
+      ],
+      "summary": "Low-cost sticker developed to warn wearer of heatstroke risk",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/gadgets this week"
       ],
       "metrics": {
         "likes": 0,
@@ -616,6 +655,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/longevity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vio80g",
+      "title": "MSI's wild 5K 180Hz mini LED monitor reportedly shelved indefinitely.",
+      "link": "https://www.reddit.com/r/gadgets/comments/1vio80g/msis_wild_5k_180hz_mini_led_monitor_reportedly/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/gadgets · community knowledge",
+      "content_type": "post",
+      "author": "u/RenegadeUK · r/gadgets",
+      "handle": "gadgets",
+      "org": "r/gadgets",
+      "platform": "reddit",
+      "published": "2026-08-08T06:11:14.000Z",
+      "image": "https://external-preview.redd.it/_Z0scgZEZQ_DjHbcCP3XtucLu1PpqWh-uZffEOQOJBg.jpeg?width=640&crop=smart&auto=webp&s=d6db3c19e6da50971dad83b457b1caa1c4367f2f",
+      "thumbnail": "https://external-preview.redd.it/_Z0scgZEZQ_DjHbcCP3XtucLu1PpqWh-uZffEOQOJBg.jpeg?width=640&crop=smart&auto=webp&s=d6db3c19e6da50971dad83b457b1caa1c4367f2f",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/gadgets"
+      ],
+      "summary": "MSI's wild 5K 180Hz mini LED monitor reportedly shelved indefinitely.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/gadgets this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1366,84 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vh0gzd",
-      "title": "Scientists have, for the first time, genetically engineered lettuce and tobacco plants to grow the animal protein myoglobin. Plant-derived myoglobin could achieve protein yields per hectare that rival – or even exceed – those of animal agriculture, with lower water use and greenhouse gas emissions.",
-      "link": "https://www.reddit.com/r/science/comments/1vh0gzd/scientists_have_for_the_first_time_genetically/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/science · community knowledge",
-      "content_type": "post",
-      "author": "u/mvea · r/science",
-      "handle": "science",
-      "org": "r/science",
-      "platform": "reddit",
-      "published": "2026-08-06T10:31:35.000Z",
-      "image": "https://external-preview.redd.it/vOF5x3wG_Hth7OM6p_fsWFTXn70ZncalDNBHXNfwtSI.jpeg?width=640&crop=smart&auto=webp&s=cee1e31255fd445e44e26c71d3f49830a0527801",
-      "thumbnail": "https://external-preview.redd.it/vOF5x3wG_Hth7OM6p_fsWFTXn70ZncalDNBHXNfwtSI.jpeg?width=640&crop=smart&auto=webp&s=cee1e31255fd445e44e26c71d3f49830a0527801",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/science"
-      ],
-      "summary": "Scientists have, for the first time, genetically engineered lettuce and tobacco plants to grow the animal protein myoglobin. Plant-derived myoglobin could achieve protein yields per hectare that rival – or even exceed – those of animal agriculture, with lower water use and greenhouse gas emissions.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/science this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vh0079",
-      "title": "Garmin smartwatch with LTE and satellite connectivity spotted in FCC filing—Fenix 9 likely imminent",
-      "link": "https://www.reddit.com/r/gadgets/comments/1vh0079/garmin_smartwatch_with_lte_and_satellite/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/gadgets · community knowledge",
-      "content_type": "post",
-      "author": "u/dapperlemon · r/gadgets",
-      "handle": "gadgets",
-      "org": "r/gadgets",
-      "platform": "reddit",
-      "published": "2026-08-06T10:06:10.000Z",
-      "image": "https://external-preview.redd.it/jRpw9_I6kyucWXX3A8dr9xE96q8CCVJdTQF9nQMWsx0.jpeg?width=640&crop=smart&auto=webp&s=b6e9c14fced31b461623ccdc28b64784d4a896f3",
-      "thumbnail": "https://external-preview.redd.it/jRpw9_I6kyucWXX3A8dr9xE96q8CCVJdTQF9nQMWsx0.jpeg?width=640&crop=smart&auto=webp&s=b6e9c14fced31b461623ccdc28b64784d4a896f3",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/gadgets"
-      ],
-      "summary": "Garmin smartwatch with LTE and satellite connectivity spotted in FCC filing—Fenix 9 likely imminent",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/gadgets this week"
       ],
       "metrics": {
         "likes": 0,
