@@ -1,19 +1,18 @@
 {
-  "generated_at": "2026-08-10T04:17:36.115Z",
+  "generated_at": "2026-08-10T06:00:01.084Z",
   "subs": [
     "MachineLearning",
-    "Futurology",
-    "netsec",
+    "artificial",
+    "nutrition",
+    "investing",
     "longevity",
     "programming",
+    "netsec",
     "robotics",
     "cybersecurity",
-    "artificial",
     "hardware",
     "science",
     "SkincareAddiction",
-    "investing",
-    "nutrition",
     "singularity",
     "gadgets",
     "bodyweightfitness",
@@ -21,17 +20,97 @@
   ],
   "count": 36,
   "by_category": {
-    "Science": 5,
+    "Fitness": 5,
+    "Science": 4,
     "Coding & Dev Tools": 1,
-    "Security": 7,
+    "Security": 6,
     "Robotics": 2,
     "AI / ML": 5,
     "Hardware & Gadgets": 6,
-    "Skincare": 2,
-    "Startups & Funding": 4,
-    "Fitness": 4
+    "Startups & Funding": 5,
+    "Skincare": 2
   },
   "articles": [
+    {
+      "id": "reddit_1vk6ylk",
+      "title": "Nervousness about produce is messing up our nutrition. Howre yall handling it?",
+      "link": "https://www.reddit.com/r/nutrition/comments/1vk6ylk/nervousness_about_produce_is_messing_up_our/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/nutrition · community knowledge",
+      "content_type": "post",
+      "author": "u/Dizzy_Substance_2480 · r/nutrition",
+      "handle": "nutrition",
+      "org": "r/nutrition",
+      "platform": "reddit",
+      "published": "2026-08-10T01:15:21.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Nutrition",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "Nutrition",
+        "r/nutrition"
+      ],
+      "summary": "The current ongoing issues with recalls and lack of food safety in the U.S has me and my bf nervous about fresh greens atm and I was wondering how others are navigating it for nutrition (or if this is something we shouldnt concern ourselves with too much). We cant afford to risk getting poisoning but are noticing some…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/nutrition this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vk0poz",
+      "title": "If you prioritize fiber...",
+      "link": "https://www.reddit.com/r/nutrition/comments/1vk0poz/if_you_prioritize_fiber/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/nutrition · community knowledge",
+      "content_type": "post",
+      "author": "u/tropicalislandhop · r/nutrition",
+      "handle": "nutrition",
+      "org": "r/nutrition",
+      "platform": "reddit",
+      "published": "2026-08-09T20:41:37.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Nutrition",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "Nutrition",
+        "r/nutrition"
+      ],
+      "summary": "Please tell me what high fiber foods you have eaten today. Show me how easy it can be, I need inspiration! UPDATE: That&#39;s what I&#39;m talking about, thanks all so much for sharing! &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/nutrition this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1vjrb1k",
       "title": "Scientists Reversed Ovarian Aging in Mice by Blocking One Inflammatory Signal. The Same Signal Stiffens Organs Across the Body.",
@@ -378,6 +457,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/netsec this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1viqdul",
+      "title": "The U.S. lost jobs in July. The S&P 500 hit another record anyway.",
+      "link": "https://www.reddit.com/r/investing/comments/1viqdul/the_us_lost_jobs_in_july_the_sp_500_hit_another/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/investing · community knowledge",
+      "content_type": "post",
+      "author": "u/FailOk1528 · r/investing",
+      "handle": "investing",
+      "org": "r/investing",
+      "platform": "reddit",
+      "published": "2026-08-08T08:17:55.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/investing"
+      ],
+      "summary": "The July jobs report looked pretty bad at first glance. Payrolls fell by 23,000, versus expectations for an 80,000 gain, and June was revised down to just 20,000. Yet unemployment fell to 4.1%, largely because the labor force got smaller. And the S&amp;P 500 still finished at a record high. I can understand weaker…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/investing this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1325,123 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/investing this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vgwopd",
-      "title": "Japanese population falls below 120m for first time in 42 years",
-      "link": "https://www.reddit.com/r/Futurology/comments/1vgwopd/japanese_population_falls_below_120m_for_first/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/Futurology · community knowledge",
-      "content_type": "post",
-      "author": "u/Krankenitrate · r/Futurology",
-      "handle": "Futurology",
-      "org": "r/Futurology",
-      "platform": "reddit",
-      "published": "2026-08-06T06:51:49.000Z",
-      "image": "https://external-preview.redd.it/WpsuEfCzb5bSqvXAmhyitwJsknC8K0v38CgVgiDhPn8.jpeg?width=640&crop=smart&auto=webp&s=b4a3bc1b61ed4b79ec5b9b7c23ed4223974353d2",
-      "thumbnail": "https://external-preview.redd.it/WpsuEfCzb5bSqvXAmhyitwJsknC8K0v38CgVgiDhPn8.jpeg?width=640&crop=smart&auto=webp&s=b4a3bc1b61ed4b79ec5b9b7c23ed4223974353d2",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/Futurology"
-      ],
-      "summary": "Japanese population falls below 120m for first time in 42 years",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/Futurology this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vgw6bj",
-      "title": "(NSFW) For overweight men: How do you avoid injuring balls after leg raises?",
-      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1vgw6bj/nsfw_for_overweight_men_how_do_you_avoid_injuring/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/bodyweightfitness · community knowledge",
-      "content_type": "post",
-      "author": "u/Overthought_Headbang · r/bodyweightfitness",
-      "handle": "bodyweightfitness",
-      "org": "r/bodyweightfitness",
-      "platform": "reddit",
-      "published": "2026-08-06T06:22:29.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/bodyweightfitness"
-      ],
-      "summary": "I think I may be crushing my testicles while doing leg raises or any leg movement. I am overweight and working on reducing it. Do you always wear underwear when exercising (i use home equipments- no other users)? Would that help avoid the skin to skin pull. I can feel it mostly on my right testicle. Feels like the…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/bodyweightfitness this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vgvxp2",
-      "title": "Why is \"entry-level\" in cybersecurity asking for 3-5 years of experience and CISSP now?",
-      "link": "https://www.reddit.com/r/cybersecurity/comments/1vgvxp2/why_is_entrylevel_in_cybersecurity_asking_for_35/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/cybersecurity · community knowledge",
-      "content_type": "post",
-      "author": "u/Deepdun888 · r/cybersecurity",
-      "handle": "cybersecurity",
-      "org": "r/cybersecurity",
-      "platform": "reddit",
-      "published": "2026-08-06T06:08:59.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/cybersecurity"
-      ],
-      "summary": "I’ve been browsing job boards lately and the &quot;junior&quot; requirements are getting ridiculous. Saw a Tier 1 SOC Analyst post earlier asking for 3+ years of experience, a CISSP, and half a dozen certs, all for lower-tier pay. To the hiring managers here: Are HR departments just copy-pasting impossible wish lists,…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/cybersecurity this week"
       ],
       "metrics": {
         "likes": 0,
