@@ -1,14 +1,13 @@
 {
-  "generated_at": "2026-08-10T19:36:53.555Z",
+  "generated_at": "2026-08-10T20:50:25.439Z",
   "subs": [
     "MachineLearning",
+    "longevity",
+    "hardware",
     "singularity",
-    "SkincareAddiction",
     "nutrition",
     "Futurology",
-    "hardware",
     "gadgets",
-    "longevity",
     "artificial",
     "bodyweightfitness",
     "programming",
@@ -17,7 +16,8 @@
     "robotics",
     "cybersecurity",
     "science",
-    "investing"
+    "investing",
+    "SkincareAddiction"
   ],
   "count": 36,
   "by_category": {
@@ -32,6 +32,46 @@
     "Skincare": 2
   },
   "articles": [
+    {
+      "id": "reddit_1vkrnb5",
+      "title": "Transformers are famously bad at arithmetic, so I set one's weights by hand (no training) and it multiplies with 100% accuracy [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vkrnb5/transformers_are_famously_bad_at_arithmetic_so_i/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/MachineLearning · community knowledge",
+      "content_type": "post",
+      "author": "u/notforrob · r/MachineLearning",
+      "handle": "MachineLearning",
+      "org": "r/MachineLearning",
+      "platform": "reddit",
+      "published": "2026-08-10T17:37:35.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/MachineLearning"
+      ],
+      "summary": "Obviously nobody needs a transformer that&#39;s good at multiplication. I wanted to know whether a stock transformer could do exact arithmetic if I chose its weights directly. I implemented the grade-school algorithm as a computation graph and compiled it into an ordinary Phi-3 Hugging Face checkpoint using…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1vkn5x9",
       "title": "How to file a complaint about a published CVPR paper? [R]",
@@ -1405,46 +1445,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/nutrition this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vht97z",
-      "title": "How they’re treating Hank Green for using AI is disgusting and I’ve shifted my view of AI as well.",
-      "link": "https://www.reddit.com/r/singularity/comments/1vht97z/how_theyre_treating_hank_green_for_using_ai_is/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/singularity · community knowledge",
-      "content_type": "post",
-      "author": "u/BlueAndYellowTowels · r/singularity",
-      "handle": "singularity",
-      "org": "r/singularity",
-      "platform": "reddit",
-      "published": "2026-08-07T06:54:39.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/singularity"
-      ],
-      "summary": "Recently a YouTube creator, Hank Green, was found to have used AI in his work on the YouTube channel Vlog brothers. The channel itself is fairly well known. Oriented towards education, optimism, uplift and just… all around good vibes for the internet as a whole. Hank was a huge proponent of education and knowledge and…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/singularity this week"
       ],
       "metrics": {
         "likes": 0,
