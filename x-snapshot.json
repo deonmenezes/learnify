@@ -1,16 +1,181 @@
 {
-  "generated_at": "2026-08-10T17:30:15.609Z",
+  "generated_at": "2026-08-10T18:29:19.524Z",
   "handles": [
+    "AnthropicAI",
+    "OpenAI",
     "gdb",
     "nvidia",
-    "OpenAI",
     "GoogleDeepMind",
     "AIatMeta",
-    "AnthropicAI",
     "elonmusk"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2086867246073401655",
+      "title": "We asked an unreleased research version of Claude to take a stab at the Riemann hypothesis. It didn’t solve it, but it did make strides on a related problem: it increased the lower bound for the…",
+      "link": "https://x.com/AnthropicAI/status/2086867246073401655",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Anthropic · @AnthropicAI",
+      "handle": "AnthropicAI",
+      "org": "Anthropic",
+      "published": "2026-08-10T17:28:18.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "Anthropic",
+        "Research"
+      ],
+      "summary": "We asked an unreleased research version of Claude to take a stab at the Riemann hypothesis. It didn’t solve it, but it did make strides on a related problem: it increased the lower bound for the fraction of zeros of the Riemann zeta function that satisfy the hypothesis from",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 84,
+      "sentiment": "negative",
+      "sentiment_score": -0.5,
+      "reasons": [
+        "report-worthy",
+        "tech substance (claude, research, version)",
+        "high engagement (2.8K likes)"
+      ],
+      "metrics": {
+        "likes": 2821,
+        "retweets": 272,
+        "replies": 240,
+        "likes_h": "2.8K"
+      },
+      "engagement": 3605,
+      "hot": false
+    },
+    {
+      "id": "x_2086864372500942906",
+      "title": "We've used GPT-5.6-Cyber extensively in real-world vulnerability research, including work that uncovered previously unknown vulnerabilities in popular open-source software like Chrome’s v8 engine.",
+      "link": "https://x.com/OpenAI/status/2086864372500942906",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-08-10T17:16:53.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Research"
+      ],
+      "summary": "We've used GPT-5.6-Cyber extensively in real-world vulnerability research, including work that uncovered previously unknown vulnerabilities in popular open-source software like Chrome’s v8 engine.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 56,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "reply / conversation",
+        "tech substance (gpt, open-source, research)"
+      ],
+      "metrics": {
+        "likes": 236,
+        "retweets": 6,
+        "replies": 9,
+        "likes_h": "236"
+      },
+      "engagement": 257,
+      "hot": false
+    },
+    {
+      "id": "x_2086864369825329219",
+      "title": "Daybreak Red provides access to purpose-trained cybersecurity models, including GPT-5.6-Cyber, for authorized vulnerability research, exploit validation, and security testing. It’s designed for…",
+      "link": "https://x.com/OpenAI/status/2086864369825329219",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-08-10T17:16:52.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Research",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Research"
+      ],
+      "summary": "Daybreak Red provides access to purpose-trained cybersecurity models, including GPT-5.6-Cyber, for authorized vulnerability research, exploit validation, and security testing. It’s designed for experienced defenders working on complex, authorized cybersecurity challenges.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 57,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "reply / conversation",
+        "tech substance (models, gpt, research)"
+      ],
+      "metrics": {
+        "likes": 319,
+        "retweets": 16,
+        "replies": 4,
+        "likes_h": "319"
+      },
+      "engagement": 355,
+      "hot": false
+    },
+    {
+      "id": "x_2086864365379010729",
+      "title": "We’re expanding our cybersecurity initiative Daybreak and introducing GPT-5.6-Cyber, a new model for advanced, authorized cybersecurity work. As the threat landscape evolves, we’re putting frontier…",
+      "link": "https://x.com/OpenAI/status/2086864365379010729",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-08-10T17:16:51.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product launch",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Product launch"
+      ],
+      "summary": "We’re expanding our cybersecurity initiative Daybreak and introducing GPT-5.6-Cyber, a new model for advanced, authorized cybersecurity work. As the threat landscape evolves, we’re putting frontier intelligence in the hands of trusted defenders before attackers can deploy",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 100,
+      "sentiment": "negative",
+      "sentiment_score": -0.5,
+      "reasons": [
+        "report-worthy",
+        "announcement language (introducing)",
+        "tech substance (model, gpt)",
+        "high engagement (3.4K likes)"
+      ],
+      "metrics": {
+        "likes": 3428,
+        "retweets": 250,
+        "replies": 228,
+        "likes_h": "3.4K"
+      },
+      "engagement": 4156,
+      "hot": false
+    },
     {
       "id": "x_2086092396023120286",
       "title": "GPT-4 finished training four years ago today.",
@@ -126,15 +291,15 @@
         "report-worthy",
         "casual tone (this)",
         "tech substance (model, models)",
-        "high engagement (9.5K likes)"
+        "high engagement (9.6K likes)"
       ],
       "metrics": {
-        "likes": 9547,
-        "retweets": 837,
-        "replies": 807,
-        "likes_h": "9.5K"
+        "likes": 9570,
+        "retweets": 842,
+        "replies": 811,
+        "likes_h": "9.6K"
       },
-      "engagement": 12028,
+      "engagement": 12065,
       "hot": true
     },
     {
@@ -256,12 +421,12 @@
         "high engagement (1.1K likes)"
       ],
       "metrics": {
-        "likes": 1060,
+        "likes": 1062,
         "retweets": 52,
         "replies": 74,
         "likes_h": "1.1K"
       },
-      "engagement": 1238,
+      "engagement": 1240,
       "hot": false
     },
     {
@@ -294,15 +459,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (gpt, reasoning)",
-        "high engagement (20.7K likes)"
+        "high engagement (20.8K likes)"
       ],
       "metrics": {
-        "likes": 20728,
-        "retweets": 1806,
-        "replies": 1215,
-        "likes_h": "20.7K"
+        "likes": 20773,
+        "retweets": 1815,
+        "replies": 1226,
+        "likes_h": "20.8K"
       },
-      "engagement": 25555,
+      "engagement": 25629,
       "hot": true
     },
     {
@@ -587,12 +752,12 @@
         "high engagement (2.5K likes)"
       ],
       "metrics": {
-        "likes": 2487,
-        "retweets": 446,
-        "replies": 455,
+        "likes": 2503,
+        "retweets": 449,
+        "replies": 470,
         "likes_h": "2.5K"
       },
-      "engagement": 3834,
+      "engagement": 3871,
       "hot": false
     },
     {
@@ -1169,170 +1334,6 @@
         "likes_h": "202"
       },
       "engagement": 283,
-      "hot": false
-    },
-    {
-      "id": "x_2082965101083320543",
-      "title": "In a review of our cybersecurity evaluations, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and…",
-      "link": "https://x.com/AnthropicAI/status/2082965101083320543",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Anthropic · @AnthropicAI",
-      "handle": "AnthropicAI",
-      "org": "Anthropic",
-      "published": "2026-07-30T23:02:34.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "Anthropic",
-        "Product"
-      ],
-      "summary": "In a review of our cybersecurity evaluations, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 79,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (model, claude)",
-        "high engagement (13.7K likes)"
-      ],
-      "metrics": {
-        "likes": 13726,
-        "retweets": 2316,
-        "replies": 1980,
-        "likes_h": "13.7K"
-      },
-      "engagement": 20338,
-      "hot": true
-    },
-    {
-      "id": "x_2082934294180221043",
-      "title": "Physical AI is here—the next wave of AI and the foundation of the next industrial revolution. NVIDIA founder and CEO Jensen Huang outlines the full stack making it possible: Cosmos and Omniverse to…",
-      "link": "https://x.com/nvidia/status/2082934294180221043",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-07-30T21:00:09.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Commentary"
-      ],
-      "summary": "Physical AI is here—the next wave of AI and the foundation of the next industrial revolution. NVIDIA founder and CEO Jensen Huang outlines the full stack making it possible: Cosmos and Omniverse to develop physical AI in virtual worlds, Isaac and Newton where robots learn skills",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 60,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "high engagement (1.4K likes)"
-      ],
-      "metrics": {
-        "likes": 1360,
-        "retweets": 212,
-        "replies": 126,
-        "likes_h": "1.4K"
-      },
-      "engagement": 1910,
-      "hot": false
-    },
-    {
-      "id": "x_2082904281838227562",
-      "title": "Teamwork makes the dream work. To test multi-robot collaboration with Gemini Robotics 2, we challenged our Apollo and Duo robots to tidy up a messy garage. The high-level reasoning model breaks down…",
-      "link": "https://x.com/GoogleDeepMind/status/2082904281838227562",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Google DeepMind · @GoogleDeepMind",
-      "handle": "GoogleDeepMind",
-      "org": "Google",
-      "published": "2026-07-30T19:00:53.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "Google",
-        "Research"
-      ],
-      "summary": "Teamwork makes the dream work. To test multi-robot collaboration with Gemini Robotics 2, we challenged our Apollo and Duo robots to tidy up a messy garage. The high-level reasoning model breaks down what to do, where to go, and identifies the exact moment to hand over control ↓",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 59,
-      "sentiment": "negative",
-      "sentiment_score": -0.5,
-      "reasons": [
-        "report-worthy",
-        "reply / conversation",
-        "tech substance (model, gemini, robotics)"
-      ],
-      "metrics": {
-        "likes": 81,
-        "retweets": 16,
-        "replies": 9,
-        "likes_h": "81"
-      },
-      "engagement": 122,
-      "hot": false
-    },
-    {
-      "id": "x_2082904276293062994",
-      "title": "This is how Gemini Robotics 2 helps @Apptronik’s Apollo 2 use whole body intelligence to pack for a sports game ↓",
-      "link": "https://x.com/GoogleDeepMind/status/2082904276293062994",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Google DeepMind · @GoogleDeepMind",
-      "handle": "GoogleDeepMind",
-      "org": "Google",
-      "published": "2026-07-30T19:00:52.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "Google",
-        "Product"
-      ],
-      "summary": "This is how Gemini Robotics 2 helps @Apptronik’s Apollo 2 use whole body intelligence to pack for a sports game ↓",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 70,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "casual tone (this)",
-        "tech substance (gemini, robotics)",
-        "high engagement (1.1K likes)"
-      ],
-      "metrics": {
-        "likes": 1143,
-        "retweets": 165,
-        "replies": 82,
-        "likes_h": "1.1K"
-      },
-      "engagement": 1555,
       "hot": false
     }
   ]

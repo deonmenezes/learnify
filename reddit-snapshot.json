@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-10T17:32:27.082Z",
+  "generated_at": "2026-08-10T18:31:33.399Z",
   "subs": [
     "MachineLearning",
-    "longevity",
-    "hardware",
-    "nutrition",
     "Futurology",
-    "singularity",
     "gadgets",
+    "nutrition",
+    "hardware",
+    "singularity",
+    "longevity",
     "artificial",
     "bodyweightfitness",
     "programming",
@@ -23,8 +23,8 @@
   "by_category": {
     "Fitness": 6,
     "Science": 4,
-    "Hardware & Gadgets": 7,
-    "AI / ML": 7,
+    "Hardware & Gadgets": 8,
+    "AI / ML": 6,
     "Coding & Dev Tools": 1,
     "Security": 5,
     "Robotics": 1,
@@ -342,6 +342,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/artificial this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vjo8uf",
+      "title": "New Hisense e-ink phone appears in real-life images with detachable secondary display.",
+      "link": "https://www.reddit.com/r/gadgets/comments/1vjo8uf/new_hisense_eink_phone_appears_in_reallife_images/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/gadgets · community knowledge",
+      "content_type": "post",
+      "author": "u/RenegadeUK · r/gadgets",
+      "handle": "gadgets",
+      "org": "r/gadgets",
+      "platform": "reddit",
+      "published": "2026-08-09T12:08:48.000Z",
+      "image": "https://external-preview.redd.it/m0o7WyH1Hv-0YxxLxzjOfpSvVZASikUgxvL4Rnuom6Y.jpeg?width=640&crop=smart&auto=webp&s=5135a97c412ca6534768105079d3afba4db272dd",
+      "thumbnail": "https://external-preview.redd.it/m0o7WyH1Hv-0YxxLxzjOfpSvVZASikUgxvL4Rnuom6Y.jpeg?width=640&crop=smart&auto=webp&s=5135a97c412ca6534768105079d3afba4db272dd",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/gadgets"
+      ],
+      "summary": "New Hisense e-ink phone appears in real-life images with detachable secondary display.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/gadgets this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1404,46 +1443,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/hardware this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vhljad",
-      "title": "New Democratic bill would tax AI companies to create jobs",
-      "link": "https://www.reddit.com/r/artificial/comments/1vhljad/new_democratic_bill_would_tax_ai_companies_to/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/artificial · community knowledge",
-      "content_type": "post",
-      "author": "u/Fcking_Chuck · r/artificial",
-      "handle": "artificial",
-      "org": "r/artificial",
-      "platform": "reddit",
-      "published": "2026-08-07T00:25:48.000Z",
-      "image": "https://external-preview.redd.it/o4aoaao0ydq6XvopLvxGwjhX5Vb-KNKkh8VulVIov94.jpeg?width=640&crop=smart&auto=webp&s=6d29f848bf7a34eb562063f886b7b040a5b3ab85",
-      "thumbnail": "https://external-preview.redd.it/o4aoaao0ydq6XvopLvxGwjhX5Vb-KNKkh8VulVIov94.jpeg?width=640&crop=smart&auto=webp&s=6d29f848bf7a34eb562063f886b7b040a5b3ab85",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/artificial"
-      ],
-      "summary": "New Democratic bill would tax AI companies to create jobs",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/artificial this week"
       ],
       "metrics": {
         "likes": 0,
