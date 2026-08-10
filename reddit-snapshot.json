@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-08-10T07:53:19.286Z",
+  "generated_at": "2026-08-10T09:29:57.319Z",
   "subs": [
     "MachineLearning",
-    "bodyweightfitness",
-    "robotics",
+    "singularity",
     "nutrition",
     "longevity",
+    "bodyweightfitness",
     "programming",
     "netsec",
+    "robotics",
     "cybersecurity",
     "artificial",
     "hardware",
     "science",
     "investing",
     "SkincareAddiction",
-    "singularity",
     "gadgets",
     "startups"
   ],
   "count": 36,
   "by_category": {
     "Fitness": 6,
+    "AI / ML": 6,
     "Science": 4,
     "Coding & Dev Tools": 1,
     "Security": 6,
     "Robotics": 2,
-    "AI / ML": 5,
-    "Hardware & Gadgets": 6,
+    "Hardware & Gadgets": 5,
     "Startups & Funding": 4,
     "Skincare": 2
   },
@@ -104,6 +104,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/nutrition this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vjwcke",
+      "title": "Google needs to up their game",
+      "link": "https://www.reddit.com/r/singularity/comments/1vjwcke/google_needs_to_up_their_game/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/singularity · community knowledge",
+      "content_type": "post",
+      "author": "u/policyweb · r/singularity",
+      "handle": "singularity",
+      "org": "r/singularity",
+      "platform": "reddit",
+      "published": "2026-08-09T17:50:45.000Z",
+      "image": "https://preview.redd.it/7u7qcksl0eih1.jpeg?width=640&crop=smart&auto=webp&s=93448f2ef0ef38c7dd5351c06fc35d1a011323c7",
+      "thumbnail": "https://preview.redd.it/7u7qcksl0eih1.jpeg?width=640&crop=smart&auto=webp&s=93448f2ef0ef38c7dd5351c06fc35d1a011323c7",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/singularity"
+      ],
+      "summary": "Google needs to up their game",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/singularity this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1404,45 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/gadgets this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vgztxj",
-      "title": "Arctic is returning US tariff refunds by cutting prices across its entire US product lineup and investing refund money into tech education and PC community initiatives",
-      "link": "https://www.reddit.com/r/hardware/comments/1vgztxj/arctic_is_returning_us_tariff_refunds_by_cutting/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/hardware · community knowledge",
-      "content_type": "post",
-      "author": "u/sr_local · r/hardware",
-      "handle": "hardware",
-      "org": "r/hardware",
-      "platform": "reddit",
-      "published": "2026-08-06T09:56:44.000Z",
-      "image": "https://external-preview.redd.it/YjeU8gpmdD80lbMTCTJOUUIkhY78PlR5i4Q5WlWfeMM.jpeg?width=640&crop=smart&auto=webp&s=4fba6bf71cbc90a670e2dc94d4747c1fc01bbebe",
-      "thumbnail": "https://external-preview.redd.it/YjeU8gpmdD80lbMTCTJOUUIkhY78PlR5i4Q5WlWfeMM.jpeg?width=640&crop=smart&auto=webp&s=4fba6bf71cbc90a670e2dc94d4747c1fc01bbebe",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/hardware"
-      ],
-      "summary": "Arctic is returning US tariff refunds by cutting prices across its entire US product lineup and investing refund money into tech education and PC community initiatives",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/hardware this week"
       ],
       "metrics": {
         "likes": 0,
