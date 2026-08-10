@@ -1,9 +1,10 @@
 {
-  "generated_at": "2026-08-10T14:41:38.961Z",
+  "generated_at": "2026-08-10T16:11:08.102Z",
   "subs": [
     "MachineLearning",
-    "science",
-    "netsec",
+    "LocalLLaMA",
+    "running",
+    "startups",
     "nutrition",
     "Futurology",
     "singularity",
@@ -12,9 +13,11 @@
     "artificial",
     "bodyweightfitness",
     "programming",
+    "netsec",
     "robotics",
     "cybersecurity",
     "hardware",
+    "science",
     "investing",
     "SkincareAddiction"
   ],
@@ -22,11 +25,11 @@
   "by_category": {
     "Fitness": 6,
     "Science": 4,
-    "AI / ML": 6,
+    "AI / ML": 7,
     "Hardware & Gadgets": 6,
     "Coding & Dev Tools": 1,
     "Security": 6,
-    "Robotics": 2,
+    "Robotics": 1,
     "Startups & Funding": 3,
     "Skincare": 2
   },
@@ -427,6 +430,85 @@
       }
     },
     {
+      "id": "reddit_1vja6gr",
+      "title": "Is kettlebell Training a good form of strength training for endurance running?",
+      "link": "https://www.reddit.com/r/running/comments/1vja6gr/is_kettlebell_training_a_good_form_of_strength/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/running · community knowledge",
+      "content_type": "post",
+      "author": "u/Lunchbag__Rodriguez · r/running",
+      "handle": "running",
+      "org": "r/running",
+      "platform": "reddit",
+      "published": "2026-08-08T23:24:23.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/running"
+      ],
+      "summary": "Hello all, Most I’ve ever run in my life was a half marathon 2 years ago. I got injured in the last quarter miles from not strength training and stretching enough. It’s been a long fall from grace and I took a two year break from running. Now I am overweight and trying to get back into endurance running so I’m looking…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/running this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vj8lag",
+      "title": "73 NeurIPS workshops, and not a single one on Causality [R]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vj8lag/73_neurips_workshops_and_not_a_single_one_on/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/MachineLearning · community knowledge",
+      "content_type": "post",
+      "author": "u/Beautiful_Baker_2233 · r/MachineLearning",
+      "handle": "MachineLearning",
+      "org": "r/MachineLearning",
+      "platform": "reddit",
+      "published": "2026-08-08T22:12:37.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/MachineLearning"
+      ],
+      "summary": "Is this it for Causal Inference? Looks like the field continues to be of interest only at UAI/AISTATS/CLeaR. All good venues, but LLMs/Agents/etc seem to have eaten much of the lunch of several other subfields at the top 3 conferences. God help us all. **p.s.** the list:…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1vj4oym",
       "title": "Built a Real-Time Underwater Image Processing System – 4K 60FPS Part2.",
       "link": "https://www.reddit.com/r/robotics/comments/1vj4oym/built_a_realtime_underwater_image_processing/",
@@ -773,6 +855,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/gadgets this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vimzc3",
+      "title": "Achievements for Saturday, August 08, 2026",
+      "link": "https://www.reddit.com/r/running/comments/1vimzc3/achievements_for_saturday_august_08_2026/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/running · community knowledge",
+      "content_type": "post",
+      "author": "u/AutoModerator · r/running",
+      "handle": "running",
+      "org": "r/running",
+      "platform": "reddit",
+      "published": "2026-08-08T05:02:08.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/running"
+      ],
+      "summary": "Hey runners, it&#39;s another day and it is time to post your accomplishments you&#39;d like to share - big or small. Note: No need to preface YOUR accomplishments with something like, &quot;this may not be an accomplishment to most of you...&quot;. Be proud of your achievement. &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/running this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1325,124 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/netsec this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vhfxic",
-      "title": "Heavy metal contamination - is this a real problem?",
-      "link": "https://www.reddit.com/r/nutrition/comments/1vhfxic/heavy_metal_contamination_is_this_a_real_problem/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/nutrition · community knowledge",
-      "content_type": "post",
-      "author": "u/darkprincess3112 · r/nutrition",
-      "handle": "nutrition",
-      "org": "r/nutrition",
-      "platform": "reddit",
-      "published": "2026-08-06T20:34:37.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Nutrition",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "Nutrition",
-        "r/nutrition"
-      ],
-      "summary": "You read it everywhere; lead, cadmium, arsenic, aluminium in many types of foods and drinks. Combined with mold and pesticides. Is there anything that is still save? What do you have to avoid or limit? Or do you think this problem is overrated? &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/nutrition this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vhe8ua",
-      "title": "From 238lbs to 137lbs, using my body as resistance",
-      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1vhe8ua/from_238lbs_to_137lbs_using_my_body_as_resistance/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/bodyweightfitness · community knowledge",
-      "content_type": "post",
-      "author": "u/DiamondCalvesFan · r/bodyweightfitness",
-      "handle": "bodyweightfitness",
-      "org": "r/bodyweightfitness",
-      "platform": "reddit",
-      "published": "2026-08-06T19:31:36.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/bodyweightfitness"
-      ],
-      "summary": "I did it! I achieved my final result in the span of 2 years, and since then, I’ve been maintaining it. IMO, maintaining the result is actually harder than reaching it in the first place. My current setup is this: a 15min warmup on the stationary bike, then 35min concentrated on my whole body (mostly arms, back, and…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/bodyweightfitness this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vhe8ml",
-      "title": "I tested my robotic lamp’s positioning repeatability -about 0.03 mm average deviation across 10 repetitions",
-      "link": "https://www.reddit.com/r/robotics/comments/1vhe8ml/i_tested_my_robotic_lamps_positioning/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/robotics · community knowledge",
-      "content_type": "post",
-      "author": "u/Ok_Stress3654 · r/robotics",
-      "handle": "robotics",
-      "org": "r/robotics",
-      "platform": "reddit",
-      "published": "2026-08-06T19:31:23.000Z",
-      "image": "https://external-preview.redd.it/a292eW5zdnEzdGhoMYRQhWhaLP0_OA9TwYaat0taxXizLLkR3VBY5Lf9U6Qk.png?width=320&crop=smart&auto=webp&s=02aa8e66a9fd70b22ef97a1c1d8fb8c86e6c67ec",
-      "thumbnail": "https://external-preview.redd.it/a292eW5zdnEzdGhoMYRQhWhaLP0_OA9TwYaat0taxXizLLkR3VBY5Lf9U6Qk.png?width=320&crop=smart&auto=webp&s=02aa8e66a9fd70b22ef97a1c1d8fb8c86e6c67ec",
-      "section": "Robotics",
-      "category": "Robotics",
-      "genre": "Robotics",
-      "categories": [
-        "Reddit",
-        "Robotics",
-        "r/robotics"
-      ],
-      "summary": "I ran a preliminary test to see how consistently Watti could return to the same position. Across 10 repetitions, the average measured deviation was about 0.03 mm. This was only a simple test at one position using a dial indicator, but the result was better than I expected. Next, I want to experiment with using her…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/robotics this week"
       ],
       "metrics": {
         "likes": 0,
