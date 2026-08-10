@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-08-10T11:54:01.630Z",
+  "generated_at": "2026-08-10T13:19:35.711Z",
   "subs": [
     "MachineLearning",
-    "artificial",
+    "Futurology",
+    "netsec",
     "nutrition",
-    "investing",
     "singularity",
     "gadgets",
     "longevity",
+    "artificial",
     "bodyweightfitness",
     "programming",
-    "netsec",
     "robotics",
     "cybersecurity",
     "hardware",
     "science",
-    "SkincareAddiction",
-    "startups"
+    "investing",
+    "SkincareAddiction"
   ],
   "count": 36,
   "by_category": {
     "Fitness": 6,
+    "Science": 4,
     "AI / ML": 6,
     "Hardware & Gadgets": 6,
-    "Science": 3,
     "Coding & Dev Tools": 1,
     "Security": 6,
     "Robotics": 2,
-    "Startups & Funding": 4,
+    "Startups & Funding": 3,
     "Skincare": 2
   },
   "articles": [
@@ -64,6 +64,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/nutrition this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vk4u7o",
+      "title": "'AI Is Destroying Jobs Faster Than It Is Visibly Creating Them': Tech Layoffs Hit Record Highs",
+      "link": "https://www.reddit.com/r/Futurology/comments/1vk4u7o/ai_is_destroying_jobs_faster_than_it_is_visibly/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/Futurology · community knowledge",
+      "content_type": "post",
+      "author": "u/Gari_305 · r/Futurology",
+      "handle": "Futurology",
+      "org": "r/Futurology",
+      "platform": "reddit",
+      "published": "2026-08-09T23:37:31.000Z",
+      "image": "https://external-preview.redd.it/Wq-RcsNyy30ioJOnetKdhqb1q28w5sgJgiVCHhjNx6Y.png?width=640&crop=smart&auto=webp&s=c2d066cfc5b92bb50db915e6402db4adb4c7b463",
+      "thumbnail": "https://external-preview.redd.it/Wq-RcsNyy30ioJOnetKdhqb1q28w5sgJgiVCHhjNx6Y.png?width=640&crop=smart&auto=webp&s=c2d066cfc5b92bb50db915e6402db4adb4c7b463",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/Futurology"
+      ],
+      "summary": "Corporate innovation comes at a devastating human cost as Silicon Valley trades its workforce for automated futures &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/Futurology this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1404,46 +1443,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/robotics this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vh6kgj",
-      "title": "I traced the \"9 out of 10 startups fail\" stat to its source. There isn't one. (i will not promote)",
-      "link": "https://www.reddit.com/r/startups/comments/1vh6kgj/i_traced_the_9_out_of_10_startups_fail_stat_to/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/startups · community knowledge",
-      "content_type": "post",
-      "author": "u/popcornjebus · r/startups",
-      "handle": "startups",
-      "org": "r/startups",
-      "platform": "reddit",
-      "published": "2026-08-06T14:56:06.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/startups"
-      ],
-      "summary": "Everyone in this community repeats the same number. Nine out of ten startups fail. We say it like it&#39;s gravity. I have a mental tick where if something doesn&#39;t make sense I can&#39;t let it go. So I went looking for where the number actually comes from. It got worse the deeper I dug. The most-linked source is…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/startups this week"
       ],
       "metrics": {
         "likes": 0,
