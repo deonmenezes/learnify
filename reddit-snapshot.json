@@ -1,34 +1,36 @@
 {
-  "generated_at": "2026-08-10T22:44:38.892Z",
+  "generated_at": "2026-08-10T23:42:07.501Z",
   "subs": [
     "MachineLearning",
-    "science",
-    "netsec",
+    "LocalLLaMA",
+    "running",
+    "startups",
     "singularity",
     "nutrition",
     "Futurology",
     "hardware",
+    "netsec",
     "gadgets",
     "longevity",
     "artificial",
     "bodyweightfitness",
     "programming",
-    "running",
     "robotics",
     "cybersecurity",
+    "science",
     "investing",
     "SkincareAddiction"
   ],
   "count": 36,
   "by_category": {
-    "AI / ML": 8,
+    "AI / ML": 10,
     "Fitness": 5,
     "Science": 4,
     "Hardware & Gadgets": 6,
-    "Security": 6,
+    "Security": 5,
     "Coding & Dev Tools": 1,
     "Robotics": 1,
-    "Startups & Funding": 3,
+    "Startups & Funding": 2,
     "Skincare": 2
   },
   "articles": [
@@ -105,6 +107,86 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vkk6vy",
+      "title": "Mark Zuckerberg on releases",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1vkk6vy/mark_zuckerberg_on_releases/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/LocalLLaMA · community knowledge",
+      "content_type": "post",
+      "author": "u/jacek2023 · r/LocalLLaMA",
+      "handle": "LocalLLaMA",
+      "org": "r/LocalLLaMA",
+      "platform": "reddit",
+      "published": "2026-08-10T13:00:29.000Z",
+      "image": "https://preview.redd.it/qtffhlaqpjih1.jpeg?width=640&crop=smart&auto=webp&s=f4467ca193ad9a3439287e9e08f105cdaa3318e6",
+      "thumbnail": "https://preview.redd.it/qtffhlaqpjih1.jpeg?width=640&crop=smart&auto=webp&s=f4467ca193ad9a3439287e9e08f105cdaa3318e6",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/LocalLLaMA"
+      ],
+      "summary": "https://x.com/i/status/2086755195535413696 &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/LocalLLaMA this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vkgsum",
+      "title": "Introducing Muse Glimmer: an open-weight model optimized for always-on local agent workflows",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1vkgsum/introducing_muse_glimmer_an_openweight_model/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/LocalLLaMA · community knowledge",
+      "content_type": "post",
+      "author": "u/AIatMeta · r/LocalLLaMA",
+      "handle": "LocalLLaMA",
+      "org": "r/LocalLLaMA",
+      "platform": "reddit",
+      "published": "2026-08-10T10:14:15.000Z",
+      "image": "https://preview.redd.it/d61pdytdviih1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=a9bd06548c930452218a339ca26a79de14dd13cd",
+      "thumbnail": "https://preview.redd.it/d61pdytdviih1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=a9bd06548c930452218a339ca26a79de14dd13cd",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/LocalLLaMA"
+      ],
+      "summary": "Hi r/LocalLLaMA 👋 Today we’re excited to release Muse Glimmer, a 30B open-weight model built specifically for local agent workflows. We’re releasing the weights to the community under a permissive Apache 2.0 license. A few specs 30B params, dense Multimodal: interleaved text + images via a dedicated perception…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/LocalLLaMA this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1365,85 +1447,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/hardware this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vhydky",
-      "title": "Chinese Router Backdoor Opens Root Access on 100,000 Devices Worldwide",
-      "link": "https://www.reddit.com/r/cybersecurity/comments/1vhydky/chinese_router_backdoor_opens_root_access_on/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/cybersecurity · community knowledge",
-      "content_type": "post",
-      "author": "u/Revolutionary-Cod276 · r/cybersecurity",
-      "handle": "cybersecurity",
-      "org": "r/cybersecurity",
-      "platform": "reddit",
-      "published": "2026-08-07T11:47:26.000Z",
-      "image": "https://external-preview.redd.it/Cd63fab9RgbjUaQV7ECCk3bfykrvqCWYgwvnnFtIYXY.jpeg?width=640&crop=smart&auto=webp&s=17a7f29d13826d03f21da89814ff0e4d2312cbea",
-      "thumbnail": "https://external-preview.redd.it/Cd63fab9RgbjUaQV7ECCk3bfykrvqCWYgwvnnFtIYXY.jpeg?width=640&crop=smart&auto=webp&s=17a7f29d13826d03f21da89814ff0e4d2312cbea",
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/cybersecurity"
-      ],
-      "summary": "Jacob Baines, chief technology officer at security firm VulnCheck, said more than 20 models of Chinese-made Zbtlink routers ship with a hidden backdoor that hands outsiders a route onto the local network, in a finding published August 5. &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/cybersecurity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vhwzlz",
-      "title": "Oil rises as Iran’s draft plan sees U.S. and Israel banned from Strait of Hormuz",
-      "link": "https://www.reddit.com/r/investing/comments/1vhwzlz/oil_rises_as_irans_draft_plan_sees_us_and_israel/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/investing · community knowledge",
-      "content_type": "post",
-      "author": "u/VictorChristian · r/investing",
-      "handle": "investing",
-      "org": "r/investing",
-      "platform": "reddit",
-      "published": "2026-08-07T10:35:08.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/investing"
-      ],
-      "summary": "Doesn’t look like this mess will be tidied up anytime soon... Worries over oil supply disruptions continue to linger after Iran published a restrictive draft plan for the Strait of Hormuz. According to the apparent draft plan published by Iran, the country would ban U.S. and Israeli ships from transiting the strait.…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/investing this week"
       ],
       "metrics": {
         "likes": 0,
