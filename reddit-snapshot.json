@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-08-10T06:00:01.084Z",
+  "generated_at": "2026-08-10T07:53:19.286Z",
   "subs": [
     "MachineLearning",
-    "artificial",
+    "bodyweightfitness",
+    "robotics",
     "nutrition",
-    "investing",
     "longevity",
     "programming",
     "netsec",
-    "robotics",
     "cybersecurity",
+    "artificial",
     "hardware",
     "science",
+    "investing",
     "SkincareAddiction",
     "singularity",
     "gadgets",
-    "bodyweightfitness",
     "startups"
   ],
   "count": 36,
   "by_category": {
-    "Fitness": 5,
+    "Fitness": 6,
     "Science": 4,
     "Coding & Dev Tools": 1,
     "Security": 6,
     "Robotics": 2,
     "AI / ML": 5,
     "Hardware & Gadgets": 6,
-    "Startups & Funding": 5,
+    "Startups & Funding": 4,
     "Skincare": 2
   },
   "articles": [
@@ -144,6 +144,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/longevity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vjo4id",
+      "title": "Fit male - physically impossible for me to do a single unanchored sit up",
+      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1vjo4id/fit_male_physically_impossible_for_me_to_do_a/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/bodyweightfitness · community knowledge",
+      "content_type": "post",
+      "author": "u/TheOnlyBasedRedditor · r/bodyweightfitness",
+      "handle": "bodyweightfitness",
+      "org": "r/bodyweightfitness",
+      "platform": "reddit",
+      "published": "2026-08-09T12:02:29.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/bodyweightfitness"
+      ],
+      "summary": "Honestly that exercise pisses me off and this is more of a rant / meta post for everyone&#39;s enjoyment. I&#39;m so tired of having to explain to people in the fitness community how sit ups work and why I can&#39;t do them. At first I thought that I&#39;m just doing something wrong but that&#39;s not the case, my…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/bodyweightfitness this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1404,46 +1443,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/hardware this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vgzb54",
-      "title": "The S&P 500 hit a record while its forward P/E fell. Are earnings finally catching up?",
-      "link": "https://www.reddit.com/r/investing/comments/1vgzb54/the_sp_500_hit_a_record_while_its_forward_pe_fell/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/investing · community knowledge",
-      "content_type": "post",
-      "author": "u/FailOk1528 · r/investing",
-      "handle": "investing",
-      "org": "r/investing",
-      "platform": "reddit",
-      "published": "2026-08-06T09:25:37.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/investing"
-      ],
-      "summary": "The S&amp;P 500 is back at a record, but the valuation story looks a little different this time. Forward P/E is around 20.4, while Q2 earnings are tracking roughly 31% above last year. Tech earnings are up around 72%. I’ve been pretty skeptical of this rally because 20x earnings with the 10-year near 4.6% still isn’t…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/investing this week"
       ],
       "metrics": {
         "likes": 0,
