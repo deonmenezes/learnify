@@ -1,22 +1,20 @@
 {
-  "generated_at": "2026-08-10T16:11:08.102Z",
+  "generated_at": "2026-08-10T17:32:27.082Z",
   "subs": [
     "MachineLearning",
-    "LocalLLaMA",
-    "running",
-    "startups",
+    "longevity",
+    "hardware",
     "nutrition",
     "Futurology",
     "singularity",
     "gadgets",
-    "longevity",
     "artificial",
     "bodyweightfitness",
     "programming",
     "netsec",
+    "running",
     "robotics",
     "cybersecurity",
-    "hardware",
     "science",
     "investing",
     "SkincareAddiction"
@@ -25,10 +23,10 @@
   "by_category": {
     "Fitness": 6,
     "Science": 4,
+    "Hardware & Gadgets": 7,
     "AI / ML": 7,
-    "Hardware & Gadgets": 6,
     "Coding & Dev Tools": 1,
-    "Security": 6,
+    "Security": 5,
     "Robotics": 1,
     "Startups & Funding": 3,
     "Skincare": 2
@@ -106,6 +104,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Futurology this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vk290b",
+      "title": "Memory prices have erased 20 years of progress in a single year, researcher says",
+      "link": "https://www.reddit.com/r/hardware/comments/1vk290b/memory_prices_have_erased_20_years_of_progress_in/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/hardware · community knowledge",
+      "content_type": "post",
+      "author": "u/wickedplayer494 · r/hardware",
+      "handle": "hardware",
+      "org": "r/hardware",
+      "platform": "reddit",
+      "published": "2026-08-09T21:45:36.000Z",
+      "image": "https://external-preview.redd.it/u5D5FyS9SdzNywVAQciyiud3GecJyyuhfSR4nvQzn6k.jpeg?width=640&crop=smart&auto=webp&s=ffd03c169c8cca957fefe88715a898748bfed7a1",
+      "thumbnail": "https://external-preview.redd.it/u5D5FyS9SdzNywVAQciyiud3GecJyyuhfSR4nvQzn6k.jpeg?width=640&crop=smart&auto=webp&s=ffd03c169c8cca957fefe88715a898748bfed7a1",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/hardware"
+      ],
+      "summary": "Memory prices have erased 20 years of progress in a single year, researcher says",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/hardware this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1407,45 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/artificial this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vhh5xw",
-      "title": "Claude Code RCE: How a Malicious PR Triggers Code Execution",
-      "link": "https://www.reddit.com/r/netsec/comments/1vhh5xw/claude_code_rce_how_a_malicious_pr_triggers_code/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/netsec · community knowledge",
-      "content_type": "post",
-      "author": "u/kev-thehermit · r/netsec",
-      "handle": "netsec",
-      "org": "r/netsec",
-      "platform": "reddit",
-      "published": "2026-08-06T21:22:53.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/netsec"
-      ],
-      "summary": "Abusing the trust boundary in Claude Code for RCE. Trust is never broken and that opens up a few avenues for abuse. Simply opening claude code on a PR can be enough to silently trigger attacker payloads. &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/netsec this week"
       ],
       "metrics": {
         "likes": 0,
