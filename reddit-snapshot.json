@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-11T10:29:44.086Z",
+  "generated_at": "2026-08-11T11:25:36.493Z",
   "subs": [
     "MachineLearning",
-    "science",
-    "cybersecurity",
+    "Futurology",
+    "netsec",
     "artificial",
+    "science",
     "SkincareAddiction",
     "LocalLLaMA",
     "bodyweightfitness",
     "hardware",
     "singularity",
     "nutrition",
-    "Futurology",
-    "netsec",
     "gadgets",
     "longevity",
     "programming",
     "running",
     "robotics",
+    "cybersecurity",
     "investing"
   ],
   "count": 36,
   "by_category": {
-    "AI / ML": 11,
-    "Science": 5,
+    "AI / ML": 10,
+    "Science": 6,
     "Skincare": 1,
     "Fitness": 6,
     "Hardware & Gadgets": 6,
@@ -106,6 +106,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/artificial this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vkq4xd",
+      "title": "Power companies are using eminent domain to seize land for data centers as 70% of Americans say not in my backyard",
+      "link": "https://www.reddit.com/r/Futurology/comments/1vkq4xd/power_companies_are_using_eminent_domain_to_seize/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/Futurology · community knowledge",
+      "content_type": "post",
+      "author": "u/Confident_Salt_8108 · r/Futurology",
+      "handle": "Futurology",
+      "org": "r/Futurology",
+      "platform": "reddit",
+      "published": "2026-08-10T16:44:06.000Z",
+      "image": "https://external-preview.redd.it/FdbRTYTebBSL9_pINsNFlK-1nRMY7C2x7zSS63RTAwQ.jpeg?width=640&crop=smart&auto=webp&s=701f7c49fb1fe9b4c5203caad25f48e7fec4da52",
+      "thumbnail": "https://external-preview.redd.it/FdbRTYTebBSL9_pINsNFlK-1nRMY7C2x7zSS63RTAwQ.jpeg?width=640&crop=smart&auto=webp&s=701f7c49fb1fe9b4c5203caad25f48e7fec4da52",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/Futurology"
+      ],
+      "summary": "Power companies are using eminent domain to seize land for data centers as 70% of Americans say not in my backyard",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/Futurology this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1406,46 +1445,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/running this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vigmw3",
-      "title": "Learned the term \"context poisoning\" today and now I can't stop noticing it",
-      "link": "https://www.reddit.com/r/artificial/comments/1vigmw3/learned_the_term_context_poisoning_today_and_now/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/artificial · community knowledge",
-      "content_type": "post",
-      "author": "u/ClickOk5811 · r/artificial",
-      "handle": "artificial",
-      "org": "r/artificial",
-      "platform": "reddit",
-      "published": "2026-08-07T23:49:24.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/artificial"
-      ],
-      "summary": "Someone explained this to me in a comment thread and it&#39;s been rattling around in my head since. The idea: in a long conversation, if the model says something wrong and you correct it, that correction doesn&#39;t necessarily erase the wrong idea&#39;s influence. The tokens around the mistake, including the…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/artificial this week"
       ],
       "metrics": {
         "likes": 0,
