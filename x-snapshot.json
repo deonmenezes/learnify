@@ -1,16 +1,59 @@
 {
-  "generated_at": "2026-08-11T12:13:22.792Z",
+  "generated_at": "2026-08-11T14:00:09.138Z",
   "handles": [
+    "nvidia",
+    "GoogleDeepMind",
+    "satyanadella",
+    "AIatMeta",
     "AnthropicAI",
     "OpenAI",
-    "nvidia",
-    "AIatMeta",
     "gdb",
-    "GoogleDeepMind",
     "elonmusk"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2087172614896988545",
+      "title": "Today, NVIDIA announced NVIDIA Nemotron 3.5 Lightning, a customizable model for high-volume, specialized work, and NVIDIA NeMo Switchyard, which helps agents route each workflow step across the…",
+      "link": "https://x.com/nvidia/status/2087172614896988545",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-08-11T13:41:43.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product launch",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product launch"
+      ],
+      "summary": "Today, NVIDIA announced NVIDIA Nemotron 3.5 Lightning, a customizable model for high-volume, specialized work, and NVIDIA NeMo Switchyard, which helps agents route each workflow step across the models they choose. ⚡ http://x.com/i/article/2086968907404095488",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 100,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "announcement language (announced)",
+        "tech substance (model, models, nemotron)",
+        "links to a source"
+      ],
+      "metrics": {
+        "likes": 90,
+        "retweets": 14,
+        "replies": 17,
+        "likes_h": "90"
+      },
+      "engagement": 135,
+      "hot": false
+    },
     {
       "id": "x_2086936400830861440",
       "title": "NVIDIA compute is a productive, investable asset. We’re partnering with six of the world’s leading long-term capital providers to establish independent financing platforms aimed at mobilizing over…",
@@ -41,16 +84,16 @@
       "reasons": [
         "report-worthy",
         "business signal (partnering, customers)",
-        "high engagement (1.7K likes)",
+        "high engagement (1.9K likes)",
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 1720,
-        "retweets": 152,
-        "replies": 72,
-        "likes_h": "1.7K"
+        "likes": 1907,
+        "retweets": 175,
+        "replies": 83,
+        "likes_h": "1.9K"
       },
-      "engagement": 2096,
+      "engagement": 2340,
       "hot": false
     },
     {
@@ -249,16 +292,16 @@
         "report-worthy",
         "announcement language (introducing)",
         "tech substance (model, models, agent)",
-        "high engagement (7.6K likes)",
+        "high engagement (7.8K likes)",
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 7604,
-        "retweets": 961,
-        "replies": 284,
-        "likes_h": "7.6K"
+        "likes": 7766,
+        "retweets": 988,
+        "replies": 294,
+        "likes_h": "7.8K"
       },
-      "engagement": 9810,
+      "engagement": 10036,
       "hot": false
     },
     {
@@ -334,15 +377,15 @@
         "casual tone (this)",
         "tech substance (platform)",
         "links to a source",
-        "high engagement (972 likes)"
+        "high engagement (976 likes)"
       ],
       "metrics": {
-        "likes": 972,
-        "retweets": 123,
+        "likes": 976,
+        "retweets": 124,
         "replies": 97,
-        "likes_h": "972"
+        "likes_h": "976"
       },
-      "engagement": 1315,
+      "engagement": 1321,
       "hot": false
     },
     {
@@ -417,15 +460,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (gemini, robotics)",
-        "high engagement (871 likes)"
+        "high engagement (874 likes)"
       ],
       "metrics": {
-        "likes": 871,
-        "retweets": 114,
-        "replies": 109,
-        "likes_h": "871"
+        "likes": 874,
+        "retweets": 115,
+        "replies": 110,
+        "likes_h": "874"
       },
-      "engagement": 1208,
+      "engagement": 1214,
       "hot": false
     },
     {
@@ -462,12 +505,12 @@
         "high engagement (2.3K likes)"
       ],
       "metrics": {
-        "likes": 2275,
-        "retweets": 266,
+        "likes": 2276,
+        "retweets": 265,
         "replies": 95,
         "likes_h": "2.3K"
       },
-      "engagement": 2902,
+      "engagement": 2901,
       "hot": false
     },
     {
@@ -587,12 +630,12 @@
         "tech substance (models, nemotron)"
       ],
       "metrics": {
-        "likes": 327,
+        "likes": 326,
         "retweets": 40,
         "replies": 65,
-        "likes_h": "327"
+        "likes_h": "326"
       },
-      "engagement": 472,
+      "engagement": 471,
       "hot": false
     },
     {
@@ -629,12 +672,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 1480,
-        "retweets": 191,
+        "likes": 1488,
+        "retweets": 193,
         "replies": 103,
         "likes_h": "1.5K"
       },
-      "engagement": 1965,
+      "engagement": 1977,
       "hot": false
     },
     {
@@ -669,12 +712,12 @@
         "tech substance (models)"
       ],
       "metrics": {
-        "likes": 306,
+        "likes": 305,
         "retweets": 40,
         "replies": 44,
-        "likes_h": "306"
+        "likes_h": "305"
       },
-      "engagement": 430,
+      "engagement": 429,
       "hot": false
     },
     {
@@ -1299,46 +1342,6 @@
       },
       "engagement": 65038,
       "hot": true
-    },
-    {
-      "id": "x_2083435180392673714",
-      "title": "at openai, many people hook their chatgpt up to slack. people really don't like when a coworker's chatgpt contacts them asking for help with a task, even when they'd be perfectly happy doing that…",
-      "link": "https://x.com/gdb/status/2083435180392673714",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Greg Brockman · @gdb",
-      "handle": "gdb",
-      "org": "OpenAI",
-      "published": "2026-08-01T06:10:30.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Commentary"
-      ],
-      "summary": "at openai, many people hook their chatgpt up to slack. people really don't like when a coworker's chatgpt contacts them asking for help with a task, even when they'd be perfectly happy doing that same work if asked by that coworker. reinforces how much people care about human",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 56,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "high engagement (9.1K likes)"
-      ],
-      "metrics": {
-        "likes": 9077,
-        "retweets": 373,
-        "replies": 528,
-        "likes_h": "9.1K"
-      },
-      "engagement": 10351,
-      "hot": false
     }
   ]
 }
