@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-10T23:39:52.418Z",
+  "generated_at": "2026-08-11T01:58:38.567Z",
   "handles": [
-    "nvidia",
     "AnthropicAI",
     "OpenAI",
+    "nvidia",
     "AIatMeta",
     "gdb",
     "GoogleDeepMind",
@@ -82,16 +82,16 @@
       "reasons": [
         "report-worthy",
         "tech substance (claude, research, version)",
-        "high engagement (2.8K likes)"
+        "high engagement (12.5K likes)"
       ],
       "metrics": {
-        "likes": 2821,
-        "retweets": 272,
-        "replies": 240,
-        "likes_h": "2.8K"
+        "likes": 12504,
+        "retweets": 1290,
+        "replies": 612,
+        "likes_h": "12.5K"
       },
-      "engagement": 3605,
-      "hot": false
+      "engagement": 15696,
+      "hot": true
     },
     {
       "id": "x_2086864372500942906",
@@ -117,7 +117,7 @@
       "summary": "We've used GPT-5.6-Cyber extensively in real-world vulnerability research, including work that uncovered previously unknown vulnerabilities in popular open-source software like Chrome’s v8 engine.",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 56,
+      "worthiness_score": 58,
       "sentiment": "positive",
       "sentiment_score": 0.5,
       "reasons": [
@@ -126,12 +126,12 @@
         "tech substance (gpt, open-source, research)"
       ],
       "metrics": {
-        "likes": 236,
-        "retweets": 6,
-        "replies": 9,
-        "likes_h": "236"
+        "likes": 386,
+        "retweets": 9,
+        "replies": 10,
+        "likes_h": "386"
       },
-      "engagement": 257,
+      "engagement": 414,
       "hot": false
     },
     {
@@ -158,7 +158,7 @@
       "summary": "Daybreak Red provides access to purpose-trained cybersecurity models, including GPT-5.6-Cyber, for authorized vulnerability research, exploit validation, and security testing. It’s designed for experienced defenders working on complex, authorized cybersecurity challenges.",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 57,
+      "worthiness_score": 59,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -167,12 +167,12 @@
         "tech substance (models, gpt, research)"
       ],
       "metrics": {
-        "likes": 319,
-        "retweets": 16,
-        "replies": 4,
-        "likes_h": "319"
+        "likes": 528,
+        "retweets": 20,
+        "replies": 7,
+        "likes_h": "528"
       },
-      "engagement": 355,
+      "engagement": 575,
       "hot": false
     },
     {
@@ -206,15 +206,15 @@
         "report-worthy",
         "announcement language (introducing)",
         "tech substance (model, gpt)",
-        "high engagement (3.4K likes)"
+        "high engagement (6.1K likes)"
       ],
       "metrics": {
-        "likes": 3428,
-        "retweets": 250,
-        "replies": 228,
-        "likes_h": "3.4K"
+        "likes": 6063,
+        "retweets": 511,
+        "replies": 350,
+        "likes_h": "6.1K"
       },
-      "engagement": 4156,
+      "engagement": 7435,
       "hot": false
     },
     {
@@ -299,7 +299,7 @@
         "likes_h": "10.4K"
       },
       "engagement": 11645,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2086040693596659932",
@@ -378,12 +378,12 @@
         "high engagement (9.6K likes)"
       ],
       "metrics": {
-        "likes": 9570,
-        "retweets": 842,
-        "replies": 811,
+        "likes": 9583,
+        "retweets": 845,
+        "replies": 813,
         "likes_h": "9.6K"
       },
-      "engagement": 12065,
+      "engagement": 12086,
       "hot": true
     },
     {
@@ -505,12 +505,12 @@
         "high engagement (1.1K likes)"
       ],
       "metrics": {
-        "likes": 1062,
+        "likes": 1067,
         "retweets": 52,
         "replies": 74,
         "likes_h": "1.1K"
       },
-      "engagement": 1240,
+      "engagement": 1245,
       "hot": false
     },
     {
@@ -546,12 +546,12 @@
         "high engagement (20.8K likes)"
       ],
       "metrics": {
-        "likes": 20773,
-        "retweets": 1815,
-        "replies": 1226,
+        "likes": 20804,
+        "retweets": 1822,
+        "replies": 1233,
         "likes_h": "20.8K"
       },
-      "engagement": 25629,
+      "engagement": 25681,
       "hot": true
     },
     {
@@ -836,12 +836,12 @@
         "high engagement (2.5K likes)"
       ],
       "metrics": {
-        "likes": 2503,
-        "retweets": 449,
-        "replies": 470,
+        "likes": 2512,
+        "retweets": 451,
+        "replies": 471,
         "likes_h": "2.5K"
       },
-      "engagement": 3871,
+      "engagement": 3885,
       "hot": false
     },
     {
@@ -1337,7 +1337,7 @@
         "likes_h": "9.1K"
       },
       "engagement": 10351,
-      "hot": true
+      "hot": false
     }
   ]
 }

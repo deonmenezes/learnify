@@ -1,11 +1,10 @@
 {
-  "generated_at": "2026-08-10T23:42:07.501Z",
+  "generated_at": "2026-08-11T02:00:53.991Z",
   "subs": [
     "MachineLearning",
-    "LocalLLaMA",
-    "running",
-    "startups",
     "singularity",
+    "SkincareAddiction",
+    "LocalLLaMA",
     "nutrition",
     "Futurology",
     "hardware",
@@ -15,23 +14,23 @@
     "artificial",
     "bodyweightfitness",
     "programming",
+    "running",
     "robotics",
     "cybersecurity",
     "science",
-    "investing",
-    "SkincareAddiction"
+    "investing"
   ],
   "count": 36,
   "by_category": {
     "AI / ML": 10,
+    "Skincare": 3,
     "Fitness": 5,
     "Science": 4,
-    "Hardware & Gadgets": 6,
+    "Hardware & Gadgets": 5,
     "Security": 5,
     "Coding & Dev Tools": 1,
     "Robotics": 1,
-    "Startups & Funding": 2,
-    "Skincare": 2
+    "Startups & Funding": 2
   },
   "articles": [
     {
@@ -107,6 +106,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vklzih",
+      "title": "[B&A] Two weeks of using azelaic acid! Thank you all for the insane results!",
+      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1vklzih/ba_two_weeks_of_using_azelaic_acid_thank_you_all/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/SkincareAddiction · community knowledge",
+      "content_type": "post",
+      "author": "u/Acrobatic-Painter499 · r/SkincareAddiction",
+      "handle": "SkincareAddiction",
+      "org": "r/SkincareAddiction",
+      "platform": "reddit",
+      "published": "2026-08-10T14:12:09.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Skincare",
+      "category": "Skincare",
+      "genre": "Skincare",
+      "categories": [
+        "Reddit",
+        "Skincare",
+        "r/SkincareAddiction"
+      ],
+      "summary": "I would like to personally thank everyone that recommended azelaic acid for my post-acne skin discoloration. Literally two weeks and I’ve already seen a massive improvement!! The first pic is from my original post (day 1) and the second is day 14! Hopefully I’m not seeing placebo, but I feel like there’s a huge…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/SkincareAddiction this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1408,45 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/netsec this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vi7eqk",
-      "title": "Exclusive: Apple is Scrambling for DRAM Weeks Ahead of Ultra, iPhone 18 Launch",
-      "link": "https://www.reddit.com/r/hardware/comments/1vi7eqk/exclusive_apple_is_scrambling_for_dram_weeks/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/hardware · community knowledge",
-      "content_type": "post",
-      "author": "u/FragmentedChicken · r/hardware",
-      "handle": "hardware",
-      "org": "r/hardware",
-      "platform": "reddit",
-      "published": "2026-08-07T17:43:20.000Z",
-      "image": "https://external-preview.redd.it/MMZEuxTmjqXyrLJVbf32Hbik93PP2mRBW4HG6bPW_-s.jpeg?width=640&crop=smart&auto=webp&s=ada1a9db18580320038d83fe06bb0287e8695fc9",
-      "thumbnail": "https://external-preview.redd.it/MMZEuxTmjqXyrLJVbf32Hbik93PP2mRBW4HG6bPW_-s.jpeg?width=640&crop=smart&auto=webp&s=ada1a9db18580320038d83fe06bb0287e8695fc9",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/hardware"
-      ],
-      "summary": "Exclusive: Apple is Scrambling for DRAM Weeks Ahead of Ultra, iPhone 18 Launch",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/hardware this week"
       ],
       "metrics": {
         "likes": 0,
