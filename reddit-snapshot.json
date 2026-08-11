@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-08-11T05:16:11.009Z",
+  "generated_at": "2026-08-11T06:33:03.834Z",
   "subs": [
     "MachineLearning",
+    "artificial",
+    "running",
+    "investing",
+    "SkincareAddiction",
     "LocalLLaMA",
     "bodyweightfitness",
-    "startups",
-    "SkincareAddiction",
     "singularity",
     "nutrition",
     "Futurology",
@@ -13,17 +15,14 @@
     "netsec",
     "gadgets",
     "longevity",
-    "artificial",
     "programming",
-    "running",
     "robotics",
     "cybersecurity",
-    "science",
-    "investing"
+    "science"
   ],
   "count": 36,
   "by_category": {
-    "AI / ML": 10,
+    "AI / ML": 11,
     "Skincare": 3,
     "Fitness": 6,
     "Science": 4,
@@ -31,7 +30,7 @@
     "Security": 4,
     "Coding & Dev Tools": 1,
     "Robotics": 1,
-    "Startups & Funding": 2
+    "Startups & Funding": 1
   },
   "articles": [
     {
@@ -67,6 +66,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vkqa02",
+      "title": "Bernie Sanders has written a letter to Sam Altman, Dario Amodei, and Mark Zuckerberg urging them to immediately pause all AI development in the interest of humanity. And he warns if they do not take appropriate action now, the US Senate will.",
+      "link": "https://www.reddit.com/r/artificial/comments/1vkqa02/bernie_sanders_has_written_a_letter_to_sam_altman/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/artificial · community knowledge",
+      "content_type": "post",
+      "author": "u/sharkymcstevenson2 · r/artificial",
+      "handle": "artificial",
+      "org": "r/artificial",
+      "platform": "reddit",
+      "published": "2026-08-10T16:49:17.000Z",
+      "image": "https://preview.redd.it/hst1yb3jukih1.jpeg?width=640&crop=smart&auto=webp&s=3fb7f51a92687fb1b8c3c6a82b49980cb0571342",
+      "thumbnail": "https://preview.redd.it/hst1yb3jukih1.jpeg?width=640&crop=smart&auto=webp&s=3fb7f51a92687fb1b8c3c6a82b49980cb0571342",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/artificial"
+      ],
+      "summary": "Bernie Sanders has written a letter to Sam Altman, Dario Amodei, and Mark Zuckerberg urging them to immediately pause all AI development in the interest of humanity. And he warns if they do not take appropriate action now, the US Senate will.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/artificial this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1407,46 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/SkincareAddiction this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vi8ilo",
-      "title": "Airbnb earned interest on $12.2 billion last Q ...",
-      "link": "https://www.reddit.com/r/investing/comments/1vi8ilo/airbnb_earned_interest_on_122_billion_last_q/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/investing · community knowledge",
-      "content_type": "post",
-      "author": "u/Coolman14066 · r/investing",
-      "handle": "investing",
-      "org": "r/investing",
-      "platform": "reddit",
-      "published": "2026-08-07T18:23:22.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/investing"
-      ],
-      "summary": "Last quarter, Airbnb&#39;s revenue grew 17% to $3.61B. Net income reached $816 million. What boggles my mind is that 22% of that was earned interest on the $12.2B that AirBnB holds for its customers. It also ended the quarter holding $12.2 billion for customers. Basically, when you pay a deposit for an AirBnB trip,…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/investing this week"
       ],
       "metrics": {
         "likes": 0,
