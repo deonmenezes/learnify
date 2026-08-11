@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-08-11T06:33:03.834Z",
+  "generated_at": "2026-08-11T07:52:25.343Z",
   "subs": [
     "MachineLearning",
+    "longevity",
+    "hardware",
     "artificial",
-    "running",
-    "investing",
     "SkincareAddiction",
     "LocalLLaMA",
     "bodyweightfitness",
     "singularity",
     "nutrition",
     "Futurology",
-    "hardware",
     "netsec",
     "gadgets",
-    "longevity",
     "programming",
+    "running",
     "robotics",
     "cybersecurity",
-    "science"
+    "science",
+    "investing"
   ],
   "count": 36,
   "by_category": {
     "AI / ML": 11,
-    "Skincare": 3,
+    "Skincare": 2,
     "Fitness": 6,
+    "Hardware & Gadgets": 6,
     "Science": 4,
-    "Hardware & Gadgets": 5,
     "Security": 4,
     "Coding & Dev Tools": 1,
     "Robotics": 1,
@@ -304,6 +304,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/LocalLLaMA this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vkbxb9",
+      "title": "Noctua finds more than half of tested PC cases misstate CPU cooler clearances — hands-on checks reveal errors ranging from -3.5mm to +10mm, internal compatibility team conducted measurements of more than a hundred cases",
+      "link": "https://www.reddit.com/r/hardware/comments/1vkbxb9/noctua_finds_more_than_half_of_tested_pc_cases/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/hardware · community knowledge",
+      "content_type": "post",
+      "author": "u/sr_local · r/hardware",
+      "handle": "hardware",
+      "org": "r/hardware",
+      "platform": "reddit",
+      "published": "2026-08-10T05:25:25.000Z",
+      "image": "https://external-preview.redd.it/zxKK6TF9zufgDmEp27ysKByrivIJbb92kqlPBgQZqoA.jpeg?width=640&crop=smart&auto=webp&s=a8c512cc4ef635dc7e1dd7506336cc5f9133285d",
+      "thumbnail": "https://external-preview.redd.it/zxKK6TF9zufgDmEp27ysKByrivIJbb92kqlPBgQZqoA.jpeg?width=640&crop=smart&auto=webp&s=a8c512cc4ef635dc7e1dd7506336cc5f9133285d",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/hardware"
+      ],
+      "summary": "Noctua finds more than half of tested PC cases misstate CPU cooler clearances — hands-on checks reveal errors ranging from -3.5mm to +10mm, internal compatibility team conducted measurements of more than a hundred cases",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/hardware this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1400,45 +1439,6 @@
         "r/SkincareAddiction"
       ],
       "summary": "First two pics are two years ago. I’ve been through a lot since then, a round of antibiotics which helped, but it came back a year later. In the past 6 months did a couple rounds of TCA cool peels (environ 5%) in February and March. End of March started on tretinoin .25% (pm) and azelaic acid (am). No other irritants,…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/SkincareAddiction this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vib303",
-      "title": "[Routine help] I’m not sure if this is a fake post but how does one achieve this",
-      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1vib303/routine_help_im_not_sure_if_this_is_a_fake_post/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/SkincareAddiction · community knowledge",
-      "content_type": "post",
-      "author": "u/More-Journalist1748 · r/SkincareAddiction",
-      "handle": "SkincareAddiction",
-      "org": "r/SkincareAddiction",
-      "platform": "reddit",
-      "published": "2026-08-07T19:59:30.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Skincare",
-      "category": "Skincare",
-      "genre": "Skincare",
-      "categories": [
-        "Reddit",
-        "Skincare",
-        "r/SkincareAddiction"
-      ],
-      "summary": "I’m not sure if this is a fake post but how does one achieve this I have zero idea about this so I’d appreciate some tips and product recommendations and explaining it to me like I’m 5 years old thank u in advance I don’t really do anything besides… showering and shaving , occasional cheap creams, I’m ready to commit…",
       "is_social": true,
       "report_worthy": true,
       "worthiness_score": 62,
