@@ -1,36 +1,34 @@
 {
-  "generated_at": "2026-08-11T17:36:57.575Z",
+  "generated_at": "2026-08-11T19:43:54.374Z",
   "subs": [
     "MachineLearning",
     "singularity",
-    "nutrition",
+    "SkincareAddiction",
     "LocalLLaMA",
     "running",
     "artificial",
     "Futurology",
     "science",
-    "SkincareAddiction",
     "bodyweightfitness",
     "hardware",
+    "nutrition",
     "robotics",
     "netsec",
     "gadgets",
     "longevity",
     "programming",
-    "cybersecurity",
-    "investing"
+    "cybersecurity"
   ],
   "count": 36,
   "by_category": {
     "AI / ML": 11,
+    "Skincare": 2,
     "Fitness": 6,
     "Science": 5,
-    "Skincare": 1,
     "Hardware & Gadgets": 5,
     "Robotics": 2,
     "Security": 4,
-    "Coding & Dev Tools": 1,
-    "Startups & Funding": 1
+    "Coding & Dev Tools": 1
   },
   "articles": [
     {
@@ -66,6 +64,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/LocalLLaMA this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vl5yya",
+      "title": "[Haul] Do not sleep on couponing to feed our expensive addiction 😳",
+      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1vl5yya/haul_do_not_sleep_on_couponing_to_feed_our/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/SkincareAddiction · community knowledge",
+      "content_type": "post",
+      "author": "u/thorusaurus · r/SkincareAddiction",
+      "handle": "SkincareAddiction",
+      "org": "r/SkincareAddiction",
+      "platform": "reddit",
+      "published": "2026-08-11T03:18:19.000Z",
+      "image": "https://preview.redd.it/4u86f3vrynih1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=6c2d2e67ee1f4f9897bc5a787b65235268340ccd",
+      "thumbnail": "https://preview.redd.it/4u86f3vrynih1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=6c2d2e67ee1f4f9897bc5a787b65235268340ccd",
+      "section": "Skincare",
+      "category": "Skincare",
+      "genre": "Skincare",
+      "categories": [
+        "Reddit",
+        "Skincare",
+        "r/SkincareAddiction"
+      ],
+      "summary": "$22 for $138 worth of product at CVS! This is one of my many hauls where I score hundreds in products for little $$ $. CVS doesn&#39;t also only sell drug store, they sell eltaMD, PTR, and more! I just wish I could coupon my Tretinoin and Azelaic Acid scripts.............. &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/SkincareAddiction this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1405,46 +1442,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/netsec this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1viqdul",
-      "title": "The U.S. lost jobs in July. The S&P 500 hit another record anyway.",
-      "link": "https://www.reddit.com/r/investing/comments/1viqdul/the_us_lost_jobs_in_july_the_sp_500_hit_another/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/investing · community knowledge",
-      "content_type": "post",
-      "author": "u/FailOk1528 · r/investing",
-      "handle": "investing",
-      "org": "r/investing",
-      "platform": "reddit",
-      "published": "2026-08-08T08:17:55.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/investing"
-      ],
-      "summary": "The July jobs report looked pretty bad at first glance. Payrolls fell by 23,000, versus expectations for an 80,000 gain, and June was revised down to just 20,000. Yet unemployment fell to 4.1%, largely because the labor force got smaller. And the S&amp;P 500 still finished at a record high. I can understand weaker…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/investing this week"
       ],
       "metrics": {
         "likes": 0,

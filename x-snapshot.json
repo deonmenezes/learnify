@@ -1,13 +1,14 @@
 {
-  "generated_at": "2026-08-11T17:34:44.259Z",
+  "generated_at": "2026-08-11T19:41:39.963Z",
   "handles": [
     "nvidia",
+    "GoogleDeepMind",
+    "satyanadella",
+    "AIatMeta",
+    "NVIDIAAI",
     "AnthropicAI",
     "OpenAI",
-    "AIatMeta",
-    "gdb",
-    "GoogleDeepMind",
-    "elonmusk"
+    "gdb"
   ],
   "count": 32,
   "articles": [
@@ -45,12 +46,55 @@
         "links to a source"
       ],
       "metrics": {
-        "likes": 498,
-        "retweets": 57,
-        "replies": 62,
-        "likes_h": "498"
+        "likes": 621,
+        "retweets": 83,
+        "replies": 68,
+        "likes_h": "621"
       },
-      "engagement": 674,
+      "engagement": 855,
+      "hot": false
+    },
+    {
+      "id": "x_2087162151995629926",
+      "title": "Introducing NVIDIA Nemotron 3.5 Lightning⚡ An open 30B MoE model with 3B active parameters, built for always-on agents to complete high-volume, specialized tasks faster. It delivers up to 4x the…",
+      "link": "https://x.com/NVIDIAAI/status/2087162151995629926",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA AI · @NVIDIAAI",
+      "handle": "NVIDIAAI",
+      "org": "NVIDIA",
+      "published": "2026-08-11T13:00:09.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product launch",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product launch"
+      ],
+      "summary": "Introducing NVIDIA Nemotron 3.5 Lightning⚡ An open 30B MoE model with 3B active parameters, built for always-on agents to complete high-volume, specialized tasks faster. It delivers up to 4x the output speed of similar-sized models.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 100,
+      "sentiment": "positive",
+      "sentiment_score": 1,
+      "reasons": [
+        "report-worthy",
+        "announcement language (introducing)",
+        "tech substance (model, models, nemotron)",
+        "high engagement (4K likes)",
+        "concrete metrics"
+      ],
+      "metrics": {
+        "likes": 3965,
+        "retweets": 452,
+        "replies": 197,
+        "likes_h": "4K"
+      },
+      "engagement": 5066,
       "hot": false
     },
     {
@@ -87,12 +131,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 1978,
-        "retweets": 184,
+        "likes": 2046,
+        "retweets": 194,
         "replies": 86,
         "likes_h": "2K"
       },
-      "engagement": 2432,
+      "engagement": 2520,
       "hot": false
     },
     {
@@ -291,16 +335,16 @@
         "report-worthy",
         "announcement language (introducing)",
         "tech substance (model, models, agent)",
-        "high engagement (7.8K likes)",
+        "high engagement (8K likes)",
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 7766,
-        "retweets": 988,
-        "replies": 294,
-        "likes_h": "7.8K"
+        "likes": 7973,
+        "retweets": 1017,
+        "replies": 309,
+        "likes_h": "8K"
       },
-      "engagement": 10036,
+      "engagement": 10316,
       "hot": false
     },
     {
@@ -342,7 +386,7 @@
         "likes_h": "10.4K"
       },
       "engagement": 11645,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2086040693596659932",
@@ -376,15 +420,15 @@
         "casual tone (this)",
         "tech substance (platform)",
         "links to a source",
-        "high engagement (980 likes)"
+        "high engagement (981 likes)"
       ],
       "metrics": {
-        "likes": 980,
-        "retweets": 124,
+        "likes": 981,
+        "retweets": 126,
         "replies": 97,
-        "likes_h": "980"
+        "likes_h": "981"
       },
-      "engagement": 1325,
+      "engagement": 1330,
       "hot": false
     },
     {
@@ -459,15 +503,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (gemini, robotics)",
-        "high engagement (876 likes)"
+        "high engagement (878 likes)"
       ],
       "metrics": {
-        "likes": 876,
-        "retweets": 116,
-        "replies": 110,
-        "likes_h": "876"
+        "likes": 878,
+        "retweets": 118,
+        "replies": 111,
+        "likes_h": "878"
       },
-      "engagement": 1218,
+      "engagement": 1225,
       "hot": false
     },
     {
@@ -504,12 +548,12 @@
         "high engagement (2.3K likes)"
       ],
       "metrics": {
-        "likes": 2275,
-        "retweets": 265,
+        "likes": 2277,
+        "retweets": 268,
         "replies": 95,
         "likes_h": "2.3K"
       },
-      "engagement": 2900,
+      "engagement": 2908,
       "hot": false
     },
     {
@@ -630,11 +674,11 @@
       ],
       "metrics": {
         "likes": 327,
-        "retweets": 40,
+        "retweets": 42,
         "replies": 65,
         "likes_h": "327"
       },
-      "engagement": 472,
+      "engagement": 476,
       "hot": false
     },
     {
@@ -671,12 +715,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 1491,
-        "retweets": 195,
+        "likes": 1501,
+        "retweets": 194,
         "replies": 103,
         "likes_h": "1.5K"
       },
-      "engagement": 1984,
+      "engagement": 1992,
       "hot": false
     },
     {
@@ -711,12 +755,12 @@
         "tech substance (models)"
       ],
       "metrics": {
-        "likes": 306,
-        "retweets": 40,
+        "likes": 307,
+        "retweets": 42,
         "replies": 45,
-        "likes_h": "306"
+        "likes_h": "307"
       },
-      "engagement": 431,
+      "engagement": 436,
       "hot": false
     },
     {
@@ -1298,48 +1342,6 @@
         "likes_h": "13.9K"
       },
       "engagement": 16486,
-      "hot": true
-    },
-    {
-      "id": "x_2084274899065897011",
-      "title": "Worth noting that any USAID funding that appeared to have the slightest merit whatsoever for helping people in need was moved to the State Department. Only the funding where they provided no evidence…",
-      "link": "https://x.com/elonmusk/status/2084274899065897011",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Elon Musk · @elonmusk",
-      "handle": "elonmusk",
-      "org": "xAI/Tesla",
-      "published": "2026-08-03T13:47:14.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "xAI/Tesla",
-        "Commentary"
-      ],
-      "summary": "Worth noting that any USAID funding that appeared to have the slightest merit whatsoever for helping people in need was moved to the State Department. Only the funding where they provided no evidence at all for who would receive the money was stopped. https://m.youtube.com/watch?v=gUOwPcfc1MM&ra=m",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 81,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "business signal (funding)",
-        "links to a source",
-        "high engagement (49.3K likes)"
-      ],
-      "metrics": {
-        "likes": 49274,
-        "retweets": 6616,
-        "replies": 2532,
-        "likes_h": "49.3K"
-      },
-      "engagement": 65038,
       "hot": true
     }
   ]
