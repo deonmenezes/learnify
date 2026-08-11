@@ -1,15 +1,16 @@
 {
-  "generated_at": "2026-08-11T14:02:23.092Z",
+  "generated_at": "2026-08-11T15:11:16.671Z",
   "subs": [
     "MachineLearning",
     "Fitness",
-    "hardware",
+    "robotics",
     "artificial",
     "Futurology",
     "science",
     "SkincareAddiction",
     "LocalLLaMA",
     "bodyweightfitness",
+    "hardware",
     "singularity",
     "nutrition",
     "netsec",
@@ -17,7 +18,6 @@
     "longevity",
     "programming",
     "running",
-    "robotics",
     "cybersecurity",
     "investing"
   ],
@@ -26,11 +26,11 @@
     "AI / ML": 10,
     "Science": 6,
     "Skincare": 1,
-    "Fitness": 6,
+    "Fitness": 5,
     "Hardware & Gadgets": 6,
+    "Robotics": 2,
     "Security": 4,
     "Coding & Dev Tools": 1,
-    "Robotics": 1,
     "Startups & Funding": 1
   },
   "articles": [
@@ -620,6 +620,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/nutrition this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vk0bt4",
+      "title": "Real-Time Underwater Image Processing System | Adaptive Sea-Thru extended version.",
+      "link": "https://www.reddit.com/r/robotics/comments/1vk0bt4/realtime_underwater_image_processing_system/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/robotics · community knowledge",
+      "content_type": "post",
+      "author": "u/CellistTraditional · r/robotics",
+      "handle": "robotics",
+      "org": "r/robotics",
+      "platform": "reddit",
+      "published": "2026-08-09T20:25:56.000Z",
+      "image": "https://external-preview.redd.it/M2pibnNsNXpyZWloMUVVYp2AySmVwyZnC2rVBYo23JS20qzfsJ7EkLoywp4M.png?width=640&crop=smart&auto=webp&s=160019fd3d936f5ba6faf2dca434c8645c9c94c7",
+      "thumbnail": "https://external-preview.redd.it/M2pibnNsNXpyZWloMUVVYp2AySmVwyZnC2rVBYo23JS20qzfsJ7EkLoywp4M.png?width=640&crop=smart&auto=webp&s=160019fd3d936f5ba6faf2dca434c8645c9c94c7",
+      "section": "Robotics",
+      "category": "Robotics",
+      "genre": "Robotics",
+      "categories": [
+        "Reddit",
+        "Robotics",
+        "r/robotics"
+      ],
+      "summary": "Real-Time Underwater Image Processing System | Adaptive Sea-Thru extended version.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/robotics this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1407,45 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/gadgets this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vimzc3",
-      "title": "Achievements for Saturday, August 08, 2026",
-      "link": "https://www.reddit.com/r/running/comments/1vimzc3/achievements_for_saturday_august_08_2026/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/running · community knowledge",
-      "content_type": "post",
-      "author": "u/AutoModerator · r/running",
-      "handle": "running",
-      "org": "r/running",
-      "platform": "reddit",
-      "published": "2026-08-08T05:02:08.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/running"
-      ],
-      "summary": "Hey runners, it&#39;s another day and it is time to post your accomplishments you&#39;d like to share - big or small. Note: No need to preface YOUR accomplishments with something like, &quot;this may not be an accomplishment to most of you...&quot;. Be proud of your achievement. &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/running this week"
       ],
       "metrics": {
         "likes": 0,
