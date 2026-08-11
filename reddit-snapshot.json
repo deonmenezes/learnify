@@ -1,39 +1,79 @@
 {
-  "generated_at": "2026-08-11T15:11:16.671Z",
+  "generated_at": "2026-08-11T16:31:09.382Z",
   "subs": [
     "MachineLearning",
-    "Fitness",
-    "robotics",
+    "LocalLLaMA",
+    "running",
+    "startups",
     "artificial",
     "Futurology",
     "science",
     "SkincareAddiction",
-    "LocalLLaMA",
     "bodyweightfitness",
     "hardware",
     "singularity",
     "nutrition",
+    "robotics",
     "netsec",
     "gadgets",
     "longevity",
     "programming",
-    "running",
     "cybersecurity",
     "investing"
   ],
   "count": 36,
   "by_category": {
-    "AI / ML": 10,
-    "Science": 6,
+    "AI / ML": 11,
+    "Fitness": 6,
+    "Science": 5,
     "Skincare": 1,
-    "Fitness": 5,
-    "Hardware & Gadgets": 6,
+    "Hardware & Gadgets": 5,
     "Robotics": 2,
     "Security": 4,
     "Coding & Dev Tools": 1,
     "Startups & Funding": 1
   },
   "articles": [
+    {
+      "id": "reddit_1vl8bpt",
+      "title": "Qwen 3.8-27b coming this week",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1vl8bpt/qwen_3827b_coming_this_week/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/LocalLLaMA · community knowledge",
+      "content_type": "post",
+      "author": "u/Bestlife73 · r/LocalLLaMA",
+      "handle": "LocalLLaMA",
+      "org": "r/LocalLLaMA",
+      "platform": "reddit",
+      "published": "2026-08-11T05:20:06.000Z",
+      "image": "https://preview.redd.it/06v8tcdekoih1.jpeg?width=640&crop=smart&auto=webp&s=aa6f6cf62b21128e780b7bdf97823a314443b1ca",
+      "thumbnail": "https://preview.redd.it/06v8tcdekoih1.jpeg?width=640&crop=smart&auto=webp&s=aa6f6cf62b21128e780b7bdf97823a314443b1ca",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/LocalLLaMA"
+      ],
+      "summary": "Confirmed by the official Qwen account. &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/LocalLLaMA this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1vkrnb5",
       "title": "Transformers are famously bad at arithmetic, so I set one's weights by hand (no training) and it multiplies with 100% accuracy [P]",
@@ -67,6 +107,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vkrb3d",
+      "title": "How to get over being scared of running in the dark?",
+      "link": "https://www.reddit.com/r/running/comments/1vkrb3d/how_to_get_over_being_scared_of_running_in_the/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/running · community knowledge",
+      "content_type": "post",
+      "author": "u/WarmWoollyWanderer · r/running",
+      "handle": "running",
+      "org": "r/running",
+      "platform": "reddit",
+      "published": "2026-08-10T17:25:28.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/running"
+      ],
+      "summary": "Hey everyone! So beginner runner here! I started running to help with mental health and to become more healthy about 4 months ago and I love it. Before that I was a total couch potato and inactive. I feel like my brain is much sharper and I am more energetic overall now that I run. However I have this issue, which is…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/running this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1367,85 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/investing this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vipodv",
-      "title": "Body size dictates which anti-aging strategy evolution selects: mammals over 5-10 kg convergently repress telomerase as cancer defense, while smaller long-lived species keep it active.",
-      "link": "https://www.reddit.com/r/longevity/comments/1vipodv/body_size_dictates_which_antiaging_strategy/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/longevity · community knowledge",
-      "content_type": "post",
-      "author": "u/kwadoss · r/longevity",
-      "handle": "longevity",
-      "org": "r/longevity",
-      "platform": "reddit",
-      "published": "2026-08-08T07:35:11.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Science",
-      "category": "Science",
-      "genre": "Longevity",
-      "categories": [
-        "Reddit",
-        "Science",
-        "Longevity",
-        "r/longevity"
-      ],
-      "summary": "New literature review: https://zenodo.org/records/21843358 Three example findings from this paper that I think are worth your time: 1. There&#39;s a body mass threshold that determines how species solve the longevity-cancer trade-off . Mammals exceeding 5-10 kg, like humans, elephants, whales convergently repress…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/longevity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vio80g",
-      "title": "MSI's wild 5K 180Hz mini LED monitor reportedly shelved indefinitely.",
-      "link": "https://www.reddit.com/r/gadgets/comments/1vio80g/msis_wild_5k_180hz_mini_led_monitor_reportedly/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/gadgets · community knowledge",
-      "content_type": "post",
-      "author": "u/RenegadeUK · r/gadgets",
-      "handle": "gadgets",
-      "org": "r/gadgets",
-      "platform": "reddit",
-      "published": "2026-08-08T06:11:14.000Z",
-      "image": "https://external-preview.redd.it/_Z0scgZEZQ_DjHbcCP3XtucLu1PpqWh-uZffEOQOJBg.jpeg?width=640&crop=smart&auto=webp&s=d6db3c19e6da50971dad83b457b1caa1c4367f2f",
-      "thumbnail": "https://external-preview.redd.it/_Z0scgZEZQ_DjHbcCP3XtucLu1PpqWh-uZffEOQOJBg.jpeg?width=640&crop=smart&auto=webp&s=d6db3c19e6da50971dad83b457b1caa1c4367f2f",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/gadgets"
-      ],
-      "summary": "MSI's wild 5K 180Hz mini LED monitor reportedly shelved indefinitely.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/gadgets this week"
       ],
       "metrics": {
         "likes": 0,
