@@ -1,36 +1,74 @@
 {
-  "generated_at": "2026-08-12T09:19:25.833Z",
+  "generated_at": "2026-08-12T10:40:36.556Z",
   "subs": [
     "MachineLearning",
-    "longevity",
-    "hardware",
+    "Futurology",
+    "netsec",
     "running",
+    "hardware",
     "artificial",
     "LocalLLaMA",
     "SkincareAddiction",
-    "Futurology",
+    "longevity",
     "science",
     "bodyweightfitness",
     "singularity",
     "nutrition",
     "robotics",
-    "netsec",
     "gadgets",
-    "programming",
-    "cybersecurity"
+    "programming"
   ],
   "count": 36,
   "by_category": {
+    "Security": 3,
     "Fitness": 7,
     "Hardware & Gadgets": 5,
     "AI / ML": 11,
     "Skincare": 2,
     "Science": 5,
     "Robotics": 2,
-    "Security": 3,
     "Coding & Dev Tools": 1
   },
   "articles": [
+    {
+      "id": "reddit_1vlsvsn",
+      "title": "Expired DMARC reporting endpoint exposed a NYSE Fortune 1000's infrastructure for $10",
+      "link": "https://www.reddit.com/r/netsec/comments/1vlsvsn/expired_dmarc_reporting_endpoint_exposed_a_nyse/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/netsec · community knowledge",
+      "content_type": "post",
+      "author": "u/PlasmaJam · r/netsec",
+      "handle": "netsec",
+      "org": "r/netsec",
+      "platform": "reddit",
+      "published": "2026-08-11T20:23:28.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/netsec"
+      ],
+      "summary": "I registered an expired DMARC reporting domain (gca-emailauth[.]org) for $10. It had been published as the aggregate-reporting address in Global Cyber Alliance DMARC training docs going back to a 2019 bootcamp, and at some point it lapsed. Shortly after registration, aggregate DMARC reports for 86 domains across 20+…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/netsec this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1vlkhyz",
       "title": "Planning training blocks for long term 5K/HM goals",
@@ -1404,45 +1442,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/robotics this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vj0usx",
-      "title": "As many as five suicides in US Military cyber warfare unit in one month",
-      "link": "https://www.reddit.com/r/cybersecurity/comments/1vj0usx/as_many_as_five_suicides_in_us_military_cyber/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/cybersecurity · community knowledge",
-      "content_type": "post",
-      "author": "u/aristacat · r/cybersecurity",
-      "handle": "cybersecurity",
-      "org": "r/cybersecurity",
-      "platform": "reddit",
-      "published": "2026-08-08T16:49:31.000Z",
-      "image": "https://external-preview.redd.it/LPttGs1m7sPBZe-n3W9unVAoBcA4D0vMu1KVG0oTCFs.jpeg?width=640&crop=smart&auto=webp&s=3b40a3f7fca90e4fdd7d1750ee9c860837122937",
-      "thumbnail": "https://external-preview.redd.it/LPttGs1m7sPBZe-n3W9unVAoBcA4D0vMu1KVG0oTCFs.jpeg?width=640&crop=smart&auto=webp&s=3b40a3f7fca90e4fdd7d1750ee9c860837122937",
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/cybersecurity"
-      ],
-      "summary": "This is deeply disturbing. Wtf is going on there and why would this happen? &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/cybersecurity this week"
       ],
       "metrics": {
         "likes": 0,
