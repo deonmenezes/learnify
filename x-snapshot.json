@@ -1,14 +1,13 @@
 {
-  "generated_at": "2026-08-11T23:44:55.722Z",
+  "generated_at": "2026-08-12T02:12:19.389Z",
   "handles": [
     "nvidia",
-    "GoogleDeepMind",
-    "satyanadella",
-    "AIatMeta",
     "NVIDIAAI",
     "AnthropicAI",
     "OpenAI",
-    "gdb"
+    "AIatMeta",
+    "gdb",
+    "GoogleDeepMind"
   ],
   "count": 32,
   "articles": [
@@ -345,7 +344,7 @@
         "likes_h": "8K"
       },
       "engagement": 10409,
-      "hot": false
+      "hot": true
     },
     {
       "id": "x_2086092396023120286",
