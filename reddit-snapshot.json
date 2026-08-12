@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-08-12T18:39:58.482Z",
+  "generated_at": "2026-08-12T19:46:32.427Z",
   "subs": [
     "MachineLearning",
-    "artificial",
-    "nutrition",
+    "Futurology",
+    "gadgets",
     "bodyweightfitness",
+    "nutrition",
     "netsec",
     "running",
     "hardware",
+    "artificial",
     "LocalLLaMA",
     "SkincareAddiction",
     "longevity",
-    "Futurology",
     "science",
     "singularity",
     "robotics",
-    "gadgets",
     "programming"
   ],
   "count": 36,
   "by_category": {
-    "Fitness": 9,
+    "Fitness": 8,
     "Security": 3,
     "Hardware & Gadgets": 5,
     "AI / ML": 10,
     "Skincare": 2,
-    "Science": 5,
+    "Science": 6,
     "Robotics": 1,
     "Coding & Dev Tools": 1
   },
@@ -1372,6 +1372,45 @@
       }
     },
     {
+      "id": "reddit_1vjg8sn",
+      "title": "Scientists Sound Alarm on AI-Generated Biological Viruses Amid Unregulated Industry: “The ability to compose viral genomes using generative AI now exists; the governance to safely steer it does not,” a pair of researchers said.",
+      "link": "https://www.reddit.com/r/Futurology/comments/1vjg8sn/scientists_sound_alarm_on_aigenerated_biological/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/Futurology · community knowledge",
+      "content_type": "post",
+      "author": "u/Confident_Salt_8108 · r/Futurology",
+      "handle": "Futurology",
+      "org": "r/Futurology",
+      "platform": "reddit",
+      "published": "2026-08-09T04:28:37.000Z",
+      "image": "https://external-preview.redd.it/Ud9x3mUyp6nPpP5IQCpJkBSaw-Ar1x-7lwUt8iGDQRg.png?width=640&crop=smart&auto=webp&s=1c87bc53613aeca312243f04060cc018ff88d54d",
+      "thumbnail": "https://external-preview.redd.it/Ud9x3mUyp6nPpP5IQCpJkBSaw-Ar1x-7lwUt8iGDQRg.png?width=640&crop=smart&auto=webp&s=1c87bc53613aeca312243f04060cc018ff88d54d",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/Futurology"
+      ],
+      "summary": "Scientists Sound Alarm on AI-Generated Biological Viruses Amid Unregulated Industry: “The ability to compose viral genomes using generative AI now exists; the governance to safely steer it does not,” a pair of researchers said.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/Futurology this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1vjfos6",
       "title": "DEFCON: New Red Team Tactic",
       "link": "https://www.reddit.com/r/netsec/comments/1vjfos6/defcon_new_red_team_tactic/",
@@ -1403,45 +1442,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/netsec this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vja6gr",
-      "title": "Is kettlebell Training a good form of strength training for endurance running?",
-      "link": "https://www.reddit.com/r/running/comments/1vja6gr/is_kettlebell_training_a_good_form_of_strength/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/running · community knowledge",
-      "content_type": "post",
-      "author": "u/Lunchbag__Rodriguez · r/running",
-      "handle": "running",
-      "org": "r/running",
-      "platform": "reddit",
-      "published": "2026-08-08T23:24:23.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/running"
-      ],
-      "summary": "Hello all, Most I’ve ever run in my life was a half marathon 2 years ago. I got injured in the last quarter miles from not strength training and stretching enough. It’s been a long fall from grace and I took a two year break from running. Now I am overweight and trying to get back into endurance running so I’m looking…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/running this week"
       ],
       "metrics": {
         "likes": 0,

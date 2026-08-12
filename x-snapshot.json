@@ -1,16 +1,140 @@
 {
-  "generated_at": "2026-08-12T18:37:46.698Z",
+  "generated_at": "2026-08-12T19:44:17.407Z",
   "handles": [
-    "OpenAI",
     "nvidia",
-    "NVIDIAAI",
-    "AnthropicAI",
+    "GoogleDeepMind",
+    "satyanadella",
     "AIatMeta",
-    "gdb",
-    "GoogleDeepMind"
+    "NVIDIAAI",
+    "OpenAI",
+    "AnthropicAI",
+    "gdb"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2087576824159297605",
+      "title": "Congrats to the @SpaceXAI team on the release of Grok 4.6. Grok 4.6 brings frontier intelligence, running and trained on NVIDIA GB300 NVL72 with NVLink to deliver exceptional performance, reliability…",
+      "link": "https://x.com/nvidia/status/2087576824159297605",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-08-12T16:27:54.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product launch",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product launch"
+      ],
+      "summary": "Congrats to the @SpaceXAI team on the release of Grok 4.6. Grok 4.6 brings frontier intelligence, running and trained on NVIDIA GB300 NVL72 with NVLink to deliver exceptional performance, reliability and lowest token cost.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 83,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "casual tone (congrats)",
+        "announcement language (release)",
+        "tech substance (grok)",
+        "high engagement (4K likes)"
+      ],
+      "metrics": {
+        "likes": 4005,
+        "retweets": 368,
+        "replies": 116,
+        "likes_h": "4K"
+      },
+      "engagement": 4857,
+      "hot": false
+    },
+    {
+      "id": "x_2087549663289422297",
+      "title": "We’re honored that Glassdoor has named our founder and CEO, @JensenHuang , No. 1 on its 2026 Best CEOs list. 🎉 A very meaningful recognition, grounded in feedback from the people who make NVIDIA…",
+      "link": "https://x.com/nvidia/status/2087549663289422297",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-08-12T14:39:59.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Commentary"
+      ],
+      "summary": "We’re honored that Glassdoor has named our founder and CEO, @JensenHuang , No. 1 on its 2026 Best CEOs list. 🎉 A very meaningful recognition, grounded in feedback from the people who make NVIDIA what it is.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 58,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy"
+      ],
+      "metrics": {
+        "likes": 371,
+        "retweets": 48,
+        "replies": 32,
+        "likes_h": "371"
+      },
+      "engagement": 499,
+      "hot": false
+    },
+    {
+      "id": "x_2087541213284946191",
+      "title": "SL2T is our breakthrough sign language-to-text model powering new features for Deaf and hard of hearing users on @Android. Starting with American Sign Language-to-English on Pixel 11, people can sign…",
+      "link": "https://x.com/GoogleDeepMind/status/2087541213284946191",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Google DeepMind · @GoogleDeepMind",
+      "handle": "GoogleDeepMind",
+      "org": "Google",
+      "published": "2026-08-12T14:06:24.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "Google",
+        "Product"
+      ],
+      "summary": "SL2T is our breakthrough sign language-to-text model powering new features for Deaf and hard of hearing users on @Android. Starting with American Sign Language-to-English on Pixel 11, people can sign directly into Gboard and Live Transcribe instead of typing.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 82,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "tech substance (model, features)",
+        "high engagement (889 likes)"
+      ],
+      "metrics": {
+        "likes": 889,
+        "retweets": 118,
+        "replies": 69,
+        "likes_h": "889"
+      },
+      "engagement": 1194,
+      "hot": false
+    },
     {
       "id": "x_2087248033906094175",
       "title": "The ChatGPT desktop app is now available in preview for desktop variants of these Linux distributions: • Ubuntu 24.04 LTS and 26.04 LTS • Debian 13 • Fedora 43 and 44 Install with .deb or .rpm…",
@@ -124,15 +248,16 @@
         "report-worthy",
         "announcement language (announced)",
         "tech substance (model, models, nemotron)",
-        "links to a source"
+        "links to a source",
+        "high engagement (906 likes)"
       ],
       "metrics": {
-        "likes": 701,
-        "retweets": 94,
-        "replies": 72,
-        "likes_h": "701"
+        "likes": 906,
+        "retweets": 137,
+        "replies": 97,
+        "likes_h": "906"
       },
-      "engagement": 961,
+      "engagement": 1277,
       "hot": false
     },
     {
@@ -166,16 +291,16 @@
         "report-worthy",
         "announcement language (introducing)",
         "tech substance (model, models, nemotron)",
-        "high engagement (4.5K likes)",
+        "high engagement (5.4K likes)",
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 4501,
-        "retweets": 499,
-        "replies": 227,
-        "likes_h": "4.5K"
+        "likes": 5405,
+        "retweets": 612,
+        "replies": 296,
+        "likes_h": "5.4K"
       },
-      "engagement": 5726,
+      "engagement": 6925,
       "hot": false
     },
     {
@@ -208,16 +333,16 @@
       "reasons": [
         "report-worthy",
         "business signal (partnering, customers)",
-        "high engagement (2.1K likes)",
+        "high engagement (2.2K likes)",
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 2106,
-        "retweets": 198,
-        "replies": 88,
-        "likes_h": "2.1K"
+        "likes": 2178,
+        "retweets": 207,
+        "replies": 97,
+        "likes_h": "2.2K"
       },
-      "engagement": 2590,
+      "engagement": 2689,
       "hot": false
     },
     {
@@ -416,17 +541,17 @@
         "report-worthy",
         "announcement language (introducing)",
         "tech substance (model, models, agent)",
-        "high engagement (8K likes)",
+        "high engagement (8.2K likes)",
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 8041,
-        "retweets": 1029,
-        "replies": 310,
-        "likes_h": "8K"
+        "likes": 8160,
+        "retweets": 1049,
+        "replies": 326,
+        "likes_h": "8.2K"
       },
-      "engagement": 10409,
-      "hot": true
+      "engagement": 10584,
+      "hot": false
     },
     {
       "id": "x_2086092396023120286",
@@ -501,15 +626,15 @@
         "casual tone (this)",
         "tech substance (platform)",
         "links to a source",
-        "high engagement (982 likes)"
+        "high engagement (983 likes)"
       ],
       "metrics": {
-        "likes": 982,
-        "retweets": 126,
-        "replies": 97,
-        "likes_h": "982"
+        "likes": 983,
+        "retweets": 127,
+        "replies": 98,
+        "likes_h": "983"
       },
-      "engagement": 1331,
+      "engagement": 1335,
       "hot": false
     },
     {
@@ -584,15 +709,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (gemini, robotics)",
-        "high engagement (878 likes)"
+        "high engagement (893 likes)"
       ],
       "metrics": {
-        "likes": 878,
+        "likes": 893,
         "retweets": 119,
-        "replies": 111,
-        "likes_h": "878"
+        "replies": 119,
+        "likes_h": "893"
       },
-      "engagement": 1227,
+      "engagement": 1250,
       "hot": false
     },
     {
@@ -629,12 +754,12 @@
         "high engagement (2.3K likes)"
       ],
       "metrics": {
-        "likes": 2278,
-        "retweets": 268,
+        "likes": 2280,
+        "retweets": 269,
         "replies": 95,
         "likes_h": "2.3K"
       },
-      "engagement": 2909,
+      "engagement": 2913,
       "hot": false
     },
     {
@@ -796,12 +921,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 1506,
-        "retweets": 193,
-        "replies": 103,
+        "likes": 1518,
+        "retweets": 196,
+        "replies": 104,
         "likes_h": "1.5K"
       },
-      "engagement": 1995,
+      "engagement": 2014,
       "hot": false
     },
     {
@@ -1214,131 +1339,6 @@
       },
       "engagement": 849,
       "hot": false
-    },
-    {
-      "id": "x_2084420790036910459",
-      "title": "AI is becoming a primary interface for product discovery, opening new revenue opportunities for retailers. See how NVIDIA is helping retailers prepare for agentic commerce, from product discovery to…",
-      "link": "https://x.com/nvidia/status/2084420790036910459",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-08-03T23:26:57.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Commentary"
-      ],
-      "summary": "AI is becoming a primary interface for product discovery, opening new revenue opportunities for retailers. See how NVIDIA is helping retailers prepare for agentic commerce, from product discovery to secure checkout, while maintaining control over pricing, payments and",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 80,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "business signal (revenue)"
-      ],
-      "metrics": {
-        "likes": 533,
-        "retweets": 55,
-        "replies": 63,
-        "likes_h": "533"
-      },
-      "engagement": 706,
-      "hot": false
-    },
-    {
-      "id": "x_2084378418989379822",
-      "title": "The result is a faster, more natural conversation with ChatGPT Voice from the moment a session starts. How we built it: https://openai.com/index/continuous-voice-interaction-with-gpt-live/",
-      "link": "https://x.com/OpenAI/status/2084378418989379822",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-08-03T20:38:35.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Product"
-      ],
-      "summary": "The result is a faster, more natural conversation with ChatGPT Voice from the moment a session starts. How we built it: https://openai.com/index/continuous-voice-interaction-with-gpt-live/",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 56,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "reply / conversation",
-        "tech substance (gpt)",
-        "links to a source",
-        "high engagement (845 likes)"
-      ],
-      "metrics": {
-        "likes": 845,
-        "retweets": 56,
-        "replies": 48,
-        "likes_h": "845"
-      },
-      "engagement": 1005,
-      "hot": false
-    },
-    {
-      "id": "x_2084378415818579975",
-      "title": "GPT-Live can listen while it speaks. To make that feel natural at ChatGPT scale, we rebuilt the voice stack from client to model. This new architecture keeps audio flowing continuously, so deeper…",
-      "link": "https://x.com/OpenAI/status/2084378415818579975",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-08-03T20:38:34.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Research"
-      ],
-      "summary": "GPT-Live can listen while it speaks. To make that feel natural at ChatGPT scale, we rebuilt the voice stack from client to model. This new architecture keeps audio flowing continuously, so deeper reasoning and tool use don't interrupt the conversation.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 76,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "casual tone (this)",
-        "tech substance (model, gpt, reasoning)",
-        "high engagement (11K likes)"
-      ],
-      "metrics": {
-        "likes": 10980,
-        "retweets": 957,
-        "replies": 560,
-        "likes_h": "11K"
-      },
-      "engagement": 13454,
-      "hot": true
     }
   ]
 }
