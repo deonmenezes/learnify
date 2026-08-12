@@ -1,13 +1,14 @@
 {
-  "generated_at": "2026-08-12T02:14:31.116Z",
+  "generated_at": "2026-08-12T04:26:28.834Z",
   "subs": [
     "MachineLearning",
-    "Futurology",
+    "longevity",
     "gadgets",
     "running",
     "artificial",
     "LocalLLaMA",
     "SkincareAddiction",
+    "Futurology",
     "science",
     "bodyweightfitness",
     "hardware",
@@ -15,7 +16,6 @@
     "nutrition",
     "robotics",
     "netsec",
-    "longevity",
     "programming",
     "cybersecurity"
   ],
@@ -24,8 +24,8 @@
     "Fitness": 7,
     "AI / ML": 12,
     "Skincare": 2,
-    "Science": 4,
-    "Hardware & Gadgets": 5,
+    "Science": 5,
+    "Hardware & Gadgets": 4,
     "Robotics": 2,
     "Security": 3,
     "Coding & Dev Tools": 1
@@ -301,6 +301,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/artificial this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vkq73c",
+      "title": "Lifelong restriction of dietary valine has sex-specific benefits for health and lifespan in mice (Nature Aging, 2026): healthspan improved in both sexes, median lifespan +23% in males only",
+      "link": "https://www.reddit.com/r/longevity/comments/1vkq73c/lifelong_restriction_of_dietary_valine_has/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/longevity · community knowledge",
+      "content_type": "post",
+      "author": "u/HumanOmega · r/longevity",
+      "handle": "longevity",
+      "org": "r/longevity",
+      "platform": "reddit",
+      "published": "2026-08-10T16:46:16.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Science",
+      "category": "Science",
+      "genre": "Longevity",
+      "categories": [
+        "Reddit",
+        "Science",
+        "Longevity",
+        "r/longevity"
+      ],
+      "summary": "Lifelong restriction of dietary valine has sex-specific benefits for health and lifespan in mice (Nature Aging, 2026): healthspan improved in both sexes, median lifespan +23% in males only",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/longevity this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1404,45 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/artificial this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1viyn0c",
-      "title": "We tested the impact of SSD speed on gaming performance in 11 titles — we analyzed from SATA to PCIe 5.0 to see whether upgrading to a faster NVMe SSD would have an impact",
-      "link": "https://www.reddit.com/r/hardware/comments/1viyn0c/we_tested_the_impact_of_ssd_speed_on_gaming/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/hardware · community knowledge",
-      "content_type": "post",
-      "author": "u/RTcore · r/hardware",
-      "handle": "hardware",
-      "org": "r/hardware",
-      "platform": "reddit",
-      "published": "2026-08-08T15:18:38.000Z",
-      "image": "https://external-preview.redd.it/mIIuGiQertAoWbP-m4ecYgfpTodHNb3sSbI188ckl9E.jpeg?width=640&crop=smart&auto=webp&s=6c87194d5bf6eb617e0d97d262facba277e846a8",
-      "thumbnail": "https://external-preview.redd.it/mIIuGiQertAoWbP-m4ecYgfpTodHNb3sSbI188ckl9E.jpeg?width=640&crop=smart&auto=webp&s=6c87194d5bf6eb617e0d97d262facba277e846a8",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/hardware"
-      ],
-      "summary": "We tested the impact of SSD speed on gaming performance in 11 titles — we analyzed from SATA to PCIe 5.0 to see whether upgrading to a faster NVMe SSD would have an impact",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/hardware this week"
       ],
       "metrics": {
         "likes": 0,
