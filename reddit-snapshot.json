@@ -1,37 +1,116 @@
 {
-  "generated_at": "2026-08-12T20:54:09.932Z",
+  "generated_at": "2026-08-12T21:55:46.306Z",
   "subs": [
     "MachineLearning",
-    "LocalLLaMA",
+    "programming",
+    "cybersecurity",
     "bodyweightfitness",
-    "startups",
     "nutrition",
     "netsec",
+    "startups",
     "running",
     "hardware",
     "artificial",
+    "LocalLLaMA",
     "SkincareAddiction",
     "longevity",
     "Futurology",
     "science",
     "singularity",
     "robotics",
-    "gadgets",
-    "programming"
+    "gadgets"
   ],
   "count": 36,
   "by_category": {
-    "Fitness": 8,
-    "Security": 2,
+    "Coding & Dev Tools": 2,
+    "Fitness": 7,
+    "Security": 3,
     "Startups & Funding": 1,
     "Hardware & Gadgets": 5,
     "AI / ML": 10,
     "Skincare": 2,
-    "Science": 6,
-    "Robotics": 1,
-    "Coding & Dev Tools": 1
+    "Science": 5,
+    "Robotics": 1
   },
   "articles": [
+    {
+      "id": "reddit_1vmhj23",
+      "title": "Hardware researcher spins up 'CPU deoptimization' project to find the slowest single x86 instruction, creates hall of shame — worst offender takes 198 billion cycles spanning 62 seconds to execute",
+      "link": "https://www.reddit.com/r/programming/comments/1vmhj23/hardware_researcher_spins_up_cpu_deoptimization/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/programming · community knowledge",
+      "content_type": "post",
+      "author": "u/masiroo · r/programming",
+      "handle": "programming",
+      "org": "r/programming",
+      "platform": "reddit",
+      "published": "2026-08-12T15:34:56.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Coding & Dev Tools",
+      "category": "Coding & Dev Tools",
+      "genre": "Coding & Dev Tools",
+      "categories": [
+        "Reddit",
+        "Coding & Dev Tools",
+        "r/programming"
+      ],
+      "summary": "Hardware researcher spins up 'CPU deoptimization' project to find the slowest single x86 instruction, creates hall of shame — worst offender takes 198 billion cycles spanning 62 seconds to execute",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/programming this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vm65dm",
+      "title": "The fastest double-to-string algorithm you’ve never heard of",
+      "link": "https://www.reddit.com/r/programming/comments/1vm65dm/the_fastest_doubletostring_algorithm_youve_never/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/programming · community knowledge",
+      "content_type": "post",
+      "author": "u/mttd · r/programming",
+      "handle": "programming",
+      "org": "r/programming",
+      "platform": "reddit",
+      "published": "2026-08-12T06:25:39.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Coding & Dev Tools",
+      "category": "Coding & Dev Tools",
+      "genre": "Coding & Dev Tools",
+      "categories": [
+        "Reddit",
+        "Coding & Dev Tools",
+        "r/programming"
+      ],
+      "summary": "The fastest double-to-string algorithm you’ve never heard of",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/programming this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1vlux3a",
       "title": "Are the mods of this sub still active? Any way we can filter out all these posts about calories/weight loss/weight lifting from people visiting this sub that obviously didn’t read the sidebar or FAQ?",
@@ -261,6 +340,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/hardware this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vld9at",
+      "title": "Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine",
+      "link": "https://www.reddit.com/r/cybersecurity/comments/1vld9at/hackers_breach_polish_power_plant_controls_via/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/cybersecurity · community knowledge",
+      "content_type": "post",
+      "author": "u/chota-kaka · r/cybersecurity",
+      "handle": "cybersecurity",
+      "org": "r/cybersecurity",
+      "platform": "reddit",
+      "published": "2026-08-11T10:05:09.000Z",
+      "image": "https://external-preview.redd.it/77KfddVyrQ2nPgJTB54gAJhl0pxAID3bSQakyUuom3k.jpeg?width=640&crop=smart&auto=webp&s=6df211edadfaf2f63bb91cb37f64f0200281d014",
+      "thumbnail": "https://external-preview.redd.it/77KfddVyrQ2nPgJTB54gAJhl0pxAID3bSQakyUuom3k.jpeg?width=640&crop=smart&auto=webp&s=6df211edadfaf2f63bb91cb37f64f0200281d014",
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/cybersecurity"
+      ],
+      "summary": "Attackers breached a Polish combined heat and power plant through a private cellular APN used to access remote infrastructure. After pivoting from a compromised wind-farm network, they reached the plant’s OT environment, where a controller was still using default admin credentials. The attackers ultimately put…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/cybersecurity this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1328,123 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/gadgets this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vjo4id",
-      "title": "Fit male - physically impossible for me to do a single unanchored sit up",
-      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1vjo4id/fit_male_physically_impossible_for_me_to_do_a/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/bodyweightfitness · community knowledge",
-      "content_type": "post",
-      "author": "u/TheOnlyBasedRedditor · r/bodyweightfitness",
-      "handle": "bodyweightfitness",
-      "org": "r/bodyweightfitness",
-      "platform": "reddit",
-      "published": "2026-08-09T12:02:29.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/bodyweightfitness"
-      ],
-      "summary": "Honestly that exercise pisses me off and this is more of a rant / meta post for everyone&#39;s enjoyment. I&#39;m so tired of having to explain to people in the fitness community how sit ups work and why I can&#39;t do them. At first I thought that I&#39;m just doing something wrong but that&#39;s not the case, my…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/bodyweightfitness this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vjketg",
-      "title": "Assembly Hall of Shame: Racing to the bottom of CPU performance",
-      "link": "https://www.reddit.com/r/programming/comments/1vjketg/assembly_hall_of_shame_racing_to_the_bottom_of/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/programming · community knowledge",
-      "content_type": "post",
-      "author": "u/f311a · r/programming",
-      "handle": "programming",
-      "org": "r/programming",
-      "platform": "reddit",
-      "published": "2026-08-09T08:27:04.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Coding & Dev Tools",
-      "category": "Coding & Dev Tools",
-      "genre": "Coding & Dev Tools",
-      "categories": [
-        "Reddit",
-        "Coding & Dev Tools",
-        "r/programming"
-      ],
-      "summary": "Assembly Hall of Shame: Racing to the bottom of CPU performance",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/programming this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vjg8sn",
-      "title": "Scientists Sound Alarm on AI-Generated Biological Viruses Amid Unregulated Industry: “The ability to compose viral genomes using generative AI now exists; the governance to safely steer it does not,” a pair of researchers said.",
-      "link": "https://www.reddit.com/r/Futurology/comments/1vjg8sn/scientists_sound_alarm_on_aigenerated_biological/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/Futurology · community knowledge",
-      "content_type": "post",
-      "author": "u/Confident_Salt_8108 · r/Futurology",
-      "handle": "Futurology",
-      "org": "r/Futurology",
-      "platform": "reddit",
-      "published": "2026-08-09T04:28:37.000Z",
-      "image": "https://external-preview.redd.it/Ud9x3mUyp6nPpP5IQCpJkBSaw-Ar1x-7lwUt8iGDQRg.png?width=640&crop=smart&auto=webp&s=1c87bc53613aeca312243f04060cc018ff88d54d",
-      "thumbnail": "https://external-preview.redd.it/Ud9x3mUyp6nPpP5IQCpJkBSaw-Ar1x-7lwUt8iGDQRg.png?width=640&crop=smart&auto=webp&s=1c87bc53613aeca312243f04060cc018ff88d54d",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/Futurology"
-      ],
-      "summary": "Scientists Sound Alarm on AI-Generated Biological Viruses Amid Unregulated Industry: “The ability to compose viral genomes using generative AI now exists; the governance to safely steer it does not,” a pair of researchers said.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/Futurology this week"
       ],
       "metrics": {
         "likes": 0,
