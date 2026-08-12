@@ -1,16 +1,98 @@
 {
-  "generated_at": "2026-08-12T04:24:15.045Z",
+  "generated_at": "2026-08-12T05:59:12.294Z",
   "handles": [
-    "nvidia",
-    "NVIDIAAI",
     "AnthropicAI",
     "OpenAI",
+    "nvidia",
+    "NVIDIAAI",
     "AIatMeta",
     "gdb",
     "GoogleDeepMind"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2087248033906094175",
+      "title": "The ChatGPT desktop app is now available in preview for desktop variants of these Linux distributions: • Ubuntu 24.04 LTS and 26.04 LTS • Debian 13 • Fedora 43 and 44 Install with .deb or .rpm…",
+      "link": "https://x.com/OpenAI/status/2087248033906094175",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-08-11T18:41:25.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Announcement",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Announcement"
+      ],
+      "summary": "The ChatGPT desktop app is now available in preview for desktop variants of these Linux distributions: • Ubuntu 24.04 LTS and 26.04 LTS • Debian 13 • Fedora 43 and 44 Install with .deb or .rpm packages for x64 or ARM64. http://openai.com/codex",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 68,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "reply / conversation",
+        "announcement language (now available)",
+        "links to a source"
+      ],
+      "metrics": {
+        "likes": 664,
+        "retweets": 58,
+        "replies": 70,
+        "likes_h": "664"
+      },
+      "engagement": 850,
+      "hot": false
+    },
+    {
+      "id": "x_2087231350134980830",
+      "title": "Now in preview: The ChatGPT desktop app for Linux. Use ChatGPT, ChatGPT Work, and Codex where you already work and build, with your projects and browser workflows on supported Linux systems.",
+      "link": "https://x.com/OpenAI/status/2087231350134980830",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "OpenAI · @OpenAI",
+      "handle": "OpenAI",
+      "org": "OpenAI",
+      "published": "2026-08-11T17:35:07.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Commentary"
+      ],
+      "summary": "Now in preview: The ChatGPT desktop app for Linux. Use ChatGPT, ChatGPT Work, and Codex where you already work and build, with your projects and browser workflows on supported Linux systems.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 60,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "high engagement (9.6K likes)"
+      ],
+      "metrics": {
+        "likes": 9641,
+        "retweets": 786,
+        "replies": 633,
+        "likes_h": "9.6K"
+      },
+      "engagement": 11846,
+      "hot": true
+    },
     {
       "id": "x_2087172614896988545",
       "title": "Today, NVIDIA announced NVIDIA Nemotron 3.5 Lightning, a customizable model for high-volume, specialized work, and NVIDIA NeMo Switchyard, which helps agents route each workflow step across the…",
@@ -168,15 +250,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (claude, research, version)",
-        "high engagement (16.8K likes)"
+        "high engagement (17.7K likes)"
       ],
       "metrics": {
-        "likes": 16783,
-        "retweets": 1775,
-        "replies": 797,
-        "likes_h": "16.8K"
+        "likes": 17677,
+        "retweets": 1891,
+        "replies": 838,
+        "likes_h": "17.7K"
       },
-      "engagement": 21130,
+      "engagement": 22297,
       "hot": true
     },
     {
@@ -212,12 +294,12 @@
         "tech substance (gpt, open-source, research)"
       ],
       "metrics": {
-        "likes": 471,
-        "retweets": 10,
+        "likes": 488,
+        "retweets": 12,
         "replies": 14,
-        "likes_h": "471"
+        "likes_h": "488"
       },
-      "engagement": 505,
+      "engagement": 526,
       "hot": false
     },
     {
@@ -253,12 +335,12 @@
         "tech substance (models, gpt, research)"
       ],
       "metrics": {
-        "likes": 609,
-        "retweets": 23,
+        "likes": 630,
+        "retweets": 24,
         "replies": 12,
-        "likes_h": "609"
+        "likes_h": "630"
       },
-      "engagement": 667,
+      "engagement": 690,
       "hot": false
     },
     {
@@ -292,15 +374,15 @@
         "report-worthy",
         "announcement language (introducing)",
         "tech substance (model, gpt)",
-        "high engagement (7.2K likes)"
+        "high engagement (7.4K likes)"
       ],
       "metrics": {
-        "likes": 7229,
-        "retweets": 653,
-        "replies": 436,
-        "likes_h": "7.2K"
+        "likes": 7448,
+        "retweets": 683,
+        "replies": 448,
+        "likes_h": "7.4K"
       },
-      "engagement": 8971,
+      "engagement": 9262,
       "hot": false
     },
     {
@@ -344,7 +426,7 @@
         "likes_h": "8K"
       },
       "engagement": 10409,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2086092396023120286",
@@ -385,7 +467,7 @@
         "likes_h": "10.4K"
       },
       "engagement": 11645,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2086040693596659932",
@@ -464,12 +546,12 @@
         "high engagement (9.6K likes)"
       ],
       "metrics": {
-        "likes": 9596,
-        "retweets": 845,
-        "replies": 815,
+        "likes": 9606,
+        "retweets": 843,
+        "replies": 817,
         "likes_h": "9.6K"
       },
-      "engagement": 12101,
+      "engagement": 12109,
       "hot": true
     },
     {
@@ -922,12 +1004,12 @@
         "high engagement (2.5K likes)"
       ],
       "metrics": {
-        "likes": 2526,
-        "retweets": 455,
-        "replies": 477,
+        "likes": 2533,
+        "retweets": 457,
+        "replies": 479,
         "likes_h": "2.5K"
       },
-      "engagement": 3913,
+      "engagement": 3926,
       "hot": false
     },
     {
@@ -1256,91 +1338,6 @@
         "likes_h": "11K"
       },
       "engagement": 13454,
-      "hot": true
-    },
-    {
-      "id": "x_2084352165464903730",
-      "title": "We’re releasing the manuscripts, formal Lean certificates, and reasoning walkthroughs so mathematicians can examine these results and build on their ideas.…",
-      "link": "https://x.com/OpenAI/status/2084352165464903730",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-08-03T18:54:16.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Research",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Research"
-      ],
-      "summary": "We’re releasing the manuscripts, formal Lean certificates, and reasoning walkthroughs so mathematicians can examine these results and build on their ideas. https://openai.com/index/ten-advances-in-mathematics/",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 78,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "reply / conversation",
-        "announcement language (releasing)",
-        "tech substance (reasoning)",
-        "links to a source",
-        "high engagement (1.1K likes)"
-      ],
-      "metrics": {
-        "likes": 1079,
-        "retweets": 62,
-        "replies": 37,
-        "likes_h": "1.1K"
-      },
-      "engagement": 1240,
-      "hot": false
-    },
-    {
-      "id": "x_2084352161404920316",
-      "title": "An internal version of our next major model produced 10 new results on long-standing open problems in mathematics and theoretical computer science, using roughly $2,000 worth of tokens at GPT-5.6 Sol…",
-      "link": "https://x.com/OpenAI/status/2084352161404920316",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-08-03T18:54:15.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Product"
-      ],
-      "summary": "An internal version of our next major model produced 10 new results on long-standing open problems in mathematics and theoretical computer science, using roughly $2,000 worth of tokens at GPT-5.6 Sol API rates.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 98,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "tech substance (model, gpt, api)",
-        "high engagement (13.9K likes)"
-      ],
-      "metrics": {
-        "likes": 13923,
-        "retweets": 998,
-        "replies": 567,
-        "likes_h": "13.9K"
-      },
-      "engagement": 16486,
       "hot": true
     }
   ]

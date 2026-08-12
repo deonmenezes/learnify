@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-12T04:26:28.834Z",
+  "generated_at": "2026-08-12T06:01:25.141Z",
   "subs": [
     "MachineLearning",
     "longevity",
-    "gadgets",
+    "hardware",
     "running",
     "artificial",
     "LocalLLaMA",
@@ -11,21 +11,21 @@
     "Futurology",
     "science",
     "bodyweightfitness",
-    "hardware",
     "singularity",
     "nutrition",
     "robotics",
     "netsec",
+    "gadgets",
     "programming",
     "cybersecurity"
   ],
   "count": 36,
   "by_category": {
     "Fitness": 7,
-    "AI / ML": 12,
+    "Hardware & Gadgets": 5,
+    "AI / ML": 11,
     "Skincare": 2,
     "Science": 5,
-    "Hardware & Gadgets": 4,
     "Robotics": 2,
     "Security": 3,
     "Coding & Dev Tools": 1
@@ -63,6 +63,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/running this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vlecd1",
+      "title": "Modified GeForce RTX 4080 32GB cards flood China's second-hand market",
+      "link": "https://www.reddit.com/r/hardware/comments/1vlecd1/modified_geforce_rtx_4080_32gb_cards_flood_chinas/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/hardware · community knowledge",
+      "content_type": "post",
+      "author": "u/kikimaru024 · r/hardware",
+      "handle": "hardware",
+      "org": "r/hardware",
+      "platform": "reddit",
+      "published": "2026-08-11T11:04:47.000Z",
+      "image": "https://external-preview.redd.it/jrs8YYp4jCni1gmRqmSYvd-yUystWndZxdSN0iJ0oWo.jpeg?width=640&crop=smart&auto=webp&s=bd941f688ef69c7a56a1e7ddee9378e2b562c5a5",
+      "thumbnail": "https://external-preview.redd.it/jrs8YYp4jCni1gmRqmSYvd-yUystWndZxdSN0iJ0oWo.jpeg?width=640&crop=smart&auto=webp&s=bd941f688ef69c7a56a1e7ddee9378e2b562c5a5",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/hardware"
+      ],
+      "summary": "Modified GeForce RTX 4080 32GB cards flood China's second-hand market",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/hardware this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1404,46 +1443,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/cybersecurity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vizcs8",
-      "title": "Chinese LLMs dominate this week's top charts",
-      "link": "https://www.reddit.com/r/artificial/comments/1vizcs8/chinese_llms_dominate_this_weeks_top_charts/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/artificial · community knowledge",
-      "content_type": "post",
-      "author": "u/Asleep-Television-24 · r/artificial",
-      "handle": "artificial",
-      "org": "r/artificial",
-      "platform": "reddit",
-      "published": "2026-08-08T15:48:29.000Z",
-      "image": "https://preview.redd.it/699df5lv96ih1.jpeg?width=640&crop=smart&auto=webp&s=8ebff29808172080142b7b2574c6bd214e9e950e",
-      "thumbnail": "https://preview.redd.it/699df5lv96ih1.jpeg?width=640&crop=smart&auto=webp&s=8ebff29808172080142b7b2574c6bd214e9e950e",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/artificial"
-      ],
-      "summary": "Source: https://openrouter.ai/rankings &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/artificial this week"
       ],
       "metrics": {
         "likes": 0,
