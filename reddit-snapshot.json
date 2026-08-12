@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-12T14:41:16.116Z",
+  "generated_at": "2026-08-12T18:39:58.482Z",
   "subs": [
     "MachineLearning",
+    "artificial",
+    "nutrition",
     "bodyweightfitness",
-    "robotics",
     "netsec",
     "running",
     "hardware",
-    "artificial",
     "LocalLLaMA",
     "SkincareAddiction",
     "longevity",
     "Futurology",
     "science",
     "singularity",
-    "nutrition",
+    "robotics",
     "gadgets",
     "programming"
   ],
   "count": 36,
   "by_category": {
-    "Fitness": 8,
+    "Fitness": 9,
     "Security": 3,
     "Hardware & Gadgets": 5,
-    "AI / ML": 11,
+    "AI / ML": 10,
     "Skincare": 2,
     "Science": 5,
     "Robotics": 1,
@@ -62,6 +62,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/bodyweightfitness this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vluk78",
+      "title": "Do people avoid fat because it’s high calories per gram or is there another reason?",
+      "link": "https://www.reddit.com/r/nutrition/comments/1vluk78/do_people_avoid_fat_because_its_high_calories_per/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/nutrition · community knowledge",
+      "content_type": "post",
+      "author": "u/goodamm · r/nutrition",
+      "handle": "nutrition",
+      "org": "r/nutrition",
+      "platform": "reddit",
+      "published": "2026-08-11T21:26:03.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Nutrition",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "Nutrition",
+        "r/nutrition"
+      ],
+      "summary": "Like people say they avoid carbs because it gets stored as fat, is there something similar like that with fat or do people just avoid it because it’s the highest in calories? &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/nutrition this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1402,46 +1442,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/running this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vj8lag",
-      "title": "73 NeurIPS workshops, and not a single one on Causality [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vj8lag/73_neurips_workshops_and_not_a_single_one_on/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/MachineLearning · community knowledge",
-      "content_type": "post",
-      "author": "u/Beautiful_Baker_2233 · r/MachineLearning",
-      "handle": "MachineLearning",
-      "org": "r/MachineLearning",
-      "platform": "reddit",
-      "published": "2026-08-08T22:12:37.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/MachineLearning"
-      ],
-      "summary": "Is this it for Causal Inference? Looks like the field continues to be of interest only at UAI/AISTATS/CLeaR. All good venues, but LLMs/Agents/etc seem to have eaten much of the lunch of several other subfields at the top 3 conferences. God help us all. **p.s.** the list:…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/MachineLearning this week"
       ],
       "metrics": {
         "likes": 0,
