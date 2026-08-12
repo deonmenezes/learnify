@@ -1,38 +1,78 @@
 {
-  "generated_at": "2026-08-12T21:55:46.306Z",
+  "generated_at": "2026-08-12T22:48:34.292Z",
   "subs": [
     "MachineLearning",
+    "Futurology",
+    "gadgets",
     "programming",
-    "cybersecurity",
     "bodyweightfitness",
     "nutrition",
     "netsec",
     "startups",
     "running",
     "hardware",
+    "cybersecurity",
     "artificial",
     "LocalLLaMA",
     "SkincareAddiction",
     "longevity",
-    "Futurology",
     "science",
     "singularity",
-    "robotics",
-    "gadgets"
+    "robotics"
   ],
   "count": 36,
   "by_category": {
+    "AI / ML": 10,
     "Coding & Dev Tools": 2,
     "Fitness": 7,
     "Security": 3,
     "Startups & Funding": 1,
-    "Hardware & Gadgets": 5,
-    "AI / ML": 10,
+    "Science": 6,
+    "Hardware & Gadgets": 4,
     "Skincare": 2,
-    "Science": 5,
     "Robotics": 1
   },
   "articles": [
+    {
+      "id": "reddit_1vmhks7",
+      "title": "Would you choose a PhD advisor who gives you complete freedom but almost no guidance? [D]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vmhks7/would_you_choose_a_phd_advisor_who_gives_you/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/MachineLearning · community knowledge",
+      "content_type": "post",
+      "author": "u/Hope999991 · r/MachineLearning",
+      "handle": "MachineLearning",
+      "org": "r/MachineLearning",
+      "platform": "reddit",
+      "published": "2026-08-12T15:36:44.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/MachineLearning"
+      ],
+      "summary": "It’s an ML PhD with secure funding for 4–5 years and a senior, respected advisor. You get almost complete freedom to choose your own topics, projects, and collaborations, with very little micromanagement. The downside is that the advisor is also very hands-off. You should expect little guidance, feedback, or technical…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1vmhj23",
       "title": "Hardware researcher spins up 'CPU deoptimization' project to find the slowest single x86 instruction, creates hall of shame — worst offender takes 198 billion cycles spanning 62 seconds to execute",
@@ -301,6 +341,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/running this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vlfqer",
+      "title": "Meta glasses banned from courts in England and Wales | Meta",
+      "link": "https://www.reddit.com/r/Futurology/comments/1vlfqer/meta_glasses_banned_from_courts_in_england_and/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/Futurology · community knowledge",
+      "content_type": "post",
+      "author": "u/Spirited-Sir-3034 · r/Futurology",
+      "handle": "Futurology",
+      "org": "r/Futurology",
+      "platform": "reddit",
+      "published": "2026-08-11T12:13:27.000Z",
+      "image": "https://external-preview.redd.it/TfHZu7z-hT1fbNmugwhGBdz2WRBAE9wBIyVRWMbIMUc.jpeg?width=640&crop=smart&auto=webp&s=d30c6dd2501d4162ffc8621c303d111fd2d602a3",
+      "thumbnail": "https://external-preview.redd.it/TfHZu7z-hT1fbNmugwhGBdz2WRBAE9wBIyVRWMbIMUc.jpeg?width=640&crop=smart&auto=webp&s=d30c6dd2501d4162ffc8621c303d111fd2d602a3",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/Futurology"
+      ],
+      "summary": "Meta glasses banned from courts in England and Wales | Meta",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/Futurology this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1367,85 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/longevity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vjorly",
-      "title": "Why billion-dollar robotics startups are obsessed with folding laundry",
-      "link": "https://www.reddit.com/r/artificial/comments/1vjorly/why_billiondollar_robotics_startups_are_obsessed/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/artificial · community knowledge",
-      "content_type": "post",
-      "author": "u/Spirited-Sir-3034 · r/artificial",
-      "handle": "artificial",
-      "org": "r/artificial",
-      "platform": "reddit",
-      "published": "2026-08-09T12:34:52.000Z",
-      "image": "https://external-preview.redd.it/djzcxd2-3Dltg7DxieQ2a9-9tK2dboi01EGPCNAtSTc.jpeg?width=640&crop=smart&auto=webp&s=089cfed46adaf6494c17f52229aed9b2a936f4bd",
-      "thumbnail": "https://external-preview.redd.it/djzcxd2-3Dltg7DxieQ2a9-9tK2dboi01EGPCNAtSTc.jpeg?width=640&crop=smart&auto=webp&s=089cfed46adaf6494c17f52229aed9b2a936f4bd",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/artificial"
-      ],
-      "summary": "Why billion-dollar robotics startups are obsessed with folding laundry",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/artificial this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vjo8uf",
-      "title": "New Hisense e-ink phone appears in real-life images with detachable secondary display.",
-      "link": "https://www.reddit.com/r/gadgets/comments/1vjo8uf/new_hisense_eink_phone_appears_in_reallife_images/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/gadgets · community knowledge",
-      "content_type": "post",
-      "author": "u/RenegadeUK · r/gadgets",
-      "handle": "gadgets",
-      "org": "r/gadgets",
-      "platform": "reddit",
-      "published": "2026-08-09T12:08:48.000Z",
-      "image": "https://external-preview.redd.it/m0o7WyH1Hv-0YxxLxzjOfpSvVZASikUgxvL4Rnuom6Y.jpeg?width=640&crop=smart&auto=webp&s=5135a97c412ca6534768105079d3afba4db272dd",
-      "thumbnail": "https://external-preview.redd.it/m0o7WyH1Hv-0YxxLxzjOfpSvVZASikUgxvL4Rnuom6Y.jpeg?width=640&crop=smart&auto=webp&s=5135a97c412ca6534768105079d3afba4db272dd",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/gadgets"
-      ],
-      "summary": "New Hisense e-ink phone appears in real-life images with detachable secondary display.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/gadgets this week"
       ],
       "metrics": {
         "likes": 0,
