@@ -1,39 +1,116 @@
 {
-  "generated_at": "2026-08-13T06:03:15.235Z",
+  "generated_at": "2026-08-13T07:50:46.860Z",
   "subs": [
     "MachineLearning",
-    "bodyweightfitness",
-    "robotics",
     "programming",
+    "cybersecurity",
     "Fitness",
+    "bodyweightfitness",
     "nutrition",
     "netsec",
     "startups",
     "running",
     "Futurology",
     "hardware",
-    "cybersecurity",
     "artificial",
     "LocalLLaMA",
     "SkincareAddiction",
     "longevity",
     "science",
     "singularity",
-    "gadgets"
+    "robotics"
   ],
   "count": 36,
   "by_category": {
-    "AI / ML": 10,
-    "Coding & Dev Tools": 2,
+    "Coding & Dev Tools": 3,
+    "Security": 4,
+    "AI / ML": 9,
     "Fitness": 8,
-    "Security": 3,
     "Startups & Funding": 1,
     "Science": 5,
-    "Hardware & Gadgets": 4,
+    "Hardware & Gadgets": 3,
     "Skincare": 2,
     "Robotics": 1
   },
   "articles": [
+    {
+      "id": "reddit_1vmoddq",
+      "title": "Linus Torvalds Explains What Makes Linux So Fast",
+      "link": "https://www.reddit.com/r/programming/comments/1vmoddq/linus_torvalds_explains_what_makes_linux_so_fast/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/programming · community knowledge",
+      "content_type": "post",
+      "author": "u/Rechenplaner · r/programming",
+      "handle": "programming",
+      "org": "r/programming",
+      "platform": "reddit",
+      "published": "2026-08-12T19:40:18.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Coding & Dev Tools",
+      "category": "Coding & Dev Tools",
+      "genre": "Coding & Dev Tools",
+      "categories": [
+        "Reddit",
+        "Coding & Dev Tools",
+        "r/programming"
+      ],
+      "summary": "Linus Torvalds Explains What Makes Linux So Fast",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/programming this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vmhzd4",
+      "title": "Do you guys actually enjoy working in cybersecurity?",
+      "link": "https://www.reddit.com/r/cybersecurity/comments/1vmhzd4/do_you_guys_actually_enjoy_working_in/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/cybersecurity · community knowledge",
+      "content_type": "post",
+      "author": "u/Glittering_Fig4548 · r/cybersecurity",
+      "handle": "cybersecurity",
+      "org": "r/cybersecurity",
+      "platform": "reddit",
+      "published": "2026-08-12T15:51:33.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/cybersecurity"
+      ],
+      "summary": "I know some people hate it and describe a lot of work roles as soul crushing. &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/cybersecurity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1vmhks7",
       "title": "Would you choose a PhD advisor who gives you complete freedom but almost no guidance? [D]",
@@ -1367,85 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/netsec this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vjwcke",
-      "title": "Google needs to up their game",
-      "link": "https://www.reddit.com/r/singularity/comments/1vjwcke/google_needs_to_up_their_game/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/singularity · community knowledge",
-      "content_type": "post",
-      "author": "u/policyweb · r/singularity",
-      "handle": "singularity",
-      "org": "r/singularity",
-      "platform": "reddit",
-      "published": "2026-08-09T17:50:45.000Z",
-      "image": "https://preview.redd.it/7u7qcksl0eih1.jpeg?width=640&crop=smart&auto=webp&s=93448f2ef0ef38c7dd5351c06fc35d1a011323c7",
-      "thumbnail": "https://preview.redd.it/7u7qcksl0eih1.jpeg?width=640&crop=smart&auto=webp&s=93448f2ef0ef38c7dd5351c06fc35d1a011323c7",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/singularity"
-      ],
-      "summary": "Google needs to up their game",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/singularity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vjtvvc",
-      "title": "Low-cost sticker developed to warn wearer of heatstroke risk",
-      "link": "https://www.reddit.com/r/gadgets/comments/1vjtvvc/lowcost_sticker_developed_to_warn_wearer_of/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/gadgets · community knowledge",
-      "content_type": "post",
-      "author": "u/diacewrb · r/gadgets",
-      "handle": "gadgets",
-      "org": "r/gadgets",
-      "platform": "reddit",
-      "published": "2026-08-09T16:13:10.000Z",
-      "image": "https://external-preview.redd.it/6PEU-7emwy52ks3n0DWrvPW7nDGgGoKdNLb_VcnXcQ8.jpeg?width=640&crop=smart&auto=webp&s=a85419fe021ad258233bb9d84a469a7e063f42e9",
-      "thumbnail": "https://external-preview.redd.it/6PEU-7emwy52ks3n0DWrvPW7nDGgGoKdNLb_VcnXcQ8.jpeg?width=640&crop=smart&auto=webp&s=a85419fe021ad258233bb9d84a469a7e063f42e9",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/gadgets"
-      ],
-      "summary": "Low-cost sticker developed to warn wearer of heatstroke risk",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/gadgets this week"
       ],
       "metrics": {
         "likes": 0,
