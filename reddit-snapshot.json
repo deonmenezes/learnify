@@ -1,9 +1,10 @@
 {
-  "generated_at": "2026-08-13T16:05:28.997Z",
+  "generated_at": "2026-08-13T17:37:00.417Z",
   "subs": [
     "MachineLearning",
-    "longevity",
-    "gadgets",
+    "artificial",
+    "nutrition",
+    "investing",
     "programming",
     "cybersecurity",
     "LocalLLaMA",
@@ -11,13 +12,13 @@
     "Futurology",
     "Fitness",
     "running",
+    "gadgets",
     "bodyweightfitness",
-    "nutrition",
     "netsec",
     "startups",
     "hardware",
     "SkincareAddiction",
-    "artificial",
+    "longevity",
     "science"
   ],
   "count": 36,
@@ -28,8 +29,8 @@
     "Science": 5,
     "Fitness": 7,
     "Hardware & Gadgets": 2,
-    "Startups & Funding": 3,
-    "Skincare": 3
+    "Startups & Funding": 4,
+    "Skincare": 2
   },
   "articles": [
     {
@@ -781,6 +782,46 @@
       }
     },
     {
+      "id": "reddit_1vliday",
+      "title": "Robinhood ends its partnership with Morningstar",
+      "link": "https://www.reddit.com/r/investing/comments/1vliday/robinhood_ends_its_partnership_with_morningstar/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/investing · community knowledge",
+      "content_type": "post",
+      "author": "u/thehellboundfratboy · r/investing",
+      "handle": "investing",
+      "org": "r/investing",
+      "platform": "reddit",
+      "published": "2026-08-11T14:03:37.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/investing"
+      ],
+      "summary": "I woke up this morning, and I noticed that Robinhood is no longer supplying data from Morningstar to its Gold Members. I don&#39;t know about you, but the entire reason I paid for gold was to have access to that analysis. I considered Robinhood Gold the best deal in the business, and with the partnership over as of…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/investing this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1vlfqer",
       "title": "Meta glasses banned from courts in England and Wales | Meta",
       "link": "https://www.reddit.com/r/Futurology/comments/1vlfqer/meta_glasses_banned_from_courts_in_england_and/",
@@ -1405,45 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vklzih",
-      "title": "[B&A] Two weeks of using azelaic acid! Thank you all for the insane results!",
-      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1vklzih/ba_two_weeks_of_using_azelaic_acid_thank_you_all/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/SkincareAddiction · community knowledge",
-      "content_type": "post",
-      "author": "u/Acrobatic-Painter499 · r/SkincareAddiction",
-      "handle": "SkincareAddiction",
-      "org": "r/SkincareAddiction",
-      "platform": "reddit",
-      "published": "2026-08-10T14:12:09.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Skincare",
-      "category": "Skincare",
-      "genre": "Skincare",
-      "categories": [
-        "Reddit",
-        "Skincare",
-        "r/SkincareAddiction"
-      ],
-      "summary": "I would like to personally thank everyone that recommended azelaic acid for my post-acne skin discoloration. Literally two weeks and I’ve already seen a massive improvement!! The first pic is from my original post (day 1) and the second is day 14! Hopefully I’m not seeing placebo, but I feel like there’s a huge…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/SkincareAddiction this week"
       ],
       "metrics": {
         "likes": 0,
