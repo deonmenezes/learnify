@@ -1,8 +1,9 @@
 {
-  "generated_at": "2026-08-13T14:41:42.587Z",
+  "generated_at": "2026-08-13T16:03:14.372Z",
   "handles": [
     "nvidia",
     "GoogleDeepMind",
+    "satyanadella",
     "OpenAI",
     "NVIDIAAI",
     "AnthropicAI",
@@ -11,6 +12,46 @@
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2087924679163965756",
+      "title": "AI factories are the industrial infrastructure of the AI era. Tokens are the new commodity. How do you optimize AI token economics? 🧵",
+      "link": "https://x.com/nvidia/status/2087924679163965756",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-08-13T15:30:09.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "AI factories are the industrial infrastructure of the AI era. Tokens are the new commodity. How do you optimize AI token economics? 🧵",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 71,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (tokens)"
+      ],
+      "metrics": {
+        "likes": 58,
+        "retweets": 8,
+        "replies": 20,
+        "likes_h": "58"
+      },
+      "engagement": 94,
+      "hot": false
+    },
     {
       "id": "x_2087576824159297605",
       "title": "Congrats to the @SpaceXAI team on the release of Grok 4.6. Grok 4.6 brings frontier intelligence, running and trained on NVIDIA GB300 NVL72 with NVLink to deliver exceptional performance, reliability…",
@@ -43,15 +84,15 @@
         "casual tone (congrats)",
         "announcement language (release)",
         "tech substance (grok)",
-        "high engagement (7.7K likes)"
+        "high engagement (8.2K likes)"
       ],
       "metrics": {
-        "likes": 7715,
-        "retweets": 708,
-        "replies": 182,
-        "likes_h": "7.7K"
+        "likes": 8203,
+        "retweets": 756,
+        "replies": 191,
+        "likes_h": "8.2K"
       },
-      "engagement": 9313,
+      "engagement": 9906,
       "hot": false
     },
     {
@@ -85,12 +126,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 602,
-        "retweets": 77,
-        "replies": 39,
-        "likes_h": "602"
+        "likes": 636,
+        "retweets": 82,
+        "replies": 42,
+        "likes_h": "636"
       },
-      "engagement": 795,
+      "engagement": 842,
       "hot": false
     },
     {
@@ -123,15 +164,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (model, features)",
-        "high engagement (1.4K likes)"
+        "high engagement (1.6K likes)"
       ],
       "metrics": {
-        "likes": 1388,
-        "retweets": 190,
-        "replies": 91,
-        "likes_h": "1.4K"
+        "likes": 1604,
+        "retweets": 219,
+        "replies": 96,
+        "likes_h": "1.6K"
       },
-      "engagement": 1859,
+      "engagement": 2138,
       "hot": false
     },
     {
@@ -249,15 +290,15 @@
         "announcement language (announced)",
         "tech substance (model, models, nemotron)",
         "links to a source",
-        "high engagement (946 likes)"
+        "high engagement (954 likes)"
       ],
       "metrics": {
-        "likes": 946,
+        "likes": 954,
         "retweets": 146,
-        "replies": 103,
-        "likes_h": "946"
+        "replies": 106,
+        "likes_h": "954"
       },
-      "engagement": 1341,
+      "engagement": 1352,
       "hot": false
     },
     {
@@ -508,7 +549,7 @@
         "likes_h": "7.6K"
       },
       "engagement": 9424,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2086757844544811485",
@@ -626,15 +667,15 @@
         "casual tone (this)",
         "tech substance (platform)",
         "links to a source",
-        "high engagement (989 likes)"
+        "high engagement (987 likes)"
       ],
       "metrics": {
-        "likes": 989,
+        "likes": 987,
         "retweets": 128,
         "replies": 99,
-        "likes_h": "989"
+        "likes_h": "987"
       },
-      "engagement": 1344,
+      "engagement": 1342,
       "hot": false
     },
     {
@@ -709,15 +750,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (gemini, robotics)",
-        "high engagement (895 likes)"
+        "high engagement (898 likes)"
       ],
       "metrics": {
-        "likes": 895,
+        "likes": 898,
         "retweets": 119,
         "replies": 120,
-        "likes_h": "895"
+        "likes_h": "898"
       },
-      "engagement": 1253,
+      "engagement": 1256,
       "hot": false
     },
     {
@@ -921,12 +962,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 1537,
+        "likes": 1542,
         "retweets": 198,
         "replies": 104,
         "likes_h": "1.5K"
       },
-      "engagement": 2037,
+      "engagement": 2042,
       "hot": false
     },
     {
@@ -1298,46 +1339,6 @@
         "likes_h": "1.3K"
       },
       "engagement": 1776,
-      "hot": false
-    },
-    {
-      "id": "x_2084625868173820144",
-      "title": "Security is strongest when organizations collaborate openly and move quickly. Now over 120 members strong, the Open Secure AI Alliance is sharing new open source security contributions, including new…",
-      "link": "https://x.com/nvidia/status/2084625868173820144",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-08-04T13:01:52.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product"
-      ],
-      "summary": "Security is strongest when organizations collaborate openly and move quickly. Now over 120 members strong, the Open Secure AI Alliance is sharing new open source security contributions, including new proposed SAFE guidelines, for turning confidential incident findings into",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 77,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "tech substance (open source)"
-      ],
-      "metrics": {
-        "likes": 605,
-        "retweets": 93,
-        "replies": 58,
-        "likes_h": "605"
-      },
-      "engagement": 849,
       "hot": false
     }
   ]
