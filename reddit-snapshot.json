@@ -1,34 +1,33 @@
 {
-  "generated_at": "2026-08-13T10:41:32.547Z",
+  "generated_at": "2026-08-13T11:54:09.877Z",
   "subs": [
     "MachineLearning",
-    "Futurology",
-    "gadgets",
+    "LocalLLaMA",
+    "running",
+    "startups",
     "programming",
     "cybersecurity",
+    "Futurology",
     "Fitness",
+    "gadgets",
     "bodyweightfitness",
     "nutrition",
     "netsec",
-    "startups",
-    "running",
     "hardware",
     "artificial",
-    "LocalLLaMA",
     "SkincareAddiction",
     "longevity",
-    "science",
-    "singularity"
+    "science"
   ],
   "count": 36,
   "by_category": {
     "Coding & Dev Tools": 3,
     "Security": 3,
     "AI / ML": 9,
-    "Science": 6,
+    "Science": 5,
     "Fitness": 8,
-    "Hardware & Gadgets": 4,
-    "Startups & Funding": 1,
+    "Hardware & Gadgets": 3,
+    "Startups & Funding": 3,
     "Skincare": 2
   },
   "articles": [
@@ -190,6 +189,46 @@
       }
     },
     {
+      "id": "reddit_1vmgozv",
+      "title": "Qwen3.8-2.4T-A95B Released",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1vmgozv/qwen3824ta95b_released/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/LocalLLaMA · community knowledge",
+      "content_type": "post",
+      "author": "u/de4dee · r/LocalLLaMA",
+      "handle": "LocalLLaMA",
+      "org": "r/LocalLLaMA",
+      "platform": "reddit",
+      "published": "2026-08-12T15:04:31.000Z",
+      "image": "https://external-preview.redd.it/f3ZMlQDL1jjt4_SfLZ1BBaS5LHm0VAAdCDLlji2qoj0.png?width=640&crop=smart&auto=webp&s=afe2a6bbb4dee761a1c3a26039ea396e6182bf8f",
+      "thumbnail": "https://external-preview.redd.it/f3ZMlQDL1jjt4_SfLZ1BBaS5LHm0VAAdCDLlji2qoj0.png?width=640&crop=smart&auto=webp&s=afe2a6bbb4dee761a1c3a26039ea396e6182bf8f",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/LocalLLaMA"
+      ],
+      "summary": "Qwen3.8-2.4T-A95B Released",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/LocalLLaMA this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1vmcnvk",
       "title": "A French grower planted four hectares of cognac vines under 6,000 solar panels hanging five meters over the rows, and when hail comes the whole array lies flat to shield the fruit, which costs him the geographical indication on every bottle he makes",
       "link": "https://www.reddit.com/r/Futurology/comments/1vmcnvk/a_french_grower_planted_four_hectares_of_cognac/",
@@ -299,6 +338,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/programming this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vm0pm7",
+      "title": "What’s the worst nutrition advice you’ve ever received? (From a non-runner)",
+      "link": "https://www.reddit.com/r/running/comments/1vm0pm7/whats_the_worst_nutrition_advice_youve_ever/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/running · community knowledge",
+      "content_type": "post",
+      "author": "u/Alert_East_6207 · r/running",
+      "handle": "running",
+      "org": "r/running",
+      "platform": "reddit",
+      "published": "2026-08-12T01:47:47.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/running"
+      ],
+      "summary": "As an endurance runner discussing nutrition with someone who doesn’t train is the worst ever. &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/running this week"
       ],
       "metrics": {
         "likes": 0,
@@ -504,6 +582,45 @@
       }
     },
     {
+      "id": "reddit_1vlnw46",
+      "title": "Does Kinesiology Tape Actually Work?",
+      "link": "https://www.reddit.com/r/running/comments/1vlnw46/does_kinesiology_tape_actually_work/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/running · community knowledge",
+      "content_type": "post",
+      "author": "u/Amazon_Master_1212 · r/running",
+      "handle": "running",
+      "org": "r/running",
+      "platform": "reddit",
+      "published": "2026-08-11T17:23:56.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/running"
+      ],
+      "summary": "Hi everyone, I’m an avid endurance runner. I regularly take part in marathons and trail‑running races. I’ve seen countless fellow runners wearing k‑tape during training and competitions, but I have never tried it myself. So I’m curious: does kinesiology tape actually deliver real benefits? Or is it mostly placebo…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/running this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1vlkhyz",
       "title": "Planning training blocks for long term 5K/HM goals",
       "link": "https://www.reddit.com/r/running/comments/1vlkhyz/planning_training_blocks_for_long_term_5khm_goals/",
@@ -613,6 +730,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/hardware this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vldt1a",
+      "title": "What’s one startup decision you spent way too much time on? I will not promote.",
+      "link": "https://www.reddit.com/r/startups/comments/1vldt1a/whats_one_startup_decision_you_spent_way_too_much/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/startups · community knowledge",
+      "content_type": "post",
+      "author": "u/yimyim358 · r/startups",
+      "handle": "startups",
+      "org": "r/startups",
+      "platform": "reddit",
+      "published": "2026-08-11T10:36:08.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/startups"
+      ],
+      "summary": "Looking back, what’s one decision you overthought that ended up not mattering much? Maybe something that you regretted doing after the process. Or the opposite, something you barely thought about that turned out to be really important. Curious where founders actually end up wasting the most time. &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/startups this week"
       ],
       "metrics": {
         "likes": 0,
@@ -771,6 +928,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/SkincareAddiction this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vkwwc5",
+      "title": "How to dissolve Delaware corp without paying a ton of fees? My company never did any actual business...I will not promote",
+      "link": "https://www.reddit.com/r/startups/comments/1vkwwc5/how_to_dissolve_delaware_corp_without_paying_a/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/startups · community knowledge",
+      "content_type": "post",
+      "author": "u/sinuspane · r/startups",
+      "handle": "startups",
+      "org": "r/startups",
+      "platform": "reddit",
+      "published": "2026-08-10T20:48:10.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/startups"
+      ],
+      "summary": "I formed a C-Corp in Delaware in 2025 and registered it in California as an out of state entity. I&#39;ve been ignoring the forms I have been receiving from my registered agent (CSC) from the Delaware Division of Corporations. The quoted tax amount is over 100k, but that seems to be the default, which would really…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/startups this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1245,204 +1442,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/hardware this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vkbwzx",
-      "title": "Claude is asked to book a gym class; finds vulnerabilities in the gym's systems and cancels a real person's spot to move the user up in line without being asked",
-      "link": "https://www.reddit.com/r/singularity/comments/1vkbwzx/claude_is_asked_to_book_a_gym_class_finds/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/singularity · community knowledge",
-      "content_type": "post",
-      "author": "u/kaityl3 · r/singularity",
-      "handle": "singularity",
-      "org": "r/singularity",
-      "platform": "reddit",
-      "published": "2026-08-10T05:24:55.000Z",
-      "image": "https://preview.redd.it/utv8ahbgghih1.png?width=140&height=99&auto=webp&s=dbf1dee2d0a38ba255712ab51bcf65bb682c789f",
-      "thumbnail": "https://preview.redd.it/utv8ahbgghih1.png?width=140&height=99&auto=webp&s=dbf1dee2d0a38ba255712ab51bcf65bb682c789f",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/singularity"
-      ],
-      "summary": "Claude is asked to book a gym class; finds vulnerabilities in the gym's systems and cancels a real person's spot to move the user up in line without being asked",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/singularity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vk6ylk",
-      "title": "Nervousness about produce is messing up our nutrition. Howre yall handling it?",
-      "link": "https://www.reddit.com/r/nutrition/comments/1vk6ylk/nervousness_about_produce_is_messing_up_our/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/nutrition · community knowledge",
-      "content_type": "post",
-      "author": "u/Dizzy_Substance_2480 · r/nutrition",
-      "handle": "nutrition",
-      "org": "r/nutrition",
-      "platform": "reddit",
-      "published": "2026-08-10T01:15:21.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Nutrition",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "Nutrition",
-        "r/nutrition"
-      ],
-      "summary": "The current ongoing issues with recalls and lack of food safety in the U.S has me and my bf nervous about fresh greens atm and I was wondering how others are navigating it for nutrition (or if this is something we shouldnt concern ourselves with too much). We cant afford to risk getting poisoning but are noticing some…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/nutrition this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vk4u7o",
-      "title": "'AI Is Destroying Jobs Faster Than It Is Visibly Creating Them': Tech Layoffs Hit Record Highs",
-      "link": "https://www.reddit.com/r/Futurology/comments/1vk4u7o/ai_is_destroying_jobs_faster_than_it_is_visibly/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/Futurology · community knowledge",
-      "content_type": "post",
-      "author": "u/Gari_305 · r/Futurology",
-      "handle": "Futurology",
-      "org": "r/Futurology",
-      "platform": "reddit",
-      "published": "2026-08-09T23:37:31.000Z",
-      "image": "https://external-preview.redd.it/Wq-RcsNyy30ioJOnetKdhqb1q28w5sgJgiVCHhjNx6Y.png?width=640&crop=smart&auto=webp&s=c2d066cfc5b92bb50db915e6402db4adb4c7b463",
-      "thumbnail": "https://external-preview.redd.it/Wq-RcsNyy30ioJOnetKdhqb1q28w5sgJgiVCHhjNx6Y.png?width=640&crop=smart&auto=webp&s=c2d066cfc5b92bb50db915e6402db4adb4c7b463",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/Futurology"
-      ],
-      "summary": "Corporate innovation comes at a devastating human cost as Silicon Valley trades its workforce for automated futures &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/Futurology this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vk290b",
-      "title": "Memory prices have erased 20 years of progress in a single year, researcher says",
-      "link": "https://www.reddit.com/r/hardware/comments/1vk290b/memory_prices_have_erased_20_years_of_progress_in/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/hardware · community knowledge",
-      "content_type": "post",
-      "author": "u/wickedplayer494 · r/hardware",
-      "handle": "hardware",
-      "org": "r/hardware",
-      "platform": "reddit",
-      "published": "2026-08-09T21:45:36.000Z",
-      "image": "https://external-preview.redd.it/u5D5FyS9SdzNywVAQciyiud3GecJyyuhfSR4nvQzn6k.jpeg?width=640&crop=smart&auto=webp&s=ffd03c169c8cca957fefe88715a898748bfed7a1",
-      "thumbnail": "https://external-preview.redd.it/u5D5FyS9SdzNywVAQciyiud3GecJyyuhfSR4nvQzn6k.jpeg?width=640&crop=smart&auto=webp&s=ffd03c169c8cca957fefe88715a898748bfed7a1",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/hardware"
-      ],
-      "summary": "Memory prices have erased 20 years of progress in a single year, researcher says",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/hardware this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vk0poz",
-      "title": "If you prioritize fiber...",
-      "link": "https://www.reddit.com/r/nutrition/comments/1vk0poz/if_you_prioritize_fiber/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/nutrition · community knowledge",
-      "content_type": "post",
-      "author": "u/tropicalislandhop · r/nutrition",
-      "handle": "nutrition",
-      "org": "r/nutrition",
-      "platform": "reddit",
-      "published": "2026-08-09T20:41:37.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Nutrition",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "Nutrition",
-        "r/nutrition"
-      ],
-      "summary": "Please tell me what high fiber foods you have eaten today. Show me how easy it can be, I need inspiration! UPDATE: That&#39;s what I&#39;m talking about, thanks all so much for sharing! &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/nutrition this week"
       ],
       "metrics": {
         "likes": 0,
