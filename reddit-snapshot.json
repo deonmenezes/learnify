@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-08-13T11:54:09.877Z",
+  "generated_at": "2026-08-13T13:21:58.211Z",
   "subs": [
     "MachineLearning",
-    "LocalLLaMA",
-    "running",
-    "startups",
+    "artificial",
+    "nutrition",
     "programming",
     "cybersecurity",
+    "LocalLLaMA",
     "Futurology",
     "Fitness",
+    "running",
     "gadgets",
     "bodyweightfitness",
-    "nutrition",
     "netsec",
+    "startups",
     "hardware",
-    "artificial",
     "SkincareAddiction",
     "longevity",
     "science"
@@ -23,10 +23,10 @@
   "by_category": {
     "Coding & Dev Tools": 3,
     "Security": 3,
-    "AI / ML": 9,
+    "AI / ML": 10,
     "Science": 5,
     "Fitness": 8,
-    "Hardware & Gadgets": 3,
+    "Hardware & Gadgets": 2,
     "Startups & Funding": 3,
     "Skincare": 2
   },
@@ -260,6 +260,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Futurology this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vmbdk6",
+      "title": "I built an \"honest\" CS conference ranking: sorted by how good the trip is, not the CORE ranking [P]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1vmbdk6/i_built_an_honest_cs_conference_ranking_sorted_by/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/MachineLearning · community knowledge",
+      "content_type": "post",
+      "author": "u/JohnAZoidberg77 · r/MachineLearning",
+      "handle": "MachineLearning",
+      "org": "r/MachineLearning",
+      "platform": "reddit",
+      "published": "2026-08-12T11:23:32.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/MachineLearning"
+      ],
+      "summary": "Once the paper is ready, everyone checks the venue location before the acceptance rate anyway. So I built: https://honestcsrankings.org It maps ~540 upcoming CORE-ranked conferences, but ranks them by how good the destination actually is. It factors in: Weather during the actual conference month (using real climate…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/MachineLearning this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1403,45 +1443,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/LocalLLaMA this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vkbxb9",
-      "title": "Noctua finds more than half of tested PC cases misstate CPU cooler clearances — hands-on checks reveal errors ranging from -3.5mm to +10mm, internal compatibility team conducted measurements of more than a hundred cases",
-      "link": "https://www.reddit.com/r/hardware/comments/1vkbxb9/noctua_finds_more_than_half_of_tested_pc_cases/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/hardware · community knowledge",
-      "content_type": "post",
-      "author": "u/sr_local · r/hardware",
-      "handle": "hardware",
-      "org": "r/hardware",
-      "platform": "reddit",
-      "published": "2026-08-10T05:25:25.000Z",
-      "image": "https://external-preview.redd.it/zxKK6TF9zufgDmEp27ysKByrivIJbb92kqlPBgQZqoA.jpeg?width=640&crop=smart&auto=webp&s=a8c512cc4ef635dc7e1dd7506336cc5f9133285d",
-      "thumbnail": "https://external-preview.redd.it/zxKK6TF9zufgDmEp27ysKByrivIJbb92kqlPBgQZqoA.jpeg?width=640&crop=smart&auto=webp&s=a8c512cc4ef635dc7e1dd7506336cc5f9133285d",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/hardware"
-      ],
-      "summary": "Noctua finds more than half of tested PC cases misstate CPU cooler clearances — hands-on checks reveal errors ranging from -3.5mm to +10mm, internal compatibility team conducted measurements of more than a hundred cases",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/hardware this week"
       ],
       "metrics": {
         "likes": 0,
