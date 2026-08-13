@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-13T22:47:37.970Z",
+  "generated_at": "2026-08-13T23:45:49.339Z",
   "handles": [
-    "GoogleDeepMind",
     "nvidia",
+    "GoogleDeepMind",
     "OpenAI",
     "NVIDIAAI",
     "AnthropicAI",
@@ -11,6 +11,46 @@
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2087991151806521392",
+      "title": "AI is becoming a new computing model for media and entertainment. At the 2026 Runway AI Summit, NVIDIA’s Richard Kerris explored how real-time generative AI can make creative production a live,…",
+      "link": "https://x.com/nvidia/status/2087991151806521392",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-08-13T19:54:18.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "AI is becoming a new computing model for media and entertainment. At the 2026 Runway AI Summit, NVIDIA’s Richard Kerris explored how real-time generative AI can make creative production a live, artist-controlled process. Powered by NVIDIA Vera Rubin, Runway brought Gen-4.5 to",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 75,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (model)"
+      ],
+      "metrics": {
+        "likes": 352,
+        "retweets": 41,
+        "replies": 24,
+        "likes_h": "352"
+      },
+      "engagement": 458,
+      "hot": false
+    },
     {
       "id": "x_2087948366294515977",
       "title": "Gemini 3.7 Flash is here. It’s stronger for coding, knowledge work, and web development. 🧵",
@@ -41,15 +81,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (gemini)",
-        "high engagement (2.2K likes)"
+        "high engagement (3.2K likes)"
       ],
       "metrics": {
-        "likes": 2230,
-        "retweets": 259,
-        "replies": 168,
-        "likes_h": "2.2K"
+        "likes": 3171,
+        "retweets": 385,
+        "replies": 210,
+        "likes_h": "3.2K"
       },
-      "engagement": 2916,
+      "engagement": 4151,
       "hot": false
     },
     {
@@ -76,7 +116,7 @@
       "summary": "AI factories are the industrial infrastructure of the AI era. Tokens are the new commodity. How do you optimize AI token economics? 🧵",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 73,
+      "worthiness_score": 74,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -84,12 +124,12 @@
         "tech substance (tokens)"
       ],
       "metrics": {
-        "likes": 155,
-        "retweets": 18,
-        "replies": 35,
-        "likes_h": "155"
+        "likes": 235,
+        "retweets": 32,
+        "replies": 38,
+        "likes_h": "235"
       },
-      "engagement": 226,
+      "engagement": 337,
       "hot": false
     },
     {
@@ -124,15 +164,15 @@
         "casual tone (congrats)",
         "announcement language (release)",
         "tech substance (grok)",
-        "high engagement (8.4K likes)"
+        "high engagement (8.6K likes)"
       ],
       "metrics": {
-        "likes": 8412,
-        "retweets": 775,
-        "replies": 196,
-        "likes_h": "8.4K"
+        "likes": 8551,
+        "retweets": 789,
+        "replies": 197,
+        "likes_h": "8.6K"
       },
-      "engagement": 10158,
+      "engagement": 10326,
       "hot": true
     },
     {
@@ -166,12 +206,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 645,
-        "retweets": 82,
+        "likes": 650,
+        "retweets": 84,
         "replies": 43,
-        "likes_h": "645"
+        "likes_h": "650"
       },
-      "engagement": 852,
+      "engagement": 861,
       "hot": false
     },
     {
@@ -207,12 +247,12 @@
         "high engagement (1.7K likes)"
       ],
       "metrics": {
-        "likes": 1696,
-        "retweets": 234,
-        "replies": 97,
+        "likes": 1734,
+        "retweets": 243,
+        "replies": 100,
         "likes_h": "1.7K"
       },
-      "engagement": 2261,
+      "engagement": 2320,
       "hot": false
     },
     {
@@ -330,15 +370,15 @@
         "announcement language (announced)",
         "tech substance (model, models, nemotron)",
         "links to a source",
-        "high engagement (957 likes)"
+        "high engagement (962 likes)"
       ],
       "metrics": {
-        "likes": 957,
-        "retweets": 146,
-        "replies": 109,
-        "likes_h": "957"
+        "likes": 962,
+        "retweets": 150,
+        "replies": 114,
+        "likes_h": "962"
       },
-      "engagement": 1358,
+      "engagement": 1376,
       "hot": false
     },
     {
@@ -418,12 +458,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 2190,
-        "retweets": 208,
-        "replies": 99,
+        "likes": 2194,
+        "retweets": 211,
+        "replies": 100,
         "likes_h": "2.2K"
       },
-      "engagement": 2705,
+      "engagement": 2716,
       "hot": false
     },
     {
@@ -790,15 +830,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (gemini, robotics)",
-        "high engagement (901 likes)"
+        "high engagement (903 likes)"
       ],
       "metrics": {
-        "likes": 901,
+        "likes": 903,
         "retweets": 120,
         "replies": 120,
-        "likes_h": "901"
+        "likes_h": "903"
       },
-      "engagement": 1261,
+      "engagement": 1263,
       "hot": false
     },
     {
@@ -998,16 +1038,16 @@
       "reasons": [
         "report-worthy",
         "tech substance (model, state-of-the-art)",
-        "high engagement (1.5K likes)",
+        "high engagement (1.6K likes)",
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 1547,
+        "likes": 1556,
         "retweets": 198,
-        "replies": 105,
-        "likes_h": "1.5K"
+        "replies": 104,
+        "likes_h": "1.6K"
       },
-      "engagement": 2048,
+      "engagement": 2056,
       "hot": false
     },
     {
@@ -1297,47 +1337,6 @@
       },
       "engagement": 18454,
       "hot": true
-    },
-    {
-      "id": "x_2084716722746253566",
-      "title": "Read why AI agents need more than one model. 👇 http://x.com/i/article/2084699575093465088",
-      "link": "https://x.com/nvidia/status/2084716722746253566",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-08-04T19:02:53.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product"
-      ],
-      "summary": "Read why AI agents need more than one model. 👇 http://x.com/i/article/2084699575093465088",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 81,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (model, agents)",
-        "links to a source"
-      ],
-      "metrics": {
-        "likes": 443,
-        "retweets": 50,
-        "replies": 42,
-        "likes_h": "443"
-      },
-      "engagement": 585,
-      "hot": false
     }
   ]
 }
