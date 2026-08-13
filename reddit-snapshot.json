@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-13T09:19:26.167Z",
+  "generated_at": "2026-08-13T10:41:32.547Z",
   "subs": [
     "MachineLearning",
-    "longevity",
-    "hardware",
+    "Futurology",
+    "gadgets",
     "programming",
     "cybersecurity",
     "Fitness",
@@ -12,25 +12,24 @@
     "netsec",
     "startups",
     "running",
-    "Futurology",
+    "hardware",
     "artificial",
     "LocalLLaMA",
     "SkincareAddiction",
+    "longevity",
     "science",
-    "singularity",
-    "robotics"
+    "singularity"
   ],
   "count": 36,
   "by_category": {
     "Coding & Dev Tools": 3,
-    "Security": 4,
+    "Security": 3,
     "AI / ML": 9,
+    "Science": 6,
     "Fitness": 8,
+    "Hardware & Gadgets": 4,
     "Startups & Funding": 1,
-    "Science": 5,
-    "Hardware & Gadgets": 3,
-    "Skincare": 2,
-    "Robotics": 1
+    "Skincare": 2
   },
   "articles": [
     {
@@ -191,6 +190,45 @@
       }
     },
     {
+      "id": "reddit_1vmcnvk",
+      "title": "A French grower planted four hectares of cognac vines under 6,000 solar panels hanging five meters over the rows, and when hail comes the whole array lies flat to shield the fruit, which costs him the geographical indication on every bottle he makes",
+      "link": "https://www.reddit.com/r/Futurology/comments/1vmcnvk/a_french_grower_planted_four_hectares_of_cognac/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/Futurology · community knowledge",
+      "content_type": "post",
+      "author": "u/tlst9999 · r/Futurology",
+      "handle": "Futurology",
+      "org": "r/Futurology",
+      "platform": "reddit",
+      "published": "2026-08-12T12:24:59.000Z",
+      "image": "https://external-preview.redd.it/Nw7l9tygzeaXlIO8yCIRfDCa9Ea2whgFMEJ66JX7gPI.jpeg?width=640&crop=smart&auto=webp&s=7fe98716dea4d88ac3e3412cc7751d5eadd42b31",
+      "thumbnail": "https://external-preview.redd.it/Nw7l9tygzeaXlIO8yCIRfDCa9Ea2whgFMEJ66JX7gPI.jpeg?width=640&crop=smart&auto=webp&s=7fe98716dea4d88ac3e3412cc7751d5eadd42b31",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/Futurology"
+      ],
+      "summary": "A French grower planted four hectares of cognac vines under 6,000 solar panels hanging five meters over the rows, and when hail comes the whole array lies flat to shield the fruit, which costs him the geographical indication on every bottle he makes",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/Futurology this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1vm8r8r",
       "title": "Rant Wednesday - August 12, 2026",
       "link": "https://www.reddit.com/r/Fitness/comments/1vm8r8r/rant_wednesday_august_12_2026/",
@@ -261,6 +299,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/programming this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vlzyr4",
+      "title": "Samsung Odyssey G80HS Monitor Review: 6K Isn’t the Future of Gaming",
+      "link": "https://www.reddit.com/r/gadgets/comments/1vlzyr4/samsung_odyssey_g80hs_monitor_review_6k_isnt_the/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/gadgets · community knowledge",
+      "content_type": "post",
+      "author": "u/dapperlemon · r/gadgets",
+      "handle": "gadgets",
+      "org": "r/gadgets",
+      "platform": "reddit",
+      "published": "2026-08-12T01:13:00.000Z",
+      "image": "https://external-preview.redd.it/bArV5d444J68pahvwcIF8QbKi9duy1voxNRAxNmPqs0.jpeg?width=640&crop=smart&auto=webp&s=69838dd23c313daf2bf09c0635dc0cefdd6b0145",
+      "thumbnail": "https://external-preview.redd.it/bArV5d444J68pahvwcIF8QbKi9duy1voxNRAxNmPqs0.jpeg?width=640&crop=smart&auto=webp&s=69838dd23c313daf2bf09c0635dc0cefdd6b0145",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/gadgets"
+      ],
+      "summary": "Samsung Odyssey G80HS Monitor Review: 6K Isn’t the Future of Gaming",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/gadgets this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1366,84 +1443,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/nutrition this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vk0bt4",
-      "title": "Real-Time Underwater Image Processing System | Adaptive Sea-Thru extended version.",
-      "link": "https://www.reddit.com/r/robotics/comments/1vk0bt4/realtime_underwater_image_processing_system/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/robotics · community knowledge",
-      "content_type": "post",
-      "author": "u/CellistTraditional · r/robotics",
-      "handle": "robotics",
-      "org": "r/robotics",
-      "platform": "reddit",
-      "published": "2026-08-09T20:25:56.000Z",
-      "image": "https://external-preview.redd.it/M2pibnNsNXpyZWloMUVVYp2AySmVwyZnC2rVBYo23JS20qzfsJ7EkLoywp4M.png?width=640&crop=smart&auto=webp&s=160019fd3d936f5ba6faf2dca434c8645c9c94c7",
-      "thumbnail": "https://external-preview.redd.it/M2pibnNsNXpyZWloMUVVYp2AySmVwyZnC2rVBYo23JS20qzfsJ7EkLoywp4M.png?width=640&crop=smart&auto=webp&s=160019fd3d936f5ba6faf2dca434c8645c9c94c7",
-      "section": "Robotics",
-      "category": "Robotics",
-      "genre": "Robotics",
-      "categories": [
-        "Reddit",
-        "Robotics",
-        "r/robotics"
-      ],
-      "summary": "Real-Time Underwater Image Processing System | Adaptive Sea-Thru extended version.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/robotics this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vjxr66",
-      "title": "When terrible disclosure from the vendor results in zero days plus a fun dive in to bypassing full disk encryption",
-      "link": "https://www.reddit.com/r/netsec/comments/1vjxr66/when_terrible_disclosure_from_the_vendor_results/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/netsec · community knowledge",
-      "content_type": "post",
-      "author": "u/kev-thehermit · r/netsec",
-      "handle": "netsec",
-      "org": "r/netsec",
-      "platform": "reddit",
-      "published": "2026-08-09T18:44:44.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/netsec"
-      ],
-      "summary": "When terrible disclosure from the vendor results in zero days plus a fun dive in to bypassing full disk encryption",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/netsec this week"
       ],
       "metrics": {
         "likes": 0,
