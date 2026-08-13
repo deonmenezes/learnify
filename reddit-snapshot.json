@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-12T23:48:26.205Z",
+  "generated_at": "2026-08-13T04:30:20.554Z",
   "subs": [
     "MachineLearning",
-    "longevity",
-    "hardware",
+    "Fitness",
+    "robotics",
     "programming",
     "bodyweightfitness",
     "nutrition",
@@ -11,23 +11,24 @@
     "startups",
     "running",
     "Futurology",
+    "hardware",
     "cybersecurity",
     "artificial",
     "LocalLLaMA",
     "SkincareAddiction",
+    "longevity",
     "science",
     "singularity",
-    "robotics",
     "gadgets"
   ],
   "count": 36,
   "by_category": {
     "AI / ML": 10,
     "Coding & Dev Tools": 2,
-    "Fitness": 7,
+    "Fitness": 8,
     "Security": 3,
     "Startups & Funding": 1,
-    "Science": 6,
+    "Science": 5,
     "Hardware & Gadgets": 4,
     "Skincare": 2,
     "Robotics": 1
@@ -105,6 +106,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/programming this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vm8r8r",
+      "title": "Rant Wednesday - August 12, 2026",
+      "link": "https://www.reddit.com/r/Fitness/comments/1vm8r8r/rant_wednesday_august_12_2026/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/Fitness · community knowledge",
+      "content_type": "post",
+      "author": "u/AutoModerator · r/Fitness",
+      "handle": "Fitness",
+      "org": "r/Fitness",
+      "platform": "reddit",
+      "published": "2026-08-12T09:00:28.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/Fitness"
+      ],
+      "summary": "Welcome to Rant Wednesday: It’s your time to let your gym/fitness/nutrition related frustrations out! There is no guiding question to help stir up some rage-feels, feel free to fire at will, ranting about anything and everything that’s been pissing you off or getting on your nerves. Just don&#39;t forget that other…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/Fitness this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1406,46 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/gadgets this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vjrb1k",
-      "title": "Scientists Reversed Ovarian Aging in Mice by Blocking One Inflammatory Signal. The Same Signal Stiffens Organs Across the Body.",
-      "link": "https://www.reddit.com/r/longevity/comments/1vjrb1k/scientists_reversed_ovarian_aging_in_mice_by/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/longevity · community knowledge",
-      "content_type": "post",
-      "author": "u/dan_in_ca · r/longevity",
-      "handle": "longevity",
-      "org": "r/longevity",
-      "platform": "reddit",
-      "published": "2026-08-09T14:28:55.000Z",
-      "image": "https://external-preview.redd.it/TloCPQVrsh21jAMU_B2XEbVdV2l2DXYJkdl9C9HbLK8.png?width=640&crop=smart&auto=webp&s=b0e49e214a8904e38fdea0e46541a5cf76739499",
-      "thumbnail": "https://external-preview.redd.it/TloCPQVrsh21jAMU_B2XEbVdV2l2DXYJkdl9C9HbLK8.png?width=640&crop=smart&auto=webp&s=b0e49e214a8904e38fdea0e46541a5cf76739499",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Longevity",
-      "categories": [
-        "Reddit",
-        "Science",
-        "Longevity",
-        "r/longevity"
-      ],
-      "summary": "Scientists Reversed Ovarian Aging in Mice by Blocking One Inflammatory Signal. The Same Signal Stiffens Organs Across the Body.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/longevity this week"
       ],
       "metrics": {
         "likes": 0,
