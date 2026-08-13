@@ -1,38 +1,75 @@
 {
-  "generated_at": "2026-08-13T18:34:25.018Z",
+  "generated_at": "2026-08-13T19:42:12.420Z",
   "subs": [
     "MachineLearning",
-    "longevity",
+    "LocalLLaMA",
+    "bodyweightfitness",
+    "startups",
     "hardware",
     "programming",
     "cybersecurity",
-    "LocalLLaMA",
     "singularity",
     "Futurology",
     "Fitness",
     "running",
     "gadgets",
-    "bodyweightfitness",
     "nutrition",
     "netsec",
-    "startups",
     "investing",
     "SkincareAddiction",
-    "artificial",
-    "science"
+    "artificial"
   ],
   "count": 36,
   "by_category": {
+    "Fitness": 8,
     "AI / ML": 9,
     "Hardware & Gadgets": 3,
     "Coding & Dev Tools": 3,
+    "Startups & Funding": 6,
     "Security": 3,
-    "Science": 5,
-    "Fitness": 7,
-    "Startups & Funding": 4,
+    "Science": 2,
     "Skincare": 2
   },
   "articles": [
+    {
+      "id": "reddit_1vnd4ad",
+      "title": "Tom Holland's Cindy Workout — How Many Rounds Can You Do?",
+      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1vnd4ad/tom_hollands_cindy_workout_how_many_rounds_can/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/bodyweightfitness · community knowledge",
+      "content_type": "post",
+      "author": "u/OptimalExperience176 · r/bodyweightfitness",
+      "handle": "bodyweightfitness",
+      "org": "r/bodyweightfitness",
+      "platform": "reddit",
+      "published": "2026-08-13T14:59:02.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/bodyweightfitness"
+      ],
+      "summary": "Has anyone here tried the viral Tom Holland “Cindy” workout? For anyone who hasn&#39;t heard of it, Cindy is a 20-minute AMRAP: 5 pull-ups 10 push-ups 15 air squats You repeat the circuit for 20 minutes and try to complete as many rounds as possible. I tried it for the first time recently and managed to complete 9…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/bodyweightfitness this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1vn8oya",
       "title": "City2Graph: A Python library for Heterogeneous Graph Neural Networks and spatial analysis in urban systems [R]",
@@ -144,6 +181,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/programming this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vmloqz",
+      "title": "How did you get over the fear of judgement of putting yourself and your startup out in the public view? I will not promote",
+      "link": "https://www.reddit.com/r/startups/comments/1vmloqz/how_did_you_get_over_the_fear_of_judgement_of/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/startups · community knowledge",
+      "content_type": "post",
+      "author": "u/m_yoda20 · r/startups",
+      "handle": "startups",
+      "org": "r/startups",
+      "platform": "reddit",
+      "published": "2026-08-12T18:02:31.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/startups"
+      ],
+      "summary": "A lot of builders go through the journey of building and then struggling to sell because it&#39;s a completely different type of challenge. I&#39;m looking to understand how folks got over this barrier to sell successfully and what your best advice is on this topic &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/startups this week"
       ],
       "metrics": {
         "likes": 0,
@@ -656,6 +733,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/nutrition this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vluf53",
+      "title": "I keep distracting myself from my own startup. How do I stop? [I will not promote]",
+      "link": "https://www.reddit.com/r/startups/comments/1vluf53/i_keep_distracting_myself_from_my_own_startup_how/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/startups · community knowledge",
+      "content_type": "post",
+      "author": "u/Fragrant-View-4257 · r/startups",
+      "handle": "startups",
+      "org": "r/startups",
+      "platform": "reddit",
+      "published": "2026-08-11T21:20:34.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/startups"
+      ],
+      "summary": "I’m almost finished with my startup, and deep down I genuinely believe the idea can work. But whenever I get close to finishing, I start distracting myself with new ideas and projects. The weird part is that I already know most of these new ideas probably won’t work as well, but I still jump into them anyway. This has…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/startups this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1327,124 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/artificial this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vkq73c",
-      "title": "Lifelong restriction of dietary valine has sex-specific benefits for health and lifespan in mice (Nature Aging, 2026): healthspan improved in both sexes, median lifespan +23% in males only",
-      "link": "https://www.reddit.com/r/longevity/comments/1vkq73c/lifelong_restriction_of_dietary_valine_has/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/longevity · community knowledge",
-      "content_type": "post",
-      "author": "u/HumanOmega · r/longevity",
-      "handle": "longevity",
-      "org": "r/longevity",
-      "platform": "reddit",
-      "published": "2026-08-10T16:46:16.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Science",
-      "category": "Science",
-      "genre": "Longevity",
-      "categories": [
-        "Reddit",
-        "Science",
-        "Longevity",
-        "r/longevity"
-      ],
-      "summary": "Lifelong restriction of dietary valine has sex-specific benefits for health and lifespan in mice (Nature Aging, 2026): healthspan improved in both sexes, median lifespan +23% in males only",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/longevity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vkq4xd",
-      "title": "Power companies are using eminent domain to seize land for data centers as 70% of Americans say not in my backyard",
-      "link": "https://www.reddit.com/r/Futurology/comments/1vkq4xd/power_companies_are_using_eminent_domain_to_seize/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/Futurology · community knowledge",
-      "content_type": "post",
-      "author": "u/Confident_Salt_8108 · r/Futurology",
-      "handle": "Futurology",
-      "org": "r/Futurology",
-      "platform": "reddit",
-      "published": "2026-08-10T16:44:06.000Z",
-      "image": "https://external-preview.redd.it/FdbRTYTebBSL9_pINsNFlK-1nRMY7C2x7zSS63RTAwQ.jpeg?width=640&crop=smart&auto=webp&s=701f7c49fb1fe9b4c5203caad25f48e7fec4da52",
-      "thumbnail": "https://external-preview.redd.it/FdbRTYTebBSL9_pINsNFlK-1nRMY7C2x7zSS63RTAwQ.jpeg?width=640&crop=smart&auto=webp&s=701f7c49fb1fe9b4c5203caad25f48e7fec4da52",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/Futurology"
-      ],
-      "summary": "Power companies are using eminent domain to seize land for data centers as 70% of Americans say not in my backyard",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/Futurology this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vkowcz",
-      "title": "A USAID project gave cash to 300 farms in Liberia and Malawi, then tracked how the money impacted those households over the next 2 years. All the families spent the money immediately, largely by investing it into their farms in ways that improved food security even 2 years later.",
-      "link": "https://www.reddit.com/r/science/comments/1vkowcz/a_usaid_project_gave_cash_to_300_farms_in_liberia/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/science · community knowledge",
-      "content_type": "post",
-      "author": "u/amesydragon · r/science",
-      "handle": "science",
-      "org": "r/science",
-      "platform": "reddit",
-      "published": "2026-08-10T16:00:12.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/science"
-      ],
-      "summary": "A USAID project gave cash to 300 farms in Liberia and Malawi, then tracked how the money impacted those households over the next 2 years. All the families spent the money immediately, largely by investing it into their farms in ways that improved food security even 2 years later.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/science this week"
       ],
       "metrics": {
         "likes": 0,
