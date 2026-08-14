@@ -1,17 +1,18 @@
 {
-  "generated_at": "2026-08-14T17:00:45.864Z",
+  "generated_at": "2026-08-14T18:00:19.183Z",
   "subs": [
     "MachineLearning",
+    "Fitness",
+    "robotics",
     "programming",
-    "cybersecurity",
     "SkincareAddiction",
     "bodyweightfitness",
+    "cybersecurity",
     "hardware",
     "startups",
     "LocalLLaMA",
     "singularity",
     "Futurology",
-    "Fitness",
     "running",
     "gadgets",
     "nutrition",
@@ -25,8 +26,9 @@
     "Coding & Dev Tools": 4,
     "Skincare": 2,
     "Fitness": 8,
-    "AI / ML": 7,
+    "AI / ML": 6,
     "Security": 4,
+    "Robotics": 1,
     "Hardware & Gadgets": 3,
     "Startups & Funding": 5,
     "Science": 3
@@ -221,6 +223,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/cybersecurity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vn17c3",
+      "title": "Hexapod Spider Robot (Half-finished)",
+      "link": "https://www.reddit.com/r/robotics/comments/1vn17c3/hexapod_spider_robot_halffinished/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/robotics · community knowledge",
+      "content_type": "post",
+      "author": "u/Severe_Package6618 · r/robotics",
+      "handle": "robotics",
+      "org": "r/robotics",
+      "platform": "reddit",
+      "published": "2026-08-13T05:00:00.000Z",
+      "image": "https://preview.redd.it/v06rgvsoq2jh1.jpg?width=140&height=93&auto=webp&s=0d6c990bd062b146fd3a852ea583323f4e2b4a29",
+      "thumbnail": "https://preview.redd.it/v06rgvsoq2jh1.jpg?width=140&height=93&auto=webp&s=0d6c990bd062b146fd3a852ea583323f4e2b4a29",
+      "section": "Robotics",
+      "category": "Robotics",
+      "genre": "Robotics",
+      "categories": [
+        "Reddit",
+        "Robotics",
+        "r/robotics"
+      ],
+      "summary": "(Note: Every component is made from scratch in Fusion). I originally planned to add a lightweight robot arm at the top center of the robot, after the calculations... (Inspiration comes from MakeYourPets) &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/robotics this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1403,46 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/artificial this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vl8bpt",
-      "title": "Qwen 3.8-27b coming this week",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1vl8bpt/qwen_3827b_coming_this_week/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/LocalLLaMA · community knowledge",
-      "content_type": "post",
-      "author": "u/Bestlife73 · r/LocalLLaMA",
-      "handle": "LocalLLaMA",
-      "org": "r/LocalLLaMA",
-      "platform": "reddit",
-      "published": "2026-08-11T05:20:06.000Z",
-      "image": "https://preview.redd.it/06v8tcdekoih1.jpeg?width=640&crop=smart&auto=webp&s=aa6f6cf62b21128e780b7bdf97823a314443b1ca",
-      "thumbnail": "https://preview.redd.it/06v8tcdekoih1.jpeg?width=640&crop=smart&auto=webp&s=aa6f6cf62b21128e780b7bdf97823a314443b1ca",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/LocalLLaMA"
-      ],
-      "summary": "Confirmed by the official Qwen account. &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/LocalLLaMA this week"
       ],
       "metrics": {
         "likes": 0,
