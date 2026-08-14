@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-14T04:26:41.173Z",
+  "generated_at": "2026-08-14T06:01:18.197Z",
   "subs": [
     "MachineLearning",
-    "science",
-    "netsec",
+    "Fitness",
+    "robotics",
     "bodyweightfitness",
     "hardware",
     "programming",
@@ -12,24 +12,26 @@
     "LocalLLaMA",
     "singularity",
     "Futurology",
-    "Fitness",
     "running",
     "gadgets",
     "nutrition",
+    "netsec",
     "investing",
+    "science",
     "SkincareAddiction",
     "artificial"
   ],
   "count": 36,
   "by_category": {
-    "Fitness": 8,
+    "Fitness": 7,
     "AI / ML": 8,
     "Hardware & Gadgets": 3,
     "Coding & Dev Tools": 3,
     "Startups & Funding": 6,
     "Security": 3,
     "Science": 3,
-    "Skincare": 2
+    "Skincare": 2,
+    "Robotics": 1
   },
   "articles": [
     {
@@ -1333,6 +1335,45 @@
       }
     },
     {
+      "id": "reddit_1vkx8ya",
+      "title": "Full demo of my latest build.",
+      "link": "https://www.reddit.com/r/robotics/comments/1vkx8ya/full_demo_of_my_latest_build/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/robotics · community knowledge",
+      "content_type": "post",
+      "author": "u/RedRightHandARTS · r/robotics",
+      "handle": "robotics",
+      "org": "r/robotics",
+      "platform": "reddit",
+      "published": "2026-08-10T21:01:32.000Z",
+      "image": "https://external-preview.redd.it/Zmk4ejBwdWozbWloMUj5IaSFFEAvmKwQrbFktQhfus0zZy8SAmY5S-12CjU1.png?width=320&crop=smart&auto=webp&s=9500d2fa577f788eb52142ecd9433e259a42fead",
+      "thumbnail": "https://external-preview.redd.it/Zmk4ejBwdWozbWloMUj5IaSFFEAvmKwQrbFktQhfus0zZy8SAmY5S-12CjU1.png?width=320&crop=smart&auto=webp&s=9500d2fa577f788eb52142ecd9433e259a42fead",
+      "section": "Robotics",
+      "category": "Robotics",
+      "genre": "Robotics",
+      "categories": [
+        "Reddit",
+        "Robotics",
+        "r/robotics"
+      ],
+      "summary": "Not for hire. I just like making stuff This build is being donated to a local makeshop that I am a part of for their presentation at a local robotics convention. &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/robotics this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1vkwwc5",
       "title": "How to dissolve Delaware corp without paying a ton of fees? My company never did any actual business...I will not promote",
       "link": "https://www.reddit.com/r/startups/comments/1vkwwc5/how_to_dissolve_delaware_corp_without_paying_a/",
@@ -1405,45 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vkrb3d",
-      "title": "How to get over being scared of running in the dark?",
-      "link": "https://www.reddit.com/r/running/comments/1vkrb3d/how_to_get_over_being_scared_of_running_in_the/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/running · community knowledge",
-      "content_type": "post",
-      "author": "u/WarmWoollyWanderer · r/running",
-      "handle": "running",
-      "org": "r/running",
-      "platform": "reddit",
-      "published": "2026-08-10T17:25:28.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/running"
-      ],
-      "summary": "Hey everyone! So beginner runner here! I started running to help with mental health and to become more healthy about 4 months ago and I love it. Before that I was a total couch potato and inactive. I feel like my brain is much sharper and I am more energetic overall now that I run. However I have this issue, which is…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/running this week"
       ],
       "metrics": {
         "likes": 0,

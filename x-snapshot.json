@@ -1,8 +1,9 @@
 {
-  "generated_at": "2026-08-14T04:24:29.715Z",
+  "generated_at": "2026-08-14T05:59:03.198Z",
   "handles": [
     "nvidia",
     "GoogleDeepMind",
+    "elonmusk",
     "OpenAI",
     "NVIDIAAI",
     "AnthropicAI",
@@ -11,6 +12,128 @@
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2088100521261359218",
+      "title": "Grok 4.6 will work best with the Grok Build harness. The experience will be significantly worse without it, so best to evaluate using Build. https://Grok.com/build",
+      "link": "https://x.com/elonmusk/status/2088100521261359218",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Elon Musk · @elonmusk",
+      "handle": "elonmusk",
+      "org": "xAI/Tesla",
+      "published": "2026-08-14T03:08:53.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "xAI/Tesla",
+        "Product"
+      ],
+      "summary": "Grok 4.6 will work best with the Grok Build harness. The experience will be significantly worse without it, so best to evaluate using Build. https://Grok.com/build",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 77,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (grok)",
+        "links to a source",
+        "high engagement (5.4K likes)"
+      ],
+      "metrics": {
+        "likes": 5428,
+        "retweets": 546,
+        "replies": 924,
+        "likes_h": "5.4K"
+      },
+      "engagement": 7444,
+      "hot": false
+    },
+    {
+      "id": "x_2088088665058873720",
+      "title": "Great to welcome @LGE_Global Group Chairman Kwang-mo Koo and LG leaders to NVIDIA as we enter the next chapter of our collaboration. Together, we’re expanding our work across AI infrastructure,…",
+      "link": "https://x.com/nvidia/status/2088088665058873720",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-08-14T02:21:47.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Product"
+      ],
+      "summary": "Great to welcome @LGE_Global Group Chairman Kwang-mo Koo and LG leaders to NVIDIA as we enter the next chapter of our collaboration. Together, we’re expanding our work across AI infrastructure, physical AI and robotics. We’re excited about what our teams can build together.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 75,
+      "sentiment": "positive",
+      "sentiment_score": 1,
+      "reasons": [
+        "report-worthy",
+        "tech substance (robotics)"
+      ],
+      "metrics": {
+        "likes": 344,
+        "retweets": 39,
+        "replies": 30,
+        "likes_h": "344"
+      },
+      "engagement": 452,
+      "hot": false
+    },
+    {
+      "id": "x_2088057386384916833",
+      "title": "Original then, original now at NVIDIA HQ. The @Jaguar Type 01, powered by NVIDIA DRIVE, joined a classic 1966 Jaguar E-Type at HQ, where the team caught up with @JensenHuang ahead of #MontereyCarWeek.",
+      "link": "https://x.com/nvidia/status/2088057386384916833",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-08-14T00:17:29.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Commentary",
+        "MontereyCarWeek"
+      ],
+      "summary": "Original then, original now at NVIDIA HQ. The @Jaguar Type 01, powered by NVIDIA DRIVE, joined a classic 1966 Jaguar E-Type at HQ, where the team caught up with @JensenHuang ahead of #MontereyCarWeek.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 58,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy"
+      ],
+      "metrics": {
+        "likes": 413,
+        "retweets": 34,
+        "replies": 24,
+        "likes_h": "413"
+      },
+      "engagement": 505,
+      "hot": false
+    },
     {
       "id": "x_2087991151806521392",
       "title": "AI is becoming a new computing model for media and entertainment. At the 2026 Runway AI Summit, NVIDIA’s Richard Kerris explored how real-time generative AI can make creative production a live,…",
@@ -35,7 +158,7 @@
       "summary": "AI is becoming a new computing model for media and entertainment. At the 2026 Runway AI Summit, NVIDIA’s Richard Kerris explored how real-time generative AI can make creative production a live, artist-controlled process. Powered by NVIDIA Vera Rubin, Runway brought Gen-4.5 to",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 75,
+      "worthiness_score": 76,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
@@ -43,12 +166,12 @@
         "tech substance (model)"
       ],
       "metrics": {
-        "likes": 352,
-        "retweets": 41,
-        "replies": 24,
-        "likes_h": "352"
+        "likes": 530,
+        "retweets": 55,
+        "replies": 31,
+        "likes_h": "530"
       },
-      "engagement": 458,
+      "engagement": 671,
       "hot": false
     },
     {
@@ -81,15 +204,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (gemini)",
-        "high engagement (3.2K likes)"
+        "high engagement (4K likes)"
       ],
       "metrics": {
-        "likes": 3171,
-        "retweets": 385,
-        "replies": 210,
-        "likes_h": "3.2K"
+        "likes": 3960,
+        "retweets": 490,
+        "replies": 246,
+        "likes_h": "4K"
       },
-      "engagement": 4151,
+      "engagement": 5186,
       "hot": false
     },
     {
@@ -124,12 +247,12 @@
         "tech substance (tokens)"
       ],
       "metrics": {
-        "likes": 235,
-        "retweets": 32,
-        "replies": 38,
-        "likes_h": "235"
+        "likes": 269,
+        "retweets": 36,
+        "replies": 40,
+        "likes_h": "269"
       },
-      "engagement": 337,
+      "engagement": 381,
       "hot": false
     },
     {
@@ -167,12 +290,12 @@
         "high engagement (8.6K likes)"
       ],
       "metrics": {
-        "likes": 8551,
-        "retweets": 789,
-        "replies": 197,
+        "likes": 8619,
+        "retweets": 798,
+        "replies": 196,
         "likes_h": "8.6K"
       },
-      "engagement": 10326,
+      "engagement": 10411,
       "hot": true
     },
     {
@@ -206,12 +329,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 650,
-        "retweets": 84,
+        "likes": 664,
+        "retweets": 87,
         "replies": 43,
-        "likes_h": "650"
+        "likes_h": "664"
       },
-      "engagement": 861,
+      "engagement": 881,
       "hot": false
     },
     {
@@ -244,15 +367,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (model, features)",
-        "high engagement (1.7K likes)"
+        "high engagement (1.8K likes)"
       ],
       "metrics": {
-        "likes": 1734,
-        "retweets": 243,
-        "replies": 100,
-        "likes_h": "1.7K"
+        "likes": 1777,
+        "retweets": 255,
+        "replies": 104,
+        "likes_h": "1.8K"
       },
-      "engagement": 2320,
+      "engagement": 2391,
       "hot": false
     },
     {
@@ -830,15 +953,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (gemini, robotics)",
-        "high engagement (903 likes)"
+        "high engagement (905 likes)"
       ],
       "metrics": {
-        "likes": 903,
+        "likes": 905,
         "retweets": 120,
         "replies": 120,
-        "likes_h": "903"
+        "likes_h": "905"
       },
-      "engagement": 1263,
+      "engagement": 1265,
       "hot": false
     },
     {
@@ -1042,12 +1165,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 1556,
-        "retweets": 198,
+        "likes": 1558,
+        "retweets": 200,
         "replies": 104,
         "likes_h": "1.6K"
       },
-      "engagement": 2056,
+      "engagement": 2062,
       "hot": false
     },
     {
@@ -1216,127 +1339,6 @@
       },
       "engagement": 1376,
       "hot": false
-    },
-    {
-      "id": "x_2084748111239344556",
-      "title": "The UK’s @AISecurityInst (AISI) has published a report on their recent cybersecurity evaluation of Anthropic’s Claude Mythos 5 and OpenAI’s GPT-5.6 Sol. The models attempted to complete an assignment…",
-      "link": "https://x.com/AnthropicAI/status/2084748111239344556",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "Anthropic · @AnthropicAI",
-      "handle": "AnthropicAI",
-      "org": "Anthropic",
-      "published": "2026-08-04T21:07:37.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "Anthropic",
-        "Product"
-      ],
-      "summary": "The UK’s @AISecurityInst (AISI) has published a report on their recent cybersecurity evaluation of Anthropic’s Claude Mythos 5 and OpenAI’s GPT-5.6 Sol. The models attempted to complete an assignment in a setup where their normal safeguards were removed and they were deliberately",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 84,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "tech substance (models, gpt, claude)",
-        "high engagement (2.5K likes)"
-      ],
-      "metrics": {
-        "likes": 2533,
-        "retweets": 456,
-        "replies": 479,
-        "likes_h": "2.5K"
-      },
-      "engagement": 3924,
-      "hot": false
-    },
-    {
-      "id": "x_2084747580693426555",
-      "title": "We're detailing two new incidents that occurred during external cyber evaluations conducted by independent evaluation partners. We outline what happened, how the activity was contained, and how we’re…",
-      "link": "https://x.com/OpenAI/status/2084747580693426555",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-08-04T21:05:30.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Commentary"
-      ],
-      "summary": "We're detailing two new incidents that occurred during external cyber evaluations conducted by independent evaluation partners. We outline what happened, how the activity was contained, and how we’re working with evaluators to strengthen our approach to third-party testing.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 56,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "high engagement (4K likes)"
-      ],
-      "metrics": {
-        "likes": 4020,
-        "retweets": 387,
-        "replies": 507,
-        "likes_h": "4K"
-      },
-      "engagement": 5301,
-      "hot": false
-    },
-    {
-      "id": "x_2084733460690903204",
-      "title": "AI compute is going to orbit. 🚀 @SpaceX’s Starmind AI1 satellite compute payload is powered by NVIDIA Vera Rubin NVL72, bringing AI factory compute closer to the stars. The next chapter of AI…",
-      "link": "https://x.com/nvidia/status/2084733460690903204",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-08-04T20:09:24.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Commentary"
-      ],
-      "summary": "AI compute is going to orbit. 🚀 @SpaceX’s Starmind AI1 satellite compute payload is powered by NVIDIA Vera Rubin NVL72, bringing AI factory compute closer to the stars. The next chapter of AI infrastructure boldly goes where no AI compute has gone before.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 60,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "high engagement (13.8K likes)"
-      ],
-      "metrics": {
-        "likes": 13787,
-        "retweets": 2030,
-        "replies": 607,
-        "likes_h": "13.8K"
-      },
-      "engagement": 18454,
-      "hot": true
     }
   ]
 }
