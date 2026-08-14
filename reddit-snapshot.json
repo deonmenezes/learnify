@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-14T15:59:12.758Z",
+  "generated_at": "2026-08-14T17:00:45.864Z",
   "subs": [
     "MachineLearning",
-    "LocalLLaMA",
-    "bodyweightfitness",
-    "startups",
-    "SkincareAddiction",
-    "cybersecurity",
-    "hardware",
     "programming",
+    "cybersecurity",
+    "SkincareAddiction",
+    "bodyweightfitness",
+    "hardware",
+    "startups",
+    "LocalLLaMA",
     "singularity",
     "Futurology",
     "Fitness",
@@ -22,16 +22,55 @@
   ],
   "count": 36,
   "by_category": {
-    "Skincare": 3,
+    "Coding & Dev Tools": 4,
+    "Skincare": 2,
     "Fitness": 8,
     "AI / ML": 7,
     "Security": 4,
     "Hardware & Gadgets": 3,
-    "Coding & Dev Tools": 3,
     "Startups & Funding": 5,
     "Science": 3
   },
   "articles": [
+    {
+      "id": "reddit_1vo0r9s",
+      "title": "Based on various scientific studies, it takes at least 10-15 minutes for programmer to get back into the \"zone\" after an interruption. There are interesting resumption strategies for interrupted programming tasks.",
+      "link": "https://www.reddit.com/r/programming/comments/1vo0r9s/based_on_various_scientific_studies_it_takes_at/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/programming · community knowledge",
+      "content_type": "post",
+      "author": "u/piotrkarczmarz · r/programming",
+      "handle": "programming",
+      "org": "r/programming",
+      "platform": "reddit",
+      "published": "2026-08-14T07:45:37.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Coding & Dev Tools",
+      "category": "Coding & Dev Tools",
+      "genre": "Coding & Dev Tools",
+      "categories": [
+        "Reddit",
+        "Coding & Dev Tools",
+        "r/programming"
+      ],
+      "summary": "Based on various scientific studies, it takes at least 10-15 minutes for programmer to get back into the \"zone\" after an interruption. There are interesting resumption strategies for interrupted programming tasks.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/programming this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1vnlvsa",
       "title": "[Misc] How do I get rid of this deep hole in my forehead skin?",
@@ -1404,45 +1443,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/LocalLLaMA this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vl5yya",
-      "title": "[Haul] Do not sleep on couponing to feed our expensive addiction 😳",
-      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1vl5yya/haul_do_not_sleep_on_couponing_to_feed_our/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/SkincareAddiction · community knowledge",
-      "content_type": "post",
-      "author": "u/thorusaurus · r/SkincareAddiction",
-      "handle": "SkincareAddiction",
-      "org": "r/SkincareAddiction",
-      "platform": "reddit",
-      "published": "2026-08-11T03:18:19.000Z",
-      "image": "https://preview.redd.it/4u86f3vrynih1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=6c2d2e67ee1f4f9897bc5a787b65235268340ccd",
-      "thumbnail": "https://preview.redd.it/4u86f3vrynih1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=6c2d2e67ee1f4f9897bc5a787b65235268340ccd",
-      "section": "Skincare",
-      "category": "Skincare",
-      "genre": "Skincare",
-      "categories": [
-        "Reddit",
-        "Skincare",
-        "r/SkincareAddiction"
-      ],
-      "summary": "$22 for $138 worth of product at CVS! This is one of my many hauls where I score hundreds in products for little $$ $. CVS doesn&#39;t also only sell drug store, they sell eltaMD, PTR, and more! I just wish I could coupon my Tretinoin and Azelaic Acid scripts.............. &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/SkincareAddiction this week"
       ],
       "metrics": {
         "likes": 0,
