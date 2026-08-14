@@ -1,21 +1,20 @@
 {
-  "generated_at": "2026-08-14T11:50:16.393Z",
+  "generated_at": "2026-08-14T13:16:57.847Z",
   "subs": [
     "MachineLearning",
-    "bodyweightfitness",
-    "robotics",
+    "singularity",
+    "nutrition",
     "SkincareAddiction",
+    "bodyweightfitness",
     "cybersecurity",
     "hardware",
     "programming",
     "startups",
     "LocalLLaMA",
-    "singularity",
     "Futurology",
     "Fitness",
     "running",
     "gadgets",
-    "nutrition",
     "netsec",
     "investing",
     "science",
@@ -24,14 +23,13 @@
   "count": 36,
   "by_category": {
     "Skincare": 3,
-    "Fitness": 7,
+    "Fitness": 8,
     "AI / ML": 7,
     "Security": 4,
     "Hardware & Gadgets": 3,
     "Coding & Dev Tools": 3,
     "Startups & Funding": 5,
-    "Science": 3,
-    "Robotics": 1
+    "Science": 3
   },
   "articles": [
     {
@@ -1294,6 +1292,46 @@
       }
     },
     {
+      "id": "reddit_1vlclj1",
+      "title": "Dealing with salmonella in noodles",
+      "link": "https://www.reddit.com/r/nutrition/comments/1vlclj1/dealing_with_salmonella_in_noodles/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/nutrition · community knowledge",
+      "content_type": "post",
+      "author": "u/IJbier · r/nutrition",
+      "handle": "nutrition",
+      "org": "r/nutrition",
+      "platform": "reddit",
+      "published": "2026-08-11T09:26:32.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Nutrition",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "Nutrition",
+        "r/nutrition"
+      ],
+      "summary": "Can someone educate me? The EFSA reported an outbreak of Salmonella Stanley infections linked to flavoured noodle products. I always boil my noodles before eating them. If so, why is salmonella still a risk? &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/nutrition this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1vlag0q",
       "title": "Claude now embeds an invisible watermark into every piece of text it generates.",
       "link": "https://www.reddit.com/r/artificial/comments/1vlag0q/claude_now_embeds_an_invisible_watermark_into/",
@@ -1405,45 +1443,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/SkincareAddiction this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vkx8ya",
-      "title": "Full demo of my latest build.",
-      "link": "https://www.reddit.com/r/robotics/comments/1vkx8ya/full_demo_of_my_latest_build/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/robotics · community knowledge",
-      "content_type": "post",
-      "author": "u/RedRightHandARTS · r/robotics",
-      "handle": "robotics",
-      "org": "r/robotics",
-      "platform": "reddit",
-      "published": "2026-08-10T21:01:32.000Z",
-      "image": "https://external-preview.redd.it/Zmk4ejBwdWozbWloMUj5IaSFFEAvmKwQrbFktQhfus0zZy8SAmY5S-12CjU1.png?width=320&crop=smart&auto=webp&s=9500d2fa577f788eb52142ecd9433e259a42fead",
-      "thumbnail": "https://external-preview.redd.it/Zmk4ejBwdWozbWloMUj5IaSFFEAvmKwQrbFktQhfus0zZy8SAmY5S-12CjU1.png?width=320&crop=smart&auto=webp&s=9500d2fa577f788eb52142ecd9433e259a42fead",
-      "section": "Robotics",
-      "category": "Robotics",
-      "genre": "Robotics",
-      "categories": [
-        "Reddit",
-        "Robotics",
-        "r/robotics"
-      ],
-      "summary": "Not for hire. I just like making stuff This build is being donated to a local makeshop that I am a part of for their presentation at a local robotics convention. &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/robotics this week"
       ],
       "metrics": {
         "likes": 0,
