@@ -1,17 +1,16 @@
 {
-  "generated_at": "2026-08-14T06:01:18.197Z",
+  "generated_at": "2026-08-14T07:46:47.767Z",
   "subs": [
     "MachineLearning",
-    "Fitness",
-    "robotics",
+    "programming",
+    "cybersecurity",
     "bodyweightfitness",
     "hardware",
-    "programming",
     "startups",
-    "cybersecurity",
     "LocalLLaMA",
     "singularity",
     "Futurology",
+    "Fitness",
     "running",
     "gadgets",
     "nutrition",
@@ -19,16 +18,17 @@
     "investing",
     "science",
     "SkincareAddiction",
-    "artificial"
+    "artificial",
+    "robotics"
   ],
   "count": 36,
   "by_category": {
     "Fitness": 7,
-    "AI / ML": 8,
+    "AI / ML": 7,
+    "Security": 4,
     "Hardware & Gadgets": 3,
     "Coding & Dev Tools": 3,
     "Startups & Funding": 6,
-    "Security": 3,
     "Science": 3,
     "Skincare": 2,
     "Robotics": 1
@@ -106,6 +106,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vn7b12",
+      "title": "Breaking: US Officially Authorizes Private Cyber Operations (The rise of Cyber Privateers?)",
+      "link": "https://www.reddit.com/r/cybersecurity/comments/1vn7b12/breaking_us_officially_authorizes_private_cyber/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/cybersecurity · community knowledge",
+      "content_type": "post",
+      "author": "u/Smart_Office_631 · r/cybersecurity",
+      "handle": "cybersecurity",
+      "org": "r/cybersecurity",
+      "platform": "reddit",
+      "published": "2026-08-13T10:49:21.000Z",
+      "image": "https://external-preview.redd.it/n7s3F9JKtg1EmxYpwUxK-W3eBkWpTs1442jQAhX3tvg.jpeg?width=640&crop=smart&auto=webp&s=68fbfd4092fd572b5fcceab9b2fb8b8d0bc03154",
+      "thumbnail": "https://external-preview.redd.it/n7s3F9JKtg1EmxYpwUxK-W3eBkWpTs1442jQAhX3tvg.jpeg?width=640&crop=smart&auto=webp&s=68fbfd4092fd572b5fcceab9b2fb8b8d0bc03154",
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/cybersecurity"
+      ],
+      "summary": "Breaking: US Officially Authorizes Private Cyber Operations (The rise of Cyber Privateers?)",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/cybersecurity this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1406,46 +1445,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/startups this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vkrnb5",
-      "title": "Transformers are famously bad at arithmetic, so I set one's weights by hand (no training) and it multiplies with 100% accuracy [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vkrnb5/transformers_are_famously_bad_at_arithmetic_so_i/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/MachineLearning · community knowledge",
-      "content_type": "post",
-      "author": "u/notforrob · r/MachineLearning",
-      "handle": "MachineLearning",
-      "org": "r/MachineLearning",
-      "platform": "reddit",
-      "published": "2026-08-10T17:37:35.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/MachineLearning"
-      ],
-      "summary": "Obviously nobody needs a transformer that&#39;s good at multiplication. I wanted to know whether a stock transformer could do exact arithmetic if I chose its weights directly. I implemented the grade-school algorithm as a computation graph and compiled it into an ordinary Phi-3 Hugging Face checkpoint using…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/MachineLearning this week"
       ],
       "metrics": {
         "likes": 0,
