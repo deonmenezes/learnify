@@ -1,39 +1,78 @@
 {
-  "generated_at": "2026-08-14T09:14:35.636Z",
+  "generated_at": "2026-08-14T10:37:50.604Z",
   "subs": [
     "MachineLearning",
-    "Futurology",
-    "netsec",
+    "programming",
+    "SkincareAddiction",
     "bodyweightfitness",
     "cybersecurity",
     "hardware",
-    "programming",
     "startups",
     "LocalLLaMA",
     "singularity",
+    "Futurology",
     "Fitness",
     "running",
     "gadgets",
     "nutrition",
+    "netsec",
     "investing",
     "science",
-    "SkincareAddiction",
     "artificial",
     "robotics"
   ],
   "count": 36,
   "by_category": {
+    "Skincare": 3,
     "Fitness": 7,
     "AI / ML": 7,
     "Security": 4,
     "Hardware & Gadgets": 3,
     "Coding & Dev Tools": 3,
-    "Startups & Funding": 6,
+    "Startups & Funding": 5,
     "Science": 3,
-    "Skincare": 2,
     "Robotics": 1
   },
   "articles": [
+    {
+      "id": "reddit_1vnlvsa",
+      "title": "[Misc] How do I get rid of this deep hole in my forehead skin?",
+      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1vnlvsa/misc_how_do_i_get_rid_of_this_deep_hole_in_my/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/SkincareAddiction · community knowledge",
+      "content_type": "post",
+      "author": "u/HawkLegitimate2968 · r/SkincareAddiction",
+      "handle": "SkincareAddiction",
+      "org": "r/SkincareAddiction",
+      "platform": "reddit",
+      "published": "2026-08-13T20:10:53.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Skincare",
+      "category": "Skincare",
+      "genre": "Skincare",
+      "categories": [
+        "Reddit",
+        "Skincare",
+        "r/SkincareAddiction"
+      ],
+      "summary": "I had a blackhead that was in there for a long time and it left this perfect circle deep hole that is double the size of a pore. I have had this hole for 15 years. How do I get rid of it? Please help me. &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/SkincareAddiction this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1vnd4ad",
       "title": "Tom Holland's Cindy Workout — How Many Rounds Can You Do?",
@@ -1405,46 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/robotics this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vkwwc5",
-      "title": "How to dissolve Delaware corp without paying a ton of fees? My company never did any actual business...I will not promote",
-      "link": "https://www.reddit.com/r/startups/comments/1vkwwc5/how_to_dissolve_delaware_corp_without_paying_a/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/startups · community knowledge",
-      "content_type": "post",
-      "author": "u/sinuspane · r/startups",
-      "handle": "startups",
-      "org": "r/startups",
-      "platform": "reddit",
-      "published": "2026-08-10T20:48:10.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/startups"
-      ],
-      "summary": "I formed a C-Corp in Delaware in 2025 and registered it in California as an out of state entity. I&#39;ve been ignoring the forms I have been receiving from my registered agent (CSC) from the Delaware Division of Corporations. The quoted tax amount is over 100k, but that seems to be the default, which would really…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/startups this week"
       ],
       "metrics": {
         "likes": 0,
