@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-14T10:33:35.065Z",
+  "generated_at": "2026-08-14T11:46:05.519Z",
   "model": "nvidia/nemotron-3-super-120b-a12b",
-  "count": 4636,
+  "count": 4662,
   "items": {
     "1866983": {
       "title": "Expert discusses soil fertility and tropical forest productivity",
@@ -841,14 +841,6 @@
       "media_kind": "stock",
       "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/37187233992"
-    },
-    "1tdtfeh": {
-      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-      "t": 1785753896741,
-      "media_url": "https://live.staticflickr.com/3276/3929745199_cba948081c_b.jpg",
-      "media_kind": "stock",
-      "media_credit": "Photo: greyloch / BY-SA 2.0 via flickr",
-      "media_credit_url": "https://www.flickr.com/photos/7168480@N02/3929745199"
     },
     "3w863": {
       "title": "Why Silicon Valley is divided over China’s powerful, cheap AI models",
@@ -37571,6 +37563,224 @@
       "media_kind": "stock",
       "media_credit": "Photo: NWABR / BY 2.0 via flickr",
       "media_credit_url": "https://www.flickr.com/photos/64704683@N04/6015869389"
+    },
+    "hnub5v": {
+      "title": "For the love of god stop using CPU limits in Kubernetes",
+      "t": 1786707956148,
+      "image": "https://opengraph.githubassets.com/608f81275eab3fc13781474b8aef893710ef5d2ceb5aa7dd8f3371bdb707b151/inevolin/k8s-cpu-limits-analyzed",
+      "media_url": "https://live.staticflickr.com/1061/686562697_5d86ba6d67.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Wesley Clouden / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/40622964@N00/686562697"
+    },
+    "x0bkui": {
+      "title": "Einstein the musician, AI prophets and more: Books in brief",
+      "t": 1786707956148,
+      "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02504-6/d41586-026-02504-6_53021588.jpg",
+      "media_url": "https://live.staticflickr.com/7750/26904635123_1d765023c7_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Queensland State Archives / PDM 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/60455048@N02/26904635123"
+    },
+    "1e0b2ek": {
+      "title": "The 4 Best Planners of 2026: Roterunner, Hobonichi, Cloth & Paper",
+      "t": 1786707957665,
+      "media_url": "https://live.staticflickr.com/3544/3462859629_3a9254b57d_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: ianmunroe / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/86838704@N00/3462859629"
+    },
+    "19exeui": {
+      "title": "Older Raptor Lake CPUs are a ‘core part of the portfolio’ for years to come, says Intel — there’s been a ‘sudden inrush of demand’ for LGA 1700 chips due to DDR5 prices",
+      "t": 1786707957797,
+      "media_url": "https://live.staticflickr.com/4013/4290983579_d1f7455790_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Leonardo Rizzi / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/29479498@N05/4290983579"
+    },
+    "5k0mfs": {
+      "title": "Epic Games Store is going to support Linux 'soon' — and that's great news for Steam Deck owners",
+      "t": 1786707957853,
+      "media_url": "https://live.staticflickr.com/3269/3079591914_632e4d1e24_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Sergey Galyonkin / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/22974618@N00/3079591914"
+    },
+    "q0n9zy": {
+      "title": "Scholar's work in South America helps fight Chagas disease in the U.S.",
+      "t": 1786707958706,
+      "media_url": "https://live.staticflickr.com/2712/4096857101_b10d53a325.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/4096857101"
+    },
+    "1uuewvo": {
+      "title": "I chose ChatGPT’s ad-free option so you don’t have to — here’s what you actually give up",
+      "t": 1786707958730,
+      "media_url": "https://live.staticflickr.com/65535/52474716216_a2124534dd_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: WIPO | OMPI / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/56115295@N08/52474716216"
+    },
+    "zft4ul": {
+      "title": "Crocodiles can't fly. Birds can. Scientists have finally figured out why",
+      "t": 1786707958852,
+      "media_url": "https://live.staticflickr.com/65535/49896947283_81492c5caa_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: BioDivLibrary / PDM 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/61021753@N02/49896947283"
+    },
+    "15waetf": {
+      "title": "How to watch RT from anywhere – stream Russia Today from US, UK, Australia, Canada, EU",
+      "t": 1786707959382,
+      "media_url": "https://live.staticflickr.com/7723/17068059337_25147ab15a_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Sam Droege / PDM 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/54563451@N08/17068059337"
+    },
+    "1w3ek3f": {
+      "title": "I broke down a French designer's look to Gemini, then my tailor nailed it for under $50",
+      "t": 1786707959599,
+      "media_url": "https://live.staticflickr.com/65535/54410796874_43ff6842c2_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: PatrickRich / CC0 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/91689877@N03/54410796874"
+    },
+    "es7eky": {
+      "title": "Meta removed 756,000 Australian accounts. Its real ask is that Apple does the checking",
+      "t": 1786707959780,
+      "media_url": "https://live.staticflickr.com/3001/2422304508_da775f82ac_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: jurvetson / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/44124348109@N01/2422304508"
+    },
+    "1sstluo": {
+      "title": "FTC Strikes Deals to Ignore Unlawful Credit Discrimination",
+      "t": 1786707959937,
+      "media_url": "https://live.staticflickr.com/65535/49190356892_dc74e08d4a_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: fabola / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/44124339301@N01/49190356892"
+    },
+    "57mc9r": {
+      "title": "Intel VP Robert Hallock sets Nova Lake expectations, teases return to Raptor Lake for DDR4 platforms — our full 1:1 interview transcript",
+      "t": 1786707960551,
+      "media_url": "https://live.staticflickr.com/4096/4819945812_735744e0fc_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: somegeekintn / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/66335021@N00/4819945812"
+    },
+    "1k5obhc": {
+      "title": "Hoto’s new cordless soldering iron heats up in three seconds",
+      "t": 1786707960611,
+      "media_url": "https://live.staticflickr.com/21/26195960_4d89964cae_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: AndWat / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/61685594@N00/26195960"
+    },
+    "8t4259": {
+      "title": "The MSI Claw EX is the most important handheld since Steam Deck — I still wouldn’t buy one",
+      "t": 1786707960630,
+      "media_url": "https://live.staticflickr.com/4381/36611812576_7cfa2d3284_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: AntMan3001 / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/92461652@N07/36611812576"
+    },
+    "8vvhr1": {
+      "title": "DeepSeek's AI models are about to cost four times more",
+      "t": 1786707961082,
+      "media_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Scores_benchmarks_intelligences_artificielles_2024.png",
+      "media_kind": "stock",
+      "media_credit": "Photo: Y. Bengio, S. Mindermann, D. Privitera, T. Besiroglu, R. Bommasani, S. Casper, Y. Choi, P. Fox, B. Garfinkel, D. Goldfarb, H. Heidari, A. Ho, S. Kapoor, L. Khalatbari, S. Longpre, S. Manning, V. Mavroudis, M. Mazeika, J. Michael, J. Newman, K. Y. Ng, C. T. Okolo, D. Raji, G. Sastry, E. Seger, T. Skeadas, T. South, E. Strubell, F. Tramèr, L. Velasco, N. Wheeler, D. Acemoglu, O. Adekanmbi, D. Dalrymple, T. G. Dietterich, P. Fung, P.-O. Gourinchas, F. Heintz, G. Hinton, N. Jennings, A. Krause, S. Leavy, P. Liang, T. Ludermir, V. Marda, H. Margetts, J. McDermid, J. Munga, A. Narayanan, A. Nelson, C. Neppel, A. Oh, G. Ramchurn, S. Russell, M. Schaake, B. Schölkopf, D. Song, A. Soto, L. Tiedrich, G. Varoquaux, E. W. Felten, A. Yao, Y.-Q. Zhang, O. Ajala, F. Albalawi, M. Alserkal, G. Avrin, C. Busch, A. C. P. de L. F. de Carvalho, B. Fox, A. S. Gill, A. H. Hatip, J. Heikkilä, C. Johnson, G. Jolly, Z. Katzir, S. M. Khan, H. Kitano, A. Krüger, K. M. Lee, D. V. Ligot, J. R. López Portillo, D., O. Molchanovskyi, A. Monti, N. Mwamanzi, M. Nemer, N. Oliver, R. Pezoa Rivera, B. Ravindran, H. Riza, C. Rugege, C. Seoighe, H. Sheikh, J. Sheehan, D. Wong, Y. Zeng, in “International AI Safety Report” (DSIT 2025/001, 2025); https://www.gov.uk/government/publications/international-ai-safety-report-2025 / BY 4.0 via wikimedia",
+      "media_credit_url": "https://commons.wikimedia.org/w/index.php?curid=168309527"
+    },
+    "tz9uby": {
+      "title": "$29 per Terabyte makes this 24TB Seagate BarraCuda one of the best-value hard drives in today's market — $50 off at Newegg makes it $200 cheaper than the 20TB version",
+      "t": 1786707961800,
+      "media_url": "https://live.staticflickr.com/5316/7072709381_6355560b8b_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Yutaka Tsutano / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/23208360@N07/7072709381"
+    },
+    "1fti6yx": {
+      "title": "Anycubic Kobra 4 Combo 3D printer hits an all-time low price — and it's even cheaper than it is at Amazon",
+      "t": 1786707962211,
+      "media_url": "https://live.staticflickr.com/2633/3996986858_0612fae22a_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Remko van Dokkum / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/24034951@N00/3996986858"
+    },
+    "2jq9z7": {
+      "title": "These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI",
+      "t": 1786707962711,
+      "media_url": "https://live.staticflickr.com/2911/14424182334_82be6c3623_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Eva Rinaldi Celebrity Photographer / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/58820009@N05/14424182334"
+    },
+    "1udeyo5": {
+      "title": "Start your PC gaming journey with this $1,100 1080p gaming rig, now $300 off — RTX 5060 rig from Newegg ships with a 10-core Intel CPU, 32GB of RAM, and a 1TB SSD",
+      "t": 1786707962945,
+      "media_url": "https://live.staticflickr.com/2268/2231736654_337d91fee9_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: stoic / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/11578194@N00/2231736654"
+    },
+    "8ceuoh": {
+      "title": "Uber and Pony.ai plan to bring 2,000 robotaxis to Europe",
+      "t": 1786707963367,
+      "media_url": "https://live.staticflickr.com/5259/5483050842_a77b169314_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: sludgegulper / BY-SA 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/28179929@N08/5483050842"
+    },
+    "1g26btu": {
+      "title": "Kanto's new budget-friendly turntable has a few smart features to make it easy for novices to use, and it's lovely and compact too",
+      "t": 1786707964061,
+      "media_url": "https://live.staticflickr.com/44/193537822_486fefff92.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: b E k / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/83419600@N00/193537822"
+    },
+    "1en2arc": {
+      "title": "How to watch Palestine 36 online with a free trial — stream acclaimed historical drama in US, Australia, Canada, Middle East",
+      "t": 1786707964337,
+      "media_url": "https://live.staticflickr.com/5577/14865178227_82c60ab65d_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Sam Droege / PDM 1.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/54563451@N08/14865178227"
+    },
+    "ggxsy0": {
+      "title": "Rings forged from meteorites may have been fashionable among ancient Greek elites",
+      "t": 1786707964523,
+      "media_url": "https://live.staticflickr.com/1384/899292197_583d93885a.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: Shaan Hurley / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/7881775@N06/899292197"
+    },
+    "qoi7xi": {
+      "title": "Best Pixel 10 Cases and Accessories (2026): Mous, dbrand, Bellroy",
+      "t": 1786707964527,
+      "media_url": "https://live.staticflickr.com/4095/4882162452_fa3126b38d_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: BinaryApe / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/93001633@N00/4882162452"
+    },
+    "upbupo": {
+      "title": "I Wore an Electrical Muscle Stimulation Body Suit to Zap Myself Into Fitness",
+      "t": 1786707964825,
+      "media_url": "https://live.staticflickr.com/4095/4882162452_fa3126b38d_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: BinaryApe / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/93001633@N00/4882162452"
+    },
+    "reddit_1vnlvsa": {
+      "title": "[Misc] How do I get rid of this deep hole in my forehead skin?",
+      "t": 1786707964941,
+      "media_url": "https://live.staticflickr.com/8210/8200995434_58eef9a6a4_b.jpg",
+      "media_kind": "stock",
+      "media_credit": "Photo: James Webb Space Telescope / BY 2.0 via flickr",
+      "media_credit_url": "https://www.flickr.com/photos/50785054@N03/8200995434"
     }
   }
 }
