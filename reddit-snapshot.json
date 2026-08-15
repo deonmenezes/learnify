@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-15T21:51:31.218Z",
+  "generated_at": "2026-08-15T22:28:36.960Z",
   "subs": [
     "MachineLearning",
-    "Futurology",
-    "gadgets",
+    "science",
+    "netsec",
     "Fitness",
     "artificial",
     "investing",
@@ -14,23 +14,24 @@
     "SkincareAddiction",
     "running",
     "bodyweightfitness",
+    "Futurology",
     "robotics",
+    "gadgets",
     "startups",
     "longevity",
     "singularity",
-    "science",
     "nutrition"
   ],
   "count": 36,
   "by_category": {
     "Fitness": 7,
+    "Science": 5,
     "AI / ML": 8,
-    "Startups & Funding": 3,
+    "Startups & Funding": 2,
     "Coding & Dev Tools": 5,
     "Security": 3,
     "Hardware & Gadgets": 4,
     "Skincare": 1,
-    "Science": 4,
     "Robotics": 1
   },
   "articles": [
@@ -66,6 +67,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Fitness this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vozcib",
+      "title": "Research shows that the entire website of Reddit has become more negative over time. Moreover, the longer a given community exists, the more negative it becomes — and the longer a comment thread continues, the more negative the thread becomes",
+      "link": "https://www.reddit.com/r/science/comments/1vozcib/research_shows_that_the_entire_website_of_reddit/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/science · community knowledge",
+      "content_type": "post",
+      "author": "u/Wagamaga · r/science",
+      "handle": "science",
+      "org": "r/science",
+      "platform": "reddit",
+      "published": "2026-08-15T10:28:11.000Z",
+      "image": "https://external-preview.redd.it/dknEgc34EXk-s7XU5plolk4CnYJ1uiCHup-6e882Cj8.jpeg?width=640&crop=smart&auto=webp&s=d2ecf10d7d7efde645d2387ec48b7b2a558714de",
+      "thumbnail": "https://external-preview.redd.it/dknEgc34EXk-s7XU5plolk4CnYJ1uiCHup-6e882Cj8.jpeg?width=640&crop=smart&auto=webp&s=d2ecf10d7d7efde645d2387ec48b7b2a558714de",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/science"
+      ],
+      "summary": "Research shows that the entire website of Reddit has become more negative over time. Moreover, the longer a given community exists, the more negative it becomes — and the longer a comment thread continues, the more negative the thread becomes",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/science this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1404,46 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/nutrition this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vluf53",
-      "title": "I keep distracting myself from my own startup. How do I stop? [I will not promote]",
-      "link": "https://www.reddit.com/r/startups/comments/1vluf53/i_keep_distracting_myself_from_my_own_startup_how/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/startups · community knowledge",
-      "content_type": "post",
-      "author": "u/Fragrant-View-4257 · r/startups",
-      "handle": "startups",
-      "org": "r/startups",
-      "platform": "reddit",
-      "published": "2026-08-11T21:20:34.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/startups"
-      ],
-      "summary": "I’m almost finished with my startup, and deep down I genuinely believe the idea can work. But whenever I get close to finishing, I start distracting myself with new ideas and projects. The weird part is that I already know most of these new ideas probably won’t work as well, but I still jump into them anyway. This has…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/startups this week"
       ],
       "metrics": {
         "likes": 0,
