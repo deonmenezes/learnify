@@ -1,35 +1,36 @@
 {
-  "generated_at": "2026-08-14T23:53:16.104Z",
+  "generated_at": "2026-08-15T01:27:03.682Z",
   "subs": [
     "MachineLearning",
-    "Fitness",
-    "robotics",
+    "artificial",
+    "running",
+    "investing",
     "programming",
     "SkincareAddiction",
     "bodyweightfitness",
     "cybersecurity",
+    "robotics",
     "hardware",
     "gadgets",
     "startups",
     "LocalLLaMA",
     "singularity",
     "Futurology",
-    "running",
+    "Fitness",
     "nutrition",
     "netsec",
-    "investing",
     "science"
   ],
   "count": 36,
   "by_category": {
     "AI / ML": 6,
+    "Startups & Funding": 5,
     "Coding & Dev Tools": 4,
     "Skincare": 2,
-    "Fitness": 7,
-    "Security": 4,
+    "Fitness": 8,
+    "Security": 3,
     "Robotics": 1,
     "Hardware & Gadgets": 4,
-    "Startups & Funding": 5,
     "Science": 3
   },
   "articles": [
@@ -66,6 +67,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vo4qn8",
+      "title": "Selling all of my BTC slowly every month (not all at once) to re-buy the SP500",
+      "link": "https://www.reddit.com/r/investing/comments/1vo4qn8/selling_all_of_my_btc_slowly_every_month_not_all/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/investing · community knowledge",
+      "content_type": "post",
+      "author": "u/Suspicious-Holiday42 · r/investing",
+      "handle": "investing",
+      "org": "r/investing",
+      "platform": "reddit",
+      "published": "2026-08-14T11:33:42.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/investing"
+      ],
+      "summary": "I bought too much bitcoin, or should I say, I am all in since february. I now deeply regret my decision. While BTC just went sideways, AI stocks and the SP500 went just up and up. And then there is the quantum treat, spam in the blockchain and the fact that it&#39;s not a productive asset. I think I&#39;m gonna slowly…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/investing this week"
       ],
       "metrics": {
         "likes": 0,
@@ -144,6 +185,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/SkincareAddiction this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vnjz41",
+      "title": "What's everyone's take on the run club phenomenon?",
+      "link": "https://www.reddit.com/r/running/comments/1vnjz41/whats_everyones_take_on_the_run_club_phenomenon/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/running · community knowledge",
+      "content_type": "post",
+      "author": "u/red_fox23 · r/running",
+      "handle": "running",
+      "org": "r/running",
+      "platform": "reddit",
+      "published": "2026-08-13T19:01:51.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/running"
+      ],
+      "summary": "I started seriously running in 2015, and I was also raised by a runner, so I&#39;ve had a somewhat interesting perspective on how the running world has changed over the years. I&#39;ve seen the sport go through different phases, as everything does, but one of the more interesting (and sometimes funny) changes has been…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/running this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1363,85 +1443,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/SkincareAddiction this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vldt1a",
-      "title": "What’s one startup decision you spent way too much time on? I will not promote.",
-      "link": "https://www.reddit.com/r/startups/comments/1vldt1a/whats_one_startup_decision_you_spent_way_too_much/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/startups · community knowledge",
-      "content_type": "post",
-      "author": "u/yimyim358 · r/startups",
-      "handle": "startups",
-      "org": "r/startups",
-      "platform": "reddit",
-      "published": "2026-08-11T10:36:08.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/startups"
-      ],
-      "summary": "Looking back, what’s one decision you overthought that ended up not mattering much? Maybe something that you regretted doing after the process. Or the opposite, something you barely thought about that turned out to be really important. Curious where founders actually end up wasting the most time. &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/startups this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vld9at",
-      "title": "Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine",
-      "link": "https://www.reddit.com/r/cybersecurity/comments/1vld9at/hackers_breach_polish_power_plant_controls_via/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/cybersecurity · community knowledge",
-      "content_type": "post",
-      "author": "u/chota-kaka · r/cybersecurity",
-      "handle": "cybersecurity",
-      "org": "r/cybersecurity",
-      "platform": "reddit",
-      "published": "2026-08-11T10:05:09.000Z",
-      "image": "https://external-preview.redd.it/77KfddVyrQ2nPgJTB54gAJhl0pxAID3bSQakyUuom3k.jpeg?width=640&crop=smart&auto=webp&s=6df211edadfaf2f63bb91cb37f64f0200281d014",
-      "thumbnail": "https://external-preview.redd.it/77KfddVyrQ2nPgJTB54gAJhl0pxAID3bSQakyUuom3k.jpeg?width=640&crop=smart&auto=webp&s=6df211edadfaf2f63bb91cb37f64f0200281d014",
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/cybersecurity"
-      ],
-      "summary": "Attackers breached a Polish combined heat and power plant through a private cellular APN used to access remote infrastructure. After pivoting from a compromised wind-farm network, they reached the plant’s OT environment, where a controller was still using default admin credentials. The attackers ultimately put…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/cybersecurity this week"
       ],
       "metrics": {
         "likes": 0,
