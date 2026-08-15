@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-15T09:32:37.702Z",
+  "generated_at": "2026-08-15T09:56:30.811Z",
   "subs": [
     "MachineLearning",
-    "science",
-    "netsec",
+    "Futurology",
+    "gadgets",
     "investing",
     "programming",
     "LocalLLaMA",
@@ -13,13 +13,12 @@
     "bodyweightfitness",
     "cybersecurity",
     "robotics",
-    "gadgets",
     "startups",
     "longevity",
     "singularity",
-    "Futurology",
     "Fitness",
-    "nutrition"
+    "nutrition",
+    "netsec"
   ],
   "count": 36,
   "by_category": {
@@ -29,9 +28,9 @@
     "Hardware & Gadgets": 4,
     "Skincare": 1,
     "Fitness": 8,
+    "Science": 3,
     "Security": 3,
-    "Robotics": 1,
-    "Science": 3
+    "Robotics": 1
   },
   "articles": [
     {
@@ -342,6 +341,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/bodyweightfitness this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vna3eg",
+      "title": "Chinese bullet train goes from 0 to 800kmph in 5 seconds",
+      "link": "https://www.reddit.com/r/Futurology/comments/1vna3eg/chinese_bullet_train_goes_from_0_to_800kmph_in_5/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/Futurology · community knowledge",
+      "content_type": "post",
+      "author": "u/Confident_Salt_8108 · r/Futurology",
+      "handle": "Futurology",
+      "org": "r/Futurology",
+      "platform": "reddit",
+      "published": "2026-08-13T13:01:55.000Z",
+      "image": "https://external-preview.redd.it/jYZ6btC_9amGOkYqtOvgL1C-5QUEp3YR2zwRJRKGzKc.jpeg?width=640&crop=smart&auto=webp&s=194644051c54f4e9582c0588b16cc396d5dea9da",
+      "thumbnail": "https://external-preview.redd.it/jYZ6btC_9amGOkYqtOvgL1C-5QUEp3YR2zwRJRKGzKc.jpeg?width=640&crop=smart&auto=webp&s=194644051c54f4e9582c0588b16cc396d5dea9da",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/Futurology"
+      ],
+      "summary": "Chinese bullet train goes from 0 to 800kmph in 5 seconds",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/Futurology this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1406,45 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/investing this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vlfw0q",
-      "title": "Large-scale U.S study finds no link between crime and unauthorized immigration. Neighborhoods where the share of undocumented residents grew actually saw greater reductions in property crime and no significant change in violent crime, contrary to what many claim.",
-      "link": "https://www.reddit.com/r/science/comments/1vlfw0q/largescale_us_study_finds_no_link_between_crime/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/science · community knowledge",
-      "content_type": "post",
-      "author": "u/Wagamaga · r/science",
-      "handle": "science",
-      "org": "r/science",
-      "platform": "reddit",
-      "published": "2026-08-11T12:20:39.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/science"
-      ],
-      "summary": "Large-scale U.S study finds no link between crime and unauthorized immigration. Neighborhoods where the share of undocumented residents grew actually saw greater reductions in property crime and no significant change in violent crime, contrary to what many claim.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/science this week"
       ],
       "metrics": {
         "likes": 0,
