@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-15T14:29:48.222Z",
+  "generated_at": "2026-08-15T14:54:43.341Z",
   "subs": [
     "MachineLearning",
-    "programming",
+    "science",
     "cybersecurity",
     "artificial",
     "investing",
+    "programming",
     "LocalLLaMA",
     "hardware",
     "SkincareAddiction",
@@ -28,8 +29,8 @@
     "Coding & Dev Tools": 5,
     "Hardware & Gadgets": 4,
     "Skincare": 1,
-    "Fitness": 7,
-    "Science": 3,
+    "Fitness": 6,
+    "Science": 4,
     "Security": 3,
     "Robotics": 1
   },
@@ -1060,6 +1061,45 @@
       }
     },
     {
+      "id": "reddit_1vmazht",
+      "title": "Testing of 113 personal care and cleaning products (from Target, Amazon, Walmart, Dollar Tree) found 85% contained unlabeled chemicals with known or suspected health hazards, and one in four contained chemicals contradicting package claims, including synthetic chemicals in products \"100% natural”",
+      "link": "https://www.reddit.com/r/science/comments/1vmazht/testing_of_113_personal_care_and_cleaning/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/science · community knowledge",
+      "content_type": "post",
+      "author": "u/sr_local · r/science",
+      "handle": "science",
+      "org": "r/science",
+      "platform": "reddit",
+      "published": "2026-08-12T11:03:44.000Z",
+      "image": "https://external-preview.redd.it/Ei1OsAOVosSqOXSIzE8wZ_Fo7iUTEdwT5-5OXaGbC90.jpeg?width=640&crop=smart&auto=webp&s=494d73a71252b274262597c824e8813114104ae4",
+      "thumbnail": "https://external-preview.redd.it/Ei1OsAOVosSqOXSIzE8wZ_Fo7iUTEdwT5-5OXaGbC90.jpeg?width=640&crop=smart&auto=webp&s=494d73a71252b274262597c824e8813114104ae4",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/science"
+      ],
+      "summary": "Testing of 113 personal care and cleaning products (from Target, Amazon, Walmart, Dollar Tree) found 85% contained unlabeled chemicals with known or suspected health hazards, and one in four contained chemicals contradicting package claims, including synthetic chemicals in products \"100% natural”",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/science this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1vm8r8r",
       "title": "Rant Wednesday - August 12, 2026",
       "link": "https://www.reddit.com/r/Fitness/comments/1vm8r8r/rant_wednesday_august_12_2026/",
@@ -1406,45 +1446,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/startups this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vlnw46",
-      "title": "Does Kinesiology Tape Actually Work?",
-      "link": "https://www.reddit.com/r/running/comments/1vlnw46/does_kinesiology_tape_actually_work/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/running · community knowledge",
-      "content_type": "post",
-      "author": "u/Amazon_Master_1212 · r/running",
-      "handle": "running",
-      "org": "r/running",
-      "platform": "reddit",
-      "published": "2026-08-11T17:23:56.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/running"
-      ],
-      "summary": "Hi everyone, I’m an avid endurance runner. I regularly take part in marathons and trail‑running races. I’ve seen countless fellow runners wearing k‑tape during training and competitions, but I have never tried it myself. So I’m curious: does kinesiology tape actually deliver real benefits? Or is it mostly placebo…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/running this week"
       ],
       "metrics": {
         "likes": 0,
