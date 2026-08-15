@@ -1,34 +1,34 @@
 {
-  "generated_at": "2026-08-15T13:36:58.623Z",
+  "generated_at": "2026-08-15T14:29:48.222Z",
   "subs": [
     "MachineLearning",
-    "artificial",
-    "nutrition",
-    "investing",
     "programming",
+    "cybersecurity",
+    "artificial",
+    "investing",
     "LocalLLaMA",
     "hardware",
     "SkincareAddiction",
     "running",
     "bodyweightfitness",
     "Futurology",
-    "cybersecurity",
     "robotics",
     "gadgets",
     "startups",
     "longevity",
     "singularity",
     "Fitness",
+    "nutrition",
     "netsec"
   ],
   "count": 36,
   "by_category": {
     "AI / ML": 8,
     "Startups & Funding": 4,
-    "Coding & Dev Tools": 4,
+    "Coding & Dev Tools": 5,
     "Hardware & Gadgets": 4,
     "Skincare": 1,
-    "Fitness": 8,
+    "Fitness": 7,
     "Science": 3,
     "Security": 3,
     "Robotics": 1
@@ -147,6 +147,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/investing this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vo44t4",
+      "title": "How 2004 RuneScape fit a multiplayer RPG into 56k dial-up",
+      "link": "https://www.reddit.com/r/programming/comments/1vo44t4/how_2004_runescape_fit_a_multiplayer_rpg_into_56k/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/programming · community knowledge",
+      "content_type": "post",
+      "author": "u/fagnerbrack · r/programming",
+      "handle": "programming",
+      "org": "r/programming",
+      "platform": "reddit",
+      "published": "2026-08-14T11:01:54.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Coding & Dev Tools",
+      "category": "Coding & Dev Tools",
+      "genre": "Coding & Dev Tools",
+      "categories": [
+        "Reddit",
+        "Coding & Dev Tools",
+        "r/programming"
+      ],
+      "summary": "How 2004 RuneScape fit a multiplayer RPG into 56k dial-up",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/programming this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1399,45 +1438,6 @@
         "r/running"
       ],
       "summary": "Hi everyone, I’m an avid endurance runner. I regularly take part in marathons and trail‑running races. I’ve seen countless fellow runners wearing k‑tape during training and competitions, but I have never tried it myself. So I’m curious: does kinesiology tape actually deliver real benefits? Or is it mostly placebo…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/running this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vlkhyz",
-      "title": "Planning training blocks for long term 5K/HM goals",
-      "link": "https://www.reddit.com/r/running/comments/1vlkhyz/planning_training_blocks_for_long_term_5khm_goals/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/running · community knowledge",
-      "content_type": "post",
-      "author": "u/DreamLost906 · r/running",
-      "handle": "running",
-      "org": "r/running",
-      "platform": "reddit",
-      "published": "2026-08-11T15:22:21.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/running"
-      ],
-      "summary": "I am 42F and started the Couch to 5K program in March 2026 and have also completed a novice 10K program. Currently I run 25-30 km a week, at 4 days a week, and am training for a sprint duathlon. I will have 36 weeks between my duathlon and a half marathon race in May. I would like to improve my 5K &amp; 10K times…",
       "is_social": true,
       "report_worthy": true,
       "worthiness_score": 62,
