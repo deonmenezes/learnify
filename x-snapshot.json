@@ -1,16 +1,15 @@
 {
-  "generated_at": "2026-08-15T02:36:27.784Z",
+  "generated_at": "2026-08-15T03:43:24.018Z",
   "handles": [
-    "elonmusk",
-    "satyanadella",
-    "gdb",
-    "AIatMeta",
-    "AnthropicAI",
     "nvidia",
+    "GoogleDeepMind",
+    "elonmusk",
+    "gdb",
+    "AnthropicAI",
     "OpenAI",
     "demishassabis",
-    "GoogleDeepMind",
-    "NVIDIAAI"
+    "NVIDIAAI",
+    "AIatMeta"
   ],
   "count": 32,
   "articles": [
@@ -52,6 +51,45 @@
         "likes_h": "297"
       },
       "engagement": 369,
+      "hot": false
+    },
+    {
+      "id": "x_2088365553186459873",
+      "title": "Can openness make AI safer? @ctnzr makes the case: more people evaluating a technology means more scrutiny and more people helping make it safer.",
+      "link": "https://x.com/nvidia/status/2088365553186459873",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-08-14T20:42:02.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Commentary"
+      ],
+      "summary": "Can openness make AI safer? @ctnzr makes the case: more people evaluating a technology means more scrutiny and more people helping make it safer.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 55,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy"
+      ],
+      "metrics": {
+        "likes": 121,
+        "retweets": 17,
+        "replies": 18,
+        "likes_h": "121"
+      },
+      "engagement": 173,
       "hot": false
     },
     {
@@ -126,15 +164,15 @@
         "report-worthy",
         "tech substance (grok)",
         "links to a source",
-        "high engagement (10.8K likes)"
+        "high engagement (10.9K likes)"
       ],
       "metrics": {
-        "likes": 10779,
-        "retweets": 1547,
-        "replies": 1932,
-        "likes_h": "10.8K"
+        "likes": 10890,
+        "retweets": 1565,
+        "replies": 1959,
+        "likes_h": "10.9K"
       },
-      "engagement": 15805,
+      "engagement": 15979,
       "hot": true
     },
     {
@@ -167,15 +205,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (robotics)",
-        "high engagement (1K likes)"
+        "high engagement (1.1K likes)"
       ],
       "metrics": {
-        "likes": 1033,
-        "retweets": 101,
-        "replies": 66,
-        "likes_h": "1K"
+        "likes": 1096,
+        "retweets": 106,
+        "replies": 69,
+        "likes_h": "1.1K"
       },
-      "engagement": 1301,
+      "engagement": 1377,
       "hot": false
     },
     {
@@ -210,12 +248,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 757,
-        "retweets": 76,
-        "replies": 37,
-        "likes_h": "757"
+        "likes": 767,
+        "retweets": 77,
+        "replies": 39,
+        "likes_h": "767"
       },
-      "engagement": 946,
+      "engagement": 960,
       "hot": false
     },
     {
@@ -330,15 +368,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (model)",
-        "high engagement (795 likes)"
+        "high engagement (803 likes)"
       ],
       "metrics": {
-        "likes": 795,
-        "retweets": 83,
+        "likes": 803,
+        "retweets": 84,
         "replies": 56,
-        "likes_h": "795"
+        "likes_h": "803"
       },
-      "engagement": 1017,
+      "engagement": 1027,
       "hot": false
     },
     {
@@ -412,15 +450,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (gemini)",
-        "high engagement (4.8K likes)"
+        "high engagement (4.9K likes)"
       ],
       "metrics": {
-        "likes": 4819,
-        "retweets": 579,
-        "replies": 312,
-        "likes_h": "4.8K"
+        "likes": 4889,
+        "retweets": 587,
+        "replies": 314,
+        "likes_h": "4.9K"
       },
-      "engagement": 6289,
+      "engagement": 6377,
       "hot": false
     },
     {
@@ -542,12 +580,12 @@
         "tech substance (tokens)"
       ],
       "metrics": {
-        "likes": 314,
-        "retweets": 46,
+        "likes": 315,
+        "retweets": 48,
         "replies": 46,
-        "likes_h": "314"
+        "likes_h": "315"
       },
-      "engagement": 452,
+      "engagement": 457,
       "hot": false
     },
     {
@@ -625,12 +663,12 @@
         "high engagement (8.7K likes)"
       ],
       "metrics": {
-        "likes": 8666,
-        "retweets": 814,
+        "likes": 8667,
+        "retweets": 812,
         "replies": 197,
         "likes_h": "8.7K"
       },
-      "engagement": 10491,
+      "engagement": 10488,
       "hot": false
     },
     {
@@ -702,15 +740,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (model, features)",
-        "high engagement (1.8K likes)"
+        "high engagement (1.9K likes)"
       ],
       "metrics": {
-        "likes": 1846,
-        "retweets": 267,
-        "replies": 106,
-        "likes_h": "1.8K"
+        "likes": 1850,
+        "retweets": 266,
+        "replies": 108,
+        "likes_h": "1.9K"
       },
-      "engagement": 2486,
+      "engagement": 2490,
       "hot": false
     },
     {
@@ -1130,7 +1168,7 @@
         "likes_h": "8.2K"
       },
       "engagement": 10681,
-      "hot": false
+      "hot": true
     },
     {
       "id": "x_2086092396023120286",
@@ -1288,57 +1326,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (gemini, robotics)",
-        "high engagement (912 likes)"
+        "high engagement (915 likes)"
       ],
       "metrics": {
-        "likes": 912,
+        "likes": 915,
         "retweets": 121,
         "replies": 123,
-        "likes_h": "912"
+        "likes_h": "915"
       },
-      "engagement": 1277,
-      "hot": false
-    },
-    {
-      "id": "x_2085485069226106891",
-      "title": "Vera Rubin NVL72 Compute Tray. Designed to scale. Assembled in 1 minute. 100% automated. No cables, no hoses, no fans. A revolutionary new design that means faster ramp and faster time to revenue.",
-      "link": "https://x.com/nvidia/status/2085485069226106891",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-08-06T21:56:01.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Commentary",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Commentary"
-      ],
-      "summary": "Vera Rubin NVL72 Compute Tray. Designed to scale. Assembled in 1 minute. 100% automated. No cables, no hoses, no fans. A revolutionary new design that means faster ramp and faster time to revenue.",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 65,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "casual tone (100%)",
-        "business signal (revenue)",
-        "high engagement (2.3K likes)"
-      ],
-      "metrics": {
-        "likes": 2283,
-        "retweets": 269,
-        "replies": 96,
-        "likes_h": "2.3K"
-      },
-      "engagement": 2917,
+      "engagement": 1280,
       "hot": false
     }
   ]
