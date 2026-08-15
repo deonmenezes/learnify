@@ -1,18 +1,19 @@
 {
-  "generated_at": "2026-08-15T07:37:07.224Z",
+  "generated_at": "2026-08-15T08:36:25.333Z",
   "subs": [
     "MachineLearning",
-    "LocalLLaMA",
-    "running",
-    "startups",
+    "longevity",
+    "hardware",
     "investing",
     "programming",
+    "LocalLLaMA",
     "SkincareAddiction",
+    "running",
     "bodyweightfitness",
     "cybersecurity",
     "robotics",
-    "hardware",
     "gadgets",
+    "startups",
     "singularity",
     "Futurology",
     "Fitness",
@@ -25,11 +26,11 @@
     "AI / ML": 7,
     "Startups & Funding": 5,
     "Coding & Dev Tools": 4,
+    "Hardware & Gadgets": 4,
     "Skincare": 1,
     "Fitness": 8,
     "Security": 3,
     "Robotics": 1,
-    "Hardware & Gadgets": 4,
     "Science": 3
   },
   "articles": [
@@ -185,6 +186,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/LocalLLaMA this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vnnxhe",
+      "title": "Slapping Windows 11 PCs with a Copilot key was a terrible idea, and it's already outdated as Microsoft just released a new icon",
+      "link": "https://www.reddit.com/r/hardware/comments/1vnnxhe/slapping_windows_11_pcs_with_a_copilot_key_was_a/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/hardware · community knowledge",
+      "content_type": "post",
+      "author": "u/imaginary_num6er · r/hardware",
+      "handle": "hardware",
+      "org": "r/hardware",
+      "platform": "reddit",
+      "published": "2026-08-13T21:28:50.000Z",
+      "image": "https://external-preview.redd.it/ubfi9R95wlaImcI3J7uldl-4ilGpHJQFgclDImpDg4Y.jpeg?width=640&crop=smart&auto=webp&s=e1343c53912689bafdcb15f47ac9ceafb9ea9f3c",
+      "thumbnail": "https://external-preview.redd.it/ubfi9R95wlaImcI3J7uldl-4ilGpHJQFgclDImpDg4Y.jpeg?width=640&crop=smart&auto=webp&s=e1343c53912689bafdcb15f47ac9ceafb9ea9f3c",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/hardware"
+      ],
+      "summary": "Slapping Windows 11 PCs with a Copilot key was a terrible idea, and it's already outdated as Microsoft just released a new icon",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/hardware this week"
       ],
       "metrics": {
         "likes": 0,
@@ -577,6 +617,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/startups this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vminvh",
+      "title": "10 Finalist Teams Awarded $1M Each to Advance in XPRIZE Healthspan $101 Million Competition",
+      "link": "https://www.reddit.com/r/longevity/comments/1vminvh/10_finalist_teams_awarded_1m_each_to_advance_in/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/longevity · community knowledge",
+      "content_type": "post",
+      "author": "u/lunchboxultimate01 · r/longevity",
+      "handle": "longevity",
+      "org": "r/longevity",
+      "platform": "reddit",
+      "published": "2026-08-12T16:16:15.000Z",
+      "image": "https://external-preview.redd.it/DKLhg0hFw9ksuBxBNcTm3tU3y3KNP_6Ba74y5_lVPM0.png?width=320&crop=smart&auto=webp&s=a9df31f68c83708768835ab18f944b9520ff616e",
+      "thumbnail": "https://external-preview.redd.it/DKLhg0hFw9ksuBxBNcTm3tU3y3KNP_6Ba74y5_lVPM0.png?width=320&crop=smart&auto=webp&s=a9df31f68c83708768835ab18f944b9520ff616e",
+      "section": "Science",
+      "category": "Science",
+      "genre": "Longevity",
+      "categories": [
+        "Reddit",
+        "Science",
+        "Longevity",
+        "r/longevity"
+      ],
+      "summary": "XPrize Healthspan&#39;s goal is to restore 10-20 years of healthy function in cognitive, immune, and muscle-cardio function. You can read in more detail about the 10 finalists on page 71 in this report from XPrize:…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/longevity this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1365,84 +1445,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/science this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vlfqer",
-      "title": "Meta glasses banned from courts in England and Wales | Meta",
-      "link": "https://www.reddit.com/r/Futurology/comments/1vlfqer/meta_glasses_banned_from_courts_in_england_and/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/Futurology · community knowledge",
-      "content_type": "post",
-      "author": "u/Spirited-Sir-3034 · r/Futurology",
-      "handle": "Futurology",
-      "org": "r/Futurology",
-      "platform": "reddit",
-      "published": "2026-08-11T12:13:27.000Z",
-      "image": "https://external-preview.redd.it/TfHZu7z-hT1fbNmugwhGBdz2WRBAE9wBIyVRWMbIMUc.jpeg?width=640&crop=smart&auto=webp&s=d30c6dd2501d4162ffc8621c303d111fd2d602a3",
-      "thumbnail": "https://external-preview.redd.it/TfHZu7z-hT1fbNmugwhGBdz2WRBAE9wBIyVRWMbIMUc.jpeg?width=640&crop=smart&auto=webp&s=d30c6dd2501d4162ffc8621c303d111fd2d602a3",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/Futurology"
-      ],
-      "summary": "Meta glasses banned from courts in England and Wales | Meta",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/Futurology this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vlecd1",
-      "title": "Modified GeForce RTX 4080 32GB cards flood China's second-hand market",
-      "link": "https://www.reddit.com/r/hardware/comments/1vlecd1/modified_geforce_rtx_4080_32gb_cards_flood_chinas/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/hardware · community knowledge",
-      "content_type": "post",
-      "author": "u/kikimaru024 · r/hardware",
-      "handle": "hardware",
-      "org": "r/hardware",
-      "platform": "reddit",
-      "published": "2026-08-11T11:04:47.000Z",
-      "image": "https://external-preview.redd.it/jrs8YYp4jCni1gmRqmSYvd-yUystWndZxdSN0iJ0oWo.jpeg?width=640&crop=smart&auto=webp&s=bd941f688ef69c7a56a1e7ddee9378e2b562c5a5",
-      "thumbnail": "https://external-preview.redd.it/jrs8YYp4jCni1gmRqmSYvd-yUystWndZxdSN0iJ0oWo.jpeg?width=640&crop=smart&auto=webp&s=bd941f688ef69c7a56a1e7ddee9378e2b562c5a5",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/hardware"
-      ],
-      "summary": "Modified GeForce RTX 4080 32GB cards flood China's second-hand market",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/hardware this week"
       ],
       "metrics": {
         "likes": 0,
