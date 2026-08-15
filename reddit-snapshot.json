@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-15T20:29:33.132Z",
+  "generated_at": "2026-08-15T20:53:18.820Z",
   "subs": [
     "MachineLearning",
-    "Futurology",
-    "gadgets",
+    "Fitness",
+    "robotics",
     "artificial",
     "investing",
     "programming",
@@ -13,28 +13,66 @@
     "SkincareAddiction",
     "running",
     "bodyweightfitness",
-    "robotics",
+    "Futurology",
+    "gadgets",
     "startups",
     "longevity",
     "singularity",
     "science",
-    "Fitness",
-    "nutrition",
-    "netsec"
+    "nutrition"
   ],
   "count": 36,
   "by_category": {
+    "Fitness": 7,
     "AI / ML": 8,
     "Startups & Funding": 3,
     "Coding & Dev Tools": 5,
-    "Security": 4,
+    "Security": 3,
     "Hardware & Gadgets": 4,
     "Skincare": 1,
-    "Fitness": 6,
     "Science": 4,
     "Robotics": 1
   },
   "articles": [
+    {
+      "id": "reddit_1vpd519",
+      "title": "The best gym days are when you forget to start your watch",
+      "link": "https://www.reddit.com/r/Fitness/comments/1vpd519/the_best_gym_days_are_when_you_forget_to_start/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/Fitness · community knowledge",
+      "content_type": "post",
+      "author": "u/Head-Lawyer3080 · r/Fitness",
+      "handle": "Fitness",
+      "org": "r/Fitness",
+      "platform": "reddit",
+      "published": "2026-08-15T20:24:01.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/Fitness"
+      ],
+      "summary": "Just bc you’re so excited to lift. Feeling good day wbu guys what did you hit today. I did upper. So back &amp; arms. Also like 1 exercise for chest lol. And an ab exercise. I try to keep it balanced 😂 You know what I think I’m missing tho. Tricep. I took it out ages ago cuz I didn’t want my arms getting “bigger” but…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/Fitness this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1volf3k",
       "title": "OpenAI Reports Goldman Sachs Analyst to FBI for Horrifying ChatGPT Conversations",
@@ -1406,45 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/startups this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vlsvsn",
-      "title": "Expired DMARC reporting endpoint exposed a NYSE Fortune 1000's infrastructure for $10",
-      "link": "https://www.reddit.com/r/netsec/comments/1vlsvsn/expired_dmarc_reporting_endpoint_exposed_a_nyse/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/netsec · community knowledge",
-      "content_type": "post",
-      "author": "u/PlasmaJam · r/netsec",
-      "handle": "netsec",
-      "org": "r/netsec",
-      "platform": "reddit",
-      "published": "2026-08-11T20:23:28.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/netsec"
-      ],
-      "summary": "I registered an expired DMARC reporting domain (gca-emailauth[.]org) for $10. It had been published as the aggregate-reporting address in Global Cyber Alliance DMARC training docs going back to a 2019 bootcamp, and at some point it lapsed. Shortly after registration, aggregate DMARC reports for 86 domains across 20+…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/netsec this week"
       ],
       "metrics": {
         "likes": 0,
