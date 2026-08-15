@@ -1,18 +1,59 @@
 {
-  "generated_at": "2026-08-15T01:24:50.310Z",
+  "generated_at": "2026-08-15T02:36:27.784Z",
   "handles": [
-    "AIatMeta",
-    "NVIDIAAI",
-    "AnthropicAI",
     "elonmusk",
+    "satyanadella",
+    "gdb",
+    "AIatMeta",
+    "AnthropicAI",
     "nvidia",
     "OpenAI",
     "demishassabis",
     "GoogleDeepMind",
-    "gdb"
+    "NVIDIAAI"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2088439955026825520",
+      "title": "hedonic treadmill of model expectations",
+      "link": "https://x.com/gdb/status/2088439955026825520",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Greg Brockman · @gdb",
+      "handle": "gdb",
+      "org": "OpenAI",
+      "published": "2026-08-15T01:37:41.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Product",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Product"
+      ],
+      "summary": "hedonic treadmill of model expectations",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 61,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "tech substance (model)"
+      ],
+      "metrics": {
+        "likes": 297,
+        "retweets": 11,
+        "replies": 50,
+        "likes_h": "297"
+      },
+      "engagement": 369,
+      "hot": false
+    },
     {
       "id": "x_2088324824863236248",
       "title": "As part of our Responsible Scaling Policy, we publish regular Risk Reports. These share detailed information on the risks of our systems and how prepared we are to address them. Our second Risk…",
@@ -85,15 +126,15 @@
         "report-worthy",
         "tech substance (grok)",
         "links to a source",
-        "high engagement (10.3K likes)"
+        "high engagement (10.8K likes)"
       ],
       "metrics": {
-        "likes": 10325,
-        "retweets": 1404,
-        "replies": 1825,
-        "likes_h": "10.3K"
+        "likes": 10779,
+        "retweets": 1547,
+        "replies": 1932,
+        "likes_h": "10.8K"
       },
-      "engagement": 14958,
+      "engagement": 15805,
       "hot": true
     },
     {
@@ -1083,13 +1124,13 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 8213,
-        "retweets": 1067,
+        "likes": 8214,
+        "retweets": 1068,
         "replies": 331,
         "likes_h": "8.2K"
       },
-      "engagement": 10678,
-      "hot": true
+      "engagement": 10681,
+      "hot": false
     },
     {
       "id": "x_2086092396023120286",
@@ -1298,50 +1339,6 @@
         "likes_h": "2.3K"
       },
       "engagement": 2917,
-      "hot": false
-    },
-    {
-      "id": "x_2085434718393418101",
-      "title": "Plus and Pro users can access the updated version of GPT‑5.6 Sol in ChatGPT along with the new slider starting today. This version of GPT-5.6 Sol is for everyday chats, so it will only be available…",
-      "link": "https://x.com/OpenAI/status/2085434718393418101",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-08-06T18:35:57.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product launch",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Product launch"
-      ],
-      "summary": "Plus and Pro users can access the updated version of GPT‑5.6 Sol in ChatGPT along with the new slider starting today. This version of GPT-5.6 Sol is for everyday chats, so it will only be available in the Chat experience in ChatGPT. The version of GPT-5.6 Sol that powers Work",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 61,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "reply / conversation",
-        "casual tone (this)",
-        "announcement language (starting today)",
-        "tech substance (gpt, version)",
-        "high engagement (1.1K likes)"
-      ],
-      "metrics": {
-        "likes": 1067,
-        "retweets": 54,
-        "replies": 74,
-        "likes_h": "1.1K"
-      },
-      "engagement": 1249,
       "hot": false
     }
   ]
