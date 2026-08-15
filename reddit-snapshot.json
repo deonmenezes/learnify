@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-15T12:46:20.388Z",
+  "generated_at": "2026-08-15T13:36:58.623Z",
   "subs": [
     "MachineLearning",
-    "Fitness",
-    "robotics",
+    "artificial",
+    "nutrition",
     "investing",
     "programming",
     "LocalLLaMA",
@@ -13,17 +13,18 @@
     "bodyweightfitness",
     "Futurology",
     "cybersecurity",
+    "robotics",
     "gadgets",
     "startups",
     "longevity",
     "singularity",
-    "nutrition",
+    "Fitness",
     "netsec"
   ],
   "count": 36,
   "by_category": {
-    "AI / ML": 7,
-    "Startups & Funding": 5,
+    "AI / ML": 8,
+    "Startups & Funding": 4,
     "Coding & Dev Tools": 4,
     "Hardware & Gadgets": 4,
     "Skincare": 1,
@@ -33,6 +34,46 @@
     "Robotics": 1
   },
   "articles": [
+    {
+      "id": "reddit_1volf3k",
+      "title": "OpenAI Reports Goldman Sachs Analyst to FBI for Horrifying ChatGPT Conversations",
+      "link": "https://www.reddit.com/r/artificial/comments/1volf3k/openai_reports_goldman_sachs_analyst_to_fbi_for/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/artificial · community knowledge",
+      "content_type": "post",
+      "author": "u/coolbern · r/artificial",
+      "handle": "artificial",
+      "org": "r/artificial",
+      "platform": "reddit",
+      "published": "2026-08-14T22:22:14.000Z",
+      "image": "https://external-preview.redd.it/Mm-nhYTumWIP8f8gjOviTJkoyHTFqWYOg3wlYner5c4.jpeg?width=640&crop=smart&auto=webp&s=6245f8baf6f892178a7c647e6db8ad8ef4e18dd3",
+      "thumbnail": "https://external-preview.redd.it/Mm-nhYTumWIP8f8gjOviTJkoyHTFqWYOg3wlYner5c4.jpeg?width=640&crop=smart&auto=webp&s=6245f8baf6f892178a7c647e6db8ad8ef4e18dd3",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/artificial"
+      ],
+      "summary": "OpenAI Reports Goldman Sachs Analyst to FBI for Horrifying ChatGPT Conversations",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/artificial this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1voazhm",
       "title": "I compiled Doom's renderer into a 21B-parameter transformer -- no training anywhere [P]",
@@ -1404,46 +1445,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/running this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vliday",
-      "title": "Robinhood ends its partnership with Morningstar",
-      "link": "https://www.reddit.com/r/investing/comments/1vliday/robinhood_ends_its_partnership_with_morningstar/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/investing · community knowledge",
-      "content_type": "post",
-      "author": "u/thehellboundfratboy · r/investing",
-      "handle": "investing",
-      "org": "r/investing",
-      "platform": "reddit",
-      "published": "2026-08-11T14:03:37.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/investing"
-      ],
-      "summary": "I woke up this morning, and I noticed that Robinhood is no longer supplying data from Morningstar to its Gold Members. I don&#39;t know about you, but the entire reason I paid for gold was to have access to that analysis. I considered Robinhood Gold the best deal in the business, and with the partnership over as of…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/investing this week"
       ],
       "metrics": {
         "likes": 0,
