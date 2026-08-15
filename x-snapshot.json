@@ -1,16 +1,15 @@
 {
-  "generated_at": "2026-08-15T10:27:15.373Z",
+  "generated_at": "2026-08-15T10:51:00.663Z",
   "handles": [
-    "nvidia",
-    "GoogleDeepMind",
-    "elonmusk",
-    "satyanadella",
     "gdb",
+    "AIatMeta",
+    "NVIDIAAI",
+    "nvidia",
     "AnthropicAI",
+    "elonmusk",
     "OpenAI",
     "demishassabis",
-    "NVIDIAAI",
-    "AIatMeta"
+    "GoogleDeepMind"
   ],
   "count": 32,
   "articles": [
@@ -38,20 +37,21 @@
       "summary": "hedonic treadmill of model expectations",
       "is_social": true,
       "report_worthy": true,
-      "worthiness_score": 63,
+      "worthiness_score": 64,
       "sentiment": "neutral",
       "sentiment_score": 0,
       "reasons": [
         "report-worthy",
-        "tech substance (model)"
+        "tech substance (model)",
+        "high engagement (990 likes)"
       ],
       "metrics": {
-        "likes": 664,
-        "retweets": 26,
-        "replies": 71,
-        "likes_h": "664"
+        "likes": 990,
+        "retweets": 38,
+        "replies": 85,
+        "likes_h": "990"
       },
-      "engagement": 787,
+      "engagement": 1151,
       "hot": false
     },
     {
@@ -914,12 +914,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 5650,
-        "retweets": 650,
-        "replies": 318,
+        "likes": 5656,
+        "retweets": 649,
+        "replies": 321,
         "likes_h": "5.7K"
       },
-      "engagement": 7268,
+      "engagement": 7275,
       "hot": false
     },
     {
@@ -1164,13 +1164,13 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 8214,
+        "likes": 8219,
         "retweets": 1068,
-        "replies": 331,
+        "replies": 334,
         "likes_h": "8.2K"
       },
-      "engagement": 10681,
-      "hot": false
+      "engagement": 10689,
+      "hot": true
     },
     {
       "id": "x_2086092396023120286",
