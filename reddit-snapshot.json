@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-08-15T06:46:37.758Z",
+  "generated_at": "2026-08-15T07:37:07.224Z",
   "subs": [
     "MachineLearning",
-    "science",
-    "netsec",
+    "LocalLLaMA",
+    "running",
+    "startups",
     "investing",
     "programming",
     "SkincareAddiction",
-    "running",
     "bodyweightfitness",
     "cybersecurity",
     "robotics",
     "hardware",
     "gadgets",
-    "startups",
-    "LocalLLaMA",
     "singularity",
     "Futurology",
     "Fitness",
-    "nutrition"
+    "nutrition",
+    "netsec",
+    "science"
   ],
   "count": 36,
   "by_category": {
-    "AI / ML": 6,
+    "AI / ML": 7,
     "Startups & Funding": 5,
     "Coding & Dev Tools": 4,
-    "Skincare": 2,
+    "Skincare": 1,
     "Fitness": 8,
     "Security": 3,
     "Robotics": 1,
@@ -145,6 +145,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/programming this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vny9zs",
+      "title": "GLM 5.3 Released",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1vny9zs/glm_53_released/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/LocalLLaMA · community knowledge",
+      "content_type": "post",
+      "author": "u/jmorant555 · r/LocalLLaMA",
+      "handle": "LocalLLaMA",
+      "org": "r/LocalLLaMA",
+      "platform": "reddit",
+      "published": "2026-08-14T05:23:43.000Z",
+      "image": "https://preview.redd.it/eixnxdnvz9jh1.png?width=640&crop=smart&auto=webp&s=2247868071d2d80c73f9ce9e95b5c3085bb85fa3",
+      "thumbnail": "https://preview.redd.it/eixnxdnvz9jh1.png?width=640&crop=smart&auto=webp&s=2247868071d2d80c73f9ce9e95b5c3085bb85fa3",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/LocalLLaMA"
+      ],
+      "summary": "Official Announcement https://z.ai/blog/glm-5.3 &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/LocalLLaMA this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1403,45 +1443,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/hardware this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vle910",
-      "title": "[Product Request] Brands that still USE parabens",
-      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1vle910/product_request_brands_that_still_use_parabens/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/SkincareAddiction · community knowledge",
-      "content_type": "post",
-      "author": "u/fipah · r/SkincareAddiction",
-      "handle": "SkincareAddiction",
-      "org": "r/SkincareAddiction",
-      "platform": "reddit",
-      "published": "2026-08-11T11:00:14.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Skincare",
-      "category": "Skincare",
-      "genre": "Skincare",
-      "categories": [
-        "Reddit",
-        "Skincare",
-        "r/SkincareAddiction"
-      ],
-      "summary": "I hate what the anti-paraben movement has achieved. Parabens are safest, most effective and least allergenic preservatives we know . Just a little goes a long way (low % needed) to effectively preserve a product against a multitude of pathogens, they have such a broad effect – but brands are ditching them and now they…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/SkincareAddiction this week"
       ],
       "metrics": {
         "likes": 0,
