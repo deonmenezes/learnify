@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-15T22:53:18.379Z",
+  "generated_at": "2026-08-15T23:27:01.750Z",
   "subs": [
     "MachineLearning",
-    "Fitness",
-    "robotics",
-    "science",
     "artificial",
+    "nutrition",
     "investing",
+    "Fitness",
+    "science",
     "programming",
     "cybersecurity",
     "LocalLLaMA",
@@ -15,18 +15,18 @@
     "running",
     "bodyweightfitness",
     "Futurology",
+    "robotics",
     "gadgets",
     "startups",
     "longevity",
-    "singularity",
-    "nutrition"
+    "singularity"
   ],
   "count": 36,
   "by_category": {
-    "Fitness": 7,
+    "Fitness": 6,
     "Science": 5,
+    "Startups & Funding": 3,
     "AI / ML": 8,
-    "Startups & Funding": 2,
     "Coding & Dev Tools": 5,
     "Security": 3,
     "Hardware & Gadgets": 4,
@@ -105,6 +105,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/science this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vowf2q",
+      "title": "Anthropic is already talking about $200B in 2028 revenue",
+      "link": "https://www.reddit.com/r/investing/comments/1vowf2q/anthropic_is_already_talking_about_200b_in_2028/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/investing · community knowledge",
+      "content_type": "post",
+      "author": "u/FailOk1528 · r/investing",
+      "handle": "investing",
+      "org": "r/investing",
+      "platform": "reddit",
+      "published": "2026-08-15T07:30:28.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/investing"
+      ],
+      "summary": "I saw this Reuters number today and had to read it twice. Anthropic was at about a $47B revenue run rate in May. Now they’re projecting $190–200B for 2028, and apparently those numbers are already part of the IPO valuation discussion. That’s basically 4x the May run rate in two years. Maybe they pull it off. AI growth…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/investing this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1403,46 +1443,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/bodyweightfitness this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vluk78",
-      "title": "Do people avoid fat because it’s high calories per gram or is there another reason?",
-      "link": "https://www.reddit.com/r/nutrition/comments/1vluk78/do_people_avoid_fat_because_its_high_calories_per/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/nutrition · community knowledge",
-      "content_type": "post",
-      "author": "u/goodamm · r/nutrition",
-      "handle": "nutrition",
-      "org": "r/nutrition",
-      "platform": "reddit",
-      "published": "2026-08-11T21:26:03.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Nutrition",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "Nutrition",
-        "r/nutrition"
-      ],
-      "summary": "Like people say they avoid carbs because it gets stored as fat, is there something similar like that with fat or do people just avoid it because it’s the highest in calories? &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/nutrition this week"
       ],
       "metrics": {
         "likes": 0,
