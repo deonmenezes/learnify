@@ -1,12 +1,13 @@
 {
-  "generated_at": "2026-08-16T16:58:15.084Z",
+  "generated_at": "2026-08-16T17:25:53.180Z",
   "subs": [
     "MachineLearning",
-    "bodyweightfitness",
-    "robotics",
+    "singularity",
+    "SkincareAddiction",
     "investing",
     "Fitness",
     "Futurology",
+    "robotics",
     "science",
     "gadgets",
     "artificial",
@@ -14,23 +15,22 @@
     "cybersecurity",
     "LocalLLaMA",
     "hardware",
-    "SkincareAddiction",
     "running",
+    "bodyweightfitness",
     "startups",
-    "longevity",
-    "singularity"
+    "longevity"
   ],
   "count": 36,
   "by_category": {
     "Startups & Funding": 4,
+    "Skincare": 2,
     "Fitness": 3,
     "Science": 5,
     "Robotics": 3,
     "Hardware & Gadgets": 4,
-    "AI / ML": 9,
+    "AI / ML": 8,
     "Coding & Dev Tools": 4,
-    "Security": 3,
-    "Skincare": 1
+    "Security": 3
   },
   "articles": [
     {
@@ -66,6 +66,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/investing this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vponj0",
+      "title": "[Selfie] Finally, I've achieved clear skin!",
+      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1vponj0/selfie_finally_ive_achieved_clear_skin/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/SkincareAddiction · community knowledge",
+      "content_type": "post",
+      "author": "u/Quiet-Chapter6467 · r/SkincareAddiction",
+      "handle": "SkincareAddiction",
+      "org": "r/SkincareAddiction",
+      "platform": "reddit",
+      "published": "2026-08-16T05:38:22.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Skincare",
+      "category": "Skincare",
+      "genre": "Skincare",
+      "categories": [
+        "Reddit",
+        "Skincare",
+        "r/SkincareAddiction"
+      ],
+      "summary": "I have suffered with CC my entire adult life, with a bi weekly angry chin cyst that would appear. I was on tret for years but never saw huge improvements, and still had horrible texture and irritated skin. 3 months ago I finally changed things up and switched to differin gel and azelaic acid. This combo has changed my…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/SkincareAddiction this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1404,46 +1443,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Futurology this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vmbdk6",
-      "title": "I built an \"honest\" CS conference ranking: sorted by how good the trip is, not the CORE ranking [P]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vmbdk6/i_built_an_honest_cs_conference_ranking_sorted_by/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/MachineLearning · community knowledge",
-      "content_type": "post",
-      "author": "u/JohnAZoidberg77 · r/MachineLearning",
-      "handle": "MachineLearning",
-      "org": "r/MachineLearning",
-      "platform": "reddit",
-      "published": "2026-08-12T11:23:32.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/MachineLearning"
-      ],
-      "summary": "Once the paper is ready, everyone checks the venue location before the acceptance rate anyway. So I built: https://honestcsrankings.org It maps ~540 upcoming CORE-ranked conferences, but ranks them by how good the destination actually is. It factors in: Weather during the actual conference month (using real climate…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/MachineLearning this week"
       ],
       "metrics": {
         "likes": 0,
