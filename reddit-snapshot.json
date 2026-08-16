@@ -1,11 +1,10 @@
 {
-  "generated_at": "2026-08-16T14:54:53.107Z",
+  "generated_at": "2026-08-16T15:28:32.065Z",
   "subs": [
     "MachineLearning",
-    "singularity",
-    "SkincareAddiction",
-    "Fitness",
     "Futurology",
+    "gadgets",
+    "Fitness",
     "robotics",
     "science",
     "investing",
@@ -14,11 +13,12 @@
     "cybersecurity",
     "LocalLLaMA",
     "hardware",
+    "SkincareAddiction",
     "running",
     "bodyweightfitness",
-    "gadgets",
     "startups",
-    "longevity"
+    "longevity",
+    "singularity"
   ],
   "count": 36,
   "by_category": {
@@ -26,10 +26,10 @@
     "Science": 6,
     "Robotics": 2,
     "Startups & Funding": 3,
+    "Hardware & Gadgets": 4,
     "AI / ML": 9,
-    "Coding & Dev Tools": 5,
+    "Coding & Dev Tools": 4,
     "Security": 3,
-    "Hardware & Gadgets": 3,
     "Skincare": 1
   },
   "articles": [
@@ -222,6 +222,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/investing this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1voungp",
+      "title": "Compact Fairphone 6+ launches on Tuesday with removable battery and new ARM chip",
+      "link": "https://www.reddit.com/r/gadgets/comments/1voungp/compact_fairphone_6_launches_on_tuesday_with/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/gadgets · community knowledge",
+      "content_type": "post",
+      "author": "u/dapperlemon · r/gadgets",
+      "handle": "gadgets",
+      "org": "r/gadgets",
+      "platform": "reddit",
+      "published": "2026-08-15T05:49:59.000Z",
+      "image": "https://external-preview.redd.it/46WRHSCQtLYXHFxAWw4EXe15bW-KFYVfWmvUB0Bly0g.jpeg?width=640&crop=smart&auto=webp&s=08e93b91855119f2e709fc7f3a26f68ec1934690",
+      "thumbnail": "https://external-preview.redd.it/46WRHSCQtLYXHFxAWw4EXe15bW-KFYVfWmvUB0Bly0g.jpeg?width=640&crop=smart&auto=webp&s=08e93b91855119f2e709fc7f3a26f68ec1934690",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/gadgets"
+      ],
+      "summary": "Compact Fairphone 6+ launches on Tuesday with removable battery and new ARM chip",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/gadgets this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1404,45 +1443,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Fitness this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vm65dm",
-      "title": "The fastest double-to-string algorithm you’ve never heard of",
-      "link": "https://www.reddit.com/r/programming/comments/1vm65dm/the_fastest_doubletostring_algorithm_youve_never/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/programming · community knowledge",
-      "content_type": "post",
-      "author": "u/mttd · r/programming",
-      "handle": "programming",
-      "org": "r/programming",
-      "platform": "reddit",
-      "published": "2026-08-12T06:25:39.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Coding & Dev Tools",
-      "category": "Coding & Dev Tools",
-      "genre": "Coding & Dev Tools",
-      "categories": [
-        "Reddit",
-        "Coding & Dev Tools",
-        "r/programming"
-      ],
-      "summary": "The fastest double-to-string algorithm you’ve never heard of",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/programming this week"
       ],
       "metrics": {
         "likes": 0,
