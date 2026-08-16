@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-16T10:30:29.848Z",
+  "generated_at": "2026-08-16T10:54:18.268Z",
   "subs": [
     "MachineLearning",
-    "Futurology",
-    "gadgets",
     "Fitness",
+    "robotics",
+    "Futurology",
     "science",
     "investing",
     "artificial",
@@ -15,7 +15,7 @@
     "SkincareAddiction",
     "running",
     "bodyweightfitness",
-    "robotics",
+    "gadgets",
     "startups",
     "longevity",
     "singularity"
@@ -24,13 +24,13 @@
   "by_category": {
     "Fitness": 5,
     "Science": 6,
+    "Robotics": 2,
     "Startups & Funding": 3,
     "AI / ML": 8,
     "Coding & Dev Tools": 5,
     "Security": 3,
-    "Hardware & Gadgets": 4,
-    "Skincare": 1,
-    "Robotics": 1
+    "Hardware & Gadgets": 3,
+    "Skincare": 1
   },
   "articles": [
     {
@@ -104,6 +104,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Futurology this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vp27ra",
+      "title": "Built a small autonomous household robot that can complete tasks end to end",
+      "link": "https://www.reddit.com/r/robotics/comments/1vp27ra/built_a_small_autonomous_household_robot_that_can/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/robotics · community knowledge",
+      "content_type": "post",
+      "author": "u/bobergsatoko · r/robotics",
+      "handle": "robotics",
+      "org": "r/robotics",
+      "platform": "reddit",
+      "published": "2026-08-15T12:57:19.000Z",
+      "image": "https://external-preview.redd.it/dDU1bjJmYXBkampoMVdAB6AZuUNqRHab9XBdhqbD-TxYlam38Bxeoqb67b5w.jpeg?width=640&crop=smart&auto=webp&s=858b34616577b72d848270d8e9d95907dd5720ff",
+      "thumbnail": "https://external-preview.redd.it/dDU1bjJmYXBkampoMVdAB6AZuUNqRHab9XBdhqbD-TxYlam38Bxeoqb67b5w.jpeg?width=640&crop=smart&auto=webp&s=858b34616577b72d848270d8e9d95907dd5720ff",
+      "section": "Robotics",
+      "category": "Robotics",
+      "genre": "Robotics",
+      "categories": [
+        "Reddit",
+        "Robotics",
+        "r/robotics"
+      ],
+      "summary": "I’ve been working on this robot project for a while and finally got it to the point where it can complete a full task autonomously. It explores and navigates the room, localize objects, approach them and manipulate them with the arm. I built the XLeRobot myself, printing the parts, getting cheap servos, wiring it…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/robotics this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1403,45 +1442,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/running this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vlzyr4",
-      "title": "Samsung Odyssey G80HS Monitor Review: 6K Isn’t the Future of Gaming",
-      "link": "https://www.reddit.com/r/gadgets/comments/1vlzyr4/samsung_odyssey_g80hs_monitor_review_6k_isnt_the/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/gadgets · community knowledge",
-      "content_type": "post",
-      "author": "u/dapperlemon · r/gadgets",
-      "handle": "gadgets",
-      "org": "r/gadgets",
-      "platform": "reddit",
-      "published": "2026-08-12T01:13:00.000Z",
-      "image": "https://external-preview.redd.it/bArV5d444J68pahvwcIF8QbKi9duy1voxNRAxNmPqs0.jpeg?width=640&crop=smart&auto=webp&s=69838dd23c313daf2bf09c0635dc0cefdd6b0145",
-      "thumbnail": "https://external-preview.redd.it/bArV5d444J68pahvwcIF8QbKi9duy1voxNRAxNmPqs0.jpeg?width=640&crop=smart&auto=webp&s=69838dd23c313daf2bf09c0635dc0cefdd6b0145",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/gadgets"
-      ],
-      "summary": "Samsung Odyssey G80HS Monitor Review: 6K Isn’t the Future of Gaming",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/gadgets this week"
       ],
       "metrics": {
         "likes": 0,
