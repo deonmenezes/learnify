@@ -1,13 +1,14 @@
 {
-  "generated_at": "2026-08-16T22:27:53.998Z",
+  "generated_at": "2026-08-16T22:52:12.345Z",
   "subs": [
     "MachineLearning",
-    "singularity",
-    "SkincareAddiction",
+    "LocalLLaMA",
+    "bodyweightfitness",
+    "startups",
     "hardware",
     "investing",
-    "startups",
     "nutrition",
+    "SkincareAddiction",
     "Fitness",
     "Futurology",
     "robotics",
@@ -16,9 +17,7 @@
     "artificial",
     "programming",
     "cybersecurity",
-    "LocalLLaMA",
     "running",
-    "bodyweightfitness",
     "longevity"
   ],
   "count": 36,
@@ -26,12 +25,12 @@
     "Hardware & Gadgets": 5,
     "Startups & Funding": 6,
     "AI / ML": 6,
-    "Fitness": 4,
+    "Fitness": 5,
     "Skincare": 2,
     "Science": 4,
     "Robotics": 3,
     "Coding & Dev Tools": 3,
-    "Security": 3
+    "Security": 2
   },
   "articles": [
     {
@@ -864,6 +863,45 @@
       }
     },
     {
+      "id": "reddit_1vnxy54",
+      "title": "rr workout getting really long and difficult",
+      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1vnxy54/rr_workout_getting_really_long_and_difficult/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/bodyweightfitness · community knowledge",
+      "content_type": "post",
+      "author": "u/mimiimimimiiiiimi · r/bodyweightfitness",
+      "handle": "bodyweightfitness",
+      "org": "r/bodyweightfitness",
+      "platform": "reddit",
+      "published": "2026-08-14T05:05:59.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Fitness",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "r/bodyweightfitness"
+      ],
+      "summary": "hello, I&#39;ve been doing the recommended routine for 3 months 3 times a week as suggested. I&#39;ve seen a lot of progress and my body is adapting well to the training. the only issue i have is that the training gets really long. i push myself as much as i can but by the time i get to the core triplet i am exhausted…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/bodyweightfitness this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1vnnxhe",
       "title": "Slapping Windows 11 PCs with a Copilot key was a terrible idea, and it's already outdated as Microsoft just released a new icon",
       "link": "https://www.reddit.com/r/hardware/comments/1vnnxhe/slapping_windows_11_pcs_with_a_copilot_key_was_a/",
@@ -1406,45 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/longevity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vmhzd4",
-      "title": "Do you guys actually enjoy working in cybersecurity?",
-      "link": "https://www.reddit.com/r/cybersecurity/comments/1vmhzd4/do_you_guys_actually_enjoy_working_in/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/cybersecurity · community knowledge",
-      "content_type": "post",
-      "author": "u/Glittering_Fig4548 · r/cybersecurity",
-      "handle": "cybersecurity",
-      "org": "r/cybersecurity",
-      "platform": "reddit",
-      "published": "2026-08-12T15:51:33.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/cybersecurity"
-      ],
-      "summary": "I know some people hate it and describe a lot of work roles as soul crushing. &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/cybersecurity this week"
       ],
       "metrics": {
         "likes": 0,
