@@ -1,38 +1,77 @@
 {
-  "generated_at": "2026-08-16T21:26:59.745Z",
+  "generated_at": "2026-08-16T21:50:22.127Z",
   "subs": [
     "MachineLearning",
-    "artificial",
-    "nutrition",
+    "Fitness",
+    "hardware",
     "investing",
     "startups",
+    "nutrition",
     "SkincareAddiction",
-    "Fitness",
     "Futurology",
     "robotics",
     "science",
     "gadgets",
+    "artificial",
     "programming",
     "cybersecurity",
     "LocalLLaMA",
-    "hardware",
     "running",
     "bodyweightfitness",
     "longevity"
   ],
   "count": 36,
   "by_category": {
+    "Hardware & Gadgets": 5,
     "Startups & Funding": 6,
-    "AI / ML": 7,
+    "AI / ML": 6,
     "Fitness": 4,
     "Skincare": 2,
     "Science": 4,
     "Robotics": 3,
-    "Hardware & Gadgets": 4,
     "Coding & Dev Tools": 3,
     "Security": 3
   },
   "articles": [
+    {
+      "id": "reddit_1vpz1s8",
+      "title": "RTINGS - OLED Burn-In Hasn't Improved Like We Expected",
+      "link": "https://www.reddit.com/r/hardware/comments/1vpz1s8/rtings_oled_burnin_hasnt_improved_like_we_expected/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/hardware · community knowledge",
+      "content_type": "post",
+      "author": "u/Antonis_32 · r/hardware",
+      "handle": "hardware",
+      "org": "r/hardware",
+      "platform": "reddit",
+      "published": "2026-08-16T14:51:43.000Z",
+      "image": "https://external-preview.redd.it/SVn_LV3mwY6Igw0B6xCAA8K7ujx7KZ2BN60PX4B3iHs.jpeg?width=640&crop=smart&auto=webp&s=607327e57775ec77e20d924707545ce9b05c058c",
+      "thumbnail": "https://external-preview.redd.it/SVn_LV3mwY6Igw0B6xCAA8K7ujx7KZ2BN60PX4B3iHs.jpeg?width=640&crop=smart&auto=webp&s=607327e57775ec77e20d924707545ce9b05c058c",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/hardware"
+      ],
+      "summary": "RTINGS - OLED Burn-In Hasn't Improved Like We Expected",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/hardware this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1vpw0vo",
       "title": "Anyone else shocked by the amount of people that have the means but dont invest or have retirement?",
@@ -1405,46 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/cybersecurity this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vmhks7",
-      "title": "Would you choose a PhD advisor who gives you complete freedom but almost no guidance? [D]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vmhks7/would_you_choose_a_phd_advisor_who_gives_you/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/MachineLearning · community knowledge",
-      "content_type": "post",
-      "author": "u/Hope999991 · r/MachineLearning",
-      "handle": "MachineLearning",
-      "org": "r/MachineLearning",
-      "platform": "reddit",
-      "published": "2026-08-12T15:36:44.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/MachineLearning"
-      ],
-      "summary": "It’s an ML PhD with secure funding for 4–5 years and a senior, respected advisor. You get almost complete freedom to choose your own topics, projects, and collaborations, with very little micromanagement. The downside is that the advisor is also very hands-off. You should expect little guidance, feedback, or technical…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/MachineLearning this week"
       ],
       "metrics": {
         "likes": 0,
