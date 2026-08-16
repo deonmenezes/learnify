@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-16T16:32:43.838Z",
+  "generated_at": "2026-08-16T16:58:15.084Z",
   "subs": [
     "MachineLearning",
-    "science",
-    "cybersecurity",
+    "bodyweightfitness",
+    "robotics",
     "investing",
     "Fitness",
     "Futurology",
-    "robotics",
+    "science",
     "gadgets",
     "artificial",
     "programming",
+    "cybersecurity",
     "LocalLLaMA",
     "hardware",
     "SkincareAddiction",
     "running",
-    "bodyweightfitness",
     "startups",
     "longevity",
     "singularity"
@@ -24,8 +24,8 @@
   "by_category": {
     "Startups & Funding": 4,
     "Fitness": 3,
-    "Science": 6,
-    "Robotics": 2,
+    "Science": 5,
+    "Robotics": 3,
     "Hardware & Gadgets": 4,
     "AI / ML": 9,
     "Coding & Dev Tools": 4,
@@ -176,6 +176,45 @@
         "r/robotics"
       ],
       "summary": "I’ve been working on this robot project for a while and finally got it to the point where it can complete a full task autonomously. It explores and navigates the room, localize objects, approach them and manipulate them with the arm. I built the XLeRobot myself, printing the parts, getting cheap servos, wiring it…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/robotics this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vp0pml",
+      "title": "Bonsai just hit a 100,000 downloads on crates.io! 🎉",
+      "link": "https://www.reddit.com/r/robotics/comments/1vp0pml/bonsai_just_hit_a_100000_downloads_on_cratesio/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/robotics · community knowledge",
+      "content_type": "post",
+      "author": "u/Sollimann · r/robotics",
+      "handle": "robotics",
+      "org": "r/robotics",
+      "platform": "reddit",
+      "published": "2026-08-15T11:43:44.000Z",
+      "image": "https://preview.redd.it/40l6p9hc0jjh1.gif?width=640&crop=smart&s=417a9b0769c932ee6d0a0f2c94178344aefcb4b4",
+      "thumbnail": "https://preview.redd.it/40l6p9hc0jjh1.gif?width=640&crop=smart&s=417a9b0769c932ee6d0a0f2c94178344aefcb4b4",
+      "section": "Robotics",
+      "category": "Robotics",
+      "genre": "Robotics",
+      "categories": [
+        "Reddit",
+        "Robotics",
+        "r/robotics"
+      ],
+      "summary": "A little over 4 years ago I started Bonsai as a side project: a Rust library for building complex, deterministic AI behavior with behavior trees. It has since found its way into a wide range of applications. The video shows two of them: on the left, a Titanfall 2 gameplay where all the players except the first person…",
       "is_social": true,
       "report_worthy": true,
       "worthiness_score": 62,
@@ -1405,45 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vmazht",
-      "title": "Testing of 113 personal care and cleaning products (from Target, Amazon, Walmart, Dollar Tree) found 85% contained unlabeled chemicals with known or suspected health hazards, and one in four contained chemicals contradicting package claims, including synthetic chemicals in products \"100% natural”",
-      "link": "https://www.reddit.com/r/science/comments/1vmazht/testing_of_113_personal_care_and_cleaning/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/science · community knowledge",
-      "content_type": "post",
-      "author": "u/sr_local · r/science",
-      "handle": "science",
-      "org": "r/science",
-      "platform": "reddit",
-      "published": "2026-08-12T11:03:44.000Z",
-      "image": "https://external-preview.redd.it/Ei1OsAOVosSqOXSIzE8wZ_Fo7iUTEdwT5-5OXaGbC90.jpeg?width=640&crop=smart&auto=webp&s=494d73a71252b274262597c824e8813114104ae4",
-      "thumbnail": "https://external-preview.redd.it/Ei1OsAOVosSqOXSIzE8wZ_Fo7iUTEdwT5-5OXaGbC90.jpeg?width=640&crop=smart&auto=webp&s=494d73a71252b274262597c824e8813114104ae4",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/science"
-      ],
-      "summary": "Testing of 113 personal care and cleaning products (from Target, Amazon, Walmart, Dollar Tree) found 85% contained unlabeled chemicals with known or suspected health hazards, and one in four contained chemicals contradicting package claims, including synthetic chemicals in products \"100% natural”",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/science this week"
       ],
       "metrics": {
         "likes": 0,
