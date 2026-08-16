@@ -1,16 +1,17 @@
 {
-  "generated_at": "2026-08-16T20:53:18.751Z",
+  "generated_at": "2026-08-16T21:26:59.745Z",
   "subs": [
     "MachineLearning",
-    "Fitness",
-    "robotics",
+    "artificial",
+    "nutrition",
     "investing",
     "startups",
     "SkincareAddiction",
+    "Fitness",
     "Futurology",
+    "robotics",
     "science",
     "gadgets",
-    "artificial",
     "programming",
     "cybersecurity",
     "LocalLLaMA",
@@ -23,12 +24,12 @@
   "by_category": {
     "Startups & Funding": 6,
     "AI / ML": 7,
+    "Fitness": 4,
     "Skincare": 2,
-    "Fitness": 3,
     "Science": 4,
     "Robotics": 3,
     "Hardware & Gadgets": 4,
-    "Coding & Dev Tools": 4,
+    "Coding & Dev Tools": 3,
     "Security": 3
   },
   "articles": [
@@ -185,6 +186,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vprjq9",
+      "title": "dried herbs vs dried herbs brew, benefits",
+      "link": "https://www.reddit.com/r/nutrition/comments/1vprjq9/dried_herbs_vs_dried_herbs_brew_benefits/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/nutrition · community knowledge",
+      "content_type": "post",
+      "author": "u/Creative_Volume_2022 · r/nutrition",
+      "handle": "nutrition",
+      "org": "r/nutrition",
+      "platform": "reddit",
+      "published": "2026-08-16T08:25:15.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Nutrition",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "Nutrition",
+        "r/nutrition"
+      ],
+      "summary": "hello, lets say for oregano (but for others too) which has many benefits and antioxidants... can we &quot;get&quot; more benefits and antioxidants when we brew them (hot, warm or cold) over using it as &quot;spice&quot;? thanks, couldnt google the answer so if there is someone from biochemistry lets go :D &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/nutrition this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1404,45 +1445,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vmhj23",
-      "title": "Hardware researcher spins up 'CPU deoptimization' project to find the slowest single x86 instruction, creates hall of shame — worst offender takes 198 billion cycles spanning 62 seconds to execute",
-      "link": "https://www.reddit.com/r/programming/comments/1vmhj23/hardware_researcher_spins_up_cpu_deoptimization/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/programming · community knowledge",
-      "content_type": "post",
-      "author": "u/masiroo · r/programming",
-      "handle": "programming",
-      "org": "r/programming",
-      "platform": "reddit",
-      "published": "2026-08-12T15:34:56.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Coding & Dev Tools",
-      "category": "Coding & Dev Tools",
-      "genre": "Coding & Dev Tools",
-      "categories": [
-        "Reddit",
-        "Coding & Dev Tools",
-        "r/programming"
-      ],
-      "summary": "Hardware researcher spins up 'CPU deoptimization' project to find the slowest single x86 instruction, creates hall of shame — worst offender takes 198 billion cycles spanning 62 seconds to execute",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/programming this week"
       ],
       "metrics": {
         "likes": 0,
