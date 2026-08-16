@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-16T13:37:40.483Z",
+  "generated_at": "2026-08-16T14:29:59.079Z",
   "subs": [
     "MachineLearning",
-    "science",
-    "netsec",
+    "artificial",
+    "nutrition",
     "Fitness",
     "Futurology",
     "robotics",
+    "science",
     "investing",
-    "artificial",
     "programming",
     "cybersecurity",
     "LocalLLaMA",
@@ -23,11 +23,11 @@
   ],
   "count": 36,
   "by_category": {
-    "Fitness": 5,
+    "Fitness": 4,
     "Science": 6,
     "Robotics": 2,
     "Startups & Funding": 3,
-    "AI / ML": 8,
+    "AI / ML": 9,
     "Coding & Dev Tools": 5,
     "Security": 3,
     "Hardware & Gadgets": 3,
@@ -821,6 +821,46 @@
       }
     },
     {
+      "id": "reddit_1vmzg8k",
+      "title": "Venice Teen Arrested For Planning Mass Shooting At Church. Shared a 61 page AI-generated manifesto online.",
+      "link": "https://www.reddit.com/r/artificial/comments/1vmzg8k/venice_teen_arrested_for_planning_mass_shooting/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/artificial · community knowledge",
+      "content_type": "post",
+      "author": "u/coolbern · r/artificial",
+      "handle": "artificial",
+      "org": "r/artificial",
+      "platform": "reddit",
+      "published": "2026-08-13T03:28:50.000Z",
+      "image": "https://external-preview.redd.it/hV-evT2jZkWdDH064rknRufXlZbcNact-80xgzoWcNc.png?width=640&crop=smart&auto=webp&s=0f5db5e9cfbadb08536d895515724a59aebfb7d6",
+      "thumbnail": "https://external-preview.redd.it/hV-evT2jZkWdDH064rknRufXlZbcNact-80xgzoWcNc.png?width=640&crop=smart&auto=webp&s=0f5db5e9cfbadb08536d895515724a59aebfb7d6",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/artificial"
+      ],
+      "summary": "Venice Teen Arrested For Planning Mass Shooting At Church. Shared a 61 page AI-generated manifesto online.",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/artificial this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1vmu6fp",
       "title": "CXMT Surpasses 90% DDR5 Yield, Challenges Industry Giants",
       "link": "https://www.reddit.com/r/hardware/comments/1vmu6fp/cxmt_surpasses_90_ddr5_yield_challenges_industry/",
@@ -1404,45 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/programming this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vm0pm7",
-      "title": "What’s the worst nutrition advice you’ve ever received? (From a non-runner)",
-      "link": "https://www.reddit.com/r/running/comments/1vm0pm7/whats_the_worst_nutrition_advice_youve_ever/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/running · community knowledge",
-      "content_type": "post",
-      "author": "u/Alert_East_6207 · r/running",
-      "handle": "running",
-      "org": "r/running",
-      "platform": "reddit",
-      "published": "2026-08-12T01:47:47.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/running"
-      ],
-      "summary": "As an endurance runner discussing nutrition with someone who doesn’t train is the worst ever. &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/running this week"
       ],
       "metrics": {
         "likes": 0,
