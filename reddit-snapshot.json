@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-08-16T15:28:32.065Z",
+  "generated_at": "2026-08-16T15:52:05.392Z",
   "subs": [
     "MachineLearning",
-    "Futurology",
-    "gadgets",
+    "LocalLLaMA",
+    "running",
+    "investing",
     "Fitness",
+    "Futurology",
     "robotics",
     "science",
-    "investing",
+    "gadgets",
     "artificial",
     "programming",
     "cybersecurity",
-    "LocalLLaMA",
     "hardware",
     "SkincareAddiction",
-    "running",
     "bodyweightfitness",
     "startups",
     "longevity",
@@ -22,10 +22,10 @@
   ],
   "count": 36,
   "by_category": {
-    "Fitness": 4,
+    "Startups & Funding": 4,
+    "Fitness": 3,
     "Science": 6,
     "Robotics": 2,
-    "Startups & Funding": 3,
     "Hardware & Gadgets": 4,
     "AI / ML": 9,
     "Coding & Dev Tools": 4,
@@ -33,6 +33,46 @@
     "Skincare": 1
   },
   "articles": [
+    {
+      "id": "reddit_1vpw0vo",
+      "title": "Anyone else shocked by the amount of people that have the means but dont invest or have retirement?",
+      "link": "https://www.reddit.com/r/investing/comments/1vpw0vo/anyone_else_shocked_by_the_amount_of_people_that/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/investing · community knowledge",
+      "content_type": "post",
+      "author": "u/Old-Challenge2809 · r/investing",
+      "handle": "investing",
+      "org": "r/investing",
+      "platform": "reddit",
+      "published": "2026-08-16T12:40:09.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Startups & Funding",
+      "category": "Startups & Funding",
+      "genre": "Finance",
+      "categories": [
+        "Reddit",
+        "Startups & Funding",
+        "Finance",
+        "r/investing"
+      ],
+      "summary": "41M At my job I have a 401k and will hopefully have a pension by the time I retire. I was always having 5% taken out since Ive been here and in the last two years upped it to 7% and now 9% pre tax and now 2% Roth. I maxed out my Roth IRA this year for the first time and am sitting at $140,000 in my retirement accounts…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/investing this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1vpd519",
       "title": "The best gym days are when you forget to start your watch",
@@ -1404,45 +1444,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/science this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vm8r8r",
-      "title": "Rant Wednesday - August 12, 2026",
-      "link": "https://www.reddit.com/r/Fitness/comments/1vm8r8r/rant_wednesday_august_12_2026/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/Fitness · community knowledge",
-      "content_type": "post",
-      "author": "u/AutoModerator · r/Fitness",
-      "handle": "Fitness",
-      "org": "r/Fitness",
-      "platform": "reddit",
-      "published": "2026-08-12T09:00:28.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/Fitness"
-      ],
-      "summary": "Welcome to Rant Wednesday: It’s your time to let your gym/fitness/nutrition related frustrations out! There is no guiding question to help stir up some rage-feels, feel free to fire at will, ranting about anything and everything that’s been pissing you off or getting on your nerves. Just don&#39;t forget that other…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/Fitness this week"
       ],
       "metrics": {
         "likes": 0,
