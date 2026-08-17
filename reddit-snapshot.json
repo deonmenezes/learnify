@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-17T07:04:58.077Z",
+  "generated_at": "2026-08-17T08:11:56.025Z",
   "subs": [
     "MachineLearning",
-    "artificial",
+    "singularity",
     "nutrition",
     "hardware",
     "investing",
@@ -14,6 +14,7 @@
     "robotics",
     "science",
     "gadgets",
+    "artificial",
     "programming",
     "LocalLLaMA",
     "bodyweightfitness",
@@ -23,9 +24,9 @@
   "count": 36,
   "by_category": {
     "Fitness": 6,
-    "Hardware & Gadgets": 5,
+    "AI / ML": 7,
+    "Hardware & Gadgets": 4,
     "Startups & Funding": 5,
-    "AI / ML": 6,
     "Security": 4,
     "Skincare": 2,
     "Science": 3,
@@ -66,6 +67,46 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/nutrition this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vq6vla",
+      "title": "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
+      "link": "https://www.reddit.com/r/singularity/comments/1vq6vla/young_people_hate_ai_ceos_so_passionately_that/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/singularity · community knowledge",
+      "content_type": "post",
+      "author": "u/BubBidderskins · r/singularity",
+      "handle": "singularity",
+      "org": "r/singularity",
+      "platform": "reddit",
+      "published": "2026-08-16T19:55:58.000Z",
+      "image": "https://external-preview.redd.it/YkylK7QNBviQl1A3Yi8xsvQCfhpu2IQHbNXxT7dNyWs.jpeg?width=640&crop=smart&auto=webp&s=afaa1fafb1194f51552f3bcec7cdc1ef17566abb",
+      "thumbnail": "https://external-preview.redd.it/YkylK7QNBviQl1A3Yi8xsvQCfhpu2IQHbNXxT7dNyWs.jpeg?width=640&crop=smart&auto=webp&s=afaa1fafb1194f51552f3bcec7cdc1ef17566abb",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/singularity"
+      ],
+      "summary": "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/singularity this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1404,45 +1445,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/hardware this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vmoszu",
-      "title": "US immigration officers to be equipped with gloves that deliver electric shocks",
-      "link": "https://www.reddit.com/r/gadgets/comments/1vmoszu/us_immigration_officers_to_be_equipped_with/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/gadgets · community knowledge",
-      "content_type": "post",
-      "author": "u/diacewrb · r/gadgets",
-      "handle": "gadgets",
-      "org": "r/gadgets",
-      "platform": "reddit",
-      "published": "2026-08-12T19:56:25.000Z",
-      "image": "https://external-preview.redd.it/AFX2ECcWTFnsZKFNFKryMlS5TSMTQvIB45OxCavrpgM.jpeg?width=640&crop=smart&auto=webp&s=e0819b9205df6b5b572d97b42e402e473e933cdb",
-      "thumbnail": "https://external-preview.redd.it/AFX2ECcWTFnsZKFNFKryMlS5TSMTQvIB45OxCavrpgM.jpeg?width=640&crop=smart&auto=webp&s=e0819b9205df6b5b572d97b42e402e473e933cdb",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/gadgets"
-      ],
-      "summary": "US immigration officers to be equipped with gloves that deliver electric shocks",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/gadgets this week"
       ],
       "metrics": {
         "likes": 0,
