@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-08-17T17:33:06.124Z",
+  "generated_at": "2026-08-17T18:01:50.775Z",
   "subs": [
     "MachineLearning",
-    "LocalLLaMA",
-    "running",
-    "investing",
+    "programming",
+    "SkincareAddiction",
     "longevity",
     "nutrition",
     "singularity",
     "hardware",
+    "investing",
     "startups",
     "cybersecurity",
-    "SkincareAddiction",
     "Fitness",
     "Futurology",
     "robotics",
     "science",
     "gadgets",
     "artificial",
-    "programming",
+    "LocalLLaMA",
     "bodyweightfitness",
-    "netsec"
+    "netsec",
+    "running"
   ],
   "count": 36,
   "by_category": {
-    "Science": 6,
+    "Science": 5,
+    "Coding & Dev Tools": 3,
     "Fitness": 7,
     "AI / ML": 6,
     "Hardware & Gadgets": 3,
     "Startups & Funding": 5,
     "Security": 3,
     "Skincare": 2,
-    "Robotics": 2,
-    "Coding & Dev Tools": 2
+    "Robotics": 2
   },
   "articles": [
     {
@@ -68,6 +68,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/longevity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vqukkf",
+      "title": "Nothing like a Monday morning GitHub outage",
+      "link": "https://www.reddit.com/r/programming/comments/1vqukkf/nothing_like_a_monday_morning_github_outage/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/programming · community knowledge",
+      "content_type": "post",
+      "author": "u/Jwosty · r/programming",
+      "handle": "programming",
+      "org": "r/programming",
+      "platform": "reddit",
+      "published": "2026-08-17T14:53:18.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Coding & Dev Tools",
+      "category": "Coding & Dev Tools",
+      "genre": "Coding & Dev Tools",
+      "categories": [
+        "Reddit",
+        "Coding & Dev Tools",
+        "r/programming"
+      ],
+      "summary": "Nothing like a Monday morning GitHub outage",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/programming this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1410,45 +1449,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/bodyweightfitness this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vna3eg",
-      "title": "Chinese bullet train goes from 0 to 800kmph in 5 seconds",
-      "link": "https://www.reddit.com/r/Futurology/comments/1vna3eg/chinese_bullet_train_goes_from_0_to_800kmph_in_5/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/Futurology · community knowledge",
-      "content_type": "post",
-      "author": "u/Confident_Salt_8108 · r/Futurology",
-      "handle": "Futurology",
-      "org": "r/Futurology",
-      "platform": "reddit",
-      "published": "2026-08-13T13:01:55.000Z",
-      "image": "https://external-preview.redd.it/jYZ6btC_9amGOkYqtOvgL1C-5QUEp3YR2zwRJRKGzKc.jpeg?width=640&crop=smart&auto=webp&s=194644051c54f4e9582c0588b16cc396d5dea9da",
-      "thumbnail": "https://external-preview.redd.it/jYZ6btC_9amGOkYqtOvgL1C-5QUEp3YR2zwRJRKGzKc.jpeg?width=640&crop=smart&auto=webp&s=194644051c54f4e9582c0588b16cc396d5dea9da",
-      "section": "Science",
-      "category": "Science",
-      "genre": "Science",
-      "categories": [
-        "Reddit",
-        "Science",
-        "r/Futurology"
-      ],
-      "summary": "Chinese bullet train goes from 0 to 800kmph in 5 seconds",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/Futurology this week"
       ],
       "metrics": {
         "likes": 0,
