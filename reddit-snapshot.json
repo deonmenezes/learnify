@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-17T05:41:19.164Z",
+  "generated_at": "2026-08-17T07:04:58.077Z",
   "subs": [
     "MachineLearning",
-    "Fitness",
-    "robotics",
+    "artificial",
+    "nutrition",
     "hardware",
     "investing",
     "startups",
     "cybersecurity",
-    "nutrition",
     "SkincareAddiction",
+    "Fitness",
     "Futurology",
+    "robotics",
     "science",
     "gadgets",
-    "artificial",
     "programming",
     "LocalLLaMA",
     "bodyweightfitness",
@@ -22,17 +22,57 @@
   ],
   "count": 36,
   "by_category": {
+    "Fitness": 6,
     "Hardware & Gadgets": 5,
     "Startups & Funding": 5,
     "AI / ML": 6,
     "Security": 4,
-    "Fitness": 5,
     "Skincare": 2,
     "Science": 3,
     "Robotics": 3,
-    "Coding & Dev Tools": 3
+    "Coding & Dev Tools": 2
   },
   "articles": [
+    {
+      "id": "reddit_1vqjfar",
+      "title": "Is it okay to eat amla(Indian gooseberry)every day throughout the year?",
+      "link": "https://www.reddit.com/r/nutrition/comments/1vqjfar/is_it_okay_to_eat_amlaindian_gooseberryevery_day/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/nutrition · community knowledge",
+      "content_type": "post",
+      "author": "u/Original-Height-1646 · r/nutrition",
+      "handle": "nutrition",
+      "org": "r/nutrition",
+      "platform": "reddit",
+      "published": "2026-08-17T05:33:03.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Nutrition",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "Nutrition",
+        "r/nutrition"
+      ],
+      "summary": "Generally speaking is it okay to eat amla nearly every day of the year? During the season fresh amla can be eaten, and during the off-season fresh amla could be stored in the refrigerator/freezer and consumed later. Is there any issue with eating it this regularly throughout the year, or is it better to take breaks…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/nutrition this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1vpz1s8",
       "title": "RTINGS - OLED Burn-In Hasn't Improved Like We Expected",
@@ -1403,45 +1443,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/gadgets this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vmoddq",
-      "title": "Linus Torvalds Explains What Makes Linux So Fast",
-      "link": "https://www.reddit.com/r/programming/comments/1vmoddq/linus_torvalds_explains_what_makes_linux_so_fast/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/programming · community knowledge",
-      "content_type": "post",
-      "author": "u/Rechenplaner · r/programming",
-      "handle": "programming",
-      "org": "r/programming",
-      "platform": "reddit",
-      "published": "2026-08-12T19:40:18.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Coding & Dev Tools",
-      "category": "Coding & Dev Tools",
-      "genre": "Coding & Dev Tools",
-      "categories": [
-        "Reddit",
-        "Coding & Dev Tools",
-        "r/programming"
-      ],
-      "summary": "Linus Torvalds Explains What Makes Linux So Fast",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/programming this week"
       ],
       "metrics": {
         "likes": 0,
