@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-08-17T03:56:22.078Z",
+  "generated_at": "2026-08-17T04:49:42.332Z",
   "subs": [
     "MachineLearning",
-    "Fitness",
+    "science",
+    "cybersecurity",
     "hardware",
     "investing",
     "startups",
     "nutrition",
     "SkincareAddiction",
+    "Fitness",
     "Futurology",
     "robotics",
-    "science",
     "gadgets",
     "artificial",
     "programming",
-    "cybersecurity",
     "LocalLLaMA",
     "bodyweightfitness",
     "netsec",
@@ -23,14 +23,14 @@
   "count": 36,
   "by_category": {
     "Hardware & Gadgets": 5,
-    "Startups & Funding": 6,
+    "Startups & Funding": 5,
     "AI / ML": 6,
+    "Security": 4,
     "Fitness": 5,
     "Skincare": 2,
     "Science": 3,
     "Robotics": 3,
-    "Coding & Dev Tools": 3,
-    "Security": 3
+    "Coding & Dev Tools": 3
   },
   "articles": [
     {
@@ -225,6 +225,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/MachineLearning this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vprtfn",
+      "title": "massive azure exfiltration campaign impacts global brands - mcdonald’s, vodafone, and others",
+      "link": "https://www.reddit.com/r/cybersecurity/comments/1vprtfn/massive_azure_exfiltration_campaign_impacts/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/cybersecurity · community knowledge",
+      "content_type": "post",
+      "author": "u/Malwarebeasts · r/cybersecurity",
+      "handle": "cybersecurity",
+      "org": "r/cybersecurity",
+      "platform": "reddit",
+      "published": "2026-08-16T08:42:05.000Z",
+      "image": "https://external-preview.redd.it/4k3juQR5X8XKsicLjyRQDdLzIisAXGrEVLh4-kwjL20.png?width=640&crop=smart&auto=webp&s=dd92d349d148ff1efae6952695041470a7f5c0df",
+      "thumbnail": "https://external-preview.redd.it/4k3juQR5X8XKsicLjyRQDdLzIisAXGrEVLh4-kwjL20.png?width=640&crop=smart&auto=webp&s=dd92d349d148ff1efae6952695041470a7f5c0df",
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/cybersecurity"
+      ],
+      "summary": "Over the past week, a threat actor operating under the moniker “TheHatman” has flooded cybercrime forums with massive internal employee directories belonging to several Fortune 500 companies. The actor claims these dumps were extracted directly from the organizations’ Azure Tenants. &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/cybersecurity this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1403,46 +1442,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/programming this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vmloqz",
-      "title": "How did you get over the fear of judgement of putting yourself and your startup out in the public view? I will not promote",
-      "link": "https://www.reddit.com/r/startups/comments/1vmloqz/how_did_you_get_over_the_fear_of_judgement_of/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/startups · community knowledge",
-      "content_type": "post",
-      "author": "u/m_yoda20 · r/startups",
-      "handle": "startups",
-      "org": "r/startups",
-      "platform": "reddit",
-      "published": "2026-08-12T18:02:31.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Startups & Funding",
-      "category": "Startups & Funding",
-      "genre": "Finance",
-      "categories": [
-        "Reddit",
-        "Startups & Funding",
-        "Finance",
-        "r/startups"
-      ],
-      "summary": "A lot of builders go through the journey of building and then struggling to sell because it&#39;s a completely different type of challenge. I&#39;m looking to understand how folks got over this barrier to sell successfully and what your best advice is on this topic &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/startups this week"
       ],
       "metrics": {
         "likes": 0,
