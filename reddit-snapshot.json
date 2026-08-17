@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-17T22:57:26.119Z",
+  "generated_at": "2026-08-17T23:29:56.920Z",
   "subs": [
     "MachineLearning",
+    "singularity",
+    "nutrition",
     "longevity",
-    "hardware",
     "programming",
     "Futurology",
     "netsec",
-    "nutrition",
-    "singularity",
+    "hardware",
     "investing",
     "startups",
     "cybersecurity",
@@ -23,17 +23,97 @@
   ],
   "count": 36,
   "by_category": {
+    "Fitness": 6,
+    "AI / ML": 7,
     "Science": 6,
     "Coding & Dev Tools": 3,
-    "Security": 4,
-    "Hardware & Gadgets": 4,
-    "Fitness": 5,
-    "AI / ML": 6,
+    "Security": 3,
+    "Hardware & Gadgets": 3,
     "Startups & Funding": 5,
     "Skincare": 1,
     "Robotics": 2
   },
   "articles": [
+    {
+      "id": "reddit_1vr206e",
+      "title": "Sugar Replacement?",
+      "link": "https://www.reddit.com/r/nutrition/comments/1vr206e/sugar_replacement/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/nutrition · community knowledge",
+      "content_type": "post",
+      "author": "u/Swoftz · r/nutrition",
+      "handle": "nutrition",
+      "org": "r/nutrition",
+      "platform": "reddit",
+      "published": "2026-08-17T19:20:45.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Fitness",
+      "category": "Fitness",
+      "genre": "Nutrition",
+      "categories": [
+        "Reddit",
+        "Fitness",
+        "Nutrition",
+        "r/nutrition"
+      ],
+      "summary": "I’m exploring what sugar substitutes are out there and what some offer compared to others, and I’m interested to know, do you guys buy the ones that taste closest to sugar or are you more concerned about the health benefits/risks. I can swing each way but don’t really know where to start. Thanks :) &#32;",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/nutrition this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vqy1p1",
+      "title": "[OC] Chinese models",
+      "link": "https://www.reddit.com/r/singularity/comments/1vqy1p1/oc_chinese_models/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/singularity · community knowledge",
+      "content_type": "post",
+      "author": "u/Speckart · r/singularity",
+      "handle": "singularity",
+      "org": "r/singularity",
+      "platform": "reddit",
+      "published": "2026-08-17T17:03:56.000Z",
+      "image": "https://preview.redd.it/46er10v3vyjh1.jpeg?width=640&crop=smart&auto=webp&s=991fd8793d00745d9002d7e992d91681b5afbe38",
+      "thumbnail": "https://preview.redd.it/46er10v3vyjh1.jpeg?width=640&crop=smart&auto=webp&s=991fd8793d00745d9002d7e992d91681b5afbe38",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/singularity"
+      ],
+      "summary": "Used Gemini for the comic. Prompt: create an image for this comic. it should be a single image. no text, no baloon dialogues (i&#39;ll add that later). use a simple, minimal style. mostly blank (white), with black lines. some accent colors here and there. there are two women, friends, sitting on a couch. they&#39;re…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/singularity this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
     {
       "id": "reddit_1vqv1aw",
       "title": "Why Aging May Be a Program, Not a Breakdown",
@@ -1370,84 +1450,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/bodyweightfitness this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vnnxhe",
-      "title": "Slapping Windows 11 PCs with a Copilot key was a terrible idea, and it's already outdated as Microsoft just released a new icon",
-      "link": "https://www.reddit.com/r/hardware/comments/1vnnxhe/slapping_windows_11_pcs_with_a_copilot_key_was_a/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/hardware · community knowledge",
-      "content_type": "post",
-      "author": "u/imaginary_num6er · r/hardware",
-      "handle": "hardware",
-      "org": "r/hardware",
-      "platform": "reddit",
-      "published": "2026-08-13T21:28:50.000Z",
-      "image": "https://external-preview.redd.it/ubfi9R95wlaImcI3J7uldl-4ilGpHJQFgclDImpDg4Y.jpeg?width=640&crop=smart&auto=webp&s=e1343c53912689bafdcb15f47ac9ceafb9ea9f3c",
-      "thumbnail": "https://external-preview.redd.it/ubfi9R95wlaImcI3J7uldl-4ilGpHJQFgclDImpDg4Y.jpeg?width=640&crop=smart&auto=webp&s=e1343c53912689bafdcb15f47ac9ceafb9ea9f3c",
-      "section": "Hardware & Gadgets",
-      "category": "Hardware & Gadgets",
-      "genre": "Hardware & Gadgets",
-      "categories": [
-        "Reddit",
-        "Hardware & Gadgets",
-        "r/hardware"
-      ],
-      "summary": "Slapping Windows 11 PCs with a Copilot key was a terrible idea, and it's already outdated as Microsoft just released a new icon",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/hardware this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vnmye4",
-      "title": "When You Pay the Ransom - Taking Apart an Interlock ESXi Decryptor | Maldbg",
-      "link": "https://www.reddit.com/r/netsec/comments/1vnmye4/when_you_pay_the_ransom_taking_apart_an_interlock/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/netsec · community knowledge",
-      "content_type": "post",
-      "author": "u/tohitsugu · r/netsec",
-      "handle": "netsec",
-      "org": "r/netsec",
-      "platform": "reddit",
-      "published": "2026-08-13T20:51:00.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Security",
-      "category": "Security",
-      "genre": "Security",
-      "categories": [
-        "Reddit",
-        "Security",
-        "r/netsec"
-      ],
-      "summary": "When You Pay the Ransom - Taking Apart an Interlock ESXi Decryptor | Maldbg",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/netsec this week"
       ],
       "metrics": {
         "likes": 0,

@@ -1,15 +1,16 @@
 {
-  "generated_at": "2026-08-17T22:55:12.478Z",
+  "generated_at": "2026-08-17T23:27:42.123Z",
   "handles": [
-    "NVIDIAAI",
     "nvidia",
+    "GoogleDeepMind",
+    "satyanadella",
+    "AIatMeta",
+    "NVIDIAAI",
     "gdb",
     "AnthropicAI",
     "elonmusk",
     "OpenAI",
-    "demishassabis",
-    "GoogleDeepMind",
-    "AIatMeta"
+    "demishassabis"
   ],
   "count": 32,
   "articles": [
@@ -42,15 +43,15 @@
       "sentiment_score": 0,
       "reasons": [
         "report-worthy",
-        "high engagement (774 likes)"
+        "high engagement (784 likes)"
       ],
       "metrics": {
-        "likes": 774,
-        "retweets": 95,
-        "replies": 54,
-        "likes_h": "774"
+        "likes": 784,
+        "retweets": 96,
+        "replies": 55,
+        "likes_h": "784"
       },
-      "engagement": 1018,
+      "engagement": 1031,
       "hot": false
     },
     {
@@ -497,11 +498,11 @@
       ],
       "metrics": {
         "likes": 907,
-        "retweets": 99,
+        "retweets": 98,
         "replies": 189,
         "likes_h": "907"
       },
-      "engagement": 1294,
+      "engagement": 1292,
       "hot": false
     },
     {
@@ -578,12 +579,12 @@
         "high engagement (5.1K likes)"
       ],
       "metrics": {
-        "likes": 5053,
+        "likes": 5054,
         "retweets": 605,
         "replies": 343,
         "likes_h": "5.1K"
       },
-      "engagement": 6606,
+      "engagement": 6607,
       "hot": false
     },
     {
@@ -794,7 +795,7 @@
         "likes_h": "8.7K"
       },
       "engagement": 10514,
-      "hot": true
+      "hot": false
     },
     {
       "id": "x_2087549663289422297",
@@ -868,12 +869,12 @@
         "high engagement (1.9K likes)"
       ],
       "metrics": {
-        "likes": 1880,
-        "retweets": 281,
+        "likes": 1881,
+        "retweets": 282,
         "replies": 114,
         "likes_h": "1.9K"
       },
-      "engagement": 2556,
+      "engagement": 2559,
       "hot": false
     },
     {
@@ -1037,12 +1038,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 5716,
-        "retweets": 659,
+        "likes": 5715,
+        "retweets": 658,
         "replies": 332,
         "likes_h": "5.7K"
       },
-      "engagement": 7366,
+      "engagement": 7363,
       "hot": false
     },
     {
@@ -1287,12 +1288,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 8255,
-        "retweets": 1075,
-        "replies": 352,
+        "likes": 8256,
+        "retweets": 1076,
+        "replies": 353,
         "likes_h": "8.3K"
       },
-      "engagement": 10757,
+      "engagement": 10761,
       "hot": true
     },
     {
