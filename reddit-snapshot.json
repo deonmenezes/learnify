@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-08-17T22:31:55.734Z",
+  "generated_at": "2026-08-17T22:57:26.119Z",
   "subs": [
     "MachineLearning",
-    "singularity",
-    "SkincareAddiction",
     "longevity",
+    "hardware",
     "programming",
     "Futurology",
     "netsec",
     "nutrition",
-    "hardware",
+    "singularity",
     "investing",
     "startups",
     "cybersecurity",
+    "SkincareAddiction",
     "Fitness",
     "robotics",
     "science",
@@ -26,11 +26,11 @@
     "Science": 6,
     "Coding & Dev Tools": 3,
     "Security": 4,
+    "Hardware & Gadgets": 4,
     "Fitness": 5,
     "AI / ML": 6,
-    "Hardware & Gadgets": 3,
     "Startups & Funding": 5,
-    "Skincare": 2,
+    "Skincare": 1,
     "Robotics": 2
   },
   "articles": [
@@ -184,6 +184,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/netsec this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vqmlgd",
+      "title": "SK hynix runs out of replacement SSDs and defaults to original purchase price refunds — fine-print warranty clause shortchanges buyers as drive prices double",
+      "link": "https://www.reddit.com/r/hardware/comments/1vqmlgd/sk_hynix_runs_out_of_replacement_ssds_and/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/hardware · community knowledge",
+      "content_type": "post",
+      "author": "u/swe129 · r/hardware",
+      "handle": "hardware",
+      "org": "r/hardware",
+      "platform": "reddit",
+      "published": "2026-08-17T08:36:49.000Z",
+      "image": "https://external-preview.redd.it/YlusnHD-J_SUvYE4Vwe1vsB6bscyQub9T-i2wtOaH2I.jpeg?width=640&crop=smart&auto=webp&s=9742000a990a0000030aa82cf115686a76d2842e",
+      "thumbnail": "https://external-preview.redd.it/YlusnHD-J_SUvYE4Vwe1vsB6bscyQub9T-i2wtOaH2I.jpeg?width=640&crop=smart&auto=webp&s=9742000a990a0000030aa82cf115686a76d2842e",
+      "section": "Hardware & Gadgets",
+      "category": "Hardware & Gadgets",
+      "genre": "Hardware & Gadgets",
+      "categories": [
+        "Reddit",
+        "Hardware & Gadgets",
+        "r/hardware"
+      ],
+      "summary": "SK hynix runs out of replacement SSDs and defaults to original purchase price refunds — fine-print warranty clause shortchanges buyers as drive prices double",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/hardware this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1409,45 +1448,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/netsec this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vnlvsa",
-      "title": "[Misc] How do I get rid of this deep hole in my forehead skin?",
-      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1vnlvsa/misc_how_do_i_get_rid_of_this_deep_hole_in_my/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/SkincareAddiction · community knowledge",
-      "content_type": "post",
-      "author": "u/HawkLegitimate2968 · r/SkincareAddiction",
-      "handle": "SkincareAddiction",
-      "org": "r/SkincareAddiction",
-      "platform": "reddit",
-      "published": "2026-08-13T20:10:53.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Skincare",
-      "category": "Skincare",
-      "genre": "Skincare",
-      "categories": [
-        "Reddit",
-        "Skincare",
-        "r/SkincareAddiction"
-      ],
-      "summary": "I had a blackhead that was in there for a long time and it left this perfect circle deep hole that is double the size of a pore. I have had this hole for 15 years. How do I get rid of it? Please help me. &#32;",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/SkincareAddiction this week"
       ],
       "metrics": {
         "likes": 0,
