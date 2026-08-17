@@ -1,36 +1,35 @@
 {
-  "generated_at": "2026-08-17T20:34:04.691Z",
+  "generated_at": "2026-08-17T21:01:40.974Z",
   "subs": [
     "MachineLearning",
-    "LocalLLaMA",
-    "running",
-    "investing",
+    "science",
+    "netsec",
     "longevity",
     "programming",
     "Futurology",
     "nutrition",
     "singularity",
     "hardware",
+    "investing",
     "startups",
     "cybersecurity",
     "SkincareAddiction",
     "Fitness",
     "robotics",
-    "science",
     "gadgets",
     "artificial",
-    "bodyweightfitness",
-    "netsec"
+    "LocalLLaMA",
+    "bodyweightfitness"
   ],
   "count": 36,
   "by_category": {
     "Science": 6,
     "Coding & Dev Tools": 3,
-    "Fitness": 6,
+    "Security": 4,
+    "Fitness": 5,
     "AI / ML": 6,
     "Hardware & Gadgets": 3,
     "Startups & Funding": 5,
-    "Security": 3,
     "Skincare": 2,
     "Robotics": 2
   },
@@ -146,6 +145,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Futurology this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vqojw3",
+      "title": "They patched their SaaS and left the self-hosted OSS version vulnerable - AppFlowy Authenticated SQL Injection",
+      "link": "https://www.reddit.com/r/netsec/comments/1vqojw3/they_patched_their_saas_and_left_the_selfhosted/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/netsec · community knowledge",
+      "content_type": "post",
+      "author": "u/ezzzzz · r/netsec",
+      "handle": "netsec",
+      "org": "r/netsec",
+      "platform": "reddit",
+      "published": "2026-08-17T10:30:37.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Security",
+      "category": "Security",
+      "genre": "Security",
+      "categories": [
+        "Reddit",
+        "Security",
+        "r/netsec"
+      ],
+      "summary": "They patched their SaaS and left the self-hosted OSS version vulnerable - AppFlowy Authenticated SQL Injection",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/netsec this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1410,45 +1448,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/LocalLLaMA this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vnjz41",
-      "title": "What's everyone's take on the run club phenomenon?",
-      "link": "https://www.reddit.com/r/running/comments/1vnjz41/whats_everyones_take_on_the_run_club_phenomenon/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/running · community knowledge",
-      "content_type": "post",
-      "author": "u/red_fox23 · r/running",
-      "handle": "running",
-      "org": "r/running",
-      "platform": "reddit",
-      "published": "2026-08-13T19:01:51.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/running"
-      ],
-      "summary": "I started seriously running in 2015, and I was also raised by a runner, so I&#39;ve had a somewhat interesting perspective on how the running world has changed over the years. I&#39;ve seen the sport go through different phases, as everything does, but one of the more interesting (and sometimes funny) changes has been…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/running this week"
       ],
       "metrics": {
         "likes": 0,
