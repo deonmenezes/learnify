@@ -1,12 +1,14 @@
 {
-  "generated_at": "2026-08-17T16:35:27.589Z",
+  "generated_at": "2026-08-17T17:33:06.124Z",
   "subs": [
     "MachineLearning",
+    "LocalLLaMA",
+    "running",
+    "investing",
     "longevity",
-    "hardware",
     "nutrition",
     "singularity",
-    "investing",
+    "hardware",
     "startups",
     "cybersecurity",
     "SkincareAddiction",
@@ -17,10 +19,8 @@
     "gadgets",
     "artificial",
     "programming",
-    "LocalLLaMA",
     "bodyweightfitness",
-    "netsec",
-    "running"
+    "netsec"
   ],
   "count": 36,
   "by_category": {
@@ -1300,6 +1300,46 @@
       }
     },
     {
+      "id": "reddit_1vnl0um",
+      "title": "Trained a 1.5B to write shell commands so I'd stop googling tar flags. Runs on a laptop CPU in ~1 sec.",
+      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1vnl0um/trained_a_15b_to_write_shell_commands_so_id_stop/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/LocalLLaMA · community knowledge",
+      "content_type": "post",
+      "author": "u/PicassoOnPause · r/LocalLLaMA",
+      "handle": "LocalLLaMA",
+      "org": "r/LocalLLaMA",
+      "platform": "reddit",
+      "published": "2026-08-13T19:39:21.000Z",
+      "image": "https://preview.redd.it/di0yenio27jh1.gif?width=640&crop=smart&s=d39275a4e908c41b9172d01bcf8ec7a8db33ad68",
+      "thumbnail": "https://preview.redd.it/di0yenio27jh1.gif?width=640&crop=smart&s=d39275a4e908c41b9172d01bcf8ec7a8db33ad68",
+      "section": "AI / ML",
+      "category": "AI / ML",
+      "genre": "AI & Tech",
+      "categories": [
+        "Reddit",
+        "AI / ML",
+        "AI & Tech",
+        "r/LocalLLaMA"
+      ],
+      "summary": "I&#39;ve been googling &quot;tar extract gz&quot; for about ten years. and I finally did something about it. It started out as a research project and I ended up with a Fine-tuned Qwen2.5-Coder-1.5B on 125k natural-language/command pairs, merged and quantized to Q4_K_M. 941MB which runs through llama.cpp. On my laptop…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/LocalLLaMA this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
       "id": "reddit_1vnjz41",
       "title": "What's everyone's take on the run club phenomenon?",
       "link": "https://www.reddit.com/r/running/comments/1vnjz41/whats_everyones_take_on_the_run_club_phenomenon/",
@@ -1409,46 +1449,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/Futurology this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vn8oya",
-      "title": "City2Graph: A Python library for Heterogeneous Graph Neural Networks and spatial analysis in urban systems [R]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1vn8oya/city2graph_a_python_library_for_heterogeneous/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/MachineLearning · community knowledge",
-      "content_type": "post",
-      "author": "u/Tough_Ad_6598 · r/MachineLearning",
-      "handle": "MachineLearning",
-      "org": "r/MachineLearning",
-      "platform": "reddit",
-      "published": "2026-08-13T11:59:58.000Z",
-      "image": "https://preview.redd.it/4vi2d3zjt4jh1.png?width=140&height=75&auto=webp&s=449a7301e08aaa1e20ce77f1b29141f588abf034",
-      "thumbnail": "https://preview.redd.it/4vi2d3zjt4jh1.png?width=140&height=75&auto=webp&s=449a7301e08aaa1e20ce77f1b29141f588abf034",
-      "section": "AI / ML",
-      "category": "AI / ML",
-      "genre": "AI & Tech",
-      "categories": [
-        "Reddit",
-        "AI / ML",
-        "AI & Tech",
-        "r/MachineLearning"
-      ],
-      "summary": "City2Graph is a Python library I built that turns geospatial data into analysis-ready graphs (for spatial analysis, network analysis, and Graph Neural Networks as GeoAI), and the paper describing it has just been published, so I wanted to share it here. Repository: https://github.com/c2g-dev/city2graph import…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/MachineLearning this week"
       ],
       "metrics": {
         "likes": 0,
