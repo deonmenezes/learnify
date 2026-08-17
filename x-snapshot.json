@@ -1,18 +1,100 @@
 {
-  "generated_at": "2026-08-17T21:35:18.002Z",
+  "generated_at": "2026-08-17T22:29:41.189Z",
   "handles": [
+    "nvidia",
+    "GoogleDeepMind",
+    "elonmusk",
+    "satyanadella",
+    "gdb",
+    "AIatMeta",
+    "NVIDIAAI",
     "AnthropicAI",
     "OpenAI",
-    "gdb",
-    "nvidia",
-    "elonmusk",
-    "demishassabis",
-    "GoogleDeepMind",
-    "NVIDIAAI",
-    "AIatMeta"
+    "demishassabis"
   ],
   "count": 32,
   "articles": [
+    {
+      "id": "x_2089331953585607127",
+      "title": "From accelerating scientific discovery to advancing healthcare, AI can transform every industry — but the infrastructure behind it must keep pace. At SB Energy’s PORTS-Pike Technology Campus in…",
+      "link": "https://x.com/nvidia/status/2089331953585607127",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "NVIDIA · @nvidia",
+      "handle": "nvidia",
+      "org": "NVIDIA",
+      "published": "2026-08-17T12:42:10.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "NVIDIA",
+        "Commentary"
+      ],
+      "summary": "From accelerating scientific discovery to advancing healthcare, AI can transform every industry — but the infrastructure behind it must keep pace. At SB Energy’s PORTS-Pike Technology Campus in Southern Ohio, NVIDIA will be the exclusive AI compute infrastructure provider, with",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 56,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "report-worthy",
+        "high engagement (774 likes)"
+      ],
+      "metrics": {
+        "likes": 774,
+        "retweets": 95,
+        "replies": 54,
+        "likes_h": "774"
+      },
+      "engagement": 1018,
+      "hot": false
+    },
+    {
+      "id": "x_2089326994714763665",
+      "title": "defenders can see the future, and have a narrow window to uplevel their cybersecurity practices now. key is to uplevel fundamentals and apply the best AI tools. what we’re doing at OpenAI, and where…",
+      "link": "https://x.com/gdb/status/2089326994714763665",
+      "source": "X",
+      "source_id": "x",
+      "region": "Social",
+      "focus": "Tech personalities on X",
+      "content_type": "post",
+      "author": "Greg Brockman · @gdb",
+      "handle": "gdb",
+      "org": "OpenAI",
+      "published": "2026-08-17T12:22:28.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Commentary",
+      "categories": [
+        "X",
+        "OpenAI",
+        "Commentary"
+      ],
+      "summary": "defenders can see the future, and have a narrow window to uplevel their cybersecurity practices now. key is to uplevel fundamentals and apply the best AI tools. what we’re doing at OpenAI, and where other organizations can start: https://blog.gregbrockman.com/the-defenders-window",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 66,
+      "sentiment": "positive",
+      "sentiment_score": 0.5,
+      "reasons": [
+        "report-worthy",
+        "links to a source",
+        "high engagement (771 likes)"
+      ],
+      "metrics": {
+        "likes": 771,
+        "retweets": 90,
+        "replies": 117,
+        "likes_h": "771"
+      },
+      "engagement": 1068,
+      "hot": false
+    },
     {
       "id": "x_2088439955026825520",
       "title": "hedonic treadmill of model expectations",
@@ -85,12 +167,12 @@
         "report-worthy"
       ],
       "metrics": {
-        "likes": 245,
-        "retweets": 30,
-        "replies": 39,
-        "likes_h": "245"
+        "likes": 244,
+        "retweets": 31,
+        "replies": 40,
+        "likes_h": "244"
       },
-      "engagement": 344,
+      "engagement": 346,
       "hot": false
     },
     {
@@ -207,15 +289,15 @@
         "report-worthy",
         "tech substance (grok)",
         "links to a source",
-        "high engagement (13.7K likes)"
+        "high engagement (13.8K likes)"
       ],
       "metrics": {
-        "likes": 13710,
-        "retweets": 2649,
-        "replies": 3431,
-        "likes_h": "13.7K"
+        "likes": 13823,
+        "retweets": 2731,
+        "replies": 3522,
+        "likes_h": "13.8K"
       },
-      "engagement": 22439,
+      "engagement": 22807,
       "hot": true
     },
     {
@@ -251,12 +333,12 @@
         "high engagement (1.2K likes)"
       ],
       "metrics": {
-        "likes": 1158,
-        "retweets": 111,
-        "replies": 69,
+        "likes": 1160,
+        "retweets": 112,
+        "replies": 70,
         "likes_h": "1.2K"
       },
-      "engagement": 1449,
+      "engagement": 1454,
       "hot": false
     },
     {
@@ -289,13 +371,13 @@
       "sentiment_score": 0,
       "reasons": [
         "report-worthy",
-        "high engagement (821 likes)"
+        "high engagement (820 likes)"
       ],
       "metrics": {
-        "likes": 821,
+        "likes": 820,
         "retweets": 84,
-        "replies": 41,
-        "likes_h": "821"
+        "replies": 42,
+        "likes_h": "820"
       },
       "engagement": 1030,
       "hot": false
@@ -412,15 +494,15 @@
       "reasons": [
         "report-worthy",
         "tech substance (model)",
-        "high engagement (904 likes)"
+        "high engagement (907 likes)"
       ],
       "metrics": {
-        "likes": 904,
-        "retweets": 98,
-        "replies": 181,
-        "likes_h": "904"
+        "likes": 907,
+        "retweets": 99,
+        "replies": 189,
+        "likes_h": "907"
       },
-      "engagement": 1281,
+      "engagement": 1294,
       "hot": false
     },
     {
@@ -497,12 +579,12 @@
         "high engagement (5.1K likes)"
       ],
       "metrics": {
-        "likes": 5052,
-        "retweets": 603,
-        "replies": 341,
+        "likes": 5053,
+        "retweets": 605,
+        "replies": 343,
         "likes_h": "5.1K"
       },
-      "engagement": 6599,
+      "engagement": 6606,
       "hot": false
     },
     {
@@ -787,12 +869,12 @@
         "high engagement (1.9K likes)"
       ],
       "metrics": {
-        "likes": 1878,
-        "retweets": 280,
-        "replies": 112,
+        "likes": 1880,
+        "retweets": 281,
+        "replies": 114,
         "likes_h": "1.9K"
       },
-      "engagement": 2550,
+      "engagement": 2556,
       "hot": false
     },
     {
@@ -956,12 +1038,12 @@
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 5702,
-        "retweets": 656,
-        "replies": 330,
+        "likes": 5716,
+        "retweets": 659,
+        "replies": 332,
         "likes_h": "5.7K"
       },
-      "engagement": 7344,
+      "engagement": 7366,
       "hot": false
     },
     {
@@ -1202,16 +1284,16 @@
         "report-worthy",
         "announcement language (introducing)",
         "tech substance (model, models, agent)",
-        "high engagement (8.2K likes)",
+        "high engagement (8.3K likes)",
         "concrete metrics"
       ],
       "metrics": {
-        "likes": 8246,
-        "retweets": 1072,
-        "replies": 345,
-        "likes_h": "8.2K"
+        "likes": 8255,
+        "retweets": 1075,
+        "replies": 352,
+        "likes_h": "8.3K"
       },
-      "engagement": 10735,
+      "engagement": 10757,
       "hot": false
     },
     {
@@ -1253,91 +1335,6 @@
         "likes_h": "10.4K"
       },
       "engagement": 11645,
-      "hot": true
-    },
-    {
-      "id": "x_2086040693596659932",
-      "title": "Armenia and Kazakhstan with @FirebirdCloudAI are building the infrastructure to create intelligence at home, powered by the NVIDIA DSX platform. 📽️ Hear from @JensenHuang on this important milestone…",
-      "link": "https://x.com/nvidia/status/2086040693596659932",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "NVIDIA · @nvidia",
-      "handle": "nvidia",
-      "org": "NVIDIA",
-      "published": "2026-08-08T10:43:52.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "NVIDIA",
-        "Product"
-      ],
-      "summary": "Armenia and Kazakhstan with @FirebirdCloudAI are building the infrastructure to create intelligence at home, powered by the NVIDIA DSX platform. 📽️ Hear from @JensenHuang on this important milestone for the CIS region. https://nvda.ws/4wiOu58",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 75,
-      "sentiment": "positive",
-      "sentiment_score": 0.5,
-      "reasons": [
-        "report-worthy",
-        "casual tone (this)",
-        "tech substance (platform)",
-        "links to a source",
-        "high engagement (987 likes)"
-      ],
-      "metrics": {
-        "likes": 987,
-        "retweets": 128,
-        "replies": 99,
-        "likes_h": "987"
-      },
-      "engagement": 1342,
-      "hot": false
-    },
-    {
-      "id": "x_2085801349866729975",
-      "title": "After evaluating one of our upcoming models, Astra, we're treating it as our first \"critical\" model for cybersecurity under our Preparedness Framework. This is a scenario we've planned for, and we're…",
-      "link": "https://x.com/OpenAI/status/2085801349866729975",
-      "source": "X",
-      "source_id": "x",
-      "region": "Social",
-      "focus": "Tech personalities on X",
-      "content_type": "post",
-      "author": "OpenAI · @OpenAI",
-      "handle": "OpenAI",
-      "org": "OpenAI",
-      "published": "2026-08-07T18:52:48.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Product",
-      "categories": [
-        "X",
-        "OpenAI",
-        "Product"
-      ],
-      "summary": "After evaluating one of our upcoming models, Astra, we're treating it as our first \"critical\" model for cybersecurity under our Preparedness Framework. This is a scenario we've planned for, and we're putting additional controls in place to ensure Astra's further development",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 67,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "report-worthy",
-        "casual tone (this)",
-        "tech substance (model, models)",
-        "high engagement (9.6K likes)"
-      ],
-      "metrics": {
-        "likes": 9621,
-        "retweets": 842,
-        "replies": 821,
-        "likes_h": "9.6K"
-      },
-      "engagement": 12126,
       "hot": true
     }
   ]
