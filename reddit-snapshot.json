@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-17T19:34:25.808Z",
+  "generated_at": "2026-08-17T19:58:31.931Z",
   "subs": [
     "MachineLearning",
+    "Futurology",
+    "gadgets",
     "longevity",
-    "hardware",
     "programming",
     "nutrition",
     "singularity",
+    "hardware",
     "investing",
     "startups",
     "cybersecurity",
     "SkincareAddiction",
     "Fitness",
-    "Futurology",
     "robotics",
     "science",
-    "gadgets",
     "artificial",
     "LocalLLaMA",
     "bodyweightfitness",
@@ -24,9 +24,9 @@
   ],
   "count": 36,
   "by_category": {
-    "Science": 5,
+    "Science": 6,
     "Coding & Dev Tools": 3,
-    "Fitness": 7,
+    "Fitness": 6,
     "AI / ML": 6,
     "Hardware & Gadgets": 3,
     "Startups & Funding": 5,
@@ -107,6 +107,45 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/programming this week"
+      ],
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0
+      }
+    },
+    {
+      "id": "reddit_1vqqv15",
+      "title": "Big Tech is spending $500 million on a political campaign against Universal Basic Income.",
+      "link": "https://www.reddit.com/r/Futurology/comments/1vqqv15/big_tech_is_spending_500_million_on_a_political/",
+      "source": "Reddit",
+      "source_id": "reddit",
+      "region": "Community",
+      "focus": "r/Futurology · community knowledge",
+      "content_type": "post",
+      "author": "u/lughnasadh · r/Futurology",
+      "handle": "Futurology",
+      "org": "r/Futurology",
+      "platform": "reddit",
+      "published": "2026-08-17T12:24:14.000Z",
+      "image": null,
+      "thumbnail": null,
+      "section": "Science",
+      "category": "Science",
+      "genre": "Science",
+      "categories": [
+        "Reddit",
+        "Science",
+        "r/Futurology"
+      ],
+      "summary": "&quot;Joe Biden’s former commerce secretary Gina Raimondo has decided that UBI in response to AI is the thing to fear most. At the Reagan National Economic Forum, she said: &quot;I personally think it&#39;s like the end of America.&quot; She is now heading up a newly-launched, extremely well-funded organization to…",
+      "is_social": true,
+      "report_worthy": true,
+      "worthiness_score": 62,
+      "sentiment": "neutral",
+      "sentiment_score": 0,
+      "reasons": [
+        "top of r/Futurology this week"
       ],
       "metrics": {
         "likes": 0,
@@ -1410,45 +1449,6 @@
       "sentiment_score": 0,
       "reasons": [
         "top of r/running this week"
-      ],
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0
-      }
-    },
-    {
-      "id": "reddit_1vnd4ad",
-      "title": "Tom Holland's Cindy Workout — How Many Rounds Can You Do?",
-      "link": "https://www.reddit.com/r/bodyweightfitness/comments/1vnd4ad/tom_hollands_cindy_workout_how_many_rounds_can/",
-      "source": "Reddit",
-      "source_id": "reddit",
-      "region": "Community",
-      "focus": "r/bodyweightfitness · community knowledge",
-      "content_type": "post",
-      "author": "u/OptimalExperience176 · r/bodyweightfitness",
-      "handle": "bodyweightfitness",
-      "org": "r/bodyweightfitness",
-      "platform": "reddit",
-      "published": "2026-08-13T14:59:02.000Z",
-      "image": null,
-      "thumbnail": null,
-      "section": "Fitness",
-      "category": "Fitness",
-      "genre": "Fitness",
-      "categories": [
-        "Reddit",
-        "Fitness",
-        "r/bodyweightfitness"
-      ],
-      "summary": "Has anyone here tried the viral Tom Holland “Cindy” workout? For anyone who hasn&#39;t heard of it, Cindy is a 20-minute AMRAP: 5 pull-ups 10 push-ups 15 air squats You repeat the circuit for 20 minutes and try to complete as many rounds as possible. I tried it for the first time recently and managed to complete 9…",
-      "is_social": true,
-      "report_worthy": true,
-      "worthiness_score": 62,
-      "sentiment": "neutral",
-      "sentiment_score": 0,
-      "reasons": [
-        "top of r/bodyweightfitness this week"
       ],
       "metrics": {
         "likes": 0,
