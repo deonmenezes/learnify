@@ -1,16 +1,15 @@
 {
-  "generated_at": "2026-08-17T23:27:42.123Z",
+  "generated_at": "2026-08-17T23:50:45.602Z",
   "handles": [
     "nvidia",
     "GoogleDeepMind",
-    "satyanadella",
-    "AIatMeta",
-    "NVIDIAAI",
     "gdb",
     "AnthropicAI",
     "elonmusk",
     "OpenAI",
-    "demishassabis"
+    "demishassabis",
+    "NVIDIAAI",
+    "AIatMeta"
   ],
   "count": 32,
   "articles": [
@@ -43,15 +42,15 @@
       "sentiment_score": 0,
       "reasons": [
         "report-worthy",
-        "high engagement (784 likes)"
+        "high engagement (786 likes)"
       ],
       "metrics": {
-        "likes": 784,
+        "likes": 786,
         "retweets": 96,
         "replies": 55,
-        "likes_h": "784"
+        "likes_h": "786"
       },
-      "engagement": 1031,
+      "engagement": 1033,
       "hot": false
     },
     {
@@ -333,12 +332,12 @@
         "high engagement (1.2K likes)"
       ],
       "metrics": {
-        "likes": 1160,
-        "retweets": 112,
+        "likes": 1161,
+        "retweets": 111,
         "replies": 70,
         "likes_h": "1.2K"
       },
-      "engagement": 1454,
+      "engagement": 1453,
       "hot": false
     },
     {
@@ -795,7 +794,7 @@
         "likes_h": "8.7K"
       },
       "engagement": 10514,
-      "hot": false
+      "hot": true
     },
     {
       "id": "x_2087549663289422297",
@@ -870,11 +869,11 @@
       ],
       "metrics": {
         "likes": 1881,
-        "retweets": 282,
+        "retweets": 283,
         "replies": 114,
         "likes_h": "1.9K"
       },
-      "engagement": 2559,
+      "engagement": 2561,
       "hot": false
     },
     {
