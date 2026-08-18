@@ -1,10 +1,18 @@
 // POST /api/subscribe — opt-in marketing capture for Learnify.
 //
 // Body (JSON): { email, phone?, optedIn:true, source? }
-// Persists to Upstash/Vercel KV if KV_REST_API_URL + KV_REST_API_TOKEN are set,
-// otherwise logs (visible in Vercel function logs) so nothing is silently lost.
+//
+// Storage, in order of preference:
+//   1. MongoDB (MONGODB_URI)      — the real home; unique index on email, so a
+//                                   repeat signup updates rather than duplicates
+//   2. Upstash/Vercel KV          — the previous behaviour, kept as a fallback
+//   3. Function logs              — last resort, so a signup is never silently lost
 //
 // Compliance: only stores records where optedIn === true (explicit opt-in).
+// The response reports WHERE it landed, so a misconfigured deploy is visible
+// rather than quietly degrading to logs nobody reads.
+
+import { getDb, hasMongo, redact } from "../lib/mongo.js";
 
 const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
@@ -35,10 +43,33 @@ export default async function handler(req, res) {
       optedInAt: new Date().toISOString(),
     };
 
+    let stored = "log";
+
+    if (hasMongo()) {
+      try {
+        const db = await getDb();
+        // Upsert on the unique email index: signing up twice updates the record
+        // instead of creating a second one, and re-subscribing after an
+        // unsubscribe is a normal, non-destructive path.
+        await db.collection("subscribers").updateOne(
+          { email },
+          {
+            $set: { ...record, updated_at: new Date().toISOString() },
+            $setOnInsert: { created_at: new Date().toISOString() },
+          },
+          { upsert: true },
+        );
+        stored = "mongodb";
+      } catch (error) {
+        // Never fail a signup because the archive is unreachable; fall through
+        // to KV or the log so the address is still captured.
+        console.error("subscribe: mongo write failed", redact(error.message));
+      }
+    }
+
     const kvUrl = process.env.KV_REST_API_URL;
     const kvTok = process.env.KV_REST_API_TOKEN;
-    let stored = "log";
-    if (kvUrl && kvTok) {
+    if (stored !== "mongodb" && kvUrl && kvTok) {
       const r = await fetch(kvUrl, {
         method: "POST",
         headers: { Authorization: `Bearer ${kvTok}`, "Content-Type": "application/json" },
@@ -47,7 +78,7 @@ export default async function handler(req, res) {
       stored = r.ok ? "kv" : "log";
       if (!r.ok) console.error("KV LPUSH failed", r.status);
     }
-    if (stored !== "kv") {
+    if (stored === "log") {
       // Fallback: at least surface it in logs until a datastore is attached.
       console.log("SUBSCRIBE", JSON.stringify(record));
     }

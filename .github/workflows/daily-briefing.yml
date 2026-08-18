@@ -69,6 +69,19 @@ jobs:
       - name: Verify the audio and the snapshot
         run: node --test test/briefing.test.js test/world-snapshot.test.js
 
+      # Archive last, after the snapshot and briefing exist, so one run captures
+      # a consistent day. Non-fatal: the site does not read from Mongo, so a
+      # failed archive write must never fail the pipeline.
+      - name: Archive the day into MongoDB
+        env:
+          MONGODB_URI: ${{ secrets.MONGODB_URI }}
+        run: |
+          if [ -z "$MONGODB_URI" ]; then
+            echo "MONGODB_URI not set - skipping the archive step"
+          else
+            node scripts/sync-mongo.mjs || echo "mongo archive failed - continuing"
+          fi
+
       - name: Commit + push if the briefing changed
         run: |
           git config user.name "techscroll-bot"

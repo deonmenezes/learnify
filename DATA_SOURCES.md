@@ -32,6 +32,28 @@ Merging is dual-keyed by DOI **and** normalized title, because OpenAlex links by
 
 Ranking (`lib/world-rank.js`) is weighted: impact 0.42 (citations per year, log-scaled to a 150/yr ceiling), recency 0.24 (400-day half-life), venue 0.16, corroboration 0.11, access 0.07. Venue prestige is a coarse, openly-listed heuristic matched on **whole words** against a normalized venue string, never bare substrings; the exact weights and every score component ship in the response (`rank_weights`, `score_breakdown`) so the ordering is auditable rather than editorial. Provider failure behaviour: HTTP 200 with `provider_status: "partial"` if one tier is empty, HTTP 502 only if both are.
 
+### The MongoDB archive (Atlas)
+
+`scripts/sync-mongo.mjs` writes the day's corpus into a MongoDB Atlas cluster (`learnify`, free tier, Harini's Org / Project 0). `/api/subscribe` writes newsletter opt-ins to the same database.
+
+**Mongo is deliberately not on the read path.** Serving the ranked feed from a committed JSON file costs 0-7ms; an Atlas round trip costs tens of milliseconds warm and far worse on a cold serverless connection, so putting a database in front of a page view would make the site slower. What the archive adds is what a snapshot structurally cannot hold:
+
+| Collection | Unique key | Why it cannot live in a snapshot |
+|---|---|---|
+| `papers` | `key` | Keeps every paper ever ranked, not just today's visible top 24 per topic |
+| `paper_citations` | `key + date` | One reading per paper per UTC day. The snapshot overwrites the citation count every morning and the previous value is gone, so growth over time is unrecoverable from it |
+| `briefings` | `date` | Full transcript and chapters for every briefing, beyond the 7 MP3s the repo keeps |
+| `articles` | `id` | The news feed, which otherwise only exists as a rolling snapshot |
+| `subscribers` | `email` | Newsletter opt-ins, which previously had no durable home at all |
+
+Every write is an upsert against that unique index, so the daily job is safe to re-run: a repeated sync corrects data instead of duplicating it, and `first_seen_at` is written only on insert so it survives later syncs.
+
+`lib/mongo.js` follows the same credential rules as the Apify and ElevenLabs clients: environment only (`MONGODB_URI`), never logged, and redacted from any message it produces. Redaction matters more here than elsewhere because a Mongo URI embeds the password in the host string, so an unredacted driver error would print it straight into CI output.
+
+Failure is always soft. `/api/subscribe` falls back to Vercel KV and then to function logs if Atlas is unreachable, so a signup is never lost to an archive outage, and the response reports where the record actually landed rather than quietly degrading. The CI archive step is non-fatal for the same reason: the site does not read from Mongo, so a failed archive write must not fail the pipeline.
+
+**Network access**: the Atlas IP access list must include the writers. A GitHub Actions runner has no stable IP, so CI archiving requires either `0.0.0.0/0` or an explicitly maintained allowlist. That is a security decision for the project owner, not a default.
+
 ### Why the world-ranked feed is precomputed
 
 `rank=world` is served from a committed `world-snapshot.json`, rebuilt daily by `scripts/snapshot-world.mjs`, not computed per request.
