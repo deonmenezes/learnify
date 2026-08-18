@@ -92,7 +92,9 @@
       <span class="meta" id="briefingMeta"></span>
     </div>
     <p class="blurb" id="briefingBlurb"></p>
-    <audio id="briefingAudio" controls preload="none"></audio>
+    <!-- preload="metadata" costs a few KB and makes the scrubber show the real
+         length immediately; with "none" it reads 0:00 until the first play. -->
+    <audio id="briefingAudio" controls preload="metadata"></audio>
     <ul class="chapters" id="briefingChapters"></ul>
     <details><summary>Read the transcript</summary><p id="briefingTranscript"></p></details>
   </section>
