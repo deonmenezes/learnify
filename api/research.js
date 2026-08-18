@@ -33,6 +33,8 @@ import { collectPapers, collectTopicPapers, sortPapersNewestFirst } from "../lib
 import { isRelevantRaw } from "../lib/research-shared.js";
 import { TOPIC_NAMES, findTopic, rollingCutoff } from "../lib/topics.js";
 import { collectWorldPapers } from "../lib/world-feed.js";
+import { worldPapersForTopic } from "../lib/world-snapshot.js";
+import { scholarSnapshotMeta } from "../lib/scholar-snapshot.js";
 import { RANK_WEIGHTS } from "../lib/world-rank.js";
 
 // Precomputed per-paper enrichment (headline/hook/cover) from scripts/enrich.mjs.
@@ -265,19 +267,35 @@ export default async function handler(req, res) {
   let providerStatus = "ok";
   let sources = [];
   let scholarMeta = null;
+  let snapshotAt = null;
   try {
     if (worldRanked) {
-      // lib/world-feed.js is shared with scripts/daily-briefing.mjs so the audio
-      // briefing can never describe a ranking the app does not show.
-      const world = await collectWorldPapers(topic.name, { now, limit: topicLimit, poolSize: Math.max(topicLimit, 40) });
-      if (!world.ok) {
-        res.setHeader("Cache-Control", "no-store");
-        return res.status(502).json({ error: "Research provider unavailable", topic: topic.name, topics: TOPIC_NAMES });
+      // Fast path: the ranked feed is precomputed daily by
+      // scripts/snapshot-world.mjs. Impact ranking is not a real-time question,
+      // and a live cold request costs four OpenAlex round-trips (700-1200ms)
+      // where a local read costs single-digit milliseconds.
+      const precomputed = worldPapersForTopic(topic.name, { now, limit: topicLimit });
+      if (precomputed) {
+        providerStatus = precomputed.providerStatus;
+        sources = precomputed.sources;
+        scholarMeta = scholarSnapshotMeta();
+        snapshotAt = precomputed.refreshedAt;
+        papers = precomputed.papers.map((paper) => toResearch(paper, null, base));
+      } else {
+        // Fall through to the live path when the snapshot is missing, stale or
+        // empty for this topic. lib/world-feed.js is shared with
+        // scripts/daily-briefing.mjs so the audio briefing can never describe a
+        // ranking the app does not show.
+        const world = await collectWorldPapers(topic.name, { now, limit: topicLimit, poolSize: Math.max(topicLimit, 40) });
+        if (!world.ok) {
+          res.setHeader("Cache-Control", "no-store");
+          return res.status(502).json({ error: "Research provider unavailable", topic: topic.name, topics: TOPIC_NAMES });
+        }
+        providerStatus = world.providerStatus;
+        scholarMeta = world.scholarSnapshot;
+        sources = world.sources;
+        papers = world.papers.map((paper) => toResearch(paper, null, base));
       }
-      providerStatus = world.providerStatus;
-      scholarMeta = world.scholarSnapshot;
-      sources = world.sources;
-      papers = world.papers.map((paper) => toResearch(paper, null, base));
     } else if (topic) {
       const result = await collectTopicPapers(topic.name, { now, limit: topicLimit });
       providerStatus = result.providerStatus;
@@ -317,6 +335,6 @@ export default async function handler(req, res) {
     provider_status: providerStatus,
     rank: worldRanked ? "world" : sort,
     world_ranked: worldRanked,
-    ...(worldRanked ? { sources, rank_weights: RANK_WEIGHTS, scholar_snapshot: scholarMeta } : {}),
+    ...(worldRanked ? { sources, rank_weights: RANK_WEIGHTS, scholar_snapshot: scholarMeta, ranked_at: snapshotAt, served_from: snapshotAt ? "snapshot" : "live" } : {}),
   });
 }

@@ -5,7 +5,33 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Research topics · Learnify</title>
 <meta name="description" content="The best research in the world across 23 exact Learnify topics, ranked from OpenAlex and Google Scholar.">
+<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
 <link rel="stylesheet" href="/app/app.css">
+<script>
+// THE FEED REQUEST STARTS HERE, on the first line of the page, and deliberately
+// not in the module below.
+//
+// The module cannot run until app.js has run, and app.js cannot run until
+// supabase-js has downloaded from a third-party CDN (~1s), and the page then
+// awaits two Supabase auth round-trips before painting the nav. Measured on
+// production that put the first /api/research byte 2.6 SECONDS after
+// navigation - for a request that takes 50ms warm and needs no auth at all.
+//
+// So it is fired inline, unblocked, before any of that. By the time the module
+// is ready to render, the response is usually already in hand.
+(function () {
+  var params = new URLSearchParams(location.search);
+  var topic = params.get("topic") || "AI / ML";
+  var rank = params.get("rank") === "recent" ? "recent" : "world";
+  var lane = rank === "world" ? "&rank=world" : "&sort=recent";
+  var promise = fetch("/api/research?topic=" + encodeURIComponent(topic) + "&limit=24" + lane)
+    .then(function (response) { if (!response.ok) throw new Error("request"); return response.json(); });
+  // A rejected prefetch is a normal outcome (bad ?topic=, offline). Swallow it
+  // here so it cannot surface as an unhandled rejection; loadFeed re-fetches.
+  promise.catch(function () {});
+  window.__feedPrefetch = { key: topic + "|" + rank, promise: promise };
+})();
+</script>
 <style>
   .research-wrap{max-width:1180px;margin:0 auto;padding:34px 24px 80px}.research-head{max-width:820px}
   .research-head h1{font-size:42px;margin:0 0 8px}.research-head p{color:var(--ink-3);margin:0 0 18px;line-height:1.6}
@@ -205,9 +231,19 @@ async function loadFeed() {
     const query = rank === "world"
       ? `/api/research?topic=${encodeURIComponent(selected)}&limit=24&rank=world`
       : `/api/research?topic=${encodeURIComponent(selected)}&limit=24&sort=recent`;
-    const response = await fetch(query);
-    if (!response.ok) throw new Error("request");
-    const data = await response.json();
+    // Use the in-flight request the page kicked off in <head>, but ONLY if it
+    // is for exactly this topic and lane. Any topic or rank switch after load
+    // fetches normally; the prefetch is consumed once and never reused.
+    const prefetch = window.__feedPrefetch;
+    let data;
+    if (prefetch && prefetch.key === `${selected}|${rank}`) {
+      window.__feedPrefetch = null;
+      data = await prefetch.promise;
+    } else {
+      const response = await fetch(query);
+      if (!response.ok) throw new Error("request");
+      data = await response.json();
+    }
     if (data.topic !== selected) throw new Error("topic_mismatch");
     if (data.cutoff) document.getElementById("cutoff").textContent = `Since ${new Date(data.cutoff).toLocaleDateString()}`;
     if (data.provider_status === "partial") notice.textContent = "One provider returned a partial response; results may be incomplete.";

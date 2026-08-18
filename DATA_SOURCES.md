@@ -32,6 +32,18 @@ Merging is dual-keyed by DOI **and** normalized title, because OpenAlex links by
 
 Ranking (`lib/world-rank.js`) is weighted: impact 0.42 (citations per year, log-scaled to a 150/yr ceiling), recency 0.24 (400-day half-life), venue 0.16, corroboration 0.11, access 0.07. Venue prestige is a coarse, openly-listed heuristic matched on **whole words** against a normalized venue string, never bare substrings; the exact weights and every score component ship in the response (`rank_weights`, `score_breakdown`) so the ordering is auditable rather than editorial. Provider failure behaviour: HTTP 200 with `provider_status: "partial"` if one tier is empty, HTTP 502 only if both are.
 
+### Why the world-ranked feed is precomputed
+
+`rank=world` is served from a committed `world-snapshot.json`, rebuilt daily by `scripts/snapshot-world.mjs`, not computed per request.
+
+Two reasons, both measured. First, latency: a cold live request fans out to four OpenAlex queries and costs 700-1200ms; the local read costs single-digit milliseconds. Second, and more decisively, **OpenAlex now enforces a daily budget** and answers `429 Insufficient budget ... Resets at midnight UTC` once it is spent. A live per-request path burns that budget on traffic; a once-a-day snapshot does not.
+
+Ranking by impact is not a real-time question - a paper's citation count does not change between two page views - so a daily rebuild loses nothing. The **"Newest first" lane is deliberately NOT snapshotted** and stays live, because that one genuinely is a real-time question.
+
+`lib/world-snapshot.js` re-checks every paper's date against the CURRENT rolling window on read, so a stale snapshot shrinks honestly instead of shipping papers that have aged out, and it refuses a snapshot older than three days so a long-broken job degrades to the (slower, correct) live path rather than to confident staleness. Responses declare which path ran via `served_from: "snapshot" | "live"` and `ranked_at`.
+
+`scripts/snapshot-world.mjs` merges onto the previous snapshot rather than rebuilding from empty, and only overwrites a topic when the new result is genuinely better (clean beats partial; equal-or-larger beats smaller). Without that, a run that hits the OpenAlex budget mid-way replaces good data with degraded data - which is exactly what happened the first time it ran twice in one day.
+
 ### Daily audio briefing (ElevenLabs)
 
 `app/research.html` (player) → `GET /api/briefing` → `briefing.json` + a committed MP3 under `/briefings/`. Built by `scripts/daily-briefing.mjs`, which runs daily in `.github/workflows/daily-briefing.yml`.
