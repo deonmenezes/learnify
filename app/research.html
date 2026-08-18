@@ -21,7 +21,10 @@
   .briefing p.blurb{font-size:13px;color:var(--ink-3);margin:0 0 12px;line-height:1.55}
   /* color-scheme tells Chrome to paint its native audio controls dark; without
      it the default light player sits like a white brick in a dark page. */
-  .briefing audio{width:100%;height:38px;margin-bottom:12px;border-radius:999px;color-scheme:dark}
+  /* color-scheme tells Chrome to paint its native audio controls dark. Do NOT
+     set an explicit height: the dark control set is taller than the light one
+     and a fixed height clips the play button clean off. */
+  .briefing audio{width:100%;margin-bottom:12px;color-scheme:dark}
   .chapters{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:2px}
   .chapters li{display:flex;align-items:baseline;gap:10px;padding:7px 9px;border-radius:9px;font-size:13px;line-height:1.4}
   .chapters li.now{background:var(--elevated)}
