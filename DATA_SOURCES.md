@@ -32,6 +32,20 @@ Merging is dual-keyed by DOI **and** normalized title, because OpenAlex links by
 
 Ranking (`lib/world-rank.js`) is weighted: impact 0.42 (citations per year, log-scaled to a 150/yr ceiling), recency 0.24 (400-day half-life), venue 0.16, corroboration 0.11, access 0.07. Venue prestige is a coarse, openly-listed heuristic matched on **whole words** against a normalized venue string, never bare substrings; the exact weights and every score component ship in the response (`rank_weights`, `score_breakdown`) so the ordering is auditable rather than editorial. Provider failure behaviour: HTTP 200 with `provider_status: "partial"` if one tier is empty, HTTP 502 only if both are.
 
+### Daily audio briefing (ElevenLabs)
+
+`app/research.html` (player) → `GET /api/briefing` → `briefing.json` + a committed MP3 under `/briefings/`. Built by `scripts/daily-briefing.mjs`, which runs daily in `.github/workflows/daily-briefing.yml`.
+
+The briefing is assembled from `lib/world-feed.js`, the exact module `/api/research?rank=world` serves, so what a listener hears and what the Research tab shows cannot disagree. `lib/briefing.js#selectBriefingPapers` round-robins across topics before scoring, capped at two papers per topic, so a single hot field cannot take the whole briefing.
+
+Nothing spoken is a machine's claim about research it did not read. `lib/briefing.js` does not paraphrase or summarize with an LLM: it reads the paper's own title, venue, year and citation count, and quotes the first sentence of the abstract only when that sentence is genuinely a complete sentence. Google Scholar snippets are elided extracts that routinely begin mid-clause; `leadSentence` detects that and stays silent rather than attributing a sentence that never existed. Venues that the provider elided at either end (`"… of the ACM on Software Engineering"`, `"ACM Transactions on …"`) are trimmed or dropped rather than read aloud half-finished.
+
+Cost control is the same shape as the Scholar tier. ElevenLabs bills per character, so the script is measured before synthesis and papers are dropped from the end until it fits `BRIEFING_MAX_CHARS` (default 5000, hard ceiling 9000 in `lib/elevenlabs.js`). The CI job prints the exact billable character count in a dry-run step before spending anything. Audio is rendered at `mp3_22050_32` (about 250 KB per minute, available on every ElevenLabs tier) and the archive is pruned to seven days so a daily commit cannot grow the repo without bound.
+
+Chapter timestamps come from the provider's character-level alignment (`/with-timestamps`). `lib/briefing.js` records the exact character offset where each paper's segment begins in the final script, and `lib/elevenlabs.js#timeAtCharacter` converts that offset into a playback time. Estimating from word counts would drift by seconds across a multi-minute briefing and send a listener to the wrong paper.
+
+The request path holds no ElevenLabs credential and makes no provider call: `api/briefing.js` reads a local JSON file and the audio is a static asset. The `?date=` parameter is matched against the manifest's own archive list and can never become a filesystem path.
+
 ### Main mixed article feed
 
 `app/app.js#articles` → `GET /api/articles` → `api/articles.js` → `lib/feeds.js#collectArticles` → publisher RSS/Atom or public WordPress REST, plus separately labeled research/community tiers → normalization/deduplication/media attribution → JSON.
@@ -113,6 +127,8 @@ No environment variable is required for the current public OpenAlex path, and no
 - `OPENALEX_MAILTO`: polite-pool contact address; defaults to `support@techscroll.app`.
 - `APIFY_TOKEN` (or `APIFY_API_TOKEN`): required **only** by `scripts/snapshot-scholar.mjs`. Read from `.env.local` locally and from the `APIFY_TOKEN` GitHub Actions secret in CI. `lib/apify.js` shape-checks it, sends it in an `Authorization` header so it never reaches a URL or proxy log, treats a malformed value as absent, and redacts token-shaped strings from any message it produces. Never add it to a Vercel environment: no function needs it.
 - `SCHOLAR_MAX_PER_SEARCH` (default `10`), `SCHOLAR_BUDGET_USD` (default `1.00`), `SCHOLAR_TOPICS` (default: all 23): snapshot-run tuning only.
+- `ELEVENLABS_API_KEY` (or `XI_API_KEY`): required **only** by `scripts/daily-briefing.mjs`. Read from `.env.local` locally and from the `ELEVENLABS_API_KEY` GitHub Actions secret in CI. `lib/elevenlabs.js` shape-checks it, sends it in the `xi-api-key` header, and redacts key-shaped strings from every message it produces. Never add it to a Vercel environment: no function needs it.
+- `ELEVENLABS_VOICE_ID`, `ELEVENLABS_MODEL_ID`, `BRIEFING_PAPERS`, `BRIEFING_MAX_CHARS`, `BRIEFING_MAX_PER_TOPIC`: briefing tuning only.
 
 Existing analytics/enrichment variables are unrelated to topic retrieval. Never expose API-key values in responses, logs, docs, or commits.
 
@@ -127,11 +143,13 @@ node --check lib/apify.js
 node --check lib/scholar.js
 node --check lib/world-rank.js
 node scripts/snapshot-scholar.mjs --dry-run   # cost plan; spends nothing
+node scripts/daily-briefing.mjs --dry-run     # prints the script + billable characters
 git diff --check
 
 # after deployment
 curl -fsS 'https://<production-host>/api/research?topic=AI%20%2F%20ML&limit=3'
 curl -fsS 'https://<production-host>/api/research?topic=AI%20%2F%20ML&rank=world&limit=5'
+curl -fsS 'https://<production-host>/api/briefing'
 curl -fsS 'https://<production-host>/app/research?topic=Skincare'
 ```
 

@@ -32,8 +32,8 @@ import { readFileSync } from "node:fs";
 import { collectPapers, collectTopicPapers, sortPapersNewestFirst } from "../lib/papers.js";
 import { isRelevantRaw } from "../lib/research-shared.js";
 import { TOPIC_NAMES, findTopic, rollingCutoff } from "../lib/topics.js";
-import { scholarPapersForTopic, scholarSnapshotMeta } from "../lib/scholar-snapshot.js";
-import { mergePapers, rankWorld, RANK_WEIGHTS } from "../lib/world-rank.js";
+import { collectWorldPapers } from "../lib/world-feed.js";
+import { RANK_WEIGHTS } from "../lib/world-rank.js";
 
 // Precomputed per-paper enrichment (headline/hook/cover) from scripts/enrich.mjs.
 // Same readFileSync-try/catch convention as the enriched.json article cache —
@@ -267,35 +267,17 @@ export default async function handler(req, res) {
   let scholarMeta = null;
   try {
     if (worldRanked) {
-      // Read the Scholar tier FIRST: it is a synchronous local read that cannot
-      // fail the request, so if OpenAlex is down the lane still has an answer.
-      const scholarPapers = scholarPapersForTopic(topic.name, { now, limit: 60 });
-      scholarMeta = scholarSnapshotMeta();
-      let openAlexPapers = [];
-      let openAlexFailed = false;
-      try {
-        // Pull a deeper OpenAlex pool than the caller asked for: ranking only
-        // beats sorting if it has more candidates than slots to fill.
-        const result = await collectTopicPapers(topic.name, { now, limit: Math.min(50, Math.max(topicLimit, 40)) });
-        providerStatus = result.providerStatus;
-        openAlexPapers = result.papers;
-      } catch { openAlexFailed = true; }
-
-      if (openAlexFailed && !scholarPapers.length) {
+      // lib/world-feed.js is shared with scripts/daily-briefing.mjs so the audio
+      // briefing can never describe a ranking the app does not show.
+      const world = await collectWorldPapers(topic.name, { now, limit: topicLimit, poolSize: Math.max(topicLimit, 40) });
+      if (!world.ok) {
         res.setHeader("Cache-Control", "no-store");
         return res.status(502).json({ error: "Research provider unavailable", topic: topic.name, topics: TOPIC_NAMES });
       }
-      if (openAlexFailed) providerStatus = "partial";
-
-      // OpenAlex first so a paper both providers found keeps the DOI-verified
-      // identity, link and rights metadata; Scholar contributes its citation
-      // count, venue, PDF link and the corroboration signal.
-      const merged = mergePapers([openAlexPapers, scholarPapers], { now });
-      papers = rankWorld(merged, { now }).map((paper) => toResearch(paper, null, base));
-      sources = [
-        ...(openAlexPapers.length ? [{ provider: "OpenAlex", via: "direct", count: openAlexPapers.length }] : []),
-        ...(scholarPapers.length ? [{ provider: "Google Scholar", via: "Apify", count: scholarPapers.length, snapshot_at: scholarMeta?.generated_at || null }] : []),
-      ];
+      providerStatus = world.providerStatus;
+      scholarMeta = world.scholarSnapshot;
+      sources = world.sources;
+      papers = world.papers.map((paper) => toResearch(paper, null, base));
     } else if (topic) {
       const result = await collectTopicPapers(topic.name, { now, limit: topicLimit });
       providerStatus = result.providerStatus;

@@ -13,6 +13,26 @@
   .rank-switch button{border:0;background:transparent;color:var(--ink-3);border-radius:999px;padding:8px 16px;font:inherit;font-size:13px;font-weight:800;cursor:pointer}
   .rank-switch button[aria-pressed="true"]{background:var(--accent);color:var(--cta-ink)}
   .rank-note{display:block;font-size:12.5px;color:var(--ink-4);margin:-12px 0 22px;max-width:760px;line-height:1.55}
+  .briefing{margin:0 0 26px;padding:18px 20px;display:none}
+  .briefing.on{display:block}
+  .briefing-head{display:flex;flex-wrap:wrap;align-items:baseline;gap:10px;margin-bottom:4px}
+  .briefing-head h2{font-size:17px;font-weight:900;margin:0;display:flex;align-items:center;gap:8px}
+  .briefing-head .meta{font-size:12px;font-weight:800;color:var(--ink-4);text-transform:uppercase;letter-spacing:.4px}
+  .briefing p.blurb{font-size:13px;color:var(--ink-3);margin:0 0 12px;line-height:1.55}
+  .briefing audio{width:100%;height:38px;margin-bottom:12px;border-radius:999px}
+  .chapters{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:2px}
+  .chapters li{display:flex;align-items:baseline;gap:10px;padding:7px 9px;border-radius:9px;font-size:13px;line-height:1.4}
+  .chapters li.now{background:var(--elevated)}
+  .chapters button.seek{border:0;background:transparent;color:var(--indigo);font:inherit;font-size:12px;font-weight:800;font-variant-numeric:tabular-nums;cursor:pointer;padding:0;flex:0 0 auto}
+  .chapters .ch-title{color:var(--ink-2);flex:1;min-width:0}
+  .chapters .ch-title b{display:block;font-weight:700;color:var(--ink);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .chapters .ch-title span{font-size:11.5px;color:var(--ink-4);font-weight:700}
+  .chapters a.open{font-size:11.5px;font-weight:800;color:var(--ink-4);flex:0 0 auto}
+  .chapters a.open:hover{color:var(--ink-2)}
+  .briefing details{margin-top:12px}
+  .briefing summary{font-size:12px;font-weight:800;color:var(--ink-4);cursor:pointer}
+  .briefing details p{white-space:pre-wrap;font-size:13px;color:var(--ink-3);line-height:1.6;margin:10px 0 0;max-height:280px;overflow:auto}
+  @media(max-width:760px){.chapters{grid-template-columns:1fr}}
   .topic-list{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:26px}
   .topic-list button{border:1px solid var(--line);background:var(--surface);color:var(--ink-2);border-radius:999px;padding:8px 13px;font:inherit;font-size:13px;font-weight:700;cursor:pointer}
   .topic-list button:hover,.topic-list button.active{background:var(--accent);color:var(--cta-ink);border-color:var(--accent)}
@@ -60,6 +80,16 @@
       <button type="button" data-rank="recent" aria-pressed="false">🆕 Newest first</button>
     </div>
     <span id="rankNote" class="rank-note"></span>
+  </section>
+  <section id="briefing" class="card briefing" aria-label="Daily audio briefing">
+    <div class="briefing-head">
+      <h2>🎧 Today's research briefing</h2>
+      <span class="meta" id="briefingMeta"></span>
+    </div>
+    <p class="blurb" id="briefingBlurb"></p>
+    <audio id="briefingAudio" controls preload="none"></audio>
+    <ul class="chapters" id="briefingChapters"></ul>
+    <details><summary>Read the transcript</summary><p id="briefingTranscript"></p></details>
   </section>
   <nav id="topics" class="topic-list" aria-label="Research topics"></nav>
   <section>
@@ -225,9 +255,58 @@ async function loadFeed() {
   }
 }
 
+// The briefing is a static MP3 rendered once a day by scripts/daily-briefing.mjs
+// from the SAME world ranking this page shows. If none exists yet the card stays
+// hidden: an empty player is worse than no player.
+async function loadBriefing() {
+  const host = document.getElementById("briefing");
+  try {
+    const response = await fetch("/api/briefing");
+    if (!response.ok) return;
+    const data = await response.json();
+    if (!data.audio_url || !Array.isArray(data.chapters) || !data.chapters.length) return;
+
+    const audio = document.getElementById("briefingAudio");
+    audio.src = data.audio_url;
+    const mins = Math.floor((data.duration_seconds || 0) / 60);
+    const secs = String(Math.round((data.duration_seconds || 0) % 60)).padStart(2, "0");
+    document.getElementById("briefingMeta").textContent = `${data.date_label || data.date} · ${mins}:${secs} · ${data.chapters.length} papers`;
+    document.getElementById("briefingBlurb").textContent =
+      `Narrated from the same world ranking below: ${data.source || "OpenAlex and Google Scholar"}. Voice by ${data.provider || "ElevenLabs"}. Jump to any paper with the timestamps.`;
+    document.getElementById("briefingTranscript").textContent = data.transcript || "";
+
+    const fmt = (seconds) => `${Math.floor(seconds / 60)}:${String(Math.floor(seconds % 60)).padStart(2, "0")}`;
+    const list = document.getElementById("briefingChapters");
+    list.innerHTML = data.chapters.map((chapter) => `<li data-start="${chapter.start_seconds}">
+      <button type="button" class="seek" aria-label="Play from ${fmt(chapter.start_seconds)}">${fmt(chapter.start_seconds)}</button>
+      <span class="ch-title"><b>${esc(chapter.title)}</b><span>${esc(chapter.topic || "")}${chapter.citations ? ` · ${chapter.citations.toLocaleString()} citations` : ""}</span></span>
+      ${chapter.url ? `<a class="open" href="${esc(chapter.url)}" target="_blank" rel="noopener nofollow">Source ↗</a>` : ""}
+    </li>`).join("");
+
+    list.querySelectorAll("button.seek").forEach((button) => button.onclick = () => {
+      audio.currentTime = Number(button.parentElement.dataset.start) || 0;
+      audio.play();
+      T.track("article_selected", { surface: "briefing" });
+    });
+
+    const items = [...list.children];
+    audio.addEventListener("timeupdate", () => {
+      let active = -1;
+      items.forEach((item, index) => { if (audio.currentTime >= Number(item.dataset.start)) active = index; });
+      items.forEach((item, index) => item.classList.toggle("now", index === active));
+    });
+    audio.addEventListener("play", () => T.track("article_selected", { surface: "briefing_play" }), { once: true });
+
+    host.classList.add("on");
+  } catch {
+    // A missing briefing is a normal state, not a failure worth shouting about.
+  }
+}
+
 paintRank();
 paintTopics();
 loadFeed();
+loadBriefing();
 </script>
 </body>
 </html>

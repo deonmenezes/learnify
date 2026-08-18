@@ -332,6 +332,45 @@ curl -fsS 'https://<host>/api/research?topic=AI%20%2F%20ML&rank=world&limit=10'
 
 ---
 
+## `GET /api/briefing`
+
+Returns the manifest for the daily narrated research briefing: the audio URL,
+its measured duration, the full transcript, and one chapter per paper with the
+timestamp where that paper begins.
+
+Chapter timestamps come from ElevenLabs' character-level alignment, not from a
+word-count estimate, so seeking to a chapter lands on the right sentence rather
+than drifting several seconds over a multi-minute briefing.
+
+| Field | Meaning |
+|---|---|
+| `date`, `date_label`, `title` | which briefing this is |
+| `audio_url` | committed static MP3 under `/briefings/` |
+| `duration_seconds`, `audio_bytes` | measured, not estimated |
+| `transcript` | the exact text that was synthesized |
+| `chapters[]` | `index`, `start_seconds`, `title`, `topic`, `venue`, `citations`, `world_score`, `url`, `open_access_pdf`, `providers` |
+| `archive[]` | `{ date, audio_url }` for the retained back-catalogue |
+| `provider`, `voice_id`, `model_id` | how it was narrated |
+
+`?date=YYYY-MM-DD` serves an archived briefing. The parameter is matched against
+the manifest's own `archive` list, so it can never be turned into a filesystem
+path; a malformed value is HTTP 400 and an unlisted date is HTTP 404. Archived
+entries return playable audio with `transcript: null` and `chapters: []`, since
+only the current briefing retains those.
+
+HTTP 404 before the first briefing has been generated. That is a real state on a
+fresh deploy, not an error.
+
+**No credential is involved in a request.** The briefing is rendered once a day
+by `scripts/daily-briefing.mjs` in CI and committed; the endpoint reads a local
+JSON file. A page view can never spend a character of ElevenLabs quota.
+
+```bash
+curl -fsS 'https://<host>/api/briefing' | jq '{date, duration_seconds, chapters: [.chapters[].title]}'
+```
+
+---
+
 ## `GET /api/content`
 
 Accepts exactly one strict `pmcid=PMC…` or numeric `pmid=…` parameter. A PMID is resolved to a PMCID through Europe PMC’s bounded JSON search endpoint. The server constructs a fixed Europe PMC `fullTextXML` URL; arbitrary URLs and hosts are not accepted. A body is returned only when the XML contains an exact supported license URL for CC0 1.0, Public Domain Mark 1.0, CC BY 3.0, or CC BY 4.0.

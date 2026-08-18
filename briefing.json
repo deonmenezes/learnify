@@ -1,0 +1,159 @@
+{
+  "generated_at": "2026-08-18T02:57:01.661Z",
+  "date": "2026-08-18",
+  "date_label": "Tuesday, August 18",
+  "title": "Learnify research briefing, Tuesday, August 18",
+  "audio_url": "/briefings/2026-08-18.mp3",
+  "audio_bytes": 543992,
+  "duration_seconds": 135.88,
+  "voice_id": "SAz9YHcvj6GT2YYXdXww",
+  "model_id": "eleven_flash_v2_5",
+  "provider": "ElevenLabs",
+  "characters": 1847,
+  "source": "OpenAlex and Google Scholar, world-ranked",
+  "transcript": "This is your Learnify research briefing for Tuesday, August 18. Eight papers, ranked out of everything OpenAlex and Google Scholar indexed in the last two years. Here is what stood out.\n\nFirst, from Physics & Space. Quantum mechanics and observers for gravity in a closed universe. Published in Springer, 2026. It has 86 citations, running at about 86 a year.\n\nSecond, from Coding & Dev Tools. Demystifying llm-based software engineering agents. Published in 2025. It has 223 citations, running at about 197 a year.\n\nThird, from AI / ML. Graph machine learning in the era of large language models (llms). Published in ACM Transactions, 2025. It has 110 citations, running at about 97 a year.\n\nFourth, from Robotics. On human-in-the-loop optimization of human-robot interaction. Published in Nature, 2024. It has 175 citations, running at about 82 a year.\n\nFifth, from Security. Battery management system: Threat modeling, vulnerability analysis, and cybersecurity strategy. Published in IEEE Access, 2025. It has 77 citations, running at about 68 a year.\n\nSixth, from Hardware & Gadgets. Unperceivable designs of wearable electronics. Published in Wiley Online Library, 2025. It has 49 citations, running at about 43 a year.\n\nSeventh, from Crypto / Web3. On identity, transaction, and smart contract privacy on permissioned and permissionless blockchain: A comprehensive survey. Published in ACM Computing Surveys, 2024. It has 119 citations, running at about 56 a year.\n\nEighth, from Big Tech. Start-up acquisitions, venture capital and innovation: A comparative study of Google, Apple, Facebook, Amazon and Microsoft. Published in Elsevier, 2025. It has 30 citations, running at about 26 a year.\n\nThat is your briefing. Every paper is linked in the Research tab, where you can switch between best in the world and newest first. See you tomorrow.",
+  "chapters": [
+    {
+      "index": 1,
+      "char_start": 187,
+      "char_end": 361,
+      "id": "gs_z64hju",
+      "title": "Quantum mechanics and observers for gravity in a closed universe",
+      "topic": "Physics & Space",
+      "venue": "Springer",
+      "citations": 86,
+      "world_score": 81,
+      "url": "https://link.springer.com/article/10.1007/JHEP02(2026)108",
+      "open_access_pdf": "https://link.springer.com/content/pdf/10.1007/JHEP02(2026)108.pdf",
+      "providers": [
+        "Google Scholar"
+      ],
+      "start_seconds": 12.14
+    },
+    {
+      "index": 2,
+      "char_start": 361,
+      "char_end": 517,
+      "id": "gs_11xwvr7",
+      "title": "Demystifying llm-based software engineering agents",
+      "topic": "Coding & Dev Tools",
+      "venue": "of the ACM on Software Engineering",
+      "citations": 223,
+      "world_score": 75,
+      "url": "https://dl.acm.org/doi/abs/10.1145/3715754",
+      "open_access_pdf": "https://dl.acm.org/doi/pdf/10.1145/3715754",
+      "providers": [
+        "Google Scholar"
+      ],
+      "start_seconds": 24.48
+    },
+    {
+      "index": 3,
+      "char_start": 517,
+      "char_end": 693,
+      "id": "gs_11z52h5",
+      "title": "Graph machine learning in the era of large language models (llms)",
+      "topic": "AI / ML",
+      "venue": "ACM Transactions on …",
+      "citations": 110,
+      "world_score": 73,
+      "url": "https://dl.acm.org/doi/abs/10.1145/3732786",
+      "open_access_pdf": "https://dl.acm.org/doi/pdf/10.1145/3732786",
+      "providers": [
+        "Google Scholar"
+      ],
+      "start_seconds": 36.42
+    },
+    {
+      "index": 4,
+      "char_start": 693,
+      "char_end": 856,
+      "id": "gs_14jot4n",
+      "title": "On human-in-the-loop optimization of human–robot interaction",
+      "topic": "Robotics",
+      "venue": "Nature",
+      "citations": 175,
+      "world_score": 71,
+      "url": "https://www.nature.com/articles/s41586-024-07697-2",
+      "open_access_pdf": "https://pure.eur.nl/files/169691907/On_human-in-the-loop_optimization_of_human_robot_interaction.pdf",
+      "providers": [
+        "Google Scholar"
+      ],
+      "start_seconds": 51.34
+    },
+    {
+      "index": 5,
+      "char_start": 856,
+      "char_end": 1056,
+      "id": "gs_zgymig",
+      "title": "Battery management system: Threat modeling, vulnerability analysis, and cybersecurity strategy",
+      "topic": "Security",
+      "venue": "IEEE Access",
+      "citations": 77,
+      "world_score": 68,
+      "url": "https://ieeexplore.ieee.org/abstract/document/10891765/",
+      "open_access_pdf": "https://ieeexplore.ieee.org/iel8/6287639/10820123/10891765.pdf",
+      "providers": [
+        "Google Scholar"
+      ],
+      "start_seconds": 64.85
+    },
+    {
+      "index": 6,
+      "char_start": 1056,
+      "char_end": 1226,
+      "id": "gs_74oo53",
+      "title": "Unperceivable designs of wearable electronics",
+      "topic": "Hardware & Gadgets",
+      "venue": "Wiley Online Library",
+      "citations": 49,
+      "world_score": 65,
+      "url": "https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adma.202502727",
+      "open_access_pdf": "https://advanced.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adma.202502727",
+      "providers": [
+        "Google Scholar"
+      ],
+      "start_seconds": 81.49
+    },
+    {
+      "index": 7,
+      "char_start": 1226,
+      "char_end": 1472,
+      "id": "gs_12p7rxe",
+      "title": "On identity, transaction, and smart contract privacy on permissioned and permissionless blockchain: A comprehensive survey",
+      "topic": "Crypto / Web3",
+      "venue": "ACM Computing Surveys",
+      "citations": 119,
+      "world_score": 61,
+      "url": "https://dl.acm.org/doi/abs/10.1145/3676164",
+      "open_access_pdf": "https://dl.acm.org/doi/pdf/10.1145/3676164",
+      "providers": [
+        "Google Scholar"
+      ],
+      "start_seconds": 94.84
+    },
+    {
+      "index": 8,
+      "char_start": 1472,
+      "char_end": 1699,
+      "id": "gs_q20map",
+      "title": "Start-up acquisitions, venture capital and innovation: A comparative study of Google, Apple, Facebook, Amazon and Microsoft",
+      "topic": "Big Tech",
+      "venue": "Elsevier",
+      "citations": 30,
+      "world_score": 56,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0167718725000153",
+      "open_access_pdf": null,
+      "providers": [
+        "Google Scholar"
+      ],
+      "start_seconds": 112.41
+    }
+  ],
+  "archive": [
+    {
+      "date": "2026-08-18",
+      "audio_url": "/briefings/2026-08-18.mp3"
+    }
+  ]
+}
