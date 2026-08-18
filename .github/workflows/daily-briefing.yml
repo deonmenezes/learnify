@@ -82,6 +82,20 @@ jobs:
             node scripts/sync-mongo.mjs || echo "mongo archive failed - continuing"
           fi
 
+      # Mirrors Supabase user data AND reconciles deletions: anyone no longer in
+      # Supabase is purged from the archive, which is what keeps the privacy
+      # policy's deletion promise true without depending on a client call.
+      - name: Mirror user data and reconcile deletions
+        env:
+          MONGODB_URI: ${{ secrets.MONGODB_URI }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: |
+          if [ -z "$MONGODB_URI" ] || [ -z "$SUPABASE_SERVICE_ROLE_KEY" ]; then
+            echo "MONGODB_URI or SUPABASE_SERVICE_ROLE_KEY not set - skipping the user mirror"
+          else
+            node scripts/sync-users.mjs || echo "user mirror failed - continuing"
+          fi
+
       - name: Commit + push if the briefing changed
         run: |
           git config user.name "techscroll-bot"

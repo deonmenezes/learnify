@@ -32,6 +32,22 @@ Merging is dual-keyed by DOI **and** normalized title, because OpenAlex links by
 
 Ranking (`lib/world-rank.js`) is weighted: impact 0.42 (citations per year, log-scaled to a 150/yr ceiling), recency 0.24 (400-day half-life), venue 0.16, corroboration 0.11, access 0.07. Venue prestige is a coarse, openly-listed heuristic matched on **whole words** against a normalized venue string, never bare substrings; the exact weights and every score component ship in the response (`rank_weights`, `score_breakdown`) so the ordering is auditable rather than editorial. Provider failure behaviour: HTTP 200 with `provider_status: "partial"` if one tier is empty, HTTP 502 only if both are.
 
+### User data in the archive, and the deletion promise
+
+`scripts/sync-users.mjs` mirrors the five Supabase user tables into MongoDB: `ts_profiles`, `ts_saved_articles`, `ts_read_events`, `ts_quiz_attempts` and `ts_flashcards` become `user_profiles`, `user_saved_articles`, `user_read_events`, `user_quiz_attempts` and `user_flashcards`. It needs `SUPABASE_SERVICE_ROLE_KEY`, because Row Level Security means the anon key can only see the calling user's own rows.
+
+**The hard part is not the copy, it is deletion.** `privacy.html` promises "You can permanently delete your account". Supabase honours that for the primary store. The moment a second copy exists, the promise is only true if the archive is erased too, and a copy that outlives a deletion request is a broken promise and an erasure-rights problem.
+
+Three things make it hold:
+
+1. **`POST /api/account-delete`** erases immediately. The caller sends its Supabase access token; the token is resolved to a user id *by Supabase*, so a forged or expired token simply fails and no JWT secret is needed here. A user id in the request body is ignored entirely - accepting one would let any caller erase any account. It answers 503, never 500 or 200, when the archive is unreachable, because telling a user their data is gone when it is not is the worst possible failure here.
+2. **`scripts/sync-users.mjs` reconciles on every run.** It reads the set of user ids that currently exist in Supabase and purges from Mongo every id that does not. A promise that depends on every client remembering to call an endpoint is not a promise; this makes erasure eventually consistent by construction, so an old app build, a crash mid-delete or a dropped connection cannot leave orphaned personal data behind. It refuses to purge when Supabase returns *no* users at all, since that is far more likely to be a failed read than mass deletion.
+3. **Every user collection is indexed on `user_id`**, so erasure is one indexed delete per collection rather than a scan, and `USER_COLLECTIONS` in `lib/mongo.js` is the single list both the deleter and the reconciler read - a new user table cannot be added without deletion covering it.
+
+`privacy.html` was updated in the same change to name MongoDB Atlas as a processor, state that the archive holds a copy of signed-in users' library and learning-progress records, and say that deletion covers both stores. Copying user data into a store the policy does not disclose would have made the policy untrue, so a test asserts the disclosure is present.
+
+The service-role key bypasses RLS entirely and lives only in `.env.local` and CI secrets. `lib/supabase-admin.js` is deliberately a separate module from `lib/supabase.js` (which uses the public anon key against a privacy-safe view) so the import site makes clear which one a caller is reaching for, and a test asserts nothing under `app/` imports it.
+
 ### The MongoDB archive (Atlas)
 
 `scripts/sync-mongo.mjs` writes the day's corpus into a MongoDB Atlas cluster (`learnify`, free tier, Harini's Org / Project 0). `/api/subscribe` writes newsletter opt-ins to the same database.
