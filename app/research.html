@@ -3,10 +3,6 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Research topics · Learnify</title>
-<meta name="description" content="The best research in the world across 23 exact Learnify topics, ranked from OpenAlex and Google Scholar.">
-<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
-<link rel="stylesheet" href="/app/app.css">
 <script>
 // THE FEED REQUEST STARTS HERE, on the first line of the page, and deliberately
 // not in the module below.
@@ -24,7 +20,9 @@
   var topic = params.get("topic") || "AI / ML";
   var rank = params.get("rank") === "recent" ? "recent" : "world";
   var lane = rank === "world" ? "&rank=world" : "&sort=recent";
-  var promise = fetch("/api/research?topic=" + encodeURIComponent(topic) + "&limit=24" + lane)
+  // priority:"high" matters: without it Chrome queues this behind the
+  // render-blocking scripts and it left the gate at 1214ms instead of ~60ms.
+  var promise = fetch("/api/research?topic=" + encodeURIComponent(topic) + "&limit=24" + lane, { priority: "high" })
     .then(function (response) { if (!response.ok) throw new Error("request"); return response.json(); });
   // A rejected prefetch is a normal outcome (bad ?topic=, offline). Swallow it
   // here so it cannot surface as an unhandled rejection; loadFeed re-fetches.
@@ -32,6 +30,10 @@
   window.__feedPrefetch = { key: topic + "|" + rank, promise: promise };
 })();
 </script>
+<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+<title>Research topics · Learnify</title>
+<meta name="description" content="The best research in the world across 23 exact Learnify topics, ranked from OpenAlex and Google Scholar.">
+
 <style>
   .research-wrap{max-width:1180px;margin:0 auto;padding:34px 24px 80px}.research-head{max-width:820px}
   .research-head h1{font-size:42px;margin:0 0 8px}.research-head p{color:var(--ink-3);margin:0 0 18px;line-height:1.6}
@@ -109,9 +111,13 @@ const esc = T.esc;
 const params = new URLSearchParams(location.search);
 let selected = TOPIC_NAMES.includes(params.get("topic")) ? params.get("topic") : TOPIC_NAMES[0];
 let rank = params.get("rank") === "recent" ? "recent" : "world";
-const user = await T.getUserOptional();
-const profile = await T.loadProfile(user);
-T.renderNav("Research", profile);
+// The feed is public. Awaiting the session first meant two Supabase
+// round-trips stood between the reader and papers that needed neither, so the
+// nav resolves in the background and the feed paints immediately.
+T.getUserOptional()
+  .then((user) => T.loadProfile(user))
+  .then((profile) => T.renderNav("Research", profile))
+  .catch(() => T.renderNav("Research", null));
 
 const RANK_NOTES = {
   world: "Ranked, not sorted. Every paper carries the score that placed it there, so the order is inspectable rather than editorial.",
