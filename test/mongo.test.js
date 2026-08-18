@@ -3,7 +3,7 @@ import assert from "node:assert/strict";
 import { readFileSync } from "node:fs";
 import { mongoUri, hasMongo, redact, INDEXES, ensureIndexes, MongoConfigError, getDb } from "../lib/mongo.js";
 
-const URI = "mongodb+srv://user:s3cr3tpassw0rd@learnify.3heby4y.mongodb.net/?appName=learnify";
+const URI = "mongodb+srv://user:s3cr3tpassw0rd@example-cluster.mongodb.net/?appName=learnify";
 
 test("the connection string is env-only and shape-checked", () => {
   assert.equal(mongoUri({ MONGODB_URI: URI }), URI);
@@ -19,7 +19,7 @@ test("a connection string never reaches a log line with its password intact", ()
   // quote the URI would leak it straight into CI output.
   const message = `failed to connect to ${URI} after 3 attempts`;
   assert.ok(!redact(message).includes("s3cr3tpassw0rd"));
-  assert.match(redact(message), /mongodb\+srv:\/\/\*\*\*:\*\*\*@learnify/);
+  assert.match(redact(message), /mongodb\+srv:\/\/\*\*\*:\*\*\*@example-cluster/);
   assert.ok(!redact("mongodb://admin:hunter2@localhost:27017").includes("hunter2"));
   assert.equal(redact(null), "");
 });
