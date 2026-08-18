@@ -1,23 +1,28 @@
 import test from "node:test";
 import assert from "node:assert/strict";
 import { readFileSync } from "node:fs";
-import { loadWorldSnapshot, worldPapersForTopic } from "../lib/world-snapshot.js";
+import { loadWorldIndex, worldPapersForTopic, topicSlug } from "../lib/world-snapshot.js";
 import { TOPIC_NAMES, rollingCutoff } from "../lib/topics.js";
 
 const NOW = new Date("2026-08-18T12:00:00.000Z");
 const CUTOFF_YEAR = rollingCutoff(NOW).getUTCFullYear();
 
+// The index carries metadata only; papers live in one file per topic, injected
+// here through the `load` seam so these tests never touch the filesystem.
 function snapshotWith(papers, generatedAt = NOW.toISOString()) {
   return {
-    generated_at: generatedAt,
-    topics: { "AI / ML": { refreshed_at: generatedAt, provider_status: "ok", sources: [{ provider: "OpenAlex", count: 40 }], papers } },
+    index: {
+      generated_at: generatedAt,
+      topics: { "AI / ML": { slug: "ai-ml", refreshed_at: generatedAt, provider_status: "ok", sources: [{ provider: "OpenAlex", count: 40 }], count: papers.length } },
+    },
+    load: (slug) => (slug === "ai-ml" ? { topic: "AI / ML", papers } : null),
   };
 }
 
 test("a fresh snapshot serves the topic without touching a provider", () => {
   const result = worldPapersForTopic("AI / ML", {
     now: NOW,
-    snapshot: snapshotWith([
+    ...snapshotWith([
       { title: "Dated and inside the window", published: "2026-01-05T00:00:00.000Z" },
       { title: "Year-precision and inside the window", published_year: CUTOFF_YEAR },
     ]),
@@ -32,7 +37,7 @@ test("freshness is re-checked on read, not trusted from snapshot time", () => {
   // stale snapshot must shrink honestly rather than ship aged-out papers.
   const result = worldPapersForTopic("AI / ML", {
     now: NOW,
-    snapshot: snapshotWith([
+    ...snapshotWith([
       { title: "Still inside the window", published: "2026-01-05T00:00:00.000Z" },
       { title: "Aged out since the snapshot", published: "2023-01-05T00:00:00.000Z" },
       { title: "Year aged out", published_year: CUTOFF_YEAR - 1 },
@@ -47,21 +52,37 @@ test("freshness is re-checked on read, not trusted from snapshot time", () => {
 test("a stale, empty or missing snapshot falls through to the live path", () => {
   const old = new Date(NOW.getTime() - 4 * 24 * 60 * 60 * 1000).toISOString();
   // Older than the max age: better a slow correct answer than a confident stale one.
-  assert.equal(worldPapersForTopic("AI / ML", { now: NOW, snapshot: snapshotWith([{ title: "x", published_year: 2026 }], old) }), null);
-  assert.equal(worldPapersForTopic("AI / ML", { now: NOW, snapshot: snapshotWith([]) }), null);
+  assert.equal(worldPapersForTopic("AI / ML", { now: NOW, ...snapshotWith([{ title: "x", published_year: 2026 }], old) }), null);
+  assert.equal(worldPapersForTopic("AI / ML", { now: NOW, ...snapshotWith([]) }), null);
   // Every paper aging out is the same as having none.
-  assert.equal(worldPapersForTopic("AI / ML", { now: NOW, snapshot: snapshotWith([{ title: "old", published_year: 2000 }]) }), null);
-  assert.equal(worldPapersForTopic("Nope", { now: NOW, snapshot: snapshotWith([{ title: "x", published_year: 2026 }]) }), null);
-  assert.equal(worldPapersForTopic("AI / ML", { now: NOW, snapshot: null }), null);
-  assert.equal(worldPapersForTopic("AI / ML", { now: NOW, snapshot: { topics: {} } }), null);
+  assert.equal(worldPapersForTopic("AI / ML", { now: NOW, ...snapshotWith([{ title: "old", published_year: 2000 }]) }), null);
+  assert.equal(worldPapersForTopic("Nope", { now: NOW, ...snapshotWith([{ title: "x", published_year: 2026 }]) }), null);
+  assert.equal(worldPapersForTopic("AI / ML", { now: NOW, index: null }), null);
+  assert.equal(worldPapersForTopic("AI / ML", { now: NOW, index: { generated_at: NOW.toISOString(), topics: {} } }), null);
 });
 
-test("the committed snapshot covers the canonical topics and carries no credential", () => {
-  const snapshot = loadWorldSnapshot({ reload: true });
-  if (!snapshot) return; // absent snapshot is a supported state
-  for (const topicName of Object.keys(snapshot.topics)) {
+test("slugs are filename-safe and stable for every canonical topic", () => {
+  const seen = new Set();
+  for (const name of TOPIC_NAMES) {
+    const slug = topicSlug(name);
+    assert.match(slug, /^[a-z0-9-]{1,60}$/, name);
+    assert.ok(!seen.has(slug), `slug collision: ${slug}`);
+    seen.add(slug);
+  }
+  // A request parameter can never climb out of the world/ directory.
+  assert.match(topicSlug("../../etc/passwd"), /^[a-z0-9-]*$/);
+  assert.ok(!topicSlug("../../etc/passwd").includes("."));
+});
+
+test("every indexed topic has a real, ranked, credential-free file on disk", () => {
+  const index = loadWorldIndex({ reload: true });
+  if (!index) return; // absent snapshot is a supported state
+  for (const topicName of Object.keys(index.topics)) {
     assert.ok(TOPIC_NAMES.includes(topicName), `unknown topic: ${topicName}`);
-    const entry = snapshot.topics[topicName];
+    const slug = index.topics[topicName].slug;
+    const raw = readFileSync(new URL(`../world/${slug}.json`, import.meta.url), "utf8");
+    assert.ok(!/apify_api_|sk_[A-Za-z0-9]{20,}/.test(raw), `credential in ${slug}.json`);
+    const entry = JSON.parse(raw);
     assert.ok(Array.isArray(entry.papers) && entry.papers.length, topicName);
     for (const paper of entry.papers) {
       assert.equal(paper.content_type, "paper");
@@ -69,13 +90,14 @@ test("the committed snapshot covers the canonical topics and carries no credenti
       // The ranking must already be applied; the API must not have to re-sort.
       assert.ok(Number.isFinite(paper.world_score), `${topicName} paper missing world_score`);
     }
-    // Ranked descending, or the "fast path" would serve a different order than
+    // Ranked descending, or the fast path would serve a different order than
     // the live path for the same data.
     const scores = entry.papers.map((paper) => paper.world_score);
     assert.deepEqual(scores, [...scores].sort((a, b) => b - a), `${topicName} is not ranked`);
   }
-  const raw = readFileSync(new URL("../world-snapshot.json", import.meta.url), "utf8");
-  assert.ok(!/apify_api_|sk_[A-Za-z0-9]{20,}/.test(raw));
+  // The index must stay small: it is parsed on every cold serverless start.
+  const indexBytes = readFileSync(new URL("../world-snapshot.json", import.meta.url), "utf8").length;
+  assert.ok(indexBytes < 64 * 1024, `index grew to ${indexBytes} bytes; it must stay metadata-only`);
 });
 
 test("the API declares which path served the request", async () => {

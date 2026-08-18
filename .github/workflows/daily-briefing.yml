@@ -73,8 +73,8 @@ jobs:
         run: |
           git config user.name "techscroll-bot"
           git config user.email "bot@users.noreply.github.com"
-          if [ -n "$(git status --porcelain briefing.json briefings world-snapshot.json)" ]; then
-            git add briefing.json briefings world-snapshot.json
+          if [ -n "$(git status --porcelain briefing.json briefings world-snapshot.json world)" ]; then
+            git add briefing.json briefings world-snapshot.json world
             git commit -m "chore(data): daily research briefing + world-ranked snapshot [skip ci]"
             git push
             echo "pushed - Vercel will redeploy with today's briefing"

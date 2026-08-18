@@ -16,12 +16,14 @@
 // Costs nothing: OpenAlex is keyless and the Scholar tier is read from the
 // existing scholar-snapshot.json. No Apify run, no credential required.
 
-import { readFileSync, writeFileSync } from "node:fs";
+import { mkdirSync, readFileSync, readdirSync, unlinkSync, writeFileSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import { TOPICS, rollingCutoff } from "../lib/topics.js";
 import { collectWorldPapers } from "../lib/world-feed.js";
+import { topicSlug } from "../lib/world-snapshot.js";
 
-const OUT = fileURLToPath(new URL("../world-snapshot.json", import.meta.url));
+const INDEX_OUT = fileURLToPath(new URL("../world-snapshot.json", import.meta.url));
+const TOPIC_DIR = fileURLToPath(new URL("../world/", import.meta.url));
 
 function arg(name, fallback = null) {
   const index = process.argv.indexOf(`--${name}`);
@@ -46,9 +48,20 @@ const now = new Date();
 // happened the first time this script ran twice in one day. A topic is only
 // overwritten by a result that is actually better.
 let previous = { topics: {} };
-try { previous = JSON.parse(readFileSync(OUT, "utf-8")); } catch { /* first run */ }
+try { previous = JSON.parse(readFileSync(INDEX_OUT, "utf-8")); } catch { /* first run */ }
 if (!previous || typeof previous.topics !== "object" || !previous.topics) previous = { topics: {} };
-const topics = { ...previous.topics };
+
+// Rehydrate the previous run's papers from the per-topic files so the merge can
+// compare like with like.
+const topics = {};
+for (const [name, meta] of Object.entries(previous.topics)) {
+  try {
+    const stored = JSON.parse(readFileSync(`${TOPIC_DIR}${meta.slug || topicSlug(name)}.json`, "utf-8"));
+    if (Array.isArray(stored?.papers) && stored.papers.length) {
+      topics[name] = { ...meta, count: stored.papers.length, papers: stored.papers };
+    }
+  } catch { /* a missing topic file just means this topic starts fresh */ }
+}
 let failures = 0;
 let improved = 0;
 let kept = 0;
@@ -124,17 +137,41 @@ if (!Object.keys(topics).length) {
   process.exit(1);
 }
 
+// ONE FILE PER TOPIC plus a small index. A single combined file reached 987 KB,
+// and every cold serverless instance paid to parse all of it to answer for one
+// topic; per-topic files cost about 40 KB.
+mkdirSync(TOPIC_DIR, { recursive: true });
+const index = {};
+const written = new Set();
+for (const [name, entry] of Object.entries(topics)) {
+  const slug = topicSlug(name);
+  writeFileSync(`${TOPIC_DIR}${slug}.json`, JSON.stringify({ topic: name, refreshed_at: entry.refreshed_at, papers: entry.papers }));
+  written.add(`${slug}.json`);
+  index[name] = {
+    slug,
+    refreshed_at: entry.refreshed_at,
+    provider_status: entry.provider_status,
+    sources: entry.sources,
+    count: entry.papers.length,
+  };
+}
+// Drop files for topics that no longer exist, so a renamed label cannot leave
+// an orphan the index no longer references.
+for (const file of readdirSync(TOPIC_DIR)) {
+  if (file.endsWith(".json") && !written.has(file)) unlinkSync(`${TOPIC_DIR}${file}`);
+}
+
 const payload = {
   generated_at: new Date().toISOString(),
   cutoff: rollingCutoff(now).toISOString(),
   per_topic: perTopic,
-  topic_count: Object.keys(topics).length,
+  topic_count: Object.keys(index).length,
   count: Object.values(topics).reduce((total, entry) => total + entry.papers.length, 0),
-  topics,
+  topics: index,
 };
-writeFileSync(OUT, JSON.stringify(payload));
+writeFileSync(INDEX_OUT, JSON.stringify(payload, null, 1));
 
-console.log(`\nsnapshot     ${payload.count} papers across ${payload.topic_count}/${selected.length} topics -> world-snapshot.json`);
+console.log(`\nsnapshot     ${payload.count} papers across ${payload.topic_count}/${selected.length} topics -> world/*.json + world-snapshot.json`);
 console.log(`updated      ${improved} topic(s) improved, ${kept} kept their previous (better) data`);
 if (failures) console.log(`failures     ${failures} topic(s) returned nothing and kept whatever was already stored`);
 const degraded = Object.values(topics).filter((entry) => entry.provider_status !== "ok").length;
