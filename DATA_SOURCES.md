@@ -10,6 +10,28 @@ There is no application database in this public research path. Vercel caches suc
 
 OpenAlex is a scholarly metadata index, not the publisher. Exact-topic results are restricted to DOI-bearing articles in sources OpenAlex classifies as core journals. Items are labeled `content_type=paper` / `Research paper`, `provider=OpenAlex`, and `publisher`/venue; `canonical_url` is the DOI. Learnify displays metadata and an available abstract. PubMed/PMC-identified records may be checked against the rights-gated Europe PMC body endpoint described below; every item retains a canonical source link. OpenAlex's core classification is a credibility signal, not an endorsement or guarantee of research quality.
 
+### World-ranked topic feed (OpenAlex + Google Scholar via Apify)
+
+`app/research.html` (Best in the world) → `GET /api/research?topic=<exact label>&rank=world` → `api/research.js` → the strict OpenAlex path above **plus** `lib/scholar-snapshot.js#scholarPapersForTopic`, merged by `lib/world-rank.js#mergePapers` and ordered by `#rankWorld`.
+
+Google Scholar exists in this pipeline because OpenAlex, for all its strictness, is DOI/journal shaped: it under-represents conference proceedings (where most computer-science work lands), repository-hosted work, and non-Anglophone venues, and its `cited_by_count` trails Scholar's. Scholar is the closest thing to a global census of scholarship that also reports a live citation count. It has no public API and blocks direct scraping, so Learnify reaches it through the Apify actor marketplace.
+
+**The request path never calls Apify.** The actor bills per result, so a per-request call would tie a stranger's refresh button to the account's credit balance. `scripts/snapshot-scholar.mjs` runs on a schedule (`.github/workflows/scholar-refresh.yml`, weekly), writes `scholar-snapshot.json`, and the commit triggers a Vercel redeploy. This is the same pattern the repo already uses for `x-snapshot.json` and `reddit-snapshot.json`.
+
+Actor: `johnvc/google-scholar-lite-api`. It was chosen over the other Google Scholar actors on the store because it is the only one that accepts an **array** of search terms (so all 23 topics ride one run), bills a flat **$0.0015 per paper** with no per-run start fee, and does not throttle free Apify accounts. `johnvc/google-scholar-api` returns only 5 rows per query on a free plan; `easyapi/google-scholar-scraper` charges a $0.09 start fee plus $0.00499 per result; `george.the.developer/google-scholar-scraper` charges $0.008 per paper.
+
+Cost is fully determined before the call: `papers = terms x maxResultsPerSearch`. A full refresh of all 23 topics (2 queries each, 10 papers per query) is **$0.69**. Budget is enforced twice: `scripts/snapshot-scholar.mjs` drops queries locally so the projected spend fits `--budget`, and `lib/apify.js` passes `maxTotalChargeUsd` so Apify aborts the run itself at the cap. When the budget cannot cover every topic, topics are refreshed least-recently-first and the previous snapshot is unioned in, so a small budget still rotates through every topic instead of starving the tail.
+
+Scholar normalization (`lib/scholar.js#normalizeScholarPaper`) fails closed. A row is dropped unless it has a real title (`looksLikeJunk` gate), an `http(s)` link that is **not** a `scholar.google.*` interstitial, and a publication year at or after the current rolling cutoff year and not implausibly in the future. Scholar reports a **year**, not a date, so the record sets `published_year`, `date_precision: "year"`, leaves `published` empty, and reports `freshness_verified: false`. It never invents January 1 to fake day precision.
+
+Scholar items are metadata only. They always carry `rights_status: "unknown_or_restricted"`, `full_text_status: "unknown"`, and `full_text_available: false`. Nothing in this tier can grant redistribution rights; only the Europe PMC license verification below can, and it is unchanged.
+
+`lib/scholar-snapshot.js` re-validates the publication year against the **current** rolling cutoff on every read rather than trusting the cutoff baked in at snapshot time, so a stale snapshot shrinks honestly instead of shipping papers that have since aged out. A missing, unreadable, or corrupt snapshot means the Scholar tier is simply absent that request; it is never a 500 and never a fabrication.
+
+Merging is dual-keyed by DOI **and** normalized title, because OpenAlex links by DOI while Scholar links to the publisher's own URL - a single key would silently fail to match the same paper across providers. On a match, the record takes the better value of each field (max citations, exact date over year, longer abstract, any verified license) and records both providers in `providers[]`. OpenAlex is merged first so a corroborated paper keeps the DOI-verified identity, link, and rights metadata.
+
+Ranking (`lib/world-rank.js`) is weighted: impact 0.42 (citations per year, log-scaled to a 150/yr ceiling), recency 0.24 (400-day half-life), venue 0.16, corroboration 0.11, access 0.07. Venue prestige is a coarse, openly-listed heuristic matched on **whole words** against a normalized venue string, never bare substrings; the exact weights and every score component ship in the response (`rank_weights`, `score_breakdown`) so the ordering is auditable rather than editorial. Provider failure behaviour: HTTP 200 with `provider_status: "partial"` if one tier is empty, HTTP 502 only if both are.
+
 ### Main mixed article feed
 
 `app/app.js#articles` → `GET /api/articles` → `api/articles.js` → `lib/feeds.js#collectArticles` → publisher RSS/Atom or public WordPress REST, plus separately labeled research/community tiers → normalization/deduplication/media attribution → JSON.
@@ -85,10 +107,12 @@ OpenAlex metadata may be corrected after publication, dates may reflect the prov
 
 ## Environment variables
 
-No environment variable is required for the current public OpenAlex path. Optional:
+No environment variable is required for the current public OpenAlex path, and none is required by any serverless function for the Scholar tier either - the request path reads the committed snapshot. Optional:
 
 - `OPENALEX_API_KEY`: appended only to outbound OpenAlex requests if the deployment uses an OpenAlex key.
 - `OPENALEX_MAILTO`: polite-pool contact address; defaults to `support@techscroll.app`.
+- `APIFY_TOKEN` (or `APIFY_API_TOKEN`): required **only** by `scripts/snapshot-scholar.mjs`. Read from `.env.local` locally and from the `APIFY_TOKEN` GitHub Actions secret in CI. `lib/apify.js` shape-checks it, sends it in an `Authorization` header so it never reaches a URL or proxy log, treats a malformed value as absent, and redacts token-shaped strings from any message it produces. Never add it to a Vercel environment: no function needs it.
+- `SCHOLAR_MAX_PER_SEARCH` (default `10`), `SCHOLAR_BUDGET_USD` (default `1.00`), `SCHOLAR_TOPICS` (default: all 23): snapshot-run tuning only.
 
 Existing analytics/enrichment variables are unrelated to topic retrieval. Never expose API-key values in responses, logs, docs, or commits.
 
@@ -99,10 +123,15 @@ npm test
 node --check api/research.js
 node --check lib/papers.js
 node --check lib/topics.js
+node --check lib/apify.js
+node --check lib/scholar.js
+node --check lib/world-rank.js
+node scripts/snapshot-scholar.mjs --dry-run   # cost plan; spends nothing
 git diff --check
 
 # after deployment
 curl -fsS 'https://<production-host>/api/research?topic=AI%20%2F%20ML&limit=3'
+curl -fsS 'https://<production-host>/api/research?topic=AI%20%2F%20ML&rank=world&limit=5'
 curl -fsS 'https://<production-host>/app/research?topic=Skincare'
 ```
 

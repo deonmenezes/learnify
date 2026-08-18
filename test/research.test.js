@@ -1,10 +1,12 @@
 import test from "node:test";
 import assert from "node:assert/strict";
 import { readFileSync } from "node:fs";
-import researchHandler from "../api/research.js";
+import researchHandler, { sortRecentPapers } from "../api/research.js";
 import {
+  arxivGroupURL,
   buildOpenAlexTopicUrls,
   collectTopicPapers,
+  mapOAWork,
   mapOpenAlexTopicWork,
 } from "../lib/papers.js";
 import {
@@ -90,8 +92,17 @@ test("rolling cutoff includes the UTC boundary and rejects stale, invalid, missi
 });
 
 test("provider requests carry both dynamic date bounds and each mapped query", () => {
+  const topic = findTopic("Robotics");
   const urls = buildOpenAlexTopicUrls("Robotics", { now: NOW, pageSize: 999 });
-  assert.equal(urls.length, 2);
+  assert.equal(urls.length, topic.queries.length * 2);
+  assert.deepEqual(
+    urls.map((value) => new URL(value).searchParams.get("search")),
+    topic.queries.flatMap((query) => [query, query]),
+  );
+  assert.deepEqual(
+    urls.map((value) => new URL(value).searchParams.get("sort")),
+    topic.queries.flatMap(() => ["publication_date:desc", "relevance_score:desc"]),
+  );
   for (const value of urls) {
     const url = new URL(value);
     assert.equal(url.origin, "https://api.openalex.org");
@@ -104,8 +115,41 @@ test("provider requests carry both dynamic date bounds and each mapped query", (
     assert.match(filter, /has_doi:true/);
     assert.match(filter, /primary_location\.source\.type:journal/);
     assert.match(filter, /primary_location\.source\.is_core:true/);
-    assert.equal(url.searchParams.get("sort"), "relevance_score:desc");
   }
+});
+
+test("broad arXiv requests explicitly ask the provider for newest submissions", () => {
+  const url = new URL(arxivGroupURL(["cs.AI", "cs.LG"], 12));
+  assert.equal(url.searchParams.get("search_query"), "cat:cs.AI OR cat:cs.LG");
+  assert.equal(url.searchParams.get("max_results"), "12");
+  assert.equal(url.searchParams.get("sortBy"), "submittedDate");
+  assert.equal(url.searchParams.get("sortOrder"), "descending");
+});
+
+test("broad OpenAlex normalization rejects future dates before they can rank", () => {
+  assert.equal(
+    mapOAWork(work({ publication_date: "2026-07-21" }), { now: NOW })?.published,
+    "2026-07-21T00:00:00.000Z",
+  );
+  assert.equal(mapOAWork(work({ publication_date: "2030-01-01" }), { now: NOW }), null);
+  assert.equal(mapOAWork(work({ publication_date: "2026-02-30" }), { now: NOW })?.published, "");
+});
+
+test("recent ordering is strict, newest-first, undated-last, and stable on ties", () => {
+  const papers = [
+    { id: "missing-first", published: null },
+    { id: "newest-a", published: "2026-07-20T12:00:00.000Z" },
+    { id: "invalid", published: "2026-02-30" },
+    { id: "older", published: "2025-03-10" },
+    { id: "newest-b", published: "2026-07-20T12:00:00.000Z" },
+    { id: "missing-last" },
+  ];
+  assert.deepEqual(sortRecentPapers(papers).map(({ id }) => id), [
+    "newest-a", "newest-b", "older", "missing-first", "invalid", "missing-last",
+  ]);
+  assert.deepEqual(papers.map(({ id }) => id), [
+    "missing-first", "newest-a", "invalid", "older", "newest-b", "missing-last",
+  ]);
 });
 
 test("representative OpenAlex normalization labels the paper/provider/publisher and verifies freshness", () => {
@@ -165,22 +209,61 @@ test("trusted normalization rejects every unverifiable or ineligible provider re
   for (const item of rejected) assert.equal(mapOpenAlexTopicWork(item, { topicName: "Fitness", now: NOW }), null);
 });
 
-test("topic collection normalizes provider results and deduplicates across mapped queries", async () => {
+test("topic collection merges newest and relevance pools, validates, deduplicates, and sorts", async () => {
   const originalFetch = global.fetch;
   const calls = [];
   global.fetch = async (url) => {
     calls.push(String(url));
+    const sort = new URL(url).searchParams.get("sort");
+    const results = sort === "publication_date:desc"
+      ? [
+          work({ id: "Wnewest", doi: "https://doi.org/newest", publication_date: "2026-07-20" }),
+          work(),
+        ]
+      : [
+          work(),
+          work({ id: "Wrelevant", doi: "https://doi.org/relevant", publication_date: "2025-03-10" }),
+          work({ id: "Wfuture", doi: "https://doi.org/future", publication_date: "2030-01-01" }),
+        ];
     return {
       ok: true,
-      async text() { return JSON.stringify({ results: [work(), work({ id: "Wfuture", doi: "https://doi.org/future", publication_date: "2030-01-01" })] }); },
+      async text() { return JSON.stringify({ results }); },
     };
   };
   try {
     const result = await collectTopicPapers("Fitness", { now: NOW, limit: 10 });
-    assert.equal(calls.length, 2);
+    assert.equal(calls.length, 4);
+    assert.deepEqual(
+      calls.map((value) => new URL(value).searchParams.get("sort")),
+      ["publication_date:desc", "relevance_score:desc", "publication_date:desc", "relevance_score:desc"],
+    );
     assert.equal(result.providerStatus, "ok");
+    assert.deepEqual(result.papers.map(({ link }) => link), [
+      "https://doi.org/newest", "https://doi.org/relevant", "https://doi.org/10.1000/example",
+    ]);
+    assert.ok(result.papers.every(({ freshness_verified }) => freshness_verified === true));
+  } finally {
+    global.fetch = originalFetch;
+  }
+});
+
+test("topic collection reports partial provider coverage when one candidate pool fails", async () => {
+  const originalFetch = global.fetch;
+  let calls = 0;
+  global.fetch = async (value) => {
+    calls += 1;
+    const url = new URL(value);
+    if (url.searchParams.get("search") === findTopic("Fitness").queries[0]
+      && url.searchParams.get("sort") === "relevance_score:desc") {
+      return { ok: false, status: 503, async text() { return ""; } };
+    }
+    return { ok: true, async text() { return JSON.stringify({ results: [work()] }); } };
+  };
+  try {
+    const result = await collectTopicPapers("Fitness", { now: NOW, limit: 10 });
+    assert.equal(calls, 4);
+    assert.equal(result.providerStatus, "partial");
     assert.equal(result.papers.length, 1);
-    assert.equal(result.papers[0].freshness_verified, true);
   } finally {
     global.fetch = originalFetch;
   }

@@ -4,18 +4,48 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Research topics · Learnify</title>
-<meta name="description" content="Recent credible research across 23 exact Learnify topics.">
+<meta name="description" content="The best research in the world across 23 exact Learnify topics, ranked from OpenAlex and Google Scholar.">
 <link rel="stylesheet" href="/app/app.css">
 <style>
-  .research-wrap{max-width:1120px;margin:0 auto;padding:34px 24px 80px}.research-head{max-width:760px}
-  .research-head h1{font-size:42px;margin:0 0 8px}.research-head p{color:var(--ink-3);margin:0 0 22px}
-  .topic-list{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:30px}.topic-list button{border:1px solid var(--line);background:var(--surface);color:var(--ink-2);border-radius:999px;padding:8px 13px;font:inherit;font-size:13px;font-weight:700;cursor:pointer}
+  .research-wrap{max-width:1180px;margin:0 auto;padding:34px 24px 80px}.research-head{max-width:820px}
+  .research-head h1{font-size:42px;margin:0 0 8px}.research-head p{color:var(--ink-3);margin:0 0 18px;line-height:1.6}
+  .rank-switch{display:inline-flex;gap:4px;padding:4px;background:var(--surface);border:1px solid var(--line);border-radius:999px;margin-bottom:22px}
+  .rank-switch button{border:0;background:transparent;color:var(--ink-3);border-radius:999px;padding:8px 16px;font:inherit;font-size:13px;font-weight:800;cursor:pointer}
+  .rank-switch button[aria-pressed="true"]{background:var(--accent);color:var(--cta-ink)}
+  .rank-note{display:block;font-size:12.5px;color:var(--ink-4);margin:-12px 0 22px;max-width:760px;line-height:1.55}
+  .topic-list{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:26px}
+  .topic-list button{border:1px solid var(--line);background:var(--surface);color:var(--ink-2);border-radius:999px;padding:8px 13px;font:inherit;font-size:13px;font-weight:700;cursor:pointer}
   .topic-list button:hover,.topic-list button.active{background:var(--accent);color:var(--cta-ink);border-color:var(--accent)}
   .feed-state{padding:34px;text-align:center;color:var(--ink-3)}.feed-state b{color:var(--ink)}
+  .provenance{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 16px}
+  .provenance .pill{background:var(--elevated);border:1px solid var(--line);color:var(--ink-3)}
+  .provenance .pill b{color:var(--ink-2)}
   .paper-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
-  .paper{padding:18px;display:flex;flex-direction:column;gap:10px;min-height:250px}.paper h2{font-size:17px;line-height:1.35;margin:0}.paper p{font-size:13.5px;color:var(--ink-3);margin:0}
-  .paper-meta{font-size:12px;color:var(--ink-4);font-weight:700}.source-link{font-size:12px;font-weight:800;color:var(--blue);margin-top:auto}.provider-note{display:block;margin:4px 0 12px;color:var(--amber)}
-  .retry{margin-top:14px}@media(max-width:820px){.paper-grid{grid-template-columns:1fr}.research-head h1{font-size:32px}}
+  .paper{display:flex;flex-direction:column;overflow:hidden}
+  .paper-body{padding:18px 18px 14px;display:flex;flex-direction:column;gap:10px;flex:1}
+  .paper-top{display:flex;align-items:center;gap:9px;font-size:11.5px;font-weight:800;color:var(--ink-4);text-transform:uppercase;letter-spacing:.4px}
+  .rank-badge{display:inline-flex;align-items:center;justify-content:center;min-width:26px;height:22px;padding:0 6px;border-radius:7px;background:var(--elevated);border:1px solid var(--line);color:var(--ink-2);font-size:12px;letter-spacing:0}
+  .paper.top1 .rank-badge{background:var(--amber-bg);border-color:var(--amber);color:var(--amber)}
+  .paper.top3 .rank-badge{background:var(--blue-50);border-color:var(--blue-500);color:var(--ink)}
+  .paper h2{font-size:16.5px;line-height:1.36;margin:0}
+  .paper p{font-size:13.5px;color:var(--ink-3);margin:0;line-height:1.55}
+  .score{margin-top:auto;display:flex;align-items:center;gap:9px;font-size:11.5px;font-weight:800;color:var(--ink-4)}
+  .score-bar{flex:1;height:5px;border-radius:999px;background:var(--line);overflow:hidden}
+  .score-bar i{display:block;height:100%;border-radius:999px;background:linear-gradient(90deg,var(--indigo),var(--purple))}
+  .paper-meta{font-size:12px;color:var(--ink-4);font-weight:700;display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+  .paper-meta .dot{opacity:.5}
+  .cites{color:var(--green)}
+  .prov{display:inline-flex;gap:4px}
+  .prov span{background:var(--elevated);border:1px solid var(--line);border-radius:5px;padding:1px 6px;font-size:10.5px;font-weight:800;color:var(--ink-3)}
+  .prov span.corroborated{border-color:var(--green);color:var(--green)}
+  .source-link{font-size:12.5px;font-weight:800;color:var(--blue)}
+  .paper-foot{display:flex;gap:14px;padding:11px 18px;border-top:1px solid var(--line-2);background:rgba(255,255,255,.02)}
+  .paper-foot a{font-size:11.5px;font-weight:800;color:var(--ink-4)}.paper-foot a:hover{color:var(--ink-2)}
+  .paper-foot a.oa{color:var(--green)}
+  .provider-note{display:block;margin:4px 0 12px;color:var(--amber)}
+  .retry{margin-top:14px}
+  @media(max-width:1000px){.paper-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+  @media(max-width:720px){.paper-grid{grid-template-columns:1fr}.research-head h1{font-size:32px}}
 </style>
 <script type="module" src="/app/analytics.js"></script>
 </head>
@@ -24,11 +54,18 @@
 <main class="research-wrap">
   <section class="research-head">
     <h1>Research by topic</h1>
-    <p>OpenAlex-indexed research papers from reputable journals and publishers, limited to a verified rolling two-year window. OpenAlex supplies metadata and abstracts. When Europe PMC verifies a supported open license, Learnify can also show the paper body; the source link always remains available.</p>
+    <p><b>Best in the world</b> merges two independent indexes: OpenAlex, restricted to DOI-bearing articles in core journals inside a verified rolling two-year window, and Google Scholar, which reaches conference proceedings, repositories and non-English venues that no keyless index covers, and reports a live citation count. Papers are ordered by citations per year, recency, venue, cross-provider corroboration and whether you can actually open them. Learnify shows metadata and links to the source; when Europe PMC verifies a supported open license it can also show the paper body.</p>
+    <div class="rank-switch" role="group" aria-label="Ranking">
+      <button type="button" data-rank="world" aria-pressed="true">🌍 Best in the world</button>
+      <button type="button" data-rank="recent" aria-pressed="false">🆕 Newest first</button>
+    </div>
+    <span id="rankNote" class="rank-note"></span>
   </section>
   <nav id="topics" class="topic-list" aria-label="Research topics"></nav>
   <section>
-    <div class="section-head"><h2 id="feedTitle">Latest research</h2><span id="cutoff" class="muted"></span></div><span id="notice" class="provider-note" aria-live="polite"></span>
+    <div class="section-head"><h2 id="feedTitle">Latest research</h2><span id="cutoff" class="muted"></span></div>
+    <div id="provenance" class="provenance"></div>
+    <span id="notice" class="provider-note" aria-live="polite"></span>
     <div id="state" class="card feed-state">Loading recent papers…</div>
     <div id="papers" class="paper-grid" hidden></div>
   </section>
@@ -36,40 +73,119 @@
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 <script src="/app/app.js"></script>
 <script type="module">
-import { TOPIC_NAMES, isWithinRollingWindow } from "/lib/topics.js";
+import { TOPIC_NAMES, isWithinRollingWindow, rollingCutoff } from "/lib/topics.js";
 
 const T = window.TS;
 const esc = T.esc;
 const params = new URLSearchParams(location.search);
 let selected = TOPIC_NAMES.includes(params.get("topic")) ? params.get("topic") : TOPIC_NAMES[0];
+let rank = params.get("rank") === "recent" ? "recent" : "world";
 const user = await T.getUserOptional();
 const profile = await T.loadProfile(user);
 T.renderNav("Research", profile);
+
+const RANK_NOTES = {
+  world: "Ranked, not sorted. Every paper carries the score that placed it there, so the order is inspectable rather than editorial.",
+  recent: "Strict newest-first from the OpenAlex core-journal tier only. Exact publication dates, no Scholar tier, no ranking.",
+};
+
+function syncUrl() {
+  const url = new URL(location.href);
+  url.searchParams.set("topic", selected);
+  url.searchParams.set("rank", rank);
+  history.replaceState(null, "", url);
+}
 
 function paintTopics() {
   const host = document.getElementById("topics");
   host.innerHTML = TOPIC_NAMES.map((topic) => `<button type="button" class="${topic === selected ? "active" : ""}" aria-pressed="${topic === selected}" data-topic="${esc(topic)}">${esc(topic)}</button>`).join("");
   host.querySelectorAll("button").forEach((button) => button.onclick = () => {
     selected = button.dataset.topic;
-    const url = new URL(location.href);
-    url.searchParams.set("topic", selected);
-    history.replaceState(null, "", url);
+    syncUrl();
     T.track("filter_applied", { filter_kind: "topic", surface: "research" });
     paintTopics();
     loadFeed();
   });
 }
 
-function paperCard(paper) {
-  const target = `/app/article.html?paper=${encodeURIComponent(paper.id)}&topic=${encodeURIComponent(selected)}`;
-  const provider = paper.source_label || paper.publisher || paper.provider || "OpenAlex";
-  return `<a class="card paper" href="${esc(target)}">
-    <div class="paper-meta">${esc(paper.content_type_label || "Research paper")} · ${esc(provider)}</div>
-    <h2>${esc(paper.title)}</h2>
-    <p>${esc(paper.summary || "No abstract is available; open the source for details.")}</p>
-    <div class="paper-meta">${paper.published ? esc(new Date(paper.published).toLocaleDateString()) : ""}${paper.citations ? ` · ${paper.citations} citations` : ""}</div>
-    <div class="source-link">Read in Learnify →</div>
-  </a>`;
+function paintRank() {
+  document.getElementById("rankNote").textContent = RANK_NOTES[rank];
+  document.querySelectorAll(".rank-switch button").forEach((button) => {
+    button.setAttribute("aria-pressed", String(button.dataset.rank === rank));
+    button.onclick = () => {
+      if (rank === button.dataset.rank) return;
+      rank = button.dataset.rank;
+      syncUrl();
+      T.track("filter_applied", { filter_kind: "rank", surface: "research" });
+      paintRank();
+      loadFeed();
+    };
+  });
+}
+
+// Defense in depth, mirroring the server gate. OpenAlex papers carry an exact
+// date and must pass the rolling-window check. Google Scholar reports a YEAR,
+// so a year-precision paper is accepted only if the whole year sits at or after
+// the cutoff year. A record with neither is dropped rather than displayed.
+function isEligible(paper) {
+  if (paper.topic !== selected || paper.content_type !== "paper") return false;
+  if (paper.freshness_verified === true) return isWithinRollingWindow(paper.published);
+  if (rank !== "world") return false;
+  const cutoffYear = rollingCutoff(new Date()).getUTCFullYear();
+  return Number.isInteger(paper.published_year)
+    && paper.published_year >= cutoffYear
+    && paper.published_year <= new Date().getUTCFullYear() + 1;
+}
+
+function whenLabel(paper) {
+  if (paper.published) return new Date(paper.published).toLocaleDateString();
+  return paper.published_year ? String(paper.published_year) : "";
+}
+
+function paperCard(paper, index) {
+  const target = `/app/article.html?paper=${encodeURIComponent(paper.id)}&topic=${encodeURIComponent(selected)}&rank=${encodeURIComponent(rank)}`;
+  const provider = paper.venue || paper.source_label || paper.publisher || paper.provider || "OpenAlex";
+  const providers = Array.isArray(paper.providers) && paper.providers.length ? paper.providers : [paper.provider].filter(Boolean);
+  const corroborated = providers.length > 1;
+  const when = whenLabel(paper);
+  const score = Number.isFinite(paper.world_score) ? paper.world_score : null;
+  const perYear = paper.score_breakdown?.citations_per_year;
+  const tier = index === 0 ? "top1" : index < 3 ? "top3" : "";
+  return `<article class="card paper ${tier}">
+    <a class="paper-body" href="${esc(target)}">
+      <div class="paper-top">
+        ${rank === "world" ? `<span class="rank-badge">#${index + 1}</span>` : ""}
+        <span>${esc(paper.content_type_label || "Research paper")} · ${esc(provider)}</span>
+      </div>
+      <h2>${esc(paper.title)}</h2>
+      <p>${esc(paper.summary || "No abstract is available; open the source for details.")}</p>
+      ${score === null ? "" : `<div class="score" title="Citations per year, recency, venue, cross-provider corroboration and open access">
+        <span>SCORE</span><span class="score-bar"><i style="width:${Math.max(3, score)}%"></i></span><span>${score}</span>
+      </div>`}
+      <div class="paper-meta">
+        ${when ? `<span>${esc(when)}</span>` : ""}
+        ${paper.citations ? `<span class="dot">·</span><span class="cites">${paper.citations.toLocaleString()} citations${perYear ? ` (${perYear}/yr)` : ""}</span>` : ""}
+        <span class="dot">·</span>
+        <span class="prov">${providers.map((name) => `<span class="${corroborated ? "corroborated" : ""}">${esc(name)}</span>`).join("")}</span>
+      </div>
+      <div class="source-link">Read in Learnify →</div>
+    </a>
+    <div class="paper-foot">
+      ${paper.open_access_pdf ? `<a class="oa" href="${esc(paper.open_access_pdf)}" target="_blank" rel="noopener nofollow">Open-access PDF ↗</a>` : ""}
+      <a href="${esc(paper.canonical_url || paper.url)}" target="_blank" rel="noopener nofollow">Source ↗</a>
+    </div>
+  </article>`;
+}
+
+function paintProvenance(data) {
+  const host = document.getElementById("provenance");
+  if (rank !== "world" || !Array.isArray(data.sources) || !data.sources.length) { host.innerHTML = ""; return; }
+  const chips = data.sources.map((source) => {
+    const age = source.snapshot_at ? ` · ${T.timeAgo ? T.timeAgo(source.snapshot_at) : new Date(source.snapshot_at).toLocaleDateString()}` : "";
+    const via = source.via && source.via !== "direct" ? ` via ${esc(source.via)}` : "";
+    return `<span class="pill"><b>${esc(source.provider)}</b>${via} · ${source.count} candidates${esc(age)}</span>`;
+  });
+  host.innerHTML = chips.join("");
 }
 
 async function loadFeed() {
@@ -80,26 +196,28 @@ async function loadFeed() {
   state.hidden = false;
   state.textContent = "Loading recent papers…";
   notice.textContent = "";
+  document.getElementById("provenance").innerHTML = "";
   grid.hidden = true;
   try {
-    const response = await fetch(`/api/research?topic=${encodeURIComponent(selected)}&limit=24&sort=recent`);
+    const query = rank === "world"
+      ? `/api/research?topic=${encodeURIComponent(selected)}&limit=24&rank=world`
+      : `/api/research?topic=${encodeURIComponent(selected)}&limit=24&sort=recent`;
+    const response = await fetch(query);
     if (!response.ok) throw new Error("request");
     const data = await response.json();
     if (data.topic !== selected) throw new Error("topic_mismatch");
     if (data.cutoff) document.getElementById("cutoff").textContent = `Since ${new Date(data.cutoff).toLocaleDateString()}`;
-    if (data.provider_status === "partial") notice.textContent = "OpenAlex returned a partial response; results may be incomplete.";
-    const papers = (Array.isArray(data.papers) ? data.papers : []).filter((paper) =>
-      paper.topic === selected && paper.content_type === "paper" && paper.freshness_verified === true &&
-      isWithinRollingWindow(paper.published)
-    );
+    if (data.provider_status === "partial") notice.textContent = "One provider returned a partial response; results may be incomplete.";
+    const papers = (Array.isArray(data.papers) ? data.papers : []).filter(isEligible);
     if (!papers.length) {
       state.innerHTML = `<b>No recent papers found.</b><br>The provider returned no eligible, dated results for this topic. Try another topic or check again later.`;
       return;
     }
+    paintProvenance(data);
     grid.innerHTML = papers.map(paperCard).join("");
     grid.hidden = false;
     state.hidden = true;
-    grid.querySelectorAll("a").forEach((link) => link.addEventListener("click", () => T.track("article_selected", { surface: "research" })));
+    grid.querySelectorAll(".paper-body").forEach((link) => link.addEventListener("click", () => T.track("article_selected", { surface: "research" })));
   } catch {
     T.track("content_load_failed", { resource: "research", fallback: "none" });
     state.innerHTML = `<b>Research could not be loaded.</b><br>The provider may be temporarily unavailable.<br><button type="button" class="btn retry">Try again</button>`;
@@ -107,6 +225,7 @@ async function loadFeed() {
   }
 }
 
+paintRank();
 paintTopics();
 loadFeed();
 </script>

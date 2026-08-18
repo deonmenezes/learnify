@@ -280,6 +280,55 @@ Exact-topic requests use focused OpenAlex searches restricted to DOI-bearing cor
 
 The server rejects missing, malformed, stale, future, retracted, paratext, non-article, and off-topic provider records at normalization time. Topic-provider failure returns HTTP 502 and never falls back to bundled or mock research. See [DATA_SOURCES.md](DATA_SOURCES.md).
 
+### World-ranked lane: `?topic=<label>&rank=world`
+
+`rank=world` is topic-only and opts into a merged, ranked result instead of a
+single-provider sorted one. It combines the strict OpenAlex core-journal tier
+with a Google Scholar tier collected by `scripts/snapshot-scholar.mjs` through
+Apify and served from the committed `scholar-snapshot.json`. **The request path
+never calls Apify**, so response latency and cost are unaffected by the Scholar
+tier being present.
+
+Ordering comes from `lib/world-rank.js`: citations per year (log-scaled),
+recency, venue prestige, cross-provider corroboration, and whether the paper is
+actually openable. Ties break on citations, then title, so the order is total
+and stable across refreshes.
+
+Additional response fields on this lane:
+
+| Field | Meaning |
+|---|---|
+| `world_ranked` | `true` for this lane, `false` otherwise |
+| `sources[]` | `{ provider, via, count, snapshot_at }` per contributing tier |
+| `rank_weights` | the exact weights used, so the ordering is auditable |
+| `scholar_snapshot` | `{ generated_at, actor, count, topic_count }` or `null` |
+
+Additional per-paper fields (all additive and optional; absent on other lanes,
+and safely ignored by existing iOS decoders):
+
+| Field | Meaning |
+|---|---|
+| `world_rank` / `world_score` | 1-based position and the 0–100 score behind it |
+| `score_breakdown` | `impact`, `recency`, `venue`, `corroboration`, `access`, `citations_per_year` |
+| `providers[]` | every provider that independently surfaced this paper |
+| `published_year` / `date_precision` | Scholar reports a year, not a date: `date_precision` is `"year"` and `published` is `null` |
+| `venue`, `authors`, `host_domain` | parsed publication metadata |
+| `open_access_pdf` | publisher-hosted PDF link, or `null` |
+| `provider_via` | `"Apify"` for the Scholar tier |
+
+Scholar-tier papers always report `freshness_verified: false` and
+`rights_status: "unknown_or_restricted"`: Scholar is a metadata index, so it
+cannot verify a publication day or grant redistribution rights. Only the
+Europe PMC path in `/api/content` can do the latter.
+
+If OpenAlex fails but the Scholar snapshot has papers, the lane returns HTTP 200
+with `provider_status: "partial"`. It returns HTTP 502 only when both tiers are
+empty. Requests without `rank=world` behave exactly as before.
+
+```bash
+curl -fsS 'https://<host>/api/research?topic=AI%20%2F%20ML&rank=world&limit=10'
+```
+
 
 ---
 

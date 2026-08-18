@@ -86,11 +86,16 @@
   const id = params.get("id");
   const paperId = params.get("paper");
   const paperTopic = params.get("topic");
+  // Carry the ranking lane through the detail route: a paper that only exists in
+  // the world-ranked lane (Google Scholar tier) is not in the strict recent
+  // response, so opening it from there would 404 into "not found".
+  const paperRank = params.get("rank") === "world" ? "world" : "recent";
   let arts = [];
   let a = null;
   if (paperId && paperTopic) {
     try {
-      const response = await fetch(`/api/research?topic=${encodeURIComponent(paperTopic)}&limit=50&sort=recent`);
+      const lane = paperRank === "world" ? "rank=world" : "sort=recent";
+      const response = await fetch(`/api/research?topic=${encodeURIComponent(paperTopic)}&limit=50&${lane}`);
       if (!response.ok) throw new Error("research_unavailable");
       const data = await response.json();
       if (data.topic !== paperTopic) throw new Error("topic_mismatch");
@@ -231,7 +236,7 @@
   // related
   T.$("#related").innerHTML = arts.filter(x=>T.articleId(x)!==T.articleId(a)).slice(0,4).map(r=>{
     const ri=(r.media_url&&r.media_kind!=="poster")?r.media_url:""; const rc=T.catMeta(T.catFor(r));
-    const detailHref = paperId ? `/app/article.html?paper=${encodeURIComponent(T.articleId(r))}&topic=${encodeURIComponent(paperTopic)}` : `/app/article.html?id=${encodeURIComponent(T.articleId(r))}`;
+    const detailHref = paperId ? `/app/article.html?paper=${encodeURIComponent(T.articleId(r))}&topic=${encodeURIComponent(paperTopic)}&rank=${encodeURIComponent(paperRank)}` : `/app/article.html?id=${encodeURIComponent(T.articleId(r))}`;
     return `<a class="rel" href="${detailHref}"><img src="${esc(ri)}" onerror="this.style.visibility='hidden'"><div><b>${esc(r.title)}</b><br><span>${T.readMins(r)} min · ${rc.short}</span></div></a>`;
   }).join("");
 

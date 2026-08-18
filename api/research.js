@@ -9,7 +9,12 @@
 //   genre     filter by fine-grained genre (e.g. "Fitness", "Skincare",
 //             "Finance", "Nutrition", "Mind & Psychology", "Space")
 //   limit     max papers (default all)
-//   sort      "trending" (default, by momentum) | "citations" | "recent"
+//   sort      "recent" (default, newest first) | "trending" | "citations"
+//   rank      "world" opts a TOPIC request into the world-ranked lane: the
+//             strict OpenAlex tier merged with the Google Scholar tier (fetched
+//             by scripts/snapshot-scholar.mjs through Apify, served from the
+//             committed snapshot) and ordered by lib/world-rank.js. Absent or
+//             any other value keeps the exact legacy behaviour.
 //
 // Response: { generated_at, count, papers: [
 //   { id, title, org, category, genre, summary, citations, trend, url,
@@ -24,9 +29,11 @@
 // CORS open. Edge-cached ~30m with stale-while-revalidate so it stays fresh + fast.
 
 import { readFileSync } from "node:fs";
-import { collectPapers, collectTopicPapers } from "../lib/papers.js";
+import { collectPapers, collectTopicPapers, sortPapersNewestFirst } from "../lib/papers.js";
 import { isRelevantRaw } from "../lib/research-shared.js";
 import { TOPIC_NAMES, findTopic, rollingCutoff } from "../lib/topics.js";
+import { scholarPapersForTopic, scholarSnapshotMeta } from "../lib/scholar-snapshot.js";
+import { mergePapers, rankWorld, RANK_WEIGHTS } from "../lib/world-rank.js";
 
 // Precomputed per-paper enrichment (headline/hook/cover) from scripts/enrich.mjs.
 // Same readFileSync-try/catch convention as the enriched.json article cache —
@@ -199,10 +206,29 @@ function toResearch(p, enr, base) {
     content_endpoint: p.content_endpoint || null,
     pmcid: p.pmcid || null,
     pmid: p.pmid || null,
+    // World-lane additions. All ADDITIVE and all optional: the iOS decoders
+    // ignore unknown keys, and a legacy (non-world) response simply omits them.
+    published_year: Number.isInteger(p.published_year) ? p.published_year : null,
+    date_precision: p.date_precision || (p.published ? "day" : null),
+    venue: p.venue || p.publisher || null,
+    authors: p.authors || null,
+    host_domain: p.host_domain || null,
+    open_access_pdf: p.open_access_pdf || null,
+    provider_via: p.provider_via || null,
+    providers: Array.isArray(p.providers) ? p.providers : null,
+    world_score: Number.isFinite(p.world_score) ? p.world_score : null,
+    world_rank: Number.isFinite(p.world_rank) ? p.world_rank : null,
+    score_breakdown: p.score_breakdown || null,
   };
 }
 
 function str(v) { return (Array.isArray(v) ? v[0] : v || "").toString().trim(); }
+
+// Keep this API-named wrapper explicit: every default/`recent` response uses the
+// same strict, stable ordering that collector limits use.
+export function sortRecentPapers(papers) {
+  return sortPapersNewestFirst(papers);
+}
 
 export default async function handler(req, res) {
   res.setHeader("Access-Control-Allow-Origin", "*");
@@ -225,6 +251,9 @@ export default async function handler(req, res) {
   // Default to FRESH (newest-first). The app requests sort=recent; "trending"
   // (most-cited) is opt-in only, since most-cited skews old + medical.
   const sort = str(req.query?.sort) || "recent";
+  // The world lane is TOPIC-only: it merges the strict per-topic OpenAlex pool
+  // with the per-topic Scholar snapshot, and neither has a meaning without one.
+  const worldRanked = topic !== null && str(req.query?.rank).toLowerCase() === "world";
   const limit = topic ? topicLimit : requestedLimit;
 
   // Absolute origin for cover-image URLs — built exactly like api/articles.js.
@@ -234,8 +263,40 @@ export default async function handler(req, res) {
 
   let papers = [];
   let providerStatus = "ok";
+  let sources = [];
+  let scholarMeta = null;
   try {
-    if (topic) {
+    if (worldRanked) {
+      // Read the Scholar tier FIRST: it is a synchronous local read that cannot
+      // fail the request, so if OpenAlex is down the lane still has an answer.
+      const scholarPapers = scholarPapersForTopic(topic.name, { now, limit: 60 });
+      scholarMeta = scholarSnapshotMeta();
+      let openAlexPapers = [];
+      let openAlexFailed = false;
+      try {
+        // Pull a deeper OpenAlex pool than the caller asked for: ranking only
+        // beats sorting if it has more candidates than slots to fill.
+        const result = await collectTopicPapers(topic.name, { now, limit: Math.min(50, Math.max(topicLimit, 40)) });
+        providerStatus = result.providerStatus;
+        openAlexPapers = result.papers;
+      } catch { openAlexFailed = true; }
+
+      if (openAlexFailed && !scholarPapers.length) {
+        res.setHeader("Cache-Control", "no-store");
+        return res.status(502).json({ error: "Research provider unavailable", topic: topic.name, topics: TOPIC_NAMES });
+      }
+      if (openAlexFailed) providerStatus = "partial";
+
+      // OpenAlex first so a paper both providers found keeps the DOI-verified
+      // identity, link and rights metadata; Scholar contributes its citation
+      // count, venue, PDF link and the corroboration signal.
+      const merged = mergePapers([openAlexPapers, scholarPapers], { now });
+      papers = rankWorld(merged, { now }).map((paper) => toResearch(paper, null, base));
+      sources = [
+        ...(openAlexPapers.length ? [{ provider: "OpenAlex", via: "direct", count: openAlexPapers.length }] : []),
+        ...(scholarPapers.length ? [{ provider: "Google Scholar", via: "Apify", count: scholarPapers.length, snapshot_at: scholarMeta?.generated_at || null }] : []),
+      ];
+    } else if (topic) {
       const result = await collectTopicPapers(topic.name, { now, limit: topicLimit });
       providerStatus = result.providerStatus;
       papers = result.papers.map((paper) => toResearch(paper, null, base));
@@ -255,11 +316,12 @@ export default async function handler(req, res) {
 
   if (category) papers = papers.filter((p) => p.category.toLowerCase() === category);
   if (genre) papers = papers.filter((p) => (p.genre || "").toLowerCase() === genre);
-  papers.sort((a, b) => {
-    if (sort === "citations") return b.citations - a.citations;
-    if (sort === "trending") return b.trend - a.trend;
-    return (b.published || "").localeCompare(a.published || "");
-  });
+  // rankWorld already produced a total, stable ordering (score, then citations,
+  // then title). Re-sorting here would silently discard it.
+  if (worldRanked) { /* keep the world ranking */ }
+  else if (sort === "citations") papers.sort((a, b) => b.citations - a.citations);
+  else if (sort === "trending") papers.sort((a, b) => b.trend - a.trend);
+  else papers = sortRecentPapers(papers);
   if (!Number.isNaN(limit)) papers = papers.slice(0, Math.max(0, limit));
 
   return res.status(200).json({
@@ -269,7 +331,10 @@ export default async function handler(req, res) {
     topic: topic?.name || null,
     topics: TOPIC_NAMES,
     cutoff: rollingCutoff(now).toISOString(),
-    provider: topic ? "OpenAlex" : "arXiv and OpenAlex",
+    provider: worldRanked ? "OpenAlex and Google Scholar" : topic ? "OpenAlex" : "arXiv and OpenAlex",
     provider_status: providerStatus,
+    rank: worldRanked ? "world" : sort,
+    world_ranked: worldRanked,
+    ...(worldRanked ? { sources, rank_weights: RANK_WEIGHTS, scholar_snapshot: scholarMeta } : {}),
   });
 }
