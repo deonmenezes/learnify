@@ -158,6 +158,7 @@
       <a class="logo" href="/app/"><span class="ts">L</span> Learnify</a>
       <nav class="nav-links">${links.map(([n, h]) => `<a href="${h}" class="${n === active ? "active" : ""}">${n}</a>`).join("")}</nav>
       <div class="nav-right">
+        <button type="button" class="nav-brief" id="navBrief" title="Play today's narrated research briefing">🎧 Daily brief</button>
         <a class="nav-search" href="/app/?focus=1"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="11" cy="11" r="7"/><path d="m21 21-4-4"/></svg> Search</a>
         ${guest ? "" : `<span class="streak-pill"><span class="fl">🔥</span> ${profile.streak || 0}-Day Streak</span>`}
         ${guest

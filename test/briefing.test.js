@@ -178,13 +178,37 @@ test("the committed briefing audio matches its manifest", () => {
   assert.ok(!/sk_[A-Za-z0-9]{20,}/.test(JSON.stringify(manifest)), "manifest must not carry a credential");
 });
 
-test("the research page hides the player rather than showing an empty one", () => {
-  const html = readFileSync(new URL("../app/research.html", import.meta.url), "utf8");
-  assert.ok(html.includes("/api/briefing"));
-  assert.ok(html.includes("briefingChapters"));
-  assert.ok(html.includes("Read the transcript"));
-  assert.ok(html.includes('class="card briefing"'));
-  assert.ok(html.includes('classList.add("on")'), "the card must opt IN only after data loads");
+test("the briefing is reachable from every app page and costs nothing until asked", () => {
+  const player = readFileSync(new URL("../app/briefing.js", import.meta.url), "utf8");
+  assert.ok(player.includes("/api/briefing"));
+  assert.ok(player.includes("Read the transcript"));
+  assert.ok(player.includes("briefChapters"));
+  // The fetch must be lazy: a page load may not download a multi-megabyte MP3
+  // for a reader who never asked for it.
+  // Top-level (column 0) call only; the indented one inside openBriefing() is
+  // exactly where it belongs.
+  assert.ok(!/^load\(\)/m.test(player), "the briefing must not fetch at module scope");
+  assert.match(player, /export function openBriefing[\s\S]*?\n {2}load\(\);/, "opening the dialog is what triggers the fetch");
+  assert.ok(player.includes("if (loaded) return"), "the briefing must be fetched once, on demand");
+  // Three distinct states, because they mean three different things.
+  assert.ok(player.includes("No briefing has been generated yet"));
+  assert.ok(player.includes("could not be loaded"));
+  // Closing must stop playback.
+  assert.ok(player.includes('addEventListener("close"'));
+
+  // The button ships in the shared nav, so it is on every page that renders one.
+  const app = readFileSync(new URL("../app/app.js", import.meta.url), "utf8");
+  assert.ok(app.includes('id="navBrief"'), "the nav must carry the Daily brief button");
+  assert.ok(app.includes("Daily brief"));
+
+  for (const page of ["index.html", "research.html", "saved.html", "learn.html", "article.html"]) {
+    const html = readFileSync(new URL(`../app/${page}`, import.meta.url), "utf8");
+    assert.ok(html.includes("/app/briefing.js"), `${page} must mount the briefing module`);
+  }
+  // The Research page also offers a direct call to action.
+  const research = readFileSync(new URL("../app/research.html", import.meta.url), "utf8");
+  assert.ok(research.includes("data-open-briefing"));
+  assert.ok(research.includes("Play today's briefing"));
 });
 
 test("no ElevenLabs credential is hardcoded in the shipped source", () => {
