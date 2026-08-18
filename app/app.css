@@ -53,6 +53,7 @@ img{max-width:100%;display:block}
 .nav-links a.active{color:#fff}
 .nav-links a.active::after{content:"";position:absolute;left:12px;right:12px;bottom:-13px;height:2.5px;background:var(--accent);border-radius:2px}
 .nav-right{margin-left:auto;display:flex;align-items:center;gap:12px}
+.ico{margin-right:.4em;font-style:normal}
 .nav-brief{display:inline-flex;align-items:center;gap:6px;color:var(--ink-2);background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:8px 12px;font:inherit;font-size:13.5px;font-weight:700;cursor:pointer;transition:.15s}
 .nav-brief:hover{border-color:var(--indigo);color:var(--ink)}
 .brief-dialog{width:min(680px,calc(100vw - 32px));max-height:min(82vh,760px);padding:0;border:1px solid var(--line);border-radius:var(--r-lg);background:var(--surface);color:var(--ink);box-shadow:var(--sh-lg);overflow:auto}

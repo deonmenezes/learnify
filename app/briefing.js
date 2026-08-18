@@ -24,7 +24,7 @@ function ensureDialog() {
   dialog.innerHTML = `
     <div class="brief-head">
       <div>
-        <h2>🎧 Today's research briefing</h2>
+        <h2><span class="ico">🎧</span>Today's research briefing</h2>
         <span class="brief-meta" id="briefMeta"></span>
       </div>
       <button type="button" class="brief-close" id="briefClose" aria-label="Close">✕</button>
